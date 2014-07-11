@@ -1,6 +1,6 @@
 [submodule "plugins"]
 	path = plugins
-	url = https://github.com/getpelican/pelican-plugins.git
-[submodule "themes/VIANNA"]
-	path = themes/VIANNA
+	url = https://github.com/samueljohn/pelican-plugins.git
+[submodule "themes/VIANNA-theme"]
+	path = themes/VIANNA-theme
 	url = https://github.com/DandyDev/pelican-bootstrap3.git
