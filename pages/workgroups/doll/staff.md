@@ -1,11 +1,11 @@
 ##Biomaterial Engineering
 
-**Head of research group**   
-
-Prof. Dr.-Ing. Theodor Doll		|		doll.theodor(@)mh-hannover.de
-
--------------------------------------------------
-**Team Assistent**
+**Head of research group**   															
+																						
+Prof. Dr.-Ing. Theodor Doll		|		doll.theodor(@)mh-hannover.de	
+														
+----------------------------------------------------------------------------------------
+**Team Assistent**																		
 
 Bettina Goede					|		goede.bettina(@)mh-hannover.de
 
@@ -32,4 +32,6 @@ Sven Meinen						|		meinen.sven(@)mh-hannover.de
 Eugen Stockburger				|		stockburger.eugen(@)mh-hannover.de
 
  
+
+
 
