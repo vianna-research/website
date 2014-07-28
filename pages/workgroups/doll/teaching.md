@@ -14,6 +14,8 @@ Tutorials include researching and exercises about biofunctionality which are dis
 
 **Language:** German
 
+**Contact:** 
+
 **Location:**  LUH, Institute for Multiphase Processing, Callinstraße 36
 
 
@@ -23,9 +25,22 @@ Nanotechnologie in der Medizin
 
 **Content:**
 
+"Nano" has been one of the most used buzz words in the last decade. Lots has been promised and many useful things habe been developed. Many ideas, however, that have already stimulated the "microsystem" decade, have been revived like Heuberger's submarine: This would remove plaque from the inner side of blood vessels and went "nano" - still promised by serious researchers.    
+ 
+The course "Nanotechnology in Medicine" wants to review all nano-developments that found interest in medicine in a critical way. A review is given on current developements in this specific science. The technical topics will comprise the mecial use of nanomaterials:
+
+* Diagnostic and medical devices
+* Neuro-electronic interfaces woth both refueling strategies
+* Medical applications of molecular nanotechnologiy as well as 
+* nanorobots and cell repair machines
+
+Based on this, we want to develop tools and techniques for the assessment of "nano" ideas in the terms of feasability. Techniques are learned for setting up research roadmaps with definition oc challenges and hurdles.
+
 **Date:** October 22nd-23rd
 
 **Language:** Englisch
+
+**Contact:**
 
 **Location:** MHH, Vianna,Feodor-Lynen-Str. 35, Conference Room
 
