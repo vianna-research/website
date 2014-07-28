@@ -1,14 +1,23 @@
-title: Biomaterial Engineering - AG Doll
+title: AG Doll - Biomaterial Engineering
 
 
-Workgroup
-==========
+**BILD**
 
 
-bla...
+Kurze Beschreibung der AG
 
-* first
-* second
-* third
+* Staff
+* Projects
+* Teaching
 
-text and moar text
+
+**Contact**
+
+Biomaterial Engineering    
+Medizinische Hochschule Hannover    
+Feodor-Lynen-Straße 27    
+30625 Hannover
+
+Phone: 0511 532 7231   
+Fax: 0511 532 ???   
+Mail: biomaterialengineering(@)mh-hannover.de

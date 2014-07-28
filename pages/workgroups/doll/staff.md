@@ -7,7 +7,7 @@ Prof. Dr.-Ing. Theodor Doll		|		doll.theodor(@)mh-hannover.de
 ----------------------------------------------------------------------------------------
 **Team Assistent**																		
 
-Bettina Goede					|		goede.bettina(@)mh-hannover.de
+![Image Bettina Goede](test.png)|Bettina Goede					|		goede.bettina(@)mh-hannover.de
 
 ---------------------------
 **Research team**
