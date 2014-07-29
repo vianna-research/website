@@ -8,4 +8,4 @@ Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incid
  
 **Contact:**  
 <Grossoehmichen.Martin@mh-hannover.de>  
-+49 (0)511 5327283, +49 (0)511 5327310
++49 (0)511 5327283
