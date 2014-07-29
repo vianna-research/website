@@ -6,4 +6,6 @@ Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incid
 ***
 
  
-**Contact:** <Ghoncheh.Mohammad@mh-hannover.de>	 | +49 (0)511 532–7235
+**Contact:**  
+<Ghoncheh.Mohammad@mh-hannover.de>  
++49 (0)511 532–7235
