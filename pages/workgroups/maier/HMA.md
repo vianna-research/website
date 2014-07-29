@@ -8,5 +8,5 @@ Lebenslauf: Studium der Physik und Mathematik an der Uni Gießen von 1979 bis 19
 ***
 
  
-**Contact:** <Maier.Hannes@mh-hannover.de> | +49 (0)511 532–7236, -8130
+**Contact:** <Maier.Hannes@mh-hannover.de> | +49 (0)511 532–7236, -8130  
 **Links:** http://www.hoerzentrum-hannover.de/index.php?id=20
