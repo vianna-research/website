@@ -28,8 +28,8 @@ Please contact [Dr. Aliuos](/staff/) for more information
 
 **EnFI 2014** - Engineering of functional interfaces
 
-* Poster: Functional gliding interface inside a mivro-structured polymer impant; S. Meinen, E. Stockburger, J. Stieghorst, M. Möller, T.Doll; 2014
-* Poster: Characterization and improvement of carbon nanotube - silicone rubber interdaces for neural implants; K.Tegtmeier, N.Burblies, T.Doll; 2014
+* Poster: Functional gliding interface inside a micro-structured polymer impant; S. Meinen, E. Stockburger, J. Stieghorst, M. Möller, T.Doll; 2014
+* Poster: Characterization and improvement of carbon nanotube - silicone rubber interfaces for neural implants; K.Tegtmeier, N.Burblies, T.Doll; 2014
 * Poster: Electrode-nerve interface: Enhancement of neural cell adhesion by means of CNT; P. Aliuos, A. Bondarenkova, J. McCaughey, J. Stieghorst, K.Tegtmeier, T. Doll; 2014
 * Poster: 3D silicone rubber interfaces in individually shaped neural implants; J-Stieghorst, J. McCaughey, T. Doll
 
