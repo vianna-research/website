@@ -6,4 +6,13 @@ Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incid
 ***
 
  
-**Contact:** <Grossoehmichen.Martin@mh-hannover.de> | +49 (0)511 532–7283, -7310
+**Contact:** 
+
+Medizinische Hochschule Hannover  
+Klinik für Hals-Nasen-Ohrenheilkunde  
+VIANNA  
+Feodor-Lynen-Str. 35  
+30625 Hannover  
+ 
+<Grossoehmichen.Martin@mh-hannover.de>  
++49 (0)511 532-7283

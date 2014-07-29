@@ -1,12 +1,12 @@
-##Implantable Middle Ear Hearing Devices 
+#Implantable Middle Ear Hearing Devices | Field of Work
 
-**Head of Research Group**   															
+###Head of Work Group   															
 																						
 [Prof. Dr. phil. nat. Hannes Maier](staff/HMA.html "Prof. Dr. phil. nat. Hannes Maier")	
 														
 ---
 
-**Research Team**
+###Research Team
 
 [Mohammad Ghoncheh](staff/MGH.html "Mohammad Ghoncheh")
 
@@ -14,7 +14,7 @@
  
 [Giorgio Lilli](staff/GLI.html "Giorgio Lilli")
 	
-[Mathias Müller ](staff/MMU.html "Mathias Müller ")
+[Mathias Müller](staff/MMU.html "Mathias Müller ")
 		
 [Rolf Salcher](staff/RSA.html "Rolf Salcher")
 

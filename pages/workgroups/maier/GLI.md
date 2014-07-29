@@ -1,4 +1,4 @@
-## Dr. Giorgio Lilli
+## Giorgio Lilli, M.D. Ph.D.
 ![Picture Giorgio Lilli](GLI.jpg) **Junior Physician** 
 
  
@@ -6,4 +6,11 @@ Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incid
 ***
 
  
-**Contact:** <Lilli.Giorgio@mh-hannover.de>
+**Contact:**  
+
+Medizinische Hochschule Hannover  
+Klinik für Hals-Nasen-Ohrenheilkunde  
+Carl-Neuberg-Str. 1  
+30625 Hannover  
+ 
+<Lilli.Giorgio@mh-hannover.de>
