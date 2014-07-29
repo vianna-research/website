@@ -9,9 +9,15 @@ Lebenslauf: Studium der Physik und Mathematik an der Uni Gießen von 1979 bis 19
 
  
 **Contact:**  
+
+Medizinische Hochschule Hannover  
+Klinik für Hals-Nasen-Ohrenheilkunde  
+Carl-Neuberg-Str. 1  
+30625 Hannover
+  
 <Maier.Hannes@mh-hannover.de>  
 +49 (0)511 532-7236, -8130  
-  
+*** 
 **Links:**   
 [Work Group "Middle Ear Implants" at the Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=20 "DHZ")  
 [Profile on ResearchGate](http://www.researchgate.net/profile/Hannes_Maier "Profil on ResearchGate")  

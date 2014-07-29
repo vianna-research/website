@@ -7,5 +7,12 @@ Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incid
 
  
 **Contact:**  
+
+Medizinische Hochschule Hannover  
+Klinik für Hals-Nasen-Ohrenheilkunde  
+Rotunde  
+Feodor-Lynen-Str. 27  
+30625 Hannover
+ 
 <Ghoncheh.Mohammad@mh-hannover.de>  
 +49 (0)511 532–7235
