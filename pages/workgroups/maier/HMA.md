@@ -13,5 +13,5 @@ Lebenslauf: Studium der Physik und Mathematik an der Uni Gießen von 1979 bis 19
 +49 (0)511 532–7236, -8130  
   
 **Links:**   
-[Work Group "Mittelohrimplantate" at the Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=20 "DHZ")
-
+[Work Group "Mittelohrimplantate" at the Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=20 "DHZ")  
+[Work Group "Mittelohrimplantate" at the Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=20 "DHZ")http://www.researchgate.net/profile/Hannes_Maier/publications/2
