@@ -1,13 +1,15 @@
-title: AG Doll - Biomaterial Engineering
+title: AG Doll - BioMaterial Engineering
 
 
 **BILD zur Forschung**
 
-The research group Biomaterial Engineering is included in the ExcellenceCluster Hearing4All. After   The research started in July 2013, when Prof. Doll came to the Department of Otorhinolaryngolgoy at the MHH to work on ..... 
+The research group BioMaterial Engineering works on development and production techniques for new electrode concepts for active implants in the head region. Concepts and materials from nanotechnology and microelectronic, especially polymers, polymer composites and polymer semi conductors, are used. Mechanoactive, individualised and biochemosensoric implants are realised. 
+
+More information about current projects can be found [here](/doll/projects).  
 
 **Contact Information:**
 
-Biomaterial Engineering    
+BioMaterial Engineering    
 Medizinische Hochschule Hannover    
 Feodor-Lynen-Straße 27    
 30625 Hannover
