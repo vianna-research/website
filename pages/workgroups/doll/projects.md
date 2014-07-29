@@ -23,6 +23,7 @@ Please contact [Dr. Aliuos](/staff/) for more information
 **BMT 2014** - 48th DGBMT annual conference
 
 * Presentation: Biocompatible and actuated Carbon Nanotube-based electrodes for advanced neural interfacing; K. Tegtmeier, J. Stieghorst, P. Aliuos, O. Majdani, T. Lenarz, T. Doll; 2014
+* Presentation: Path to construct synthetic synapses for enhanced electrode-nerve interaction in neuroprostheses; S. Ebrahimpoor, C. Zeilinger,T. Doll, T. Lenarz, P. Aliuos
 
 
 **EnFI 2014** - Engineering of functional interfaces
