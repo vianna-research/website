@@ -1,4 +1,4 @@
-#Lectures
+title: Lectures
 
 
 #Polymerbased microfabrication techniques for implants
@@ -14,9 +14,11 @@ Tutorials include researching and exercises about biofunctionality which are dis
 
 **Language:** German
 
-**Contact:** 
+**Contact:**
+[Marc Müller (IMP,LUH)](http://www.imp.uni-hannover.de/mitarbeiter.html)   
+[Jan Stieghorst (MHH)](/staff/)
 
-**Location:**  LUH, Institute for Multiphase Processing, Callinstraße 36
+**Location:**  [LUH, Institute for Multiphase Processing, Callinstraße 36](http://www.imp.uni-hannover.de/wegbeschreibung.html)
 
 
 
@@ -41,8 +43,9 @@ Based on this, we want to develop tools and techniques for the assessment of "na
 **Language:** Englisch
 
 **Contact:**
+[Katharina Tegtmeier (MHH)](/staff/)
 
-**Location:** MHH, Vianna,Feodor-Lynen-Str. 35, Conference Room
+**Location:** [MHH, Vianna,Feodor-Lynen-Str. 35, Conference Room](/Anfahrt/)
 
 
 

@@ -1,13 +1,39 @@
+title: Projects and Publications
+
 #Projects
-* Project 1
-* Project 2
+**Fleximplants**  
+Please contact [Prof. Doll](/staff/) for more information
+
+**Flexible, selfbending multielectrode shafts**  
+Please contact [Prof. Doll](/staff/) for more information
+
+**Improvement of electrode-nerv-interaction usind neural cell adhesion molecules**   
+Please contact [Dr. Aliuos](/staff/) for more information
+
 
 #Research Grants
 
-
-
 * Lower Austria Life Science Grants  LS010-017
 * Hearing for All, Cluster of Excellence
+
+#Conferences
+**BMT 2014** - 48th DGBMT annual conference
+
+* Presentation: Biocompatible and actuated Carbon Nanotube-based electrodes for advanced neural interfacing; K. Tegtmeier, J. Stieghorst, P. Aliuos, O. Majdani, T. Lenarz, T. Doll; 2014
+
+
+**EnFI 2014** - Engineering of functional interfaces
+
+* Poster: Functional gliding interface inside a mivro-structured polymer impant; S. Meinen, E. Stockburger, J. Stieghorst, M. Möller, T.Doll; 2014
+* Poster: Characterization and improvement of carbon nanotube - silicone rubber interdaces for neural implants; K.Tegtmeier, N.Burblies, T.Doll; 2014
+* Poster: Electrode-nerve interface: Enhancement of neural cell adhesion by means of CNT; P. Aliuos, A. Bondarenkova, J. McCaughey, J. Stieghorst, K.Tegtmeier, T. Doll; 2014
+* Poster: 3D silicone rubber interfaces in individually shaped neural implants; J-Stieghorst, J. McCaughey, T. Doll
+
+**CI 2014** - 13th International Conference on Cochlear Implants and Other Implantable Auditory Technologies
+
+* Presentation: Routes towards closing the auditory implant feedback loop; T. Doll, P. Aliuos, V. Pikov, D. McCreery, J. Stieghorst, T. Lenarz; 2014
+* Presentation: Hydrogel-based self-bending mechanism for cochlear implants; J. Stieghorst, T. Rau, O. Majdani, G. Sadakowski, T. Doll
+* Presentation: Carbon nanotube-based interfacing of neural structures; K. Tegtmeier, O. Lammers, P. Aliuos, D. Ricci, T. Doll; 2014
 
 
 #Publications
