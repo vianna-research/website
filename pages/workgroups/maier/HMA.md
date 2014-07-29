@@ -14,4 +14,6 @@ Lebenslauf: Studium der Physik und Mathematik an der Uni Gießen von 1979 bis 19
   
 **Links:**   
 [Work Group "Middle Ear Implants" at the Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=20 "DHZ")  
+[Profile on ResearchGate](http://www.researchgate.net/profile/Hannes_Maier/ "Profil on ResearchGate")  
 [Profile on ResearchGate](http://www.researchgate.net/profile/Hannes_Maier/ "Profil on ResearchGate")
+http://de.linkedin.com/pub/hannes-maier/2/163/92
