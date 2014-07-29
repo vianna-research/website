@@ -14,3 +14,4 @@ Lebenslauf: Studium der Physik und Mathematik an der Uni Gießen von 1979 bis 19
   
 **Links:**   
 [Work Group "Mittelohrimplantate" at the Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=20 "DHZ")
+
