@@ -6,4 +6,6 @@ Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incid
 ***
 
  
-**Contact:** <Grossoehmichen.Martin@mh-hannover.de> | +49 (0)511 532–7283, -7310
+**Contact:**  
+<Grossoehmichen.Martin@mh-hannover.de>  
++49 (0)511 532–7283, -7310
