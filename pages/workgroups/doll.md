@@ -5,7 +5,9 @@ title: AG Doll - BioMaterial Engineering
 
 The research group BioMaterial Engineering works on development and production techniques for new electrode concepts for active implants in the head region. Concepts and materials from nanotechnology and microelectronic, especially polymers, polymer composites and polymer semi conductors, are used. Mechanoactive, individualised and biochemosensoric implants are realised. 
 
-More information about current projects can be found [here](/doll/projects).  
+More information about current projects can be found [here](/doll/projects). 
+
+Dies ist ein neuer Text.test test 
 
 **Contact Information:**
 
