@@ -9,6 +9,7 @@ More information about current projects can be found [here](/doll/projects).
 
 
 
+
 **Contact Information:**
 
 BioMaterial Engineering    
@@ -19,3 +20,5 @@ Feodor-Lynen-Straße 27
 Phone: 0511 532 7231   
 Fax: 0511 532 18576   
 Mail: biomaterialengineering(@)mh-hannover.de
+
+A list of the staff can be found [here](/doll/staff). 
