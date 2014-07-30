@@ -7,7 +7,7 @@ The research group BioMaterial Engineering works on development and production t
 
 More information about current projects can be found [here](/doll/projects). 
 
-Dies ist ein neuer Text.test test 
+
 
 **Contact Information:**
 
