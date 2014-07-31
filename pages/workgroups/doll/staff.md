@@ -1,6 +1,6 @@
 title: AG Doll - BioMaterial Engineering
 
-![Gruppenbild AG Doll](Gruppenbild.jpg)
+![Gruppenbild AG Doll](Gruppenbild.JPG)
 
 **Head of research group**   														
 							
