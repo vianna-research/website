@@ -7,7 +7,7 @@ title: AG Doll - BioMaterial Engineering
 ![Image Theo Doll](Theo.jpg) |  Prof. Dr.-Ing. Theodor Doll |  doll.theodor(at)mh-hannover.de	
 														
 ----------------------------------------------------------------------------------------
-**Team Assistent**																		
+**Team Assistant**																		
 
 ![Image Bettina Goede](Bettina.jpg) | Bettina Goede					|		goede.bettina(at)mh-hannover.de	|	Phone: 0511 532 7231	|	Fax: 0511 532 18576 
 
