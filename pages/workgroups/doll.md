@@ -3,7 +3,7 @@ title: AG Doll - BioMaterial Engineering      ![Logo BioMaterial Engineering](BM
 
 **BILD zur Forschung**
 
-The research group BioMaterial Engineering works on development and production techniques for new electrode concepts for active implants in the head region. Concepts and materials from nanotechnology and microelectronic, especially polymers, polymer composites and polymer semi conductors, are used. Mechanoactive, individualised and biochemosensoric implants are realised. 
+The research group BioMaterial Engineering works under [Prof. Doll](/doll/pagedoll) on development and production techniques for new electrode concepts for active implants in the head region. Concepts and materials from nanotechnology and microelectronic, especially polymers, polymer composites and polymer semi conductors, are used. Mechanoactive, individualised and biochemosensoric implants are realised. 
 
 More information about current projects can be found [here](/doll/projects). 
 
