@@ -1,4 +1,4 @@
-title: AG Doll - BioMaterial Engineering      ![Logo BioMaterial Engineering](BME.jpg)
+##AG Doll - BioMaterial Engineering ![Logo BioMaterial Engineering](BME.jpg)
 
 
 **BILD zur Forschung**
@@ -7,8 +7,7 @@ The research group BioMaterial Engineering works under [Prof. Doll](/doll/pagedo
 
 More information about current projects can be found [here](/doll/projects). 
 
-
-
+***
 
 **Contact Information:**
 
