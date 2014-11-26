@@ -6,11 +6,15 @@
 **Lebenslauf:** 
 
 Jahreszahlen: Studium der
+
 Jahreszahlen: Doktor
+
 Jahreszahlen: Hanbilitation
 
 Jahreszahlen: Arbeit hier
+
 Jahreszahlen: Arbeit dort
+
 Jahreszahl: Seit wann im Exzellenzclusters Hearing4all.
 
 ***
@@ -24,4 +28,4 @@ Feodor-Lynen-Straße 27
 
 Phone: 0511 532 7231   
 Fax: 0511 532 18576   
-Mail: biomaterialengineering(@)mh-hannover.de
+Mail: doll.theodor(at)mh-hannover.de
