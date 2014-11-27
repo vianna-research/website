@@ -1,7 +1,7 @@
 ## Prof. Dr.-Ing Theodor Doll
-![Image Theo Doll](The.jpg)**Head of Research Group** 
+![Image Theo Doll](The.jpg)
 
- Ganz kurz 3 Sätze Forschung
+ Ganz kurz 3 Sätze Forschungsinteressen??
 
 
 
