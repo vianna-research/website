@@ -1,5 +1,5 @@
 ## Prof. Dr.-Ing Theodor Doll
-![Image Theo Doll](Theo.jpg) **Head of Research Group** 
+![Image Theo Doll](Theogroß.jpg)**Head of Research Group** 
 
  Ganz kurz 3 Sätze Forschung
 
