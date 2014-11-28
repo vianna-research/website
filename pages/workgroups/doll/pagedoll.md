@@ -1,5 +1,5 @@
 ## Prof. Dr.-Ing Theodor Doll
-![Image Theo Doll](The.jpg)
+![Image Theo Doll](.jpg)
 
  Ganz kurz 3 Sätze Forschungsinteressen??
 
