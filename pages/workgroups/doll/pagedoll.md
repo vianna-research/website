@@ -109,4 +109,4 @@ Mail: doll.theodor(at)mh-hannover.de
     <td> Sensor Development, KWS Electronic GmbH, Rosenheim</td>
    
   <tr>
-</table> 
+<table> 
