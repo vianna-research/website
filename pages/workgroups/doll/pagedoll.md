@@ -21,7 +21,7 @@ test|    test
 **2002 - 2004:** 	| Director of the Center of Micro- and Nanotechnologies (ZMN)    
 **2000 - 2004:** 	| Professor solid-state electronics, Technical University Ilmenau 
 **1998 - 2000:** 	| Visiting Associate at California Institut of Technology, Pasadena, USA   
-**1998:** 			| Assistant Professor at Bundeswehr University Munich   
+**1998:** 			| Assistant Professor at Univerität der Bundeswehr München   
 **1997:** 			| Post Doc at University of Chile, Santiago de Chile   
 **1991 - 1996:** 	| Research assistent at Universität der Bundeswehr München   
 **1989 - 1991:** 	| Sensor Development, KWS Electronic GmbH, Rosenheim, D   
@@ -46,17 +46,69 @@ Feodor-Lynen-Straße 27
 
 Phone: 0511 532 7231   
 Fax: 0511 532 18576   
-Mail: doll.theodor(at)mh-hannover.de
+Mail: doll.theodor(at)mh-hannover.de   
+
+
 
  <table style="width:100%">
+table, th, td, tr {
+    border: 1px solid trasparent;
+    border-collapse: collapse;
+	background-color: "#FFFFFF";
+}
   <tr>
-    <td>**since 2013:**</td>
-    <td>Smith</td>
-    <td>50</td>
+    <th>since 2013</th>
+    <td> Professorship in Biomaterial Engineering at Hannover Medical School</td>
+   
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>2006 - 2012</td>
+    <td>Chief Scientist at Application and competence center for heterogeneous microsystems Dortmund </td>
+   
+  </tr>
+<tr>
+    <td>2004 - 2009</td>
+    <td>Professor microstructure physics, Johannes Gutenberg University Mainz</td>
+   
+  </tr>
+<tr>
+    <td>2004 - 2006</td>
+    <td>Mainz Institute of Microtechnology, CEO/CSO</td>
+   
+  </tr>
+<tr>
+    <td>2002 - 2004</td>
+    <td>Director of the Center of Micro- and Nanotechnologies (ZMN)</td>
+   
+  </tr>
+<tr>
+    <td>2000 - 2004</td>
+    <td>Professor solid-state electronics, Technical University Ilmenau</td>
+   
+  </tr>
+<tr>
+    <td>1998 - 2000</td>
+    <td>Visiting Associate at California Institut of Technology, Pasadena, USA  </td>
+   
+  </tr>
+<tr>
+    <td>1998</td>
+    <td>Assistant Professor at Univerität der Bundeswehr München</td>
+   
+  </tr>
+<tr>
+    <td>1997</td>
+    <td>Post Doc at University of Chile, Santiago de Chile </td>
+   
+  </tr>
+<tr>
+    <td>1991 - 1996</td>
+    <td>Research assistent at Universität der Bundeswehr München</td>
+   
+  </tr>
+<tr>
+    <td>1989 - 1991</td>
+    <td> Sensor Development, KWS Electronic GmbH, Rosenheim</td>
+   
   </tr>
 </table> 
