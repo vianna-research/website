@@ -1,9 +1,6 @@
 ## Prof. Dr.-Ing Theodor Doll
 ![Image Theo Doll](.jpg)
 
- Ganz kurz 3 Sätze Forschungsinteressen??
-
-
 
 **Academic Education**
 
