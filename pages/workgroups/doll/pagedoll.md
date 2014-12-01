@@ -13,7 +13,7 @@
 
 **Professional Career**
 
---------------------|-------------------------------------------------------------------------------------------  
+--------------------:|:-------------------------------------------------------------------------------------------  
 **since 2013:** 	|Professorship in Biomaterial Engineering at Hannover Medical School   
 **2006 - 2012:** 	|Chief Scientist at Application and competence center for heterogeneous microsystems Dortmund      
 **2004 - 2009:** 	|Professor microstructure physics, Johannes Gutenberg University Mainz    
