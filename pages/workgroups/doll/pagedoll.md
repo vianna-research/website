@@ -4,10 +4,10 @@
 
 **Academic Education**
 
-----------:|:------------  
-**1999:** | Habilitation in Microsystems Engineering   
-**1995:** | Doctorate in Electrical Engineering   
-**1989:** | Diploma in Physics    
+|----------:|:------------|  
+|**1999:** | Habilitation in Microsystems Engineering|   
+|**1995:** | Doctorate in Electrical Engineering|
+|**1989:** | Diploma in Physics|    
 
 **Professional Career**
 
