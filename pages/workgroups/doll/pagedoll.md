@@ -3,14 +3,16 @@
 
 
 **Academic Education**
-|year|test|
+
+|year|test|   
 |----------:|:------------|  
 |**1999:** | Habilitation in Microsystems Engineering|   
 |**1995:** | Doctorate in Electrical Engineering|   
 |**1989:** | Diploma in Physics|    
 
 **Professional Career**
-test|test
+
+|test|test|   
 --------------------:|:-------------------------------------------------------------------------------------------  
 **since 2013:** 	| Professorship in Biomaterial Engineering at Hannover Medical School   
 **2006 - 2012:** 	| Chief Scientist at Application and competence center for heterogeneous microsystems Dortmund      
