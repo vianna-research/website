@@ -50,12 +50,8 @@ Mail: doll.theodor(at)mh-hannover.de
 
 
 
- <table style="width:100%";border-color:transparent; background-color: "#FFFFFF">
- table, th, td,tr style {
-    
-    border-collapse: collapse;
-	
-}
+ <table style="width:100%";border-color:transparent; background-color: "#FFFFFF"; padding: 10px 20px >
+
   <tr>
     <th>since 2013</th>
     <td> Professorship in Biomaterial Engineering at Hannover Medical School</td>
