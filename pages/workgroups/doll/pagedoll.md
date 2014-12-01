@@ -49,11 +49,11 @@ Fax: 0511 532 18576
 Mail: doll.theodor(at)mh-hannover.de   
 
  style="width:100%" >
-<table border-color=transparent> 
+<table > 
 <background-color= "#FFFFFF"> 
 <padding: 10px 20px
 
- <table>
+ <table border-color=transparent>
   <tr>
     <th>since 2013</th>
     <td> Professorship in Biomaterial Engineering at Hannover Medical School</td>
@@ -109,4 +109,4 @@ Mail: doll.theodor(at)mh-hannover.de
     <td> Sensor Development, KWS Electronic GmbH, Rosenheim</td>
    
   <tr>
-<table> 
+</table> 
