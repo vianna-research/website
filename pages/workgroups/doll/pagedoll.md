@@ -50,9 +50,9 @@ Mail: doll.theodor(at)mh-hannover.de
 
 
 
- <table style="width:100%">
-table, th, td, tr style {
-    border-color:transparent;
+ <table style="width:100%";border-color:transparent>
+ table, th, td,tr style {
+    
     border-collapse: collapse;
 	background-color: "#FFFFFF";
 }
