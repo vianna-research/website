@@ -62,52 +62,52 @@ table, th, td, tr {
    
   </tr>
   <tr>
-    <td>2006 - 2012</td>
+    <th>2006 - 2012</th>
     <td>Chief Scientist at Application and competence center for heterogeneous microsystems Dortmund </td>
    
   </tr>
 <tr>
-    <td>2004 - 2009</td>
+    <th>2004 - 2009</th>
     <td>Professor microstructure physics, Johannes Gutenberg University Mainz</td>
    
   </tr>
 <tr>
-    <td>2004 - 2006</td>
+    <th>2004 - 2006</th>
     <td>Mainz Institute of Microtechnology, CEO/CSO</td>
    
   </tr>
 <tr>
-    <td>2002 - 2004</td>
+    <th>2002 - 2004</th>
     <td>Director of the Center of Micro- and Nanotechnologies (ZMN)</td>
    
   </tr>
 <tr>
-    <td>2000 - 2004</td>
+    <th>2000 - 2004</th>
     <td>Professor solid-state electronics, Technical University Ilmenau</td>
    
   </tr>
 <tr>
-    <td>1998 - 2000</td>
+    <th>1998 - 2000</th>
     <td>Visiting Associate at California Institut of Technology, Pasadena, USA  </td>
    
   </tr>
 <tr>
-    <td>1998</td>
+    <th>1998</th>
     <td>Assistant Professor at Univerität der Bundeswehr München</td>
    
   </tr>
 <tr>
-    <td>1997</td>
+    <th>1997</th>
     <td>Post Doc at University of Chile, Santiago de Chile </td>
    
   </tr>
 <tr>
-    <td>1991 - 1996</td>
+    <th>1991 - 1996</th>
     <td>Research assistent at Universität der Bundeswehr München</td>
    
   </tr>
 <tr>
-    <td>1989 - 1991</td>
+    <th>1989 - 1991</th>
     <td> Sensor Development, KWS Electronic GmbH, Rosenheim</td>
    
   </tr>
