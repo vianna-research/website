@@ -47,3 +47,16 @@ Feodor-Lynen-Straße 27
 Phone: 0511 532 7231   
 Fax: 0511 532 18576   
 Mail: doll.theodor(at)mh-hannover.de
+
+ <table style="width:100%">
+  <tr>
+    <td>**since 2013:**</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table> 
