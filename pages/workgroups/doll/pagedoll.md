@@ -13,7 +13,7 @@
 
 **Professional Career**
 
----|---   
+--------------------|-------------------------------------------------------------------------------------------  
 **since 2013:** 	|Professorship in Biomaterial Engineering at Hannover Medical School   
 **2006 - 2012:** 	|Chief Scientist at Application and competence center for heterogeneous microsystems Dortmund      
 **2004 - 2009:** 	|Professor microstructure physics, Johannes Gutenberg University Mainz    
@@ -26,7 +26,7 @@
 **1997:** 			|Post Doc at University of Chile, Santiago de Chile   
 **1991 - 1996:** 	|Research assistent at Universität der Bundeswehr München   
 **1989 - 1991:** 	|Sensor Development, KWS Electronic GmbH, Rosenheim, D   
----|---
+--------------------|-------------------------------------------------------------------------------------------
 ***
 [Profile on XING](https://www.xing.com/profile/Theodor_Doll)
 
