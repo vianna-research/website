@@ -12,24 +12,21 @@
 **1989:** Diploma in Physics    
 
 **Professional Career**
----
-**since 2013:** 	Professorship in Biomaterial Engineering at Hannover Medical School   
-**2006 - 2012:** 	Chief Scientist at Application and competence center for heterogeneous microsystems Dortmund 
 
-**Johannes Gutenberg University Mainz**       
-**2004 - 2009:** 	Professor microstructure physics     
-**2004 - 2006:**  	Mainz Institute of Microtechnology, CEO/CSO
-  
-**Technical University Ilmenau**    
-**2002 - 2004:** 	Director of the Center of Micro- and Nanotechnologies (ZMN)    
-**2000 - 2004:** 	Professor solid-state electronics
+---|---   
+**since 2013:** 	|Professorship in Biomaterial Engineering at Hannover Medical School   
+**2006 - 2012:** 	|Chief Scientist at Application and competence center for heterogeneous microsystems Dortmund      
+**2004 - 2009:** 	|Professor microstructure physics, Johannes Gutenberg University Mainz    
+**2004 - 2006:**  	|Mainz Institute of Microtechnology, CEO/CSO
+**2002 - 2004:** 	|Director of the Center of Micro- and Nanotechnologies (ZMN)    
+**2000 - 2004:** 	|Professor solid-state electronics, Technical University Ilmenau
    
-**1998 - 2000:** 	Visiting Associate at California Institut of Technology, Pasadena, USA   
-**1998:** 			Assistant Professor at Bundeswehr University Munich   
-**1997:** 			Post Doc at University of Chile, Santiago de Chile   
-**1991 - 1996:** 	Research assistent at Universität der Bundeswehr München   
-**1989 - 1991:** 	Sensor Development, KWS Electronic GmbH, Rosenheim, D   
-
+**1998 - 2000:** 	|Visiting Associate at California Institut of Technology, Pasadena, USA   
+**1998:** 			|Assistant Professor at Bundeswehr University Munich   
+**1997:** 			|Post Doc at University of Chile, Santiago de Chile   
+**1991 - 1996:** 	|Research assistent at Universität der Bundeswehr München   
+**1989 - 1991:** 	|Sensor Development, KWS Electronic GmbH, Rosenheim, D   
+---|---
 ***
 [Profile on XING](https://www.xing.com/profile/Theodor_Doll)
 
