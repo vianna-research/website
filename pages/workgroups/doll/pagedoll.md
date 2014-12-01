@@ -4,8 +4,7 @@
 
 **Academic Education**
 
-|year|test|   
-|----------:|:------------|  
+  
 |**1999:** | Habilitation in Microsystems Engineering|   
 |**1995:** | Doctorate in Electrical Engineering|   
 |**1989:** | Diploma in Physics|    
@@ -25,7 +24,7 @@
 **1997:** 			| Post Doc at University of Chile, Santiago de Chile   
 **1991 - 1996:** 	| Research assistent at Universität der Bundeswehr München   
 **1989 - 1991:** 	| Sensor Development, KWS Electronic GmbH, Rosenheim, D   
---------------------|-------------------------------------------------------------------------------------------
+***
 
 
 [Profile on XING](https://www.xing.com/profile/Theodor_Doll)
