@@ -37,8 +37,8 @@ and Theodor Doll; Phys. Status Solidi A 211, No. 6, 1455–1461 (2014); DOI 10.1
 **HNO-Congress** - 86th Annual Meeting 2015
 of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery
 
-* Jan-Abstract   
-* Submitted: Flexibles Carbon Nanotube basiertes Elektrodenmaterial zur Anwendung in Cochlea Implantaten
+* Submitted: Title; J. Stieghorst, ??, T. Lenarz, T. Doll   
+* Submitted: Flexibles Carbon Nanotube basiertes Elektrodenmaterial zur Anwendung in Cochlea Implantaten; K. Tegtmeier, F. Golly, T. Lenarz, T.Doll
 
 **2014**
 ----
@@ -51,10 +51,10 @@ of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery
 
 **EnFI 2014** - Engineering of functional interfaces
 
-* Poster: Functional gliding interface inside a micro-structured polymer impant; S. Meinen, E. Stockburger, J. Stieghorst, M. Möller, T.Doll; 2014
-* Poster: Characterization and improvement of carbon nanotube - silicone rubber interfaces for neural implants; K.Tegtmeier, N.Burblies, T.Doll; 2014
-* Poster: Electrode-nerve interface: Enhancement of neural cell adhesion by means of CNT; P. Aliuos, A. Bondarenkova, J. McCaughey, J. Stieghorst, K.Tegtmeier, T. Doll; 2014
-* Poster: 3D silicone rubber interfaces in individually shaped neural implants; J-Stieghorst, J. McCaughey, T. Doll
+* Poster & Abstract: Functional gliding interface inside a micro-structured polymer impant; S. Meinen, E. Stockburger, J. Stieghorst, M. Möller, T.Doll; 2014
+* Poster & Abstract: Characterization and improvement of carbon nanotube - silicone rubber interfaces for neural implants; K.Tegtmeier, N.Burblies, T.Doll; 2014
+* Poster & Abstract: Electrode-nerve interface: Enhancement of neural cell adhesion by means of CNT; P. Aliuos, A. Bondarenkova, J. McCaughey, J. Stieghorst, K.Tegtmeier, T. Doll; 2014
+* Poster & Abstract: 3D silicone rubber interfaces in individually shaped neural implants; J-Stieghorst, J. McCaughey, T. Doll
 
 **CI 2014** - 13th International Conference on Cochlear Implants and Other Implantable Auditory Technologies
 
@@ -67,7 +67,7 @@ of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery
 
 **EnFI 2013** Engineering of Functional Interfaces   
 
-* Poster: Internal interfaces: Surfmounting the percolation limits in CNT-based electrodes; M.Schickedanz, J. Stieghorst, P. Alious, G. Paasche, T. Doll
-* Poster: 3D hybrid functional polymer interfaces in medical implants; J. Stieghorst, R. Lüpke, P. Aliuos, T. Doll
-* Poster: Carbon nanotube-liquid silicone rubber (CNT-LSR) electrode surfaces for stimulating medical implants; K. Tegtmeier, F. Arbatschat, P. Aliuos, T. Doll 
+* Poster & Abstract: Internal interfaces: Surfmounting the percolation limits in CNT-based electrodes; M.Schickedanz, J. Stieghorst, P. Alious, G. Paasche, T. Doll
+* Poster & Abstract: 3D hybrid functional polymer interfaces in medical implants; J. Stieghorst, R. Lüpke, P. Aliuos, T. Doll
+* Poster & Abstract: Carbon nanotube-liquid silicone rubber (CNT-LSR) electrode surfaces for stimulating medical implants; K. Tegtmeier, F. Arbatschat, P. Aliuos, T. Doll 
 
