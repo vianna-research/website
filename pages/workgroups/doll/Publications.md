@@ -38,7 +38,7 @@ and Theodor Doll; Phys. Status Solidi A 211, No. 6, 1455–1461 (2014); DOI 10.1
 of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery
 
 * Jan-Abstract   
-* Katharina Abstract
+* Submitted: Flexibles Carbon Nanotube basiertes Elektrodenmaterial zur Anwendung in Cochlea Implantaten
 
 **2014**
 ----
