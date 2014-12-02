@@ -9,7 +9,7 @@ title: AG Doll - BioMaterial Engineering
 ----------------------------------------------------------------------------------------
 **Team Assistant**															
 			
-![Image Bettina Goede](Bettina.jpg) | Bettina Goede					|		goede.bettina(at)mh-hannover.de	|	Phone: 0511 532 7231	|	Fax: 0511 532 18576 
+![Image Bettina Goede](Bettina.png) | Bettina Goede					|		goede.bettina(at)mh-hannover.de	|	Phone: 0511 532 7231	|	Fax: 0511 532 18576 
 
 ---------------------------
 **Research Team**
