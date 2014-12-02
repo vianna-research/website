@@ -25,7 +25,7 @@ title: AG Doll - BioMaterial Engineering
 
 ![Image Alexandra Bondarenkova](alexandra.png) |	Alexandra Bondarenkova	|	bondarenkova.alexandra(at)mh-hannover.de	|	Bachelor Thesis
 
-![Image Jan Drewke](JanD.png) | Jan Drewke	|	drewke.jan(at)mh-hannover.de	|	Master Thesis
+![Image Jan Drewke](JanD.png) | Jan Drewke	|	drewke.jan(at)mh-hannover.de	|	internship
 
 ![Image Daniel Majaura](Daniel.png) | Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Laborarbeit
 
