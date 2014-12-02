@@ -36,7 +36,7 @@ title: AG Doll - BioMaterial Engineering
 ![Image Nina Sendler](Nina.png) | Nina Sendler, B.Eng.	|	sendler.nina(at)mh-hannover.de	|	Master Thesis
 
 -----------------------------
-**Former Students and Researchers**
+**Former Researchers and Students**
 
 ![Image Malte Schickedanz](Platzhalter.jpg) |Dipl.-Ing. Malte Schickedanz		| Diploma Thesis
 
