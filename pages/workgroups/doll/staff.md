@@ -36,15 +36,6 @@ title: AG Doll - BioMaterial Engineering
 ![Image Nina Sendler](Nina.png) | Nina Sendler, B.Eng.	|	sendler.nina(at)mh-hannover.de	|	Master Thesis
 
 -----------------------------
-**Former Researchers and Students**
+If you are interested in researchers that have been working here, have a look at the [Former researchers and students](/doll/Former) web page. 
 
-![Image Malte Schickedanz](Platzhalter.jpg) |Dipl.-Ing. Malte Schickedanz		| Diploma Thesis
-
-![Image Pooyan Aliuos](Pooyan.jpg) | Dipl.-Ing. Pooyan Aliuos, PhD					|		alious.pooyan(at)mh-hannover.de	| PostDoc
-
-![Image Felix Golly](FelixG.jpg) | Felix Golly, B.Sc.	| Bachelor Thesis
-
-![Image Eugen Stockburger](Eugen.jpg) | Eugen Stockburger	|	Bachelor Thesis
-
-![Image Sven Meinen](Sven.jpg) | Sven Meinen, B.Sc.	|	meinen.sven(at)mh-hannover.de	|	Master Thesis
 
