@@ -97,8 +97,3 @@ Phone: 0511 532 7231
 Fax: 0511 532 18576   
 Mail: doll.theodor(at)mh-hannover.de   
 
- style="width:100%" >
-<table > 
-<background-color= "#FFFFFF"> 
-<padding: 10px 20px
-
