@@ -18,7 +18,7 @@ His focus in the Excellence Cluster Hearing 4 All is on.....
 ***
 **Professional Career**
 
- <table bordercolour="transparent>
+ <table bordercolour="transparent">
   <tr >
     <th>since 2013</th>
     <td> Professorship in Biomaterial Engineering at Hannover Medical School</td>
