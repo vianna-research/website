@@ -7,6 +7,9 @@ title: AG Doll - Grants and Projects
 
 
 #Projects
+
+**Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie**
+
 **Fleximplants** (Lower Austra Life Science Grants)  
 
 For the recovery of senses in the face region and motorical functions in varios applications, highly flexible, multichannel and active sensors are necessary. These may allow easier surgery techniques, shorter rehabilitation and complications intervention. The reasearch group realises all-polymer electrodes for cochlear implants and demonstrates the usability in preparations or animal models. The electrodes exhibit atraumatic insertion, feasabitlity of a high number of electrode contacts and an aktive mobility and drug release. This is possible by bioinert nanofunctionalosation in 3D siloxane-hybrid systems and simulataneously developed minimally invasive insertion tools for handling very flexible miniature electrodes.   
@@ -21,11 +24,10 @@ Please contact [Prof. Doll](/staff/) for more information
 Large distances between the electrode contacts of CIs and the to be stimulated spiral ganglion neurons of the cochlea as well as connective tissue growth, caused by insertion trauma and foreign body response are hypothesized to affect the quality of hearing in CI patients. The subjective of the envisaged project is to improve the electrode-nerve interaction by initiating strong adhesion of the neurons onto electrode material surfaces. At the same time a reduction of fibrous encapsulation of the electrode body is aimed. For this issue, body own cell adhesion molecules of immunoglobulin superfamily (Ig-CAMs) should be synthesized in bactria and will be used to functionalize model surfaces. The interaction of neurons onto the functionalized surfaces will be investigated using StED-microscopy to reveal any changes in neural cell adhesion with respect to surface modifications.     
 Please contact [Dr. Aliuos](/staff/) for more information
 
-**MultiNeuroPro**
+
 
 #Finished Projects
 
-**Wipotec- Dual Energy**
 
 
 
