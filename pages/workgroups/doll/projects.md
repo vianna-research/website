@@ -1,5 +1,7 @@
 title: AG Doll - Grants and Projects
 
+Publications regarding these projects can be found [here](/Publications/)
+
 ##Research Grants
 
 * Lower Austria Life Science Grants LS010-017
