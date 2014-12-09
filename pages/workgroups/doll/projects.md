@@ -8,13 +8,13 @@ title: AG Doll - Grants and Projects
 
 ##Ongoing Projects
 
-* **Application of nanotube electrodes in multimodal detection and activation of neuronal signals** (KMU Innovativ: Medizintechnik)
-We develope very flexible electrodes for microdialysis and    
-Project Partners are
+* **Application of nanotube electrodes in multimodal detection and activation of neuronal signals** (KMU Innovativ: Medizintechnik, BMBF)   
+Very flexible electrodes for microdialysis and deep stimulation are developed, that can  
+Project Partners are [Black Rock Microsystems Europe](http://www.blackrockmicro.com/index.aspx), [Deutsches Institut für Kautschuktechnologie e.V.](http://www.dikautschuk.de/), [NeuEncepharm](http://www.encepharm.de/index.htm)   
+Please contact [Prof. Doll](/staff/) for more information.
 
-* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Förderprogramm??)   
-Project Partners are 
-
+* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprgramm Forschung und Entwicklung, N-Bank)   
+Project Partner is [Black Rock Microsystems Europe](http://www.blackrockmicro.com/index.aspx)
  
 * **Flexible, selfbending multielectrode shafts** ([Hearing4All](http://hearing4all.eu/EN/))   
 We explore the hypothesis that for CI better ambient noise understanding can be achieved by a higher number of electrode contacts – if the CIs clinge well to the modiolus. A side aspect of such R&D must be that the stiffness of CIs must not exceed the present state in order to avoid increased insertion tissue damage and trauma in general. Thus the wiring techniques of today must be altered. We test Au on parylene / polyimide films and CNTs immersed in silicone rubber. Parallelly we explore Hydrogel bimorph swelling elements for proper clinging actuation. The Start project lays the basis to further procurement of third-party funds. Our objectives are increased electrode number to 30 and 50 with almost maintained impedances and flexibility and the design and testing of actuation principles.   
@@ -31,8 +31,8 @@ Please contact [Dr. Aliuos](/staff/) for more information.
 ##Completed Projects
 
 * **Dual Energy**   
-A new radiographic method is developed, measuring parallely with two devices and stimulating with different energies simultaneously. Mikrostruktured filters for radiographic inspection are developed. The field of application is to determine the ratio between fat tissue and muscle tissue and to distinguish foreign bodies in tissue and soft matter.  
-Project Partners are  
+A new radiographic method is developed, simulating parall measurement with two devices or different energies using only one device. Mikrostructured filters for radiographic inspection are developed. The field of application is to determine the ratio between fat tissue and muscle tissue and to distinguish foreign bodies in tissue and soft matter.  
+Project Partner is [Wipotec GmbH](http://www.wipotec.com/german)   
 Please contact [Prof. Doll](/staff/) for more information.
 
 
