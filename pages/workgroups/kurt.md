@@ -1,4 +1,4 @@
-##AG Kurt - 
+##AG Kurt
 
 
 **BILD zur Forschung?**
