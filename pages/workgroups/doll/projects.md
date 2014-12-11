@@ -31,7 +31,7 @@ Please contact [Dr. Aliuos](/staff/) for more information.
 
 
 
-##Completed Projects
+##Projects completed
 
 * **Dual Energy**   
 A new radiographic method is developed, simulating parall measurement with two devices or different energies using only one device. Mikrostructured filters for radiographic inspection are developed. The field of application is to determine the ratio between fat tissue and muscle tissue and to distinguish foreign bodies in tissue and soft matter.  
