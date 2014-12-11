@@ -1,4 +1,5 @@
-#Registration Form
+##Registration Form
+
 <form id="kontaktformular" name="kontaktformular" action="">
 <tr>
    <td align="right" valign="top">Title:</td>
@@ -113,13 +114,15 @@ Please enter your invoice address:
 
 Payment to:
 
-    Bank: Deutschen Bank Hannover
+    Bank: Deutsche Bank Hannover
     Account holder: Förderverein der HNO-Klinik
+	BLZ: 250 700 24
+	Kto: 857 071 500
     IBAN: DE22 250 700 240 8570715 01
     SWIFT-BIC:  DEUT DE DBHAN
     Mention: EnFI-2015 - Lastname, Firstname - Affiliation
 
-Registration fees
+Registration fees:
 
     Before May 10th, 2015: 190€ incl. Dinner
     After May 10th, 2015: 230€ incl. Dinner
