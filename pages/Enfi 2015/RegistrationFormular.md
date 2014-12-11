@@ -105,7 +105,7 @@ Please enter your invoice address:
   <textarea id="nachricht" name="nachricht" cols="20" rows="5"></textarea>
 </div>
 <div>
-  <input type="submit" value="Abschicken" />
+  <input type="submit" value="submit" />
 </div>
 </form>
 
