@@ -9,7 +9,7 @@ title: AG Doll - BioMaterial Engineering
 ----------------------------------------------------------------------------------------
 **Team Assistant**															
 			
-![Image Bettina Goede](Bettina.png) | Bettina Goede					|		goede.bettina(at)mh-hannover.de	|	Phone: 0511 532 7231	|	Fax: 0511 532 18576 
+![Image Bettina Goede](Bettina.jpg) | Bettina Goede					|		goede.bettina(at)mh-hannover.de	|	Phone: 0511 532 7231	|	Fax: 0511 532 18576 
 
 ---------------------------
 **Research Team**
@@ -38,4 +38,16 @@ title: AG Doll - BioMaterial Engineering
 -----------------------------
 If you are interested in researchers that have been working here, have a look at the [Former researchers and students](/doll/Former) web page. 
 
+#Former Researchers and Students
 
+***
+
+Dipl.-Ing. Pooyan Aliuos, PhD | alious.pooyan(at)mh-hannover.de	| PostDoc
+
+Felix Golly, B.Sc.	| Bachelor Thesis
+
+Sven Meinen, B.Sc.	|	Master Thesis
+
+Dipl.-Ing. Malte Schickedanz		| Diploma Thesis
+
+Eugen Stockburger, B.Sc.	|	Bachelor Thesis
