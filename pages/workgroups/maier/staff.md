@@ -1,8 +1,8 @@
-#Implantable Middle Ear Hearing Devices | Field of Work
+#Implantable Middle Ear Hearing Devices | Staff
 
 ###Head of Work Group   															
 																						
-[Prof. Dr. phil. nat. Hannes Maier](staff/HMA.html "Prof. Dr. phil. nat. Hannes Maier")	
+[Prof. Dr. Hannes Maier](staff/HMA.html "Prof. Dr. phil. nat. Hannes Maier")	
 														
 ---
 
