@@ -1,11 +1,6 @@
 ##AG Kurt
 
 
-**BILD zur Forschung?**
-
-
-***
-
 **Contact Information:**
 
   
