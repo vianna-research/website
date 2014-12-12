@@ -3,9 +3,9 @@ titel: AG Kurt - Publications
 #Peer reviewed Publications
 **2014**   
 ---
-* Joachimsthaler, B., Uhlmann, M., Miller, F., Ehret, G. Kurt, S., (2014) Quantitative analysis of neuronal response properties in primary and higher-order auditory cortical fields of awake house mice (Mus musculus). Eur J Neurosci., 39, 904-918. 
+* Joachimsthaler, B., Uhlmann, M., Miller, F., Ehret, G., Kurt, S., (2014) Quantitative analysis of neuronal response properties in primary and higher-order auditory cortical fields of awake house mice (Mus musculus). Eur J Neurosci., 39, 904-918. 
 
-* Pirone, A., Kurt, S.**, Zuccotti, A., Rüttiger, L., Pilz, P., Brown, D., Franz, C., Schweizer, M., Rust, M.B., Rübsamen, R., Friauf, E., Knipper, M., Engel, J. (2014) 23 is essential for normal structure and function of auditory nerve synapses and is a novel candidate for auditory processing disorders. J Neurosc., 34, 434-445. 
+* Pirone, A., Kurt, S.**, Zuccotti, A., Rüttiger, L., Pilz, P., Brown, D., Franz, C., Schweizer, M., Rust, M.B., Rübsamen, R., Friauf, E., Knipper, M., Engel, J. (2014) <sub>23 is essential for normal structure and function of auditory nerve synapses and is a novel candidate for auditory processing disorders. J Neurosc., 34, 434-445. 
 
 **before 2014**
 ---
@@ -45,3 +45,4 @@ titel: AG Kurt - Publications
 * Kurt, S. (2012) Task difficulty and auditory discrimination learning. In: Seel, N.M. (Ed.), Encyclopedia of the sciences of learning. New York, Heidelberg, Springer, 3264-3266.
 
 * Ehret, G. & Kurt, S. (2010) Selective perception and recognition of vocal signals. In: Brudzynski S.M. (Ed.), Handbook of mammalian vocalization. Oxford, Academic Press, 125-134.
+
