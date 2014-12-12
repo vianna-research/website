@@ -1,4 +1,4 @@
-##AG Kurt
+##AG Kurt - Pathophysiologie des auditorischen Systems
 
 
 **Contact Information:**
