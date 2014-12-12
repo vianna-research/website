@@ -1,9 +1,6 @@
 ##AG Kurt - Pathophysiologie des auditorischen Systems
 
-
-**Contact Information:**
-
-  
+**Contact Information:**   
 Medizinische Hochschule Hannover    
 Feodor-Lynen-Straße 27    
 30625 Hannover
