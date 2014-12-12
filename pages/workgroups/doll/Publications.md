@@ -15,18 +15,18 @@ and Theodor Doll; Phys. Status Solidi A 211, No. 6, 1455–1461 (2014); DOI 10.1
 
 **2013**
 ---
-* P. Marek, J.J. Velasco-Velez, T. Haas, T. Doll, G. Sadowski, Time-monitoring sensor based on oxygen diffusion in an indicator/ polymer matrix, Sensors & Actuators B. Chemical 2013, 178, 254-262
-* T. Doll, J. Velasco-Velez, D. Rosenthal, J. Avila and V. Fuenzalida, Direct Observation of the Electroadsorptive Effect on Ultra Thin Films for Microsensor and Catalytic Surface Control, ChemPhysChem, 2013, 14, 11 (2505 -2510) 
+* P. Marek, J.J. Velasco-Velez, T. Haas, <u>T. Doll</u>, G. Sadowski, Time-monitoring sensor based on oxygen diffusion in an indicator/ polymer matrix, Sensors & Actuators B. Chemical 2013, 178, 254-262
+* <u>T. Doll</u>, J. Velasco-Velez, D. Rosenthal, J. Avila and V. Fuenzalida, Direct Observation of the Electroadsorptive Effect on Ultra Thin Films for Microsensor and Catalytic Surface Control, ChemPhysChem, 2013, 14, 11 (2505 -2510) 
 
 **before 2013**
 ---
-* J. Velez, A. Chaiyboun, C. Wilbertz, S. Scheinert, T. Doll, Drift Modelling of Electrically Controlled Nanoscale Metal Oxide Gas Sensors, IEEE Electron Device Letters, 29, 7 (2008), 677-680
-* S. Ahlers, G. Müller, T. Doll, Factors Influencing the Gas sensitivity of Metal Oxide Materials, in C.A. Grimes, E.C. Dickey, M.V. Pisko (Eds), Encyclopedia of Sensors, 2007, vol. 3, 413-447
-* T. Haas, T. Doll, Omnidirectional 2D Photonic Band Gap Structures, Phys. Rev. B, Vol. 73, No. 4, pp. 045130, 2006
-* S. Scheinert, T. Doll, A. Scherer, G. Paasch, I. Hörselmann, Organic field-effect transistors with nonlithographically defined submicrometer channel length  Appl. Phys. Lett. 84, 4427-4429 (2004)
-* T. Doll (Ed.+ Author), Advanced Gas Sensing: The Electroadsorptive Effect and Related Techniques, Kluwer Academic Publishers, Boston, 2003, ISBN 1-4020-7433-6
-* T. Doll, R. Paris, N. Djermanova, J. Lehmann, P. Kornetzky, R.P. Gupta, G. Eranna, Fully CMOS Gas Sensing FET with Hybrid Sensing Capacitor, IEEE Sensors Journal, 2003
-* S. Scheinert, G. Paasch, M. Schrödner, H. Roth, S. Sensfuß, T. Doll, Subthreshold Chrarcteristics of Field Effect Transistors based on Poly(3-dececylthiophene) and an Organic Insulator, J. Apl. Physics, 92, 1, (2002) 330-337
+* J. Velez, A. Chaiyboun, C. Wilbertz, S. Scheinert,<u>T. Doll</u>, Drift Modelling of Electrically Controlled Nanoscale Metal Oxide Gas Sensors, IEEE Electron Device Letters, 29, 7 (2008), 677-680
+* S. Ahlers, G. Müller, <u>T. Doll</u>, Factors Influencing the Gas sensitivity of Metal Oxide Materials, in C.A. Grimes, E.C. Dickey, M.V. Pisko (Eds), Encyclopedia of Sensors, 2007, vol. 3, 413-447
+* T. Haas, <u>T. Doll</u>, Omnidirectional 2D Photonic Band Gap Structures, Phys. Rev. B, Vol. 73, No. 4, pp. 045130, 2006
+* S. Scheinert, <u>T. Doll</u>, A. Scherer, G. Paasch, I. Hörselmann, Organic field-effect transistors with nonlithographically defined submicrometer channel length  Appl. Phys. Lett. 84, 4427-4429 (2004)
+* <u>T. Doll</u> (Ed.+ Author), Advanced Gas Sensing: The Electroadsorptive Effect and Related Techniques, Kluwer Academic Publishers, Boston, 2003, ISBN 1-4020-7433-6
+* <u>T. Doll</u>, R. Paris, N. Djermanova, J. Lehmann, P. Kornetzky, R.P. Gupta, G. Eranna, Fully CMOS Gas Sensing FET with Hybrid Sensing Capacitor, IEEE Sensors Journal, 2003
+* S. Scheinert, G. Paasch, M. Schrödner, H. Roth, S. Sensfuß, <u>T. Doll</u>, Subthreshold Chrarcteristics of Field Effect Transistors based on Poly(3-dececylthiophene) and an Organic Insulator, J. Apl. Physics, 92, 1, (2002) 330-337
 
 
 
@@ -34,11 +34,7 @@ and Theodor Doll; Phys. Status Solidi A 211, No. 6, 1455–1461 (2014); DOI 10.1
 
 **2015**
 ----
-**HNO-Congress** - 86th Annual Meeting 2015
-of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery
 
-* Submitted: Title; J. Stieghorst, ??, T. Lenarz, T. Doll   
-* Submitted: Flexibles Carbon Nanotube basiertes Elektrodenmaterial zur Anwendung in Cochlea Implantaten; K. Tegtmeier, F. Golly, T. Lenarz, T.Doll
 
 **2014**
 ----
