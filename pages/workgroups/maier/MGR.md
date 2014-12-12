@@ -19,5 +19,5 @@ Feodor-Lynen-Str. 35
 ***
 **Links:** 
 
-[Profile on ResearchGate](http://www.researchgate.net/profile/Martin_Grossoehmichen "Profil on ResearchGate")  
+[Profile on ResearchGate](http://www.researchgate.net/profile/Martin_Grossoehmichen "Profile on ResearchGate")  
 [Profile on Linkedin](https://www.linkedin.com/in/martingrossoehmichen "Profile on LinkedIn")

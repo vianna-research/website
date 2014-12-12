@@ -2,21 +2,23 @@
 
 ###Head of Work Group   															
 																						
-[Prof. Dr. Hannes Maier](staff/HMA.html "Prof. Dr. phil. nat. Hannes Maier")	
+[![Picture Hannes Maier](HMA_small.jpg)](staff/HMA.html "Prof. Dr. phil. nat. Hannes Maier")	[Prof. Dr. Hannes Maier](staff/HMA.html "Prof. Dr. phil. nat. Hannes Maier")
 														
 ---
 
 ###Research Team
 
-[Mohammad Ghoncheh](staff/MGH.html "Mohammad Ghoncheh")
+[![Picture Mohammad Ghoncheh](MGH_small.jpg)](staff/MGH.html "Mohammad Ghoncheh")	[Mohammad Ghoncheh](staff/MGH.html "Mohammad Ghoncheh")
 
-[Martin Großöhmichen](staff/MGR.html "Martin Großöhmichen")
+[![Picture Martin Großöhmichen](MGR_small.jpg)](staff/MGR.html "Martin Großöhmichen")	[Martin Großöhmichen](staff/MGR.html "Martin Großöhmichen")
  
-[Giorgio Lilli](staff/GLI.html "Giorgio Lilli")
+[![Picture Giorgio Lilli](GLI_small.jpg)](staff/GLI.html "Giorgio Lilli")	[Giorgio Lilli](staff/GLI.html "Giorgio Lilli")
 	
-[Mathias Müller](staff/MMU.html "Mathias Müller ")
+[![Picture Mathias Müller](MMU_small.jpg)](staff/MMU.html "Mathias Müller")	[Mathias Müller](staff/MMU.html "Mathias Müller ")
 		
-[Rolf Salcher](staff/RSA.html "Rolf Salcher")
+[![Picture Rolf Salcher](RSA_small.jpg)](staff/RSA.html "Rolf Salcher") [Rolf Salcher](staff/RSA.html "Rolf Salcher")
+
+
 
 
 
