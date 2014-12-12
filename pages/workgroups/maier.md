@@ -1,6 +1,6 @@
 # Implantable Middle Ear Hearing Devices 
 
-##Work Group led by H. Maier  
+##Prof. Dr. Hannes Maier  
 *  [Field of Work](maier/work.html "Field of Work")
 
 *  [Staff](maier/staff.html "Staff")
