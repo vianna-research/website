@@ -75,6 +75,8 @@ CUSTOM_CSS = 'static/VIANNA.css'
 SITELOGO = 'mhh.png'
 SITELOGO_SIZE = '25 em'
 
+FAVICON = "favicon.png"  # small icon, shown in adressbar of browsers
+
 # The plugins to load
 # Note, `hierarchy` is our own plugin for hierachic static pages.
 PLUGIN_PATHS = ['../pelican-plugins']
