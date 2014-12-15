@@ -1,6 +1,6 @@
 title: Rolf Salcher
-##Dr. med.  Rolf Salcher
-![Picture Rolf Salcher](RSA.jpg)
+
+![Picture Rolf Salcher](RSA.jpg) **Dr. med.  Rolf Salcher**
 
 
 
