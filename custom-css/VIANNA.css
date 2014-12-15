@@ -112,3 +112,17 @@ table tr th,table tr td {
 /*    text-align: left;*/
     margin: 0;
     padding: 0.5em 1em; }
+
+
+.borderless table,
+.borderless table tr th,
+.borderless table tr td {
+    border: 0 !important;
+    box-shadow: none;
+}
+
+.borderless th {
+    border: 0 !important;
+    background: transparent !important;
+}
+
