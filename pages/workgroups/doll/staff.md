@@ -1,7 +1,5 @@
 title: Staff - Doll Lab 
 
-![Gruppenbild AG Doll](Gruppenbild.JPG)
-
 **Head of research group**   														
 							
 ![Image Theo Doll](Theo.png) |  Prof. Dr.-Ing. Theodor Doll |  doll.theodor(at)mh-hannover.de	
