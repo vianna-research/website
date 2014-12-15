@@ -1,8 +1,6 @@
 titel: AG Doll - Publications
 
 #Publications
-**2015**
----
 
 **2014**
 ---
@@ -31,10 +29,6 @@ and Theodor Doll; Phys. Status Solidi A 211, No. 6, 1455–1461 (2014); DOI 10.1
 
 
 #Conferences
-
-**2015**
-----
-
 
 **2014**
 ----
