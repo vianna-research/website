@@ -39,7 +39,7 @@ The course "Nanotechnology in Medicine" wants to review all nano-developments th
 
 Based on this, we want to develop tools and techniques for the assessment of "nano" ideas in the terms of feasability. Techniques are learned for setting up research roadmaps with definition oc challenges and hurdles.
 
-**Date:** October 22nd-23rd
+**Date:** October 22nd-23rd, 2014
 
 **Language:** Englisch
 
