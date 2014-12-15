@@ -24,6 +24,8 @@ A targeted stimulation of small groups of neurons and fibers represents a challe
 
 Further information is available at [www.neuroprostheses.com](www.neuroprostheses.com).
 
+## Topics
+### [Plascitiy](...link zu meiner seite) 
 
 
 Contact: Prof. Dr. Dr. med. A. Kral: Kral.Andrej@mh-hannover.de
