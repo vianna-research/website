@@ -1,6 +1,7 @@
-## Implantable Middle Ear Hearing Devices | Publications
+title: Publications
 
-###2014
+
+##2014
 * Burke WF, Lenarz T and Maier H [**Hereditäre Schwerhörigkeit.**](http://link.springer.com/article/10.1007%2Fs00106-014-2901-x "Hereditäre Schwerhörigkeit") HNO. 2014; 62(10):759–770. doi: 10.1007/s00106-014-2901-x.
 
 * Lenarz T, Schwab B, Maier H, Kludt E. [**Direkte akustische cochleäre Stimulation für die Therapie der hochgradigen kombinierten Schwerhörigkeit: Codacs™ Direct Acoustic Cochlear Implant System.**](http://link.springer.com/article/10.1007%2Fs00106-014-2893-6 "Direkte akustische cochleäre Stimulation für die Therapie der hochgradigen kombinierten Schwerhörigkeit: Codacs™ Direct Acoustic Cochlear Implant System")  HNO. 2014 Jul;62(7):481-9. doi:
@@ -9,8 +10,8 @@
 * Giere T, Busch S, Lenarz T, Maier H. [**Erste audiologische Ergebnisse des im Ohr getragenen Knochenleitungshörgeräts C.A.I. BC811.**](http://link.springer.com/article/10.1007%2Fs00106-014-2875-8 "Erste audiologische Ergebnisse des im Ohr getragenen Knochenleitungshörgeräts C.A.I. BC811") HNO. 2014 Jul 11. doi: 10.1007/s00106-014-2875-8. German. PubMed PMID: 25008271.
 
 * Salcher R, Schwab B, Lenarz T, Maier H. [**Round window stimulation with the floating mass transducer at constant pretension.**](http://www.sciencedirect.com/science/article/pii/S0378595514000446 "Round window stimulation with the floating mass transducer at constant pretension") Hear Res. 2014 Aug;314:1-9. doi: 10.1016/j.heares.2014.04.001. Epub 2014 Apr 13. PubMed PMID: 24727490.
-***
-###2013
+
+##2013
 * Busch S, Kruck S, Spickers D, Leuwer R, Hoth S, Praetorius M, Plinkert PK, Mojallal H, Schwab B, Maier H, Lenarz T. [**First clinical experiences with a direct acoustic cochlear stimulator in comparison to preoperative fitted conventional hearing aids.**](http://www.ncbi.nlm.nih.gov/pubmed/24232068 "First clinical experiences with a direct acoustic cochlear stimulator in comparison to preoperative fitted conventional hearing aids.") Otol Neurotol. 2013 Dec;34(9):1711-8. doi: 10.1097/MAO.0000000000000225. PubMed PMID: 24232068.
 
 * Burke WF, Lenarz T, Maier H. [**Hereditäre Schwerhörigkeit Teil 1: Überblick und praktische Hinweise zur Diagnostik.**](http://link.springer.com/article/10.1007%2Fs00106-013-2689-0 "Hereditäre Schwerhörigkeit Teil 1: Überblick und praktische Hinweise zur Diagnostik.") HNO. 2013 Apr;61(4):353-63. doi: 10.1007/s00106-013-2689-0. German. PubMed PMID: 23588679.
@@ -18,8 +19,7 @@
 * Nolan LS, Maier H, Hermans-Borgmeyer I, Girotto G, Ecob R, Pirastu N, Cadge BA, Hübner C, Gasparini P, Strachan DP, Davis A, Dawson SJ. [**Estrogen-related receptor gamma and hearing function: evidence of a role in humans and mice.**](http://www.sciencedirect.com/science/article/pii/S0197458013000821 "Estrogen-related receptor gamma and hearing function: evidence of a role in humans and mice.") Neurobiol Aging. 2013 Aug;34(8):2077.e1-9. doi: 10.1016/j.neurobiolaging.2013.02.009. Epub 2013 Mar 26. PubMed PMID: 23540940.
 
 * Maier H, Salcher R, Schwab B, Lenarz T. [**The effect of static force on round window stimulation with the direct acoustic cochlea stimulator.**](http://www.sciencedirect.com/science/article/pii/S037859551200305X "The effect of static force on round window stimulation with the direct acoustic cochlea stimulator.") Hear Res. 2013 Jul;301:115-24. doi: 10.1016/j.heares.2012.12.010. Epub 2012 Dec 28. PubMed PMID: 23276731.
-***
-### Before 2013
+## Before 2013
 * Schultz M, Baumhoff P, Maier H, Teudt IU, Krüger A, Lenarz T, Kral A. **Nanosecond laser pulse stimulation of the inner ear-a wavelength study.** Biomed Opt Express. 2012 Dec 1;3(12):3332-45. doi: 10.1364/BOE.3.003332. Epub 2012 Nov 28. PubMed PMID: 23243582; PubMed Central PMCID: PMC3521308.
 
 * Schultz M, Baumhoff P, Teudt IU, Maier H, Krüger A, Lenarz T, Kral A. **Pulsed wavelength-dependent laser stimulation of the inner ear.** Biomed Tech (Berl). 2012 Sep 6;57 Suppl 1. pii:/j/bmte.2012.57.issue-s1-P/bmt-2012-4339/bmt-2012-4339.xml. doi: 10.1515/bmt-2012-4339. PubMed PMID: 23096342.
