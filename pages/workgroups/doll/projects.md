@@ -1,4 +1,4 @@
-title: AG Doll - Grants and Projects
+title: Doll Lab - Grants and Projects
 
 Publications regarding these projects can be found [here](/Publications/)
 
@@ -10,13 +10,7 @@ Publications regarding these projects can be found [here](/Publications/)
 
 ##Ongoing Projects
 
-* **Application of nanotube electrodes in multimodal detection and activation of neuronal signals** (KMU Innovativ: Medizintechnik, BMBF)   
- TEXTTEXTTEXTTEXTTEXTTEXTTEXT   
-Project Partners are [Black Rock Microsystems Europe](http://www.blackrockmicro.com/index.aspx), [Deutsches Institut für Kautschuktechnologie e.V.](http://www.dikautschuk.de/), [NeuEncepharm](http://www.encepharm.de/index.htm)   
-Please contact [Prof. Doll](/staff/) for more information.
-
 * **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprgramm Forschung und Entwicklung, N-Bank)   
-TEXTTEXTTEXTTEXTTEXTTEXTTEXT   
 Project Partner is [Black Rock Microsystems Europe](http://www.blackrockmicro.com/index.aspx)
  
 * **Flexible, selfbending multielectrode shafts** ([Hearing4All](http://hearing4all.eu/EN/))   
