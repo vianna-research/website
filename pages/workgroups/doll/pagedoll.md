@@ -4,11 +4,6 @@ title: Doll Lab - Head of Research Group
 
 ![Image Theo Doll](Theo.png)
 
-Prof. Dolls research covers chemo- and solid state sensors, silicon technology, simulation and modeling of micromachined sensors, the development of chemical and high-temperature sensors, polymer transistors, photonic band gap, and MEMS systems.   
-His focus in the Excellence Cluster Hearing 4 All is on.....
-
-
-
 **Academic Education**
 
 <table>
