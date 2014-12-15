@@ -16,8 +16,8 @@ title: Prof. Hannes Maier
 
 ### Links:
 
-[Work Group "Middle Ear Implants" at the Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=20 "DHZ")
+- [Work Group "Middle Ear Implants" at the Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=20 "DHZ")
 
-[Profile on ResearchGate](http://www.researchgate.net/profile/Hannes_Maier "Profil on ResearchGate")
+- [Profile on ResearchGate](http://www.researchgate.net/profile/Hannes_Maier "Profil on ResearchGate")
 
-[Profile on Linkedin](https://linkedin.com/pub/hannes-maier/2/163/92 "Profile on LinkedIn")
+- [Profile on Linkedin](https://linkedin.com/pub/hannes-maier/2/163/92 "Profile on LinkedIn")
