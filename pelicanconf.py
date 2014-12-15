@@ -72,7 +72,7 @@ EXTRA_PATH_METADATA = {
 }
 CUSTOM_CSS = 'static/VIANNA.css'
 
-SITELOGO = 'images/mhh.png'
+SITELOGO = 'mhh.png'
 SITELOGO_SIZE = '25 em'
 
 # The plugins to load
