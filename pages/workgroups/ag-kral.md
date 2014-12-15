@@ -1,31 +1,44 @@
 lang: en
 slug: ag-kral
-title: AG Kral - Elektrophysiologie
+title: Kral Lab - Electrophysiology
 
-# Work group led by A. Kral
+# [Lab of Auditory Neuroscience & Neuroprostheses](www.neuroprostheses.com)
 
 ![Figure 1](RTEmagicC_KralBilder_03.jpg)
-_Left:_ Photograph of the primary auditory cortex (Cereb Cortex 2005).
-
-_Middle:_ Activation map of these areas after early implantation and chronic stimulation through a cochlear implant in a congenitally deaf animal (Science 1999, Prog Brain Res 2006, J Neurosci 2009).
-
-_Right:_ Reconstruction of a microelectrode penetration through the auditory cortex (Cereb Cortex 2005, Brain Res Rev 2007)
 
 
-The group of Dr. A. Kral focuses on neuroprosthetic possibilities to compensate hearing loss, on central processing of the activity resulting from such artificial stimulation and on the consequences of congenital deafness for the postnatal development of the auditory system.
+We focus our research on neuroprosthetic devices, i.e. methods of artificial stimulation of the nervous system. So far, the cochlear implant has been the clinically most successful neuroprosthetic device. We work on further improvements of this prosthetic device and search for alternative ways of the stimulation of the brain.
 
-The cochlear implant is the most successful neuroprosthetic device. It allows deaf and hearing-impaired subjects a partial reconstitution of hearing by use of a stimulation electrode positioned within the inner ear (cochlea). In congenitally deaf, the benefit of the implant shows a critical period, i.e. is dependent on implantation age. To explore this phenomenon, congenitally deaf, hearing and deafened animals were stimulated with cochlear implants and investigated neurophysiologically in the brain regions that are responsible for auditory processing. The group could for the first time demonstrate a neurophysiological correlate of such critical developmental period in the auditory cortex and could uncover its developmental mechanisms. In this ongoing project we learn how plasticity is regulated at the integrative (systemic) level. Another focus of the group is the investigation of the influence of other sensory stimuli on the auditory system in congenital deafness and its consequences for therapy of congenital deafness.
+Replacing a lost brain function by a neuroprosthesis requires to understand how neuronal assemblies represent the world and how neuronal circuits process information. We focus on the consequences of lost functions on information processing in the brain. As postnatal development of the brain depends on experience, the most devastating effects of lost functions are observed when deprivation starts in childhood. Our lab investigates how congenital auditory deprivation (deafness) affects the neuronal networks of the auditory system. We could show that some feature sensitivity is rudimentary preserved in the auditory cortex of congenitally deaf, whereas e.g. cortical interactions and binaural representations show extensive alterations. In it‘s ultimate consequence, congenital deafness leads to the inability to represent auditory stimuli and to learn. We could for the first time describe a neural correlate of a developmental sensitive (critical) period - the earier the restoration of hearing with cochlear implant is performed, the faster and better is the adaptation to the implant.
 
-The spatial auditory information is extracted in the central auditory system. To allow a spatial perception in cochlear-implanted subjects, the neurophysiological consequences of deafness on the extraction and representation of spatial cues in the brain have to be elucidated. Knowledge on these mechanisms and their altered function in deafness allows optimizing the electrical stimulus in binaural cochlear implants, having the consequence of better spatial hearing in implanted subjects. This aspect is investigated in congenitally deaf and hearing animals implanted with binaural cochlear implants. With binaural electrical stimuli different auditory perceptions are simulated and the central neuronal activity is compared between hearing and deaf animals.
 
-Although the cochlear implants successfully convey speech to more than 100 000 subjects, the evoked perception is still unnatural and difficult auditory conditions (e.g. speech in noise) remain a challenge for these patients. Further research of neurophysiologists, physicists, neurologists, engineers and physicians is required to allow progress in the field of artificial stimulation of nervous tissue. Despite the success of electrical stimulation, we focus our work on further improvement using beam forming, as well as the mechanisms of simultaneous electroacoustic stimulation for hearing impaired (but not completely deaf) subjects.
+Detailed information is available at [the Lab's website](www.neuroprostheses.com).
 
-A targeted stimulation of small groups of neurons and fibers represents a challenge as electrical fields spread into the neuronal tissue in an unfocused manner, and focusing has been possible only in a very limited extend. Recently, it has been reported that pulsatile laser might be effective in stimulation of neuronal tissue. Due to its inherent directionality, lasers represent a possibility to target small cell groups also very differentially. We investigate effects of stimulation on peripheral nerves, the inner ear as well as on central structures of the nervous system. In addition to the optoneuronal stimulation with lasers, there is also the option of stimulating the hearing-impaired cochlea with pressure waves. In what extent this approach will eventually yield a frequency-specific amplification of acoustic inputs will be investigated in our labs the future.
+## Research Topics
+### [Neurophysiology of Cochlear Implants](http://neuroprostheses.com/AK/Cochlear_Implants.html)
+### [Plasticity & Critical Periods](http://neuroprostheses.com/AK/Critical_periods.html) 
+### [Development & Sensory Deprivation](http://neuroprostheses.com/AK/Deafness.html)
+### [Single-Sided Deafness](http://neuroprostheses.com/AK/Single-sided_deafness.html)
+### [Deafness and Space](http://neuroprostheses.com/AK/Binaural_CIs.html)
+### [Crossmodal Plasticity](http://neuroprostheses.com/AK/Crossmodal.html)
+### [Morphology of the Cochlea](http://neuroprostheses.com/AK/Cochlea.html)
+### [“Hearing” Light](http://neuroprostheses.com/AK/Laser_prosthesis.html)
+### [Anaesthesia & the Cortex](http://neuroprostheses.com/MouseLab/Burst-Suppression.html)
+### [Mouse Brain](http://neuroprostheses.com/MouseLab/Mouse_V1.html)
 
-Further information is available at [www.neuroprostheses.com](www.neuroprostheses.com).
 
-## Topics
-### [Plascitiy](...link zu meiner seite) 
+---------------------
+## Methods used by our lab
+### [Methods](http://neuroprostheses.com/AK/Methods.html)
+
+## Courses that we teach
+### [Courses](http://neuroprostheses.com/AK/Students_corner.html)
+
+## Full list of publications
+### [Publications](http://neuroprostheses.com/AK/Papers.html)
+
+## Press reports on our work & Interviews
+### [Press reports](http://neuroprostheses.com/AK/Press_%26_TV.html)
 
 
 Contact: Prof. Dr. Dr. med. A. Kral: Kral.Andrej@mh-hannover.de
