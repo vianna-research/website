@@ -1,77 +1,39 @@
-title: Doll Lab - Head of Research Group
+title: Prof. Dr.-Ing Theodor Doll
 
-## Prof. Dr.-Ing Theodor Doll
+## Head of Research Group
 
-![Image Theo Doll](Theo.png)
+![Profile photo of Theo Doll](Theo.png)
 
-**Academic Education**
 
-<table>
-<tr><th>1999<td> Habilitation in Microsystems Engineering <tr>
-<tr><th>1995<td> Doctorate in Electrical Engineering <tr>
-<tr><th>1989<td> Diploma in Physics  <tr>
-</table>
+### Academic Education
 
-***
-**Professional Career**
+<div class="borderless" markdown="1">
+|             |                                            |
+|-------------|--------------------------------------------|
+|    1999     | Habilitation in Microsystems Engineering   |
+|    1995     | Doctorate in Electrical Engineering        |
+|    1989     | Diploma in Physics                         |
+</div>
 
- <table bordercolour="transparent">
-  <tr >
-    <th>since 2013</th>
-    <td> Professorship in Biomaterial Engineering at Hannover Medical School</td>
-   
-  <tr>
-  <tr>
-    <th>2006 - 2012</th>
-    <td>Chief Scientist at Application and competence center for heterogeneous microsystems Dortmund </td>
-   
-  <tr>
-<tr>
-    <th>2004 - 2009</th>
-    <td>Professor microstructure physics, Johannes Gutenberg University Mainz</td>
-   
-  <tr>
-<tr>
-    <th>2004 - 2006</th>
-    <td>Mainz Institute of Microtechnology, CEO/CSO</td>
-   
-  <tr>
-<tr>
-    <th>2002 - 2004</th>
-    <td>Director of the Center of Micro- and Nanotechnologies (ZMN)</td>
-   
-  <tr>
-<tr>
-    <th>2000 - 2004</th>
-    <td>Professor solid-state electronics, Technical University Ilmenau</td>
-   
-  <tr>
-<tr>
-    <th>1998 - 2000</th>
-    <td>Visiting Associate at California Institut of Technology, Pasadena, USA  </td>
-   
-  <tr>
-<tr>
-    <th>1998</th>
-    <td>Assistant Professor at Univerität der Bundeswehr München</td>
-   
-  <tr>
-<tr>
-    <th>1997</th>
-    <td>Post Doc at University of Chile, Santiago de Chile </td>
-   
-  <tr>
-<tr>
-    <th>1991 - 1996</th>
-    <td>Research assistent at Universität der Bundeswehr München</td>
-   
-  <tr>
-<tr>
-    <th>1989 - 1991</th>
-    <td> Sensor Development, KWS Electronic GmbH, Rosenheim</td>
-   
-  <tr>
-</table> 
+
+### Professional Career
+
+<div class="borderless" markdown="1">
+|             |                                                                                              |
+|-------------|----------------------------------------------------------------------------------------------|
+| since 2013  | Professorship in Biomaterial Engineering at Hannover Medical School                          |
+| 2006 - 2012 | Chief Scientist at Application and competence center for heterogeneous microsystems Dortmund |
+| 2004 - 2009 | Professor microstructure physics, Johannes Gutenberg University Mainz                        |
+| 2004 - 2006 | Mainz Institute of Microtechnology, CEO/CSO                                                  |
+| 2002 - 2004 | Director of the Center of Micro- and Nanotechnologies (ZMN)                                  |
+| 2000 - 2004 | Professor solid-state electronics, Technical University Ilmenau                              |
+| 1998 - 2000 | Visiting Associate at California Institut of Technology, Pasadena, USA                       |
+| 1998        | Assistant Professor at Univerität der Bundeswehr München                                     |
+| 1997        | Post Doc at University of Chile, Santiago de Chile                                           |
+| 1991 - 1996 | Research assistent at Universität der Bundeswehr München                                     |
+| 1989 - 1991 | Sensor Development, KWS Electronic GmbH, Rosenheim                                           |
+</div>
+
 ***
 
 [Profile on XING](https://www.xing.com/profile/Theodor_Doll)
