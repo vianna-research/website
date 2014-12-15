@@ -1,4 +1,4 @@
-title: AG Doll - BioMaterial Engineering
+title: Staff - Doll Lab 
 
 ![Gruppenbild AG Doll](Gruppenbild.JPG)
 
@@ -35,8 +35,6 @@ title: AG Doll - BioMaterial Engineering
 
 ![Image Nina Sendler](Nina.png) | Nina Sendler, B.Eng.	|	sendler.nina(at)mh-hannover.de	|	Master Thesis
 
------------------------------
-If you are interested in researchers that have been working here, have a look at the [Former researchers and students](/doll/Former) web page. 
 
 #Former Researchers and Students
 
