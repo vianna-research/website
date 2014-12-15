@@ -32,10 +32,11 @@ Nebeneinander Ausklappen
 **9:00:** Opening of the conference  
 **9:30-12:15:** Session A: Title  
 **9:30-10:15:** Tutorial A [Speakers Name](/TutorialSpeakers/)    
-**10:15-11:15:** Short presentations: session A   
 
-ausklappen:  
- 
+<a href="#" onclick="toggle_visibility('foo');">**10:15-11:15:** Short presentations: session A </a>
+
+<div id="foo" markdown="1">
+
 **10:15 - 10:18 | A.1 |** Name: "Titel"    
 **10:18 - 10:21 | A.2  |** Name: "Titel"   
 **10:21 - 10:24 | A.3  |** Name: "Titel"  
@@ -56,6 +57,8 @@ ausklappen:
 **11:06 - 11:09 | A.18 |** Name: "Titel"  
 **11:09 - 11:12 | A.19 |** Name: "Titel"   
 **11:12 - 11:15 | A.20 |** Name: "Titel"  
+
+</div>
 
 ausklappen Ende  
  
