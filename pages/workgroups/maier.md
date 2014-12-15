@@ -1,5 +1,5 @@
 title:Lab Maier
-## Lab Maier: Implantable Middle Ear Hearing Devices   
+## Implantable Middle Ear Hearing Devices   
 
 
 
