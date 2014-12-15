@@ -1,4 +1,4 @@
-titel: AG Doll - Publications
+titel: Doll Lab - Publications
 
 #Publications
 
