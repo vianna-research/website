@@ -1,3 +1,5 @@
+title: Doll Lab - Head of Research Group
+
 ## Prof. Dr.-Ing Theodor Doll
 
 ![Image Theo Doll](Theo.png)
