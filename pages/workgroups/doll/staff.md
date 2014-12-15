@@ -1,4 +1,4 @@
-title: Staff - Doll Lab 
+title: Doll Lab- Staff 
 
 **Head of research group**   														
 							
