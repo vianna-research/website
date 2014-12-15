@@ -1,25 +1,31 @@
-titel: Doll Lab - Biomaterial Engineering
+title: Doll Lab - Biomaterial Engineering
 
-##AG Doll - BioMaterial Engineering ![Logo BioMaterial Engineering](BME.jpg)
+![Logo BioMaterial Engineering](BME.jpg)
+
+##AG Doll - BioMaterial Engineering
 
 
 **BILD zur Forschung**
 
-The research group BioMaterial Engineering works towards development and production techniques for new electrode concepts for active implants in the head region. Concepts and materials from nanotechnology and microelectronic, especially polymers, polymer composites and polymer semi conductors, are used. Mechanoactive, individualised and biochemosensoric implants are realised. 
+The research group BioMaterial Engineering works towards development and production techniques for new electrode concepts for active implants in the head region. Concepts and materials from nanotechnology and microelectronic, especially polymers, polymer composites and polymer semi conductors, are used. Mechanoactive, individualised and biochemosensoric implants are realised.
 
-More information about current projects can be found [here](/doll/projects). 
+More information about current projects can be found [here](doll/projects.html).
 
 ***
 
 **Contact Information:**
 
-BioMaterial Engineering    
-Medizinische Hochschule Hannover    
-Feodor-Lynen-Straße 27    
-30625 Hannover
+Adress
 
-Phone: 0511 532 7231   
-Fax: 0511 532 18576   
-Mail: biomaterialengineering(@)mh-hannover.de
+    BioMaterial Engineering
+    Medizinische Hochschule Hannover
+    Feodor-Lynen-Straße 27
+    30625 Hannover
 
-A list of the staff can be found [here](/doll/staff). 
+Contact
+
+    Phone: +49 511 532 7231
+    Fax: +49 511 532 18576
+    Mail: biomaterialengineering(@)mh-hannover.de
+
+A list of the staff can be found [here](doll/staff.html).

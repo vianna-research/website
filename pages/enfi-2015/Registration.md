@@ -1,4 +1,4 @@
-titel:Registration
+title: Registration
 
 Formular zur Registrierung!!
 
