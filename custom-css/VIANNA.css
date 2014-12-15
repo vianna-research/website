@@ -99,21 +99,16 @@ table {
     box-shadow: 0 2px 4px #999;
 }
 table th {
-    padding: .2em 1em;
-    background-color: #eee;
-    border-top: 1px solid #ddd;
-    border-left: 1px solid #ddd; }
+    background-color: #eee; }
 table tr {
-    border-top: 1px solid #ccc;
+    /*border-top: 1px solid #ccc;*/
     background-color:#fff;
     margin: 0;
-    padding: 0 }
-table td {
-    padding: .2em 1em;
-    border-top: 1px solid #ddd;
-    border-left: 1px solid #ddd; }
+    padding: 0; }
+table td, table th {
+    padding: .2em 1em; }
 table tr th,table tr td {
     border: 1px solid #ccc;
-    text-align: left;
+/*    text-align: left;*/
     margin: 0;
     padding: 0.5em 1em; }
