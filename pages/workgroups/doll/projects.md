@@ -1,4 +1,4 @@
-title: Doll Lab - Grants and Projects
+title: Grants and Projects
 
 Publications regarding these projects can be found [here](/Publications/)
 
