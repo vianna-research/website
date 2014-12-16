@@ -1,4 +1,5 @@
-title: Hotels
+title: Hotel suggestions
+status: draft
 
 Single and double rooms have been reserved in the Ibis Hotel Medical Park and the GHotel.
 The IBIS is in walking distance to the conference location. From the GHotel you can take the Bus 137 towards Spannhagengarten and get off at "Neue Landstraße". From there it is just a short walk to the conference location.
