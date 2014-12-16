@@ -27,7 +27,7 @@ title: Doll Lab- Staff
 
 ![Image Daniel Majaura](Daniel.png) | Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Laborarbeit
 
-![Image Janine McCaughey](Janine.jpg) | Janine McCaughey, B.Sc.				|		mccaughey.janine(at)mh-hannover.de	|	HiWi
+
 
 ![Image Felix Riedel](FelixR.png) | Felix Riedel, B.Eng.	|	riedel.felix(at)mh-hannover.de	|	Master Thesis
 
@@ -41,6 +41,8 @@ title: Doll Lab- Staff
 Dipl.-Ing. Pooyan Aliuos, PhD | alious.pooyan(at)mh-hannover.de	| PostDoc
 
 Felix Golly, B.Sc.	| Bachelor Thesis
+
+Janine McCaughey, B.Sc.	| HiWi
 
 Sven Meinen, B.Sc.	|	Master Thesis
 
