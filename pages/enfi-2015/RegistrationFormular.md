@@ -1,4 +1,6 @@
-##Registration Form
+title: Registration
+status: draft
+
 
 <form id="kontaktformular" name="kontaktformular" action="">
 <tr>

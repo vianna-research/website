@@ -1,4 +1,5 @@
 title: Organizing Committee
+status: draft
 
 * Theodor Doll, Hannover Medical School
     theodoll(at)web.de
