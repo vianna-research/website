@@ -1,5 +1,5 @@
 title: Kurt Lab - Publications
-status: draft
+
 
 
 ## Peer reviewed Publications
