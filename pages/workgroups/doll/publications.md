@@ -1,4 +1,4 @@
-title: Doll Lab - Publications
+title: Publications
 
 #Publications
 
