@@ -17,7 +17,7 @@ Tutorials include researching and exercises about biofunctionality which are dis
 
 **Contact:**
 [Marc Müller (IMP,LUH)](http://www.imp.uni-hannover.de/mitarbeiter.html)   
-[Jan Stieghorst (MHH)](/staff/)
+[Jan Stieghorst (MHH)](staff.html)
 
 **Location:**  [LUH, Institute for Multiphase Processing, Callinstraße 36](http://www.imp.uni-hannover.de/wegbeschreibung.html)
 
@@ -45,9 +45,9 @@ Based on this, we want to develop tools and techniques for the assessment of "na
 **Language:** Englisch
 
 **Contact:**
-[Katharina Tegtmeier (MHH)](/staff/)
+[Katharina Tegtmeier (MHH)](staff.html)
 
-**Location:** [MHH, Vianna,Feodor-Lynen-Str. 35, Conference Room](/Anfahrt/)
+**Location:** MHH, Vianna,Feodor-Lynen-Str. 35, Conference Room
 
 
 
