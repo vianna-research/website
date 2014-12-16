@@ -1,6 +1,7 @@
 title:Route Description
+status: draft
 
-#Conference Locatation
+##Conference Locatation
 ---
 
 ![Image rotunde](Rotunde.jpg)
@@ -25,7 +26,7 @@ It is in walking distance from the [Ibis Hotel](/Hotels/) and not very far from 
 ![Map](maps.png)
 
 
-#Conference Dinner
+##Conference Dinner
 ---
 The Dinner will take place at the [Roof Garden](www.roof-garden.de). Enjoy!
 
@@ -45,7 +46,7 @@ Parking:
 Kröpke is an U-Bahn station. Leave it towards Georgstraße.
 ![maps](mapsroofgarden.png)
 
-#Sunday Get Together
+##Sunday Get Together
 ---
 Since a few confernce participants will already arrive on sunday, there is a get together in a beer garden for everybody who would like to get to know the other participants, who would like to revive old aquaintances or who would just like to have a cold beer after a long day of travelling.
 
