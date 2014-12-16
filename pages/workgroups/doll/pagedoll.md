@@ -42,7 +42,7 @@ title: Prof. Dr.-Ing Theodor Doll
 
 [Hearing for All Homepage](http://hearing4all.eu/EN/)
 
-[MHH - Research Group at the Otolaryngogloy Department](http://www.mh-hannover.de/18078.98.html?&L=1&no_cache=1)
+[MHH - Research Group at the Otolaryngology Department](http://www.mh-hannover.de/18078.98.html?&L=1&no_cache=1)
 ***
 
 **Contact Information:**
