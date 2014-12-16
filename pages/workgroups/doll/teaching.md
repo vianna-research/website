@@ -5,7 +5,7 @@ title: Doll Lab - Lectures
 
 Mikrokunstofffertigungstechnik für Implantate
 
-**Content:**
+###Content
 
 This lecture provides physico-chemical basics and overview of manufacturing components for biomedical use. Essentials for the succesfull integration of implants are their  assessment and biocompatibility. Materials and manufacturing processes are introduced. Each lectures includes one  material and correlationg finilazition techniques for  specific implants and medical products.
 By means of these examples, requirements for material selection and usability can be established and understood.
@@ -17,7 +17,7 @@ Tutorials include researching and exercises about biofunctionality which are dis
 
 **Contact:**
 [Marc Müller (IMP,LUH)](http://www.imp.uni-hannover.de/mitarbeiter.html)   
-[Jan Stieghorst (MHH)](/staff/)
+[Jan Stieghorst (MHH)](staff.html)
 
 **Location:**  [LUH, Institute for Multiphase Processing, Callinstraße 36](http://www.imp.uni-hannover.de/wegbeschreibung.html)
 
@@ -26,7 +26,8 @@ Tutorials include researching and exercises about biofunctionality which are dis
 ##Nanotechnology in Medicine
 Nanotechnologie in der Medizin
 
-**Content:**
+###Content:
+
 
 "Nano" has been one of the most used buzz words in the last decade. Lots has been promised and many useful things habe been developed. Many ideas, however, that have already stimulated the "microsystem" decade, have been revived like Heuberger's submarine: This would remove plaque from the inner side of blood vessels and went "nano" - still promised by serious researchers.    
  
@@ -44,9 +45,9 @@ Based on this, we want to develop tools and techniques for the assessment of "na
 **Language:** Englisch
 
 **Contact:**
-[Katharina Tegtmeier (MHH)](/staff/)
+[Katharina Tegtmeier (MHH)](staff.html)
 
-**Location:** [MHH, Vianna,Feodor-Lynen-Str. 35, Conference Room](/Anfahrt/)
+**Location:** MHH, Vianna,Feodor-Lynen-Str. 35, Conference Room
 
 
 
