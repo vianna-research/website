@@ -1,4 +1,5 @@
 title: Scope
+status: draft
 
 Surfaces, interfaces and their interactions with gases, fluids, and biological systems are the key elements of modern functional materials and analytical systems. Research in surface science and interface effects is almost by definition strongly interdisciplinary and crosses the classical disciplines of engineering, physics, chemistry, biology, and medicine. Especially, the emerging fields of nanotechnology, nanomedicine, and biotechnology have seen a substantial boost during last years by exploiting interface phenomena in various domains of high public interest. The EnFI conference addresses this broad vision by focusing on the synthesis of advanced materials, on analysing and understanding of their unique properties, and on their utilization in high-end technological applications. Not in the least, special attention goes to surface-modification strategies, allowing the creation of a manifold of smart and innovative functional properties.
 
