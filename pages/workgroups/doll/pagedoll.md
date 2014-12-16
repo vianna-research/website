@@ -1,8 +1,8 @@
 title: Prof. Dr.-Ing Theodor Doll
 
-## Head of Research Group
 
-![Profile photo of Theo Doll](Theo.png)
+
+![Profile photo of Theo Doll](TheoGroß.png)
 
 
 ### Academic Education
