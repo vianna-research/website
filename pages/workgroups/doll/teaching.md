@@ -1,4 +1,4 @@
-title: Doll Lab - Lectures
+title: Lectures
 
 
 ##Polymerbased microfabrication techniques for implants
