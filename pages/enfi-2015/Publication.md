@@ -1,3 +1,6 @@
+titel: Enfi Publications
+status: draft
+
 EnFI publications
 Back cover EnFI-2013 Hasselt University, Hasselt (Belgium)
 Back cover EnFI-2013 Hasselt University, Hasselt (Belgium)
