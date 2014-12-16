@@ -5,7 +5,7 @@ title: Doll Lab - Lectures
 
 Mikrokunstofffertigungstechnik für Implantate
 
-**Content:**
+###Content
 
 This lecture provides physico-chemical basics and overview of manufacturing components for biomedical use. Essentials for the succesfull integration of implants are their  assessment and biocompatibility. Materials and manufacturing processes are introduced. Each lectures includes one  material and correlationg finilazition techniques for  specific implants and medical products.
 By means of these examples, requirements for material selection and usability can be established and understood.
@@ -26,7 +26,8 @@ Tutorials include researching and exercises about biofunctionality which are dis
 ##Nanotechnology in Medicine
 Nanotechnologie in der Medizin
 
-**Content:**
+###Content:
+
 
 "Nano" has been one of the most used buzz words in the last decade. Lots has been promised and many useful things habe been developed. Many ideas, however, that have already stimulated the "microsystem" decade, have been revived like Heuberger's submarine: This would remove plaque from the inner side of blood vessels and went "nano" - still promised by serious researchers.    
  
