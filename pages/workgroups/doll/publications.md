@@ -57,7 +57,7 @@ before 2013
 
 **EnFI 2013** Engineering of Functional Interfaces   
 
-* Poster & Abstract: Internal interfaces: Surfmounting the percolation limits in CNT-based electrodes; M.Schickedanz, J. Stieghorst, P. Alious, G. Paasche, T. Doll
+* Poster & Abstract: Internal interfaces: Surfmounting the percolation limits in CNT-based electrodes; M.Schickedanz, J. Stieghorst, P. Alious, G. Paasche, [T. Doll](pagedoll.html)
 * Poster & Abstract: 3D hybrid functional polymer interfaces in medical implants; J. Stieghorst, R. Lüpke, P. Aliuos, [T. Doll](pagedoll.html)
 * Poster & Abstract: Carbon nanotube-liquid silicone rubber (CNT-LSR) electrode surfaces for stimulating medical implants; K. Tegtmeier, F. Arbatschat, P. Aliuos, [T. Doll](pagedoll.html)
 
