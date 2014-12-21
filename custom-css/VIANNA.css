@@ -90,6 +90,11 @@ pre {
     display: inline-block; /* don't span whole width, only as much as needed */
 }
 
+/* Indentation of lists */
+ul {
+  padding-left: 20px;
+}
+
 }
 
 .image-bg-fluid-height,
