@@ -23,8 +23,11 @@
    SOFTWARE.
 */
 
+/* Tweak the body bg color and font size (slightly larger than bootstrap3) */
 body {
     font-size: 16px;
+    background-color: #EDEAE6;
+    padding-top: 90px;
 }
 
 .navbar-default {
