@@ -170,21 +170,19 @@ table {
     box-shadow: 0 2px 4px #999;
 }
 table th {
-    background-color: #eee; }
+    background-color: #D9D5CD; }
 table tr {
-    /*border-top: 1px solid #ccc;*/
-    background-color:#fff;
+    background-color: #EDEAE6;
     margin: 0;
     padding: 0; }
 table td, table th {
     padding: .2em 1em; }
 table tr th,table tr td {
-    border: 1px solid #ccc;
-/*    text-align: left;*/
     margin: 0;
     padding: 0.5em 1em; }
 
 
+/* Tables inside of an element of class `borderless` have no border/shadow */
 .borderless table,
 .borderless table tr th,
 .borderless table tr td {
