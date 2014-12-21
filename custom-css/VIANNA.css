@@ -66,6 +66,12 @@ body {
     border: none;
 }
 
+/* The about-me image */
+#aboutme .img-thumbnail {
+  background-color: transparent;
+  border: none;
+}
+
 /* Text block, often used in Markdown */
 pre {
     background-color: #f8f5f1;
