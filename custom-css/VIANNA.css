@@ -48,6 +48,24 @@ body {
     color: #FFF; /* White text in menu bar*/
 }
 
+/* Entry in the dropdown under the mouse */
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    background-color: #C5BFB6;
+}
+
+/* The main menu entry while hovered in the sub-menu */
+.dropdown:hover,
+.navbar-nav li:hover {
+    background-color: #B1AA9E;
+    border: none;
+}
+
+/* Dropdown menu general background */
+.dropdown-menu {
+    background-color: #B1AA9E;
+    border: none;
+}
+
 }
 
 .image-bg-fluid-height,
@@ -64,14 +82,7 @@ body {
     display: inline-block;
 }
 
-.dropdown:hover,
-.navbar-nav li:hover {
-    background-color: #fff;
-}
-.dropdown-menu {
-    background-color: #fff;
-    border: 0;
-}
+
 
 .image-bg-fluid-height {
     padding: 100px 0;
