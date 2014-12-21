@@ -1,4 +1,4 @@
-title: Programm 
+title: Programm
 status: draft
 
 Nebeneinander Ausklappen

@@ -9,7 +9,7 @@
 Eine Aufzählung geht so:
 
 - erster punkt
-- zweiter 
+- zweiter
 - dritter
 
 ein Link geht so [hier](www.vianna.de)
