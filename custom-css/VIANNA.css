@@ -145,8 +145,6 @@ table {
     border-collapse: collapse;
     padding: 0;
     margin-bottom: 2em;
-    border-bottom: 1px solid #ddd;
-    border-right: 1px solid #ddd;
     border-spacing: 0;
     box-shadow: 0 2px 4px #999;
 }
