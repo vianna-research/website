@@ -4,6 +4,10 @@ AUTHOR = 'The VIANNA research team'
 SITENAME = 'VIANNA'
 SITEURL = ''
 CC_LICENSE = 'CC-BY'
+AVATAR = 'images/vianna_globe.png'
+ABOUT_ME = " "
+
+LINKS = [['Impressum', "/pages/impressum.html"]]
 
 TIMEZONE = 'Europe/Berlin'
 
@@ -87,19 +91,6 @@ PLUGINS = ['hierarchy']
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+DISPLAY_BREADCRUMBS = True
+# WITH_FUTURE_DATES = False
 
-# STATIC_LANG_SAVE_AS = "{path}-{lang}"
-
-# Extract title, slug and optionally the language from filename
-# (Note: The file extension and the dot have already been stripped).
-# The extraction of title, slug and lang from the file name avoids the most
-# common "title not defined" error and makes defining :title and :slug
-# and :lang in a page optional.
-# Example file name: `Here-is-my-post-en.md`
-# Will set both, title and slug to "Here-is-my-post" and the lang to "en"
-# The `((?!-(en|de)).)+` part matches one or more (`+`) of any char (`.`) but
-# not if the next chars are `-en` or `-de`.
-# Use http://www.pyregex.com to test this Regex.
-# FILENAME_METADATA = r'(?P<order>[0-9]*(_|-| ))?(?P<slug>(?P<title>((?!-(en|de)).)+))(-(?P<lang>(en|de)))?'
-# FILENAME_METADATA = r'(?P<order>[0-9]*(_|-| ))?(?P<slug>(?P<title>((?!-(en|de)).)+))(-(en|de))?'
-FILENAME_METADATA = r'(?P<order>[0-9]*(_|-| ))?(?P<slug>(?P<title>.+))?'

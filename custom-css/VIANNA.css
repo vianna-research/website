@@ -30,6 +30,11 @@ body {
     padding-top: 90px;
 }
 
+/* Links in the main content area */
+.entry-content a, .entry-content a:hover {
+  border-color: #F03C14;
+}
+
 .navbar-default {
     background-color: rgba(248,248,248,.96);
     box-shadow: 0 6px 12px rgba(0,0,0,.175);
