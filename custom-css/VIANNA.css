@@ -95,6 +95,24 @@ ul {
   padding-left: 20px;
 }
 
+/* Adjusting the sizes of the smaller headings ... */
+h3,
+.h3 {
+  font-size: 20px;
+}
+h4,
+.h4 {
+  font-size: 16px;
+}
+h5,
+.h5 {
+  font-size: 12px;
+}
+h6,
+.h6 {
+  font-size: 11px;
+}
+
 /* Main text justified */
 .entry-content p {
   text-align: justify;
