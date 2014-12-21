@@ -95,6 +95,9 @@ ul {
   padding-left: 20px;
 }
 
+/* Main text justified */
+.entry-content p {
+  text-align: justify;
 }
 
 .image-bg-fluid-height,
