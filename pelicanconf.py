@@ -12,7 +12,6 @@ DEFAULT_DATE = 'fs'  # use filesystem date if not given in article
 USE_FOLDER_AS_CATEGORY = True
 
 THEME = 'VIANNA-theme'
-BOOTSTRAP_NAVBAR_INVERSE = False
 
 # Some hand-crafted entries (links) in the main menu
 # MENUITEMS = [('foo', 'http://foo.org')]
@@ -51,9 +50,6 @@ OUTPUT_PATH = "../html"  # relative to the pelicanconf.py file
 
 # Always copy these to output, so they get uploaded.
 STATIC_PATHS = ['images', '__downloads', 'custom-css/VIANNA.css']
-
-# The name of the dir containing the static pages to put into the menu
-# PAGE_PATHS = ['__pages']
 
 # The dir to process input files (relative to pelicanconf.py)
 PATH = '.'
