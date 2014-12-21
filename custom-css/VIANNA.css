@@ -44,6 +44,10 @@ body {
     border-top: 15px solid #F03C14; /* The red bar at the very top */
 }
 
+.navbar-default .navbar-nav > li > a {
+    color: #FFF; /* White text in menu bar*/
+}
+
 }
 
 .image-bg-fluid-height,
