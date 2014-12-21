@@ -66,6 +66,13 @@ body {
     border: none;
 }
 
+/* Text block, often used in Markdown */
+pre {
+    background-color: #f8f5f1;
+    border: 1px solid #C5BFB6;
+    display: inline-block; /* don't span whole width, only as much as needed */
+}
+
 }
 
 .image-bg-fluid-height,
@@ -131,9 +138,6 @@ body {
 }
 
 
-pre {
-  display: inline-block;
-}
 
 /**** iframe *****************************************************************/
 iframe {
