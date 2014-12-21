@@ -66,6 +66,12 @@ body {
     border: none;
 }
 
+/* A multi-purpose box (e.g. used for the right side) */
+.well {
+  background-color: #D9D5CD;
+  border-color: #C5BFB6;
+}
+
 /* The about-me image */
 #aboutme .img-thumbnail {
   background-color: transparent;
