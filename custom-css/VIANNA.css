@@ -35,10 +35,15 @@ body {
   border-color: #F03C14;
 }
 
+/* The top bar with the menu */
 .navbar-default {
-    background-color: rgba(248,248,248,.96);
+    background-color: rgba(120,110,100,.96);
     box-shadow: 0 6px 12px rgba(0,0,0,.175);
     font-size: 20px;
+    border: none;
+    border-top: 15px solid #F03C14; /* The red bar at the very top */
+}
+
 }
 
 .image-bg-fluid-height,
