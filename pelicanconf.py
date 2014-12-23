@@ -83,6 +83,9 @@ FAVICON = "images/favicon.png"  # small icon, shown in adress bar of browsers
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['hierarchy']
 
+MD_EXTENSIONS = ['extra', 'sane_lists', 'nl2br', 'attr_list', 'toc',
+                 'sane_lists', 'fenced_code', 'smarty']
+
 # Needed for inclusion of IPython notebooks
 # See <https://github.com/getpelican/pelican-plugins/tree/master/liquid_tags>
 # if os.path.exists('_nb_header.html'):
