@@ -8,7 +8,8 @@ AVATAR = 'images/vianna_globe.png'
 ABOUT_ME = " "
 
 LINKS = [['Impressum', "/pages/impressum.html"],
-         ['MHH Homepage', "http://mh-hannover.de"]]
+         ['MHH Homepage', "http://mh-hannover.de"],
+         ['NIFE', "http://nife-hannover.de"]]
 
 TIMEZONE = 'Europe/Berlin'
 
@@ -20,13 +21,6 @@ THEME = 'VIANNA-theme'
 
 # Some hand-crafted entries (links) in the main menu
 # MENUITEMS = [('foo', 'http://foo.org')]
-
-# Links to external partners
-# todo: link to MHH, NIFE, ...
-# LINKS = (('Pelican', 'http://getpelican.com/'),
-#          ('Python.org', 'http://python.org/'),
-#          ('Jinja2', 'http://jinja.pocoo.org/'),
-#          ('You can modify those links in your config file', '#'),)
 
 # Social stuff?
 # SOCIAL = (('You can add links in your config file', '#'),
@@ -83,6 +77,9 @@ FAVICON = "images/favicon.png"  # small icon, shown in adress bar of browsers
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['hierarchy']
 
+MD_EXTENSIONS = ['extra', 'sane_lists', 'nl2br', 'attr_list', 'toc',
+                 'sane_lists', 'fenced_code', 'smarty']
+
 # Needed for inclusion of IPython notebooks
 # See <https://github.com/getpelican/pelican-plugins/tree/master/liquid_tags>
 # if os.path.exists('_nb_header.html'):
@@ -95,3 +92,5 @@ TRANSLATION_FEED_ATOM = None
 DISPLAY_BREADCRUMBS = True
 # WITH_FUTURE_DATES = False
 
+FILENAME_METADATA = r'(?P<title>((?!\[(en|de)\]).)+)(\[(?P<lang>(en|de))\])?'
+STATIC_LANG_SAVE_AS = "{path}"
