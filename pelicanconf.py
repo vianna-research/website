@@ -8,7 +8,8 @@ AVATAR = 'images/vianna_globe.png'
 ABOUT_ME = " "
 
 LINKS = [['Impressum', "/pages/impressum.html"],
-         ['MHH Homepage', "http://mh-hannover.de"]]
+         ['MHH Homepage', "http://mh-hannover.de"],
+         ['NIFE', "http://nife-hannover.de"]]
 
 TIMEZONE = 'Europe/Berlin'
 
@@ -20,13 +21,6 @@ THEME = 'VIANNA-theme'
 
 # Some hand-crafted entries (links) in the main menu
 # MENUITEMS = [('foo', 'http://foo.org')]
-
-# Links to external partners
-# todo: link to MHH, NIFE, ...
-# LINKS = (('Pelican', 'http://getpelican.com/'),
-#          ('Python.org', 'http://python.org/'),
-#          ('Jinja2', 'http://jinja.pocoo.org/'),
-#          ('You can modify those links in your config file', '#'),)
 
 # Social stuff?
 # SOCIAL = (('You can add links in your config file', '#'),
