@@ -1,6 +1,6 @@
 title: Kral Lab - Electrophysiology
 
-# [Lab of Auditory Neuroscience & Neuroprostheses](www.neuroprostheses.com)
+# [Lab of Auditory Neuroscience & Neuroprostheses](http://www.neuroprostheses.com)
 
 ![Figure 1](RTEmagicC_KralBilder_03.jpg)
 
