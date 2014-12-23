@@ -1,15 +1,11 @@
 title: Workgroups
 
-## Head
-
 |                Directors                 |                                  Lab                                  |
 |------------------------------------------|-----------------------------------------------------------------------|
 | Prof. Dr. Dr. med. Andrej Kral           | [Auditory Neuroscience & Neuroprostheses](01_workgroups/ag-kral.html) |
 | Prof. Prof. h. c. Dr. med. Thomas Lenarz | [Specimen Preparation Laboratory](01_workgroups/lenarz.html)          |
 
 Office: Manuela Chambers <Chambers.Manuela@mh-hannover.de>
-
-## Groups
 
 The following workgroups are located at the VIANNA.
 
