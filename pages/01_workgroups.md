@@ -17,7 +17,7 @@ The following workgroups are located at the VIANNA.
 |---------------------------|--------------------------------------------------------------------|
 | Porf. Dr. Theodor Doll    | [BioMaterial Engineering](01_workgroups/doll.html)                 |
 | Porf. Dr. Hannes Maier    | [Implantable Middle Ear Hearing Devices](01_workgroups/maier.html) |
-| Prof. Dr. Andrea Hoffmann | [Regenerative Strategies](01_workgroups/hoffmann.html)             |
+| Prof. Dr. Andrea Hoffmann | [Regenerative Strategies](01_workgroups/hoffmann-de.html)             |
 | PD Dr. med. Omid Majdani  | [hnoCAS](http://www.smart-ci.de)                                        |
 | Dr. Gerrit Paasche        | <Paasche.Gerrit@mh-hannover.de>                                      |
 | Prof. Dr. Günter Reuter   | <Reuter.Guenter@mh-hannover.de>                                      |
