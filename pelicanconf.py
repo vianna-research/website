@@ -98,3 +98,5 @@ TRANSLATION_FEED_ATOM = None
 DISPLAY_BREADCRUMBS = True
 # WITH_FUTURE_DATES = False
 
+FILENAME_METADATA = r'(?P<title>((?!\[(en|de)\]).)+)(\[(?P<lang>(en|de))\])?'
+STATIC_LANG_SAVE_AS = "{path}"
