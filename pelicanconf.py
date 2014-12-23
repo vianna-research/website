@@ -7,7 +7,8 @@ CC_LICENSE = 'CC-BY'
 AVATAR = 'images/vianna_globe.png'
 ABOUT_ME = " "
 
-LINKS = [['Impressum', "/pages/impressum.html"]]
+LINKS = [['Impressum', "/pages/impressum.html"],
+         ['MHH Homepage', "http://mh-hannover.de"]]
 
 TIMEZONE = 'Europe/Berlin'
 
