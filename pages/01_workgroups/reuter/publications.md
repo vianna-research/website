@@ -44,18 +44,17 @@ title: Publications
 Otol Neurotol. 2007 Dec;28(8):1045-52. PubMed PMID: 18043431
 
 
+Lenarz T1, Lim HH, Reuter G, Patrick JF, Lenarz M. 
 
-Otol Neurotol. 2006 Sep;27(6):838-43.
-The auditory midbrain implant: a new auditory prosthesis for neural deafness-concept and device description.
-Lenarz T1, Lim HH, Reuter G, Patrick JF, Lenarz M. PMID: 16936570
-http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2006&issue=09000&article=00013&type=abstract
+The auditory midbrain implant: a new auditory prosthesis for neural deafness-concept and device description. http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2006&issue=09000&article=00013&type=abstract Otol Neurotol. 2006 Sep;27(6):838-43. PMID: 16936570
 
-Z Geburtshilfe Neonatol. 2004 Dec;208(6):239-45.
-[Universal hearing screening for babies--recommendations for the organization and performance of the universal screening of babies for hereditary hearing disorders in Germany].
-[Article in German]
-Gross M1, Buser K, Freitag U, Hess MM, Hesse V, Hildmann A, Hildmann H, Hippel K, Lenarz T, Lindbauer-Eisenach U, Plinkert P, Pohlandt F, Ptok M, Reuter G, Rossi R, Schnitzer S, Thyen U, Vetter K.
-PMID: 15647989 
-https://www.thieme-connect.com/DOI/DOI?10.1055/s-2004-835872
+
+
+Gross M1, Buser K, Freitag U, Hess MM, Hesse V, Hildmann A, Hildmann H, Hippel K, Lenarz T, Lindbauer-Eisenach U, Plinkert P, Pohlandt F, Ptok M, Reuter G, Rossi R, Schnitzer S, Thyen U, Vetter K. Universal hearing screening for babies--recommendations for the organization and performance of the universal screening of babies for hereditary hearing disorders in Germany. https://www.thieme-connect.com/DOI/DOI?10.1055/s-2004-835872
+Z Geburtshilfe Neonatol. 2004 Dec;208(6):239-45. German. PubMed PMID: 15647989 
+
+
+
 
 Gesundheitswesen. 2003 Mar;65(3):200-3.
 [Model project of hearing screening in new-born in Hanover (preliminary results)].
