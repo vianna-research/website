@@ -28,3 +28,6 @@ title: Publications
 * Reich U, Fadeeva E, Warnecke A, Paasche G, Müller P, Chichkov B, Stöver T, Lenarz T and Reuter G. [**Directing neuronal cell growth on implant material surfaces by microstructuring.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.32656/abstract) J Biomed Mater Res B Appl Biomater. 2012 May;100(4):940-7. doi: 10.1002/jbm.b.32656. Epub 2012 Jan 30. PubMed PMID: 22287482
 
 
+* Neuheiser A, Lenarz M, Reuter G, Calixto R, Nolte I, Lenarz T and Lim HH. [**Effects of pulse phase duration and location of stimulation within the inferior colliculus on auditory cortical evoked potentials in a guinea pig model.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.32656/abstract) J Assoc Res Otolaryngol. 2010 Dec;11(4):689-708. doi: 10.1007/s10162-010-0229-0. Epub 2010 Aug 18. PubMed PMID: 20717834
+
+
