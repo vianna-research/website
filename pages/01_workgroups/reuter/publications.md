@@ -34,11 +34,7 @@ title: Publications
 
 * Wenzel GI, Balster S, Zhang K, Lim HH, Reich U, Massow O, Lubatschowski H, Ertmer W, Lenarz T and Reuter G. [**Green laser light activates the inner ear.**](http://biomedicaloptics.spiedigitallibrary.org/article.aspx?articleid=1103078) J Biomed Opt. 2009 Jul-Aug;14(4):044007. doi: 10.1117/1.3174389. PubMed PMID: 19725719
 
-
-
-
-
-
+* Wenzel GI, Balster S, Zhang K, Lim HH, Reich U, Massow O, Lubatschowski H, Ertmer W, Lenarz T and Reuter G. [**Green laser light activates the inner ear.**](http://biomedicaloptics.spiedigitallibrary.org/article.aspx?articleid=1103078) J Biomed Opt. 2009 Jul-Aug;14(4):044007. doi: 10.1117/1.3174389. PubMed PMID: 19725719
 
 
 HNO. 2009 Jun;57(6):551-62. doi: 10.1007/s00106-009-1944-x.
