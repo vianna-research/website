@@ -48,20 +48,9 @@ Otol Neurotol. 2007 Dec;28(8):1045-52. PubMed PMID: 18043431
 
 Gross M1, Buser K, Freitag U, Hess MM, Hesse V, Hildmann A, Hildmann H, Hippel K, Lenarz T, Lindbauer-Eisenach U, Plinkert P, Pohlandt F, Ptok M, Reuter G, Rossi R, Schnitzer S, Thyen U, Vetter K. [**Universal hearing screening for babies--recommendations for the organization and performance of the universal screening of babies for hereditary hearing disorders in Germany.**](https://www.thieme-connect.com/DOI/DOI?10.1055/s-2004-835872) Z Geburtshilfe Neonatol. 2004 Dec;208(6):239-45. German. PubMed PMID: 15647989
 
-Lenarz T, Lim HH, Reuter G, Patrick JF and Lenarz M. [**The auditory midbrain implant: a new auditory prosthesis for neural deafness-concept and device description.**](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2006&issue=09000&article=00013&type=abstract) Otol Neurotol. 2006 Sep;27(6):838-43. PubMed PMID: 16936570
+Buser K1, Bietendüwel A, Krauth C, Jalilvand N, Meyer S, Reuter G, Stolle S, Altenhofen L, Lenarz T. [**Model project of hearing screening in new-born in Hanover (preliminary results)**](https://www.thieme-connect.com/DOI/DOI?10.1055/s-2003-38515)Gesundheitswesen. 2003 Mar;65(3):200-3. PubMed PMID: 12698391
 
 
-  
-
-
-
-
-
-Gesundheitswesen. 2003 Mar;65(3):200-3.
-[Model project of hearing screening in new-born in Hanover (preliminary results)].
-[Article in German]
-Buser K1, Bietendüwel A, Krauth C, Jalilvand N, Meyer S, Reuter G, Stolle S, Altenhofen L, Lenarz T. PMID: 12698391
-https://www.thieme-connect.com/DOI/DOI?10.1055/s-2003-38515
 
 Ann Otol Rhinol Laryngol Suppl. 2000 Dec;185:16-8.
 New Clarion electrode with positioner: insertion studies.
