@@ -25,4 +25,6 @@ title: Publications
 
 * Creutzburg T, Rissing L, Lenarz T and Reuter G. [**Design and fabrication of a microactuator for a hearing aid**](http://iospress.metapress.com/content/91951u16274m8105/) Int J Appl Electrom. 2012 Jan;39(1):471-77. doi: 10.3233/JAE-2012-1498.
 
+* Reich U, Fadeeva E, Warnecke A, Paasche G, Müller P, Chichkov B, Stöver T, Lenarz T and Reuter G. [**Directing neuronal cell growth on implant material surfaces by microstructuring.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.32656/abstract) J Biomed Mater Res B Appl Biomater. 2012 May;100(4):940-7. doi: 10.1002/jbm.b.32656. Epub 2012 Jan 30. PubMed PMID: 22287482
+
 
