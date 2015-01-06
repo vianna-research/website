@@ -36,16 +36,15 @@ title: Publications
 
 * Lenarz T, Lim H, Joseph G, Reuter G and Lenarz M. [**Central auditory prosthesis.**](http://link.springer.com/article/10.1007%2Fs00106-009-1944-x) HNO. 2009 Jun;57(6):551-62. doi: 10.1007/s00106-009-1944-x. German. PubMed PMID: 19517084
 
-* Reuter G1, Krauth C and Lenarz T. [**Newborn hearing impairment. Epidemiology and therapeutic relevance.**](http://link.springer.com/article/10.1007%2Fs00106-008-1883-y) HNO. 2009 Jan;57(1):37-43. doi: 10.1007/s00106-008-1883-y. German. PubMed PMID: 19145417 
+* Reuter G, Krauth C and Lenarz T. [**Newborn hearing impairment. Epidemiology and therapeutic relevance.**](http://link.springer.com/article/10.1007%2Fs00106-008-1883-y) HNO. 2009 Jan;57(1):37-43. doi: 10.1007/s00106-008-1883-y. German. PubMed PMID: 19145417 
 
-J Biomed Mater Res B Appl Biomater. 2008 Oct;87(1):146-53. doi: 10.1002/jbm.b.31084.
-Differential fine-tuning of cochlear implant material-cell interactions by femtosecond laser microstructuring.
-Reich U1, Mueller PP, Fadeeva E, Chichkov BN, Stoever T, Fabian T, Lenarz T, Reuter G.
-Author information
-Erratum in
-J Biomed Mater Res B Appl Biomater. 2008 Nov;87(2):598.
-PMID: 18437711 
-http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.31084/abstract
+* Reich U, Mueller PP, Fadeeva E, Chichkov BN, Stoever T, Fabian T, Lenarz T and Reuter G. [**Differential fine-tuning of cochlear implant material-cell interactions by femtosecond laser microstructuring.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.31084/abstract) J Biomed Mater Res B Appl Biomater. 2008 Oct;87(1):146-53. doi: 10.1002/jbm.b.31084.German. PubMed PMID: 18437711
+
+
+
+
+ 
+
 
 Otol Neurotol. 2007 Dec;28(8):1045-52.
 Auditory midbrain implant: histomorphologic effects of long-term implantation and electric stimulation of a new deep brain stimulation array.
