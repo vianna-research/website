@@ -1,17 +1,17 @@
-title: Reuter Lab - XXX
+title: Reuter Lab
 
 # Lab of Experimental Otology (LEO)
 
 ![Bild aus Forschung]
 
 
-Text 
+
 
 
 
 ## Research Topics
 -   [Neurophysiology of Cochlear Implants]
-  XXX
+  
 
 
 ---------------------
