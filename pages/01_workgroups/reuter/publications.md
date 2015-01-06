@@ -31,3 +31,23 @@ title: Publications
 * Neuheiser A, Lenarz M, Reuter G, Calixto R, Nolte I, Lenarz T and Lim HH. [**Effects of pulse phase duration and location of stimulation within the inferior colliculus on auditory cortical evoked potentials in a guinea pig model.**](http://link.springer.com/article/10.1007%2Fs10162-010-0229-0) J Assoc Res Otolaryngol. 2010 Dec;11(4):689-708. doi: 10.1007/s10162-010-0229-0. Epub 2010 Aug 18. PubMed PMID: 20717834
 
 
+Opt Express. 2009 Dec 7;17(25):23037-43. doi: 10.1364/OE.17.023037.
+Optoacoustic induced vibrations within the inner ear.
+Zhang KY1, Wenzel GI, Balster S, Lim HH, Lubatschowski H, Lenarz T, Ertmer W, Reuter G. PMID: 20052230 http://www.opticsinfobase.org/oe/abstract.cfm?uri=oe-17-25-23037
+
+J Biomed Opt. 2009 Jul-Aug;14(4):044007. doi: 10.1117/1.3174389.
+Green laser light activates the inner ear.
+Wenzel GI1, Balster S, Zhang K, Lim HH, Reich U, Massow O, Lubatschowski H, Ertmer W, Lenarz T, Reuter G.
+PMID: 19725719
+http://biomedicaloptics.spiedigitallibrary.org/article.aspx?articleid=1103078
+
+HNO. 2009 Jun;57(6):551-62. doi: 10.1007/s00106-009-1944-x.
+[Central auditory prosthesis].
+[Article in German]
+Lenarz T1, Lim H, Joseph G, Reuter G, Lenarz M. PMID: 19517084 http://link.springer.com/article/10.1007%2Fs00106-009-1944-x
+
+HNO. 2009 Jan;57(1):37-43. doi: 10.1007/s00106-008-1883-y.
+[Newborn hearing impairment. Epidemiology and therapeutic relevance].
+[Article in German]
+Reuter G1, Krauth C, Lenarz T. PMID: 19145417 
+http://link.springer.com/article/10.1007%2Fs00106-008-1883-y
