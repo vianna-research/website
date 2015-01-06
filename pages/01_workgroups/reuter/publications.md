@@ -16,8 +16,11 @@ title: Publications
 
 * Wrzeszcz A, Dittrich B, Haamann D, Aliuos P, Klee D, Nolte I, Lenarz T and Reuter G.[**Dexamethasone released from cochlear implant coatings combined with a protein repellent hydrogel layer inhibits fibroblast proliferation.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34719/abstract) J Biomed Mater Res A. 2014 Feb;102(2):442-54. doi: 10.1002/jbm.a.34719. Epub 2013 May 18. PubMed PMID: 23533184
 
-* Aliuos P1, Sen A, Reich U, Dempwolf W, Warnecke A, Hadler C, Lenarz T, Menzel H and Reuter G. [**Inhibition of fibroblast adhesion by covalently immobilized protein repellent polymer coatings studied by single cell force spectroscopy.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34686/abstract) J Biomed Mater Res A. 2013 Apr 18. doi: 10.1002/jbm.a.34686. [Epub ahead of print] PubMed PMID: 23596088
+* Aliuos P, Sen A, Reich U, Dempwolf W, Warnecke A, Hadler C, Lenarz T, Menzel H and Reuter G. [**Inhibition of fibroblast adhesion by covalently immobilized protein repellent polymer coatings studied by single cell force spectroscopy.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34686/abstract) J Biomed Mater Res A. 2013 Apr 18. doi: 10.1002/jbm.a.34686. [Epub ahead of print] PubMed PMID: 23596088
 
 
 ## Before 2013
+
+* Aliuos P, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U and Reuter G. [**Evaluation of single-cell force spectroscopy and fluorescence microscopy to determine cell interactions with femtosecond-laser microstructured titanium surfaces.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34686/abstract) J Biomed Mater Res A. 2013 Apr 18. doi: 10.1002/jbm.a.34686. [Epub ahead of print] PubMed PMID: 23596088
+
 
