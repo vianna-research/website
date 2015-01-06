@@ -34,16 +34,7 @@ title: Publications
 
 * Wenzel GI, Balster S, Zhang K, Lim HH, Reich U, Massow O, Lubatschowski H, Ertmer W, Lenarz T and Reuter G. [**Green laser light activates the inner ear.**](http://biomedicaloptics.spiedigitallibrary.org/article.aspx?articleid=1103078) J Biomed Opt. 2009 Jul-Aug;14(4):044007. doi: 10.1117/1.3174389. PubMed PMID: 19725719
 
-* Lenarz T, Lim H, Joseph G, Reuter G and Lenarz M. [**Green laser light activates the inner ear.**](http://link.springer.com/article/10.1007%2Fs00106-009-1944-x) HNO. 2009 Jun;57(6):551-62. doi: 10.1007/s00106-009-1944-x. PubMed PMID: 19517084
+* Lenarz T, Lim H, Joseph G, Reuter G and Lenarz M. [**Central auditory prosthesis.**](http://link.springer.com/article/10.1007%2Fs00106-009-1944-x) HNO. 2009 Jun;57(6):551-62. doi: 10.1007/s00106-009-1944-x. German. PubMed PMID: 19517084
 
+* Reuter G1, Krauth C and Lenarz T. [**Newborn hearing impairment. Epidemiology and therapeutic relevance.**](http://link.springer.com/article/10.1007%2Fs00106-008-1883-y) HNO. 2009 Jan;57(1):37-43. doi: 10.1007/s00106-008-1883-y. German. PubMed PMID: 19145417 
 
-
-[Central auditory prosthesis].
-[Article in German]
-
-
-HNO. 2009 Jan;57(1):37-43. doi: 10.1007/s00106-008-1883-y.
-[Newborn hearing impairment. Epidemiology and therapeutic relevance].
-[Article in German]
-Reuter G1, Krauth C, Lenarz T. PMID: 19145417 
-http://link.springer.com/article/10.1007%2Fs00106-008-1883-y
