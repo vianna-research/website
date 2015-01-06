@@ -83,7 +83,7 @@ Otol Neurotol. 2007 Dec;28(8):1045-52. PubMed PMID: 18043431
 
 * Ernst A, Reuter G, Zimmermann U, Zenner HP. [**Acute gentamicin ototoxicity in cochlear outer hair cells of the guinea pig.**](http://www.sciencedirect.com/science/article/pii/0006899394901910) Brain Res. 1994 Feb 4;636(1):153-6. doi:10.1016/0006-8993(94)90191-0. PubMed PMID: 8156402
 
-* Zenner HP, Reuter G, Zimmermann U, Gitter AH, Fermin C, LePage EL. [**Transitory endolymph leakage induced hearing loss and tinnitus: depolarization, biphasic shortening and loss of electromotility of outer hair cells. **](http://www.ncbi.nlm.nih.gov/pubmed/8080633) Eur Arch Otorhinolaryngol. 1994;251(3):143-53. PubMed PMID: 8080633
+* Zenner HP, Reuter G, Zimmermann U, Gitter AH, Fermin C, LePage EL. [**Transitory endolymph leakage induced hearing loss and tinnitus: depolarization, biphasic shortening and loss of electromotility of outer hair cells.**](http://www.ncbi.nlm.nih.gov/pubmed/8080633) Eur Arch Otorhinolaryngol. 1994;251(3):143-53. PubMed PMID: 8080633
 
 * Zenner HP, Reuter G, Hong S, Zimmermann U, Gitter AH. [**Electrically evoked motile responses of mammalian type I vestibular hair cells.**](http://www.ncbi.nlm.nih.gov/pubmed/1342394) J Vestib Res. 1992 Fall;2(3):181-91. PubMed PMID: 1342394
 
