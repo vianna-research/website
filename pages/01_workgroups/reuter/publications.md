@@ -40,9 +40,8 @@ title: Publications
 
 * Reich U, Mueller PP, Fadeeva E, Chichkov BN, Stoever T, Fabian T, Lenarz T and Reuter G. [**Differential fine-tuning of cochlear implant material-cell interactions by femtosecond laser microstructuring.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.31084/abstract) J Biomed Mater Res B Appl Biomater. 2008 Oct;87(1):146-53. doi: 10.1002/jbm.b.31084.German. PubMed PMID: 18437711
 
-Lenarz M, Lim HH, Lenarz T, Reich U, Marquardt N, Klingberg MN, Paasche G, Reuter G and Stan AC. [**Auditory midbrain implant: histomorphologic effects of long-term implantation and electric stimulation of a new deep brain stimulation array.**](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2007&issue=12000&article=00013&type=abstract)
+* Lenarz M, Lim HH, Lenarz T, Reich U, Marquardt N, Klingberg MN, Paasche G, Reuter G and Stan AC. [**Auditory midbrain implant: histomorphologic effects of long-term implantation and electric stimulation of a new deep brain stimulation array.**](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2007&issue=12000&article=00013&type=abstract)
 Otol Neurotol. 2007 Dec;28(8):1045-52. PubMed PMID: 18043431
-
 
 
 
