@@ -13,5 +13,8 @@ title: Publications
 * Wrzeszcz A, Steffens M, Balster S, Warnecke A, Dittrich B, Lenarz T and Reuter G. [**Hydrogel coated and dexamethasone releasing cochlear implants: Quantification of fibrosis in guinea pigs and evaluation of insertion forces in a human cochlea model.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33187/abstract;jsessionid=2563AABAD49F1730D686B1CCE3B1FB2E.f01t04) J Biomed Mater Res B Appl Biomater. 2015 Jan;103(1):169-78. doi: 10.1002/jbm.b.33187. Epub 2014 May 8. PubMed PMID: 24811046
 
 * Wrzeszcz A, Reuter G, Nolte I, Lenarz T and Scheper V. [**Spiral ganglion neuron quantification in the guinea pig cochlea using Confocal Laser Scanning Microscopy compared to embedding methods.**](http://www.sciencedirect.com/science/article/pii/S0378595513001937) Hear Res. 2013 Dec;306:145-55. doi: 10.1016/j.heares.2013.08.002. Epub 2013 Aug 20. PubMed PMID: 23968822
+
+* Wrzeszcz A, Dittrich B, Haamann D, Aliuos P, Klee D, Nolte I, Lenarz T and Reuter G.[**Dexamethasone released from cochlear implant coatings combined with a protein repellent hydrogel layer inhibits fibroblast proliferation.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33187/abstract;jsessionid=2563AABAD49F1730D686B1CCE3B1FB2E.f01t04) J Biomed Mater Res A. 2014 Feb;102(2):442-54. doi: 10.1002/jbm.a.34719. Epub 2013 May 18. PubMed PMID: 23533184
+
 ## Before 2013
 
