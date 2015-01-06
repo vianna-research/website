@@ -79,5 +79,5 @@ http://www.ncbi.nlm.nih.gov/pubmed/11140987
 
 Am J Otol. 2000 Mar;21(2):212-7.
 A silastic positioner for a modiolus-hugging position of intracochlear electrodes: electrophysiologic effects.
-Cords SM1, Reuter G, Issing PR, Sommer A, Kuzma J, Lenarz T.
-
+Cords SM1, Reuter G, Issing PR, Sommer A, Kuzma J, Lenarz T. PMID: 10733186 
+http://www.ncbi.nlm.nih.gov/pubmed/10733186
