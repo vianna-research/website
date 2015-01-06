@@ -50,13 +50,13 @@ Otol Neurotol. 2007 Dec;28(8):1045-52. PubMed PMID: 18043431
 
 * Buser K, Bietendüwel A, Krauth C, Jalilvand N, Meyer S, Reuter G, Stolle S, Altenhofen L and Lenarz T. [**Model project of hearing screening in new-born in Hanover (preliminary results)**](https://www.thieme-connect.com/DOI/DOI?10.1055/s-2003-38515) Gesundheitswesen. 2003 Mar;65(3):200-3. PubMed PMID: 12698391
 
+* Lenarz T, Kuzma J, Weber BP, Reuter G, Neuburger J, Battmer RD and Goldring JE. [**New Clarion electrode with positioner: insertion studies.**](http://www.ncbi.nlm.nih.gov/pubmed/11140987) Ann Otol Rhinol Laryngol Suppl. 2000 Dec;185:16-8. PubMed PMID: 11140987
 
 
-Ann Otol Rhinol Laryngol Suppl. 2000 Dec;185:16-8.
-New Clarion electrode with positioner: insertion studies.
-Lenarz T1, Kuzma J, Weber BP, Reuter G, Neuburger J, Battmer RD, Goldring JE.
-PMID: 11140987
-http://www.ncbi.nlm.nih.gov/pubmed/11140987
+
+
+
+
 
 Am J Otol. 2000 Mar;21(2):212-7.
 A silastic positioner for a modiolus-hugging position of intracochlear electrodes: electrophysiologic effects.
