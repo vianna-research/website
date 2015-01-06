@@ -18,10 +18,10 @@ title: Publications
 
 * Aliuos P, Sen A, Reich U, Dempwolf W, Warnecke A, Hadler C, Lenarz T, Menzel H and Reuter G. [**Inhibition of fibroblast adhesion by covalently immobilized protein repellent polymer coatings studied by single cell force spectroscopy.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34686/abstract) J Biomed Mater Res A. 2013 Apr 18. doi: 10.1002/jbm.a.34686. [Epub ahead of print] PubMed PMID: 23596088
 
+* Aliuos P, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U and Reuter G. [**Evaluation of single-cell force spectroscopy and fluorescence microscopy to determine cell interactions with femtosecond-laser microstructured titanium surfaces.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34401/abstract) J Biomed Mater Res A. 2013 Apr;101(4):981-90. doi: 10.1002/jbm.a.34401. Epub 2012 Sep 10. PubMed PMID: 22965938
+
 
 ## Before 2013
-
-* Aliuos P, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U and Reuter G. [**Evaluation of single-cell force spectroscopy and fluorescence microscopy to determine cell interactions with femtosecond-laser microstructured titanium surfaces.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34401/abstract) J Biomed Mater Res A. 2013 Apr;101(4):981-90. doi: 10.1002/jbm.a.34401. Epub 2012 Sep 10. PubMed PMID: 22965938
 
 * Creutzburg T, Rissing L, Lenarz T and Reuter G. [**Design and fabrication of a microactuator for a hearing aid**](http://iospress.metapress.com/content/91951u16274m8105/) Int J Appl Electrom. 2012 Jan;39(1):471-77. doi: 10.3233/JAE-2012-1498.
 
