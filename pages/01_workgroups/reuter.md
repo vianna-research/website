@@ -1,6 +1,6 @@
 title: Reuter Lab - XXX
 
-# [Lab of Experimental Otology (LEO)]
+# Lab of Experimental Otology (LEO)
 
 ![Bild aus Forschung]
 
