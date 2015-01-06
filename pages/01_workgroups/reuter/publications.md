@@ -56,103 +56,43 @@ Otol Neurotol. 2007 Dec;28(8):1045-52. PubMed PMID: 18043431
 
 * Lenarz T, Battmer RD, Goldring JE, Neuburger J, Kuzma J and Reuter G.[**New electrode concepts (modiolus-hugging electrodes).**](http://www.ncbi.nlm.nih.gov/pubmed/11892186) Adv Otorhinolaryngol. 2000;57:347-53. PubMed PMID: 11892186 
 
-Reuter G, Cords SM, Issing P and Lenarz T. [**Measurements of threshold shifts observed when using normal and preformed electrodes.**](http://www.ncbi.nlm.nih.gov/pubmed/9391585) Am J Otol. 1997 Nov;18(6 Suppl):S26. PubMed PMID: 9391585
+* Reuter G, Bördgen F, Dressler F, Schäfer S, Hemmanouil I, Schönweiler R and Lenarz T. [**Neonatal hearing screening with the Echosensor automated device for otoacoustic emissions. A comparative study.**](http://link.springer.com/article/10.1007/s001060050338) HNO. 1998 Nov;46(11):932-41. German. PubMed PMID: 9864678
 
-Cords SM, Reuter G, Issing P and Lenarz T. [**Development of the evoked auditory brain stem response amplitude peak IV during chronic electrical, intracochlear, multichannel high-rate stimulation.**](http://www.ncbi.nlm.nih.gov/pubmed/9391583) Am J Otol. 1997 Nov;18(6 Suppl):S22-3. PubMed PMID: 9391583
+* Reuter G, Cords SM, Issing P and Lenarz T. [**Measurements of threshold shifts observed when using normal and preformed electrodes.**](http://www.ncbi.nlm.nih.gov/pubmed/9391585) Am J Otol. 1997 Nov;18(6 Suppl):S26. PubMed PMID: 9391585
 
-Cords SM, Reuter G and Lenarz T. [**Acute effects of electrical intracochlear multichannel high-rate stimulation of the auditory nerve of cats.**](http://www.ncbi.nlm.nih.gov/pubmed/9391581) Am J Otol. 1997 Nov;18(6 Suppl):S19-20. PubMed PMID: 9391581
+* Cords SM, Reuter G, Issing P and Lenarz T. [**Development of the evoked auditory brain stem response amplitude peak IV during chronic electrical, intracochlear, multichannel high-rate stimulation.**](http://www.ncbi.nlm.nih.gov/pubmed/9391583) Am J Otol. 1997 Nov;18(6 Suppl):S22-3. PubMed PMID: 9391583
 
-Dinse HR, Reuter G, Cords SM, Godde B, Hilger T and Lenarz T.
-[**Optical imaging of cat auditory cortical organization after electrical stimulation of a multichannel cochlear implant: differential effects of acute and chronic stimulation.**] (http://www.ncbi.nlm.nih.gov/pubmed/9391580)
-Am J Otol. 1997 Nov;18(6 Suppl):S17-8.
-PubMed PMID: 9391580
+* Cords SM, Reuter G and Lenarz T. [**Acute effects of electrical intracochlear multichannel high-rate stimulation of the auditory nerve of cats.**](http://www.ncbi.nlm.nih.gov/pubmed/9391581) Am J Otol. 1997 Nov;18(6 Suppl):S19-20. PubMed PMID: 9391581
 
-Reuter G, Cords SM, Issing P, Keller P and Lenarz T.
-[**Intracochlear, electrical, multichannel stimulation effects on the development of auditory system in neonatally deafened kittens.**]
-(http://www.ncbi.nlm.nih.gov/pubmed/9391578)
-Am J Otol. 1997 Nov;18(6 Suppl):S13-4.
-PubMed PMID: 9391578
+* Dinse HR, Reuter G, Cords SM, Godde B, Hilger T and Lenarz T. [**Optical imaging of cat auditory cortical organization after electrical stimulation of a multichannel cochlear implant: differential effects of acute and chronic stimulation.**](http://www.ncbi.nlm.nih.gov/pubmed/9391580) Am J Otol. 1997 Nov;18(6 Suppl):S17-8. PubMed PMID: 9391580
+
+* Reuter G, Cords SM, Issing P, Keller P and Lenarz T. [**Intracochlear, electrical, multichannel stimulation effects on the development of auditory system in neonatally deafened kittens.**](http://www.ncbi.nlm.nih.gov/pubmed/9391578) Am J Otol. 1997 Nov;18(6 Suppl):S13-4. PubMed PMID: 9391578
 
 
-Reuter G, Cords SM, Issing P and Lenarz T.
-[**Acute and chronic effects of electrical intracochlear multichannel high rate stimulation on the auditory brainstem response in neonatally deafened kittens.**]
-(http://www.ncbi.nlm.nih.gov/pubmed/9042448)
-Adv Otorhinolaryngol. 1997;52:46-51.
-PubMed PMID: 9042448
+* Reuter G, Cords SM, Issing P and Lenarz T. [**Acute and chronic effects of electrical intracochlear multichannel high rate stimulation on the auditory brainstem response in neonatally deafened kittens.**](http://www.ncbi.nlm.nih.gov/pubmed/9042448) Adv Otorhinolaryngol. 1997;52:46-51. PubMed PMID: 9042448
 
-Dinse HR, Godde B, Hilger T, Reuter G, Cords SM, Lenarz T and von Seelen W.
-[**Optical imaging of cat auditory cortex cochleotopic selectivity evoked by acute electrical stimulation of a multi-channel cochlear implant.**]
-(http://www.ncbi.nlm.nih.gov/pubmed/9042575)
-Eur J Neurosci. 1997 Jan;9(1):113-9.
-PubMed PMID: 9042575
+* Dinse HR, Godde B, Hilger T, Reuter G, Cords SM, Lenarz T and von Seelen W. [**Optical imaging of cat auditory cortex cochleotopic selectivity evoked by acute electrical stimulation of a multi-channel cochlear implant.**](http://www.ncbi.nlm.nih.gov/pubmed/9042575) Eur J Neurosci. 1997 Jan;9(1):113-9. PubMed PMID: 9042575
 
-Morioka I and Reuter G.
-[**Time course of the endocochlear potential in the isolated cochlea of the guinea pig.**]
-(http://www.ncbi.nlm.nih.gov/pubmed/8789477)
-ORL J Otorhinolaryngol Relat Spec. 1995 Nov-Dec;57(6):299-304.
-PubMed PMID: 8789477
+* Morioka I and Reuter G. [**Time course of the endocochlear potential in the isolated cochlea of the guinea pig.**](http://www.ncbi.nlm.nih.gov/pubmed/8789477) ORL J Otorhinolaryngol Relat Spec. 1995 Nov-Dec;57(6):299-304. PubMed PMID: 8789477
 
-Morioka I, Reuter G, Reiss P, Gummer AW, Hemmert W andZenner HP.
-[**Sound-induced displacement responses in the plane of the organ of Corti in the isolated guinea-pig cochlea.**]
-(http://www.ncbi.nlm.nih.gov/pubmed/7607980)
-Hear Res. 1995 Mar;83(1-2):142-50.
-PubMed PMID: 7607980
+* Morioka I, Reuter G, Reiss P, Gummer AW, Hemmert W and Zenner HP. [**Sound-induced displacement responses in the plane of the organ of Corti in the isolated guinea-pig cochlea.**](http://www.ncbi.nlm.nih.gov/pubmed/7607980) Hear Res. 1995 Mar;83(1-2):142-50. PubMed PMID: 7607980
 
-LePage EL, Reuter G and Zenner HP.
-[**A threshold decrease for electrically stimulated motor responses of isolated aging outer hair cells from the pigmented guinea pig.**]
-(http://www.ncbi.nlm.nih.gov/pubmed/7546676)
-Eur Arch Otorhinolaryngol. 1995;252(4):215-21.
-PubMed PMID: 7546676
+* LePage EL, Reuter G and Zenner HP. [**A threshold decrease for electrically stimulated motor responses of isolated aging outer hair cells from the pigmented guinea pig.**](http://www.ncbi.nlm.nih.gov/pubmed/7546676) Eur Arch Otorhinolaryngol. 1995;252(4):215-21. PubMed PMID: 7546676
 
-Reuter G, Kössl M, Hemmert W, Preyer S, Zimmermann U and Zenner HP.
-[**Electromotility of outer hair cells from the cochlea of the echolocating bat, Carollia perspicillata.**]
-(http://www.ncbi.nlm.nih.gov/pubmed/7965917)
-J Comp Physiol A. 1994 Oct;175(4):449-55.
-PubMed PMID: 7965917
+* Reuter G, Kössl M, Hemmert W, Preyer S, Zimmermann U and Zenner HP. [**Electromotility of outer hair cells from the cochlea of the echolocating bat, Carollia perspicillata.**](http://www.ncbi.nlm.nih.gov/pubmed/7965917) J Comp Physiol A. 1994 Oct;175(4):449-55. PubMed PMID: 7965917
 
-Ernst A, Reuter G, Zimmermann U, Zenner HP.
-[**Acute gentamicin ototoxicity in cochlear outer hair cells of the guinea pig.**]
-(http://www.sciencedirect.com/science/article/pii/0006899394901910)
-Brain Res. 1994 Feb 4;636(1):153-6. doi:10.1016/0006-8993(94)90191-0
-PubMed PMID: 8156402
+* Ernst A, Reuter G, Zimmermann U, Zenner HP. [**Acute gentamicin ototoxicity in cochlear outer hair cells of the guinea pig.**](http://www.sciencedirect.com/science/article/pii/0006899394901910) Brain Res. 1994 Feb 4;636(1):153-6. doi:10.1016/0006-8993(94)90191-0. PubMed PMID: 8156402
 
-Zenner HP, Reuter G, Zimmermann U, Gitter AH, Fermin C, LePage EL.
-[**Transitory endolymph leakage induced hearing loss and tinnitus: depolarization, biphasic shortening and loss of electromotility of outer hair cells. **]
-(http://www.ncbi.nlm.nih.gov/pubmed/8080633)
-Eur Arch Otorhinolaryngol. 1994;251(3):143-53.
-PubMed PMID: 8080633
+* Zenner HP, Reuter G, Zimmermann U, Gitter AH, Fermin C, LePage EL. [**Transitory endolymph leakage induced hearing loss and tinnitus: depolarization, biphasic shortening and loss of electromotility of outer hair cells. **](http://www.ncbi.nlm.nih.gov/pubmed/8080633) Eur Arch Otorhinolaryngol. 1994;251(3):143-53. PubMed PMID: 8080633
 
-Zenner HP, Reuter G, Hong S, Zimmermann U, Gitter AH.
-[**Electrically evoked motile responses of mammalian type I vestibular hair cells.**] (http://www.ncbi.nlm.nih.gov/pubmed/1342394)
-J Vestib Res. 1992 Fall;2(3):181-91.
-PubMed PMID: 1342394
+* Zenner HP, Reuter G, Hong S, Zimmermann U, Gitter AH. [**Electrically evoked motile responses of mammalian type I vestibular hair cells.**](http://www.ncbi.nlm.nih.gov/pubmed/1342394) J Vestib Res. 1992 Fall;2(3):181-91. PubMed PMID: 1342394
 
-Bootz F, Reuter G, Giebel W and Galic M.
-[**Mucociliary activity of free transplanted respiratory epithelium.**](http://www.ncbi.nlm.nih.gov/pubmed/1517118) HNO. 1992 Aug;40(8):300-5. German.
-PubMed PMID: 1517118
+* Bootz F, Reuter G, Giebel W and Galic M. [**Mucociliary activity of free transplanted respiratory epithelium.**](http://www.ncbi.nlm.nih.gov/pubmed/1517118) HNO. 1992 Aug;40(8):300-5. German. PubMed PMID: 1517118
 
-Reuter G, Gitter AH, Thurm U and Zenner HP.
-[**High frequency radial movements of the reticular lamina induced by outer hair cell motility.**]http://www.ncbi.nlm.nih.gov/pubmed/1639733)
-Hear Res. 1992 Jul;60(2):236-46.
-PubMed PMID: 1639733
+* Reuter G, Gitter AH, Thurm U and Zenner HP. [**High frequency radial movements of the reticular lamina induced by outer hair cell motility.**](http://www.ncbi.nlm.nih.gov/pubmed/1639733) Hear Res. 1992 Jul;60(2):236-46. PubMed PMID: 1639733
 
-Bootz F and Reuter G.
-[**Cellular differentiation after free grafting of respiratory epithelia.**]
-(http://www.ncbi.nlm.nih.gov/pubmed/1837463)
-Eur Arch Otorhinolaryngol. 1991;248(8):502-7.
-PubMed PMID: 1837463
+* Bootz F and Reuter G. [**Cellular differentiation after free grafting of respiratory epithelia.**](http://www.ncbi.nlm.nih.gov/pubmed/1837463) Eur Arch Otorhinolaryngol. 1991;248(8):502-7. PubMed PMID: 1837463
 
-Reuter G and Zenner HP.
-[**Active radial and transverse motile responses of outer hair cells in the organ of Corti.**]
-(http://www.ncbi.nlm.nih.gov/pubmed/2179188)
-Hear Res. 1990 Jan;43(2-3):219-30.
-PubMed PMID: 2179188
-
-
-
-
-
-
-
+* Reuter G and Zenner HP. [**Active radial and transverse motile responses of outer hair cells in the organ of Corti.**](http://www.ncbi.nlm.nih.gov/pubmed/2179188) Hear Res. 1990 Jan;43(2-3):219-30. PubMed PMID: 2179188
 
 
