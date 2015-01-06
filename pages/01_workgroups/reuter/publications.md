@@ -38,3 +38,17 @@ title: Publications
 
 * Reuter G1, Krauth C and Lenarz T. [**Newborn hearing impairment. Epidemiology and therapeutic relevance.**](http://link.springer.com/article/10.1007%2Fs00106-008-1883-y) HNO. 2009 Jan;57(1):37-43. doi: 10.1007/s00106-008-1883-y. German. PubMed PMID: 19145417 
 
+J Biomed Mater Res B Appl Biomater. 2008 Oct;87(1):146-53. doi: 10.1002/jbm.b.31084.
+Differential fine-tuning of cochlear implant material-cell interactions by femtosecond laser microstructuring.
+Reich U1, Mueller PP, Fadeeva E, Chichkov BN, Stoever T, Fabian T, Lenarz T, Reuter G.
+Author information
+Erratum in
+J Biomed Mater Res B Appl Biomater. 2008 Nov;87(2):598.
+PMID: 18437711 
+http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.31084/abstract
+
+Otol Neurotol. 2007 Dec;28(8):1045-52.
+Auditory midbrain implant: histomorphologic effects of long-term implantation and electric stimulation of a new deep brain stimulation array.
+Lenarz M1, Lim HH, Lenarz T, Reich U, Marquardt N, Klingberg MN, Paasche G, Reuter G, Stan AC.
+PMID: 18043431
+http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2007&issue=12000&article=00013&type=abstract
