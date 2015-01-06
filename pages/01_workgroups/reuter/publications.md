@@ -31,9 +31,9 @@ title: Publications
 * Neuheiser A, Lenarz M, Reuter G, Calixto R, Nolte I, Lenarz T and Lim HH. [**Effects of pulse phase duration and location of stimulation within the inferior colliculus on auditory cortical evoked potentials in a guinea pig model.**](http://link.springer.com/article/10.1007%2Fs10162-010-0229-0) J Assoc Res Otolaryngol. 2010 Dec;11(4):689-708. doi: 10.1007/s10162-010-0229-0. Epub 2010 Aug 18. PubMed PMID: 20717834
 
 
-Opt Express. 2009 Dec 7;17(25):23037-43. doi: 10.1364/OE.17.023037.
-Optoacoustic induced vibrations within the inner ear.
-Zhang KY1, Wenzel GI, Balster S, Lim HH, Lubatschowski H, Lenarz T, Ertmer W, Reuter G. PMID: 20052230 http://www.opticsinfobase.org/oe/abstract.cfm?uri=oe-17-25-23037
+* Zhang KY1, Wenzel GI, Balster S, Lim HH, Lubatschowski H, Lenarz T, Ertmer W, Reuter G. [**Optoacoustic induced vibrations within the inner ear.**](http://www.opticsinfobase.org/oe/abstract.cfm?uri=oe-17-25-23037) Opt Express. 2009 Dec 7;17(25):23037-43. doi: 10.1364/OE.17.023037. PubMed PMID: 20052230 
+
+
 
 J Biomed Opt. 2009 Jul-Aug;14(4):044007. doi: 10.1117/1.3174389.
 Green laser light activates the inner ear.
