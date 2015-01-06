@@ -52,13 +52,13 @@ Otol Neurotol. 2007 Dec;28(8):1045-52. PubMed PMID: 18043431
 
 * Lenarz T, Kuzma J, Weber BP, Reuter G, Neuburger J, Battmer RD and Goldring JE. [**New Clarion electrode with positioner: insertion studies.**](http://www.ncbi.nlm.nih.gov/pubmed/11140987) Ann Otol Rhinol Laryngol Suppl. 2000 Dec;185:16-8. PubMed PMID: 11140987
 
+* Cords SM1, Reuter G, Issing PR, Sommer A, Kuzma J and Lenarz T.[**A silastic positioner for a modiolus-hugging position of intracochlear electrodes: electrophysiologic effects.**](http://www.ncbi.nlm.nih.gov/pubmed/10733186) Am J Otol. 2000 Mar;21(2):212-7. PubMed PMID: 10733186 
 
 
 
 
 
 
-Am J Otol. 2000 Mar;21(2):212-7.
-A silastic positioner for a modiolus-hugging position of intracochlear electrodes: electrophysiologic effects.
-Cords SM1, Reuter G, Issing PR, Sommer A, Kuzma J, Lenarz T. PMID: 10733186 
-http://www.ncbi.nlm.nih.gov/pubmed/10733186
+
+ 
+
