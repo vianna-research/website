@@ -23,4 +23,6 @@ title: Publications
 
 * Aliuos P, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U and Reuter G. [**Evaluation of single-cell force spectroscopy and fluorescence microscopy to determine cell interactions with femtosecond-laser microstructured titanium surfaces.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34401/abstract) J Biomed Mater Res A. 2013 Apr;101(4):981-90. doi: 10.1002/jbm.a.34401. Epub 2012 Sep 10. PubMed PMID: 22965938
 
+** Aliuos P, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U and Reuter G. [**Evaluation of single-cell force spectroscopy and fluorescence microscopy to determine cell interactions with femtosecond-laser microstructured titanium surfaces.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34401/abstract) J Biomed Mater Res A. 2013 Apr;101(4):981-90. doi: 10.1002/jbm.a.34401. Epub 2012 Sep 10. PubMed PMID: 22965938
+
 
