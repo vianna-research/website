@@ -1,7 +1,8 @@
 title: Maier Lab - Implantable Middle Ear Hearing Devices
 
 *************************************
-
+A list of the staff can be found [here](maier/staff.html).  
+A list of the publications can be found [here](maier/publications.html).
 
 **Contact Information:**
 
