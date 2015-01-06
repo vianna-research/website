@@ -52,3 +52,27 @@ Auditory midbrain implant: histomorphologic effects of long-term implantation an
 Lenarz M1, Lim HH, Lenarz T, Reich U, Marquardt N, Klingberg MN, Paasche G, Reuter G, Stan AC.
 PMID: 18043431
 http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2007&issue=12000&article=00013&type=abstract
+
+Otol Neurotol. 2006 Sep;27(6):838-43.
+The auditory midbrain implant: a new auditory prosthesis for neural deafness-concept and device description.
+Lenarz T1, Lim HH, Reuter G, Patrick JF, Lenarz M. PMID: 16936570
+http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2006&issue=09000&article=00013&type=abstract
+
+Z Geburtshilfe Neonatol. 2004 Dec;208(6):239-45.
+[Universal hearing screening for babies--recommendations for the organization and performance of the universal screening of babies for hereditary hearing disorders in Germany].
+[Article in German]
+Gross M1, Buser K, Freitag U, Hess MM, Hesse V, Hildmann A, Hildmann H, Hippel K, Lenarz T, Lindbauer-Eisenach U, Plinkert P, Pohlandt F, Ptok M, Reuter G, Rossi R, Schnitzer S, Thyen U, Vetter K.
+PMID: 15647989 
+https://www.thieme-connect.com/DOI/DOI?10.1055/s-2004-835872
+
+Gesundheitswesen. 2003 Mar;65(3):200-3.
+[Model project of hearing screening in new-born in Hanover (preliminary results)].
+[Article in German]
+Buser K1, Bietendüwel A, Krauth C, Jalilvand N, Meyer S, Reuter G, Stolle S, Altenhofen L, Lenarz T. PMID: 12698391
+https://www.thieme-connect.com/DOI/DOI?10.1055/s-2003-38515
+
+Ann Otol Rhinol Laryngol Suppl. 2000 Dec;185:16-8.
+New Clarion electrode with positioner: insertion studies.
+Lenarz T1, Kuzma J, Weber BP, Reuter G, Neuburger J, Battmer RD, Goldring JE.
+PMID: 11140987
+http://www.ncbi.nlm.nih.gov/pubmed/11140987
