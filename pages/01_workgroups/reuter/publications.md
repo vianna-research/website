@@ -44,9 +44,7 @@ title: Publications
 Otol Neurotol. 2007 Dec;28(8):1045-52. PubMed PMID: 18043431
 
 
-Lenarz T1, Lim HH, Reuter G, Patrick JF, Lenarz M. 
-
-The auditory midbrain implant: a new auditory prosthesis for neural deafness-concept and device description. http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2006&issue=09000&article=00013&type=abstract Otol Neurotol. 2006 Sep;27(6):838-43. PMID: 16936570
+Lenarz T, Lim HH, Reuter G, Patrick JF and Lenarz M. [**The auditory midbrain implant: a new auditory prosthesis for neural deafness-concept and device description.**](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2006&issue=09000&article=00013&type=abstract) Otol Neurotol. 2006 Sep;27(6):838-43. PMID: 16936570
 
 
 
