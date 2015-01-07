@@ -36,11 +36,11 @@ title: Publications
 
 * **Paasche G**, Ceschi P, Löbler M, Rösl C, Gomes P, Hahn A, Rohm HW, Sternberg K, Lenarz T, Schmitz KP, Barcikowski S, Stöver T. [Effects of metal ions on fibroblasts and spiral ganglion cells](http://onlinelibrary.wiley.com/doi/10.1002/jnr.22569/abstract). J Neurosci Res. 2011 Apr;89(4):611-7.
 
-* Warnecke A, Scheper V, Buhr I, Wenzel GI, Wissel K, **Paasche G**, Berkingali N, Jørgensen JR, Lenarz T, Stöver T. Artemin improves survival of spiral ganglion neurons in vivo and in vitro. Neuroreport. 2010 May 12;21(7):517-21.
+* Warnecke A, Scheper V, Buhr I, Wenzel GI, Wissel K, **Paasche G**, Berkingali N, Jørgensen JR, Lenarz T, Stöver T. [Artemin improves survival of spiral ganglion neurons in vivo and in vitro](http://journals.lww.com/neuroreport/pages/articleviewer.aspx?year=2010&issue=05120&article=00008&type=abstract). Neuroreport. 2010 May 12;21(7):517-21.
 
-* Hahn A, T. Stöver, **Paasche G**, Löbler M, Sternberg K, Rohm H, Barcikowski S. Therapeutic window for bioactive nanocomposites fabricated by laser ablation in polymer- doped organic liquids. Advanced Engineering Materials. 2010 12:B156–B162
+* Hahn A, T. Stöver, **Paasche G**, Löbler M, Sternberg K, Rohm H, Barcikowski S. [Therapeutic window for bioactive nanocomposites fabricated by laser ablation in polymer- doped organic liquids](http://onlinelibrary.wiley.com/doi/10.1002/adem.200980071/abstract). Advanced Engineering Materials. 2010 12:B156–B162
 
-* **Paasche G**, Tasche C, Stöver T, Lesinski-Schiedat A, Lenarz T. The long-term effects of modified electrode surfaces and intracochlear corticosteroids on postoperative impedances in cochlear implant patients. Otol Neurotol. 2009 Aug;30(5):592-8.
+* **Paasche G**, Tasche C, Stöver T, Lesinski-Schiedat A, Lenarz T. [The long-term effects of modified electrode surfaces and intracochlear corticosteroids on postoperative impedances in cochlear implant patients](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2009&issue=08000&article=00006&type=abstract). Otol Neurotol. 2009 Aug;30(5):592-8.
 
 * Scheper V, **Paasche G**, Miller JM, Warnecke A, Berkingali N, Lenarz T, Stöver T. Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs. J Neurosci Res. 2009 May 1;87(6):1389-99.
 
