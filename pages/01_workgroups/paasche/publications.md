@@ -32,9 +32,9 @@ title: Publications
 
 * Kontorinis G, **Paasche G**, Lenarz T, Stöver T. [The effect of different lubricants on cochlear implant electrode insertion forces](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2011&issue=09000&article=00004&type=abstract). Otol Neurotol. 2011 Sep;32(7):1050-6.
 
-* Kontorinis G, Lenarz T, Stöver T, **Paasche G**. Impact of the insertion speed of cochlear implant electrodes on the insertion forces. Otol Neurotol. 2011 Jun;32(4):565-70.
+* Kontorinis G, Lenarz T, Stöver T, **Paasche G**. [Impact of the insertion speed of cochlear implant electrodes on the insertion forces](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2011&issue=06000&article=00009&type=abstract). Otol Neurotol. 2011 Jun;32(4):565-70.
 
-* **Paasche G**, Ceschi P, Löbler M, Rösl C, Gomes P, Hahn A, Rohm HW, Sternberg K, Lenarz T, Schmitz KP, Barcikowski S, Stöver T. Effects of metal ions on fibroblasts and spiral ganglion cells. J Neurosci Res. 2011 Apr;89(4):611-7.
+* **Paasche G**, Ceschi P, Löbler M, Rösl C, Gomes P, Hahn A, Rohm HW, Sternberg K, Lenarz T, Schmitz KP, Barcikowski S, Stöver T. [Effects of metal ions on fibroblasts and spiral ganglion cells](http://onlinelibrary.wiley.com/doi/10.1002/jnr.22569/abstract). J Neurosci Res. 2011 Apr;89(4):611-7.
 
 * Warnecke A, Scheper V, Buhr I, Wenzel GI, Wissel K, **Paasche G**, Berkingali N, Jørgensen JR, Lenarz T, Stöver T. Artemin improves survival of spiral ganglion neurons in vivo and in vitro. Neuroreport. 2010 May 12;21(7):517-21.
 
