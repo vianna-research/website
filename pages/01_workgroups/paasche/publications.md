@@ -51,29 +51,29 @@ title: Publications
 
 * Lenarz T, Stover T, Buechner A, **Paasche G**, Briggs R, Risi F, Pesch J, Battmer RD. Temporal bone results and hearing preservation with a new straight electrode. Audiol Neurootol. 2006;11 Suppl 1:34-41. 
 
-* Paasche G, Bockel F, Tasche C, Lesinski-Schiedat A, Lenarz T. Changes of postoperative impedances in cochlear implant patients: the short-term effects of modified electrode surfaces and intracochlear corticosteroids. Otol Neurotol. 2006 Aug;27(5):639-47. 
+* **Paasche G**, Bockel F, Tasche C, Lesinski-Schiedat A, Lenarz T. Changes of postoperative impedances in cochlear implant patients: the short-term effects of modified electrode surfaces and intracochlear corticosteroids. Otol Neurotol. 2006 Aug;27(5):639-47. 
 
-* Paasche G, Bogel L, Leinung M, Lenarz T, Stover T. Substance distribution in a cochlea model using different pump rates for cochlear implant drug delivery electrode prototypes. Hear Res. 2006 Feb;212(1-2):74-82. 
+* **Paasche G**, Bogel L, Leinung M, Lenarz T, Stover T. Substance distribution in a cochlea model using different pump rates for cochlear implant drug delivery electrode prototypes. Hear Res. 2006 Feb;212(1-2):74-82. 
 
-* Torkos A, Teschner M, Erfurt P, Paasche G, Lenarz T, Stover T. The use of buccal smears for a non-invasive screening of the 35delG mutation of the Connexin-26 gene in hearing impaired young children. Int J Pediatr Otorhinolaryngol. 2006 Jun;70(6):965-71. 
+* Torkos A, Teschner M, Erfurt P, **Paasche G**, Lenarz T, Stover T. The use of buccal smears for a non-invasive screening of the 35delG mutation of the Connexin-26 gene in hearing impaired young children. Int J Pediatr Otorhinolaryngol. 2006 Jun;70(6):965-71. 
 
-* Stover T, Issing P, Graurock G, Erfurt P, ElBeltagy Y, Paasche G, Lenarz T. Evaluation of the advance off-stylet insertion technique and the cochlear insertion tool in temporal bones. Otol Neurotol. 2005 Nov;26(6):1161-70. 
+* Stover T, Issing P, Graurock G, Erfurt P, ElBeltagy Y, **Paasche G**, Lenarz T. Evaluation of the advance off-stylet insertion technique and the cochlear insertion tool in temporal bones. Otol Neurotol. 2005 Nov;26(6):1161-70. 
 
-* Zschornig O, Paasche G, Thieme C, Korb N, Arnold K. Modulation of lysozyme charge influences interaction with phospholipids vesicles. Colloids Surf B Biointerfaces. 2005 Apr 25;42(1):69-78. 
+* Zschornig O, **Paasche G**, Thieme C, Korb N, Arnold K. Modulation of lysozyme charge influences interaction with phospholipids vesicles. Colloids Surf B Biointerfaces. 2005 Apr 25;42(1):69-78. 
 
-* Paasche G, Gibson P, Averbeck T, Becker H, Lenarz T, Stöver T. Technical report: modification of a cochlear implant electrode for drug delivery to the inner ear. Otol Neurotol. 2003 Mar;24(2):222-7. 
+* **Paasche G**, Gibson P, Averbeck T, Becker H, Lenarz T, Stöver T. Technical report: modification of a cochlear implant electrode for drug delivery to the inner ear. Otol Neurotol. 2003 Mar;24(2):222-7. 
 
-* Paasche G, Gärtner U, Germer A, Grosche J, Reichenbach A. Mitochondria of retinal Müller (glial) cells: the effects of aging and of application of free radical scavengers. Ophthalmic Res. 2000 Sep-Oct;32(5):229-36.
+* **Paasche G**, Gärtner U, Germer A, Grosche J, Reichenbach A. Mitochondria of retinal Müller (glial) cells: the effects of aging and of application of free radical scavengers. Ophthalmic Res. 2000 Sep-Oct;32(5):229-36.
 
-* Zschörnig O, Richter W, Paasche G, Arnold K. Cation-mediated interaction of dextran sulfate with phospholipid vesicles: Binding, vesicle surface polarity, leakage and fusion. Colloid and Polymer Science. 2000 278:637-646.
+* Zschörnig O, Richter W, **Paasche G**, Arnold K. Cation-mediated interaction of dextran sulfate with phospholipid vesicles: Binding, vesicle surface polarity, leakage and fusion. Colloid and Polymer Science. 2000 278:637-646.
 
-* Zschörnig O, Paasche G, Thieme C, Korb N, Fahrwald A, Arnold K. Association of lysozyme with phospholipid vesicles is accompanied by membrane surface dehydration. Gen Physiol Biophys. 2000 Mar;19(1):85-101. 
+* Zschörnig O, **Paasche G**, Thieme C, Korb N, Fahrwald A, Arnold K. Association of lysozyme with phospholipid vesicles is accompanied by membrane surface dehydration. Gen Physiol Biophys. 2000 Mar;19(1):85-101. 
 
-* Reichenbach A, Palhalmi J, Bringmann A, Biedermann B, Francke M, Pannicke T, Paasche G, Germer A, Kuhrt H, Grosche J, Härtig W, Reichelt W, Juhász G, Skatchkov SN, Faude F. Interactions between neurons and glial cells in the retina. In: Les Séminaires Ophthalmologiques d’IPSEN: Vision, génome et cerveau. Y. Christen, M. Doly, und M.-T, Droy-Lefaix, Eds., Irvinn, Paris. 1999 10:39-54.
+* Reichenbach A, Palhalmi J, Bringmann A, Biedermann B, Francke M, Pannicke T, **Paasche G**, Germer A, Kuhrt H, Grosche J, Härtig W, Reichelt W, Juhász G, Skatchkov SN, Faude F. Interactions between neurons and glial cells in the retina. In: Les Séminaires Ophthalmologiques d’IPSEN: Vision, génome et cerveau. Y. Christen, M. Doly, und M.-T, Droy-Lefaix, Eds., Irvinn, Paris. 1999 10:39-54.
 
-* Huster D, Paasche G, Dietrich U, Zschörnig O, Gutberlet T, Gawrisch K, Arnold K. Investigation of phospholipid area compression induced by calcium-mediated dextran sulfate interaction. Biophys J. 1999 Aug;77(2):879-87. 
+* Huster D, **Paasche G**, Dietrich U, Zschörnig O, Gutberlet T, Gawrisch K, Arnold K. Investigation of phospholipid area compression induced by calcium-mediated dextran sulfate interaction. Biophys J. 1999 Aug;77(2):879-87. 
 
-* Germer A, Biedermann B, Wolburg H, Schuck J, Grosche J, Kuhrt H, Reichelt W, Schousboe A, Paasche G, Mack AF, Reichenbach A. Distribution of mitochondria within Müller cells--I. Correlation with retinal vascularization in different mammalian species. J Neurocytol. 1998 Jun;27(5):329-45. 
+* Germer A, Biedermann B, Wolburg H, Schuck J, Grosche J, Kuhrt H, Reichelt W, Schousboe A, **Paasche G**, Mack AF, Reichenbach A. Distribution of mitochondria within Müller cells--I. Correlation with retinal vascularization in different mammalian species. J Neurocytol. 1998 Jun;27(5):329-45. 
 
-* Paasche G, Huster D, Reichenbach A. The glutathione content of retinal Müller (glial) cells: the effects of aging and of application of free-radical scavengers. Ophthalmic Res. 1998 30(6):351-60. 
+* **Paasche G**, Huster D, Reichenbach A. The glutathione content of retinal Müller (glial) cells: the effects of aging and of application of free-radical scavengers. Ophthalmic Res. 1998 30(6):351-60. 
 
