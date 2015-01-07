@@ -1,6 +1,7 @@
 title: Mathias Müller
 
-![Picture Hannes Maier](MMU.jpg) **Dipl.-Phys. Mathias Müller**
+![Picture Hannes Maier](MMU.jpg)  
+**Dipl.-Phys. Mathias Müller**
 
 
 Since January 2014 a member of the middle ear implant team (MOI) of Prof. Maier.
