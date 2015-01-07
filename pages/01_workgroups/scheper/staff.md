@@ -1,4 +1,4 @@
-title: stuff
+title: staff
 
 **Head of research group**
 
