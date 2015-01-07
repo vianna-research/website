@@ -40,7 +40,7 @@ title: Publications
 
 * Stöver T, **Scheper V**, Diensthuber M, Lenarz T, Wefstaedt P. [In vitro neurite outgrowth induced by BDNF and GDNF in combination with dexamethasone on cultured spiral ganglion cells.](https://www.thieme-connect.com/DOI/DOI?10.1055/s-2006-945005) Laryngorhinootologie. 2007 May;86(5):352-7. Epub 2006 Dec 12. German. 
 
-* Wefstaedt P, **Scheper V**, Rieger H, Lenarz T, Stöver T. Neurotrophic factors of the GDNF family and their receptors are detectable in spiral ganglion cells of normal hearing as well as of deafened rats. Laryngorhinootologie. 2006 Nov;85(11):802-8. Epub 2006 Apr 10. German. 
+* Wefstaedt P, **Scheper V**, Rieger H, Lenarz T, Stöver T. [Neurotrophic factors of the GDNF family and their receptors are detectable in spiral ganglion cells of normal hearing as well as of deafened rats.](https://www.thieme-connect.com/DOI/DOI?10.1055/s-2006-925287) Laryngorhinootologie. 2006 Nov;85(11):802-8. Epub 2006 Apr 10. German. 
 
-* Wefstaedt P, **Scheper V**, Lenarz T, Stöver T. Brain-derived neurotrophic factor/glial cell line-derived neurotrophic factor survival effects on auditory neurons are not limited by dexamethasone. Neuroreport. 2005 Dec 19;16(18):2011-4.
+* Wefstaedt P, **Scheper V**, Lenarz T, Stöver T. [Brain-derived neurotrophic factor/glial cell line-derived neurotrophic factor survival effects on auditory neurons are not limited by dexamethasone.](http://journals.lww.com/neuroreport/pages/articleviewer.aspx?year=2005&issue=12190&article=00008&type=abstract) Neuroreport. 2005 Dec 19;16(18):2011-4.
 
