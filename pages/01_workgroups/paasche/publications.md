@@ -13,16 +13,16 @@ title: Publications
 
 * Kaiser O, **Paasche G**, Stöver T, Ernst S, Lenarz T, Kral A, Warnecke A. [TGF-beta superfamily member activin A acts with BDNF and erythropoietin to improve survival of spiral ganglion neurons in vitro](http://www.sciencedirect.com/science/article/pii/S0028390813003651). Neuropharmacology. 2013 Dec;75:416-25.
 
-* Schlie-Wolter S, Deiwick A, Fadeeva E, **Paasche G**, Lenarz T, Chichkov BN. Topography and coating of platinum improve the electrochemical properties and neuronal guidance. ACS Appl Mater Interfaces. 2013 Feb;5(3):1070-7.
+* Schlie-Wolter S, Deiwick A, Fadeeva E, **Paasche G**, Lenarz T, Chichkov BN. [Topography and coating of platinum improve the electrochemical properties and neuronal guidance](http://pubs.acs.org/doi/abs/10.1021/am3028487). ACS Appl Mater Interfaces. 2013 Feb;5(3):1070-7.
 
-* Wefstaedt P, **Paasche G**, Parker J, Lenarz T, Stöver T. A device for patterned electrical stimulation of cultivated cells: preliminary tests with rat auditory neurons. Eur Arch Otorhinolaryngol. 2013 Mar;270(3):841-8.
+* Wefstaedt P, **Paasche G**, Parker J, Lenarz T, Stöver T. [A device for patterned electrical stimulation of cultivated cells: preliminary tests with rat auditory neurons](http://link.springer.com/article/10.1007%2Fs00405-012-2030-7). Eur Arch Otorhinolaryngol. 2013 Mar;270(3):841-8.
 
-* Lenarz T, Pau H-W, **Paasche G**. Cochlear Implants. Curr Pharm Biotechnol. 2013 Jan;14(1):112-23. Review
+* Lenarz T, Pau H-W, **Paasche G**. [Cochlear Implants](http://www.eurekaselect.com/106197/article). Curr Pharm Biotechnol. 2013 Jan;14(1):112-23. Review
 
 
 ## Before 2013
 
-* Bohl A, Rohm HW, Ceschi P, **Paasche G**, Hahn A, Barcikowski S, Lenarz T, Stöver T, Pau HW, Schmitz KP, Sternberg K. Development of a Specially Tailored Local Drug Delivery System for the Prevention of Fibrosis after Insertion of Cochlear Implants into the Inner Ear. J Mater Sci Mater Med. 2012 Sep;23(9):2151-62.
+* Bohl A, Rohm HW, Ceschi P, **Paasche G**, Hahn A, Barcikowski S, Lenarz T, Stöver T, Pau HW, Schmitz KP, Sternberg K. [Development of a Specially Tailored Local Drug Delivery System for the Prevention of Fibrosis after Insertion of Cochlear Implants into the Inner Ear](http://link.springer.com/article/10.1007%2Fs10856-012-4698-z). J Mater Sci Mater Med. 2012 Sep;23(9):2151-62.
 
 * Kontorinis G, Scheper V, Wissel K, Stöver T, Lenarz T, **Paasche G**. In vitro modifications of the scala tympani environment and the cochlear implant array surface. Laryngoscope. 2012 Sep;122(9):2057-63.
 
