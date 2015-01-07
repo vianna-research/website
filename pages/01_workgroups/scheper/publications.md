@@ -2,18 +2,18 @@ title: Publications
 
 #Publications
 
-2014
----
+## 2014
+
 * Miller F, Burghard A, Salcher R, **Scheper V**, Leibold W, Lenarz T, Paasche G. [Treatment of middle ear ventilation disorders: sheep as animal model for stenting the human eustachian tube - a cadaver study. ](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0113906) PLoS One. 2014 Nov 24;9(11):e113906. doi: 10.1371/journal.pone.0113906. eCollection 2014.
 
 * Hütten M, Dhanasingh A, Hessler R, Stöver T, Esser KH, Möller M, Lenarz T, Jolly C, Groll J, **Scheper V**. [In vitro and in vivo evaluation of a hydrogel reservoir as a continuous drug delivery system for inner ear treatment.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0104564) PLoS One. 2014 Aug 8;9(8):e104564. doi: 10.1371/journal.pone.0104564. eCollection 2014.
 
 * Kranz K, Warnecke A, Lenarz T, Durisin M, **Scheper V**. [Phosphodiesterase type 4 inhibitor rolipram improves survival of spiral ganglion neurons in vitro.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0092157) PLoS One. 2014 Mar 18;9(3):e92157. doi: 10.1371/journal.pone.0092157. eCollection 2014
 
-* Biodegradable polymeric coatings on cochlear implant surfaces and their influence on spiral ganglion cell survival; Ceschi P, Bohl A, Sternberg K, Neumeister A, Senz V, Schmitz KP, Kietzmann M, [Scheper V] (pagescheper.html), Lenarz T, Stöver T, Paasche G, J Biomed Mater Res B Appl Biomater. 2014 Aug;102(6):1255-67. doi: 10.1002/jbm.b.33110. Epub 2014 Jan 17
+* Ceschi P, Bohl A, Sternberg K, Neumeister A, Senz V, Schmitz KP, Kietzmann M, **Scheper V**, Lenarz T, Stöver T, Paasche G. [Biodegradable polymeric coatings on cochlear implant surfaces and their influence on spiral ganglion cell survival.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33110/abstract) J Biomed Mater Res B Appl Biomater. 2014 Aug;102(6):1255-67. doi: 10.1002/jbm.b.33110. Epub 2014 Jan 17
 
-2013
----
+## 2013
+
 * Neural representation in the auditory midbrain of the envelope of vocalizations based on a peripheral ear model; Rode T, Hartmann T, Hubka P, Scheper V, Lenarz M, Lenarz T, Kral A, Lim HH. Front Neural Circuits. 2013 Oct 21;7:166. doi: 10.3389/fncir.2013.00166. eCollection 2013.
 *  Spiral ganglion neuron quantification in the guinea pig cochlea using Confocal Laser Scanning Microscopy compared to embedding methods. Wrzeszcz A, Reuter G, Nolte I, Lenarz T, Scheper V. Hear Res. 2013 Dec;306:145-55. doi:10.1016/j.heares.2013.08.002. Epub 2013 Aug 20.
 *  UHV-alginate as matrix for neurotrophic factor producing cells--a novel biomaterial for cochlear implant optimization to preserve inner ear neurons from degeneration. Hütten M, Ehrhart F, Zimmermann H, Reich U, Esser KH, Lenarz T, Scheper V. Otol Neurotol. 2013 Aug;34(6):1127-33. doi: 10.1097/MAO.0b013e3182804949. Erratum in: Otol Neurotol. 2013 Dec;34
