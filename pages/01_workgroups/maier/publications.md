@@ -10,15 +10,12 @@ title: Publications
 
 
 
-## 2013
-
-* Busch S, Kruck S, Spickers D, Leuwer R, Hoth S, Praetorius M, Plinkert PK, Mojallal H, Schwab B, Maier H, Lenarz T. [**First clinical experiences with a direct acoustic cochlear stimulator in comparison to preoperative fitted conventional hearing aids.**](http://www.ncbi.nlm.nih.gov/pubmed/24232068 "First clinical experiences with a direct acoustic cochlear stimulator in comparison to preoperative fitted conventional hearing aids.") Otol Neurotol. 2013 Dec;34(9):1711-8. doi: 10.1097/MAO.0000000000000225. PubMed PMID: 24232068.
-
-* Burke WF, Lenarz T, Maier H. [**Hereditäre Schwerhörigkeit Teil 1: Überblick und praktische Hinweise zur Diagnostik.**](http://link.springer.com/article/10.1007%2Fs00106-013-2689-0 "Hereditäre Schwerhörigkeit Teil 1: Überblick und praktische Hinweise zur Diagnostik.") HNO. 2013 Apr;61(4):353-63. doi: 10.1007/s00106-013-2689-0. German. PubMed PMID: 23588679.
-
-* Nolan LS, Maier H, Hermans-Borgmeyer I, Girotto G, Ecob R, Pirastu N, Cadge BA, Hübner C, Gasparini P, Strachan DP, Davis A, Dawson SJ. [**Estrogen-related receptor gamma and hearing function: evidence of a role in humans and mice.**](http://www.sciencedirect.com/science/article/pii/S0197458013000821 "Estrogen-related receptor gamma and hearing function: evidence of a role in humans and mice.") Neurobiol Aging. 2013 Aug;34(8):2077.e1-9. doi: 10.1016/j.neurobiolaging.2013.02.009. Epub 2013 Mar 26. PubMed PMID: 23540940.
-
-* Maier H, Salcher R, Schwab B, Lenarz T. [**The effect of static force on round window stimulation with the direct acoustic cochlea stimulator.**](http://www.sciencedirect.com/science/article/pii/S037859551200305X "The effect of static force on round window stimulation with the direct acoustic cochlea stimulator.") Hear Res. 2013 Jul;301:115-24. doi: 10.1016/j.heares.2012.12.010. Epub 2012 Dec 28. PubMed PMID: 23276731.
+|2013	                       |
+|-----------------------------------------|
+|Busch S, Kruck S, Spickers D, Leuwer R, Hoth S, Praetorius M, Plinkert PK, Mojallal H, Schwab B, Maier H, Lenarz T. [**First clinical experiences with a direct acoustic cochlear stimulator in comparison to preoperative fitted conventional hearing aids.**](http://www.ncbi.nlm.nih.gov/pubmed/24232068 "First clinical experiences with a direct acoustic cochlear stimulator in comparison to preoperative fitted conventional hearing aids.") Otol Neurotol. 2013 Dec;34(9):1711-8. doi: 10.1097/MAO.0000000000000225. PubMed PMID: 24232068.|
+|Burke WF, Lenarz T, Maier H. [**Hereditäre Schwerhörigkeit Teil 1: Überblick und praktische Hinweise zur Diagnostik.**](http://link.springer.com/article/10.1007%2Fs00106-013-2689-0 "Hereditäre Schwerhörigkeit Teil 1: Überblick und praktische Hinweise zur Diagnostik.") HNO. 2013 Apr;61(4):353-63. doi: 10.1007/s00106-013-2689-0. German. PubMed PMID: 23588679.|
+|Nolan LS, Maier H, Hermans-Borgmeyer I, Girotto G, Ecob R, Pirastu N, Cadge BA, Hübner C, Gasparini P, Strachan DP, Davis A, Dawson SJ. [**Estrogen-related receptor gamma and hearing function: evidence of a role in humans and mice.**](http://www.sciencedirect.com/science/article/pii/S0197458013000821 "Estrogen-related receptor gamma and hearing function: evidence of a role in humans and mice.") Neurobiol Aging. 2013 Aug;34(8):2077.e1-9. doi: 10.1016/j.neurobiolaging.2013.02.009. Epub 2013 Mar 26. PubMed PMID: 23540940.|
+|* Maier H, Salcher R, Schwab B, Lenarz T. [**The effect of static force on round window stimulation with the direct acoustic cochlea stimulator.**](http://www.sciencedirect.com/science/article/pii/S037859551200305X "The effect of static force on round window stimulation with the direct acoustic cochlea stimulator.") Hear Res. 2013 Jul;301:115-24. doi: 10.1016/j.heares.2012.12.010. Epub 2012 Dec 28. PubMed PMID: 23276731.|
 
 
 
