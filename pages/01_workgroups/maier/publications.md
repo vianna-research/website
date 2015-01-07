@@ -19,21 +19,15 @@ title: Publications
 
 
 
-## Before 2013
-
-* Schultz M, Baumhoff P, Maier H, Teudt IU, Krüger A, Lenarz T, Kral A. **Nanosecond laser pulse stimulation of the inner ear-a wavelength study.** Biomed Opt Express. 2012 Dec 1;3(12):3332-45. doi: 10.1364/BOE.3.003332. Epub 2012 Nov 28. PubMed PMID: 23243582; PubMed Central PMCID: PMC3521308.
-
-* Schultz M, Baumhoff P, Teudt IU, Maier H, Krüger A, Lenarz T, Kral A. **Pulsed wavelength-dependent laser stimulation of the inner ear.** Biomed Tech (Berl). 2012 Sep 6;57 Suppl 1. pii:/j/bmte.2012.57.issue-s1-P/bmt-2012-4339/bmt-2012-4339.xml. doi: 10.1515/bmt-2012-4339. PubMed PMID: 23096342.
-
-* Hennings JC, Picard N, Huebner AK, Stauber T, Maier H, Brown D, Jentsch TJ, Vargas-Poussou R, Eladari D, Hübner CA. **A mouse model for distal renal tubular acidosis reveals a previously unrecognized role of the V-ATPase a4 subunit in the proximal tubule.** EMBO Mol Med. 2012 Oct;4(10):1057-71. doi:10.1002/emmm.201201527. Epub 2012 Aug 30. PubMed PMID: 22933323; PubMed Central PMCID: PMC3491836.
-
-* Schwab B, Salcher RB, Maier H, Kontorinis G. **Oval window membrane vibroplasty for direct acoustic cochlear stimulation: treating severe mixed hearing loss in challenging middle ears.** Otol Neurotol. 2012 Jul;33(5):804-9. doi: 10.1097/MAO.0b013e3182595471. PubMed PMID: 22699990.
-
-* Trowe MO, Maier H, Petry M, Schweizer M, Schuster-Gossler K, Kispert A. **Impaired stria vascularis integrity upon loss of E-cadherin in basal cells.** Dev Biol. 2011 Nov 1;359(1):95-107. doi: 10.1016/j.ydbio.2011.08.030. Epub 2011 Sep 9. PubMed PMID: 21925491.
-
-* Huebner AK, Gandia M, Frommolt P, Maak A, Wicklein EM, Thiele H, Altmüller J, Wagner F, Viñuela A, Aguirre LA, Moreno F, Maier H, Rau I, Giesselmann S, Nürnberg G, Gal A, Nürnberg P, Hübner CA, del Castillo I, Kurth I. **Nonsense mutations in SMPX, encoding a protein responsive to physical force, result in X-chromosomal hearing loss.** Am J Hum Genet. 2011 May 13;88(5):621-7. doi: 10.1016/j.ajhg.2011.04.007. Epub 2011 May 5. PubMed PMID: 21549336; PubMed Central PMCID: PMC3146719.
-
-* Teudt IU, Maier H, Richter CP, Kral A. **Acoustic events and "optophonic" cochlear responses induced by pulsed near-infrared laser.** IEEE Trans Biomed Eng. 2011 Jun;58(6):1648-55. doi: 10.1109/TBME.2011.2108297. Epub 2011 Jan 28. PubMed PMID: 21278011; PubMed Central PMCID: PMC3449328.
+|Before 2013	                       |
+|-----------------------------------------|
+|Schultz M, Baumhoff P, Maier H, Teudt IU, Krüger A, Lenarz T, Kral A. **Nanosecond laser pulse stimulation of the inner ear-a wavelength study.** Biomed Opt Express. 2012 Dec 1;3(12):3332-45. doi: 10.1364/BOE.3.003332. Epub 2012 Nov 28. PubMed PMID: 23243582; PubMed Central PMCID: PMC3521308.|
+|Schultz M, Baumhoff P, Teudt IU, Maier H, Krüger A, Lenarz T, Kral A. **Pulsed wavelength-dependent laser stimulation of the inner ear.** Biomed Tech (Berl). 2012 Sep 6;57 Suppl 1. pii:/j/bmte.2012.57.issue-s1-P/bmt-2012-4339/bmt-2012-4339.xml. doi: 10.1515/bmt-2012-4339. PubMed PMID: 23096342.|
+|Hennings JC, Picard N, Huebner AK, Stauber T, Maier H, Brown D, Jentsch TJ, Vargas-Poussou R, Eladari D, Hübner CA. **A mouse model for distal renal tubular acidosis reveals a previously unrecognized role of the V-ATPase a4 subunit in the proximal tubule.** EMBO Mol Med. 2012 Oct;4(10):1057-71. doi:10.1002/emmm.201201527. Epub 2012 Aug 30. PubMed PMID: 22933323; PubMed Central PMCID: PMC3491836.|
+|Schwab B, Salcher RB, Maier H, Kontorinis G. **Oval window membrane vibroplasty for direct acoustic cochlear stimulation: treating severe mixed hearing loss in challenging middle ears.** Otol Neurotol. 2012 Jul;33(5):804-9. doi: 10.1097/MAO.0b013e3182595471. PubMed PMID: 22699990.|
+|Trowe MO, Maier H, Petry M, Schweizer M, Schuster-Gossler K, Kispert A. **Impaired stria vascularis integrity upon loss of E-cadherin in basal cells.** Dev Biol. 2011 Nov 1;359(1):95-107. doi: 10.1016/j.ydbio.2011.08.030. Epub 2011 Sep 9. PubMed PMID: 21925491.|
+|Huebner AK, Gandia M, Frommolt P, Maak A, Wicklein EM, Thiele H, Altmüller J, Wagner F, Viñuela A, Aguirre LA, Moreno F, Maier H, Rau I, Giesselmann S, Nürnberg G, Gal A, Nürnberg P, Hübner CA, del Castillo I, Kurth I. **Nonsense mutations in SMPX, encoding a protein responsive to physical force, result in X-chromosomal hearing loss.** Am J Hum Genet. 2011 May 13;88(5):621-7. doi: 10.1016/j.ajhg.2011.04.007. Epub 2011 May 5. PubMed PMID: 21549336; PubMed Central PMCID: PMC3146719.|  
+|Teudt IU, Maier H, Richter CP, Kral A. **Acoustic events and "optophonic" cochlear responses induced by pulsed near-infrared laser.** IEEE Trans Biomed Eng. 2011 Jun;58(6):1648-55. doi: 10.1109/TBME.2011.2108297. Epub 2011 Jan 28. PubMed PMID: 21278011; PubMed Central PMCID: PMC3449328.
 
 * Gröger N, Fröhlich H, Maier H, Olbrich A, Kostin S, Braun T, Boettger T. **SLC4A11 prevents osmotic imbalance leading to corneal endothelial dystrophy, deafness, and polyuria.** J Biol Chem. 2010 May 7;285(19):14467-74. doi: 10.1074/jbc.M109.094680. Epub 2010 Feb 25. PubMed PMID: 20185830; PubMed Central PMCID: PMC2863209.
 
