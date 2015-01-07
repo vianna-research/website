@@ -4,59 +4,29 @@ title: Publications
 
 2014
 ---
-* Aligned carbon nanotube-liquid silicone rubber conductors and electrode surfaces for stimulating medical implants; Katharina Tegtmeier, Pooyan Aliuos, Jan Stieghorst, Malte Schickedanz, Felix Golly, Holger Zernetsch, Birgit Glasmacher and [T. Doll](pagedoll.html); Phys. Status Solidi A 211, No. 6, 1439–1447 (2014); DOI 10.1002/pssa.201330405
-* Self-bending hydrogel actuation for electrode shafts in cochlear implants; Jan Stieghorst, Katharina Tegtmeier, Pooyan Aliuos, Holger Zernetsch, Birgit Glasmacher,
-and [T. Doll](pagedoll.html); Phys. Status Solidi A 211, No. 6, 1455–1461 (2014); DOI 10.1002/pssa.201330404
-* A. Amann, W. Filipiak, P. Mochalski, C. Ager, A. Filipiak, R. Cumeras, C. E. Davis, D. Smith, P. Španěl, [T. Doll](pagedoll.html), J. Troppmair, Arriving at the human volatilome: A review of volatile organic compounds (VOCs) released by different cell types, J. Breath Res. 2014 accepted
-* J. Stieghorst, E. Stockburger, [T. Doll](pagedoll.html), Hydrogel-based Microactuation for Self-bending Cochlear Implant Electrodes, Biomed Microdevices, 2014 submitted
-
+* Treatment of middle ear ventilation disorders: sheep as animal model for stenting the human eustachian tube - a cadaver study; Miller F, Burghard A, Salcher R, [Scheper V] (pagescheper.html), Leibold W, Lenarz T, Paasche G; PLoS One. 2014 Nov 24;9(11):e113906. doi: 10.1371/journal.pone.0113906. eCollection 2014.
+* In vitro and in vivo evaluation of a hydrogel reservoir as a continuous drug delivery system for inner ear treatment, Hütten M, Dhanasingh A, Hessler R, Stöver T, Esser KH, Möller M, Lenarz T, Jolly C, Groll J, [Scheper V] (pagescheper.html); PLoS One. 2014 Aug 8;9(8):e104564. doi: 10.1371/journal.pone.0104564. eCollection 2014.
+* Phosphodiesterase type 4 inhibitor rolipram improves survival of spiral ganglion neurons in vitro; Kranz K, Warnecke A, Lenarz T, Durisin M, [Scheper V] (pagescheper.html);PLoS One. 2014 Mar 18;9(3):e92157. doi: 10.1371/journal.pone.0092157. eCollection 2014
+* Biodegradable polymeric coatings on cochlear implant surfaces and their influence on spiral ganglion cell survival; Ceschi P, Bohl A, Sternberg K, Neumeister A, Senz V, Schmitz KP, Kietzmann M, [Scheper V] (pagescheper.html), Lenarz T, Stöver T, Paasche G, J Biomed Mater Res B Appl Biomater. 2014 Aug;102(6):1255-67. doi: 10.1002/jbm.b.33110. Epub 2014 Jan 17
 
 2013
 ---
-* P. Marek, J.J. Velasco-Velez, T. Haas, [T. Doll](pagedoll.html), G. Sadowski, Time-monitoring sensor based on oxygen diffusion in an indicator/ polymer matrix, Sensors & Actuators B. Chemical 2013, 178, 254-262
-* [T. Doll](pagedoll.html), J. Velasco-Velez, D. Rosenthal, J. Avila and V. Fuenzalida, Direct Observation of the Electroadsorptive Effect on Ultra Thin Films for Microsensor and Catalytic Surface Control, ChemPhysChem, 2013, 14, 11 (2505 -2510)
+* Neural representation in the auditory midbrain of the envelope of vocalizations based on a peripheral ear model; Rode T, Hartmann T, Hubka P, Scheper V, Lenarz M, Lenarz T, Kral A, Lim HH. Front Neural Circuits. 2013 Oct 21;7:166. doi: 10.3389/fncir.2013.00166. eCollection 2013.
+*  Spiral ganglion neuron quantification in the guinea pig cochlea using Confocal Laser Scanning Microscopy compared to embedding methods. Wrzeszcz A, Reuter G, Nolte I, Lenarz T, Scheper V. Hear Res. 2013 Dec;306:145-55. doi:10.1016/j.heares.2013.08.002. Epub 2013 Aug 20.
+*  UHV-alginate as matrix for neurotrophic factor producing cells--a novel biomaterial for cochlear implant optimization to preserve inner ear neurons from degeneration. Hütten M, Ehrhart F, Zimmermann H, Reich U, Esser KH, Lenarz T, Scheper V. Otol Neurotol. 2013 Aug;34(6):1127-33. doi: 10.1097/MAO.0b013e3182804949. Erratum in: Otol Neurotol. 2013 Dec;34
+
+
 
 before 2013
 ---
-* J. Velez, A. Chaiyboun, C. Wilbertz, S. Scheinert,[T. Doll](pagedoll.html), Drift Modelling of Electrically Controlled Nanoscale Metal Oxide Gas Sensors, IEEE Electron Device Letters, 29, 7 (2008), 677-680
-* S. Ahlers, G. Müller, [T. Doll](pagedoll.html), Factors Influencing the Gas sensitivity of Metal Oxide Materials, in C.A. Grimes, E.C. Dickey, M.V. Pisko (Eds), Encyclopedia of Sensors, 2007, vol. 3, 413-447
-* T. Haas, [T. Doll](pagedoll.html), Omnidirectional 2D Photonic Band Gap Structures, Phys. Rev. B, Vol. 73, No. 4, pp. 045130, 2006
-* S. Scheinert, [T. Doll](pagedoll.html), A. Scherer, G. Paasch, I. Hörselmann, Organic field-effect transistors with nonlithographically defined submicrometer channel length  Appl. Phys. Lett. 84, 4427-4429 (2004)
-* [T. Doll](pagedoll.html) (Ed.+ Author), Advanced Gas Sensing: The Electroadsorptive Effect and Related Techniques, Kluwer Academic Publishers, Boston, 2003, ISBN 1-4020-7433-6
-* [T. Doll](pagedoll.html), R. Paris, N. Djermanova, J. Lehmann, P. Kornetzky, R.P. Gupta, G. Eranna, Fully CMOS Gas Sensing FET with Hybrid Sensing Capacitor, IEEE Sensors Journal, 2003
-* S. Scheinert, G. Paasch, M. Schrödner, H. Roth, S. Sensfuß, [T. Doll](pagedoll.html), Subthreshold Chrarcteristics of Field Effect Transistors based on Poly(3-dececylthiophene) and an Organic Insulator, J. Apl. Physics, 92, 1, (2002) 330-337
+* Lipidic nanocapsule drug delivery: neuronal protection for cochlear implant optimization. Meyer H, Stöver T, Fouchet F, Bastiat G, Saulnier P, Bäumer W, Lenarz T, Scheper V. Int J Nanomedicine. 2012;7:2449-64. doi: 10.2147/IJN.S29712. Epub 2012 May 15.
+* In vitro modifications of the scala tympani environment and the cochlear implant array surface. Kontorinis G, Scheper V, Wissel K, Stöver T, Lenarz T, Paasche G. Laryngoscope. 2012 Sep;122(9):2057-63. doi: 10.1002/lary.23408. Epub 2012 May 30.
+* Coactivation of different neurons within an isofrequency lamina of the inferior colliculus elicits enhanced auditory cortical activation.Calixto R, Lenarz M, Neuheiser A, Scheper V, Lenarz T, Lim HH.J Neurophysiol. 2012 Aug;108(4):1199-210. doi: 10.1152/jn.00111.2012. Epub 2012 May 23.
+* Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo. Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, Paasche G, Scheper V, Reich U, Esser KH, Lenarz T, Stöver T, Wissel K. Hear Res. 2012 Jul;289(1-2):86-97. doi: 10.1016/j.heares.2012.04.007. Epub 2012 Apr 28.
+* Artemin improves survival of spiral ganglion neurons in vivo and in vitro. Warnecke A, Scheper V, Buhr I, Wenzel GI, Wissel K, Paasche G, Berkingali N, Jørgensen JR, Lenarz T, Stöver T. Neuroreport. 2010 May 12;21(7):517-21. doi:10.1097/WNR.0b013e328339045b.
+* Potential novel drug carriers for inner ear treatment: hyperbranched polylysine and lipid nanocapsules. Scheper V, Wolf M, Scholl M, Kadlecova Z, Perrier T, Klok HA, Saulnier P, Lenarz T, Stöver T. Nanomedicine (Lond). 2009 Aug;4(6):623-35. doi: 10.2217/nnm.09.41. 
+* Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs. Scheper V, Paasche G, Miller JM, Warnecke A, Berkingali N, Lenarz T, Stöver T. J Neurosci Res. 2009 May 1;87(6):1389-99. doi: 10.1002/jnr.21964.
+* In vitro neurite outgrowth induced by BDNF and GDNF in combination with dexamethasone on cultured spiral ganglion cells. Stöver T, Scheper V, Diensthuber M, Lenarz T, Wefstaedt P. Laryngorhinootologie. 2007 May;86(5):352-7. Epub 2006 Dec 12. German. 
+* Neurotrophic factors of the GDNF family and their receptors are detectable in spiral ganglion cells of normal hearing as well as of deafened rats. Wefstaedt P, Scheper V, Rieger H, Lenarz T, Stöver T. Laryngorhinootologie. 2006 Nov;85(11):802-8. Epub 2006 Apr 10. German. 
+* Brain-derived neurotrophic factor/glial cell line-derived neurotrophic factor survival effects on auditory neurons are not limited by dexamethasone. Wefstaedt P, Scheper V, Lenarz T, Stöver T. Neuroreport. 2005 Dec 19;16(18):2011-4.
 
-
-
-#Conferences
-
-**2014**
-----
-
-**BMT 2014** - 48th DGBMT annual conference
-
-* Presentation: Biocompatible and actuated Carbon Nanotube-based electrodes for advanced neural interfacing; K. Tegtmeier, J. Stieghorst, P. Aliuos, O. Majdani, T. Lenarz, [T. Doll](pagedoll.html); 2014
-* Presentation: Path to construct synthetic synapses for enhanced electrode-nerve interaction in neuroprostheses; S. Ebrahimpoor, C. Zeilinger,[T. Doll](pagedoll.html), T. Lenarz, P. Aliuos
-
-
-**EnFI 2014** - Engineering of functional interfaces
-
-* Poster & Abstract: Functional gliding interface inside a micro-structured polymer impant; S. Meinen, E. Stockburger, J. Stieghorst, M. Möller, [T. Doll](pagedoll.html); 2014
-* Poster & Abstract: Characterization and improvement of carbon nanotube - silicone rubber interfaces for neural implants; K.Tegtmeier, N.Burblies, [T. Doll](pagedoll.html); 2014
-* Poster & Abstract: Electrode-nerve interface: Enhancement of neural cell adhesion by means of CNT; P. Aliuos, A. Bondarenkova, J. McCaughey, J. Stieghorst, K.Tegtmeier, [T. Doll](pagedoll.html); 2014
-* Poster & Abstract: 3D silicone rubber interfaces in individually shaped neural implants; J-Stieghorst, J. McCaughey, [T. Doll](pagedoll.html)
-
-**CI 2014** - 13th International Conference on Cochlear Implants and Other Implantable Auditory Technologies
-
-* Presentation: Routes towards closing the auditory implant feedback loop; [T. Doll](pagedoll.html), P. Aliuos, V. Pikov, D. McCreery, J. Stieghorst, T. Lenarz; 2014
-* Presentation: Hydrogel-based self-bending mechanism for cochlear implants; J. Stieghorst, T. Rau, O. Majdani, G. Sadakowski, [T. Doll](pagedoll.html)
-* Presentation: Carbon nanotube-based interfacing of neural structures; K. Tegtmeier, O. Lammers, P. Aliuos, D. Ricci, [T. Doll](pagedoll.html); 2014
-
-**2013**
----
-
-**EnFI 2013** Engineering of Functional Interfaces
-
-* Poster & Abstract: Internal interfaces: Surfmounting the percolation limits in CNT-based electrodes; M.Schickedanz, J. Stieghorst, P. Alious, G. Paasche, [T. Doll](pagedoll.html)
-* Poster & Abstract: 3D hybrid functional polymer interfaces in medical implants; J. Stieghorst, R. Lüpke, P. Aliuos, [T. Doll](pagedoll.html)
-* Poster & Abstract: Carbon nanotube-liquid silicone rubber (CNT-LSR) electrode surfaces for stimulating medical implants; K. Tegtmeier, F. Arbatschat, P. Aliuos, [T. Doll](pagedoll.html)
