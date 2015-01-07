@@ -16,7 +16,8 @@ title: Publications
 
 * Rode T, Hartmann T, Hubka P, **Scheper V**, Lenarz M, Lenarz T, Kral A, Lim HH. [Neural representation in the auditory midbrain of the envelope of vocalizations based on a peripheral ear model.](http://journal.frontiersin.org/Journal/10.3389/fncir.2013.00166/full)  Front Neural Circuits. 2013 Oct 21;7:166. doi: 10.3389/fncir.2013.00166. eCollection 2013.
 
-*  Spiral ganglion neuron quantification in the guinea pig cochlea using Confocal Laser Scanning Microscopy compared to embedding methods. Wrzeszcz A, Reuter G, Nolte I, Lenarz T, Scheper V. Hear Res. 2013 Dec;306:145-55. doi:10.1016/j.heares.2013.08.002. Epub 2013 Aug 20.
+*   Wrzeszcz A, Reuter G, Nolte I, Lenarz T, **Scheper V**. [Spiral ganglion neuron quantification in the guinea pig cochlea using Confocal Laser Scanning Microscopy compared to embedding methods.](http://www.sciencedirect.com/science/article/pii/S0378595513001937) Hear Res. 2013 Dec;306:145-55. doi:10.1016/j.heares.2013.08.002. Epub 2013 Aug 20.
+
 *  UHV-alginate as matrix for neurotrophic factor producing cells--a novel biomaterial for cochlear implant optimization to preserve inner ear neurons from degeneration. Hütten M, Ehrhart F, Zimmermann H, Reich U, Esser KH, Lenarz T, Scheper V. Otol Neurotol. 2013 Aug;34(6):1127-33. doi: 10.1097/MAO.0b013e3182804949. Erratum in: Otol Neurotol. 2013 Dec;34
 
 
