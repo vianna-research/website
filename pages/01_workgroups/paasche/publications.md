@@ -60,9 +60,9 @@ title: Publications
 
 * Stover T, Issing P, Graurock G, Erfurt P, ElBeltagy Y, **Paasche G**, Lenarz T. Evaluation of the advance off-stylet insertion technique and the cochlear insertion tool in temporal bones. Otol Neurotol. 2005 Nov;26(6):1161-70. 
 
-* Zschornig O, **Paasche G**, Thieme C, Korb N, Arnold K. Modulation of lysozyme charge influences interaction with phospholipids vesicles. Colloids Surf B Biointerfaces. 2005 Apr 25;42(1):69-78. 
+* Zschornig O, **Paasche G**, Thieme C, Korb N, Arnold K. [Modulation of lysozyme charge influences interaction with phospholipids vesicles](http://www.sciencedirect.com/science/article/pii/S0927776505000524). Colloids Surf B Biointerfaces. 2005 Apr 25;42(1):69-78. 
 
-* **Paasche G**, Gibson P, Averbeck T, Becker H, Lenarz T, Stöver T. Technical report: modification of a cochlear implant electrode for drug delivery to the inner ear. Otol Neurotol. 2003 Mar;24(2):222-7. 
+* **Paasche G**, Gibson P, Averbeck T, Becker H, Lenarz T, Stöver T. [Technical report: modification of a cochlear implant electrode for drug delivery to the inner ear](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2003&issue=03000&article=00016&type=abstract). Otol Neurotol. 2003 Mar;24(2):222-7. 
 
 * **Paasche G**, Gärtner U, Germer A, Grosche J, Reichenbach A. [Mitochondria of retinal Müller (glial) cells: the effects of aging and of application of free radical scavengers](http://www.karger.com/Article/FullText/55618). Ophthalmic Res. 2000 Sep-Oct;32(5):229-36.
 
