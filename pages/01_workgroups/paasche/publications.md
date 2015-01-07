@@ -11,7 +11,7 @@ title: Publications
 
 ## 2013
 
-* Kaiser O, **Paasche G**, Stöver T, Ernst S, Lenarz T, Kral A, Warnecke A. TGF-beta superfamily member activin A acts with BDNF and erythropoietin to improve survival of spiral ganglion neurons in vitro. Neuropharmacology. 2013 Dec;75:416-25.
+* Kaiser O, **Paasche G**, Stöver T, Ernst S, Lenarz T, Kral A, Warnecke A. [TGF-beta superfamily member activin A acts with BDNF and erythropoietin to improve survival of spiral ganglion neurons in vitro](http://www.sciencedirect.com/science/article/pii/S0028390813003651). Neuropharmacology. 2013 Dec;75:416-25.
 
 * Schlie-Wolter S, Deiwick A, Fadeeva E, **Paasche G**, Lenarz T, Chichkov BN. Topography and coating of platinum improve the electrochemical properties and neuronal guidance. ACS Appl Mater Interfaces. 2013 Feb;5(3):1070-7.
 
