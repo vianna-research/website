@@ -8,7 +8,6 @@ Optoacoustic stimulation in the cochlea describes the stimulation due to irradia
 
 Furthermore we study the effects of drug releasing cochlear implant coatings and the consequences of microstructured implant surfaces on the interaction with cell populations in order to improve future implants. Employed methods include cell culture, confocal laser scanning microscopy, histology and multielectrode array. 
 
-????????????????????????????????
 
 ***
 
