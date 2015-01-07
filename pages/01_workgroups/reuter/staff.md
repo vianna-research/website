@@ -2,13 +2,16 @@ title: Staff
 
 **Head of Work Group**
 
-Prof. Dr. Günter Reuter | reuter.guenter(at)mh-hannover.de
+Prof. Dr. Günter Reuter | <reuter.guenter@mh-hannover.de>
 
 ---------------------------
+
 **Research Team**
 
-Alexander Rettenmaier | rettenmaier.alexander(at)mh-hannover.de
-Melanie Steffens | steffens.melanie(at)mh-hannover.de
+
+Alexander Rettenmaier | <rettenmaier.alexander@mh-hannover.de>
+
+Melanie Steffens | <steffens.melanie@mh-hannover.de>
 
 
 -----------------------------
