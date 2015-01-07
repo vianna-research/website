@@ -36,8 +36,11 @@ title: Publications
 
 * **Scheper V**, Wolf M, Scholl M, Kadlecova Z, Perrier T, Klok HA, Saulnier P, Lenarz T, Stöver T. [Potential novel drug carriers for inner ear treatment: hyperbranched polylysine and lipid nanocapsules.](http://www.futuremedicine.com/doi/abs/10.2217/nnm.09.41?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&) Nanomedicine (Lond). 2009 Aug;4(6):623-35. doi: 10.2217/nnm.09.41. 
 
-* Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs. Scheper V, Paasche G, Miller JM, Warnecke A, Berkingali N, Lenarz T, Stöver T. J Neurosci Res. 2009 May 1;87(6):1389-99. doi: 10.1002/jnr.21964.
-* In vitro neurite outgrowth induced by BDNF and GDNF in combination with dexamethasone on cultured spiral ganglion cells. Stöver T, Scheper V, Diensthuber M, Lenarz T, Wefstaedt P. Laryngorhinootologie. 2007 May;86(5):352-7. Epub 2006 Dec 12. German. 
-* Neurotrophic factors of the GDNF family and their receptors are detectable in spiral ganglion cells of normal hearing as well as of deafened rats. Wefstaedt P, Scheper V, Rieger H, Lenarz T, Stöver T. Laryngorhinootologie. 2006 Nov;85(11):802-8. Epub 2006 Apr 10. German. 
-* Brain-derived neurotrophic factor/glial cell line-derived neurotrophic factor survival effects on auditory neurons are not limited by dexamethasone. Wefstaedt P, Scheper V, Lenarz T, Stöver T. Neuroreport. 2005 Dec 19;16(18):2011-4.
+* **Scheper V**, Paasche G, Miller JM, Warnecke A, Berkingali N, Lenarz T, Stöver T. [Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs.](http://onlinelibrary.wiley.com/doi/10.1002/jnr.21964/abstract) J Neurosci Res. 2009 May 1;87(6):1389-99. doi: 10.1002/jnr.21964.
+
+* Stöver T, **Scheper V**, Diensthuber M, Lenarz T, Wefstaedt P. [In vitro neurite outgrowth induced by BDNF and GDNF in combination with dexamethasone on cultured spiral ganglion cells.](https://www.thieme-connect.com/DOI/DOI?10.1055/s-2006-945005) Laryngorhinootologie. 2007 May;86(5):352-7. Epub 2006 Dec 12. German. 
+
+* Wefstaedt P, **Scheper V**, Rieger H, Lenarz T, Stöver T. Neurotrophic factors of the GDNF family and their receptors are detectable in spiral ganglion cells of normal hearing as well as of deafened rats. Laryngorhinootologie. 2006 Nov;85(11):802-8. Epub 2006 Apr 10. German. 
+
+* Wefstaedt P, **Scheper V**, Lenarz T, Stöver T. Brain-derived neurotrophic factor/glial cell line-derived neurotrophic factor survival effects on auditory neurons are not limited by dexamethasone. Neuroreport. 2005 Dec 19;16(18):2011-4.
 
