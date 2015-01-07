@@ -18,7 +18,8 @@ title: Publications
 * Wefstaedt P, **Paasche G**, Parker J, Lenarz T, Stöver T. A device for patterned electrical stimulation of cultivated cells: preliminary tests with rat auditory neurons. Eur Arch Otorhinolaryngol. 2013 Mar;270(3):841-8.
 
 * Lenarz T, Pau H-W, **Paasche G**. Cochlear Implants. Curr Pharm Biotechnol. 2013 Jan;14(1):112-23. Review
-* 
+
+
 ## Before 2013
 
 * Bohl A, Rohm HW, Ceschi P, **Paasche G**, Hahn A, Barcikowski S, Lenarz T, Stöver T, Pau HW, Schmitz KP, Sternberg K. Development of a Specially Tailored Local Drug Delivery System for the Prevention of Fibrosis after Insertion of Cochlear Implants into the Inner Ear. J Mater Sci Mater Med. 2012 Sep;23(9):2151-62.
