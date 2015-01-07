@@ -2,14 +2,11 @@ title: Publications
 
 
 |2014	                       |
-|:-----------------------------------------:|
+|-----------------------------------------|
 | Burke WF, Lenarz T and Maier H [**Hereditäre Schwerhörigkeit.**](http://link.springer.com/article/10.1007%2Fs00106-014-2901-x "Hereditäre Schwerhörigkeit") HNO. 2014; 62(10):759–770. doi: 10.1007/s00106-014-2901-x.|
-
 | Lenarz T, Schwab B, Maier H, Kludt E. [**Direkte akustische cochleäre Stimulation für die Therapie der hochgradigen kombinierten Schwerhörigkeit: Codacs™ Direct Acoustic Cochlear Implant System.**](http://link.springer.com/article/10.1007%2Fs00106-014-2893-6 "Direkte akustische cochleäre Stimulation für die Therapie der hochgradigen kombinierten Schwerhörigkeit: Codacs™ Direct Acoustic Cochlear Implant System")  HNO. 2014 Jul;62(7):481-9. doi:
 10.1007/s00106-014-2893-6. German. PubMed PMID: 25056645.|
-
 |Giere T, Busch S, Lenarz T, Maier H. [**Erste audiologische Ergebnisse des im Ohr getragenen Knochenleitungshörgeräts C.A.I. BC811.**](http://link.springer.com/article/10.1007%2Fs00106-014-2875-8 "Erste audiologische Ergebnisse des im Ohr getragenen Knochenleitungshörgeräts C.A.I. BC811") HNO. 2014 Jul 11. doi: 10.1007/s00106-014-2875-8. German. PubMed PMID: 25008271.|
-
 |Salcher R, Schwab B, Lenarz T, Maier H. [**Round window stimulation with the floating mass transducer at constant pretension.**](http://www.sciencedirect.com/science/article/pii/S0378595514000446 "Round window stimulation with the floating mass transducer at constant pretension") Hear Res. 2014 Aug;314:1-9. doi: 10.1016/j.heares.2014.04.001. Epub 2014 Apr 13. PubMed PMID: 24727490.|
 
 
