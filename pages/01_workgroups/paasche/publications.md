@@ -4,52 +4,52 @@ title: Publications
 
 ## 2014
 
-* Burghard A, Lenarz T, Kral A, Paasche G. Insertion site and sealing technique affect residual hearing and tissue formation after cochlear implantation. Hear Res. 2014 Jun;312:21-7
+* Burghard A, Lenarz T, Kral A, **Paasche G**. Insertion site and sealing technique affect residual hearing and tissue formation after cochlear implantation. Hear Res. 2014 Jun;312:21-7
 
-* Ceschi P, Bohl A, Sternberg K, Neumeister A, Senz V, Schmitz KP, Kietzmann M, Scheper V, Lenarz T, Stöver T, Paasche G. Biodegradable polymeric coatings on cochlear implant surfaces and their influence on spiral ganglion cell survival. J Biomed Mater Res B Appl Biomater. 2014 Aug;102(6):1255-67.
+* Ceschi P, Bohl A, Sternberg K, Neumeister A, Senz V, Schmitz KP, Kietzmann M, Scheper V, Lenarz T, Stöver T, **Paasche G.** Biodegradable polymeric coatings on cochlear implant surfaces and their influence on spiral ganglion cell survival. J Biomed Mater Res B Appl Biomater. 2014 Aug;102(6):1255-67.
 
 
 ## 2013
 
-* Kaiser O, Paasche G, Stöver T, Ernst S, Lenarz T, Kral A, Warnecke A. TGF-beta superfamily member activin A acts with BDNF and erythropoietin to improve survival of spiral ganglion neurons in vitro. Neuropharmacology. 2013 Dec;75:416-25.
+* Kaiser O, **Paasche G**, Stöver T, Ernst S, Lenarz T, Kral A, Warnecke A. TGF-beta superfamily member activin A acts with BDNF and erythropoietin to improve survival of spiral ganglion neurons in vitro. Neuropharmacology. 2013 Dec;75:416-25.
 
-* Schlie-Wolter S, Deiwick A, Fadeeva E, Paasche G, Lenarz T, Chichkov BN. Topography and coating of platinum improve the electrochemical properties and neuronal guidance. ACS Appl Mater Interfaces. 2013 Feb;5(3):1070-7.
+* Schlie-Wolter S, Deiwick A, Fadeeva E, **Paasche G**, Lenarz T, Chichkov BN. Topography and coating of platinum improve the electrochemical properties and neuronal guidance. ACS Appl Mater Interfaces. 2013 Feb;5(3):1070-7.
 
-* Wefstaedt P, Paasche G, Parker J, Lenarz T, Stöver T. A device for patterned electrical stimulation of cultivated cells: preliminary tests with rat auditory neurons. Eur Arch Otorhinolaryngol. 2013 Mar;270(3):841-8.
+* Wefstaedt P, **Paasche G**, Parker J, Lenarz T, Stöver T. A device for patterned electrical stimulation of cultivated cells: preliminary tests with rat auditory neurons. Eur Arch Otorhinolaryngol. 2013 Mar;270(3):841-8.
 
-* Lenarz T, Pau H-W, Paasche G. Cochlear Implants. Curr Pharm Biotechnol. 2013 Jan;14(1):112-23. Review
+* Lenarz T, Pau H-W, **Paasche G**. Cochlear Implants. Curr Pharm Biotechnol. 2013 Jan;14(1):112-23. Review
 * 
 ## Before 2013
 
-* Bohl A, Rohm HW, Ceschi P, Paasche G, Hahn A, Barcikowski S, Lenarz T, Stöver T, Pau HW, Schmitz KP, Sternberg K. Development of a Specially Tailored Local Drug Delivery System for the Prevention of Fibrosis after Insertion of Cochlear Implants into the Inner Ear. J Mater Sci Mater Med. 2012 Sep;23(9):2151-62.
+* Bohl A, Rohm HW, Ceschi P, **Paasche G**, Hahn A, Barcikowski S, Lenarz T, Stöver T, Pau HW, Schmitz KP, Sternberg K. Development of a Specially Tailored Local Drug Delivery System for the Prevention of Fibrosis after Insertion of Cochlear Implants into the Inner Ear. J Mater Sci Mater Med. 2012 Sep;23(9):2151-62.
 
-* Kontorinis G, Scheper V, Wissel K, Stöver T, Lenarz T, Paasche G. In vitro modifications of the scala tympani environment and the cochlear implant array surface. Laryngoscope. 2012 Sep;122(9):2057-63.
+* Kontorinis G, Scheper V, Wissel K, Stöver T, Lenarz T, **Paasche G**. In vitro modifications of the scala tympani environment and the cochlear implant array surface. Laryngoscope. 2012 Sep;122(9):2057-63.
 
-* Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, Paasche G, Scheper V, Reich U, Esser KH, Lenarz T, Stöver T, Wissel K. Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo. Hear Res. 2012 Jul;289(1-2):86-97. 
+* Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, **Paasche G**, Scheper V, Reich U, Esser KH, Lenarz T, Stöver T, Wissel K. Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo. Hear Res. 2012 Jul;289(1-2):86-97. 
 
-* Reich U, Fadeeva E, Warnecke A, Paasche G, Mueller P, Chichkov B, Stoever T, Lenarz T, Reuter G. Directing neuronal cell growth on implant material surfaces by microstructuring. Journal of Biomedical Materials Research: Part B - Applied Biomaterials. 2012 May;100(4):940-7.
+* Reich U, Fadeeva E, Warnecke A, **Paasche G**, Mueller P, Chichkov B, Stoever T, Lenarz T, Reuter G. Directing neuronal cell growth on implant material surfaces by microstructuring. Journal of Biomedical Materials Research: Part B - Applied Biomaterials. 2012 May;100(4):940-7.
 
-* Kontorinis G, Paasche G, Lenarz T, Stöver T. The effect of different lubricants on cochlear implant electrode insertion forces. Otol Neurotol. 2011 Sep;32(7):1050-6.
+* Kontorinis G, **Paasche G**, Lenarz T, Stöver T. The effect of different lubricants on cochlear implant electrode insertion forces. Otol Neurotol. 2011 Sep;32(7):1050-6.
 
-* Kontorinis G, Lenarz T, Stöver T, Paasche G. Impact of the insertion speed of cochlear implant electrodes on the insertion forces. Otol Neurotol. 2011 Jun;32(4):565-70.
+* Kontorinis G, Lenarz T, Stöver T, **Paasche G**. Impact of the insertion speed of cochlear implant electrodes on the insertion forces. Otol Neurotol. 2011 Jun;32(4):565-70.
 
-* Paasche G, Ceschi P, Löbler M, Rösl C, Gomes P, Hahn A, Rohm HW, Sternberg K, Lenarz T, Schmitz KP, Barcikowski S, Stöver T. Effects of metal ions on fibroblasts and spiral ganglion cells. J Neurosci Res. 2011 Apr;89(4):611-7.
+* **Paasche G**, Ceschi P, Löbler M, Rösl C, Gomes P, Hahn A, Rohm HW, Sternberg K, Lenarz T, Schmitz KP, Barcikowski S, Stöver T. Effects of metal ions on fibroblasts and spiral ganglion cells. J Neurosci Res. 2011 Apr;89(4):611-7.
 
-* Warnecke A, Scheper V, Buhr I, Wenzel GI, Wissel K, Paasche G, Berkingali N, Jørgensen JR, Lenarz T, Stöver T. Artemin improves survival of spiral ganglion neurons in vivo and in vitro. Neuroreport. 2010 May 12;21(7):517-21.
+* Warnecke A, Scheper V, Buhr I, Wenzel GI, Wissel K, **Paasche G**, Berkingali N, Jørgensen JR, Lenarz T, Stöver T. Artemin improves survival of spiral ganglion neurons in vivo and in vitro. Neuroreport. 2010 May 12;21(7):517-21.
 
-* A. Hahn, T. Stöver, G. Paasche, M. Löbler, K. Sternberg, H. Rohm, S. Barcikowski. Therapeutic window for bioactive nanocomposites fabricated by laser ablation in polymer- doped organic liquids. Advanced Engineering Materials. 2010 12:B156–B162
+* Hahn A, T. Stöver, **Paasche G**, Löbler M, Sternberg K, Rohm H, Barcikowski S. Therapeutic window for bioactive nanocomposites fabricated by laser ablation in polymer- doped organic liquids. Advanced Engineering Materials. 2010 12:B156–B162
 
-* Paasche G, Tasche C, Stöver T, Lesinski-Schiedat A, Lenarz T. The long-term effects of modified electrode surfaces and intracochlear corticosteroids on postoperative impedances in cochlear implant patients. Otol Neurotol. 2009 Aug;30(5):592-8.
+* **Paasche G**, Tasche C, Stöver T, Lesinski-Schiedat A, Lenarz T. The long-term effects of modified electrode surfaces and intracochlear corticosteroids on postoperative impedances in cochlear implant patients. Otol Neurotol. 2009 Aug;30(5):592-8.
 
-* Scheper V, Paasche G, Miller JM, Warnecke A, Berkingali N, Lenarz T, Stöver T. Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs. J Neurosci Res. 2009 May 1;87(6):1389-99.
+* Scheper V, **Paasche G**, Miller JM, Warnecke A, Berkingali N, Lenarz T, Stöver T. Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs. J Neurosci Res. 2009 May 1;87(6):1389-99.
 
-* Berkingali N, Warnecke A, Gomes P, Paasche G, Tack J, Lenarz T, Stöver T. Neurite outgrowth on cultured spiral ganglion neurons induced by erythropoietin. Hear Res. 2008 Sep;243(1-2):121-6.
+* Berkingali N, Warnecke A, Gomes P, **Paasche G**, Tack J, Lenarz T, Stöver T. Neurite outgrowth on cultured spiral ganglion neurons induced by erythropoietin. Hear Res. 2008 Sep;243(1-2):121-6.
 
-* Lenarz M, Lim HH, Lenarz T, Reich U, Marquardt N, Klingberg MN, Paasche G, Reuter G, Stan AC. Auditory midbrain implant: histomorphologic effects of long-term implantation and electric stimulation of a new deep brain stimulation array. Otol Neurotol. 2007 Dec;28(8):1045-52. 
+* Lenarz M, Lim HH, Lenarz T, Reich U, Marquardt N, Klingberg MN, **Paasche G**, Reuter G, Stan AC. Auditory midbrain implant: histomorphologic effects of long-term implantation and electric stimulation of a new deep brain stimulation array. Otol Neurotol. 2007 Dec;28(8):1045-52. 
 
-* Stöver T, Paasche G, Lenarz T, Ripken T, Breitenfeld P, Lubatschowski H, Fabian T. Development of a drug delivery device: using the femtosecond laser to modify cochlear implant electrodes. Cochlear Implants Int. 2007 Mar;8(1):38-52.
+* Stöver T, **Paasche G**, Lenarz T, Ripken T, Breitenfeld P, Lubatschowski H, Fabian T. Development of a drug delivery device: using the femtosecond laser to modify cochlear implant electrodes. Cochlear Implants Int. 2007 Mar;8(1):38-52.
 
-* Lenarz T, Stover T, Buechner A, Paasche G, Briggs R, Risi F, Pesch J, Battmer RD. Temporal bone results and hearing preservation with a new straight electrode. Audiol Neurootol. 2006;11 Suppl 1:34-41. 
+* Lenarz T, Stover T, Buechner A, **Paasche G**, Briggs R, Risi F, Pesch J, Battmer RD. Temporal bone results and hearing preservation with a new straight electrode. Audiol Neurootol. 2006;11 Suppl 1:34-41. 
 
 * Paasche G, Bockel F, Tasche C, Lesinski-Schiedat A, Lenarz T. Changes of postoperative impedances in cochlear implant patients: the short-term effects of modified electrode surfaces and intracochlear corticosteroids. Otol Neurotol. 2006 Aug;27(5):639-47. 
 
