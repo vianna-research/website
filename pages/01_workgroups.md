@@ -17,6 +17,6 @@ The following workgroups are located at the VIANNA.
 | PD Dr. med. Omid Majdani  | [hnoCAS](http://www.smart-ci.de)                                        |
 | Dr. Gerrit Paasche        | [Electrode-Neural-Interface](01_workgroups/paasche.html) |
 | Prof. Dr. Günter Reuter   | [Experimental Otology](01_workgroups/reuter.html) |
-| Dr. Verena Scheper        | <Scheper.Verena@mh-hannover.de>                                      |
+| Dr. Verena Scheper        | [Pharmacology of the Inner Ear](01_workgroups/scheper.html) |                                   |
 | Dr. Kirsten Wissel        | <Wissel.Kirsten@mh-hannover.de>                                      |
 
