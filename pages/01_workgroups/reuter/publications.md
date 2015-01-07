@@ -2,7 +2,7 @@ title: Publications
 
 ## 2014
 
-* Hermane J, Bułyszko I, Eichner S, Sasse F, Collisi W, Poso A, Schax E, Walter JG, Scheper T, Kock K, Herrmann C, Aliuos P, Reuter G, Zeilinger C and Kirschning A. [New non quinone fluoro geldanamycin derivatives strongly inhibit Hsp90.](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1439-7633/homepage/2268_preview.html) ChemBioChem. 2014: in press
+* Hermane J, Bułyszko I, Eichner S, Sasse F, Collisi W, Poso A, Schax E, Walter JG, Scheper T, Kock K, Herrmann C, Aliuos P, Reuter G, Zeilinger C and Kirschning A. [**New non quinone fluoro geldanamycin derivatives strongly inhibit Hsp90.**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1439-7633/homepage/2268_preview.html) ChemBioChem. 2014: in press
 * 
 * Wrzeszcz A, Steffens M, Balster S, Warnecke A, Dittrich B, Lenarz T and Reuter G. [**Hydrogel coated and dexamethasone releasing cochlear implants: Quantification of fibrosis in guinea pigs and evaluation of insertion forces in a human cochlea model.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33187/abstract;jsessionid=2563AABAD49F1730D686B1CCE3B1FB2E.f01t04) J Biomed Mater Res B Appl Biomater. 2015 Jan;103(1):169-78. doi: 10.1002/jbm.b.33187. Epub 2014 May 8. PubMed PMID: 24811046
 
