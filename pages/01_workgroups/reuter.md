@@ -1,6 +1,6 @@
 title: Reuter Lab - Experimental Otology
 
-![Figure_1](/optoacoustic_wavelength_dependence.png)
+![Figure_1](reuter/zusammenstellung_03_skaliert.jpg)
 
 Our research group focuses on the investigation of the active process in the mammalian inner ear and the functional replacement of the pathophysiologically damaged inner ear through novel mechanisms of stimulation such as optoacoustics and newly developed microconverters. 
 
