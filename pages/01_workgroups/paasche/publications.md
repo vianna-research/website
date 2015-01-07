@@ -24,9 +24,9 @@ title: Publications
 
 * Bohl A, Rohm HW, Ceschi P, **Paasche G**, Hahn A, Barcikowski S, Lenarz T, Stöver T, Pau HW, Schmitz KP, Sternberg K. [Development of a Specially Tailored Local Drug Delivery System for the Prevention of Fibrosis after Insertion of Cochlear Implants into the Inner Ear](http://link.springer.com/article/10.1007%2Fs10856-012-4698-z). J Mater Sci Mater Med. 2012 Sep;23(9):2151-62.
 
-* Kontorinis G, Scheper V, Wissel K, Stöver T, Lenarz T, **Paasche G**. In vitro modifications of the scala tympani environment and the cochlear implant array surface. Laryngoscope. 2012 Sep;122(9):2057-63.
+* Kontorinis G, Scheper V, Wissel K, Stöver T, Lenarz T, **Paasche G**. [In vitro modifications of the scala tympani environment and the cochlear implant array surface](http://onlinelibrary.wiley.com/doi/10.1002/lary.23408/abstract). Laryngoscope. 2012 Sep;122(9):2057-63.
 
-* Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, **Paasche G**, Scheper V, Reich U, Esser KH, Lenarz T, Stöver T, Wissel K. Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo. Hear Res. 2012 Jul;289(1-2):86-97. 
+* Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, **Paasche G**, Scheper V, Reich U, Esser KH, Lenarz T, Stöver T, Wissel K. [Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo](http://www.sciencedirect.com/science/article/pii/S0378595512000937). Hear Res. 2012 Jul;289(1-2):86-97. 
 
 * Reich U, Fadeeva E, Warnecke A, **Paasche G**, Mueller P, Chichkov B, Stoever T, Lenarz T, Reuter G. Directing neuronal cell growth on implant material surfaces by microstructuring. Journal of Biomedical Materials Research: Part B - Applied Biomaterials. 2012 May;100(4):940-7.
 
