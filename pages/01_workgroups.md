@@ -15,8 +15,8 @@ The following workgroups are located at the VIANNA.
 | Prof. Dr. Hannes Maier    | [Implantable Middle Ear Hearing Devices](01_workgroups/maier.html) |
 | Prof. Dr. Andrea Hoffmann | [Regenerative Strategies](01_workgroups/hoffmann-de.html)             |
 | PD Dr. med. Omid Majdani  | [hnoCAS](http://www.smart-ci.de)                                        |
-| Dr. Gerrit Paasche        | <Paasche.Gerrit@mh-hannover.de>                                      |
-| Prof. Dr. Günter Reuter   | <Reuter.Guenter@mh-hannover.de>                                      |
+| Dr. Gerrit Paasche        | [Electrode-Neural-Interface](01_workgroups/paasche.html) |
+| Prof. Dr. Günter Reuter   | [Experimental Otology](01_workgroups/reuter.html) |
 | Dr. Verena Scheper        | <Scheper.Verena@mh-hannover.de>                                      |
 | Dr. Kirsten Wissel        | <Wissel.Kirsten@mh-hannover.de>                                      |
 
