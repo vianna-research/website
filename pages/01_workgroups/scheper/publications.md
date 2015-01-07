@@ -34,7 +34,7 @@ title: Publications
 
 * Warnecke A, **Scheper V**, Buhr I, Wenzel GI, Wissel K, Paasche G, Berkingali N, Jørgensen JR, Lenarz T, Stöver T. [Artemin improves survival of spiral ganglion neurons in vivo and in vitro.](http://journals.lww.com/neuroreport/pages/articleviewer.aspx?year=2010&issue=05120&article=00008&type=abstract) Neuroreport. 2010 May 12;21(7):517-21. doi:10.1097/WNR.0b013e328339045b.
 
-* Potential novel drug carriers for inner ear treatment: hyperbranched polylysine and lipid nanocapsules. Scheper V, Wolf M, Scholl M, Kadlecova Z, Perrier T, Klok HA, Saulnier P, Lenarz T, Stöver T. Nanomedicine (Lond). 2009 Aug;4(6):623-35. doi: 10.2217/nnm.09.41. 
+* **Scheper V**, Wolf M, Scholl M, Kadlecova Z, Perrier T, Klok HA, Saulnier P, Lenarz T, Stöver T. [Potential novel drug carriers for inner ear treatment: hyperbranched polylysine and lipid nanocapsules.](http://www.futuremedicine.com/doi/abs/10.2217/nnm.09.41?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&) Nanomedicine (Lond). 2009 Aug;4(6):623-35. doi: 10.2217/nnm.09.41. 
 
 * Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs. Scheper V, Paasche G, Miller JM, Warnecke A, Berkingali N, Lenarz T, Stöver T. J Neurosci Res. 2009 May 1;87(6):1389-99. doi: 10.1002/jnr.21964.
 * In vitro neurite outgrowth induced by BDNF and GDNF in combination with dexamethasone on cultured spiral ganglion cells. Stöver T, Scheper V, Diensthuber M, Lenarz T, Wefstaedt P. Laryngorhinootologie. 2007 May;86(5):352-7. Epub 2006 Dec 12. German. 
