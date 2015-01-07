@@ -1,6 +1,7 @@
 title: Mohammad Ghoncheh
 
-![Picture Mohammad Ghoncheh](MGH.jpg) **Mohammad Ghoncheh, M.Sc.**
+![Picture Mohammad Ghoncheh](MGH.jpg)  
+**Mohammad Ghoncheh, M.Sc.**
 
 Mohammad Ghoncheh is a PhD student in Medical University of Hannover. His research interest is in hearing technologies with focus on middle ear and bone conduction implants. He is involved in a project to develop and improve intraoperative tests for different available implantable middle ear solutions.
 He did his bachelor in Electrical engineering (main area: electronics) in Azad University of Ghazvin, Iran, and Master in Biomedical engineering (main area: signal & image processing) in Chalmers University of Technology, Sweden. His master thesis was about developing an intraoperative test method for a new Bone Conduction Implant (BCI).
