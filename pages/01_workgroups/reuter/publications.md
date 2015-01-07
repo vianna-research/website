@@ -56,7 +56,7 @@ Otol Neurotol. 2007 Dec;28(8):1045-52. PubMed PMID: 18043431
 
 * Cords SM, Reuter G, Issing PR, Sommer A, Kuzma J and Lenarz T. [**A silastic positioner for a modiolus-hugging position of intracochlear electrodes: electrophysiologic effects.**](http://www.ncbi.nlm.nih.gov/pubmed/10733186) Am J Otol. 2000 Mar;21(2):212-7. PubMed PMID: 10733186 
 
-* Lenarz T, Battmer RD, Goldring JE, Neuburger J, Kuzma J and Reuter G.[**New electrode concepts (modiolus-hugging electrodes).**](http://www.ncbi.nlm.nih.gov/pubmed/11892186) Adv Otorhinolaryngol. 2000;57:347-53. PubMed PMID: 11892186 
+* Lenarz T, Battmer RD, Goldring JE, Neuburger J, Kuzma J and Reuter G. [**New electrode concepts (modiolus-hugging electrodes).**](http://www.ncbi.nlm.nih.gov/pubmed/11892186) Adv Otorhinolaryngol. 2000;57:347-53. PubMed PMID: 11892186 
 
 * Reuter G, Bördgen F, Dressler F, Schäfer S, Hemmanouil I, Schönweiler R and Lenarz T. [**Neonatal hearing screening with the Echosensor automated device for otoacoustic emissions. A comparative study.**](http://link.springer.com/article/10.1007/s001060050338) HNO. 1998 Nov;46(11):932-41. German. PubMed PMID: 9864678
 
