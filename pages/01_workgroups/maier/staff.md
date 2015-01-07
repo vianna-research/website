@@ -1,7 +1,7 @@
 title: Staff
 
 
-|Head of Work Group|                       |
+|Head of Work Group	|                       |
 |------------------|-----------------------|
 |[![Picture Hannes Maier](staff/HMA_small.jpg)](staff/hma.html "Prof. Dr. phil. nat. Hannes Maier")|[Prof. Dr. Hannes Maier](staff/hma.html "Prof. Dr. phil. nat. Hannes Maier")|
 										
@@ -9,7 +9,7 @@ title: Staff
 
 														
 
-|Research Team     |                       |
+|Research Team     	|                       |
 |------------------|-----------------------|
 |[![Picture Mohammad Ghoncheh](staff/MGH_small.jpg)](staff/mgh.html "Mohammad Ghoncheh")|	[Mohammad Ghoncheh](staff/mgh.html "Mohammad Ghoncheh")|
 |[![Picture Martin Großöhmichen](staff/MGR_small.jpg)](staff/mgr.html "Martin Großöhmichen")|	[Martin Großöhmichen](staff/mgr.html "Martin Großöhmichen")|
