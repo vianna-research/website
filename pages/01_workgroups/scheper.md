@@ -15,7 +15,7 @@ A list of the staff can be found [**here**](scheper/staff.html).
 
 **Contact Information:**
 
-Adress
+
     Verena Scheper
     Pharmacology of the Inner Ear
     Medizinische Hochschule Hannover/VIANNA
