@@ -14,14 +14,16 @@ title: Publications
 
 ## 2013
 
-* Neural representation in the auditory midbrain of the envelope of vocalizations based on a peripheral ear model; Rode T, Hartmann T, Hubka P, Scheper V, Lenarz M, Lenarz T, Kral A, Lim HH. Front Neural Circuits. 2013 Oct 21;7:166. doi: 10.3389/fncir.2013.00166. eCollection 2013.
-*  Spiral ganglion neuron quantification in the guinea pig cochlea using Confocal Laser Scanning Microscopy compared to embedding methods. Wrzeszcz A, Reuter G, Nolte I, Lenarz T, Scheper V. Hear Res. 2013 Dec;306:145-55. doi:10.1016/j.heares.2013.08.002. Epub 2013 Aug 20.
-*  UHV-alginate as matrix for neurotrophic factor producing cells--a novel biomaterial for cochlear implant optimization to preserve inner ear neurons from degeneration. Hütten M, Ehrhart F, Zimmermann H, Reich U, Esser KH, Lenarz T, Scheper V. Otol Neurotol. 2013 Aug;34(6):1127-33. doi: 10.1097/MAO.0b013e3182804949. Erratum in: Otol Neurotol. 2013 Dec;34
+* Rode T, Hartmann T, Hubka P, **Scheper V**, Lenarz M, Lenarz T, Kral A, Lim HH. [Neural representation in the auditory midbrain of the envelope of vocalizations based on a peripheral ear model.](http://journal.frontiersin.org/Journal/10.3389/fncir.2013.00166/full)  Front Neural Circuits. 2013 Oct 21;7:166. doi: 10.3389/fncir.2013.00166. eCollection 2013.
+
+*   Wrzeszcz A, Reuter G, Nolte I, Lenarz T, **Scheper V**. [Spiral ganglion neuron quantification in the guinea pig cochlea using Confocal Laser Scanning Microscopy compared to embedding methods.](http://www.sciencedirect.com/science/article/pii/S0378595513001937) Hear Res. 2013 Dec;306:145-55. doi:10.1016/j.heares.2013.08.002. Epub 2013 Aug 20.
+
+*  Hütten M, Ehrhart F, Zimmermann H, Reich U, Esser KH, Lenarz T, **Scheper V**. [UHV-alginate as matrix for neurotrophic factor producing cells--a novel biomaterial for cochlear implant optimization to preserve inner ear neurons from degeneration.](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2013&issue=08000&article=00027&type=abstract)  Otol Neurotol. 2013 Aug;34(6):1127-33. doi: 10.1097/MAO.0b013e3182804949. Erratum in: Otol Neurotol. 2013 Dec;34
 
 
 
-before 2013
----
+## Before 2013
+
 * Lipidic nanocapsule drug delivery: neuronal protection for cochlear implant optimization. Meyer H, Stöver T, Fouchet F, Bastiat G, Saulnier P, Bäumer W, Lenarz T, Scheper V. Int J Nanomedicine. 2012;7:2449-64. doi: 10.2147/IJN.S29712. Epub 2012 May 15.
 * In vitro modifications of the scala tympani environment and the cochlear implant array surface. Kontorinis G, Scheper V, Wissel K, Stöver T, Lenarz T, Paasche G. Laryngoscope. 2012 Sep;122(9):2057-63. doi: 10.1002/lary.23408. Epub 2012 May 30.
 * Coactivation of different neurons within an isofrequency lamina of the inferior colliculus elicits enhanced auditory cortical activation.Calixto R, Lenarz M, Neuheiser A, Scheper V, Lenarz T, Lim HH.J Neurophysiol. 2012 Aug;108(4):1199-210. doi: 10.1152/jn.00111.2012. Epub 2012 May 23.
