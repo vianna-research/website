@@ -42,7 +42,7 @@ title: Publications
 
 * **Paasche G**, Tasche C, Stöver T, Lesinski-Schiedat A, Lenarz T. [The long-term effects of modified electrode surfaces and intracochlear corticosteroids on postoperative impedances in cochlear implant patients](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2009&issue=08000&article=00006&type=abstract). Otol Neurotol. 2009 Aug;30(5):592-8.
 
-* Scheper V, **Paasche G**, Miller JM, Warnecke A, Berkingali N, Lenarz T, Stöver T. Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs. J Neurosci Res. 2009 May 1;87(6):1389-99.
+* Scheper V, **Paasche G**, Miller JM, Warnecke A, Berkingali N, Lenarz T, Stöver T. [Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs](http://onlinelibrary.wiley.com/doi/10.1002/jnr.21964/abstract). J Neurosci Res. 2009 May 1;87(6):1389-99.
 
 * Berkingali N, Warnecke A, Gomes P, **Paasche G**, Tack J, Lenarz T, Stöver T. Neurite outgrowth on cultured spiral ganglion neurons induced by erythropoietin. Hear Res. 2008 Sep;243(1-2):121-6.
 
