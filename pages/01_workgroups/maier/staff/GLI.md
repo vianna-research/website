@@ -1,6 +1,7 @@
 title: Giorgio Lilli
 
-![Picture Giorgio Lilli](GLI.jpg) **Giorgio Lilli, M.D. Ph.D.**
+![Picture Giorgio Lilli](GLI.jpg)  
+**Giorgio Lilli, M.D. Ph.D.**
 
 
 Medical Doctor and PhD at Ear-Nose-Throat Dept. at Hannover Medical School (MHH) since May 2013. His work experiences have mostly been in the medical and research fields of audiology, otology, speech-language pathologies, and hearing devices. He is currently part of the Middle-Ear-Implants Team where he conducts clinical studies on objective measures in bone-conductive and active-middle-ear -implants.
