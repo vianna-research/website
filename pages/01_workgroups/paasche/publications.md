@@ -66,9 +66,9 @@ title: Publications
 
 * **Paasche G**, Gärtner U, Germer A, Grosche J, Reichenbach A. [Mitochondria of retinal Müller (glial) cells: the effects of aging and of application of free radical scavengers](http://www.karger.com/Article/FullText/55618). Ophthalmic Res. 2000 Sep-Oct;32(5):229-36.
 
-* Zschörnig O, Richter W, **Paasche G**, Arnold K. Cation-mediated interaction of dextran sulfate with phospholipid vesicles: Binding, vesicle surface polarity, leakage and fusion. Colloid and Polymer Science. 2000 278:637-646.
+* Zschörnig O, Richter W, **Paasche G**, Arnold K. [Cation-mediated interaction of dextran sulfate with phospholipid vesicles: Binding, vesicle surface polarity, leakage and fusion](http://link.springer.com/article/10.1007%2Fs003960000295). Colloid and Polymer Science. 2000 278:637-646.
 
-* Zschörnig O, **Paasche G**, Thieme C, Korb N, Fahrwald A, Arnold K. Association of lysozyme with phospholipid vesicles is accompanied by membrane surface dehydration. Gen Physiol Biophys. 2000 Mar;19(1):85-101. 
+* Zschörnig O, **Paasche G**, Thieme C, Korb N, Fahrwald A, Arnold K. [Association of lysozyme with phospholipid vesicles is accompanied by membrane surface dehydration](http://www.ncbi.nlm.nih.gov/pubmed/10930141). Gen Physiol Biophys. 2000 Mar;19(1):85-101. 
 
 * Reichenbach A, Palhalmi J, Bringmann A, Biedermann B, Francke M, Pannicke T, **Paasche G**, Germer A, Kuhrt H, Grosche J, Härtig W, Reichelt W, Juhász G, Skatchkov SN, Faude F. Interactions between neurons and glial cells in the retina. In: Les Séminaires Ophthalmologiques d’IPSEN: Vision, génome et cerveau. Y. Christen, M. Doly, und M.-T, Droy-Lefaix, Eds., Irvinn, Paris. 1999 10:39-54.
 
