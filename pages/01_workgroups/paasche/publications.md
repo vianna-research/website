@@ -56,9 +56,9 @@ title: Publications
 
 * **Paasche G**, Bogel L, Leinung M, Lenarz T, Stover T. Substance distribution in a cochlea model using different pump rates for cochlear implant drug delivery electrode prototypes. Hear Res. 2006 Feb;212(1-2):74-82. 
 
-* Torkos A, Teschner M, Erfurt P, **Paasche G**, Lenarz T, Stover T. The use of buccal smears for a non-invasive screening of the 35delG mutation of the Connexin-26 gene in hearing impaired young children. Int J Pediatr Otorhinolaryngol. 2006 Jun;70(6):965-71. 
+* Torkos A, Teschner M, Erfurt P, **Paasche G**, Lenarz T, Stover T. [The use of buccal smears for a non-invasive screening of the 35delG mutation of the Connexin-26 gene in hearing impaired young children](http://www.sciencedirect.com/science/article/pii/S0165587605004970). Int J Pediatr Otorhinolaryngol. 2006 Jun;70(6):965-71. 
 
-* Stover T, Issing P, Graurock G, Erfurt P, ElBeltagy Y, **Paasche G**, Lenarz T. Evaluation of the advance off-stylet insertion technique and the cochlear insertion tool in temporal bones. Otol Neurotol. 2005 Nov;26(6):1161-70. 
+* Stover T, Issing P, Graurock G, Erfurt P, ElBeltagy Y, **Paasche G**, Lenarz T.[ Evaluation of the advance off-stylet insertion technique and the cochlear insertion tool in temporal bones](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2005&issue=11000&article=00014&type=abstract). Otol Neurotol. 2005 Nov;26(6):1161-70. 
 
 * Zschornig O, **Paasche G**, Thieme C, Korb N, Arnold K. [Modulation of lysozyme charge influences interaction with phospholipids vesicles](http://www.sciencedirect.com/science/article/pii/S0927776505000524). Colloids Surf B Biointerfaces. 2005 Apr 25;42(1):69-78. 
 
