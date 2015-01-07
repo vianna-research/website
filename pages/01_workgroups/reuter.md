@@ -4,7 +4,7 @@ title: Reuter Lab
 
 ![Bild aus Forschung]
 
-
+Our research group focuses on the investigation of the active process in the mammalian inner ear and the functional replacement of the pathophysiologically damaged inner ear through novel mechanisms of stimulation such as optoacoustics and newly developed microconverters. Furthermore we study the effects of drug releasing cochlear implant coatings and the consequences of microstructured implant surfaces on cell populations in order to improve future implants.   
 
 
 
