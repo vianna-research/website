@@ -8,7 +8,8 @@ title: Publications
 
 * Hütten M, Dhanasingh A, Hessler R, Stöver T, Esser KH, Möller M, Lenarz T, Jolly C, Groll J, **Scheper V**. [In vitro and in vivo evaluation of a hydrogel reservoir as a continuous drug delivery system for inner ear treatment.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0104564) PLoS One. 2014 Aug 8;9(8):e104564. doi: 10.1371/journal.pone.0104564. eCollection 2014.
 
-* Phosphodiesterase type 4 inhibitor rolipram improves survival of spiral ganglion neurons in vitro; Kranz K, Warnecke A, Lenarz T, Durisin M, [Scheper V] (pagescheper.html);PLoS One. 2014 Mar 18;9(3):e92157. doi: 10.1371/journal.pone.0092157. eCollection 2014
+* Kranz K, Warnecke A, Lenarz T, Durisin M, **Scheper V**. [Phosphodiesterase type 4 inhibitor rolipram improves survival of spiral ganglion neurons in vitro.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0092157) PLoS One. 2014 Mar 18;9(3):e92157. doi: 10.1371/journal.pone.0092157. eCollection 2014
+
 * Biodegradable polymeric coatings on cochlear implant surfaces and their influence on spiral ganglion cell survival; Ceschi P, Bohl A, Sternberg K, Neumeister A, Senz V, Schmitz KP, Kietzmann M, [Scheper V] (pagescheper.html), Lenarz T, Stöver T, Paasche G, J Biomed Mater Res B Appl Biomater. 2014 Aug;102(6):1255-67. doi: 10.1002/jbm.b.33110. Epub 2014 Jan 17
 
 2013
