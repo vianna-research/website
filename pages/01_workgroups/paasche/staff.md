@@ -2,16 +2,16 @@ title: Staff
 
 **Head of Work Group**
 
-Prof. Dr. Günter Reuter | <reuter.guenter@mh-hannover.de>
+Dr. Gerrit Paasche | <paasche.gerrit@mh-hannover.de>
 
 ---------------------------
 
 **Research Team**
 
 
-Alexander Rettenmaier | <rettenmaier.alexander@mh-hannover.de>
+Vorname Name | <Name.Vorname@mh-hannover.de>
 
-Melanie Steffens | <steffens.melanie@mh-hannover.de>
+Vorname Name | <Name.Vorname@mh-hannover.de>
 
 
 -----------------------------
