@@ -28,9 +28,9 @@ title: Publications
 
 * Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, **Paasche G**, Scheper V, Reich U, Esser KH, Lenarz T, Stöver T, Wissel K. [Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo](http://www.sciencedirect.com/science/article/pii/S0378595512000937). Hear Res. 2012 Jul;289(1-2):86-97. 
 
-* Reich U, Fadeeva E, Warnecke A, **Paasche G**, Mueller P, Chichkov B, Stoever T, Lenarz T, Reuter G. Directing neuronal cell growth on implant material surfaces by microstructuring. Journal of Biomedical Materials Research: Part B - Applied Biomaterials. 2012 May;100(4):940-7.
+* Reich U, Fadeeva E, Warnecke A, **Paasche G**, Mueller P, Chichkov B, Stoever T, Lenarz T, Reuter G. [Directing neuronal cell growth on implant material surfaces by microstructuring](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.32656/abstract). Journal of Biomedical Materials Research: Part B - Applied Biomaterials. 2012 May;100(4):940-7.
 
-* Kontorinis G, **Paasche G**, Lenarz T, Stöver T. The effect of different lubricants on cochlear implant electrode insertion forces. Otol Neurotol. 2011 Sep;32(7):1050-6.
+* Kontorinis G, **Paasche G**, Lenarz T, Stöver T. [The effect of different lubricants on cochlear implant electrode insertion forces](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2011&issue=09000&article=00004&type=abstract). Otol Neurotol. 2011 Sep;32(7):1050-6.
 
 * Kontorinis G, Lenarz T, Stöver T, **Paasche G**. Impact of the insertion speed of cochlear implant electrodes on the insertion forces. Otol Neurotol. 2011 Jun;32(4):565-70.
 
