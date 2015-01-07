@@ -44,17 +44,17 @@ title: Publications
 
 * Scheper V, **Paasche G**, Miller JM, Warnecke A, Berkingali N, Lenarz T, Stöver T. [Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs](http://onlinelibrary.wiley.com/doi/10.1002/jnr.21964/abstract). J Neurosci Res. 2009 May 1;87(6):1389-99.
 
-* Berkingali N, Warnecke A, Gomes P, **Paasche G**, Tack J, Lenarz T, Stöver T. Neurite outgrowth on cultured spiral ganglion neurons induced by erythropoietin. Hear Res. 2008 Sep;243(1-2):121-6.
+* Berkingali N, Warnecke A, Gomes P, **Paasche G**, Tack J, Lenarz T, Stöver T. [Neurite outgrowth on cultured spiral ganglion neurons induced by erythropoietin](http://www.sciencedirect.com/science/article/pii/S0378595508001317). Hear Res. 2008 Sep;243(1-2):121-6.
 
-* Lenarz M, Lim HH, Lenarz T, Reich U, Marquardt N, Klingberg MN, **Paasche G**, Reuter G, Stan AC. Auditory midbrain implant: histomorphologic effects of long-term implantation and electric stimulation of a new deep brain stimulation array. Otol Neurotol. 2007 Dec;28(8):1045-52. 
+* Lenarz M, Lim HH, Lenarz T, Reich U, Marquardt N, Klingberg MN, **Paasche G**, Reuter G, Stan AC. [Auditory midbrain implant: histomorphologic effects of long-term implantation and electric stimulation of a new deep brain stimulation array](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2007&issue=12000&article=00013&type=abstract). Otol Neurotol. 2007 Dec;28(8):1045-52. 
 
-* Stöver T, **Paasche G**, Lenarz T, Ripken T, Breitenfeld P, Lubatschowski H, Fabian T. Development of a drug delivery device: using the femtosecond laser to modify cochlear implant electrodes. Cochlear Implants Int. 2007 Mar;8(1):38-52.
+* Stöver T, **Paasche G**, Lenarz T, Ripken T, Breitenfeld P, Lubatschowski H, Fabian T. [Development of a drug delivery device: using the femtosecond laser to modify cochlear implant electrodes](http://www.maneyonline.com/doi/abs/10.1179/cim.2007.8.1.38?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&). Cochlear Implants Int. 2007 Mar;8(1):38-52.
 
-* Lenarz T, Stover T, Buechner A, **Paasche G**, Briggs R, Risi F, Pesch J, Battmer RD. Temporal bone results and hearing preservation with a new straight electrode. Audiol Neurootol. 2006;11 Suppl 1:34-41. 
+* Lenarz T, Stover T, Buechner A, **Paasche G**, Briggs R, Risi F, Pesch J, Battmer RD. [Temporal bone results and hearing preservation with a new straight electrode](http://www.karger.com/Article/FullText/95612). Audiol Neurootol. 2006;11 Suppl 1:34-41. 
 
-* **Paasche G**, Bockel F, Tasche C, Lesinski-Schiedat A, Lenarz T. Changes of postoperative impedances in cochlear implant patients: the short-term effects of modified electrode surfaces and intracochlear corticosteroids. Otol Neurotol. 2006 Aug;27(5):639-47. 
+* **Paasche G**, Bockel F, Tasche C, Lesinski-Schiedat A, Lenarz T. [Changes of postoperative impedances in cochlear implant patients: the short-term effects of modified electrode surfaces and intracochlear corticosteroids](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2006&issue=08000&article=00012&type=abstract). Otol Neurotol. 2006 Aug;27(5):639-47. 
 
-* **Paasche G**, Bogel L, Leinung M, Lenarz T, Stover T. Substance distribution in a cochlea model using different pump rates for cochlear implant drug delivery electrode prototypes. Hear Res. 2006 Feb;212(1-2):74-82. 
+* **Paasche G**, Bogel L, Leinung M, Lenarz T, Stover T. [Substance distribution in a cochlea model using different pump rates for cochlear implant drug delivery electrode prototypes](http://www.sciencedirect.com/science/article/pii/S0378595505003266). Hear Res. 2006 Feb;212(1-2):74-82. 
 
 * Torkos A, Teschner M, Erfurt P, **Paasche G**, Lenarz T, Stover T. [The use of buccal smears for a non-invasive screening of the 35delG mutation of the Connexin-26 gene in hearing impaired young children](http://www.sciencedirect.com/science/article/pii/S0165587605004970). Int J Pediatr Otorhinolaryngol. 2006 Jun;70(6):965-71. 
 
