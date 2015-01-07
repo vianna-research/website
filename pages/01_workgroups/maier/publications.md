@@ -56,4 +56,5 @@ Mar;11(1):1-17. doi: 10.1007/s10162-009-0192-9. Epub 2009 Oct 16. Erratum in: J 
 |H. Maier, C. Zinn, A. Rothe, H.J. Tiziani, A.W. Gummer.  **Development of a narrow water-immersion objective for laser interferometric and electrophysiological applications in cell biology.** J. Neurosci. Meth. (1997), 77, 31-41.|  
 |H. Maier. **Electrorotation of colloid particles and cells depends on surface charge.** Biophysical J. (1997), 73 (3), 1617-1626.|  
 |R. Leuwer, H. Maier, A.W. Gummer. **Mikrolichtleiter-Spektrophotometrie an der Cochlea.** HNO (1997), 45 (5), 372-377.|  
-|M. Pfister, H. Maier, A.W. Gummer, S. Preyer.  **In vivo Cochleoskopie durch das runde Fenster.** HNO (1997), 45 (4), 216-221.
+|M. Pfister, H. Maier, A.W. Gummer, S. Preyer.  **In vivo Cochleoskopie durch das runde Fenster.** HNO (1997), 45 (4), 216-221.|  
+
