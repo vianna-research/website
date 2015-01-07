@@ -1,3 +1,2 @@
-title: Paasche Lab
+title: Paasche Lab - Electrode-Neural-Interface
 
-# AG Paasche - Electrode-Neural-Interface
