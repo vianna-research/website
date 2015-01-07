@@ -4,9 +4,9 @@ title: Publications
 
 ## 2014
 
-* Burghard A, Lenarz T, Kral A, **Paasche G**. Insertion site and sealing technique affect residual hearing and tissue formation after cochlear implantation. Hear Res. 2014 Jun;312:21-7
+* Burghard A, Lenarz T, Kral A, **Paasche G**. [Insertion site and sealing technique affect residual hearing and tissue formation after cochlear implantation](http://www.sciencedirect.com/science/article/pii/S0378595514000215). Hear Res. 2014 Jun;312:21-7
 
-* Ceschi P, Bohl A, Sternberg K, Neumeister A, Senz V, Schmitz KP, Kietzmann M, Scheper V, Lenarz T, Stöver T, **Paasche G.** Biodegradable polymeric coatings on cochlear implant surfaces and their influence on spiral ganglion cell survival. J Biomed Mater Res B Appl Biomater. 2014 Aug;102(6):1255-67.
+* Ceschi P, Bohl A, Sternberg K, Neumeister A, Senz V, Schmitz KP, Kietzmann M, Scheper V, Lenarz T, Stöver T, **Paasche G**. [Biodegradable polymeric coatings on cochlear implant surfaces and their influence on spiral ganglion cell survival](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33110/abstract;jsessionid=BB7D59FAC22C14A3B4305927C3C94B8B.f04t03). J Biomed Mater Res B Appl Biomater. 2014 Aug;102(6):1255-67.
 
 
 ## 2013
