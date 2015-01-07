@@ -18,7 +18,7 @@ title: Publications
 
 *   Wrzeszcz A, Reuter G, Nolte I, Lenarz T, **Scheper V**. [Spiral ganglion neuron quantification in the guinea pig cochlea using Confocal Laser Scanning Microscopy compared to embedding methods.](http://www.sciencedirect.com/science/article/pii/S0378595513001937) Hear Res. 2013 Dec;306:145-55. doi:10.1016/j.heares.2013.08.002. Epub 2013 Aug 20.
 
-*  Hütten M, Ehrhart F, Zimmermann H, Reich U, Esser KH, Lenarz T, **Scheper V**. [UHV-alginate as matrix for neurotrophic factor producing cells--a novel biomaterial for cochlear implant optimization to preserve inner ear neurons from degeneration.](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2013&issue=08000&article=00027&type=abstract)  Otol Neurotol. 2013 Aug;34(6):1127-33. doi: 10.1097/MAO.0b013e3182804949. Erratum in: Otol Neurotol. 2013 Dec;34
+*  Hütten M, Ehrhart F, Zimmermann H, Reich U, Esser KH, Lenarz T, **Scheper V**. [UHV-alginate as matrix for neurotrophic factor producing cells--a novel biomaterial for cochlear implant optimization to preserve inner ear neurons from degeneration.](http://journals.lww.com/otology-neurotology/pages/articleviewer.aspx?year=2013&issue=08000&article=00027&type=abstract)  Otol Neurotol. 2013 Aug;34(6):1127-33. doi: 10.1097/MAO.0b013e3182804949. [Erratum in: Otol Neurotol. 2013 Dec;34(9):1751](http://journals.lww.com/otology-neurotology/Fulltext/2013/12000/UHV_Alginate_as_Matrix_for_Neurotrophic_Factor.37.aspx)
 
 
 
