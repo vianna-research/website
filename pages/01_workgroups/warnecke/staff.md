@@ -2,18 +2,21 @@ title: Staff
 
 **Head of Work Group**
 
-Dr. Gerrit Paasche | <paasche.gerrit@mh-hannover.de>
+PD. Dr. med. A. Warnecke | <warnecke.athanasia@mh-hannover.de>
 
 ---------------------------
 
 **Research Team**
 
-![Beschreibung](pic1.jpg)
+Dipl.-Ing. PhD Pooyan Aliuos | <aliuos.pooyan@mh-hannover.de>
 
+William Burke | <william.burke@mh-hannover.de>
 
-Vorname Name | <Name.Vorname@mh-hannover.de>
+Dipl.-Biol. Dr. Katharina Kranz | <kranz.katharina@mh-hannover.de>
 
-Vorname Name | <Name.Vorname@mh-hannover.de>
+Dipl.-Biol. Jennifer Schulze | <schulze.jennifer@mh-hannover.de>
+
+Dr. rer. nat. Kirsten Wissel | <wissel.kirsten@mh-hannover.de>
 
 
 -----------------------------
