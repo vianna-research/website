@@ -18,5 +18,5 @@ The following workgroups are located at the VIANNA.
 | Dr. Gerrit Paasche        | [Electrode-Neural-Interface](01_workgroups/paasche.html) |
 | Prof. Dr. Günter Reuter   | [Experimental Otology](01_workgroups/reuter.html) |
 | Dr. Verena Scheper        | [Pharmacology of the Inner Ear](01_workgroups/scheper.html) |                                   |
-| Dr. Kirsten Wissel        | <Wissel.Kirsten@mh-hannover.de>                                      |
+| PD Dr. med. Athanasia Warnecke        | [Protection and Regeneration of the Inner Ear]01_workgroups/warnecke.html) |
 
