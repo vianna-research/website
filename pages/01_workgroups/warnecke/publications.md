@@ -2,59 +2,30 @@ title: Publications
 
 ## 2014
 
-* Wrzeszcz A, Steffens M, Balster S, Warnecke A, Dittrich B, Lenarz T, Reuter G. **Hydrogel coated and dexamethasone releasing cochlear implants: Quantification of fibrosis in guinea pigs and evaluation of insertion forces in a human cochlea model.** J Biomed Mater Res B Appl Biomater. 2014 May 8. doi: 10.1002/jbm.b.33187. [Epub ahead of print]
-
-* Kranz K, Warnecke A, Durisin M, Lenarz T, Scheper V. **Phosphodiesterase type 4 inhibitor Rolipram improves survival of spiral ganglion neurons in vitro.** Accepted February 2014 in PLOSone
-
-* Kaiser O, Alious P, Wissel K, Lenarz T, Werner D, Reuter G, Kral A, Warnecke A. **Dissociated neurons and glial cells derived from rat inferior colliculi after digestion with papain.** PLoS One. 2013 Dec 12;8(12):e80490.
-
-* Balster S, Wenzel GI, Warnecke A, Steffens M, Rettenmaier A, Zhang K, Lenarz T, Reuter G. **Optical cochlear implant: evaluation of insertion forces of optical fibres in a cochlear model and of traumata in human temporal bones.** Biomed Tech (Berl). 2014 Feb 1;59(1):19-28.
-
 ## 2013
-
-* Kaiser O, Paasche G, Stöver T, Ernst S, Lenarz T, Kral A, Warnecke A. **TGF-beta superfamily member activin A acts with BDNF and erythropoietin to improve survival of spiral ganglion neurons in vitro.** Neuropharmacology. 2013 Aug 22;75C:416-425. doi: 10.1016/j.neuropharm.2013.08.008. [Epub ahead of print]
-
-* Aliuos P, Sen A, Reich U, Dempwolf W, Warnecke A, Hadler C, Lenarz T, Menzel H, Reuter G. **Inhibition of fibroblast adhesion by covalently immobilized protein repellent polymer coatings studied by single cell force spectroscopy.** J Biomed Mater Res A. 2013 Apr 18. doi: 10.1002/jbm.a.34686. [Epub ahead of print]
-
-* Alious P, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U, Reuter G. **Evaluation of single-cell force spectroscopy and microscopy to determine cell interactions with femtosecond-laser microstructured titanium surfaces.** J Biomed Res Part A 2013;101(4):981-990. 
 
 ## Before 2013
 
-* Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, Paasche G, Scheper V, Reich U, Esser K-H, Lenarz T, Stöver T, Wissel K. **Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo.** Hear Res. 2012 Jul;289(1-2):86-97. 
+Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, Paasche G, Scheper V, Reich U, Esser KH, Lenarz T, Stöver T, Wissel K. Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo. Hear Res. 2012 Jul;289(1-2):86-97.
 
-* Reich U, Fadeeva E, Warnecke A, Paasche G, Mueller P, Chichkov B, Stöver T, Lenarz T, Reuter G. Directing neuronal cell growth on implant material surfaces by microstructuring. Journal of Biomedical Materials Research: Part B - Applied Biomaterials. 2012 May;100(4):940-947. 
+Kontorinis G, Scheper V, Wissel K, Stöver T, Lenarz T, Paasche G. In vitro modifications of the scala tympani environment and the cochlear implant array surface. Laryngoscope. 2012 Sep;122(9):2057-63.
 
-* Warnecke A, Scheper V, Buhr I, Wenzel GI, Wissel K, Paasche G, Berkingali N, Jørgensen JR, Lenarz T, Stöver T. **Artemin improves survival of spiral ganglion neurons in vivo and in vitro.** Neuroreport. 2010 May 12;21(7):517-21. 
+Gudi V, Škuljec J, Yildiz Ö, Frichert K, Skripuletz T, Moharregh-Khiabani D, Voss E, Wissel K, Wolter S, Stangel M.Spatial and temporal profiles of growth factor expression during CNS demyelination reveal the dynamics of repair priming. PLoS One. 2011;6(7):e22623. doi: 10.1371/journal.pone.0022623. Epub 2011 Jul 27.
 
-* Wenzel G, Warnecke A, Stöver T, Lenarz T. **Effects of extracochlear gacyclidine perfusion on tinnitus in humans: a case series.** Eur Arch Otorhinolaryngol. 2010 May;267(5):691-699. 
+Skuljec J, Gudi V, Ulrich R, Frichert K, Yildiz O, Pul R, Voss EV, Wissel K, Baumgärtner W, Stangel M. Matrix metalloproteinases and their tissue inhibitors in cuprizone-induced demyelination and remyelination of brain white and gray matter. J Neuropathol Exp Neurol. 2011 Sep;70(9):758-69.
 
-* Kramer F, Stöver T, Warnecke A, Diensthuber M, Lenarz T, Wissel K. **BDNF mRNA expression is significantly upregulated in vestibular schwannomas and correlates with proliferative activity.** J Neurooncol. 2010 May;98(1):31-39.
+Kramer, F., Stover, T., Warnecke, A., Diensthuber, M., Lenarz, T. & Wissel, K. (2010). BDNF. mRNA expression is significantly upregulated in vestibular schwannomas and correlates with proliferative activity. J Neurooncol 98, 31-9.
 
-* Warnecke A, Averbeck T, Soudah B, Wenzel GI, Lenarz T, Stöver T. **Contact endoscopy for the evaluation of the pharyngeal and laryngeal mucosa.** Laryngoscope. 2010 Feb;120(2):253-258. 
+Warnecke A, Scheper V, Buhr I, Wenzel GI, Wissel K, Paasche G, Berkingali N, Jørgensen JR, Lenarz T, Stöver T. Artemin improves survival of spiral ganglion neurons in vivo and in vitro. Neuroreport. 2010 May 12;21(7):517-21.
 
-* Scheper V, Paasche G, Miller JM, Warnecke A, Berkingali N, Lenarz T, Stöver T. **Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs.** J Neurosci Res. 2009 May 1;87(6):1389-1399. 
+Wissel, K., Stover, T., Hofmann, N. S., Chernajovsky, Y., Daly, G., Sasse, S., Warnecke, A., Lenarz, T., Gross, G. & Hoffmann, A. (2008). Fibroblast-mediated delivery of GDNF induces neuronal-like outgrowth in PC12 cells. Otol Neurotol 29, 475-81.
 
-* Warnecke A, Luessen P, Sandmann J, Ikic M, Rossa S, Gutzki FM, Stichtenoth DO, Tsikas D. **Application of a stable-isotope dilution technique to study the pharmacokinetics of human (15)N-labelled S-nitrosoalbumin in the rat: Possible mechanistic and biological implications.** J Chromatogr B Analyt Technol Biomed Life Sci. 2009 May;877(13):1375-1387. 
+Torkos, A., Wissel, K., Warnecke, A., Lenarz, T. & Stover, T. (2008). Technical report: laser microdissection and pressure catapulting is superior to conventional manual dissection for isolating pure spiral ganglion fractions from the cochlea. Hear Res 235, 8-14.
 
-* Berkingali N, Warnecke A, Gomes P, Paasche G, Tack J, Lenarz T, Stöver T. **Neurite outgrowth on cultured spiral ganglion neurons induced by erythropoietin.** Hear Res. 2008 Sep;243(1-2):121-126. 
+Warnecke, A., Wissel, K., Hoffmann, A., Hofmann, N., Berkingali, N., Gro, G., Lenarz, T. & Stover, T. (2007). The biological effects of cell-delivered brain-derived neurotrophic factor on cultured spiral ganglion cells. Neuroreport 18, 1683-6.
 
-* Wissel K, Stöver T, Hofmann N-S, Chernajovsky Y, Daly G, Sasse S, Warnecke A, Lenarz T, Gross G, Hoffmann A. **Fibroblast-mediated GDNF-delivery induces neuronal-like outgrowth in PC12 cells Otol Neurotol.** 2008 Jun;29(4):475-481. 
+Wissel K, Wefstaedt P, Miller JM, Lenarz T, Stöver T. Differential brain-derived neurotrophic factor and transforming growth factor-beta expression in the rat cochlea following deafness. Neuroreport. 2006 Aug 21;17(12):1297-301.
 
-* Torkos A, Wissel K, Warnecke A, Lenarz T, Stöver T. **Technical report: Laser microdissection and pressure catapulting is superior to conventional manual dissection for isolating pure spiral ganglion fractions from the cochlea. **Hear Res. 2008 Jan;235(1-2):8-14. 
+Wissel K, Wefstaedt P, Rieger H, Miller JM, Lenarz T, Stöver T. Upregulation of glial cell line-derived neurotrophic factor and artemin mRNA in the auditory nerve of deafened rats. Neuroreport. 2006 Jun 26;17(9):875-8.
 
-* Warnecke A, Wissel K, Hoffmann A, Hofmann N-S, Berkingali N, Groß G, Lenarz T, Stöver T. **The biological effects of cell-delivered BDNF on cultured spiral ganglion cells Neuroreport.** 2007 Oct;18(16)1683-1686. 
-
-* Lesinski-Schiedat A, Illg A, Warnecke A, Heerman R, Bertram B, Lenarz T. **Kochleaimplantation bei Kindern im 1. Lebensjahr. Vorläufige Ergebnisse. **HNO. 2005 Jul;54(7):565-572. 
-
-* Warnecke A, Averbeck T, Wurster U, Harmening M, Lenarz T, Stöver T. **Diagnostic Relevance of β2-Transferrin for the Detection of Cerebrospinal Fluid Fistulas.** Arch Otolaryngol, Head Neck Surg. 2004 Oct;130(10):1178-1184. 
-
-* Savva A, Taylor M, Beatty CW. **Management of Cerebrospinal Fluid Leaks Involving the Temporal Bone: Report on 92 Patients.** Laryngoscope 2003 Jan;113(1):50-56. 
-
-* Strome SE, Savva A, Brisset AE, Gostout BS, Lewis J, Clayton AC, McGovern R, Weaver AE, Persing D, Kasperbauer JL. **Squamous cell carcinoma of the tonsils: a molecular analysis of HPV associations.** Clin Cancer Res. 2002 Apr;8(4):1093-1100. 
-
-* Khabie N, Savva A, Kasperbauer JL, McGovern R, Gostout B, Strome SE. **Epstein-Barr Virus DNA is not increased in Tonsillar Carcinoma.** Laryngoscope. 2001 May;111(5):811-814. 
-
-* Tsikas D, Sandmann J, Lueßen P, Savva A, Rossa S, Stichtenoth DO, Frölich JC. **S-Transnitrosylation of albumin in human plasma and blood in vitro and in vivo in the rat.** Biochem Biophys. 2001 Apr;1546(2):422-434. 
-
-* Tsikas D, Sandmann J, Savva A, Lueßen P, Böger RH, Gutzki F-M, Mayer B, Frölich JC. **Assessment of nitric oxide synthase activity in vitro and in vivo by gas chromatography-mass spectrometry.** J Chrom B. 2000 May;742(1):143-153. 
-
+Stöver T, Wissel K, Averbeck T, Lenarz T, Altschuler RA. Characterisation of the gene expression profiles in the inner ear and the colliculus inferior of normal and deafened rats by gene-array-technology. Laryngorhinootologie. 2004 Sep;83(9):597-605.
