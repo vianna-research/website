@@ -2,8 +2,6 @@ title: Publications
 
 ## 2014
 
-* Ulusoy M, Walter JG, Lavrentieva A, Kretschmer I, Sandiford L, Le Marois A, Bongartz R, Aliuos P, Suhling K, Stahl F, Green M, Scheper T.** One-pot aqueous synthesis of highly strained CdTe/CdS/ZnS nanocrystals and their interactions with cells.** RSC Advances. 2014: in press
-
 * Wrzeszcz A, Steffens M, Balster S, Warnecke A, Dittrich B, Lenarz T, Reuter G. **Hydrogel coated and dexamethasone releasing cochlear implants: Quantification of fibrosis in guinea pigs and evaluation of insertion forces in a human cochlea model.** J Biomed Mater Res B Appl Biomater. 2014 May 8. doi: 10.1002/jbm.b.33187. [Epub ahead of print]
 
 * Kranz K, Warnecke A, Durisin M, Lenarz T, Scheper V. **Phosphodiesterase type 4 inhibitor Rolipram improves survival of spiral ganglion neurons in vitro.** Accepted February 2014 in PLOSone
@@ -11,18 +9,6 @@ title: Publications
 * Kaiser O, Alious P, Wissel K, Lenarz T, Werner D, Reuter G, Kral A, Warnecke A. **Dissociated neurons and glial cells derived from rat inferior colliculi after digestion with papain.** PLoS One. 2013 Dec 12;8(12):e80490.
 
 * Balster S, Wenzel GI, Warnecke A, Steffens M, Rettenmaier A, Zhang K, Lenarz T, Reuter G. **Optical cochlear implant: evaluation of insertion forces of optical fibres in a cochlear model and of traumata in human temporal bones.** Biomed Tech (Berl). 2014 Feb 1;59(1):19-28.
-
-
-* Hermane J, Bułyszko I, Eichner S, Sasse F, Collisi W, Poso A, Schax E, Walter JG, Scheper T, Kock K, Herrmann C, Aliuos P, Reuter G, Zeilinger C, Kirschning A.** New non quinone fluoro geldanamycin derivatives strongly inhibit Hsp90.** ChemBioChem. 2014: in press
-
-* Kirschning A, Walter JG, Stahl F, Schax E, Scheper T, Aliuos P, Zeilinger C. **Molecular survival strategies of organisms: HSP and small molecules for diagnostics and drug development.** Springer Publishers. 2014: Ref. No.: APS-09-0516, in press
-
-* Tegtmeier K, Aliuos P, Schickedanz M, Zernetsch H, Stieghorst J, Doll T. Aligned carbon nanotubes-liquid silicone rubber conductors and electrode surfaces for stimulating medical implants. Phys Status Solidi A. 2014;1–9, doi: 10.1002/pssa.201330405
-
-* Stieghorst J, Tegtmeier K, Zernetsch H, Aliuos P, Doll T. Self-bending hydrogel actuation for electrode shafts in cochlear implants. Phys Status Solidi A. 2014;1–7 
-
-* Wrzeszcz A, Dittrich B, Haamann D, Aliuos P, Klee D, Nolte I, Lenarz T, Reuter G. Dexamethasone released from cochlear implant coatings combined with a protein repellent hydrogel layer inhibits fibroblast proliferation. J Biomed Mater Res Part A. 2014;102(2):442-454, doi: 10.1002/jbm.a.34719
-
 
 ## 2013
 
