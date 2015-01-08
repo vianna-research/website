@@ -3,6 +3,7 @@ title: Publications
 
 
 ## 2014
+* Miller F, Burghard A, Salcher R, Scheper V, Leibold W, Lenarz T, **Paasche G**. [Treatment of middle ear ventilation disorders: sheep as animal model for stenting the human eustachian tube - a cadaver study](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0113906). PLoS One. 2014 Nov 24;9(11):e113906. doi: 10.1371/journal.pone.0113906. eCollection 2014.
 
 * Burghard A, Lenarz T, Kral A, **Paasche G**. [Insertion site and sealing technique affect residual hearing and tissue formation after cochlear implantation](http://www.sciencedirect.com/science/article/pii/S0378595514000215). Hear Res. 2014 Jun;312:21-7
 
