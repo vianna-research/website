@@ -1,3 +1,5 @@
+title: Jun. Prof. Dr. Simone Kurt
+
 ## Jun. Prof. Dr. Simone Kurt
 
 ![Image Simone Kurt](s_kurt_106width.jpg)
