@@ -13,7 +13,7 @@ Another line of research in the laboratory investigates auditory discrimination 
     Feodor-Lynen-Straße 27
     30625 Hannover
 
-A list of the staff can be found [here](/kurt/staff).
+A list of the staff can be found [here](/kurt/staff.html).
 
 ----------------------------------------------------
 
