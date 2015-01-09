@@ -1,4 +1,4 @@
-##AG Kurt - Pathophysiologie des auditorischen Systems
+title: Kurt Lab - Pathophysiologie des auditorischen Systems
 
 **Contact Information:**
 Medizinische Hochschule Hannover
