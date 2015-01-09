@@ -1,33 +1,32 @@
-title: Majdani Lab - Computer-assistierte Chirurgie (cas-h) und Elektrodenentwicklung
+title: Computer-assisted surgery (cas-h) and electrode development
 
 ![cash-logo](majdani/cas-h.jpg)
 
-## Forschung
+## Research
 
-**Schwerpunkt** der Forschungsarbeiten ist die Nutzung von Verfahren der computer-assistierten Chirurgie (CAS) auf der Basis hochauflösender Bildgebungstechnologien, um die Präzision und Sicherheit operativer Eingriffe, insbesondere an der lateralen Schädelbasis, zu erhöhen. Dazu zählen der Einsatz intraoperativer Navigationstechnik, mechatronischer Assistenzsysteme und Verfahren der computergestützten Simulation und prä-operativen Planung. Basierend darauf ist es das weiterführende Ziel, adaptive Cochlea-Implantat (CI)-Elektroden zu entwickeln und in das Gesamtkonzept eines minimal-traumatischen, resthörerhaltenden Zugangs zur Cochlea zu integrieren.
+The focus of our research activities is directed at the use of computer-assisted surgery (CAS) based on high-resolution imaging technologies, in order to improve the precision and safety of surgical procedures, particularly on the lateral skull base. These include the use of intraoperative navigation techniques, mechatronic assistance systems and methods of computer-aided simulation and pre-operative planning. Building on this, the continued goal is to develop adaptive cochlear implant (CI) electrodes and to integrate these into the overall concept of a minimally traumatic approach to the cochlea that preserves residual hearing.
 
-![Simulation einer CI Insertion](majdani/rtemagicc_rau_02.jpg)
+![Simulation of a CI insertion](majdani/rtemagicc_rau_02.jpg)
 
-Wegen der hohen anatomischen Komplexität der lateralen Schädelbasis und der bedeutenden gesellschaftlichen Relevanz ist die CI-Operation eine der zentralen Anwendungen. So konnte bislang im Rahmen des Schwerpunktprogramm „Medizinische Navigation und Robotik“ (SPP 1124) jeweils ein Experimentalaufbau für die manuelle, navigationsgestützte als auch roboter-assistierte Bohrung eines minimal-invasiven Kanals von der Oberfläche des Schädels bis zur Hörschnecke realisiert werden. Das erlaubt die CI-Operation ohne den sonst bei konventioneller Operationstechnik üblichen großvolumigen Zugang (Mastoidektomie) anzulegen. Als Antwort auf die speziellen Anforderungen der Einführung des Elektrodenträgers des CIs in der Tiefe des neuen minimal-invasiven Zugangs wurde in Kooperation mit dem Institut für Mechatronische Systeme (imes) der Leibniz Universität Hannover ein automatisiertes „Insertionstool“ entwickelt, welches die kontrollierte Insertion der Elektroden in das Innenohr ermöglicht.
+Because of the complex anatomy of the lateral skull base and the substantial social relevance of hearing, cochlear implantation represents one of the core applications for this technology. As part of the German Research Foundation’s (DFG) focus programme on ‘Medical Navigation and Robotics’ (SPP 1124), experimental set-ups were created using a navigation-assisted manual approach and a robot-assisted drilling approach to create a minimally invasive canal from the surface of the skull to the cochlea. This allows the cochlear implantation to be performed without the large surgical approach involving a mastoidectomy that is necessary when conventional surgical techniques are used. In response to the specific requirements arising from the need to insert the CI electrode array through the new minimally invasive approach, an automated insertion tool was developed in cooperation with the Institute of Mechatronic Systems (IMES) at the Leibniz University of Hannover, which facilitated the controlled insertion of the electrode into the inner ear.
 
-Vielversprechende Konzepte werden in Insertionsstudien an Cochleamodellen oder Felsenbeinpräparaten weiter charakterisiert. Die Expertise der Forschungsgruppe umfasst dabei Insertionsstudien sowohl mit Kraftmessung als auch unter Durchleuchtung, um auftretende Insertionskräfte und das intracochleäre Verformungsverhalten der Implantate in Korrelation zu setzen.
+Promising concepts can then be characterized in insertion studies on cochlear models or temporal bone specimens. The expertise of the research group includes insertion studies both with force measurement and under fluoroscopy, aimed at drawing correlations between the insertion forces arising and the deforming properties of the implant *in situ*.
 
+### The major focuses of this research group are
 
-### Als wesentliche Schwerpunkte der Forschungsgruppe sind daher zu nennen:
+-   Use of medical imaging, particularly the importance of flat panel detector technology in visualization using volume tomography
 
--   Einsatz der medizinischen Bildgebung, insbesondere Stellenwert der Flächendetektortechnologie bei der volumentomographischen Darstellung
+-   Imaging of cochlear implants, including limitations of MRI imaging
 
--   Nutzung eines chirurgischen Navigationssystems zur Kontrolle einer chirurgischen Fräse zur Vermeidung der Verletzung von Risikostrukturen.
+-   Use of a surgical navigation system for guiding a surgical drill tool to avoid injuring at-risk structures
 
--   Roboterassistierte, minimal-invasiver Zugang zu der Cochlea für die CI-Operation
+-   Robot-assisted, minimally invasive access to the cochlea for cochlear implantation
 
--   Bildgestützter, ministereotaktischer Zugang zu der Cochlea für die CI-Operation
+-   Image-guided, microsterotactic approach to the cochlear for cochlear implantation
 
--   Entwicklung und Evaluierung eines Insertionstools für die Einführung der CI-Elektrode in der Tiefe des minimal-invasiven Zuganges
+-   Development and evaluation of an insertion tool for introducing the CI electrode into the cochlea through the minimally invasive approach
 
-
--   Entwicklung aktiver CI-Elektroden für die atraumatische Insertion bei resthörerhaltender Operationstechnik
-
+-   Development of active CI electrodes for atraumatic insertion in surgical techniques designed to preserve residual hearing
 
 -   Finite-Elemente-Modellierung der CI-Elektrode und der mechanischen Wechselwirkungen mit dem Innenohr
 
@@ -46,21 +45,20 @@ Weitere Informationen: <http://www.smart-ci.de/91.html>.
 
 ## Kontakt:
 
-### Projektleiter: PD Dr. med. Omid Majdani
+### Group head: PD Dr. med. Omid Majdani
 
-Oberarzt
 
     Klinik für Hals-, Nasen-, Ohrenheilkunde
-    Medizinische Hochschule Hannover
+    Medical School Hannover
     Carl-Neuberg-Str. 1
     30625 Hannover
 
-Tel: +49 (0) 1761-532-7466
-Fax: +49 (0) 511-532-8876
+phone: +49 1761-532-7466
+fax: +49 511-532-8876
 
 Email: <majdani.omidmh-hannover.de>
 
-### Technische Leitung: Dipl.-Ing. Thomas S. Rau
+### Lab: Dipl.-Ing. Thomas S. Rau
 
     VIANNA - Institut für Audioneurotechnologie
     der Klinik für Hals-, Nasen-, Ohrenheilkunde
@@ -68,10 +66,7 @@ Email: <majdani.omidmh-hannover.de>
     Feodor-Lynen-Str. 35
     30625 Hannover
 
-Tel.: +49 (0) 511-532-3025
+phone.: +49 511-532-3025
 Email: <rau.thomas@mh-hannover.de>
 
 
-
-PD Dr. med. O. Majdani: <Majdani.Omid@mh-hannover.de>
-Dipl.-Ing. T. Rau: <Rau.Thomas@mh-hannover.de>
