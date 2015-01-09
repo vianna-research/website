@@ -1,6 +1,4 @@
-title: Kurt Lab - Pathophysiology
-
-##Kurt Lab - Pathophysiology of the Auditory System
+title: Kurt Lab - Pathophysiology of the Auditory System
 
 Our research is focused on neuroprosthetic devices within the auditory system and methods of artificial stimulation of the nervous system to replace lost auditory function. We try to replace lost neural function by an implant to understand how artificial stimulation will represent the world and how neuronal circuits process information. 
 
