@@ -15,7 +15,7 @@ primary auditory neurons from degeneration and promoting the neuron-electrode in
 pave the way for a stand-alone neurotrophic implant as a potential regenerative therapy to the inner ear without the use 
 of an electrode. 
 
-##[Prohearing](http://www.prohearing.eu) ![Logo Prohearing](Prohearing.jpg)
+##[Prohearing](http://www.prohearing.eu) ![Logo Prohearing](Prohear.jpg)
 This SMALL/MEDIUM ENTREPRISE (SME)-driven program is based on the scientific rationale that free radical formation and blood
 flow reduction underlie cell death affecting sensory systems in response to environmental stress and with aging. 
 The stress caused in the auditory system, lead to excess free radical formation, blood flow reduction, inner ear sensory cell loss, and irreversible hearing impairment.
