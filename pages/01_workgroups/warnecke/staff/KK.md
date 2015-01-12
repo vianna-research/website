@@ -1,16 +1,12 @@
 title: Katharina Kranz
 
  
-**Dipl.-Biol. Dr. Katharina Kranz**
-
-
-
 ***
 
 
 **Contact:**
 
-	Katharina Kranz
+	Dipl.-Biol. Dr. Katharina Kranz
 	Medizinische Hochschule Hannover
 	Klinik für Hals-Nasen-Ohrenheilkunde
 	Carl-Neuberg-Str. 1
