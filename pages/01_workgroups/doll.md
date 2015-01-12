@@ -12,14 +12,14 @@ More information about current projects can be found [here](doll/projects.html).
 
 **Contact Information:**
 
-Adress
+Adress:
 
     BioMaterial Engineering
     Medizinische Hochschule Hannover
     Feodor-Lynen-Straße 27
     30625 Hannover
 
-Contact
+Contact Information:
 
     Phone: +49 511 532 7231
     Fax: +49 511 532 18576
