@@ -1,8 +1,6 @@
 title: Jennifer Schulze
 
  
-**M.Sc. Biol. Jennifer Schulze**
-
 
 
 ***
@@ -10,7 +8,7 @@ title: Jennifer Schulze
 
 **Contact:**
 
-	Jennifer Schulze
+	M.Sc. Biol. Jennifer Schulze
 	Medizinische Hochschule Hannover
 	Klinik für Hals-Nasen-Ohrenheilkunde
 	Carl-Neuberg-Str. 1
