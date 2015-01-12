@@ -30,6 +30,6 @@ title: Pooyan Aliuos
 
 * Kaiser O, **Aliuos P**, Wissel K, Lenarz T, Werner D, Reuter G, Kral A, Warnecke A. [Dissociated neurons and glial cells derived from rat inferior colliculi after digestion with papain.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0080490) PLoS ONE. 2013;8(12):e80490, doi:10.1371/journal.pone.0080490
 
-* **Aliuos P**, Sen A, Reich U, Dempwolf W, Warnecke A, Hadler C, Lenarz T, Menzel H, Reuter G. Inhibition of fibroblast adhesion by covalently immobilized protein repellent polymer coatings studied by single cell force spectroscopy. J Biomed Mater Res Part A. 2013, doi: 10.1002/jbm.a.34686
+* **Aliuos P**, Sen A, Reich U, Dempwolf W, Warnecke A, Hadler C, Lenarz T, Menzel H, Reuter G. [Inhibition of fibroblast adhesion by covalently immobilized protein repellent polymer coatings studied by single cell force spectroscopy.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34686/abstract) J Biomed Mater Res Part A. 2013, doi: 10.1002/jbm.a.34686
 
-* **Aliuos P**, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U, Reuter G. Evaluation of single-cell force spectroscopy and fluorescence microscopy to determine cell interactions with femtosecondlaser microstructured titanium surfaces. J Biomed Mater Res Part A. 2013;101(4):981-990, doi: 10.1002/jbm.a.34401
+* **Aliuos P**, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U, Reuter G. [Evaluation of single-cell force spectroscopy and fluorescence microscopy to determine cell interactions with femtosecondlaser microstructured titanium surfaces.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34401/abstract) J Biomed Mater Res Part A. 2013;101(4):981-990, doi: 10.1002/jbm.a.34401
