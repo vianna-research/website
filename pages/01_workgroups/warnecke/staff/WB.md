@@ -1,16 +1,12 @@
 title: William Burke
 
- 
-**Ass.-Arzt William Burke**
-
-
 
 ***
 
 
 **Contact:**
 
-	William Burke
+	Ass.-Arzt William Burke
 	Medizinische Hochschule Hannover
 	Klinik für Hals-Nasen-Ohrenheilkunde
 	Carl-Neuberg-Str. 1
