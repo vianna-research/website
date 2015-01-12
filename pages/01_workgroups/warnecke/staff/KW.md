@@ -1,8 +1,5 @@
 title: Kirsten Wissel
 
- 
-**Dr. rer. nat.  Kirsten Wissel**
-
 
 
 ***
@@ -10,7 +7,7 @@ title: Kirsten Wissel
 
 **Contact:**
 
-	Kirsten Wissel
+	Dr. rer. nat. Kirsten Wissel
 	Medizinische Hochschule Hannover
 	Klinik für Hals-Nasen-Ohrenheilkunde
 	Carl-Neuberg-Str. 1
