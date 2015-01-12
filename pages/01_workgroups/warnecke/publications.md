@@ -14,15 +14,15 @@ title: Publications
 
 * Kaiser O, Paasche G, Stöver T, Ernst S, Lenarz T, Kral A, Warnecke A. **[TGF-beta superfamily member activin A acts with BDNF and erythropoietin to improve survival of spiral ganglion neurons in vitro.](http://www.sciencedirect.com/science/article/pii/S0028390813003651)** Neuropharmacology. 2013 Aug 22;75C:416-425. doi: 10.1016/j.neuropharm.2013.08.008. [Epub ahead of print]
 
-* Aliuos P, Sen A, Reich U, Dempwolf W, Warnecke A, Hadler C, Lenarz T, Menzel H, Reuter G. **Inhibition of fibroblast adhesion by covalently immobilized protein repellent polymer coatings studied by single cell force spectroscopy.** J Biomed Mater Res A. 2013 Apr 18. doi: 10.1002/jbm.a.34686. [Epub ahead of print]
+* Aliuos P, Sen A, Reich U, Dempwolf W, Warnecke A, Hadler C, Lenarz T, Menzel H, Reuter G. **[Inhibition of fibroblast adhesion by covalently immobilized protein repellent polymer coatings studied by single cell force spectroscopy.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34686/abstract)** J Biomed Mater Res A. 2013 Apr 18. doi: 10.1002/jbm.a.34686. [Epub ahead of print]
 
-* Alious P, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U, Reuter G. **Evaluation of single-cell force spectroscopy and microscopy to determine cell interactions with femtosecond-laser microstructured titanium surfaces.** J Biomed Res Part A 2013;101(4):981-990. 
+* Alious P, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U, Reuter G. **E[valuation of single-cell force spectroscopy and microscopy to determine cell interactions with femtosecond-laser microstructured titanium surfaces.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34401/abstract)** J Biomed Res Part A 2013;101(4):981-990. 
 
 ## Before 2013
 
 * Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, Paasche G, Scheper V, Reich U, Esser K-H, Lenarz T, Stöver T, Wissel K. **Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo.** Hear Res. 2012 Jul;289(1-2):86-97. 
 
-* Reich U, Fadeeva E, Warnecke A, Paasche G, Mueller P, Chichkov B, Stöver T, Lenarz T, Reuter G. Directing neuronal cell growth on implant material surfaces by microstructuring. Journal of Biomedical Materials Research: Part B - Applied Biomaterials. 2012 May;100(4):940-947. 
+* Reich U, Fadeeva E, Warnecke A, Paasche G, Mueller P, Chichkov B, Stöver T, Lenarz T, Reuter G. **Directing neuronal cell growth on implant material surfaces by microstructuring.** Journal of Biomedical Materials Research: Part B - Applied Biomaterials. 2012 May;100(4):940-947. 
 
 * Warnecke A, Scheper V, Buhr I, Wenzel GI, Wissel K, Paasche G, Berkingali N, Jørgensen JR, Lenarz T, Stöver T. **Artemin improves survival of spiral ganglion neurons in vivo and in vitro.** Neuroreport. 2010 May 12;21(7):517-21. 
 
