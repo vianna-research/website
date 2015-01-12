@@ -20,9 +20,9 @@ title: Publications
 
 ## Before 2013
 
-* Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, Paasche G, Scheper V, Reich U, Esser K-H, Lenarz T, Stöver T, Wissel K. **Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo.** Hear Res. 2012 Jul;289(1-2):86-97. 
+* Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, Paasche G, Scheper V, Reich U, Esser K-H, Lenarz T, Stöver T, Wissel K. **[Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo](http://www.sciencedirect.com/science/article/pii/S0378595512000937).** Hear Res. 2012 Jul;289(1-2):86-97. 
 
-* Reich U, Fadeeva E, Warnecke A, Paasche G, Mueller P, Chichkov B, Stöver T, Lenarz T, Reuter G. **Directing neuronal cell growth on implant material surfaces by microstructuring.** Journal of Biomedical Materials Research: Part B - Applied Biomaterials. 2012 May;100(4):940-947. 
+* Reich U, Fadeeva E, Warnecke A, Paasche G, Mueller P, Chichkov B, Stöver T, Lenarz T, Reuter G. **[Directing neuronal cell growth on implant material surfaces by microstructuring.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.32656/abstract)** Journal of Biomedical Materials Research: Part B - Applied Biomaterials. 2012 May;100(4):940-947. 
 
 * Warnecke A, Scheper V, Buhr I, Wenzel GI, Wissel K, Paasche G, Berkingali N, Jørgensen JR, Lenarz T, Stöver T. **Artemin improves survival of spiral ganglion neurons in vivo and in vitro.** Neuroreport. 2010 May 12;21(7):517-21. 
 
