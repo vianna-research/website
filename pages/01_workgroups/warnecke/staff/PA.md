@@ -1,7 +1,7 @@
-title: Kirsten Wissel
+title: Pooyan Aliuos
 
  
-**Dr. rer. nat.  Kirsten Wissel**
+**Dipl.-Ing. PhD Pooyan Aliuos**
 
 
 
@@ -10,12 +10,12 @@ title: Kirsten Wissel
 
 **Contact:**
 
-	Kirsten Wissel
+	Pooyan Aliuos
 	Medizinische Hochschule Hannover
 	Klinik für Hals-Nasen-Ohrenheilkunde
 	Carl-Neuberg-Str. 1
 	30625 Hannover
-	Wissel.Kirsten@mh-hannover.de
+	Aliuos.Pooyan@mh-hannover.de
 
 
 ### Publications
