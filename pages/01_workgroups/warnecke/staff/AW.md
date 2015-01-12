@@ -25,7 +25,7 @@ title: Athanasia Warnecke
 
 * Kranz K, **Warnecke A**, Durisin M, Lenarz T, Scheper V. [Phosphodiesterase type 4 inhibitor Rolipram improves survival of spiral ganglion neurons in vitro.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0092157) Accepted February 2014 in PLOSone
 
-* Kaiser O, Alious P, Wissel K, Lenarz T, Werner D, Reuter G, Kral A, **Warnecke A**. *Dissociated neurons and glial cells derived from rat inferior colliculi after digestion with papain.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0080490) PLoS One. 2013 Dec 12;8(12):e80490.
+* Kaiser O, Alious P, Wissel K, Lenarz T, Werner D, Reuter G, Kral A, **Warnecke A**. [Dissociated neurons and glial cells derived from rat inferior colliculi after digestion with papain.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0080490) PLoS One. 2013 Dec 12;8(12):e80490.
 
 * Balster S, Wenzel GI, **Warnecke A**, Steffens M, Rettenmaier A, Zhang K, Lenarz T, Reuter G. [Optical cochlear implant: evaluation of insertion forces of optical fibres in a cochlear model and of traumata in human temporal bones.](http://www.degruyter.com/view/j/bmte.2014.59.issue-1/bmt-2013-0038/bmt-2013-0038.xml;jsessionid=B859C5C9F2215DF8FB96F3A590E9A25E) Biomed Tech (Berl). 2014 Feb 1;59(1):19-28.
 
