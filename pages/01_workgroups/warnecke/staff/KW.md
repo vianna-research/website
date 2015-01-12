@@ -17,6 +17,7 @@ title: Kirsten Wissel
 
 ### Publications
 
+* Kaiser O, Alious P, **Wissel K**, Lenarz T, Werner D, Reuter G, Kral A, Warnecke A. [Dissociated neurons and glial cells derived from rat inferior colliculi after digestion with papain.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0080490) PLoS One. 2013 Dec 12;8(12):e80490.
 
 * Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, Paasche G, Scheper V, Reich U, Esser KH, Lenarz T, Stöver T, **Wissel K**. [Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo.](http://www.sciencedirect.com/science/article/pii/S0378595512000937) Hear Res. 2012 Jul;289(1-2):86-97.
 
