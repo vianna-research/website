@@ -1,7 +1,7 @@
 title: Athanasia Warnecke
 
  
-**PD. Dr. med. Athanasia Warnecke**
+**Head of Research Group**
 
 
 
