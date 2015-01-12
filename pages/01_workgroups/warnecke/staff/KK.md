@@ -1,7 +1,7 @@
-title: William Burke
+title: Katharina Kranz
 
  
-**William Burke**
+**Dipl.-Biol. Dr. Katharina Kranz**
 
 
 
@@ -10,12 +10,12 @@ title: William Burke
 
 **Contact:**
 
-	William Burke
+	Katharina Kranz
 	Medizinische Hochschule Hannover
 	Klinik für Hals-Nasen-Ohrenheilkunde
 	Carl-Neuberg-Str. 1
 	30625 Hannover
-	Burke.William@mh-hannover.de
+	Kranz.Katharina@mh-hannover.de
 
 
 ### Publications
