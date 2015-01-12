@@ -12,7 +12,7 @@ title: Publications
 
 ## 2013
 
-* Kaiser O, Paasche G, Stöver T, Ernst S, Lenarz T, Kral A, Warnecke A. **TGF-beta superfamily member activin A acts with BDNF and erythropoietin to improve survival of spiral ganglion neurons in vitro.** Neuropharmacology. 2013 Aug 22;75C:416-425. doi: 10.1016/j.neuropharm.2013.08.008. [Epub ahead of print]
+* Kaiser O, Paasche G, Stöver T, Ernst S, Lenarz T, Kral A, Warnecke A. **[TGF-beta superfamily member activin A acts with BDNF and erythropoietin to improve survival of spiral ganglion neurons in vitro.](http://www.sciencedirect.com/science/article/pii/S0028390813003651)** Neuropharmacology. 2013 Aug 22;75C:416-425. doi: 10.1016/j.neuropharm.2013.08.008. [Epub ahead of print]
 
 * Aliuos P, Sen A, Reich U, Dempwolf W, Warnecke A, Hadler C, Lenarz T, Menzel H, Reuter G. **Inhibition of fibroblast adhesion by covalently immobilized protein repellent polymer coatings studied by single cell force spectroscopy.** J Biomed Mater Res A. 2013 Apr 18. doi: 10.1002/jbm.a.34686. [Epub ahead of print]
 
