@@ -24,13 +24,13 @@ title: Publications
 
 * Reich U, Fadeeva E, Warnecke A, Paasche G, Mueller P, Chichkov B, Stöver T, Lenarz T, Reuter G. **[Directing neuronal cell growth on implant material surfaces by microstructuring.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.32656/abstract)** Journal of Biomedical Materials Research: Part B - Applied Biomaterials. 2012 May;100(4):940-947. 
 
-* Warnecke A, Scheper V, Buhr I, Wenzel GI, Wissel K, Paasche G, Berkingali N, Jørgensen JR, Lenarz T, Stöver T. **Artemin improves survival of spiral ganglion neurons in vivo and in vitro.** Neuroreport. 2010 May 12;21(7):517-21. 
+* Warnecke A, Scheper V, Buhr I, Wenzel GI, Wissel K, Paasche G, Berkingali N, Jørgensen JR, Lenarz T, Stöver T. **[Artemin improves survival of spiral ganglion neurons in vivo and in vitro.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.32656/abstract)** Neuroreport. 2010 May 12;21(7):517-21. 
 
-* Wenzel G, Warnecke A, Stöver T, Lenarz T. **Effects of extracochlear gacyclidine perfusion on tinnitus in humans: a case series.** Eur Arch Otorhinolaryngol. 2010 May;267(5):691-699. 
+* Wenzel G, Warnecke A, Stöver T, Lenarz T. **[Effects of extracochlear gacyclidine perfusion on tinnitus in humans: a case series.](http://link.springer.com/article/10.1007%2Fs00405-009-1126-1)** Eur Arch Otorhinolaryngol. 2010 May;267(5):691-699. 
 
-* Kramer F, Stöver T, Warnecke A, Diensthuber M, Lenarz T, Wissel K. **BDNF mRNA expression is significantly upregulated in vestibular schwannomas and correlates with proliferative activity.** J Neurooncol. 2010 May;98(1):31-39.
+* Kramer F, Stöver T, Warnecke A, Diensthuber M, Lenarz T, Wissel K. **[BDNF mRNA expression is significantly upregulated in vestibular schwannomas and correlates with proliferative activity.](http://link.springer.com/article/10.1007%2Fs11060-009-0063-6)** J Neurooncol. 2010 May;98(1):31-39.
 
-* Warnecke A, Averbeck T, Soudah B, Wenzel GI, Lenarz T, Stöver T. **Contact endoscopy for the evaluation of the pharyngeal and laryngeal mucosa.** Laryngoscope. 2010 Feb;120(2):253-258. 
+* Warnecke A, Averbeck T, Soudah B, Wenzel GI, Lenarz T, Stöver T. **[Contact endoscopy for the evaluation of the pharyngeal and laryngeal mucosa.](http://onlinelibrary.wiley.com/doi/10.1002/lary.20732/abstract)** Laryngoscope. 2010 Feb;120(2):253-258. 
 
 * Scheper V, Paasche G, Miller JM, Warnecke A, Berkingali N, Lenarz T, Stöver T. **Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs.** J Neurosci Res. 2009 May 1;87(6):1389-1399. 
 
