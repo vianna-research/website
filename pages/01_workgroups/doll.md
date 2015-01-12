@@ -2,10 +2,7 @@ title: Doll Lab - Biomaterial Engineering
 
 ![Logo BioMaterial Engineering](BME.jpg)
 
-##AG Doll - BioMaterial Engineering
-
-
-**BILD zur Forschung**
+<!--Bild zur Forschung-->
 
 The research group BioMaterial Engineering works towards development and production techniques for new electrode concepts for active implants in the head region. Concepts and materials from nanotechnology and microelectronic, especially polymers, polymer composites and polymer semi conductors, are used. Mechanoactive, individualised and biochemosensoric implants are realised.
 
