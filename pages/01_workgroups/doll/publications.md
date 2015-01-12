@@ -1,6 +1,6 @@
 title: Publications
 
-#Publications
+
 
 2014
 ---
