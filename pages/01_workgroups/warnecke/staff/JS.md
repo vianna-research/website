@@ -1,7 +1,7 @@
 title: Pooyan Aliuos
 
  
-**Dipl.-Ing. PhD Pooyan Aliuos**
+**M.Sc. Biol. Jennifer Schulze**
 
 
 
@@ -10,12 +10,12 @@ title: Pooyan Aliuos
 
 **Contact:**
 
-	Pooyan Aliuos
+	Jennifer Schulze
 	Medizinische Hochschule Hannover
 	Klinik für Hals-Nasen-Ohrenheilkunde
 	Carl-Neuberg-Str. 1
 	30625 Hannover
-	Aliuos.Pooyan@mh-hannover.de
+	Schulze.Jennifer.HNO@mh-hannover.de
 
 
 ### Publications
