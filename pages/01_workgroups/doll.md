@@ -1,6 +1,6 @@
 title: Doll Lab - Biomaterial Engineering
 
-![Logo BioMaterial Engineering](BME.tif)
+![Logo BioMaterial Engineering](BME.png)
 
 <!--Bild zur Forschung-->
 
