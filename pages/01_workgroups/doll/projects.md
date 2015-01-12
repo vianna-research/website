@@ -10,7 +10,7 @@ Publications regarding these projects can be found [here](Publications.html)
 
 ##Ongoing Projects
 
-* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprgramm Forschung und Entwicklung, N-Bank)
+* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank)
 Project Partner is [Black Rock Microsystems Europe](http://www.blackrockmicro.com/index.aspx)
 
 * **Flexible, selfbending multielectrode shafts** ([Hearing4All](http://hearing4all.eu/EN/))
