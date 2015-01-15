@@ -2,14 +2,15 @@ from __future__ import unicode_literals
 
 AUTHOR = 'The VIANNA research team'
 SITENAME = 'VIANNA'
-SITEURL = ''
+SITEURL = 'http://vianna.de'
 CC_LICENSE = 'CC-BY'
 AVATAR = 'images/vianna_globe.png'
 ABOUT_ME = " "
 
 LINKS = [['Impressum', "/pages/impressum.html"],
          ['MHH Homepage', "http://mh-hannover.de"],
-         ['NIFE', "http://nife-hannover.de"]]
+         ['NIFE', "http://nife-hannover.de"],
+         ['Hearing4all excellence cluster', "http://hearing4all.eu"]]
 
 TIMEZONE = 'Europe/Berlin'
 
@@ -77,8 +78,11 @@ FAVICON = "images/favicon.png"  # small icon, shown in adress bar of browsers
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['hierarchy']
 
-MD_EXTENSIONS = ['extra', 'sane_lists', 'nl2br', 'attr_list', 'toc',
-                 'sane_lists', 'fenced_code', 'smarty']
+MD_EXTENSIONS = ['markdown.extensions.extra',
+                 'markdown.extensions.sane_lists',
+                 'markdown.extensions.toc',
+                 'markdown.extensions.headerid'
+                 'markdown.extensions.smarty']
 
 # Needed for inclusion of IPython notebooks
 # See <https://github.com/getpelican/pelican-plugins/tree/master/liquid_tags>
