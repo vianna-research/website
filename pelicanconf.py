@@ -81,7 +81,7 @@ PLUGINS = ['hierarchy']
 MD_EXTENSIONS = ['markdown.extensions.extra',
                  'markdown.extensions.sane_lists',
                  'markdown.extensions.toc',
-                 'markdown.extensions.headerid'
+                 'markdown.extensions.headerid',
                  'markdown.extensions.smarty']
 
 # Needed for inclusion of IPython notebooks
@@ -96,5 +96,5 @@ TRANSLATION_FEED_ATOM = None
 DISPLAY_BREADCRUMBS = True
 # WITH_FUTURE_DATES = False
 
-FILENAME_METADATA = r'(?P<title>((?!\[(en|de)\]).)+)(\[(?P<lang>(en|de))\])?'
+FILENAME_METADATA = r'(?P<title>((?!-(en|de)).)+)(-(?P<lang>(en|de)))?'
 STATIC_LANG_SAVE_AS = "{path}"
