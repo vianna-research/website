@@ -7,5 +7,5 @@ title: Jun. Prof. Dr. Simone Kurt
 <table>
 <tr><th>2013<td> Habilitation in Zoology/Neurobiology (Ulm) <tr>
 <tr><th>2006<td> Doctorate in Neurobiology (Magdeburg) <tr>
-<tr><th>2011<td> Diploma in Biology (Tübingen)  <tr>
+<tr><th>2001<td> Diploma in Biology (Tübingen)  <tr>
 </table>
