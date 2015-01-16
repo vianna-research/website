@@ -1,4 +1,4 @@
-title: Majdani Lab - Computer-assistierte Chirurgie (cas-h) und Elektrodenentwicklung
+title: AG Majdani - Computer-assistierte Chirurgie und Elektrodenentwicklung
 
 ![cash-logo](majdani/cas-h.jpg)
 

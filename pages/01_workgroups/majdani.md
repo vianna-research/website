@@ -1,4 +1,4 @@
-title: Computer-assisted surgery (cas-h) and electrode development
+title: Majdani Lab - Computer-assisted surgery and electrode development
 
 ![cash-logo](majdani/cas-h.jpg)
 
