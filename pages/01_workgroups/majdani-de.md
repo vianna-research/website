@@ -1,6 +1,6 @@
 title: AG Majdani - Computer-assistierte Chirurgie und Elektrodenentwicklung
 
-![cash-logo](majdani/cas-h.jpg)
+![cash-logo](majdani/cas-h.png)
 
 ## Forschung
 
