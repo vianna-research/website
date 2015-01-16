@@ -1,0 +1,13 @@
+
+# vianna.de/ags/... and vianna.de/workgroups/... are redirected to
+# the correct vianna.de/01_workgroups/...
+RedirectMatch 301 /workgroups/(.*)$ http://vianna.de/01_workgroups/$1
+RedirectMatch 301 /ags/(.*)$ http://vianna.de/01_workgroups/$1
+
+# requests to .md are transformed to .html
+RedirectMatch 301 (.*)\.md$ http://vianna.de$1.html
+
+# Redirect /any/dirname or /any/dirname/ to /any/dirname.html
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^(.+[^/])/?$ $1.html [R]
