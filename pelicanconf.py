@@ -49,7 +49,7 @@ OUTPUT_PATH = "../html"  # relative to the pelicanconf.py file
 
 
 # Always copy these to output, so they get uploaded.
-STATIC_PATHS = ['images', '__downloads', 'custom-css/VIANNA.css']
+STATIC_PATHS = ['images', '__downloads', 'custom-css/VIANNA.css', '.htaccess']
 
 # The dir to process input files (relative to pelicanconf.py)
 PATH = '.'
