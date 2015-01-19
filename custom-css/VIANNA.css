@@ -132,7 +132,8 @@ h6,
     display: inline-block;
 }
 
-..navbar-brand {
+.navbar-default .navbar-brand {
+    /* VIANNA Home link */
     color: #FFF;
 }
 
