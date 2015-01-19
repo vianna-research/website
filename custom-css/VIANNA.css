@@ -132,6 +132,10 @@ h6,
     display: inline-block;
 }
 
+..navbar-brand {
+    color: #FFF;
+}
+
 
 
 .image-bg-fluid-height {
