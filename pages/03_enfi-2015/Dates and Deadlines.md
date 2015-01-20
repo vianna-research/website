@@ -19,7 +19,7 @@ status: draft
 <td> Information about acceptance
 <tr>
 <tr>
-<th>May 10th
+<th>May 24th
 <td> Early Bird deadline
 <tr>
 <tr>
