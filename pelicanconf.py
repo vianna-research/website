@@ -10,7 +10,7 @@ ABOUT_ME = " "
 LINKS = [['Impressum', "/pages/impressum.html"],
          ['MHH Homepage', "http://mh-hannover.de"],
          ['NIFE', "http://nife-hannover.de"],
-         ['Hearing4all excellence cluster', "http://hearing4all.eu"]]
+         ['Hearing4all', "http://hearing4all.eu"]]
 
 TIMEZONE = 'Europe/Berlin'
 
@@ -69,7 +69,7 @@ EXTRA_PATH_METADATA = {
 CUSTOM_CSS = 'static/VIANNA.css'
 
 SITELOGO = 'mhh.png'
-SITELOGO_SIZE = '25 em'
+SITELOGO_SIZE = '75 em'
 
 FAVICON = "images/favicon.png"  # small icon, shown in adress bar of browsers
 
