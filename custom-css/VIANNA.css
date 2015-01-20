@@ -44,8 +44,9 @@ body {
     border-top: 15px solid #F03C14; /* The red bar at the very top */
 }
 
-.navbar-default .navbar-nav > li > a {
-    color: #FFF; /* White text in menu bar*/
+.navbar-default .navbar-nav > li > a,
+.navbar-brand {
+    color: #FFF !important; /* White text in menu bar*/
 }
 
 /* Entry in the dropdown under the mouse */
@@ -55,8 +56,9 @@ body {
 
 /* The main menu entry while hovered in the sub-menu */
 .dropdown:hover,
-.navbar-nav li:hover {
-    background-color: #B1AA9E;
+.navbar-nav li:hover,
+.navbar-brand:hover {
+    background-color: #B1AA9E !important;
     border: none;
 }
 
@@ -131,13 +133,6 @@ h6,
 .navbar-brand>img {
     display: inline-block;
 }
-
-.navbar-default .navbar-brand {
-    /* VIANNA Home link */
-    color: #FFF;
-}
-
-
 
 .image-bg-fluid-height {
     padding: 100px 0;
