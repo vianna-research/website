@@ -1,5 +1,6 @@
 title: Abstract submission
-status: hidden
+status: draft
+
 
 All contributions to the EnFI conference are double contributions:
 
