@@ -1,6 +1,7 @@
 title: Dates and Deadlines
 status: hidden
 
+Here you can find important dates and deadlines
 
 
 |------------|----------------------------------|
@@ -10,9 +11,3 @@ status: hidden
 |May 24th    |Early Bird deadline               |
 |July 5th    |Sunday Tutorials                  |
 |July 6th    |Conference Opening                |
-<!--(
-<tr>
-<th>April 19th
-<td> Deadline extension for abstract submission
-<tr>
-)-->
