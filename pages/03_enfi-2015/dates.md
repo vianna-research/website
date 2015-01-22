@@ -1,3 +1,4 @@
+title: Dates
 status: hidden
 
 Here you can find  dates and deadlines
