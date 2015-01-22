@@ -1,9 +1,9 @@
-title: Dates and Deadlines
+
 status: hidden
 
 Here you can find important dates and deadlines
 
-
+|            |                                  |
 |------------|----------------------------------|
 |January 26th|Opening of the conference website |
 |April 12th  |Abstract submission deadline      |
