@@ -1,5 +1,5 @@
 title:Scope
-status: hidden
+status: draft
 
 
 Modern medicine, engineering and information technology have one fact in common: They all rely on materials interfaces that provide an added functionality. This holds not only for ceramic hip joints but equally well for biochemical sensors for bioreactors or nanoelectronic processors to name just a few examples. However, each scientific discipline has its own sight on these interfaces, emphasizes one property more than others, and has not in the least its own scientific language and theoretical models. For young scientists who are working in these interdisciplinary, overlapping fields such as active prostheses, biochemical sensors or brain-computer interfaces this “Babylonic language confusion” is an extra burden to overcome.
