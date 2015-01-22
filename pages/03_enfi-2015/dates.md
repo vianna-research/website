@@ -1,1 +1,1 @@
-Here you can find important dates and deadlines
+Here you can find  dates and deadlines
