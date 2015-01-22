@@ -1,4 +1,4 @@
-
+title: Dates and deadlines
 status: hidden
 
 Here you can find important dates and deadlines
