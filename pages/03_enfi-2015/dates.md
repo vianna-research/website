@@ -9,11 +9,7 @@ status: hidden
 |May 4th     |Information about acceptance      |
 |May 24th    |Early Bird deadline               |
 |July 5th    |Sunday Tutorials                  |
-
-<tr>
-<th>July 6th
-<td>Conference Opening
-<tr>
+|July 6th    |Conference Opening                |
 <!--(
 <tr>
 <th>April 19th
