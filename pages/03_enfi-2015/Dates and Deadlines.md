@@ -1,5 +1,5 @@
 title: Dates and Deadlines
-status: draft
+status: hidden
 
 <table>
 <tr>
