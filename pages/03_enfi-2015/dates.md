@@ -1,40 +1,22 @@
 title: Dates and Deadlines
 status: hidden
 
-<table>
-<tr>
-<th>January 26th
-<td> Opening of the conference website
-<tr>
+
+
+|------------|----------------------------------|
+|January 26th|Opening of the conference website |
+|April 12th  |Abstract submission deadline      |
+|May 4th     |Information about acceptance      |
+|May 24th    |Early Bird deadline               |
+|July 5th    |Sunday Tutorials                  |
 
 <tr>
-<th>April 12th
-<td> Abstract submission deadline
+<th>July 6th
+<td>Conference Opening
 <tr>
-
 <!--(
 <tr>
 <th>April 19th
 <td> Deadline extension for abstract submission
 <tr>
 )-->
-
-<tr>
-<th>May 4th
-<td> Information about acceptance
-<tr>
-
-<tr>
-<th>May 24th
-<td> Early Bird deadline
-<tr>
-
-<tr>
-<th>July 5th
-<td> Sunday Tutorials
-<tr>
-
-<tr>
-<th>July 6th
-<td>Conference Opening
-<tr>
