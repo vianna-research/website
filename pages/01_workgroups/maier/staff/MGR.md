@@ -22,5 +22,5 @@ Martin Großöhmichen studied Mechanical Engineering (Dipl.-Ing.) at the Univers
 ***
 **Links:**
 
-[Profile on ResearchGate](http://www.researchgate.net/profile/Martin_Grossoehmichen "Profile on ResearchGate")
-[Profile on Linkedin](https://www.linkedin.com/in/martingrossoehmichen "Profile on LinkedIn")
+- [Profile on ResearchGate](http://www.researchgate.net/profile/Martin_Grossoehmichen "Profile on ResearchGate")
+- [Profile on Linkedin](https://www.linkedin.com/in/martingrossoehmichen "Profile on LinkedIn")
