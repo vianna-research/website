@@ -1,4 +1,4 @@
-title: Scientific advisory board
+title: Scientific Advisory Board
 status: hidden
 
 *  Prof. Dr. Maximilian Fleischer, Siemens AG Munich
