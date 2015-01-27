@@ -1,11 +1,39 @@
-title: Programm
+title: Preliminary Programm
 status: hidden
+<!--
+| July 5th           |  Sunday Tutorial                                |
+|------------|----------------------------------|
+|15:30 |Pre-Registration     |
+|16:00   |Start of Tutorials      |
+|19:00    |get together             |
+-->
 
+
+|       July 6th     |                                 |
+|------------|----------------------------------|
+|8:00  |Registration      |
+|9:00    |Conference Opening     |
+|9:30 - 12:15   |Session A             |
+|12:15-13:00    |Lunch            |
+|13:00-15:45    |Session B incl. coffee break              |
+|15:45-18:30  |Session C             |
+|20:00   |Conference Dinner           |
+
+
+|       July 7th     |                                 |
+|------------|----------------------------------|
+|9:00-11:45  |Session D     |
+|11:45-12:30    |Lunch   |
+|12:30-15:15   |Session E incl. coffee break            |
+|15:15-15:30    |Farewell and Best Poster Award            |
+ |15:30        |optional Vianna Lab Tour
+
+<!--
 
 Nebeneinander Ausklappen
 
 <script type="text/javascript">
-<!--
+
  function toggle_visibility(id) {
  var e = document.getElementById(id);
  if(e.style.display == 'block')
@@ -13,17 +41,19 @@ Nebeneinander Ausklappen
  else
  e.style.display = 'block';
  }
-//-->
+//
 </script>
 
 <a href="#" onclick="toggle_visibility('foo');">Click here to toggle visibility of element #foo</a>
 <div id="foo">This is foo</div>
 
+
+
 #July 5th
 ----
-**15:30:** Pre-Registration
-**16:00-17:00:** Tutorial 1
-**17:00-18:00:** Tutorial 2
+**15:30:** Pre-Registration   
+**16:00-17:00:** Tutorial 1   
+**17:00-18:00:** Tutorial 2  
 
 **19:00- open end:** Get together in [Beer garden](/RouteDescription/)
 **19:00:** Committee meeting
@@ -32,10 +62,12 @@ Nebeneinander Ausklappen
 
 # July 6th
 ---
-**8:00:** Registration and welcome coffee
-**9:00:** Opening of the conference
-**9:30-12:15:** Session A: Title
-**9:30-10:15:** Tutorial A [Speakers Name](/TutorialSpeakers/)
+**8:00:** Registration and welcome coffee   
+**9:00:** Opening of the conference      
+**9:30-12:15:** Session A   
+**9:30-10:15:** Tutorial A 
+
+ [Speakers Name](/TutorialSpeakers/)
 
 <a href="#" onclick="toggle_visibility('foo');">**10:15-11:15:** Short presentations: session A </a>
 
@@ -207,3 +239,4 @@ ausklappen Ende
 
 
 [Download](/EnFI/conferenceprogramm.pdf) Conference Programm
+-->
