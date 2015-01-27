@@ -1,4 +1,4 @@
-title: Hotel suggestions
+
 status: hidden
 
 Single and double rooms have been reserved in the Ibis Hotel Medical Park and the GHotel.
