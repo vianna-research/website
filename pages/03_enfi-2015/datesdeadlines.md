@@ -1,8 +1,6 @@
 title: Dates and deadlines
 
 
-Here you can find important dates and deadlines
-
 |            |                                  |
 |------------|----------------------------------|
 |January 26th|Opening of the conference website |
