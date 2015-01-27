@@ -26,7 +26,7 @@ status: hidden
 |11:45-12:30    |Lunch   |
 |12:30-15:15   |Session E incl. coffee break            |
 |15:15-15:30    |Farewell and Best Poster Award            |
- |15:30        |optional Vianna Lab Tour
+ |15:30        |optional Vianna Lab Tour|
 
 <!--
 
