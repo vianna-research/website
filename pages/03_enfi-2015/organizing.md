@@ -1,7 +1,7 @@
 title: Organizing Committee
 status: hidden
 
-For questions about the Enfi 2015 in Hannover please contact [Bettina Goede](03_enfi-2015/contact.html)
+For questions about the Enfi 2015 in Hannover please contact [Bettina Goede](03_enfi-2015/contact.html).
 
 
 * Peter Behrens, Leibniz University Hannover
