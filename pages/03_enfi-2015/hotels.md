@@ -20,7 +20,6 @@ Mail: H1632@accor.com
 [www.ibishotel.com](www.ibishotel.com)
 [www.accorhotels.com](www.accorhotels.com)
 
-Dauer Fußweg zum Veranstaltungsort
 
 
 
