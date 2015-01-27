@@ -14,6 +14,7 @@ For questions about the Enfi 2015 in Hannover please contact [Bettina Goede](03_
     gmm(at)vde.com
 * Michael J. Schöning, Aachen University of Applied Sciences
     schoening(at)fh-aachen.de
+* Lutz Rissing, Leibniz University Hannover
 * Patrick Wagner, Hasselt University
     patrick.wagner(at)uhasselt.be
 * Torsten Wagner, Aachen University of Applied Sciences
