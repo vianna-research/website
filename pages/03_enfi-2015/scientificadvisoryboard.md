@@ -1,5 +1,5 @@
 title: Scientific advisory board
-status: draft
+status: hidden
 
 *  Prof. Dr. Maximilian Fleischer, Siemens AG Munich
 *  Prof. Dr. Achim Walter Hassel, Johannes Kepler University Linz
