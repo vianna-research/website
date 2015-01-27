@@ -11,9 +11,9 @@ status: hidden
 
 |       July 6th     |                                 |
 |------------|----------------------------------|
-| 8:00  |Registration      |
-| 9:00    |Conference Opening     |
-|9:30  - 12:15   |Session A             |
+|08:00 - 9:00 |Registration      |
+|09:00 - 09:30    |Conference Opening     |
+|09:30 - 12:15   |Session A             |
 |12:15 - 13:00    |Lunch            |
 |13:00 - 15:45    |Session B incl. coffee break              |
 |15:45 - 18:30  |Session C             |
@@ -22,7 +22,7 @@ status: hidden
 
 |       July 7th     |                                 |
 |------------|----------------------------------|
-| 9:00  - 11:45  |Session D     |
+|09:00 - 11:45  |Session D     |
 |11:45 - 12:30    |Lunch   |
 |12:30 - 15:15   |Session E incl. coffee break            |
 |15:15 - 15:30    |Farewell and Best Poster Award            |
