@@ -1,12 +1,12 @@
 title: Preliminary Programm
 status: hidden
-<!--
+
 | July 5th           |  Sunday Tutorial                                |
 |------------|----------------------------------|
 |15:30 |Pre-Registration     |
-|16:00   |Start of Tutorials      |
-|19:00    |get together             |
--->
+|16:00   |Start of Student Courses      |
+|19:00    |Get Together             |
+
 
 
 |       July 6th     |                                 |
