@@ -1,12 +1,11 @@
 title: Abstract submission
-status: draft
 
 All contributions to the EnFI conference are double contributions:
 
-1. A brief, oral presentation of maximum 3 minutes with not more than four to five PowerPoint slides.
-These brief presentations serve as appetizers for starting in-depth discussions during the poster market. Please bring your presentation on a memory stick: we will collect all presentations on a ‘presentation computer’ during the breaks and before the beginning of each session.
+1. A brief, oral presentation of **maximum** 3 minutes with not more than four to five PowerPoint slides.
+These brief presentations serve as appetizers for starting in-depth discussions during the poster sessions. Please bring your presentation on a memory stick: we will collect all presentations on a ‘presentation computer’ during the breaks and before the beginning of each session.
 
-2. A poster presentation following immediately after each of the four topical sessions. All posters can be stalled out during both days of the EnFI conference and adhesive material will be provided. The recommended poster format is A0 in upright orientation. Other formats are possible but the width must not exceed 118 cm.
+2. A poster presentation following immediately after each of the four topical sessions. All posters can be stalled on the presentation day and adhesive material will be provided. The recommended poster format is A0 in upright orientation. Other formats are possible but the width must not exceed 118 cm.
 
 The three best contributions will be honoured with a Best Paper Award. The winners will be identified by an independent jury, taking into account the quality of the oral- and the poster presentation including a scientific discussion. Postdoctoral researchers and former laureates are not eligible for winning the Best Paper Award.
 
