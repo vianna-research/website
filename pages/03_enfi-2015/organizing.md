@@ -1,5 +1,5 @@
-title: Organizing Committee
-status: hidden
+title: Local Organizing Committee
+
 
 For questions about the Enfi 2015 in Hannover please contact [Bettina Goede](03_enfi-2015/contact.html).
 
