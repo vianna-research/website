@@ -1,5 +1,5 @@
 title: Preliminary Programm
-status: hidden
+
 
 | July 5th           |  Student Course                               |
 |------------|----------------------------------|
