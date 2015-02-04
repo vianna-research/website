@@ -3,8 +3,8 @@ status: hidden
 
 | July 5th           |  Student Course                               |
 |------------|----------------------------------|
-|15:30 |Pre-Registration     |
-|16:00   |Start of Student Courses      |
+|15:00 |Pre-Registration     |
+|15:30 - 17:30   |Parallel Student Courses      |
 |19:00    |Get Together             |
 
 
