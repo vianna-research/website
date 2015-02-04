@@ -1,5 +1,5 @@
 title: Preliminary Programm
-status: hidden
+
 
 | July 5th           |  Student Course                               |
 |------------|----------------------------------|
@@ -12,18 +12,18 @@ status: hidden
 |       July 6th     |                                 |
 |------------|----------------------------------|
 |08:00 - 9:00 |Registration      |
-|09:00 - 09:30    |Conference Opening     |
-|09:30 - 12:15   |Session A             |
-|12:15 - 13:00    |Lunch            |
-|13:00 - 15:45    |Session B incl. coffee break              |
-|15:45 - 18:30  |Session C             |
+|09:00 - 09:15    |Conference Opening     |
+|09:15 - 12:00   |Session A             |
+|11:45 - 12:45    |Lunch            |
+|12:45 - 15:30    |Session B incl. coffee break              |
+|15:30 - 18:00  |Session C             |
 |20:00   |Conference Dinner           |
 
 
 |       July 7th     |                                 |
 |------------|----------------------------------|
 |09:00 - 11:45  |Session D     |
-|11:45 - 12:30    |Lunch   |
+|11:30 - 12:30    |Lunch   |
 |12:30 - 15:15   |Session E incl. coffee break            |
 |15:15 - 15:30    |Farewell and Best Poster Award            |
 |15:30        |optional Vianna Lab Tour|
