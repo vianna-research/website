@@ -14,4 +14,3 @@ For questions about the Enfi 2015 in Hannover please contact [Bettina Goede](03_
 * Prof. Stiesch, Hannover Medical School, [Clinic for Dental Prosthetics](http://www.mh-hannover.de/index.php?id=270&L=1)
 * Prof. Wagner, Leuven University, [ZMB](http://fys.kuleuven.be/zmb)
 * Prof. Wagner, Aachen University of Applied Sciences, [INB](http://www.fh-aachen.de/forschung/inb/?no_cache=1)
-<!--* Prof. Rissing, Leibniz University Hannover, [IMPT](http://www.impt.uni-hannover.de/)-->
