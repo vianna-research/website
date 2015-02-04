@@ -64,8 +64,8 @@ Nebeneinander Ausklappen
 ---
 **8:00:** Registration and welcome coffee   
 **9:00:** Opening of the conference      
-**9:30-12:15:** Session A   
-**9:30-10:15:** Tutorial A 
+**9:15-12:00:** Session A   
+**9:15-10:00:** Tutorial A 
 
  [Speakers Name](/TutorialSpeakers/)
 
@@ -73,97 +73,99 @@ Nebeneinander Ausklappen
 
 <div id="foo" markdown="1">
 
-**10:15 - 10:18 | A.1 |** Name: "Titel"
-**10:18 - 10:21 | A.2 |** Name: "Titel"
-**10:21 - 10:24 | A.3 |** Name: "Titel"
-**10:24 - 10:27 | A.4 |** Name: "Titel"
-**10:27 - 10:30 | A.5 |** Name: "Titel"
-**10:30 - 10:33 | A.6 |** Name: "Titel"
-**10:33 - 10:36 | A.7 |** Name: "Titel"
-**10:36 - 10:39 | A.8 |** Name: "Titel"
-**10:39 - 10:42 | A.9 |** Name: "Titel"
-**10:42 - 10:45 | A.10 |** Name: "Titel"
-**10:45 - 10:48 | A.11 |** Name: "Titel"
-**10:48 - 10:51 | A.12 |** Name: "Titel"
-**10:51 - 10:54 | A.13 |** Name: "Titel"
-**10:54 - 10:57 | A.14 |** Name: "Titel"
-**10:57 - 11:00 | A.15 |** Name: "Titel"
-**11:00 - 11:03 | A.16 |** Name: "Titel"
-**11:03 - 11:06 | A.17 |** Name: "Titel"
-**11:06 - 11:09 | A.18 |** Name: "Titel"
-**11:09 - 11:12 | A.19 |** Name: "Titel"
-**11:12 - 11:15 | A.20 |** Name: "Titel"
+**10:00 - 10:03 | A.1 |** Name: "Titel"
+**10:03 - 10:06 | A.2 |** Name: "Titel"
+**10:06 - 10:09 | A.3 |** Name: "Titel"
+**10:09 - 10:12 | A.4 |** Name: "Titel"
+**10:12 - 10:15 | A.5 |** Name: "Titel"
+**10:15 - 10:18 | A.6 |** Name: "Titel"
+**10:18 - 10:21 | A.7 |** Name: "Titel"
+**10:21 - 10:24 | A.8 |** Name: "Titel"
+**10:24 - 10:27 | A.9 |** Name: "Titel"
+**10:27 - 10:30 | A.10 |** Name: "Titel"
+**10:30 - 10:33 | A.11 |** Name: "Titel"
+**10:33 - 10:36 | A.12 |** Name: "Titel"
+**10:36 - 10:39 | A.13 |** Name: "Titel"
+**10:39 - 10:42 | A.14 |** Name: "Titel"
+**10:42 - 10:45 | A.15 |** Name: "Titel"
+**10:45 - 10:48 | A.16 |** Name: "Titel"
+**10:48 - 10:51 | A.17 |** Name: "Titel"
+**10:51 - 10:54 | A.18 |** Name: "Titel"
+**10:54 - 10:57 | A.19 |** Name: "Titel"
+**10:57 - 11:00 | A.20 |** Name: "Titel"
+
 
 </div>
 
 ausklappen Ende
 
-**11:15-12:15:** Poster Session and Coffee break
+**11:00-12:00:** Poster Session and Coffee break
 
-**12:15-13:00** Lunch
+**11:45-12:45** Lunch
 
-**13:00-15:45** Session B: Title
-**13:00-13:45:** Tutorial B: [Speakers Name](/TutorialSpeakers/)
+**12:45-15:30** Session B: Title
+**12:45-13:30:** Tutorial B: [Speakers Name](/TutorialSpeakers/)
 
-**13:45-14:45:** Short Presentation: Session B
+**13:30-14:30:** Short Presentation: Session B
 
 ausklappen
+**13:30 - 13:33 | B.1 |** Name: "Titel"
+**13:33 - 13:36 | B.2 |** Name: "Titel"
+**13:36 - 13:39 | B.3 |** Name: "Titel"
+**13:39 - 13:42 | B.4 |** Name: "Titel"
+**13:42 - 13:45 | B.5 |** Name: "Titel"
+**13:45 - 13:48 | B.6 |** Name: "Titel"
+**13:48 - 13:51 | B.7 |** Name: "Titel"
+**13:51 - 13:54 | B.8 |** Name: "Titel"
+**13:54 - 13:57 | B.9 |** Name: "Titel"
+**13:57 - 14:00 | B.10 |** Name: "Titel"
+**14:00 - 14:03 | B.11 |** Name: "Titel"
+**14:03 - 14:06 | B.12 |** Name: "Titel"
+**14:06 - 14:09 | B.13 |** Name: "Titel"
+**14:09 - 14:12 | B.14 |** Name: "Titel"
+**14:12 - 14:15 | B.15 |** Name: "Titel"
+**14:15 - 14:18 | B.16 |** Name: "Titel"
+**14:18 - 14:21 | B.17 |** Name: "Titel"
+**14:21 - 14:24 | B.18 |** Name: "Titel"
+**14:24 - 14:27 | B.19 |** Name: "Titel"
+**14:27 - 14:30 | B.20 |** Name: "Titel"
 
-**13:45 - 13:48 | B.1 |** Name: "Titel"
-**13:48 - 13:51 | B.2 |** Name: "Titel"
-**13:51 - 13:54 | B.3 |** Name: "Titel"
-**13:54 - 13:57 | B.4 |** Name: "Titel"
-**13:57 - 14:00 | B.5 |** Name: "Titel"
-**14:00 - 14:03 | B.6 |** Name: "Titel"
-**14:03 - 14:06 | B.7 |** Name: "Titel"
-**14:06 - 14:09 | B.8 |** Name: "Titel"
-**14:09 - 14:12 | B.9 |** Name: "Titel"
-**14:12 - 14:15 | B.10 |** Name: "Titel"
-**14:15 - 14:18 | B.11 |** Name: "Titel"
-**14:18 - 14:21 | B.12 |** Name: "Titel"
-**14:21 - 14:24 | B.13 |** Name: "Titel"
-**14:24 - 14:27 | B.14 |** Name: "Titel"
-**14:27 - 14:30 | B.15 |** Name: "Titel"
-**14:30 - 14:33 | B.16 |** Name: "Titel"
-**14:33 - 14:36 | B.17 |** Name: "Titel"
-**14:36 - 14:39 | B.18 |** Name: "Titel"
-**14:39 - 14:42 | B.19 |** Name: "Titel"
-**14:42 - 14:45 | B.20 |** Name: "Titel"
 
 ausklappen Ende
 
-**14:45-15:45:** Poster and coffee break
+**14:30-15:30:** Poster and coffee break
 
-**15:45-18:30** Session C: Title
-**15:45-16:30:** Tutorial C: [Speakers Name](/TutorialSpeakers/)
-**16:30-17:30:** Short Presentations: Session C
+**15:30-18:00** Session C: Title
+**15:30-16:15:** Tutorial C: [Speakers Name](/TutorialSpeakers/)
+**16:15-17:15:** Short Presentations: Session C
 
 ausklappen
 
-**16:30 - 16:33 | C.1 |** Name: "Titel"
-**16:33 - 16:36 | C.2 |** Name: "Titel"
-**16:36 - 16:39 | C.3 |** Name: "Titel"
-**16:39 - 16:42 | C.4 |** Name: "Titel"
-**16:42 - 16:45 | C.5 |** Name: "Titel"
-**16:45 - 16:48 | C.6 |** Name: "Titel"
-**16:48 - 16:51 | C.7 |** Name: "Titel"
-**16:51 - 16:54 | C.8 |** Name: "Titel"
-**16:54 - 16:57 | C.9 |** Name: "Titel"
-**16:57 - 17:00 | C.10 |** Name: "Titel"
-**17:00 - 17:03 | C.11 |** Name: "Titel"
-**17:03 - 17:06 | C.12 |** Name: "Titel"
-**17:06 - 17:09 | C.13 |** Name: "Titel"
-**17:09 - 17:12 | C.14 |** Name: "Titel"
-**17:12 - 17:15 | C.15 |** Name: "Titel"
-**17:15 - 17:18 | C.16 |** Name: "Titel"
-**17:18 - 17:21 | C.17 |** Name: "Titel"
-**17:21 - 17:24 | C.18 |** Name: "Titel"
-**17:24 - 17:27 | C.19 |** Name: "Titel"
-**17:27 - 17:30 | C.20 |** Name: "Titel"
+**16:15 - 16:18 | C.1 |** Name: "Titel"
+**16:18 - 16:21 | C.2 |** Name: "Titel"
+**16:21 - 16:24 | C.3 |** Name: "Titel"
+**16:24 - 16:27 | C.4 |** Name: "Titel"
+**16:27 - 16:30 | C.5 |** Name: "Titel"
+**16:30 - 16:33 | C.6 |** Name: "Titel"
+**16:33 - 16:36 | C.7 |** Name: "Titel"
+**16:36 - 16:39 | C.8 |** Name: "Titel"
+**16:39 - 16:42 | C.9 |** Name: "Titel"
+**16:42 - 16:45 | C.10 |** Name: "Titel"
+**16:45 - 16:48 | C.11 |** Name: "Titel"
+**16:48 - 16:51 | C.12 |** Name: "Titel"
+**16:51 - 16:54 | C.13 |** Name: "Titel"
+**16:54 - 16:57 | C.14 |** Name: "Titel"
+**16:57 - 17:00 | C.15 |** Name: "Titel"
+**17:00 - 17:03 | C.16 |** Name: "Titel"
+**17:03 - 17:06 | C.17 |** Name: "Titel"
+**17:06 - 17:09 | C.18 |** Name: "Titel"
+**17:09 - 17:12 | C.19 |** Name: "Titel"
+**17:12 - 17:15 | C.20 |** Name: "Titel"
+
 
 ausklappen Ende
 
-**17:30-18:30:** Poster Session
+**17:15-18:00:** Poster Session
 **20:00:** [Conference Dinner](/RouteDescription/)
 
 # July 7th
@@ -200,7 +202,7 @@ ausklappen Ende
 
 **10:45-11:45:** Poster Session D and Coffee break
 
-**11:45-12:30** Lunch
+**11:30-12:30** Lunch
 
 **12:30-15:30** Session E: Title
 **12:30-13:15:** Tutorial E: [Speakers Name](/TutorialSpeakers/)
