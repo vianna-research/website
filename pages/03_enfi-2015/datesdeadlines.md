@@ -13,10 +13,13 @@ title: Dates and Deadlines
 
 Registration fees:
 
-```
- Before May 24th, 2015: 190€ incl. Dinner   
- After May 24th, 2015: 230€ incl. Dinner   
- Additional Fee for Sunday Tutorial: 20€   
- Sponsors and tutorial speakers: free  
+|            |                                  |
+|------------|----------------------------------|
+|Before May 24th |190€ incl. Dinner      |
+|After May 24th   |230€ incl. Dinner      |
+|Sunday Tutorial   |20€              |
+|Sponsors and tutorial speakers   |free                  |
 
-```
+
+
+
