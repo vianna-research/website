@@ -61,10 +61,7 @@ Please enter your invoice address:
  <label for="Telefon">Phone* :</label>
  <input type="text" size="30" maxlength="40" value="0511 532 7231" id="absender" name="absender" />
 </div>
-<div>
- <label for="Fax">Fax:</label>
- <input type="text" id="absender" name="absender" />
-</div>
+
 </div>
 <tr>
  <td align="right" valign="top"> Participation in Conference Dinner:</td>
@@ -89,23 +86,6 @@ Please enter your invoice address:
 </tr>
 </div>
 
-</div>
-<tr>
- <td align="right" valign="top">Snack for the long drive home on tuesday:</td>
- <td>
- <select name="Snack" class="Auswahl" size="1">
- <option value="Nein">No</option>
- <option value="Veget.">Vegetarian</option>
- <option value="Meat">Meat</option>
- </select>
- </td>
-</tr>
-</div>
-
-<div>
- <label for="nachricht">Notes:</label>
- <textarea id="nachricht" name="nachricht" cols="20" rows="5"></textarea>
-</div>
 <div>
  <input type="submit" value="submit" />
 </div>
@@ -116,6 +96,7 @@ Please enter your invoice address:
 
 Payment to:
 
+```
  Bank: Deutsche Bank Hannover
  Account holder: Förderverein der HNO-Klinik
  BLZ: 250 700 24
@@ -124,9 +105,11 @@ Payment to:
  SWIFT-BIC: DEUT DE DBHAN
  Mention: EnFI-2015 - Lastname, Firstname - Affiliation
 
+```
+
 Registration fees:
 
- Before May 10th, 2015: 190€ incl. Dinner
- After May 10th, 2015: 230€ incl. Dinner
- Additional Fee for Sunday Tutorial: 20€
- Sponsors and tutorial speakers: free
+ Before May 10th, 2015: 190€ incl. Dinner   
+ After May 10th, 2015: 230€ incl. Dinner   
+ Additional Fee for Sunday Tutorial: 20€   
+ Sponsors and tutorial speakers: free  
