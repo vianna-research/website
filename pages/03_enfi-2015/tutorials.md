@@ -1,6 +1,12 @@
 title: Tutorial speakers
 status: draft
 
+##Student Courses
+#[Prof. Dr. phil. nat. Hannes Maier](http://vianna.de/01_workgroups/maier/staff/hma.html)
+
+#[Jun. Prof. Dr. Simone Kurt](http://vianna.de/01_workgroups/kurt/pagekurt.html)
+
+
 #Session A
 **Title**
 BILD|**Name**
