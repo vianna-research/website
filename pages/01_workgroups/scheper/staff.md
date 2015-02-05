@@ -12,7 +12,7 @@ Bittroff, Johanna, WIHI | bittroff.johanna(at)mh-hannover.de
 
 Braun, Joy, student Biomedical engeneering
 
-Dragicevic, Olivera, study nurse |  dragicevic.olivera@mh-hannover.de
+Dragicevic, Olivera, study nurse |  dragicevic.olivera(at)mh-hannover.de
 
 Janssen, Heike, Veterinarian | janssen.heike(at)mh-hannover.de
 
