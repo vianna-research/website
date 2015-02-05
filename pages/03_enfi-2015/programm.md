@@ -1,5 +1,7 @@
 title: Preliminary Programm
 
+For the first time this year, two parallel 2h student courses are available for all EnFI participants arriving on sunday for additional 20 € in conference fees.
+  
 
 | July 5th           |  Student Course                               |
 |------------|----------------------------------|
