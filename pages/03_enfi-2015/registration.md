@@ -103,13 +103,16 @@ Payment to:
  Kto: 857 071 500
  IBAN: DE22 250 700 240 8570715 01
  SWIFT-BIC: DEUT DE DBHAN
- Mention: EnFI-2015 - Lastname, Firstname - Affiliation
+ Mention: EnFI-2015 - Lastname, Firstname - Registration Number
 
 ```
 
 Registration fees:
 
- Before May 10th, 2015: 190€ incl. Dinner   
- After May 10th, 2015: 230€ incl. Dinner   
+```
+ Before May 24th, 2015: 190€ incl. Dinner   
+ After May 24th, 2015: 230€ incl. Dinner   
  Additional Fee for Sunday Tutorial: 20€   
  Sponsors and tutorial speakers: free  
+
+```
