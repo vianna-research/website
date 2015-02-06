@@ -4,6 +4,9 @@
 RedirectMatch 301 /workgroups(.*)$ http://vianna.de/01_workgroups$1
 RedirectMatch 301 /ags/(.*)$ http://vianna.de/01_workgroups/$1
 
+# Make a clean url for ENFI 2015
+RedirectMatch 301 /enfi-2015(.*)$ http://vianna.de/03_enfi-2015$1
+
 # requests to .md are transformed to .html
 RedirectMatch 301 (.*)\.md$ http://vianna.de$1.html
 

@@ -1,7 +1,7 @@
 title: Local Organizing Committee
 
 
-For questions about the Enfi 2015 in Hannover please contact [Bettina Goede](03_enfi-2015/contact.html).
+For questions about the Enfi 2015 in Hannover please contact [Bettina Goede](contact.md).
 
 
 * Prof. Behrens, Leibniz University Hannover, [ACI](http://www.acb.uni-hannover.de/316.html)

@@ -9,6 +9,11 @@ These brief presentations serve as appetizers for starting in-depth discussions 
 
 The three best contributions will be honoured with a Best Paper Award. The winners will be identified by an independent jury, taking into account the quality of the oral- and the poster presentation including a scientific discussion. Postdoctoral researchers and former laureates are not eligible for winning the Best Paper Award.
 
-For presenting at EnFI-2014 it is compulsory to hand in the abstract in the standard layout  along the email address: **enfi-2015(at)mh-hannover.de** with the subject **[Abstract]Lastname,Firstname**. Please embed the figures in a printer friendly quality (about 300 dpi) in the document, but avoid abstracts files bigger than 2 MB.
+For presenting at EnFI-2015 it is compulsory to hand in the abstract in the standard layout along the email address: **enfi-2015(at)mh-hannover.de** with the subject **[Abstract]Lastname,Firstname**. Please embed the figures in a printer friendly quality (about 300 dpi) in the document, but avoid abstracts files bigger than 2 MB.
 
+
+###Download templates:
+
+ [PDF-Version](EnFI-2015_template.pdf)   
+ [Word-Template](EnFI-2015_template.doc)
 
