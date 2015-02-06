@@ -15,5 +15,5 @@ For presenting at EnFI-2014 it is compulsory to hand in the abstract in the stan
 Download templates:
 
  [PDF-Version](EnFI-2015_template.pdf)   
- [Word-Template](EnFI-2015_template.pdf)
+ [Word-Template](EnFI-2015_template.doc)
 
