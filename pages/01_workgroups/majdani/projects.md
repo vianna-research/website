@@ -1,8 +1,8 @@
-status: draft
+status:draft
 
-title: Projects
+title:Projects
 
-#Projects
+
 
 
 ##Hearing 4 All
@@ -10,7 +10,7 @@ title: Projects
 ##Robo-Jig
 
 ##Akva-Med
--   Projectpartner: Ilmenau University of Technology
+-   Project Partners: Ilmenau University of Technology
 -   Aims:
     Some sentences on what we're doing.
 -   Contact: Silke Hügl | Huegl.Silke@mh-hannover.de
