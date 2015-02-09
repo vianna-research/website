@@ -1,6 +1,5 @@
-
-
 title: Staff
+
 
 **Head of research group**
 
@@ -15,7 +14,7 @@ title: Staff
 **Research Team**
 
 ![Image Silke Hügl ](Silke.jpg) | M. Sc. Silke Hügl			|	Huegl.Silke(at)mh-hannover.de
-![Image Samuel John](Samuel.jpg) | Samuel John				|	John.Samuel(at)mh-hannover.de
-![Image Samuel John](Marcel.jpg) | Marcel Kluge				|	Kluge.Marcel(at)mh-hannover.de
-![Image Samuel John](Jakob.jpg) | Jakob Lexow				|	Lexow.Jakob(at)mh-hannover.de
-![Image Samuel John](Daniel.jpg) | Daniel Schurzig			|	Schurzig.Daniel(at)mh-hannover.de
+								| Samuel John				|	John.Samuel(at)mh-hannover.de
+![Image Marcel Kluge](Marcel.jpg) | Marcel Kluge				|	Kluge.Marcel(at)mh-hannover.de
+![Image Jakob Lexow](Jakob.jpg) | Jakob Lexow				|	Lexow.Jakob(at)mh-hannover.de
+![Image Daniel Schurzig](Daniel.jpg) | Daniel Schurzig			|	Schurzig.Daniel(at)mh-hannover.de

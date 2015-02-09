@@ -1,5 +1,6 @@
+status: draft
 
-title: Project / Bachelor / Maste / Diploma Thesis
+title: Project / Bachelor / Master / Diploma Thesis
 
 **Topics**
 
