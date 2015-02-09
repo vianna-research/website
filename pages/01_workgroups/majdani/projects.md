@@ -1,4 +1,4 @@
-status: draft
+status:draft
 
 title: Projects
 
