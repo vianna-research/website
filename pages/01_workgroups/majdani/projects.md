@@ -13,7 +13,8 @@ title:Projects
 -   Project Partners: Ilmenau University of Technology
 -   Aims:
     Some sentences on what we're doing.
--   Contact: Silke Hügl | Huegl.Silke@mh-hannover.de
+-   Contact: [Silke Hügl](01_workgroups/majdani/staff.html) | Huegl.Silke@mh-hannover.de
+
 
 ##Hexapod
 
