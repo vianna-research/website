@@ -1,6 +1,5 @@
-status: draft
-
 title: Staff
+status: draft
 
 **Head of research group**
 
