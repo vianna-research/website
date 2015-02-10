@@ -6,12 +6,12 @@ title: Staff
 |![Image Omid Majdani](staff/Omid.jpg) |  PD Dr. med. Omid Majdani |  Majdani.Omid(at)mh-hannover.de|
 
 
-|Lab  			|  | |
+|Lab  					|  | |
 |------------------|-----------------------|-----------------------|
 |![Image Thomas Rau](staff/Thomas.jpg) | Dr.-Ing Thomas S. Rau		|	Rau.Thomas(at)mh-hannover.de|	
 
 
-|Research Team |  | |
+|Research Team 			|  | |
 |------------------|-----------------------|-----------------------|
 |![Image Silke Hügl ](staff/Silke.jpg) | M. Sc. Silke Hügl		|	Huegl.Silke(at)mh-hannover.de|
 |![Image Samuel John](staff/Marcel.jpg)| Samuel John			|	John.Samuel(at)mh-hannover.de|
