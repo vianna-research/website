@@ -4,12 +4,14 @@ title: Silke Hügl
 |[Image Silke Hügl ](Silke.jpg)|Huegl.Silke(at)mh-hannover.de|
 
 
-|Specialisation / Focus		                          |
+|Specialisation / Focus	& current Projects	                          |
 |-----------------------------------------|
-|-   Development of Cochlear Implant Electrodes|
+|-   Project: Akva-Med|
+|-   Development of Cochlear Implant Electrodes| 
 |-   Finite Element Analysis of developed CIs|
 |-   navigated Insertion of Cochlear Implant Electrodes|
 |-   manual and automated Microgrinding|
+
 
 
 |Academic Education	       |                       |
