@@ -15,7 +15,7 @@ title: Silke Hügl
 
 
 
-|Academic Education	       |                       |
+|Academic Education|                       |
 |------------------|-----------------------|
 |2012|Master of Science, Biomedical Engineering (TU Ilmenau)|
 |2011|Bachelor of Science, Biomedical Engineering (TU Ilmenau)|
