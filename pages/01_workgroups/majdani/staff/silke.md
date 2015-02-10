@@ -1,6 +1,6 @@
 title: Silke Hügl
 
-|![Image Silke Hügl](Silke.jpg)|Huegl.Silke(at)mh-hannover.de|
+![Image Silke Hügl](Silke.jpg)	Huegl.Silke(at)mh-hannover.de
 
 
 |Specialisation / Focus	& current Projects|
