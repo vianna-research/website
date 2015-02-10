@@ -1,5 +1,9 @@
 title: Silke Hügl
 
+|Academic Education	       |                       |
+|------------------|-----------------------|
+|[Image Silke Hügl ](Silke.jpg)|Huegl.Silke(at)mh-hannover.de|
+
 
 |Specialisation / Focus		                          |
 |-----------------------------------------|
@@ -7,6 +11,7 @@ title: Silke Hügl
 |Finite Element Analysis of developed CIs|
 |navigated Insertion of Cochlear Implant Electrodes|
 |manual and automated Microgrinding|
+
 
 |Academic Education	       |                       |
 |------------------|-----------------------|
