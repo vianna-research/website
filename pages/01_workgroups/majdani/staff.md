@@ -1,12 +1,12 @@
 title: Staff
 
 
-|Head of Research Group   	|  | |
+|Head of Research Group |  | |
 |------------------|-----------------------|-----------------------|
 |![Image Omid Majdani](staff/Omid.jpg) |  PD Dr. med. Omid Majdani |  Majdani.Omid(at)mh-hannover.de|
 
 
-|Lab    	|  | |
+|Lab  			|  | |
 |------------------|-----------------------|-----------------------|
 |![Image Thomas Rau](staff/Thomas.jpg) | Dr.-Ing Thomas S. Rau		|	Rau.Thomas(at)mh-hannover.de|	
 
