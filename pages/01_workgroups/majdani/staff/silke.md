@@ -5,7 +5,7 @@ title: Silke Hügl
 
 |Specialisation / Focus	& current Projects|
 |-----------------------------------------|
-|-   Project: Akva-Med|
+|-   Project: Akva-Med - todo: Link zur Projektseite Akva-Med|
 |-   Development of Cochlear Implant Electrodes| 
 |-   Finite Element Analysis of developed CIs|
 |-   navigated Insertion of Cochlear Implant Electrodes|
