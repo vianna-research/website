@@ -1,20 +1,14 @@
-title: Staff
-status:draft
+title: Silke Hügl
 
-**Head of research group**
 
-![Image Omid Majdani](Omid.jpg) |  PD Dr. med. Omid Majdani |  Majdani.Omid(at)mh-hannover.de
+|Specialisation / Focus		                          |
+|-----------------------------------------|
+|Development of Cochlear Implant Electrodes|
+|Finite Element Analysis of developed CIs|
+|navigated Insertion of Cochlear Implant Electrodes|
+|manual and automated Microgrinding|
 
-----------------------------------------------------------------------------------------
-**Lab**
-
-![Image Thomas Rau](Thomas.jpg) | Dr.-Ing Thomas S. Rau		|	Rau.Thomas(at)mh-hannover.de	
-
----------------------------
-**Research Team**
-
-![Image Silke Hügl ](Silke.jpg) | M. Sc. Silke Hügl			|	Huegl.Silke(at)mh-hannover.de
-								| Samuel John				|	John.Samuel(at)mh-hannover.de
-![Image Marcel Kluge](Marcel.jpg) | Marcel Kluge				|	Kluge.Marcel(at)mh-hannover.de
-![Image Jakob Lexow](Jakob.jpg) | Jakob Lexow				|	Lexow.Jakob(at)mh-hannover.de
-![Image Daniel Schurzig](Daniel.jpg) | Daniel Schurzig			|	Schurzig.Daniel(at)mh-hannover.de
+|Academic Education	       |                       |
+|------------------|-----------------------|
+|2012|Master of Science, biomedical Engineering (TU Ilmenau)|
+|2011|Bachelor of Science, biomedical Engineering (TU Ilmenau)|
