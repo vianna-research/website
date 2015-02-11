@@ -1,4 +1,6 @@
-PreEnFI Student Courses 
+title: PreEnFI Student Courses 
+status: hidden
+
 
 In addition to the EnFI concept of the previous years, we now also present the Student Courses on Sunday, July 5th.  
 
