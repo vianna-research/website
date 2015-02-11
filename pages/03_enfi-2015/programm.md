@@ -16,6 +16,7 @@ For the first time this year, two parallel 2h student courses are available for 
 |08:00 - 9:00 |Registration      |
 |09:00 - 09:15    |Conference Opening     |
 |09:15 - 12:00   |Session A             |
+|  Tutorial Speaker |Prof. D. Ricci, IIT, Genova   |
 |11:45 - 12:45    |Lunch            |
 |12:45 - 15:30    |Session B incl. coffee break              |
 |15:30 - 18:00  |Session C             |
