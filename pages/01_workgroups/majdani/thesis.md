@@ -2,4 +2,4 @@ title: Project / Bachelor / Master / Diploma Thesis
 status: draft
 
 **Topics**
-!(thesis/test.pdf)	
+(thesis/test.pdf)	
