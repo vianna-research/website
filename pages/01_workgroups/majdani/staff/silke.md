@@ -1,5 +1,5 @@
 title: Silke Hügl
-status: draft
+
 
 ![Image Silke Hügl](Silke.jpg)
 
