@@ -30,7 +30,7 @@ title:Projects
 	
 	Leibniz Universität Hannover, [Institute of Mechatronic Systems](http://www.imes.uni-hannover.de/institut.html?&L=1 "Institute of Mechatronic Systems")
 	
-	[Laser Zentrum Hannover .V.] (http://www.lzh.de/en "LZH")
+	[Laser Zentrum Hannover e.V.](http://www.lzh.de/en "LZH")
 	
 	[Cochlear GmbH](http://www.cochlear.com "Cochlear GmbH")
 	
