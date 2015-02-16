@@ -1,4 +1,4 @@
-title: Project - Bachelor - Master Thesis
+title: Project-/ Bachelor-/ Master Thesis
 
 
 **Topics**
