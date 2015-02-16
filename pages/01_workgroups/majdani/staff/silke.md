@@ -8,8 +8,8 @@ title: M. Sc. Silke Hügl
 |-----------------------------------------|
 |-   Project: [Akva-Med](http://www.vianna.de/01_workgroups/majdani/projects.html "Akva-Med")|
 | |
-|-   Development of Cochlear Implant Electrodes| 
-|-   Finite Element Analysis of developed CIs|
+|-   Development of Cochlear Implant (CI) Electrodes| 
+|-   Finite Element Analysis of CIs|
 |-   Navigated Insertion of Cochlear Implant Electrodes|
 |-   Manual and automated Microgrinding|
 
