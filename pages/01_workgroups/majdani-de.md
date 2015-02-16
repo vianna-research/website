@@ -39,7 +39,7 @@ Weitere Informationen: <http://www.smart-ci.de/91.html>.
 
 
 
-## Publikationen
+## Publikationen:
 
 <http://www.smart-ci.de/3.html>
 
@@ -56,9 +56,10 @@ Oberarzt
     30625 Hannover
 
 Tel: +49 (0) 1761-532-7466
+
 Fax: +49 (0) 511-532-8876
 
-Email: <majdani.omidmh-hannover.de>
+Email: <majdani.omid@mh-hannover.de>
 
 ### Technische Leitung: Dipl.-Ing. Thomas S. Rau
 
@@ -69,6 +70,7 @@ Email: <majdani.omidmh-hannover.de>
     30625 Hannover
 
 Tel.: +49 (0) 511-532-3025
+
 Email: <rau.thomas@mh-hannover.de>
 
 
