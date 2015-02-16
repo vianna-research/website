@@ -28,13 +28,12 @@ Promising concepts can then be characterized in insertion studies on cochlear mo
 
 -   Development of active CI electrodes for atraumatic insertion in surgical techniques designed to preserve residual hearing
 
--   Finite-Elemente-Modellierung der CI-Elektrode und der mechanischen Wechselwirkungen mit dem Innenohr
+-   Finite-Element-Analysis of CI-electrodes and their mechanical interaction with the inner ear
+
+-   accurate imaging modality and 3D-modelling of the middle and inner ear using histological serial cross-section imaging (so called microgrinding)
 
 
--   Präzisionsbildgebung und 3D-Modellierung des Mittel- und Innenohres auf der Basis histologischer Schliffpräparation
-
-
-Weitere Informationen: <http://www.smart-ci.de/91.html>.
+additional information: <http://www.smart-ci.de/91.html>.
 
 
 
