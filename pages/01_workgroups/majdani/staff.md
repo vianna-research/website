@@ -13,7 +13,7 @@ title:Staff
 
 |Research Team 			|  | |
 |------------------|-----------------------|-----------------------|
-|![Image Silke Hügl ](staff/Silke.jpg) | (/staff/silke.html "M. Sc. Silke Hügl")	|	Huegl.Silke(at)mh-hannover.de|
+|![Image Silke Hügl ](staff/Silke.jpg) | (staff/silke.html "M. Sc. Silke Hügl")	|	Huegl.Silke(at)mh-hannover.de|
 |![Image Samuel John](staff/Samuel.jpg)| Samuel John			|	John.Samuel(at)mh-hannover.de|
 |![Image Marcel Kluge](staff/Marcel.jpg) | Marcel Kluge		|	Kluge.Marcel(at)mh-hannover.de|
 |![Image Jakob Lexow](staff/Jakob.jpg) | Jakob Lexow			|	Lexow.Jakob(at)mh-hannover.de|
