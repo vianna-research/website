@@ -10,8 +10,8 @@ title: Silke Hügl
 | |
 |-   Development of Cochlear Implant Electrodes| 
 |-   Finite Element Analysis of developed CIs|
-|-   navigated Insertion of Cochlear Implant Electrodes|
-|-   manual and automated Microgrinding|
+|-   Navigated Insertion of Cochlear Implant Electrodes|
+|-   Manual and automated Microgrinding|
 
 
 
