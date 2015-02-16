@@ -30,7 +30,7 @@ Promising concepts can then be characterized in insertion studies on cochlear mo
 
 -   Finite-Element-Analysis of CI-electrodes and their mechanical interaction with the inner ear
 
--   accurate imaging modality and 3D-modelling of the middle and inner ear using histological serial cross-section imaging (so called microgrinding)
+-   Accurate imaging modality and 3D-modelling of the middle and inner ear using histological serial cross-section imaging (so called microgrinding)
 
 
 additional information: <http://www.smart-ci.de/91.html>.
