@@ -1,4 +1,4 @@
-title: Silke Hügl
+title: M. Sc. Silke Hügl
 
 
 ![Image Silke Hügl](Silke.jpg)
