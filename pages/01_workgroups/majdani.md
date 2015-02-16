@@ -38,12 +38,12 @@ Weitere Informationen: <http://www.smart-ci.de/91.html>.
 
 
 
-## Publikationen
+## Publications:
 
 <http://www.smart-ci.de/3.html>
 
 
-## Kontakt:
+## Contact:
 
 ### Group head: PD Dr. med. Omid Majdani
 
@@ -54,9 +54,10 @@ Weitere Informationen: <http://www.smart-ci.de/91.html>.
     30625 Hannover
 
 phone: +49 1761-532-7466
+
 fax: +49 511-532-8876
 
-Email: <majdani.omidmh-hannover.de>
+Email: <majdani.omid@mh-hannover.de>
 
 ### Lab: Dipl.-Ing. Thomas S. Rau
 
@@ -66,7 +67,8 @@ Email: <majdani.omidmh-hannover.de>
     Feodor-Lynen-Str. 35
     30625 Hannover
 
-phone.: +49 511-532-3025
+phone: +49 511-532-3025
+
 Email: <rau.thomas@mh-hannover.de>
 
 
