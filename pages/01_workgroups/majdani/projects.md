@@ -19,6 +19,7 @@ title:Projects
     The Project adresses the research on compliant mechanisms in order to use them in medical implants and instruments. Especially 
 	cochlear implants are expected to benefit from such mechanisms, concerning new electrode carriers used for insertion with hearing 
 	preservation and perimodiolar position.
+	
 -   Contact: [Silke Hügl](www.vianna.de/01_workgroups/majdani/staff/silke.html) | Huegl.Silke@mh-hannover.de
 
 
