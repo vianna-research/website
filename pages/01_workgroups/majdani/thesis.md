@@ -1,5 +1,10 @@
-title: Project / Bachelor / Master / Diploma Thesis
-status: draft
+title: Project / Bachelor / Master Thesis
+status:draft
 
-**Topics**
+**Topics for Thesis**
 
+
+**Topics for Student Assistants**
+
+-   [construction design](thesis/test.pdf "topics")
+- 	programming C++
