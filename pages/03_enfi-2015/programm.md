@@ -31,6 +31,7 @@ For the first time this year, two parallel 2h student courses are available for 
 |Tutorial Speaker |Prof. J. Knoch, Aachen University| 
 |11:30 - 12:30    |Lunch   |
 |12:30 - 15:15   |Session E incl. coffee break            |
+|Tutorial Speaker  |  Prof. A. Spieß  |
 |15:15 - 15:30    |Farewell and Best Poster Award            |
 |15:30        |optional Vianna Lab Tour|
 
