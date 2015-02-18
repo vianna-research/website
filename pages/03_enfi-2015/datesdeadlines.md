@@ -3,12 +3,11 @@ title: Dates and Deadlines
 
 |            |                                  |
 |------------|----------------------------------|
-|April 12th  |[Abstract submission deadline](03_enfi-2015/abstracts.html)      |
+|April 12th  |[Abstract submission deadline](abstracts.html)      |
 |May 4th     |Information about acceptance      |
-|May 24th    |[Early Bird deadline](03_enfi-2015/registration.html)             |
-|July 5th    |[Student Course](03_enfi-2015/sunday.html)               |
+|May 24th    |[Early Bird deadline](registration.html)             |
+|July 5th    |[Student Course](sunday.html)               |
 |July 6th    |Conference Opening                |
-
 
 
 Registration fees:
