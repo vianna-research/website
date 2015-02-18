@@ -46,7 +46,7 @@ Weitere Informationen: <http://www.smart-ci.de/91.html>.
 
 ## Kontakt:
 
-### Projektleiter: PD Dr. med. Omid Majdani
+### Projektleiter: Prof. Dr. Omid Majdani
 
 Oberarzt
 
@@ -61,7 +61,7 @@ Fax: +49 (0) 511-532-8876
 
 Email: <majdani.omid@mh-hannover.de>
 
-### Technische Leitung: Dipl.-Ing. Thomas S. Rau
+### Technische Leitung: Dr.-Ing. Thomas S. Rau
 
     VIANNA - Institut für Audioneurotechnologie
     der Klinik für Hals-, Nasen-, Ohrenheilkunde
