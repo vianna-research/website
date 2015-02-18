@@ -14,24 +14,24 @@ If you are interested to participate, please check this box and add your name (p
 With registration, you will be asked to confirm your preregistration. Please note, that we probably will ask you for an additional fee of 20€ for the EnFI summer school.
 
 
+<form id="kontaktformular" name="kontaktformular" action="">
+<div>
+ <label for="Name">Name* :</label>
+ <input type="text" size="30" maxlength="50" value="Please enter your last name" id="absender" name="absender" />
+</div>
+<div>
+ <label for="Mailadresse">Email* :</label>
+ <input type="text" size="30" maxlength="40"  id="absender" name="absender" />
+</div>
+.nosee { display:none; }
 
+<p class="nosee">
+  <label for="email">Ihre eMail wird nicht abgefragt, tragen Sie auch hier bitte NICHTS ein:</label>
+  <input id="email" name="email" size="60" value="" />
+</p>
 
-In addition to the EnFI concept of the previous years, we now also present the Student Courses on Sunday, July 5th.  
-
-The parallel courses will be held by Prof. Maier and Prof. Kurt of Hannover Medical School at the EnFI conference location. 
-
-If you want to participate, please check the box during registration. Please note, that there is an additional registration fee of 20€ for participation. 
-
-
-##Electrochemistry and Design Considerations of Electrodes
-
-**[Prof. Dr. phil. nat. Hannes Maier](http://vianna.de/01_workgroups/maier/staff/hma.html)**
-
-
-
-
-##Stimulation, Recording and Signal Analysis of Neural Tissue
-
-**[Prof. Dr. Simone Kurt](http://vianna.de/01_workgroups/kurt/pagekurt.html)**
--->
-
+<?php
+  if(isset($_POST['email']) && $_POST['email']) {
+    # nicht eintragen, sondern Mitteilung über Spamverdacht
+  }
+?>
