@@ -6,7 +6,7 @@ For the first time this year, two parallel 2h student courses are available for 
 | July 5th           |  Student Course                               |
 |------------|----------------------------------|
 |15:00 |Pre-Registration     |
-|15:30 - 17:30   |Parallel Student Courses      |
+|15:30 - 17:30   |[Parallel Student Courses](03_enfi-2015/sunday.html)      |
 |19:00    |Get Together             |
 
 
