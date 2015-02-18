@@ -12,4 +12,4 @@ For questions about the Enfi 2015 in Hannover please contact [Bettina Goede](con
 * Prof. Schöning, Aachen University of Applied Sciences, [INB](http://www.fh-aachen.de/forschung/inb/?no_cache=1)
 * Prof. Stiesch, Hannover Medical School, [Clinic for Dental Prosthetics](http://www.mh-hannover.de/index.php?id=270&L=1)
 * Prof. Wagner, Leuven University, [ZMB](http://fys.kuleuven.be/zmb)
-* Prof. Wagner, Aachen University of Applied Sciences, [INB](http://www.fh-aachen.de/forschung/inb/?no_cache=1)
+
