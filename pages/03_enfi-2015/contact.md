@@ -12,5 +12,5 @@ Germany
 
 E-Mail: enfi-2015@mh-hannover.de
 
-Tel: 0511 532 7231
+Tel: +49 (0)511 532 7231
 ```
