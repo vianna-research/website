@@ -7,7 +7,7 @@ For the first time this year, two parallel 2h student courses are available for 
 |------------|----------------------------------|
 |15:00 |Pre-Registration     |
 |15:30 - 17:30   |[Parallel Student Courses](sunday.html)      |
-|19:00    |Get Together             |
+|19:00    |Beer Garden Gathering             |
 
 
 
