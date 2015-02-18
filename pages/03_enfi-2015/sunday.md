@@ -23,17 +23,13 @@ With registration, you will be asked to confirm your preregistration. Please not
  <label for="Mailadresse">Email* :</label>
  <input type="text" size="30" maxlength="40"  id="absender" name="absender" />
 </div>
-.nosee { display:none; }
 
-<p class="nosee">
+
+<div>
+<style="display: none">
   <label for="email">Ihre eMail wird nicht abgefragt, tragen Sie auch hier bitte NICHTS ein:</label>
   <input id="email" name="email" size="60" value="" />
-</p>
 
-<?php
-  if(isset($_POST['email']) && $_POST['email']) {
-    # nicht eintragen, sondern Mitteilung über Spamverdacht
-  }
-?>
+</div>
 
 -->
