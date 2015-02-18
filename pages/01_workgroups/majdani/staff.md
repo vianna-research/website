@@ -1,9 +1,9 @@
 title:Staff
-status:draft
 
-|Head of Research Group  |
+
+|Head of Research Group|
 |------------------|-----------------------|-----------------------|
-|![Image Omid Majdani](staff/Omid.jpg) |  PD Dr. med. Omid Majdani |  Majdani.Omid(at)mh-hannover.de|
+|![Image Omid Majdani](staff/Omid.jpg) |  Prof. Dr. Omid Majdani |  Majdani.Omid(at)mh-hannover.de|
 
 
 |Lab  					|  | |
