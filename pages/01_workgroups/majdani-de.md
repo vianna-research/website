@@ -76,4 +76,4 @@ Email: <rau.thomas@mh-hannover.de>
 
 
 Prof. Dr. O. Majdani: <Majdani.Omid@mh-hannover.de>  
-Dr.-Ing. T. Rau: <Rau.Thomas@mh-hannover.de>
+Dr.-Ing. Th. Rau: <Rau.Thomas@mh-hannover.de>
