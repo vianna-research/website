@@ -9,3 +9,4 @@ title: Scientific Advisory Board
 *  Prof. Dr. Michael Mertig, KSI Meinsberg and TU Dresden
 *  Prof. Dr. Andreas Offenhäusser, Research Center Jülich
 *  Prof. Dr. Arshak Poghossian, Aachen University of Applied Sciences
+*  Prof. Dr. Thorsten Wagner, Aachen University of Applied Sciences

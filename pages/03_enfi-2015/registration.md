@@ -6,7 +6,7 @@ status: draft
 <tr>
  <td align="right" valign="top">Title:</td>
  <td>
- <select name="Grossstadt" class="Auswahl" size="1">
+ <select name="Title" class="Auswahl" size="1">
  <option value="Mr">Mr</option>
  <option value="Mrs">Mrs</option>
  <option value="Dr.">Dr.</option>
@@ -92,27 +92,25 @@ Please enter your invoice address:
 </form>
 
 
+Registration fees:
+|            |                                  |
+|------------|----------------------------------|
+|Before May 24th |190€ incl. Dinner      |
+|After May 24th   |230€ incl. Dinner      |
+|Sponsors and tutorial speakers   |free                  |
 
+<!--
+|Sunday Tutorial   |20€              |
+-->
 
 Payment to:
+|||
+|---|---|
+| Bank:| Deutsche Bank Hannover|
+ |Account holder:| Förderverein der HNO-Klinik|
+| BLZ:| 250 700 24|
+| Kto:| 857 071 500|
+| IBAN:| DE22 250 700 240 8570715 01|
+| SWIFT-BIC:| DEUT DE DBHAN|
+ |Mention:| EnFI-2015 - Lastname, Firstname - Registration Number|
 
-```
- Bank: Deutsche Bank Hannover
- Account holder: Förderverein der HNO-Klinik
- BLZ: 250 700 24
- Kto: 857 071 500
- IBAN: DE22 250 700 240 8570715 01
- SWIFT-BIC: DEUT DE DBHAN
- Mention: EnFI-2015 - Lastname, Firstname - Registration Number
-
-```
-
-Registration fees:
-
-```
- Before May 24th, 2015: 190€ incl. Dinner   
- After May 24th, 2015: 230€ incl. Dinner   
- Additional Fee for Sunday Tutorial: 20€   
- Sponsors and tutorial speakers: free  
-
-```

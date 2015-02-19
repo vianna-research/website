@@ -44,7 +44,7 @@ additional information: <http://www.smart-ci.de/91.html>.
 
 ## Contact:
 
-### Group head: PD Dr. med. Omid Majdani
+### Group head: Prof. Dr. Omid Majdani
 
 
     Klinik für Hals-, Nasen-, Ohrenheilkunde
@@ -58,7 +58,7 @@ fax: +49 511-532-8876
 
 Email: <majdani.omid@mh-hannover.de>
 
-### Lab: Dipl.-Ing. Thomas S. Rau
+### Lab: Dr.-Ing. Thomas S. Rau
 
     VIANNA - Institut für Audioneurotechnologie
     der Klinik für Hals-, Nasen-, Ohrenheilkunde
