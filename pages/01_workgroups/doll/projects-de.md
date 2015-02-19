@@ -9,10 +9,12 @@ Publikationen zu diesen Projekten finden Sie [hier](Publications-de.html)
 
 ##Laufende Projekte
 
-* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank)
+* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank) Es werden adaptierte, hochflexible ECoG Elektrodensysteme bis zu Prototypen entwickelt, die vom Endanwender getestet werden können. Die Elektrodenentwicklung findet auf Basis einer innovativen, ressourcenschonenden Multizentren-Fertigungslogistik statt.
 Projektpartner ist [Black Rock Microsystems Europe](http://www.blackrockmicro.com/index.aspx)
 
 * **Flexible, selbstkrümmende Multielektrodenschäfte** ([Hearing4All](http://hearing4all.eu/EN/))
+Die Hypothese eines besseren Umgebungsgeräuschverstehens durch eine höhere Anzahl an Elektrodenkontakten bei anschmiegen des CIs an den Modiolus, wird untersucht. Ein Nebenaspekt dieses F&E muss die Steifigkeit des CIs sein, welche auch mit vielen Elektrodenkontakten nicht die bisherigen Werte übersteigen darf, um ein Ansteigen der Insertionstraumata zu verhindern. Entsprechend muss die derzeit verwendete Verdrahtung verändert werden. Dafür werden Au auf Parylene/Polyimid- Schichten und ein CNT-Silikon Compound untersucht. Gleichzeitig wird ein Hydrogel-Bimorpher Akutator auf sein potential zum Anschmiegen an den Modiolus untersucht. Dieses Projekt soll die Basis für weitere Projekte und die Sicherung weiterer Drittmittel bilden. Unser Ziel ist es die Anzahl an Elektrodenkontakten aud 30 bis 50 zu erhöhen wobei Impedanzen und felxibilität beibehalten werden sollen, sowie das Design und Testen von Aktuartorprinzipien.
+  
 We explore the hypothesis that for CI better ambient noise understanding can be achieved by a higher number of electrode contacts – if the CIs clinge well to the modiolus. A side aspect of such R&D must be that the stiffness of CIs must not exceed the present state in order to avoid increased insertion tissue damage and trauma in general. Thus the wiring techniques of today must be altered. We test Au on parylene / polyimide films and CNTs immersed in silicone rubber. Parallelly we explore Hydrogel bimorph swelling elements for proper clinging actuation. The Start project lays the basis to further procurement of third-party funds. Our objectives are increased electrode number to 30 and 50 with almost maintained impedances and flexibility and the design and testing of actuation principles.
 Please contact [Prof. Doll](staff.html) for more information.
 
