@@ -10,7 +10,7 @@ Publications regarding these projects can be found [here](Publications.html)
 
 ##Ongoing Projects
 
-* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank) Adapted, highly flexible ECoG electrode systems are developed, leading to a prototype that can be testet by the end-user. By implementing a multicenter product development and suitable product logistics a resource saving process is possible.   
+* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank) Adapted, highly flexible ECoG electrode systems are developed, leading to a prototype that can be testet by the end-user. By implementing an innovative multicenter product development and suitable product logistics a resource saving process is possible.   
 Project Partner is [Black Rock Microsystems Europe](http://www.blackrockmicro.com/index.aspx)   
 
 	Please contact [Prof. Doll](staff.html) for more information.
