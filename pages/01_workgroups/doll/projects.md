@@ -10,8 +10,10 @@ Publications regarding these projects can be found [here](Publications.html)
 
 ##Ongoing Projects
 
-* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank)   
-Project Partner is [Black Rock Microsystems Europe](http://www.blackrockmicro.com/index.aspx)
+* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank) Adapted, highly flexible ECoG electrode systems are developed, leading to a prototype that can be testet by the end-user. By implementing a multicenter product development and suitable product logistics a resource saving process is possible.   
+Project Partner is [Black Rock Microsystems Europe](http://www.blackrockmicro.com/index.aspx)   
+
+	Please contact [Prof. Doll](staff.html) for more information.
 
 * **Flexible, selfbending multielectrode shafts** ([Hearing4All](http://hearing4all.eu/EN/))   
 We explore the hypothesis that for CI better ambient noise understanding can be achieved by a higher number of electrode contacts – if the CIs clinge well to the modiolus. A side aspect of such R&D must be that the stiffness of CIs must not exceed the present state in order to avoid increased insertion tissue damage and trauma in general. Thus the wiring techniques of today must be altered. We test Au on parylene / polyimide films and CNTs immersed in silicone rubber. Parallelly we explore Hydrogel bimorph swelling elements for proper clinging actuation. The Start project lays the basis to further procurement of third-party funds. Our objectives are increased electrode number to 30 and 50 with almost maintained impedances and flexibility and the design and testing of actuation principles.    
