@@ -1,5 +1,5 @@
 title: Project / Bachelor / Master Thesis
-status:draft
+
 
 **Topics for Thesis**
 
