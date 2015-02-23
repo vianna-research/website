@@ -28,11 +28,11 @@ status:draft
 ##Gentle-CI
 -   Project Partners: 
 	
-	Leibniz Universität Hannover, [Institute of Mechatronic Systems](http://www.imes.uni-hannover.de/institut.html?&L=1 "Institute of Mechatronic Systems")
+	Leibniz Universität Hannover, [Institute of Mechatronic Systems](http://www.imes.uni-hannover.de/institut.html?&L=1 "Institute of Mechatronic Systems"),
 	
-	[Laser Zentrum Hannover e.V.](http://www.lzh.de/en "LZH")
+	[Laser Zentrum Hannover e.V.](http://www.lzh.de/en "LZH"),
 	
-	[Cochlear GmbH](http://www.cochlear.com "Cochlear GmbH")
+	[Cochlear GmbH](http://www.cochlear.com "Cochlear GmbH"),
 	
 	[CADFEM GmbH](http://www.cadfem.de/ "CADFEM GmbH")
 	
