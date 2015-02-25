@@ -39,7 +39,7 @@ before 2013
 * Presentation: Path to construct synthetic synapses for enhanced electrode-nerve interaction in neuroprostheses; S. Ebrahimpoor, C. Zeilinger,[T. Doll](pagedoll.html), T. Lenarz, P. Aliuos
 
 
-**EnFI 2014** - Engineering of functional interfaces
+**EnFI 2014** - Engineering of Functional Interfaces
 
 * Poster & Abstract: Functional gliding interface inside a micro-structured polymer impant; S. Meinen, E. Stockburger, J. Stieghorst, M. Möller, [T. Doll](pagedoll.html); 2014
 * Poster & Abstract: Characterization and improvement of carbon nanotube - silicone rubber interfaces for neural implants; K.Tegtmeier, N.Burblies, [T. Doll](pagedoll.html); 2014

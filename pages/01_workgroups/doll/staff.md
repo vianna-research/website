@@ -23,7 +23,7 @@ title: Staff
 
 ![Image Alexandra Bondarenkova](alexandra.png) |	Alexandra Bondarenkova	|	bondarenkova.alexandra(at)mh-hannover.de	|	Bachelor Thesis
 
-![Image Daniel Majaura](Daniel.png) | Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Laborarbeit
+![Image Daniel Majaura](Daniel.png) | Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Master Thesis
 
 
 ![Image Felix Riedel](FelixR.png) | Felix Riedel, B.Eng.	|	riedel.felix(at)mh-hannover.de	|	Master Thesis

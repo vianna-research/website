@@ -1,10 +1,11 @@
 title: Project / Bachelor / Master Thesis
-
-
-**Topics for Thesis**
+status:draft
 
 
 **Topics for Student Assistants**
 
--   [construction design](thesis/test.pdf "topics")
-- 	programming C++
+-   [construction design](thesis/konstruktion.pdf "topics")
+- 	[programming C++](thesis/programmierung.pdf)
+
+
+**Topics for Thesis**

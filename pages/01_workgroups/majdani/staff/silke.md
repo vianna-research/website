@@ -4,7 +4,7 @@ title: M. Sc. Silke Hügl
 ![Image Silke Hügl](Silke.jpg)
 
 
-|Specialisation / Focus	& current Projects|
+|Specialisation	& current Projects|
 |-----------------------------------------|
 |-   Project: [Akva-Med](http://www.vianna.de/01_workgroups/majdani/projects.html "Akva-Med")|
 | |
