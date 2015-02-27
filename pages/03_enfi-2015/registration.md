@@ -86,6 +86,8 @@ Please enter your invoice address:
 </tr>
 </div>
 
+Spamschutz...3+5 oder für den nutzer unsichtbares aber für den spambot sichtbares feld. http://sevenx.de/blog/php-formular-spamschutz-und-validierung-spam-emails-verhindern-auch-ohne-captcha/
+
 <div>
  <input type="submit" value="submit" />
 </div>
