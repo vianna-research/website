@@ -3,7 +3,7 @@ title: Martin Großöhmichen
 ![Picture Martin Großöhmichen](MGR.jpg)  
 **Dipl.-Ing. Martin Großöhmichen, M.Sc.**
 
-Martin Großöhmichen studied Mechanical Engineering (Dipl.-Ing.) at the University of Kassel and Biomedical Engineering (M.Sc.) at the University of Hannover. Since 2012 he is working as a research engineer and Ph.D. student in the group “Implantable Middle Ear Hearing Devices” of Prof. Maier. He is doing experimental research on the efficiency of active middle ear implants (Codacs™, MET™) in different stimulation conditions. Furthermore M. Großöhmichen is investigating methods measuring intracochlear pressures in temporal bone experiments.
+Martin Großöhmichen studied Mechanical Engineering (Dipl.-Ing.) at the University of Kassel and Biomedical Engineering (M.Sc.) at the University of Hannover. Since 2012 he is working as a research engineer and Ph.D. student in the group “Implantable Middle Ear Hearing Devices” of Prof. Maier. He is doing experimental research on the efficiency of active middle ear implants (MET™) and direct acoustic cochlear implants (Codacs™) in different stimulation conditions. Furthermore M. Großöhmichen is investigating methods measuring intracochlear pressures in temporal bone experiments.
 ***
 
 
