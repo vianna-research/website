@@ -2,7 +2,7 @@ title: Publications
 
 |2015	                       |
 |-----------------------------------------|
-| Busch S, Giere T, Lenarz T, Maier H. [**Comparison of Audiologic Results and Patient Satisfaction for Two Osseointegrated Bone Conduction Devices: Results of a Prospective Study.**](http://journals.lww.com/otology-neurotology/Abstract/publishahead/Comparison_of_Audiologic_Results_and_Patient.97614.aspx "Comparison of Audiologic Results and Patient Satisfaction for Two Osseointegrated Bone Conduction Devices: Results of a Prospective Study")  Otol Neurotol. 2015 Feb 27. [Epub ahead of print] PubMed PMID: 25730448..| 
+| Busch S, Giere T, Lenarz T, Maier H. [**Comparison of Audiologic Results and Patient Satisfaction for Two Osseointegrated Bone Conduction Devices: Results of a Prospective Study.**](http://journals.lww.com/otology-neurotology/Abstract/publishahead/Comparison_of_Audiologic_Results_and_Patient.97614.aspx "Comparison of Audiologic Results and Patient Satisfaction for Two Osseointegrated Bone Conduction Devices: Results of a Prospective Study")  Otol Neurotol. 2015 Feb 27. [Epub ahead of print] PubMed PMID: 25730448.| 
 
 |2014	                       |
 |-----------------------------------------|
