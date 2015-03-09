@@ -23,7 +23,7 @@ It is in walking distance from the [Ibis Hotel](/Hotels/) and not very far from 
 
 **By Car:** From either A7 or A2 you can take the B3 (Messeschnellweg). Get off at the Weidetorkreisel and drive toward Hannover Medical School (MHH). Take a right turn into the Rudolph-Pichlmayer-Straße. The Forum Niedersachsen is directly in front of you at the end of the street. Please park your car in one of the listet locations to avoid a parking ticket or beeing towed away.
 
-![Map](maps.png)
+![Map](.png)
 
 
 ##Conference Dinner
