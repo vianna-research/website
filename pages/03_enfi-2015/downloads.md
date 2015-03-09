@@ -1,6 +1,6 @@
 title: Downloads
 
-###Download templates:
+###Download abstract templates:
 
  [PDF-Version](EnFI-2015_template.pdf)   
  [Word-Template](EnFI-2015_template.doc)
