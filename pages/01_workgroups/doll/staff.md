@@ -19,12 +19,15 @@ title: Staff
 -----------------------------
 **Students**
 
-![Image Friederike Benjamin](Friederike.png) | Friederike Benjamin, B.Eng.				|		Benjamin.friederike(at)mh-hannover.de	| Master Thesis
+![Image Friederike Benjamin](Friederike.png) | Friederike Benjamin, B.Eng.				|		Benjamin.friederike(at)mh-hannover.de	| Master Thesis	
 
-![Image Alexandra Bondarenkova](alexandra.png) |	Alexandra Bondarenkova	|	bondarenkova.alexandra(at)mh-hannover.de	|	Bachelor Thesis
+<!--[Image Azar Farajzadeh](Azar.png) | Azar Farajzadeh, M. Sc. | Student Project -->
+
+<!--[Image Lennart Guntenhöner](Lennart.png) | Ben Lennart Guntenhöner | Ben.L.Guntenhoener@stud.mh-hannover.de | Medical Doctorate Thesis -->
+
+<!--[Image Rick Liese](Rick.png) | Rick Liese, B. Eng | Student Assistant --> 
 
 ![Image Daniel Majaura](Daniel.png) | Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Master Thesis
-
 
 ![Image Felix Riedel](FelixR.png) | Felix Riedel, B.Eng.	|	riedel.felix(at)mh-hannover.de	|	Master Thesis
 
@@ -37,9 +40,11 @@ title: Staff
 
 Dipl.-Ing. Pooyan Aliuos, PhD | alious.pooyan(at)mh-hannover.de	| PostDoc
 
+Alexandra Bondarenkova | Student Assistant
+
 Felix Golly, B.Sc.	| Bachelor Thesis
 
-Janine McCaughey, B.Sc.	| HiWi
+Janine McCaughey, B.Sc.	| Student Assistant
 
 Sven Meinen, B.Sc.	|	Master Thesis
 
