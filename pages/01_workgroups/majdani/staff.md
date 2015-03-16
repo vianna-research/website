@@ -1,5 +1,5 @@
 title:Staff
-
+![Image Staff](staff/IMG_1922_bearb.jpg)
 
 |Head of Research Group|
 |------------------|-----------------------|-----------------------|
