@@ -1,10 +1,10 @@
 title: Hotel Suggestions
-status: hidden
 
-Single and double rooms have been reserved in the Ibis Hotel Medical Park and the GHotel.
+
+Single and double rooms have been blocked in the Ibis Hotel Medical Park and the GHotel.
 The IBIS is in walking distance to the conference location. From the GHotel you can take the Bus 137 towards Spannhagengarten and get off at "Neue Landstraße". From there it is just a short walk to the conference location.
 
-![Map](maps.png)
+![Map](.pdf)
 ***
 **IBIS Hotel Hannover - Medical Park**
 
@@ -13,9 +13,9 @@ The IBIS is in walking distance to the conference location. From the GHotel you 
 Feodor-Lynen-Straße 1
 30625 Hannover
 
-Tel: +49(0)511 95 67 0
-Fax: +49(0)511 95 67 140
-Mail: H1632@accor.com
+Tel: +49(0)511 95 67 0   
+Fax: +49(0)511 95 67 140   
+Mail: H1632@accor.com    
 
 [www.ibishotel.com](www.ibishotel.com)
 [www.accorhotels.com](www.accorhotels.com)
@@ -31,10 +31,10 @@ Mail: H1632@accor.com
 Lathusenstraße 15
 30625 Hannover
 
-Tel: +49(0)511 5303 127
-Fax: +49(0)511 5303 111
+Tel: +49(0)511 5303 127    
+Fax: +49(0)511 5303 111   
 Mail: hannover@ghotel.de
-
+   
 [www.ghotel.de](www.ghotel.de)
 
 *****
