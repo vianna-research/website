@@ -2,7 +2,7 @@ title: Publications
 
 |2015	                       |
 |-----------------------------------------|
-| Grossöhmichen M, Salcher R, Kreipe HH, Lenarz T, Maier H. [**CThe Codacs™ Direct Acoustic Cochlear Implant Actuator: Exploring Alternative Stimulation Sites and Their Stimulation Efficiency.**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119601 "The Codacs™ Direct Acoustic Cochlear Implant Actuator: Exploring Alternative Stimulation Sites and Their Stimulation Efficiency.") PLoS One. 2015 Mar 18;10(3):e0119601. doi:10.1371/journal.pone.0119601. eCollection 2015. PubMed PMID: 25785860.|
+| Grossöhmichen M, Salcher R, Kreipe HH, Lenarz T, Maier H. [**The Codacs™ Direct Acoustic Cochlear Implant Actuator: Exploring Alternative Stimulation Sites and Their Stimulation Efficiency.**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119601 "The Codacs™ Direct Acoustic Cochlear Implant Actuator: Exploring Alternative Stimulation Sites and Their Stimulation Efficiency.") PLoS One. 2015 Mar 18;10(3):e0119601. doi:10.1371/journal.pone.0119601. eCollection 2015. PubMed PMID: 25785860.|
 | Busch S, Giere T, Lenarz T, Maier H. [**Comparison of Audiologic Results and Patient Satisfaction for Two Osseointegrated Bone Conduction Devices: Results of a Prospective Study.**](http://journals.lww.com/otology-neurotology/Abstract/publishahead/Comparison_of_Audiologic_Results_and_Patient.97614.aspx "Comparison of Audiologic Results and Patient Satisfaction for Two Osseointegrated Bone Conduction Devices: Results of a Prospective Study")  Otol Neurotol. 2015 Feb 27. [Epub ahead of print] PubMed PMID: 25730448.|
 
 
