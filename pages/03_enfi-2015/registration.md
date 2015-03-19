@@ -1,6 +1,8 @@
 title: Registration
-status: draft
 
+Coming soon
+
+<!--
 
 <form id="kontaktformular" name="kontaktformular" action="">
 <tr>
@@ -93,19 +95,22 @@ Spamschutz...3+5 oder für den nutzer unsichtbares aber für den spambot sichtba
 </div>
 </form>
 
+-->
 
 Registration fees:
+
 |            |                                  |
 |------------|----------------------------------|
 |Before May 24th |190€ incl. Dinner      |
 |After May 24th   |230€ incl. Dinner      |
-|Sponsors and tutorial speakers   |free                  |
+|Sponsors and tutorial speakers   |free                  |   
 
 <!--
 |Sunday Tutorial   |20€              |
 -->
 
 Payment to:
+
 |||
 |---|---|
 | Bank:| Deutsche Bank Hannover|
@@ -114,5 +119,6 @@ Payment to:
 | Kto:| 857 071 500|
 | IBAN:| DE22 250 700 240 8570715 01|
 | SWIFT-BIC:| DEUT DE DBHAN|
- |Mention:| EnFI-2015 - Lastname, Firstname - Registration Number|
+ |Mention:| EnFI-2015 - Lastname, Firstname|
+ 
 
