@@ -1,6 +1,8 @@
 title: Registration
-status: draft
 
+Coming soon
+
+<!--
 
 <form id="kontaktformular" name="kontaktformular" action="">
 <tr>
@@ -93,6 +95,7 @@ Spamschutz...3+5 oder für den nutzer unsichtbares aber für den spambot sichtba
 </div>
 </form>
 
+-->
 
 Registration fees:
 |            |                                  |
