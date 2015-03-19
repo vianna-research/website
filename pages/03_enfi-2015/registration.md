@@ -98,10 +98,11 @@ Spamschutz...3+5 oder für den nutzer unsichtbares aber für den spambot sichtba
 -->
 
 Registration fees:
-|            |                                  |   
-|------------|----------------------------------|   
-|Before May 24th |190€ incl. Dinner      |   
-|After May 24th   |230€ incl. Dinner      |   
+
+|            |                                  |
+|------------|----------------------------------|
+|Before May 24th |190€ incl. Dinner      |
+|After May 24th   |230€ incl. Dinner      |
 |Sponsors and tutorial speakers   |free                  |   
 
 <!--
