@@ -1,6 +1,6 @@
 title: Registration
 
-Coming soon
+**Registratiom formular coming soon**
 
 <!--
 
