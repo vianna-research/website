@@ -13,7 +13,7 @@ ${Affilitation}
 ${Address}
 ${City}
 ${Country}
-${eMail}
+${email}
 ${Conference_Dinner}
 ${Invoice}
 ${EnFI_School}
