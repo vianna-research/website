@@ -17,7 +17,7 @@ Please note that the registration is not complete until the registration fee has
 | SWIFT-BIC:| DEUT DE DBHAN|
 | Mention:| EnFI-2015 - Lastname, Firstname - Affiliation|
 
-You will receive a registration confirmation within a few days. If  you don't receive a registration confirmation from enfi-2015@mh-hannover.de or have any questions concerning your registration please contact us at enfi-2015@mh-hannover.de or +49 511 532 7231.
+You will receive a registration confirmation within a few days. If  you don't receive a registration confirmation from enfi-2015@mh-hannover.de or have any questions concerning your registration please contact us at <enfi-2015@mh-hannover.de> or +49 511 532 7231.
 
 We are looking forward to welcome you in Hannover in July.
 
