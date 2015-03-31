@@ -7,7 +7,7 @@ CC_LICENSE = 'CC-BY'
 AVATAR = 'images/vianna_globe.png'
 ABOUT_ME = " "
 
-LINKS = [['Impressum', "/pages/impressum.html"],
+LINKS = [['Impressum', "/impressum.html"],
          ['MHH Homepage', "http://mh-hannover.de"],
          ['NIFE', "http://nife-hannover.de"],
          ['Hearing4all', "http://hearing4all.eu"]]
