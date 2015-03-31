@@ -7,7 +7,7 @@ status: draft
 |             |                                                                                                                  |
 | --------    | ---------------------------------------------------------------------------------------------------------------: |
 | Title:      | <select name="Title"><option>Mr</option><option>Mrs</option><option>Dr.</option><option>Prof.</option></select>  |
-| First Name: | <input type="text" size="40" maxlength="50" name="First name">                                                   |
+| First Name: | <input type="text" size="40" maxlength="50" name="FirstName">                                                   |
 | eMail       | <input type="text" size="40" maxlength="60" name="email">                                                        |
 
 <span style="width:20%"><input type="submit" value="Submit">
