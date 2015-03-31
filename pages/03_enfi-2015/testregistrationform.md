@@ -1,16 +1,13 @@
 title: Test-Registration
 status: draft
 
-<div>
+<div markdown="1" >
 <form id="register" name="register" action="http://vianna.de/fcgi-bin/register-enfi2015.py" method="POST">
 
 |             |                                                                                                                                                                             |
 | --------    | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Title:      | <select name="Title"><option>Mr</option><option>Mrs</option><option>Dr.</option><option>Prof.</option></select>   |
 | First Name: | <input type="text" size="30" maxlength="40" name="First name">                                                                                                                                                                          |
-|             |                                                                                                                                                                             |
-|             |                                                                                                                                                                             |
-|             |                                                                                                                                                                             |
 
 </form>
 </div>
