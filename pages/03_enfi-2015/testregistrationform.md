@@ -2,7 +2,7 @@ title: Test-Registration
 status: draft
 
 <div markdown="1" >
-<form id="register" name="register" action="http://vianna.de/fcgi-bin/register-enfi2015.py" method="POST">
+<form id="register" name="register" action="http://vianna.de/fcgi-bin/register2-enfi2015.py" method="POST">
 
 |             |                                                                                                                  |
 | --------    | ---------------------------------------------------------------------------------------------------------------: |
