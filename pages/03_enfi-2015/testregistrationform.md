@@ -2,13 +2,13 @@ title: Test-Registration
 status: draft
 
 <div markdown="1" >
-<form id="register" name="register" action="http://vianna.de/fcgi-bin/register-enfi2015.py" method="GET">
+<form id="register" name="register" action="http://vianna.de/fcgi-bin/register-enfi2015.py" method="POST">
 
-|             |                                                                                                                                                                             |
-| --------    | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Title:      | <select name="Title"><option>Mr</option><option>Mrs</option><option>Dr.</option><option>Prof.</option></select>                                                             |
-| First Name: | <input type="text" size="30" maxlength="40" name="First name">                                                                                                              |
-
+|             |                                                                                                                  |
+| --------    | ---------------------------------------------------------------------------------------------------------------: |
+| Title:      | <select name="Title"><option>Mr</option><option>Mrs</option><option>Dr.</option><option>Prof.</option></select>  |
+| First Name: | <input type="text" size="40" maxlength="50" name="First name">                                                   |
+| eMail       | <input type="text" size="40" maxlength="60" name="email">                                                        |
 
 <span style="width:20%"><input type="submit" value="Submit">
 
