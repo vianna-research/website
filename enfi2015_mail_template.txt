@@ -14,9 +14,9 @@ ${Address}
 ${City}
 ${Country}
 ${eMail}
-${Conference Dinner}
+${Conference_Dinner}
 ${Invoice}
-${EnFI School}
+${EnFI_School}
 
 Please note that the registration is not complete until the registration fee has been transfered to:
 
