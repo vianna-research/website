@@ -2,27 +2,20 @@ title: Test-Registration
 status: draft
 
 <div>
-<form id="kontaktformular" name="kontaktformular" action="">
-<tr>
- <td align="right" valign="top">Title:</td>
- <td>
- <select name="Title" class="Auswahl" size="1">
- <option value="Mr">Mr</option>
- <option value="Mrs">Mrs</option>
- <option value="Dr.">Dr.</option>
- <option value="Prof.">Prof.</option>
- </select>
- </td>
-</tr>
-<div>
- <td align="right" <label for="Vorname">First Name* :</label>
- <input type="text" size="30" maxlength="40" value="Please enter your first name" id="absender" name="absender"
+<form id="register" name="register" action="http://vianna.de/fcgi-bin/register-enfi2015.py" method="POST">
+
+|             |                                                                                                                                                                             |
+| --------    | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Title:      | <select name="Title"><option>Mr</option><option>Mrs</option><option>Dr.</option><option>Prof.</option></select>   |
+| First Name: | <input type="text" size="30" maxlength="40" name="First name">                                                                                                                                                                          |
+|             |                                                                                                                                                                             |
+|             |                                                                                                                                                                             |
+|             |                                                                                                                                                                             |
+
+</form>
 </div>
 
-<div>
- <label for="Nachname">Last Name* :</label>
- <input type="text" size="30" maxlength="40" value="Please enter your last name" id="absender" name="absender" />
-</div>
+<!--
 <div>
  <label for="Affiliation">Affiliation* :</label>
  <input type="text" value="Hannover Medical School" id="absender" name="absender" />
@@ -87,9 +80,7 @@ Please enter your invoice address:
 </div>
 
 Spamschutz...3+5 oder für den nutzer unsichtbares aber für den spambot sichtbares feld. http://sevenx.de/blog/php-formular-spamschutz-und-validierung-spam-emails-verhindern-auch-ohne-captcha/
+-->
 
-<div>
- <input type="submit" value="submit" />
-</div>
-</form>
-</div>
+normaler *Text*
+
