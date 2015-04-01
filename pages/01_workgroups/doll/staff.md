@@ -25,7 +25,7 @@ title: Staff
 
 <!--[Image Lennart Guntenhöner](Lennart.png) | Ben Lennart Guntenhöner | Ben.L.Guntenhoener@stud.mh-hannover.de | Medical Doctorate Thesis -->
 
-<!--[Image Rick Liese](Rick.png) | Rick Liese, B. Eng | Student Assistant --> 
+<!--[Image Rick Liese](Rick.png) |--> Rick Liese, B. Eng | Student Assistant
 
 ![Image Daniel Majaura](Daniel.png) | Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Master Thesis
 
