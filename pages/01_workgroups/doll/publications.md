@@ -31,8 +31,9 @@ before 2013
 #Conferences
 **2015**
 ----
-**Deutscher HNO-Kongress** - 86. Jahrestagung der Deutschen Gesellschaft für HNO-Heilkunde
-* Poster: Selbstkrümmender Elektrodenschaft für Cochlea Implantat Elektrodenträger; J. Stieghorst, S. Meinen, J. Drewke, E. Stockburger, Th. Lenarz, T. Doll, 2015
+**Deutscher HNO-Kongress** - 86. Jahrestagung der Deutschen Gesellschaft für HNO-Heilkunde   
+
+* Poster: Selbstkrümmender Elektrodenschaft für Cochlea Implantat Elektrodenträger; J. Stieghorst, S. Meinen, J. Drewke, E. Stockburger, Th. Lenarz, T. Doll, 2015   
 * Poster: Flexibles Carbon Nanotube basiertes Elektrodenmaterial zur Anwendung in Cochlea Implantaten; K. Tegtmeier, F. Golly, W. Saleh, T. Lenarz und T. Doll, 2015
 
 
