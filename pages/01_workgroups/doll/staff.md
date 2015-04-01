@@ -46,7 +46,7 @@ Felix Golly, B.Sc.	| Bachelor Thesis
 
 Janine McCaughey, B.Sc.	| Student Assistant
 
-Sven Meinen, B.Sc.	|	Master Thesis
+Sven Meinen, M.Sc.	|	Master Thesis
 
 Dipl.-Ing. Malte Schickedanz		| Diploma Thesis
 
