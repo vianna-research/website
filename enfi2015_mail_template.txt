@@ -6,13 +6,16 @@ your registration formular has been submitted.
 
 Please check if the submitted data is correct. Contact us (enfi-2015@mh-hannover.de), if any data is incorrect. 
 
-Affiliation: ${Affiliation}
-Adress: ${Address}, ${City}, ${Country}
-Contact information:${email}, ${Phone}
+Affiliation: ${Affiliation} 
+
+Adress: ${Address}, ${City}, ${Country}   
+
+Contact information:${email}, ${Phone}   
+
 You chose:
-Participation in Conference Dinner: ${Conference_Dinner}
-Please send an invoice: ${Invoice}
-Participation in EnFI School: ${EnFI_School}
+Participation in Conference Dinner: ${Conference_Dinner}   
+Please send an invoice: ${Invoice}   
+Participation in EnFI School: ${EnFI_School}   
 
 
 Please note that the registration is not complete until the registration fee has been transfered to:
