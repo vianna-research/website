@@ -17,7 +17,7 @@ Please make sure to fill in each box.
 |Street and Number|<input type="text" size="40" maxlength="80"  name="Address" >|
 |Postcode and City|<input type="text" size="40" maxlength="40" name="City" >|
 |Country| <input type="text" size="40" maxlength="40" name="Country" >|
-||contact information:|
+||Contact information:|
 |eMail| <input type="text" size="40" maxlength="60" name="email"> |  
 |||
 |Phone|<input type="text" size="40" maxlength="40" name="Phone">|
