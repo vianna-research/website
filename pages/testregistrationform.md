@@ -19,9 +19,9 @@ Please make sure to fill in each box.
 |Invoice|<select name="Invoice" <option value="Ja">Yes</option><option value="Nein">No</option></select>|
 | eMail       | <input type="text" size="40" maxlength="60" name="email">   |                                         |Phone| <input type="text" size="40" maxlength="40" name="Phone" />|
 ||  Please select one of the following choices |
-|Conference Dinner| <select name="Conference_Dinner"<option>Yes</option><option>No</option></select>|
-|EnFI School| <select name="EnFI_School" <option>Prof. Maier</option><option>Prof. Kurt</option><option>not interested</option></select>|
-|Invoice|<select name="Invoice" <option>Yes</option><option>No</option></select>|
+|Conference Dinner| <select name="Conference_Dinner"><option>Yes</option><option>No</option></select>|
+|EnFI School| <select name="EnFI_School"> <option>Prof. Maier</option><option>Prof. Kurt</option><option>not interested</option></select>|
+|Invoice|<select name="Invoice"> <option>Yes</option><option>No</option></select>|
 <span style="width:20%"><input type="submit" value="Submit">
 
 </form>
