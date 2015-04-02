@@ -25,7 +25,6 @@ Please activate CSS in your browser.
 |Country| <input type="text" size="40" maxlength="40" name="Country" >|
 ||Contact information:|
 |eMail| <input type="text" size="40" maxlength="60" name="email"> |  
-|||
 |Phone|<input type="text" size="40" maxlength="40" name="Phone">|
 |||
 ||  Please choose: |
