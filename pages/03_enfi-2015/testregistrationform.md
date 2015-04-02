@@ -12,7 +12,8 @@ Please activate CSS in your browser.
 
 |             |                                                                                                                  |
 | --------    | ---------------------------------------------------------------------------------------------------------------: |
-||Please make sure to fill in each of the following boxes.|
+||Please make sure to fill in |
+||each of the following boxes.|
 | Title:      | <select name="Title"><option>Mr</option><option>Mrs</option><option>Dr.</option><option>Prof.</option></select>  |
 | First Name: | <input type="text" size="40" maxlength="50" name="FirstName">   |
 | Last Name: | <input type="text" size="40" maxlength="50" name="LastName">     |
