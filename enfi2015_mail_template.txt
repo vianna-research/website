@@ -1,20 +1,14 @@
-﻿This is an automatically generated eMail.
+This is an automatically generated eMail.
 
-Dear EnFI 2015 participant,
+Dear ${Title} ${FirstName} ${LastName},
 
 your registration formular has been submitted.
 
 Please check if the submitted data is correct. Contact us (enfi-2015@mh-hannover.de), if any data is incorrect. 
 
-${Title}
-${FirstName}
-${LastName}
-${Affiliation}
-${Address}
-${City}
-${Country}
-${email}
-${Phone}
+Affiliation: ${Affiliation}
+Adress: ${Address}, ${City}, ${Country}
+Contact information:${email}, ${Phone}
 You chose:
 Participation in Conference Dinner: ${Conference_Dinner}
 Please send an invoice: ${Invoice}
