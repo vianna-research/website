@@ -7,6 +7,14 @@ Please make sure to fill in each box.
 <div markdown="1" >
 <form id="register" name="register" action="http://vianna.de/fcgi-bin/register2-enfi2015.py" method="POST">
 
+<!-- next few lines are to fight of unwanted bots and humans don't fill those -->
+<div class="very_important">
+Please activate CSS in your browser.
+<input type="checkbox" name="terms">
+<input type="text"size="40" maxlength="50" name="name">
+</div>
+
+
 |             |                                                                                                                  |
 | --------    | ---------------------------------------------------------------------------------------------------------------: |
 | Title:      | <select name="Title"><option>Mr</option><option>Mrs</option><option>Dr.</option><option>Prof.</option></select>  |
