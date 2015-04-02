@@ -1,9 +1,6 @@
 title: Test-Registration
 status: draft
 
-Please make sure to fill in each box. 
-
-
 <div markdown="1" >
 <form id="register" name="register" action="http://vianna.de/fcgi-bin/register2-enfi2015.py" method="POST">
 <!-- next few lines are to fight of unwanted bots and humans don't fill those -->
@@ -15,6 +12,7 @@ Please activate CSS in your browser.
 
 |             |                                                                                                                  |
 | --------    | ---------------------------------------------------------------------------------------------------------------: |
+||Please make sure to fill in each box.|
 | Title:      | <select name="Title"><option>Mr</option><option>Mrs</option><option>Dr.</option><option>Prof.</option></select>  |
 | First Name: | <input type="text" size="40" maxlength="50" name="FirstName">   |
 | Last Name: | <input type="text" size="40" maxlength="50" name="LastName">     |
