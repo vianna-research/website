@@ -33,7 +33,7 @@ Please activate CSS in your browser.
 |EnFI School| <select name="EnFI_School"> <option>Prof. Maier</option><option>Prof. Kurt</option><option>not interested</option></select>|
 |Invoice|<select name="Invoice"> <option>Yes</option><option>No</option></select>|
 
-<span style="width:20%"><input type="submit" value="Submit">
+<input type="submit" class="btn btn-primary" value="Submit">
 
 </form>
 </div>
