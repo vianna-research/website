@@ -10,7 +10,7 @@ Affiliation: ${Affiliation}
 
 Adress: ${Address}, ${City}, ${Country}   
 
-Contact information:${email}, ${Phone}   
+Contact information: ${email}, ${Phone}   
 
 You chose:
 Participation in Conference Dinner: ${Conference_Dinner}   
