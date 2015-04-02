@@ -18,8 +18,14 @@ Please make sure to fill in each bos.
 |Country| <input type="text" size="40" maxlength="40" name="Country" >
 |Invoice|<select name="Invoice"
  <option value="Ja">Yes</option><option value="Nein">No</option></select>|
-| eMail       | <input type="text" size="40" maxlength="60" name="email">                                                        |
-
+| eMail       | <input type="text" size="40" maxlength="60" name="email">                                                        |Phone| <input type="text" size="40" maxlength="40" name="Phone" />
+|Conference Dinner| <select name="Conference_Dinner"
+ <option value="Ja">Yes</option>
+ <option value="Nein">No</option> </select>|
+|EnFI School| <select name="EnFI_School" 
+ <option value="Prof. Maier">Prof. Maier</option>
+ <option value="Prof. Kurt">Prof. Kurt</option><option value="not interested">not interested</option>
+ </select>|
 <span style="width:20%"><input type="submit" value="Submit">
 
 </form>
@@ -27,26 +33,7 @@ Please make sure to fill in each bos.
 
 <!--
 
-</div>
-<tr>
- <td align="right" valign="top"> Please send me an invoice:</td>
- <td>
- <select name="Invoice" class="Auswahl" size="1">
- <option value="Ja">Yes</option>
- <option value="Nein">No</option>
- </select>
- </td>
-</tr>
-</div>
 
-<div>
- <label for="Mailadresse">Email* :</label>
- <input type="text" size="30" maxlength="40" value="enfi@mh-hannover.de" id="absender" name="absender" />
-</div>
-<div>
- <label for="Telefon">Phone* :</label>
- <input type="text" size="30" maxlength="40" value="0511 532 7231" id="absender" name="absender" />
-</div>
 
 </div>
 <tr>
