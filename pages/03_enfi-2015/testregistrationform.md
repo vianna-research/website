@@ -32,8 +32,10 @@ Please activate CSS in your browser.
 |Conference Dinner| <select name="Conference_Dinner"><option>Yes</option><option>No</option></select>|
 |EnFI School| <select name="EnFI_School"> <option>Prof. Maier</option><option>Prof. Kurt</option><option>not interested</option></select>|
 |Invoice|<select name="Invoice"> <option>Yes</option><option>No</option></select>|
+| | |
+| | <input type="submit" class="btn btn-primary btn-lg" value="Submit"> |
 
-<input type="submit" class="btn btn-primary btn-lg" value="Submit">
+
 
 </form>
 </div>
