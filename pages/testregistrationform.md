@@ -1,6 +1,9 @@
 title: Test-Registration
 status: draft
 
+Please make sure to fill in each bos. 
+
+
 <div markdown="1" >
 <form id="register" name="register" action="http://vianna.de/fcgi-bin/register2-enfi2015.py" method="POST">
 
@@ -9,7 +12,12 @@ status: draft
 | Title:      | <select name="Title"><option>Mr</option><option>Mrs</option><option>Dr.</option><option>Prof.</option></select>  |
 | First Name: | <input type="text" size="40" maxlength="50" name="FirstName">                                                   |
 | Last Name: | <input type="text" size="40" maxlength="50" name="LastName">                                                   |
-| Affiliation|  <input type="text" name="Affiliation" >
+| Affiliation|  <input type="text" size="40" maxlength="50" name="Affiliation" >
+|Address|<input type="text" size="40" maxlength="80"  name="Address" >
+|Postcode and City|<input type="text" size="40" maxlength="40" name="City" >
+|Country| <input type="text" size="40" maxlength="40" name="Country" >
+|Invoice|<select name="Invoice"
+ <option value="Ja">Yes</option><option value="Nein">No</option></select>|
 | eMail       | <input type="text" size="40" maxlength="60" name="email">                                                        |
 
 <span style="width:20%"><input type="submit" value="Submit">
@@ -18,23 +26,6 @@ status: draft
 </div>
 
 <!--
-<div>
- <label for="Affiliation">Affiliation* :</label>
- <input type="text" value="Hannover Medical School" id="absender" name="absender" />
-</div>
-Please enter your invoice address:
-<div>
- <label for="Adresse">Address* :</label>
- <input type="text" value="Feodor-Lynen-Straße 27" id="absender" name="absender" />
-</div>
-<div>
- <label for="Stadt">Postcode and City* :</label>
- <input type="text" size="30" maxlength="40" value="30625 Hannover" id="absender" name="absender" />
-</div>
-<div>
- <label for="Land">Country* :</label>
- <input type="text" size="30" maxlength="40" value="Germany" id="absender" name="absender" />
-</div>
 
 </div>
 <tr>
