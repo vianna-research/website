@@ -1,6 +1,6 @@
 title: Registration
 
-**Registratiom formular coming soon**
+**The registratiom formular will be online as soon as information about acceptance is send out**
 
 <!--
 
