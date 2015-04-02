@@ -8,7 +8,7 @@ Please check if the submitted data is correct. Contact us (enfi-2015@mh-hannover
 
 Affiliation: ${Affiliation} 
 
-Adress: ${Address}, ${City}, ${Country}   
+Address: ${Address}, ${City}, ${Country}   
 
 Contact information: ${email}, ${Phone}   
 
@@ -18,19 +18,19 @@ Please send an invoice: ${Invoice}
 Participation in EnFI School: ${EnFI_School}   
 
 
-Please note that the registration is not complete until the registration fee has been transfered to:
+Please note that the registration is not complete until the registration fee of 190€ has been transfered to:
 
 Bank:	Deutsche Bank Hannover
-Account holder:	Förderverein der HNO-Klinik
-BLZ:	250 700 24
-Kto:	857 071 500
+Account holder:	Foerderverein der HNO-Klinik
 IBAN:	DE22 250 700 240 8570715 01
 SWIFT-BIC:	DEUT DE DBHAN
 Mention:	EnFI-2015 - Lastname, Firstname - Affiliation
 
-You will receive a registration confirmation within a few days. If you don't receive a registration confirmation from enfi-2015@mh-hannover.de or have any questions concerning your registration please contact us at enfi-2015@mh-hannover.de or +49 511 532 7231.
+You will receive a registration confirmation within a few days of the money transfer. If you don't receive a registration confirmation or have any questions concerning your registration please contact us. 
 
 We are looking forward to welcome you in Hannover in July.
 
 Your Local EnFI Organizing Team
+aMail: enfi-2015@mh-hannover.de
+Phone: +49 511 532 7231
 
