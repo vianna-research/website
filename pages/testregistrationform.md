@@ -1,7 +1,7 @@
 title: Test-Registration
 status: draft
 
-Please make sure to fill in each bos. 
+Please make sure to fill in each box. 
 
 
 <div markdown="1" >
@@ -33,31 +33,6 @@ Please make sure to fill in each bos.
 
 <!--
 
-
-
-</div>
-<tr>
- <td align="right" valign="top"> Participation in Conference Dinner:</td>
- <td>
- <select name="Conference Dinner" class="Auswahl" size="1">
- <option value="Ja">Yes</option>
- <option value="Nein">No</option>
- </select>
- </td>
-</tr>
-</div>
-
-</div>
-<tr>
- <td align="right" valign="top"> Participation in Sunday Tutorials:</td>
- <td>
- <select name="Sunday Tutorial" class="Auswahl" size="1">
- <option value="Ja">Yes</option>
- <option value="Nein">No</option>
- </select>
- </td>
-</tr>
-</div>
 
 Spamschutz...3+5 oder für den nutzer unsichtbares aber für den spambot sichtbares feld. http://sevenx.de/blog/php-formular-spamschutz-und-validierung-spam-emails-verhindern-auch-ohne-captcha/
 -->
