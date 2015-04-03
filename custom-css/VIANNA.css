@@ -222,3 +222,8 @@ table tr th,table tr td {
     background: transparent !important;
 }
 
+/* class that hides an element (honey pot for spam bots) */
+.very_important {
+   display: none;
+}
+
