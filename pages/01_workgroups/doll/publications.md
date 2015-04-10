@@ -8,7 +8,7 @@ title: Publications
 * Self-bending hydrogel actuation for electrode shafts in cochlear implants; Jan Stieghorst, Katharina Tegtmeier, Pooyan Aliuos, Holger Zernetsch, Birgit Glasmacher,
 and [T. Doll](pagedoll.html); Phys. Status Solidi A 211, No. 6, 1455–1461 (2014); DOI 10.1002/pssa.201330404
 * A. Amann, W. Filipiak, P. Mochalski, C. Ager, A. Filipiak, R. Cumeras, C. E. Davis, D. Smith, P. Španěl, [T. Doll](pagedoll.html), J. Troppmair, Arriving at the human volatilome: A review of volatile organic compounds (VOCs) released by different cell types, J. Breath Res. 2014 accepted
-* J. Stieghorst, E. Stockburger, [T. Doll](pagedoll.html), Hydrogel-based Microactuation for Self-bending Cochlear Implant Electrodes, Biomed Microdevices, 2014 submitted
+
 
 
 2013
