@@ -10,5 +10,5 @@ For questions concerning the EnFI 2015 please contact Bettina Goede, preferrably
 ||Feodor-Lynen-Straße 27|   
 ||30625 Hannover|   
 ||Germany|
-| E-Mail:  |enfi-2015@mh-hannover.de|
-|Tel: |+49 (0)511 532 7231|
+| eMail:  |enfi-2015@mh-hannover.de|
+|Phone |+49 (0)511 532 7231|
