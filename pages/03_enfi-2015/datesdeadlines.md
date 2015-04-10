@@ -18,10 +18,6 @@ Registration fees:
 |After May 24th   |230€ incl. Dinner      |
 |Sponsors and tutorial speakers   |free                  |
 
-<!--
-|Sunday Tutorial   |20€              |
--->
-
 
 Payment to:
 
