@@ -27,7 +27,6 @@ Please activate CSS in your browser.
 |Phone|<input type="text" size="40" maxlength="40" name="Phone">|
 |||
 ||  Please choose: |
-|Conference Dinner| <select name="Conference_Dinner"><option>Yes</option><option>No</option></select>|
 |EnFI School| <select name="EnFI_School"> <option>Prof. Maier</option><option>Prof. Kurt</option><option>not interested</option></select>|
 |Invoice|<select name="Invoice"> <option>Yes</option><option>No</option></select>|
 | | |
