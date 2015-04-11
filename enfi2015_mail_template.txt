@@ -1,4 +1,4 @@
-This is an automatically generated eMail. Please don't answer this eMail. The contact Email address is: enfi-2015@mh-hannover.de.
+﻿This is an automatically generated eMail. Please don't answer this eMail. The contact Email address is: enfi-2015@mh-hannover.de.
 
 Dear ${Title} ${FirstName} ${LastName},
 
@@ -13,7 +13,6 @@ Address: ${Address}, ${City}, ${Country}
 Contact information: ${email}, ${Phone}   
 
 You chose:
-Participation in Conference Dinner: ${Conference_Dinner}   
 Please send an invoice: ${Invoice}   
 Participation in EnFI School: ${EnFI_School}   
 

@@ -6,7 +6,7 @@ title: Dates and Deadlines
 |April 12th  |[Abstract submission deadline](abstracts.html)      |
 |May 4th     |Information about acceptance      |
 |May 24th    |Early Bird deadline             |
-|July 5th    |[Student Course](sunday.html)               |
+|July 5th    |[EnFI School](sunday.html)               |
 |July 6th    |Conference Opening                |
 
 
@@ -17,10 +17,6 @@ Registration fees:
 |Before May 24th |190€ incl. Dinner      |
 |After May 24th   |230€ incl. Dinner      |
 |Sponsors and tutorial speakers   |free                  |
-
-<!--
-|Sunday Tutorial   |20€              |
--->
 
 
 Payment to:
