@@ -1,5 +1,7 @@
 title: Abstract submission
 
+**Submission deadline changed to April 28th.**
+
 All contributions to the EnFI conference are double contributions:
 
 1. A brief, oral presentation of **maximum** 3 minutes with not more than four to five PowerPoint slides.
