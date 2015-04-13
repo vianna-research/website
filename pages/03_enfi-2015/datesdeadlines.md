@@ -4,6 +4,7 @@ title: Dates and Deadlines
 |            |                                  |
 |------------|----------------------------------|
 |April 12th  |[Abstract submission deadline](abstracts.html)      |
+|**April 28th**| **New Abstract Submission Deadline**|
 |May 4th     |Information about acceptance      |
 |May 24th    |Early Bird deadline             |
 |July 5th    |[EnFI School](sunday.html)               |
