@@ -30,12 +30,37 @@ title: Staff
 <td>tegtmeier.katharina(at)mh-hannover.de
 </td>
 </tr>
-</table>
+<table>
 
 
 -----------------------------
 **Students**
 
+<table>
+<tr>
+<td rowspan="3">![Image Friederike Benjamin](Friederike.png) </td>
+<td>Friederike Benjamin, B.Eng.</td>
+</tr>
+<tr>
+<td>Benjamin.friederike(at)mh-hannover.de</td>
+</tr>
+<tr> 
+<td>Master Thesis	</td>
+</tr>
+<table>
+
+<table>
+<tr>
+<td rowspan="3">Bild </td>
+<td>Ben Lennart Guntenhöner</td>
+</tr>
+<tr>
+<td>Benjamin.friederike(at)mh-hannover.de</td>
+</tr>
+<tr> 
+<td>Master Thesis	</td>
+</tr>
+<table>
 <table>
 <tr>
 <td rowspan="3">![Image Friederike Benjamin](Friederike.png) </td>
