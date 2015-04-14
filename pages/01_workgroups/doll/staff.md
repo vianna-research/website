@@ -51,26 +51,23 @@ title: Staff
 
 <table>
 <tr>
-<td rowspan="3">Bild </td>
+<td rowspan="3">Image </td>
 <td>Ben Lennart Guntenhöner</td>
 </tr>
 <tr>
-<td>Benjamin.friederike(at)mh-hannover.de</td>
+<td>Ben.L.Guntenhoener@stud.mh-hannover.de</td>
 </tr>
 <tr> 
-<td>Master Thesis	</td>
+<td>Medical Doctorate Thesis </td>
 </tr>
 <table>
 <table>
 <tr>
-<td rowspan="3">![Image Friederike Benjamin](Friederike.png) </td>
-<td>Friederike Benjamin, B.Eng.</td>
-</tr>
-<tr>
-<td>Benjamin.friederike(at)mh-hannover.de</td>
+<td rowspan="2">Image</td>
+<td> Rick Liese, B. Eng</td>
 </tr>
 <tr> 
-<td>Master Thesis	</td>
+<td>Student Assistant</td>
 </tr>
 <table>
 
@@ -78,8 +75,8 @@ title: Staff
 
 <!--[Image Lennart Guntenhöner](Lennart.png) | Ben Lennart Guntenhöner | Ben.L.Guntenhoener@stud.mh-hannover.de | Medical Doctorate Thesis 
 
-<!--[Image Rick Liese](Rick.png) |--> Rick Liese, B. Eng | Student Assistant
-
+<!--[Image Rick Liese](Rick.png) | Rick Liese, B. Eng | Student Assistant
+-->
 ![Image Daniel Majaura](Daniel.png) | Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Master Thesis
 
 ![Image Felix Riedel](FelixR.png) | Felix Riedel, B.Eng.	|	riedel.felix(at)mh-hannover.de	|	Master Thesis
