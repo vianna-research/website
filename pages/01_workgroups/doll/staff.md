@@ -15,7 +15,7 @@ title: Staff
 <div class="borderless" markdown="1">
 |                                 |                         |   
 |---------------------------------|-------------------------|   
-| ![Image Jan Stieghorst ](Jan.png) | Dipl.-Ing. Jan Stieghorst |   
+|<rowspan=2> ![Image Jan Stieghorst ](Jan.png) | Dipl.-Ing. Jan Stieghorst |   
 |   | stieghorst.jan(at)mh-hannover.de |  
 </div>
 
