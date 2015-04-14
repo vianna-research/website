@@ -52,10 +52,9 @@ title: Staff
 
 -----------------------------
 **Students**
-
 <table>
 <tr>
-<td rowspan="3">![Image Friederike Benjamin](Friederike.png) </td>
+<td rowspan="3">bild</td>
 <td>Friederike Benjamin, B.Eng.</td>
 </tr>
 <tr>
