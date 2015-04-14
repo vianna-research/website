@@ -11,8 +11,7 @@ title: Staff
 
 ---------------------------
 **Research Team**
-<table border="0"> 
-<tr>
+<table> 
 <td rowspan="2">![Image Jan Stieghorst ](Jan.png)  </td>
 <td> Dipl.-Ing. Jan Stieghorst </td>  
 </tr>
@@ -20,6 +19,9 @@ title: Staff
 <td>stieghorst.jan(at)mh-hannover.de
 </td>
 </tr>
+<table>
+
+<table> 
 <tr>
 <td rowspan="2">![Image Katharina Tegtmeier](Katharina.png)  </td>
 <td> Katharina Tegtmeier, M.Sc. </td>  
