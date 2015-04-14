@@ -13,13 +13,13 @@ title: Staff
 **Research Team**
 
      
-|![Image Jan Stieghorst ](Jan.png) | Dipl.-Ing. Jan Stieghorst|stieghorst.jan(at)mh-hannover.de |   
-|![Image Katharina Tegtmeier](Katharina.png) | Katharina Tegtmeier, M.Sc.|tegtmeier.katharina(at)mh-hannover.de|
+![Image Jan Stieghorst ](Jan.png) | Dipl.-Ing. Jan Stieghorst|stieghorst.jan(at)mh-hannover.de |   
+![Image Katharina Tegtmeier](Katharina.png) | Katharina Tegtmeier, M.Sc.|tegtmeier.katharina(at)mh-hannover.de|
 
 -----------------------------
 **Students**
 
-|![Image Friederike Benjamin](Friederike.png) | Friederike Benjamin, B.Eng.	|
+![Image Friederike Benjamin](Friederike.png) | Friederike Benjamin, B.Eng.	|
 |Benjamin.friederike(at)mh-hannover.de	| Master Thesis	
 
 <!--[Image Azar Farajzadeh](Azar.png) | Azar Farajzadeh, M. Sc. | Student Project -->
