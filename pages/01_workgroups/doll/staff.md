@@ -12,9 +12,9 @@ title: Staff
 ---------------------------
 **Research Team**
 
-![Image Jan Stieghorst ](Jan.png) | Dipl.-Ing. Jan Stieghorst					|		stieghorst.jan(at)mh-hannover.de
+|![Image Jan Stieghorst ](Jan.png) | Dipl.-Ing. Jan Stieghorst|stieghorst.jan(at)mh-hannover.de|
 
-![Image Katharina Tegtmeier](Katharina.png) | Katharina Tegtmeier, M.Sc.			|		tegtmeier.katharina(at)mh-hannover.de
+|![Image Katharina Tegtmeier](Katharina.png) | Katharina Tegtmeier, M.Sc.|tegtmeier.katharina(at)mh-hannover.de|
 
 -----------------------------
 **Students**
@@ -23,7 +23,7 @@ title: Staff
 
 <!--[Image Azar Farajzadeh](Azar.png) | Azar Farajzadeh, M. Sc. | Student Project -->
 
-<!--[Image Lennart Guntenhöner](Lennart.png) | Ben Lennart Guntenhöner | Ben.L.Guntenhoener@stud.mh-hannover.de | Medical Doctorate Thesis -->
+<!--[Image Lennart Guntenhöner](Lennart.png) | Ben Lennart Guntenhöner | Ben.L.Guntenhoener@stud.mh-hannover.de | Medical Doctorate Thesis 
 
 <!--[Image Rick Liese](Rick.png) |--> Rick Liese, B. Eng | Student Assistant
 
