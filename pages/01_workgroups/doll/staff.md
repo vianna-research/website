@@ -1,7 +1,10 @@
 title: Staff
 
 **Head of research group**
-<table> 
+
+![Image Theo Doll](Theo.png) |[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de   
+
+<!--<table> 
 <td rowspan="2">![Image Theo Doll](Theo.png) </td>
 <td> [Prof. Dr.-Ing. Theodor Doll](pagedoll.html) </td>  
 </tr>
@@ -10,10 +13,13 @@ title: Staff
 </td>
 </tr>
 <table>
-
+-->
 ----------------------------------------------------------------------------------------
 **Team Assistant**
-<table>
+
+![Image Bettina Goede](Bettina.jpg) | Bettina Goede	|	Phone: 0511 532 7231 |Fax: 0511 532 18576
+
+<!--<table>
 <td rowspan="4">![Image Bettina Goede](Bettina.jpg)  </td>
 <td>Bettina Goede	</td>
 </tr>
@@ -28,10 +34,13 @@ title: Staff
 <tr> </td>
 </tr>
 <table>
-
+-->
 ----------------
-**Research Team**
-<table>
+**Research Team**   
+
+![Image Jan Stieghorst ](Jan.png)   | Dipl.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de    
+![Image Katharina Tegtmeier](Katharina.png)  | Katharina Tegtmeier, M.Sc. 	|	tegtmeier.katharina(at)mh-hannover.de  
+<!--<table>
 <tr>
 <td rowspan="2">![Image Jan Stieghorst ](Jan.png)  </td>
 <td> Dipl.-Ing. Jan Stieghorst </td>  
@@ -49,11 +58,11 @@ title: Staff
 </td>
 </tr>
 <table>
-
+-->
 -----------------------------
 **Students**
 
-![Image Friederike Benjamin](Friederike.png)|Friederike Benjamin|benjamin.friederike@mh-hannover.de| Master Thesis
+![Image Friederike Benjamin](Friederike.png)|Friederike Benjamin|benjamin.friederike@mh-hannover.de| Master Thesis   
 <!-- ![Image Fabian Bormann](Fabian.png)| Fabian Bormann|Student Assistant -->
 <!--[Image Azar Farajzadeh](Azar.png) | Azar Farajzadeh, M. Sc. | Student Project
 <!--[Image Lennart Guntenhöner](Lennart.png) |-->
