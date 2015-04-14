@@ -2,7 +2,7 @@ title: Staff
 
 **Head of research group**
 
-![Image Theo Doll](Theo.png) |  Prof. Dr.-Ing. Theodor Doll |  doll.theodor(at)mh-hannover.de
+![Image Theo Doll](Theo.png) |  [Prof. Dr.-Ing. Theodor Doll](pagedoll.html) |  doll.theodor(at)mh-hannover.de
 
 ----------------------------------------------------------------------------------------
 **Team Assistant**
@@ -19,11 +19,12 @@ title: Staff
 |   | stieghorst.jan(at)mh-hannover.de |  
 </div>
 
-
-    
+<div class="borderless" markdown="1">
+|                                 |                         |   
+|---------------------------------|-------------------------|   
 |![Image Katharina Tegtmeier](Katharina.png)|Katharina Tegtmeier, M.Sc.|   
 |   |tegtmeier.katharina(at)mh-hannover.de|   
-
+</div>
 -----------------------------
 **Students**
 
