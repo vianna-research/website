@@ -64,7 +64,10 @@ title: Staff
 <tr> 
 <td>Master Thesis	</td>
 </tr>
+<table>
 
+
+<!--
 <tr>
 <td rowspan="2">Image</td>
 <td> Fabian Bormann</td>
@@ -125,7 +128,7 @@ title: Staff
 <td>Master Thesis</td>
 </tr>
 <table>
-
+-->
 
 #Former Researchers and Students
 
