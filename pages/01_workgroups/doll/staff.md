@@ -35,14 +35,7 @@ title: Staff
 </div>
 <table/>
 
-<!--
-<div class="borderless" markdown="1">
-|                                 |                         |   
-|---------------------------------|-------------------------|   
-|![Image Katharina Tegtmeier](Katharina.png)|Katharina Tegtmeier, M.Sc.|   
-|   |tegtmeier.katharina(at)mh-hannover.de|   
-</div>
--->
+
 -----------------------------
 **Students**
 
