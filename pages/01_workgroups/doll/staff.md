@@ -127,19 +127,6 @@ title: Staff
 <table>
 
 
-<!--[Image Azar Farajzadeh](Azar.png) | Azar Farajzadeh, M. Sc. | Student Project -->
-
-<!--[Image Lennart Guntenhöner](Lennart.png) | Ben Lennart Guntenhöner | Ben.L.Guntenhoener@stud.mh-hannover.de | Medical Doctorate Thesis 
-
-<!--[Image Rick Liese](Rick.png) | Rick Liese, B. Eng | Student Assistant
-
-![Image Daniel Majaura](Daniel.png) | Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Master Thesis
-
-![Image Felix Riedel](FelixR.png) | Felix Riedel, B.Eng.	|	riedel.felix(at)mh-hannover.de	|	Master Thesis
-
-![Image Nina Sendler](Nina.png) | Nina Sendler, B.Eng.	|	sendler.nina(at)mh-hannover.de	|	Master Thesis
--->
-
 #Former Researchers and Students
 
 ***
