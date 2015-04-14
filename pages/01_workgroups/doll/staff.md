@@ -44,9 +44,7 @@ title: Staff
 <tr> 
 <td>Master Thesis	</td>
 </tr>
-<table>
 
-<table>
 <tr>
 <td rowspan="3">Image </td>
 <td>Ben Lennart Guntenhöner</td>
@@ -66,20 +64,54 @@ title: Staff
 <tr> 
 <td>Student Assistant</td>
 </tr>
+
+<tr>
+<td rowspan="3">![Image Daniel Majaura](Daniel.png) </td>
+<td>Daniel Majaura, B.Eng.</td>
+</tr>
+<tr>
+<td>majaura.daniel(at)mh-hannover.de</td>
+</tr>
+<tr> 
+<td>Master Thesis</td>
+</tr>
+
+<tr>
+<td rowspan="3">![Image Felix Riedel](FelixR.png) </td>
+<td>Felix Riedel, B.Eng.</td>
+</tr>
+<tr>
+<td>riedel.felix(at)mh-hannover.de</td>
+</tr>
+<tr> 
+<td>Master Thesis</td>
+</tr>
+
+<tr>
+<td rowspan="3">![Image Nina Sendler](Nina.png)</td>
+<td>Nina Sendler, B.Eng.</td>
+</tr>
+<tr>
+<td>sendler.nina(at)mh-hannover.de</td>
+</tr>
+<tr> 
+<td>Master Thesis</td>
+</tr>
 <table>
+
 
 <!--[Image Azar Farajzadeh](Azar.png) | Azar Farajzadeh, M. Sc. | Student Project -->
 
 <!--[Image Lennart Guntenhöner](Lennart.png) | Ben Lennart Guntenhöner | Ben.L.Guntenhoener@stud.mh-hannover.de | Medical Doctorate Thesis 
 
 <!--[Image Rick Liese](Rick.png) | Rick Liese, B. Eng | Student Assistant
--->
+
 ![Image Daniel Majaura](Daniel.png) | Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Master Thesis
 
 ![Image Felix Riedel](FelixR.png) | Felix Riedel, B.Eng.	|	riedel.felix(at)mh-hannover.de	|	Master Thesis
 
 ![Image Nina Sendler](Nina.png) | Nina Sendler, B.Eng.	|	sendler.nina(at)mh-hannover.de	|	Master Thesis
-
+-->
 
 #Former Researchers and Students
 
