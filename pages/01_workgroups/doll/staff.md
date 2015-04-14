@@ -1,17 +1,38 @@
 title: Staff
 
 **Head of research group**
-
-![Image Theo Doll](Theo.png) |  [Prof. Dr.-Ing. Theodor Doll](pagedoll.html) |  doll.theodor(at)mh-hannover.de
+<table> 
+<td rowspan="2">![Image Theo Doll](Theo.png) </td>
+<td> [Prof. Dr.-Ing. Theodor Doll](pagedoll.html) </td>  
+</tr>
+<tr>
+<td>doll.theodor(at)mh-hannover.de
+</td>
+</tr>
+<table>
 
 ----------------------------------------------------------------------------------------
 **Team Assistant**
+<table>
+<td rowspan="4">![Image Bettina Goede](Bettina.jpg)  </td>
+<td>Bettina Goede	</td>
+</tr>
+<tr>
+<td>goede.bettina(at)mh-hannover.de	</td>
+</tr>
+<tr> 
+<td>Phone: 0511 532 7231 </td>
+</tr>
+<tr> 
+<td>Fax: 0511 532 18576
+<tr> </td>
+</tr>
+<table>
 
-![Image Bettina Goede](Bettina.jpg) | Bettina Goede					|		goede.bettina(at)mh-hannover.de	|	Phone: 0511 532 7231	|	Fax: 0511 532 18576
-
----------------------------
+----------------
 **Research Team**
-<table> 
+<table>
+<tr>
 <td rowspan="2">![Image Jan Stieghorst ](Jan.png)  </td>
 <td> Dipl.-Ing. Jan Stieghorst </td>  
 </tr>
@@ -29,7 +50,6 @@ title: Staff
 </tr>
 <table>
 
-
 -----------------------------
 **Students**
 
@@ -44,7 +64,13 @@ title: Staff
 <tr> 
 <td>Master Thesis	</td>
 </tr>
-
+<tr>
+<td rowspan="2">Image</td>
+<td> Fabian Bormann</td>
+</tr>
+<tr> 
+<td>Student Assistant</td>
+</tr>
 <tr>
 <td rowspan="3">Image </td>
 <td>Ben Lennart Guntenhöner</td>
@@ -55,8 +81,6 @@ title: Staff
 <tr> 
 <td>Medical Doctorate Thesis </td>
 </tr>
-<table>
-<table>
 <tr>
 <td rowspan="2">Image</td>
 <td> Rick Liese, B. Eng</td>
@@ -64,7 +88,6 @@ title: Staff
 <tr> 
 <td>Student Assistant</td>
 </tr>
-
 <tr>
 <td rowspan="3">![Image Daniel Majaura](Daniel.png) </td>
 <td>Daniel Majaura, B.Eng.</td>
@@ -75,7 +98,6 @@ title: Staff
 <tr> 
 <td>Master Thesis</td>
 </tr>
-
 <tr>
 <td rowspan="3">![Image Felix Riedel](FelixR.png) </td>
 <td>Felix Riedel, B.Eng.</td>
@@ -86,7 +108,6 @@ title: Staff
 <tr> 
 <td>Master Thesis</td>
 </tr>
-
 <tr>
 <td rowspan="3">![Image Nina Sendler](Nina.png)</td>
 <td>Nina Sendler, B.Eng.</td>
