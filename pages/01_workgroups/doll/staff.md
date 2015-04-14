@@ -20,10 +20,6 @@ title: Staff
 <td>stieghorst.jan(at)mh-hannover.de
 </td>
 </tr>
-</div>
-<table/>
-
-<table> 
 <tr>
 <td rowspan="2">![Image Katharina Tegtmeier](Katharina.png)  </td>
 <td> Katharina Tegtmeier, M.Sc. </td>  
@@ -32,8 +28,7 @@ title: Staff
 <td>tegtmeier.katharina(at)mh-hannover.de
 </td>
 </tr>
-</div>
-<table/>
+<table>
 
 
 -----------------------------
