@@ -11,20 +11,38 @@ title: Staff
 
 ---------------------------
 **Research Team**
-
-<div class="borderless" markdown="1">
-|                                 |                         |   
-|---------------------------------|-------------------------|   
-|<rowspan=2> ![Image Jan Stieghorst ](Jan.png) | Dipl.-Ing. Jan Stieghorst |   
-|   | stieghorst.jan(at)mh-hannover.de |  
+<table> 
+<tr>
+<td rowspan="2">![Image Jan Stieghorst ](Jan.png)  </td>
+<td> Dipl.-Ing. Jan Stieghorst </td>  
+</tr>
+<tr>
+<td>stieghorst.jan(at)mh-hannover.de
+</td>
+</tr>
 </div>
+<table/>
 
+<table> 
+<tr>
+<td rowspan="2">![Image Katharina Tegtmeier](Katharina.png)  </td>
+<td> Katharina Tegtmeier, M.Sc. </td>  
+</tr>
+<tr>
+<td>tegtmeier.katharina(at)mh-hannover.de
+</td>
+</tr>
+</div>
+<table/>
+
+<!--
 <div class="borderless" markdown="1">
 |                                 |                         |   
 |---------------------------------|-------------------------|   
 |![Image Katharina Tegtmeier](Katharina.png)|Katharina Tegtmeier, M.Sc.|   
 |   |tegtmeier.katharina(at)mh-hannover.de|   
 </div>
+-->
 -----------------------------
 **Students**
 
