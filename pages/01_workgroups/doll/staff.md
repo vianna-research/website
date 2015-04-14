@@ -18,10 +18,7 @@ title: Staff
 <tr>
 <td>stieghorst.jan(at)mh-hannover.de
 </td>
-</tr>
-<table>
-
-<table> 
+</tr> 
 <tr>
 <td rowspan="2">![Image Katharina Tegtmeier](Katharina.png)  </td>
 <td> Katharina Tegtmeier, M.Sc. </td>  
