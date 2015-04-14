@@ -64,6 +64,7 @@ title: Staff
 <tr> 
 <td>Master Thesis	</td>
 </tr>
+
 <tr>
 <td rowspan="2">Image</td>
 <td> Fabian Bormann</td>
@@ -71,6 +72,7 @@ title: Staff
 <tr> 
 <td>Student Assistant</td>
 </tr>
+
 <tr>
 <td rowspan="3">Image </td>
 <td>Ben Lennart Guntenhöner</td>
@@ -81,6 +83,7 @@ title: Staff
 <tr> 
 <td>Medical Doctorate Thesis </td>
 </tr>
+
 <tr>
 <td rowspan="2">Image</td>
 <td> Rick Liese, B. Eng</td>
@@ -88,6 +91,7 @@ title: Staff
 <tr> 
 <td>Student Assistant</td>
 </tr>
+
 <tr>
 <td rowspan="3">![Image Daniel Majaura](Daniel.png) </td>
 <td>Daniel Majaura, B.Eng.</td>
@@ -98,6 +102,7 @@ title: Staff
 <tr> 
 <td>Master Thesis</td>
 </tr>
+
 <tr>
 <td rowspan="3">![Image Felix Riedel](FelixR.png) </td>
 <td>Felix Riedel, B.Eng.</td>
@@ -108,6 +113,7 @@ title: Staff
 <tr> 
 <td>Master Thesis</td>
 </tr>
+
 <tr>
 <td rowspan="3">![Image Nina Sendler](Nina.png)</td>
 <td>Nina Sendler, B.Eng.</td>
