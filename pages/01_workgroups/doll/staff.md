@@ -11,7 +11,7 @@ title: Staff
 
 ---------------------------
 **Research Team**
-<table> 
+<table border="0"> 
 <tr>
 <td rowspan="2">![Image Jan Stieghorst ](Jan.png)  </td>
 <td> Dipl.-Ing. Jan Stieghorst </td>  
