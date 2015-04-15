@@ -62,8 +62,9 @@ title: Staff
 -----------------------------
 **Students**
 
-![Image Friederike Benjamin](Friederike.png)|Friederike Benjamin|benjamin.friederike@mh-hannover.de| Master Thesis   
-<!-- ![Image Fabian Bormann](Fabian.png)| Fabian Bormann|Student Assistant -->
+![Image Friederike Benjamin](Friederike.png)|Friederike Benjamin|benjamin.friederike@mh-hannover.de| Master Thesis      
+<!-- ![Image Fabian Bormann](Fabian.png)--> 
+Fabian Borrmann|Student Assistant 
 <!--[Image Azar Farajzadeh](Azar.png) | Azar Farajzadeh, M. Sc. | Student Project
 <!--[Image Lennart Guntenhöner](Lennart.png) |-->
 Ben Lennart Guntenhöner | Ben.L.Guntenhoener@stud.mh-hannover.de | Medical Doctorate Thesis 
