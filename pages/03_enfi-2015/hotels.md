@@ -10,8 +10,8 @@ Both are close to the conference location at Hannover Medical School. From both 
 
 ![IBIS](ibis.jpg)
 
-Feodor-Lynen-Straße 1
-30625 Hannover
+Feodor-Lynen-Straße 1   
+30625 Hannover   
 
 Tel: +49(0)511 95 67 0   
 Fax: +49(0)511 95 67 140   
@@ -31,8 +31,8 @@ special rate: 69€
 
 ![GHotel](ghotel.jpg)
 
-Lathusenstraße 15
-30625 Hannover
+Lathusenstraße 15   
+30625 Hannover  
 
 Tel: +49(0)511 5303 127    
 Fax: +49(0)511 5303 111   
