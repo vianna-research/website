@@ -1,101 +1,41 @@
 title: Registration
 
-**The registratiom formular will be online as soon as information about acceptance is send out**
-
-<!--
-
-<form id="kontaktformular" name="kontaktformular" action="">
-<tr>
- <td align="right" valign="top">Title:</td>
- <td>
- <select name="Title" class="Auswahl" size="1">
- <option value="Mr">Mr</option>
- <option value="Mrs">Mrs</option>
- <option value="Dr.">Dr.</option>
- <option value="Prof.">Prof.</option>
- </select>
- </td>
-</tr>
-<div>
- <td align="right" <label for="Vorname">First Name* :</label>
- <input type="text" size="30" maxlength="40" value="Please enter your first name" id="absender" name="absender"
+<div markdown="1" >
+<form id="register" name="register" action="http://vianna.de/fcgi-bin/register2-enfi2015.py" method="POST">
+<!-- next few lines are to fight of unwanted bots and humans don't fill those -->
+<div class="very_important">
+Please activate CSS in your browser.
+<input type="checkbox" name="terms">
+<input type="text"size="40" maxlength="50" name="name">
 </div>
 
-<div>
- <label for="Nachname">Last Name* :</label>
- <input type="text" size="30" maxlength="40" value="Please enter your last name" id="absender" name="absender" />
-</div>
-<div>
- <label for="Affiliation">Affiliation* :</label>
- <input type="text" value="Hannover Medical School" id="absender" name="absender" />
-</div>
-Please enter your invoice address:
-<div>
- <label for="Adresse">Address* :</label>
- <input type="text" value="Feodor-Lynen-Straße 27" id="absender" name="absender" />
-</div>
-<div>
- <label for="Stadt">Postcode and City* :</label>
- <input type="text" size="30" maxlength="40" value="30625 Hannover" id="absender" name="absender" />
-</div>
-<div>
- <label for="Land">Country* :</label>
- <input type="text" size="30" maxlength="40" value="Germany" id="absender" name="absender" />
-</div>
+|             |                                                                                                                  |
+| --------    | ---------------------------------------------------------------------------------------------------------------: |
+||Please make sure to fill in each of the |
+|| following boxes.|
+| Title:      | <select name="Title"><option>Mr</option><option>Mrs</option><option>Dr.</option><option>Prof.</option></select>  |
+| First Name: | <input type="text" size="40" maxlength="50" name="FirstName">   |
+| Last Name: | <input type="text" size="40" maxlength="50" name="LastName">     |
+| Affiliation|  <input type="text" size="40" maxlength="50" name="Affiliation" >|
+||Address:|
+|Street and Number|<input type="text" size="40" maxlength="80"  name="Address" >|
+|Postcode and City|<input type="text" size="40" maxlength="40" name="City" >|
+|Country| <input type="text" size="40" maxlength="40" name="Country" >|
+||Contact information:|
+|eMail| <input type="text" size="40" maxlength="60" name="email"> |  
+|Phone|<input type="text" size="40" maxlength="40" name="Phone">|
+|||
+||  Please choose: |
+|EnFI School| <select name="EnFI_School"><option>Yes</option><option>No</option></select>|
+|Invoice|<select name="Invoice"> <option>Yes</option><option>No</option></select>|
+| | |
+| | <input type="submit" class="btn btn-primary" value="Submit"> |
 
-</div>
-<tr>
- <td align="right" valign="top"> Please send me an invoice:</td>
- <td>
- <select name="Invoice" class="Auswahl" size="1">
- <option value="Ja">Yes</option>
- <option value="Nein">No</option>
- </select>
- </td>
-</tr>
-</div>
 
-<div>
- <label for="Mailadresse">Email* :</label>
- <input type="text" size="30" maxlength="40" value="enfi@mh-hannover.de" id="absender" name="absender" />
-</div>
-<div>
- <label for="Telefon">Phone* :</label>
- <input type="text" size="30" maxlength="40" value="0511 532 7231" id="absender" name="absender" />
-</div>
 
-</div>
-<tr>
- <td align="right" valign="top"> Participation in Conference Dinner:</td>
- <td>
- <select name="Conference Dinner" class="Auswahl" size="1">
- <option value="Ja">Yes</option>
- <option value="Nein">No</option>
- </select>
- </td>
-</tr>
-</div>
-
-</div>
-<tr>
- <td align="right" valign="top"> Participation in Sunday Tutorials:</td>
- <td>
- <select name="Sunday Tutorial" class="Auswahl" size="1">
- <option value="Ja">Yes</option>
- <option value="Nein">No</option>
- </select>
- </td>
-</tr>
-</div>
-
-Spamschutz...3+5 oder für den nutzer unsichtbares aber für den spambot sichtbares feld. http://sevenx.de/blog/php-formular-spamschutz-und-validierung-spam-emails-verhindern-auch-ohne-captcha/
-
-<div>
- <input type="submit" value="submit" />
-</div>
 </form>
+</div>
 
--->
 
 Registration fees:
 
@@ -105,9 +45,6 @@ Registration fees:
 |After May 24th   |230€ incl. Dinner      |
 |Sponsors and tutorial speakers   |free                  |   
 
-<!--
-|Sunday Tutorial   |20€              |
--->
 
 Payment to:
 
