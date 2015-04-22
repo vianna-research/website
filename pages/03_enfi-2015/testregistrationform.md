@@ -27,7 +27,7 @@ Please activate CSS in your browser.
 |Phone|<input type="text" size="40" maxlength="40" name="Phone">|
 |||
 ||  Please choose: |
-|EnFI School| <select name="EnFI_School"> <option>Prof. Maier</option><option>Prof. Kurt</option><option>not interested</option></select>|
+|EnFI School| <select name="EnFI_School"><option>Yes</option><option>No</option></select>|
 |Invoice|<select name="Invoice"> <option>Yes</option><option>No</option></select>|
 | | |
 | | <input type="submit" class="btn btn-primary" value="Submit"> |
@@ -40,3 +40,8 @@ Please activate CSS in your browser.
 
 normaler *Text*
 
+
+<!--
+<option>Prof. Maier</option><option>Prof. Kurt</option><option>not interested</option></select>|
+
+-->
