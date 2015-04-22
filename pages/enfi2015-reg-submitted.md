@@ -17,7 +17,7 @@ Please note that the registration is not complete until the registration fee of 
 | SWIFT-BIC:| DEUT DE DBHAN|
 | Mention:| EnFI-2015 - Lastname, Firstname - Affiliation|
 
-You will receive a registration confirmation within a few days of the money transfer. If you don't receive a registration confirmation or have any questions concerning your registration please contact us. 
+You will receive a registration confirmation within a few days after the money transfer. If you don't receive a registration confirmation or have any questions concerning your registration please contact us. 
 
 We are looking forward to welcome you in Hannover in July.
 
