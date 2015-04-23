@@ -6,7 +6,7 @@ title: Dates and Deadlines
 |<s> April 12th </s> |<s>[Abstract submission deadline](abstracts.html)</s>      |
 |**April 28th**|[ **New Abstract Submission Deadline**](abstracts.html)|
 |<s>May 4th</s>   |<s>Information about acceptance</s>      |
-|**May 4th **|**Information about acceptance **     |
+|**May 19th **|**Information about acceptance **     |
 |<s>May 24th </s>   |<s>Early Bird deadline</s>        |
 |**June 5th**   | **New Early Bird deadline**      |
 |July 5th    |[EnFI School](sunday.html)               |
