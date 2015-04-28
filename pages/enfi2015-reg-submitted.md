@@ -12,7 +12,7 @@ Please note that the registration is not complete until the registration fee of 
 | Bank:| Deutsche Bank Hannover|
 | Account holder:| Förderverein der HNO-Klinik|
 | BLZ:| 250 700 24|
-| Kto:| 857 071 500|
+| Kto:| 857 071 501|
 | IBAN:| DE22 250 700 240 8570715 01|
 | SWIFT-BIC:| DEUT DE DBHAN|
 | Mention:| EnFI-2015 - Lastname, Firstname - Affiliation|
