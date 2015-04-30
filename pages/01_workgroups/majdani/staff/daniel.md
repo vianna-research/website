@@ -16,8 +16,8 @@
 |Experience|
 |------------------|-----------------------|
 |since 04/14|PostDoc (Hannover Medical School)|
-|07/10 - 03/14|Research Engineer (Institute of Dynamics and Vibration Research, Leibniz Universität Hannover, Germany)|
-|01/09 - 06/10|Research Engineer (Vanderbilt University Medical Center, Nashville, TN, USA)|
+|07/10-03/14|Research Engineer (Institute of Dynamics and Vibration Research, Leibniz Universität Hannover, Germany)|
+|01/09-06/10|Research Engineer (Vanderbilt University Medical Center, Nashville, TN, USA)|
 
 |Education|
 |------------------|-----------------------|
