@@ -1,5 +1,4 @@
 ﻿title: Dipl.-Ing. Daniel Schurzig
-status:draft
 
 
 ![Image Daniel Schurzig](Daniel.jpg)
@@ -7,7 +6,7 @@ status:draft
 
 |Specialisation	& current Projects|
 |-----------------------------------------|
-|-   Project: [Electromechanical Stimulation of the Cochlea](http://www.vianna.de/01_workgroups/majdani/projects.html "Akva-Med")|
+|-   Project: [Electromechanical Stimulation of the Cochlea (EMS)](http://www.vianna.de/01_workgroups/majdani/projects.html "Electromechanical Stimulation of the Cochlea (EMS)")|
 | |
 |-   Numerical and Experimental Analysis of the Cochlea Mechanism|
 |-   Development of Cochlear Implant (CI) Electrodes|
