@@ -23,8 +23,8 @@
 |------------------|-----------------------|
 |11/08|Diploma in Mechanical Engineering (Leibniz Universität Hannover, Germany)|
 
-|Contact|
-|------------------|
+**Contact**
+
 	VIANNA - Institut für Audioneurotechnologie
 	der Klinik für Hals-, Nasen-, Ohrenheilkunde
 	Klinik für Hals-Nasen-Ohrenheilkunde
