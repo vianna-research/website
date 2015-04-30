@@ -1,32 +1,36 @@
-title: M. Sc. Silke Hügl
+﻿title: Dipl.-Ing. Daniel Schurzig
+status:draft
 
 
-![Image Silke Hügl](Silke.jpg)
+![Image Daniel Schurzig](Daniel.jpg)
 
 
 |Specialisation	& current Projects|
 |-----------------------------------------|
-|-   Project: [Akva-Med](http://www.vianna.de/01_workgroups/majdani/projects.html "Akva-Med")|
+|-   Project: [Electromechanical Stimulation of the Cochlea](http://www.vianna.de/01_workgroups/majdani/projects.html "Akva-Med")|
 | |
-|-   Development of Cochlear Implant (CI) Electrodes| 
-|-   Finite Element Analysis of CIs|
-|-   Navigated Insertion of Cochlear Implant Electrodes|
-|-   Manual and automated Microgrinding|
+|-   Numerical and Experimental Analysis of the Cochlea Mechanism|
+|-   Development of Cochlear Implant (CI) Electrodes|
+|-   Geometrical Cochlea Analysis|
 
 
-
-|Academic Education|                       |
+|Experience|
 |------------------|-----------------------|
-|2012|Master of Science, Biomedical Engineering (TU Ilmenau)|
-|2011|Bachelor of Science, Biomedical Engineering (TU Ilmenau)|
+|since 04/14|PostDoc (Hannover Medical School)|
+|07/10 - 03/14|Research Engineer (Institute of Dynamics and Vibration Research, Leibniz Universität Hannover, Germany)|
+|01/09 - 06/10|Research Engineer (Vanderbilt University Medical Center, Nashville, TN, USA)|
+
+|Education|
+|------------------|-----------------------|
+|11/08|Diploma in Mechanical Engineering (Leibniz Universität Hannover, Germany)|
 
 |Contact|                       
 |------------------|
 |VIANNA - Institut für Audioneurotechnologie|
 |der Klinik für Hals-, Nasen-, Ohrenheilkunde|
 |Medizinische Hochschule Hannover|
-|Feodor-Lynen-Str. 35|
+|Feodor-Lynen-Str. 27|
 | 30625 Hannover|
 | |
-|Huegl.Silke(at)mh-hannover.de|
-|Tel.: +49 (0) 511-532-7263|
+|Schurzig.Daniel(at)mh-hannover.de|
+|Tel.: +49 (0) 511-532-7305|
