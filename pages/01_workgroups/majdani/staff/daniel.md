@@ -1,10 +1,10 @@
 ﻿title: Dipl.-Ing. Daniel Schurzig
 
 
-![Image Daniel Schurzig](Daniel.jpg)
+![Image Daniel Schurzig](Daniel_groß.jpg)
 
 
-|Specialisation	& current Projects|
+|Specialisation	& Current Projects|
 |-----------------------------------------|
 |-   Project: [Electromechanical Stimulation of the Cochlea (EMS)](http://www.vianna.de/01_workgroups/majdani/projects.html "Electromechanical Stimulation of the Cochlea (EMS)")|
 | |
@@ -23,13 +23,14 @@
 |------------------|-----------------------|
 |11/08|Diploma in Mechanical Engineering (Leibniz Universität Hannover, Germany)|
 
-|Contact|                       
+|Contact|
 |------------------|
-|VIANNA - Institut für Audioneurotechnologie|
-|der Klinik für Hals-, Nasen-, Ohrenheilkunde|
-|Medizinische Hochschule Hannover|
-|Feodor-Lynen-Str. 27|
-| 30625 Hannover|
-| |
-|Schurzig.Daniel(at)mh-hannover.de|
-|Tel.: +49 (0) 511-532-7305|
+	VIANNA - Institut für Audioneurotechnologie
+	der Klinik für Hals-, Nasen-, Ohrenheilkunde
+	Klinik für Hals-Nasen-Ohrenheilkunde
+	Medizinische Hochschule Hannover
+	Feodor-Lynen-Str. 27
+	30625 Hannover
+	
+	Schurzig.Daniel(at)mh-hannover.de
+	Phone.: +49 (0) 511-532-7305|Contact|                       
