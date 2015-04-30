@@ -31,6 +31,5 @@
 	Medizinische Hochschule Hannover
 	Feodor-Lynen-Str. 27
 	30625 Hannover
-	
 	Schurzig.Daniel(at)mh-hannover.de
 	Phone.: +49 (0) 511-532-7305|Contact|                       
