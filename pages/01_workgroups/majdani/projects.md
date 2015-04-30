@@ -1,7 +1,4 @@
 ﻿title:Projects
-status:draft 
-
-
 
 
 ##Hearing4all - Electromechanical Stimulation of the Cochlea (EMS)
