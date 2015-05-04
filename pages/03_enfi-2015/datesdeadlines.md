@@ -17,7 +17,7 @@ Registration fees:
 
 |            |                                  |
 |------------|----------------------------------|
-|Before June 5th |190€ incl. Dinner      |
+|Until June 5th |190€ incl. Dinner      |
 |After June 5th   |230€ incl. Dinner      |
 |Sponsors and tutorial speakers   |free                  |
 
