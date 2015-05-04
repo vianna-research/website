@@ -36,6 +36,9 @@
 
 ##Hexapod
 
+
+-   Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/Marcel.html) | Kluge.Marcel@mh-hannover.de
+
 ##Gentle-CI
 -   Project Partners: 
 	
