@@ -1,7 +1,11 @@
 title: Preliminary Programm
 
-For the first time this year, two parallel 2h student courses are available for all EnFI participants arriving on sunday for additional 20 € in conference fees.
-  
+For the first time this year, two parallel 2h student courses are available for all EnFI participants arriving on sunday.
+
+<!--
+Please be aware, that the presentation time will not exceed 3 minutes per person. You will have enough time to present you results at your poster during the poster sessions.
+-->
+
 
 | July 5th           |  Student Course                               |
 |------------|----------------------------------|
