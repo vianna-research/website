@@ -1,10 +1,23 @@
-title:Projects
-status:draft 
+﻿title:Projects
 
 
+##Hearing4all - Electromechanical Stimulation of the Cochlea (EMS)
+-   Project Partners: 
+	
+	Leibniz Universität Hannover, [Institute of Micro Production Technology](http://www.impt.uni-hannover.de/das_impt.html?&L=1 "Institute of Micro Production Technology")
 
+	Leibniz Universität Hannover, [Institute of Dynamics and Vibration Research](http://www.ids.uni-hannover.de/ueber_uns.html?&L=1 "Institute of Dynamics and Vibration Research")
 
-##Hearing 4 All
+-   Aims:
+
+    Development of a novel implant allowing for simultaneous electrical and mechanical cochlea stimulation
+	
+    Reserach has shown that in case of residual hearing, the best hearing perception can be achieved by simultaneous employment of a hearing aid and cochlear implant. 
+	Motivated by this discovery, the project aim is to develop a single implant capable of both electrical and mechanical cochlea stimulation. The main task herein is the development, 
+	layout and optimization of miniaturized actuators which can be incorporated into existing cochlear implants.
+	
+-   Contact: [Daniel Schurzig](http://www.vianna.de/01_workgroups/majdani/staff/daniel.html) | Schurzig.Daniel@mh-hannover.de
+
 
 ##Robo-Jig
 
