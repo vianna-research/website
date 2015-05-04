@@ -1,26 +1,27 @@
 ﻿title: Dipl.-Ing. Marcel Kluge
-status:draft
+
 
 ![Image Marcel Kluge](Marcel.jpg)
 
 
 |Specialisation	& Current Projects|
 |-----------------------------------------|
-|-   Project: [Electromechanical Stimulation of the Cochlea (EMS)](http://www.vianna.de/01_workgroups/majdani/projects.html "Electromechanical Stimulation of the Cochlea (EMS)")|
+|-   Project: [Hexapod](http://www.vianna.de/01_workgroups/majdani/projects.html "Hexapod")|
 | |
-|-   Numerical and Experimental Analysis of the Cochlea Mechanism|
-|-   Development of Cochlear Implant (CI) Electrodes|
-|-   Geometrical Cochlea Analysis|
+|-   Construction for minimally invasive surgical intervention|
+|-   Anatomical Workplace analysis|
 
 
 |Experience|
 |------------------|-----------------------|
-| 2014| Research Engineer (Hannover Medical School)|
+| since 2014| Research Engineer (Hannover Medical School)|
+| 2005-2006 | skilled worker as Toolmaker (Volkswagen Nutzfahrzeuge Hannoer)
 
 |Education|
 |------------------|-----------------------|
-| 2014| Diploma in Mechanical Engineering (Leibniz Universität Hannover, Germany)|
-| 2008| State Certified Engineer ()|
+| 2014| Diploma in Mechanical Engineering (Leibniz Universität Hannover)|
+| 2008| State-certified Engineer (State College for Technicians BBS-me in Hannover)|
+| 2005| Toolmaker(Volkswagen Nutzfahrzeuge Hannover)|
 
 **Contact**
 
@@ -31,4 +32,4 @@ status:draft
 	Feodor-Lynen-Str. 27
 	30625 Hannover
 	Schurzig.Daniel(at)mh-hannover.de
-	Phone.: +49 (0) 511-532-7305|Contact|                       
+	Phone.: +49 (0) 511-532-7305                       
