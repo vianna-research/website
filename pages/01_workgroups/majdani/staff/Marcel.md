@@ -1,5 +1,5 @@
 ﻿title: Dipl.-Ing. Marcel Kluge
-status:draft
+
 
 ![Image Marcel Kluge](Marcel.jpg)
 
