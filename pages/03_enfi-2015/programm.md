@@ -15,7 +15,7 @@ Please be aware, that the presentation time will not exceed 3 minutes per person
 
 
 
-|       July 6th     |                                 |
+|       July 6th     |        EnFI - First Day                         |
 |------------|----------------------------------|
 |08:00 - 9:00 |Registration      |
 |09:00 - 09:15    |Conference Opening     |
@@ -29,7 +29,7 @@ Please be aware, that the presentation time will not exceed 3 minutes per person
 |20:00   |Conference Dinner           |
 
 
-|       July 7th     |                                 |
+|       July 7th     |         EnFI - Second Day                        |
 |------------|----------------------------------|
 |09:00 - 11:45  |**Session D**     |
 |Tutorial Speaker| Prof. M. Dienwiebel, KIT, Karlsruhe|
