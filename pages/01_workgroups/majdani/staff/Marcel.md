@@ -21,7 +21,7 @@
 |------------------|-----------------------|
 | 2014| Diploma in Mechanical Engineering (Leibniz Universität Hannover)|
 | 2008| State-certified Engineer (State College for Technicians BBS-me in Hannover)|
-| 2005| Toolmaker(Volkswagen Nutzfahrzeuge Hannover)|
+| 2005| Toolmaker (Volkswagen Nutzfahrzeuge Hannover)|
 
 **Contact**
 
