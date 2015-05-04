@@ -1,9 +1,13 @@
 title: Preliminary Programm
 
-For the first time this year, two parallel 2h student courses are available for all EnFI participants arriving on sunday for additional 20 € in conference fees.
-  
+For the first time this year, two parallel 2h student courses are available for all EnFI participants arriving on sunday.
 
-| July 5th           |  Student Course                               |
+
+Please be aware, that the presentation time will not exceed 3 minutes per person. But you will have enough time to present you results at your poster during the poster sessions.
+
+
+
+| July 5th           |  EnFI School                               |
 |------------|----------------------------------|
 |15:00 |Pre-Registration     |
 |15:30 - 17:30   |[Parallel Student Courses](sunday.html)      |
@@ -11,7 +15,7 @@ For the first time this year, two parallel 2h student courses are available for 
 
 
 
-|       July 6th     |                                 |
+|       July 6th     |        EnFI - First Day                         |
 |------------|----------------------------------|
 |08:00 - 9:00 |Registration      |
 |09:00 - 09:15    |Conference Opening     |
@@ -25,7 +29,7 @@ For the first time this year, two parallel 2h student courses are available for 
 |20:00   |Conference Dinner           |
 
 
-|       July 7th     |                                 |
+|       July 7th     |         EnFI - Second Day                        |
 |------------|----------------------------------|
 |09:00 - 11:45  |**Session D**     |
 |Tutorial Speaker| Prof. M. Dienwiebel, KIT, Karlsruhe|
