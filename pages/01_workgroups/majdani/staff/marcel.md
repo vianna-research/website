@@ -1,7 +1,7 @@
 ﻿title: Dipl.-Ing. Marcel Kluge
 
 
-![Image Marcel Kluge](Marcel_groß.jpg)
+![Image Marcel Kluge](Kluge_2.jpg)
 
 
 |Specialisation	& Current Projects|
