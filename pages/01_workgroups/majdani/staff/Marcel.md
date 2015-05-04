@@ -1,7 +1,7 @@
 ﻿title: Dipl.-Ing. Marcel Kluge
 status:draft
 
-![Image Daniel Schurzig](Daniel_groß.jpg)
+![Image Marcel Kluge](Marcel.jpg)
 
 
 |Specialisation	& Current Projects|
@@ -15,13 +15,12 @@ status:draft
 
 |Experience|
 |------------------|-----------------------|
-|since 04/14|PostDoc (Hannover Medical School)|
-|07/10-03/14|Research Engineer (Institute of Dynamics and Vibration Research, Leibniz Universität Hannover, Germany)|
-|01/09-06/10|Research Engineer (Vanderbilt University Medical Center, Nashville, TN, USA)|
+| 2014| Research Engineer (Hannover Medical School)|
 
 |Education|
 |------------------|-----------------------|
-|11/08|Diploma in Mechanical Engineering (Leibniz Universität Hannover, Germany)|
+| 2014| Diploma in Mechanical Engineering (Leibniz Universität Hannover, Germany)|
+| 2008| State Certified Engineer ()|
 
 **Contact**
 
