@@ -7,7 +7,7 @@ Please be aware, that the presentation time will not exceed 3 minutes per person
 
 
 
-| July 5th           |  Student Course                               |
+| July 5th           |  EnFI School                               |
 |------------|----------------------------------|
 |15:00 |Pre-Registration     |
 |15:30 - 17:30   |[Parallel Student Courses](sunday.html)      |
