@@ -4,7 +4,7 @@ title: Abstract submission
 
 All contributions to the EnFI conference are double contributions:
 
-1. A brief, oral presentation of **maximum** 3 minutes with not more than four to five PowerPoint slides.
+1. A brief, oral presentation of **maximum** 3 minutes with not more than four to five PowerPoint slides. Presentation language is english.
 These brief presentations serve as appetizers for starting in-depth discussions during the poster sessions. Please bring your presentation on a memory stick: we will collect all presentations on a ‘presentation computer’ during the breaks and before the beginning of each session.
 
 2. A poster presentation following immediately after each of the four topical sessions. All posters can be stalled on the presentation day and adhesive material will be provided. The recommended poster format is A0 in upright orientation. Other formats are possible but the width must not exceed 118 cm.
