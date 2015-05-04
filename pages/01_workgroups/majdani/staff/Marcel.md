@@ -8,7 +8,7 @@ status:draft
 |-----------------------------------------|
 |-   Project: [Hexapod](http://www.vianna.de/01_workgroups/majdani/projects.html "Hexapod")|
 | |
-|-   Construction of a Hexapod for minimally invasive surgical intervention|
+|-   Construction for minimally invasive surgical intervention|
 |-   Anatomical Workplace analysis|
 
 
