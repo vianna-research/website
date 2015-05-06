@@ -1,5 +1,8 @@
 title: Publications
 
+2015
+---
+* 3D silicone rubber interfaces for individually tailored implants; Jan Stieghorst, Alexandra Bondarenkova, Niklas Burblies, Peter Behrens and Theodor Doll; Biomed Microdevices; DOI 10.1007/s10544-015-9960-y; 2015 accepted
 
 
 2014
