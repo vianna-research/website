@@ -1,5 +1,7 @@
 title: Paasche Lab - Electrode-Neural-Interface
 ***
+![Figure_1](paasche/DSCF3217a.jpg)
+
 The research group „Electrode Neural Interface“ works mainly on two different topics:
 
 1.	Optimization of the interface between electrode contacts and the surrounding tissue. 
