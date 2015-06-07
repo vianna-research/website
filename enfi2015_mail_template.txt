@@ -17,7 +17,7 @@ Please send an invoice: ${Invoice}
 Participation in EnFI School: ${EnFI_School}   
 
 
-Please note that the registration is not complete until the registration fee of 190€ has been transfered to:
+Please note that the registration is not complete until the registration fee of 230€ has been transfered to:
 
 Bank:	Deutsche Bank Hannover
 Account holder:	Foerderverein der HNO-Klinik
