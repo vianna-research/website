@@ -5,7 +5,7 @@ Dear EnFI 2015 participant,
 
 your registration formular has been submitted.
 
-Please note that the registration is not complete until the registration fee of 190€ has been transfered to:
+Please note that the registration is not complete until the registration fee of 230€ has been transfered to:
 	
 |||
 |---|---|
