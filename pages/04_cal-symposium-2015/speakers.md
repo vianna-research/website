@@ -1,16 +1,25 @@
 title: CAL Symposium 2015
 status: draft
 
-Title
-=====
+## Speakers
 
-test text
+short introducing text
 
-subtitle
---------
+#### Susan Denham
 
+![Pic Susan Denham](04_cal-symposium-2015/DenhamS_small.png)
 
-- bullet points
-- more
-- spam
+```
+Affiliation
+Title of Talk
+Expertise
+```
+
+#### Ray Meddis
+
+```
+Affiliation
+Title of Talk
+Expertise
+```
 
