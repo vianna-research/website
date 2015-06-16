@@ -25,38 +25,14 @@ Please activate CSS in your browser.
 ||Contact information:|
 |eMail| <input type="text" size="40" maxlength="60" name="email"> |  
 |Phone|<input type="text" size="40" maxlength="40" name="Phone">|
+||Work:|
+| Title:      | <select name="Expertise"><option>Anatomy</option><option>Clinic & Patient Studies & Surgery</option><option>Modelling</option><option>Neurophysiology</option><option>Psychology & Cognition</option><option>Singal Processing and Coding</option><option>Technology & System Integration</option></select>  |
+|Method| <input type="text" size="40" maxlength="60" name="method"> |  
+|Research|<input type="text" size="40" maxlength="40" name="research">|
 |||
-||  Please choose: |
-|EnFI School| <select name="EnFI_School"><option>Yes</option><option>No</option></select>|
-|Invoice|<select name="Invoice"> <option>Yes</option><option>No</option></select>|
-| | |
+
+
 | | <input type="submit" class="btn btn-primary" value="Submit"> |
 
 
-
-</form>
-</div>
-
-
-Registration fees:
-
-|            |                                  |
-|------------|----------------------------------|
-|Until June 5th |190€ incl. Dinner      |
-|After June 5th   |230€ incl. Dinner      |
-|Sponsors and tutorial speakers   |free                  |   
-
-
-Payment to:
-
-|||
-|---|---|
-| Bank:| Deutsche Bank Hannover|
-|Account holder:| Förderverein der HNO-Klinik|
-| BLZ:| 250 700 24|
-| Kto:| 857 071 501|
-| IBAN:| DE22 250 700 240 8570715 01|
-| SWIFT-BIC:| DEUT DE DBHAN|
-|Mention:| EnFI-2015 - Lastname, Firstname - Affiliation|
- 
 
