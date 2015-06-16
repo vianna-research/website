@@ -3,7 +3,7 @@ status: draft
 
 short introducing text
 
-# Day 1 26.10.2015
+## Day 1 26.10.2015
 ------------------
 
 | When  |  What             | Who                   | Where              |
@@ -14,7 +14,7 @@ short introducing text
 | 19:30 | Get together      |                       |Foyer Tagungszentrum|
 
 
-# Day 2 27.10.2015
+## Day 2 27.10.2015
 ------------------
 
 | When | What | Who | Where |
@@ -31,7 +31,7 @@ short introducing text
 | *18:00* | *dinner* |  | *hall upstairs* |
 | **19:00** | **Plenary Lecture** | **Zenner** | **Lecture hall**|
 
-# Day 2 27.10.2015
+## Day 3 28.10.2015
 ------------------
 
 | When | What | Who | Where |
