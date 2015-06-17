@@ -7,7 +7,7 @@ short introducing text
 
 #### Susan Denham
 
-![Pic Susan Denham](04_cal-symposium-2015/DenhamS_small.png)
+![Pic Susan Denham](DenhamS_small.png)
 
 ```
 Affiliation
