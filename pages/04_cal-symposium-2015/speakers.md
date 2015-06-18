@@ -7,19 +7,19 @@ short introducing text
 
 #### Susan Denham
 
-![Pic Susan Denham](DenhamS_small.png)
+![Pic Susan Denham](vips_in_pics/DenhamS_small100px.png)
 
 ```
-Affiliation
+Cognition Institute, Plymouth
 Title of Talk
-Expertise
 ```
 
 #### Ray Meddis
 
+![Pic Susan Denham](vips_in_pics/MeddisR_small.png)
+
 ```
-Affiliation
+University of Esses
 Title of Talk
-Expertise
 ```
 
