@@ -9,15 +9,14 @@ Names of all Speakers in alphabetic order: Micheal Beauchamp, Alexandra Bendixen
 
 #### Susan Denham
 
-![Pic Susan Denham](vips_in_pics/DenhamS_small100px.png)
+<img src="vips_in_pics/DenhamS_small100px.png" border="0" alt="Pic" align="left">
 ```
 Cognition Institute, Plymouth
 Title of Talk
 ```
-
-<img src="vips_in_pics/DenhamS_small100px.png" border="0" alt="Pic" align="left">
-<p> Susan Denham <br> Cognition Institute, Plymouth <br> Title of Talk </p>
 <br style="clear: both;">
+
+
 
 #### Ray Meddis
 ```
