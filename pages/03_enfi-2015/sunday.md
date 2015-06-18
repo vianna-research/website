@@ -8,8 +8,8 @@ The courses reflect local expertise and thus focus on interfacing neural tissue 
 Please note: 
 The speakers for the tutorials have changed, leading to a 1h Tutorial each.  
 
-| Time | Available Courses                                                       |                     |   
-|--|--------------------------------------------------------------------------------------- |---------------------|   
-| 15:30 | Electrochemistry and Design Considerations of Electrodes                     |  Prof. Dr. Jochem Rieger  |     
-|16:30|Stimulation, Recording and Signal Analysis at several Functional Levels of Neural Tissue| Prof. Dr. Andrej Kral |  
+|Available Courses            |                                          |  
+|--|--------------------------------------------------------------------------------------- | 
+|Electrochemistry and Design Considerations of Electrodes                     |  Prof. Dr. Jochem Rieger  |     
+|Stimulation, Recording and Signal Analysis at several Functional Levels of Neural Tissue| Prof. Dr. Andrej Kral |  
 
