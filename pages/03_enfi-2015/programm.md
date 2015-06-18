@@ -1,4 +1,4 @@
-title: Preliminary Programm
+title: Programm
 
 For the first time this year, two parallel 2h student courses are available for all EnFI participants arriving on sunday.
 
@@ -20,24 +20,26 @@ Please be aware, that the presentation time will not exceed 3 minutes per person
 |08:00 - 9:00 |Registration      |
 |09:00 - 09:15    |Conference Opening     |
 |09:15 - 12:00   |**Session A**             |
-|Tutorial Speaker| Prof. A. Spieß, RWTH Aachen|
+|Tutorial Speaker| Prof. M Tiemann, Paderborn University|
 |11:45 - 12:45    |Lunch            |
-|12:45 - 15:30    |**Session B** incl. coffee break     |
-|  Tutorial Speaker |Prof. D. Ricci, IIT, Genova   |
-|15:30 - 18:00  |**Session C**             |
-|Tutorial Speaker  |  Prof. M. Tiemann, Paderborn University          |
-|20:00   |Conference Dinner           |
+|12:45 - 15:15    |**Session B** incl. coffee break     |
+|  Tutorial Speaker |Prof. A. Spieß, RWTH Aachen   |
+|15:15 - 18:00  |**Session C**             |
+|Tutorial Speaker  |  Prof. D. Ricci, IIT, Genova          |
+19:30   |Conference Dinner           |
 
 
 |       July 7th     |         EnFI - Second Day                        |
 |------------|----------------------------------|
 |09:00 - 11:45  |**Session D**     |
-|Tutorial Speaker| Prof. M. Dienwiebel, KIT, Karlsruhe|
+|Tutorial Speaker| Prof. J. Knoch, RWTH Aachen|
 |11:30 - 12:30    |Lunch   |
 |12:30 - 15:15   |**Session E** incl. coffee break            |
-|Tutorial Speaker |Prof. J. Knoch, Aachen University| 
+|Tutorial Speaker |Prof. M. Dienwiebel, KIT, Karlsruhe| 
 |15:15 - 15:30    |Farewell and Best Poster Award            |
 |15:30        |optional Vianna Lab Tour|
+
+
 
 <!--
 
