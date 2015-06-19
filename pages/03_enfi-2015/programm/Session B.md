@@ -14,7 +14,7 @@ status: draft
 |13:48 - 13:51 |B.7 |S. Schusser: "Sensor system for in-situ and real-time monitoring of polymer (bio)degradation"|
 |13:51 - 13:54 |B.8 |G. Wackers: "Detection of the peanut allergen Ara h1 by electrochemical impedance spectroscopy and the heat-transfer method"|
 |13:54 - 13:57 |B.9 |H.-C. Schwarz: "Controlled transformations in transparent conducting films fabricated from highly stable hydrophilic dispersions of single wall nanotubes"|
-|13:57 - 14:00 |B.10 |Antonio Ibañez-Landeta: "Electroadsorptive Effect on SnO2 Films"|
+|13:57 - 14:00 |B.10 |A. Ibañez-Landeta: "Electroadsorptive Effect on SnO2 Films"|
 |14:00 - 14:03 |B.11 |D. Nettelroth: "Catalytic Graphitization of Mesoporous Carbon CMK-3 by Various Synthesis Approaches to Obtain Improved Electrode Materials"|
 |14:03 - 14:06 |B.12 |P. Cabello: "Surface effects on the kinetic of the electrochemical deposition of copper on graphite HOPG"|
 |14:06 - 14:09 |B.13 |J. Warmer: "Catalytic conversion of triaceton triperoxide on different metal oxides"|
