@@ -5,10 +5,10 @@ status: draft
 |12:45 - 14:15| **Session B**||
 |-----|----|---|
 |12:45 - 13:30 |B.0 |Prof. A. Spieß, RWTH Aachen: |
-|13:30 - 13:33 |B.1 |Name: "Titel"|
-|13:33 - 13:36 |B.2 |Name: "Titel"|
-|13:36 - 13:39 |B.3 |Name: "Titel"|
-|13:39 - 13:42 |B.4 |Name: "Titel"|
+|13:30 - 13:33 |B.1 |I. Pötzelberger: "Cu-Ni thin film combinatorial library for electrochemical oxidation of glucose"|
+|13:33 - 13:36 |B.2 |J.J. Velasco-Velez: "On the activation and stability of electrodeposited fourth row transition metals onto Au studied by in situ XAS"|
+|13:36 - 13:39 |B.3 |C. D. Grill: "Investigation of cobalt-nickel material libraries obtained from electrodeposition using different complexing agents"|
+|13:39 - 13:42 |B.4 |V. Scherbahn: "Enzymatic biofuels cells based on direct enzyme-electrode contacts using modified carbon nanotube materials"|
 |13:42 - 13:45 |B.5 |Name: "Titel"|
 |13:45 - 13:48 |B.6 |Name: "Titel"|
 |13:48 - 13:51 |B.7 |Name: "Titel"|
