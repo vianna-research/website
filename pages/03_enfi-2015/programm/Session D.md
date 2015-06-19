@@ -24,23 +24,5 @@ status: draft
 |10:36 - 10:39 | D.18 |Name: "Titel"|
 |10:39 - 10:42 | D.19 |Name: "Titel"|
 |10:42 - 10:45 | D.20 |Name: "Titel"|
-|10:45 - 10:48 | D.21 |Name: "Titel"|
-|10:48 - 10:51 | D.22 |Name: "Titel"|
-|10:51 - 10:54 | D.23 |Name: "Titel"|
-|10:54 - 10:57 | D.24 |Name: "Titel"|
-|10:57 - 11:00 | D.25 |Name: "Titel"|
-|11:00 - 11:03 | D.26 |Name: "Titel"|
-|11:03 - 11:06 | D.27 |Name: "Titel"|
-|11:06 - 11:09 | D.28 |Name: "Titel"|
-|11:09 - 11:12 | D.29 |Name: "Titel"|
-|11:12 - 11:15 | D.30 |Name: "Titel"|
-|11:15 - 11:18 | D.31 |Name: "Titel"|
-|11:18 - 11:21 | D.32 |Name: "Titel"|
-|11:21 - 11:24 | D.33 |Name: "Titel"|
-|11:24 - 11:27 | D.34 |Name: "Titel"|
-|11:27 - 11:30 | D.35 |Name: "Titel"|
-|11:30 - 11:33 | D.36 |Name: "Titel"|
-|11:33 - 11:36 | D.37 |Name: "Titel"|
-|11:36 - 11:39 | D.38 |Name: "Titel"|
-|11:39 - 11:42 | D.39 |Name: "Titel"|
-|11:42 - 11:45 | D.40 |Name: "Titel"|
+|10:45 - 11:45 |      |Poster Session|
+|11:30 - 12:30 |      |Lunch|

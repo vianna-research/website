@@ -21,3 +21,4 @@ status: draft
 |16:39 - 16:42 | C.13 |Name: "Titel"|
 |16:42 - 16:45 | C.14 |Name: "Titel"|
 |16:45 - 17:45 |      |Poster Session|
+|        20:00 |      |Conference Dinner|
