@@ -13,7 +13,7 @@ status: draft
 |10:03 - 10:06 | D.7 |J. Zessin: "Synthesis of a polythiophene-oligonucleotide-conjugate for site-specific integration into DNA origami"|
 |10:06 - 10:09 | D.8 |A. Herms: "Design and construction of thermophoretic swimmers"|
 |10:09 - 10:12 | D.9 |A. Grimm: "Room Temperature Photoluminescence of Strained Ge-layers"|
-|10:12 - 10:15 | D.10 |I. Verboven: "Direct printing of organic light emitting diodes on textile"|
+|10:12 - 10:15 | D.10 |I. Verboven: "Printing of organic light emitting diodes on textile"|
 |10:15 - 10:18 | D.11 |J. Schmidt: "Strained Ge layers on virtual Si1-xGex(001) substrates"|
 |10:18 - 10:21 | D.12 |F. Fischer: "High-throughput structural characterization of DNA origami"|
 |10:21 - 10:24 | D.13 |Remigius R. Poloczek: "Membrane Stiffness Tuning for Micro-machined Pressure Sensors"|
