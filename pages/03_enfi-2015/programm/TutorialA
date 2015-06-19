@@ -1,7 +1,22 @@
 title: Tutorial Session A
 status: draft
 
-Short CV:
+Nanoscale characterization of tribological surfaces
+===================================================
+Although not well recognized, friction and wear phenomena are omnipresent in our society and affect many processes 
+that range from transportation to data storage, health and cosmetics. To understand these phenomena it is important to 
+realize that sliding surfaces in dry or lubricated conditions undergo significant changes in terms of topography, 
+chemistry and microstructure and a nanoscale so-called “third body” [1] develops. The third-body formation strongly 
+influences the frictional and wear behavior of the system. In this tutorial presentation I will introduce general 
+tribological concepts and will present novel in-situ tools, modern surface analytical techniques and simulations. 
+Finally I will present case studies to illustrate how to combine these results in order to understandi underlying 
+basic mechanisms.  
+[1]	M. Godet, Wear, 100 (1984) 437–452.
+
+
+
+Prof. Dr. M. Dienwiebel
+---
 ![Image Prof. Dienwiebel](Dienwiebel.jpg)
 
 Martin Dienwiebel studied Physics in Dortmund and Bonn, Germany and conducted his Master thesis research in the field 
