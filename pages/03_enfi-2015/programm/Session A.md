@@ -5,15 +5,15 @@ status: draft
 |      09:15 - 12:00    |        **Session A**  |   |                   
 |------------|----------------------------------|---------|
 |9:15 - 10:00 |A0|  Prof. M Tiemann, Paderborn University  |
-|10:00 - 10:03 | A.1 |J. Oberländer, Z. Jildeh, L. Wendeler, A. Bromm, H. Iken, T. Wagner, M. Keusgen and M.J. Schöning: "Study of interdigitated electrode array using experiments and FEMmodels for evaluation of sterilisation processes"|
-|10:03 - 10:06 | A.2 |T. Bronder, S. Scheja, C. Wu, A. Poghossian, M. Keusgen, and M.J. Schöning: "Electrical detection of unlabelled DNA with polyelectrolyte modified EIS sensors: Comparison between ssDNA and dsDNA adsorption"|
-|10:06 - 10:09 | A.3 |S. C. Feifel, K. R. Stieger and F. Lisdat: "Modified graphene interfaces as novel photobioelectrodes with integrated photosystem I"|
-|10:09 - 10:12 | A.4 |Byounghyun Lim and Kazuaki Sawada: "Design and Fabrication of On-chip Square Wave Voltammetric Circuit"|
-|10:12 - 10:15 | A.5 |S. Ebschke, J. Zimmermann, R. R. Poloczek, K. T. Kallis and H. L. Fiedler: "Towards a nanoscale sensor system for intra-arterial simultaneous blood flow and pressure measurement"|
-|10:15 - 10:18 | A.6 |C. F. Werner, T. Wagner, M. J. Schöning, and T. Yoshinobu: "New LAPS driving method for better lateral resolutions"|
-|10:18 - 10:21 | A.7 |M. Alasel; M. Keusgen: "Rapid and specific diagnostic pipette tip based on gold nanoparticles for diagnosis of borreliosis"|
-|10:21 - 10:24 | A.8 |P. Cornelis, T. Vandenryt, B. van Grinsven, W. De Ceuninck and P. Wagner: "Heat transfer resistance as a tool to quantify hybridization efficiency of DNA on a nanocrystalline diamond surface"|
-|10:24 - 10:27 | A.9 |C.S. Wu, T. Bronder, A. Poghossian, M.J. Schöning: "Sensing of double-stranded DNA molecules by their intrinsic molecular charge using light-addressable potentiometric sensor"|
+|10:00 - 10:03 | A.1 |J. Oberländer: "Study of interdigitated electrode array using experiments and FEMmodels for evaluation of sterilisation processes"|
+|10:03 - 10:06 | A.2 |T. Bronder: "Electrical detection of unlabelled DNA with polyelectrolyte modified EIS sensors: Comparison between ssDNA and dsDNA adsorption"|
+|10:06 - 10:09 | A.3 |S. C. Feifel: "Modified graphene interfaces as novel photobioelectrodes with integrated photosystem I"|
+|10:09 - 10:12 | A.4 |Byounghyun Lim: "Design and Fabrication of On-chip Square Wave Voltammetric Circuit"|
+|10:12 - 10:15 | A.5 |S. Ebschke: "Towards a nanoscale sensor system for intra-arterial simultaneous blood flow and pressure measurement"|
+|10:15 - 10:18 | A.6 |C. F. Werner: "New LAPS driving method for better lateral resolutions"|
+|10:18 - 10:21 | A.7 |M. Alasel: "Rapid and specific diagnostic pipette tip based on gold nanoparticles for diagnosis of borreliosis"|
+|10:21 - 10:24 | A.8 |P. Cornelis: "Heat transfer resistance as a tool to quantify hybridization efficiency of DNA on a nanocrystalline diamond surface"|
+|10:24 - 10:27 | A.9 |C.S. Wu: "Sensing of double-stranded DNA molecules by their intrinsic molecular charge using light-addressable potentiometric sensor"|
 |10:27 - 10:30 | A.10 |S. Takenaga: "Long-term cell-cultivation system with a LAPS-based “lab-on-chip” to monitor cell activities under controlled conditions"|
 |10:30 - 10:33 | A.11 |S. Dantism: "Determination of the extracellular acidification of Escherichia coli K12 with a multi-chamber-based LAPS System"|
 |10:33 - 10:36 | A.12 |S. Chunta: "Low Density Lipoprotein Particle Sensor Based on Molecularly Imprinted Polymers"|
