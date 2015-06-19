@@ -3,7 +3,7 @@ status: draft
 
 |09:00 - 11:45||**Session D**|
 |---|---|---|
-|09:00 - 09:45| D0 |Knoch|
+|09:00 - 09:45| D.0 |Knoch|
 |09:45 - 09:48 | D.1 |G. Göbel: "Point-of-care (POC) diagnostics in punctate liquids based on gold nanoparticles"|
 |09:48 - 09:51 | D.2 |L. Breuer: "Light-controllable hydrogels with incorporated graphene oxide as actuators for lab-on-chip devices"|
 |09:51 - 09:54 | D.3 |M. Riedel: "Coupling of biochemical reactions with Quantum Dots for light switchable electrodes"|
@@ -16,12 +16,12 @@ status: draft
 |10:12 - 10:15 | D.10 |I. Verboven: "Printing of organic light emitting diodes on textile"|
 |10:15 - 10:18 | D.11 |J. Schmidt: "Strained Ge layers on virtual Si1-xGex(001) substrates"|
 |10:18 - 10:21 | D.12 |F. Fischer: "High-throughput structural characterization of DNA origami"|
-|10:21 - 10:24 | D.13 |Remigius R. Poloczek: "Membrane Stiffness Tuning for Micro-machined Pressure Sensors"|
+|10:21 - 10:24 | D.13 |R. R. Poloczek: "Membrane Stiffness Tuning for Micro-machined Pressure Sensors"|
 |10:24 - 10:27 | D.14 |L.E. Delle: "Miniaturization improves device performance of organic electrochemical transistors"|
-|10:27 - 10:30 | D.15 |Achim Müller: "Integration of FET-based biosensors into a Wheatstone bridge for purely resistive sensing"|
+|10:27 - 10:30 | D.15 |A. Müller: "Integration of FET-based biosensors into a Wheatstone bridge for purely resistive sensing"|
 |10:30 - 10:33 | D.16 |F. Hempel: "Organic electrochemical thin-film transistors by spin coating fabrication"|
 |10:33 - 10:36 | D.17 |J.K.Y. Law: "Optimization of reduced graphene oxide-based field-effect transistor for impedimetric immunoassays"|
 |10:36 - 10:39 | D.18 |R. F. van de Wijdeven: "Optimization of organic electrochemical transistors based on PEDOT:PSS for biological applications"|
-|10:39 - 10:42 | D.19 |Walid Munief: "Fabrication of graphene oxide field-effect transistor devices"|
+|10:39 - 10:42 | D.19 |W. Munief: "Fabrication of graphene oxide field-effect transistor devices"|
 |10:45 - 11:45 |      |Poster Session|
 |11:30 - 12:30 |      |Lunch|
