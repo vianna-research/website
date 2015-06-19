@@ -5,10 +5,10 @@ status: draft
 |      09:15 - 12:00    |        **Session A**  |   |                   
 |------------|----------------------------------|---------|
 |9:15 - 10:00 |A0|  Prof. M Tiemann, Paderborn University  |
-|10:00 - 10:03 | A.1 |J. Oberländer: "Study of interdigitated electrode array using experiments and FEMmodels for evaluation of sterilisation processes"|
+|10:00 - 10:03 | A.1 |J. Oberländer: "Study of interdigitated electrode array using experiments and FEM-models for evaluation of sterilisation processes"|
 |10:03 - 10:06 | A.2 |T. Bronder: "Electrical detection of unlabelled DNA with polyelectrolyte modified EIS sensors: Comparison between ssDNA and dsDNA adsorption"|
 |10:06 - 10:09 | A.3 |S. C. Feifel: "Modified graphene interfaces as novel photobioelectrodes with integrated photosystem I"|
-|10:09 - 10:12 | A.4 |Byounghyun Lim: "Design and Fabrication of On-chip Square Wave Voltammetric Circuit"|
+|10:09 - 10:12 | A.4 |Byounghyun Lim: "Design and Fabrication of On-chip Square Wave Voltammetric Circuit for High Scan Speed of Two-dimensional Redox Imaging"|
 |10:12 - 10:15 | A.5 |S. Ebschke: "Towards a nanoscale sensor system for intra-arterial simultaneous blood flow and pressure measurement"|
 |10:15 - 10:18 | A.6 |C. F. Werner: "New LAPS driving method for better lateral resolutions"|
 |10:18 - 10:21 | A.7 |M. Alasel: "Rapid and specific diagnostic pipette tip based on gold nanoparticles for diagnosis of borreliosis"|
