@@ -1,6 +1,7 @@
 title: Session A
 status: draft
-| presentation schedule 09:15 - 12:00  |        **Session&nbsp;A**  |   |                   
+| presentation schedule
+09:15 - 12:00  |        **Session&nbsp;A**  |   |                   
 |------------|----------------------------------|---------|
 |9:15 - 10:00 |A.0|  Prof. M. Tiemann, Paderborn University  |
 |10:00 - 10:03 | A.1 |J. Oberländer: "Study of interdigitated electrode array using experiments and FEM-models for evaluation of sterilisation processes"|
