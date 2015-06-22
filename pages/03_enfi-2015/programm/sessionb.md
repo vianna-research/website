@@ -2,7 +2,7 @@ title: Session B
 status: draft
 
 
-|Presentation Schedule| **Session B**||
+|Presentation Schedule| **Session&nbsp;B**||
 |-----|----|---|
 |12:45 - 13:30 |B.0 |**Prof. A. Spieß**, RWTH Aachen: |
 |13:30 - 13:33 |B.1 |**I. Pötzelberger**: "Cu-Ni thin film combinatorial library for electrochemical oxidation of glucose"|
