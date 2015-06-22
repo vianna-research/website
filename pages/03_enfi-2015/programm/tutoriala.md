@@ -1,4 +1,4 @@
-title: Session E - Tutorial
+title: Session A - Tutorial
 
 Nanoporous Materials - Synthesis and Application
 =============================================
