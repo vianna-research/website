@@ -1,7 +1,5 @@
 title: Session A
 status: draft
-
-
 |   ________________   09:15 - 12:00  |        **Session&nbsp;A**  |   |                   
 |------------|----------------------------------|---------|
 |9:15 - 10:00 |A.0|  Prof. M. Tiemann, Paderborn University  |
