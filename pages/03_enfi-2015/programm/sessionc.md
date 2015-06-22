@@ -3,7 +3,7 @@ status: draft
 
 
 
-|Presentation Schedule|**Session C**||
+|Presentation Schedule|**Session&nbsp;C**||
 |---|---|---|
 |15:15 - 16:00| C.0 |**Prof. Dr. D. Ricci**|
 |16:00 - 16:03 | C.1 |**Y. Guo**: "LAPS-based optoelectronic device for mapping the brain activities in vivo"|
