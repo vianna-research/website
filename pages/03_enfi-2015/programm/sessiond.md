@@ -1,7 +1,7 @@
 title: Session D
 status: draft
 
-|Presentation Schedule|**Session D**||
+|Presentation Schedule|**Session&nbsp;D**||
 |---|---|---|
 |09:00 - 09:45| D.0 |[**Prof. Dr. Knoch**](programm/TutorialD.html): Nanoelectronics: Vision and Reality|
 |09:45 - 09:48 | D.1 |**G. Göbel**: "Point-of-care (POC) diagnostics in punctate liquids based on gold nanoparticles"|
