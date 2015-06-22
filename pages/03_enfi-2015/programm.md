@@ -18,11 +18,11 @@ Please be aware, that the presentation time will not exceed 3 minutes per person
 |08:00 - 9:00 |Registration      |
 |09:00 - 09:15    |Conference Opening     |
 |09:15 - 12:00   |[**Session A**](programm/sessiona.html)             |
-|Tutorial Speaker| Prof. M Tiemann, Paderborn University|
+|Tutorial Speaker| [Prof. M Tiemann, Paderborn University](programm/tutoriala.html)|
 |11:45 - 12:45    |Lunch            |
-|12:45 - 15:15    |[**Session B**](programm/SessionB.html)     |
+|12:45 - 15:15    |[**Session B**](programm/sessionb.html)     |
 |  Tutorial Speaker |Prof. A. Spieß, RWTH Aachen   |
-|15:15 - 18:00  |[**Session C**](programm/SessionC.html)            |
+|15:15 - 18:00  |[**Session C**](programm/sessionc.html)            |
 |Tutorial Speaker  |  Prof. D. Ricci, IIT, Genova          |
 19:30   |Conference Dinner           |
 
