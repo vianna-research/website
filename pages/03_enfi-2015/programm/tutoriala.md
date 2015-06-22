@@ -8,7 +8,7 @@ Ordered, nanoporous materials possess unique properties that make them interesti
 Prof. Dr. M. Tiemann
 ---
 
-![Image Prof. Tiemann](programm/Tiemann.jpg)
+![Image Prof. Tiemann](Tiemann.jpg)
 
 •	1991-1997: studies of Chemistry (Dipl.-Chem.) at University of Hamburg
 •	2001: PhD (summa cum laude) at University of Hamburg
