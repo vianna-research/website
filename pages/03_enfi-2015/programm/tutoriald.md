@@ -1,5 +1,4 @@
-title: Tutorial Session D
-status: draft
+title: Session D - Tutorial
 
 Nanoelectronics: Vision and Reality
 ==================================
