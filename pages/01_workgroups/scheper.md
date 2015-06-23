@@ -6,9 +6,9 @@ The research group Pharmacology of the Inner Ear examines strategies to deliver 
 
 Information about current projects can be found [**here**](scheper/projects.html).
 
-A full list of [**publications**](scheper/publications.html). 
+Publications are listed [**here**](scheper/publications.html).
 
-A list of the staff can be found [**here**](scheper/staff.html).
+And the members of the lab can be found [**here**](scheper/staff.html).
 
 
 ***
