@@ -1,5 +1,4 @@
-title: Tutorial Session A
-status: draft
+title: Session E - Tutorial
 
 Nanoscale characterization of tribological surfaces
 ===================================================
