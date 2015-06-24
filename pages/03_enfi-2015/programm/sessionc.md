@@ -1,7 +1,4 @@
 title: Session C
-status: draft
-
-
 
 |Presentation Schedule|**Session&nbsp;C**||
 |---|---|---|
@@ -17,7 +14,7 @@ status: draft
 |16:27 - 16:30 | C.9 |**D. Majaura**: "Evaluation of the bonding strength between a silicone rubber/ polyimide interface for cochlear implants"|
 |16:30 - 16:33 | C.10 |**J. Stieghorst**: "Silicone rubber spreading during infrared curing for individually shaped neural implant fabrication"|
 |16:33 - 16:36 | C.11 |**L. Guntenhöner**: "Neural interfacing via track etch membrane of cell model mediated by human growth factors"|
-|16:36 - 16:39 | C.12 |**K. Tegtmeier**: "TITLE"|
+|16:36 - 16:39 | C.12 |**K. Tegtmeier**: "Investigation of silicone rubber removal from carbon nanotubes by means of wet and dry etching"|
 |16:39 - 16:42 | C.13 |**J. Wang**: "High-resolution light-addressable potentiometric sensors (LAPS) based on an organic monolayer modified silicon on sapphire (SOS)"|
 |16:42 - 16:45 | C.14 |**G. L. Quaß**: "Electric Stimulation of the Mouse Auditory Midbrain"|
 |16:45 - 17:45 |      |**Poster Session**|

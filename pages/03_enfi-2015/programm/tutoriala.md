@@ -14,10 +14,10 @@ Prof. Dr. M. Tiemann
 - 2001: PhD (summa cum laude) at University of Hamburg (Inorganic Chemistry; supervisor: Prof. Michael Fröba)  
 - 2001-2002: post-doc at Åbo Akademi University in Turku, Finland (Physical Chemistry; group of Prof. Mika Lindén)   
 - 2002-2009: group leader at University of Giessen  
- - 2009 habilitation/venia legendi   
- - 2008-2009 Adjunct Professor (Lehrstuhlvertretung) of Inorganic Chemistry   
+   - 2009 habilitation/venia legendi   
+   - 2008-2009 Adjunct Professor (Lehrstuhlvertretung) of Inorganic Chemistry   
 - since 2009: Professor of Inorganic Chemistry at University of Paderborn
- - 2009-2014 Regular Tenured Professor (W2)   
- - since 2014 Full Professor (W3)   
- - (2014 call to Technical University of Clausthal; declined)   
- - Guest Professor at the Sino-German Technical Faculty (CDTF) at Qingdao University of Science and Technology (QUST) in Qingdao, China   
+   - 2009-2014 Regular Tenured Professor (W2)   
+   - since 2014 Full Professor (W3)   
+   - (2014 call to Technical University of Clausthal; declined)   
+   - Guest Professor at the Sino-German Technical Faculty (CDTF) at Qingdao University of Science and Technology (QUST) in Qingdao, China   
