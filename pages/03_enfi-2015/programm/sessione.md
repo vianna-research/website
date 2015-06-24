@@ -22,4 +22,4 @@ title: Session E
 |14:06 - 14:09 | E.17 |**D. Tanasic**: "Molybdenum oxides in efficient antibacterial coatings"|
 |14:15 - 15:15 |      |**Poster Session and Coffee Break**|
 |15:15 - 15:30 |      |**Farewell and Best Poster**|
-|15:15         |      |**Vianna Lab Tour**|
+|15:30         |      |**Vianna Lab Tour**|
