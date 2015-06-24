@@ -1,5 +1,4 @@
 title: Session B
-status: draft
 
 
 |Presentation Schedule| **Session&nbsp;B**||
