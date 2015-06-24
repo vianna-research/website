@@ -1,5 +1,4 @@
 title: Session D
-status: draft
 
 |Presentation Schedule|**Session&nbsp;D**||
 |---|---|---|
