@@ -1,5 +1,4 @@
 title: Session E
-status: draft
 
 |Presentation Schedule|**Session&nbsp;E**||
 |---|---|---|
