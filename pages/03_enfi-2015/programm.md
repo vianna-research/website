@@ -29,10 +29,10 @@ Please be aware, that the presentation time will not exceed 3 minutes per person
 
 |       July 7th     |         EnFI - Second Day                        |
 |------------|----------------------------------|
-|09:00 - 11:45  |[**Session D**](programm/SessionD.html)     |
+|09:00 - 11:45  |[**Session D**](programm/sessiond.html)     |
 |Tutorial Speaker| [Prof. J. Knoch, RWTH Aachen](programm/tutoriald.html)|
 |11:30 - 12:30    |Lunch   |
-|12:30 - 15:15   |[**Session E**](programm/SessionE.html)          |
+|12:30 - 15:15   |[**Session E**](programm/sessione.html)          |
 |Tutorial Speaker |[Prof. M. Dienwiebel, KIT, Karlsruhe](programm/tutoriale.html)| 
 |15:15 - 15:30    |Farewell and Best Poster Award            |
 |15:30        |optional Vianna Lab Tour|
