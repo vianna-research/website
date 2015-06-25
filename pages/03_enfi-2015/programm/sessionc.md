@@ -1,11 +1,8 @@
 title: Session C
-status: draft
-
-
 
 |Presentation Schedule|**Session&nbsp;C**||
 |---|---|---|
-|15:15 - 16:00| C.0 |**Prof. Dr. D. Ricci**|
+|15:15 - 16:00| C.0 |**Prof. D. Ricci**:|
 |16:00 - 16:03 | C.1 |**Y. Guo**: "LAPS-based optoelectronic device for mapping the brain activities in vivo"|
 |16:03 - 16:06 | C.2 |**L. De Laporte**: "Light modulated hydrogel stiffness for mechanical stimulation of cells and nerves"|
 |16:09 - 16:12 | C.3 |**S. D. Angelov**: "Electrophoretic deposition of ligand-free nanoparticles affected electrode impedance"|
@@ -17,7 +14,7 @@ status: draft
 |16:27 - 16:30 | C.9 |**D. Majaura**: "Evaluation of the bonding strength between a silicone rubber/ polyimide interface for cochlear implants"|
 |16:30 - 16:33 | C.10 |**J. Stieghorst**: "Silicone rubber spreading during infrared curing for individually shaped neural implant fabrication"|
 |16:33 - 16:36 | C.11 |**L. Guntenhöner**: "Neural interfacing via track etch membrane of cell model mediated by human growth factors"|
-|16:36 - 16:39 | C.12 |**K. Tegtmeier**: "TITLE"|
+|16:36 - 16:39 | C.12 |**K. Tegtmeier**: "Investigation of silicone rubber removal from carbon nanotubes by means of wet and dry etching"|
 |16:39 - 16:42 | C.13 |**J. Wang**: "High-resolution light-addressable potentiometric sensors (LAPS) based on an organic monolayer modified silicon on sapphire (SOS)"|
 |16:42 - 16:45 | C.14 |**G. L. Quaß**: "Electric Stimulation of the Mouse Auditory Midbrain"|
 |16:45 - 17:45 |      |**Poster Session**|

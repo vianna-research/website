@@ -1,9 +1,8 @@
 title: Session E
-status: draft
 
 |Presentation Schedule|**Session&nbsp;E**||
 |---|---|---|
-|12:30 - 13:15| E.0 |[**Prof. Dr. M. Dienwiebel**](programm/TutorialE.html): Nanoscale characterization of tribological surfaces|
+|12:30 - 13:15| E.0 |[**Prof. M. Dienwiebel**](tutoriale.html): "Nanoscale characterization of tribological surfaces"|
 |13:15 - 13:18 | E.1 |**F. Kratz**: "Influence of different ion composition on the protein film formation on dental materials"|
 |13:21 - 13:24 | E.2 |**V. Rink**: "Self-assembly of tomato bushy stunt viruses (TBSV) investigated by scanning force and scanning electron microscopy"|
 |13:24 - 13:27 | E.3 |**J. Gertje**: "Analysis of the adsorption behavior of carbohydrates on dental materials"|
@@ -23,4 +22,4 @@ status: draft
 |14:06 - 14:09 | E.17 |**D. Tanasic**: "Molybdenum oxides in efficient antibacterial coatings"|
 |14:15 - 15:15 |      |**Poster Session and Coffee Break**|
 |15:15 - 15:30 |      |**Farewell and Best Poster**|
-|15:15         |      |**Vianna Lab Tour**|
+|15:30         |      |**Vianna Lab Tour**|

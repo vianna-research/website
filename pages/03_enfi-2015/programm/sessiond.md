@@ -1,9 +1,8 @@
 title: Session D
-status: draft
 
 |Presentation Schedule|**Session&nbsp;D**||
 |---|---|---|
-|09:00 - 09:45| D.0 |[**Prof. Dr. Knoch**](programm/TutorialD.html): Nanoelectronics: Vision and Reality|
+|09:00 - 09:45| D.0 |[**Prof. J. Knoch**](tutoriald.html): Nanoelectronics: Vision and Reality|
 |09:45 - 09:48 | D.1 |**G. Göbel**: "Point-of-care (POC) diagnostics in punctate liquids based on gold nanoparticles"|
 |09:48 - 09:51 | D.2 |**L. Breuer**: "Light-controllable hydrogels with incorporated graphene oxide as actuators for lab-on-chip devices"|
 |09:51 - 09:54 | D.3 |**M. Riedel**: "Coupling of biochemical reactions with Quantum Dots for light switchable electrodes"|
