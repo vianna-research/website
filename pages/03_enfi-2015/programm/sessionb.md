@@ -18,4 +18,5 @@ title: Session B
 |14:03 - 14:06 |B.12 |**P. Cabello**: "Surface effects on the kinetic of the electrochemical deposition of copper on graphite HOPG"|
 |14:06 - 14:09 |B.13 |**J. Warmer**: "Catalytic conversion of triaceton triperoxide on different metal oxides"|
 |14:09 - 14:12 |B.14 |**C. Huck**: "Chemical sensors based on the same transducer material of barium strontium titanate"|
+|14:12 - 14:15|B.15|**K. Doll**: "Liquid-infused structured titanium as an innovative medically relevant material with antibiofilm properties"|
 |14:15 - 15:15 ||**Poster Session and Coffee Break** |
