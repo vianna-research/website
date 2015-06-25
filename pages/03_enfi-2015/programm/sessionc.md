@@ -18,4 +18,4 @@ title: Session C
 |16:39 - 16:42 | C.13 |**J. Wang**: "High-resolution light-addressable potentiometric sensors (LAPS) based on an organic monolayer modified silicon on sapphire (SOS)"|
 |16:42 - 16:45 | C.14 |**G. L. Quaß**: "Electric Stimulation of the Mouse Auditory Midbrain"|
 |16:45 - 17:45 |      |**Poster Session**|
-|        20:00 |      |**Conference Dinner**|
+|        19:30 |      |**Conference Dinner**|
