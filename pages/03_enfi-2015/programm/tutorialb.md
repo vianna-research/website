@@ -7,6 +7,6 @@ Enzymes are the protein catalysts that nature uses in all metabolic processes fo
 
 Prof. Dr. A. Spieß
 ---
-![Image Prof. Spieß](spiess.jpg)
+![Image Prof. Spieß](Spiess.jpg)
 
 Antje C. Spiess has studied chemical engineering at Technical University Hamburg-Harburg and Pisa University, she did her PhD at TU Hamburg-Harburg and gained industry experience at Procter & Gamble before pursuing her habilitation research in Biochemical Engineering at RWTH Aachen University in the field of enzymes in non-conventional media and for biomass conversion. In 2010 Antje Spiess became professor for Enzyme Process Technology at Aachener Verfahrenstechnik, RWTH. One year later, she joined DWI's scientific board which became Leibniz-Institute in 2014. Her research focusses on biocatalytic and chemical engineering and modeling of reaction kinetics.
