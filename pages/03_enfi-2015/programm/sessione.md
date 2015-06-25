@@ -16,10 +16,9 @@ title: Session E
 |13:48 - 13:51 | E.11 |**T. Shopova**: "Detection and separation of the bacteria strain Escherichia coli BL21 (DE03) using surface modified polymer particles"|
 |13:51 - 13:54 | E.12 |**D. Vornicescu**: "Investigation of fibroblast growth factor-binding protein anti-tumor effects using surface plasmon resonance"|
 |13:54 - 13:57 | E.13 |**N. Schulz**: "Surface area enhancement of microchannels by vertically and horizontally aligned growth of multiwalled carbon nanotubes"|
-|13:57 - 14:00 | E.14 |**K. Doll**: "Liquid-infused structured titanium as an innovative medically relevant material with antibiofilm properties"|
-|14:00 - 14:03 | E.15 |**R. Lanche**: "Wafer-scale dielectrophoretic deposition of graphene oxide for biosensing platforms"|
-|14:03 - 14:06 | E.16 |**P. Aliuos**: "Enhanced adhesion of NIH3T3 fibroblasts mediated by magnetic beads"|
-|14:06 - 14:09 | E.17 |**D. Tanasic**: "Molybdenum oxides in efficient antibacterial coatings"|
+|13:57 - 14:00 | E.14 |**R. Lanche**: "Wafer-scale dielectrophoretic deposition of graphene oxide for biosensing platforms"|
+|14:00 - 14:03 | E.15 |**P. Aliuos**: "Enhanced adhesion of NIH3T3 fibroblasts mediated by magnetic beads"|
+|14:03 - 14:06 | E.16 |**D. Tanasic**: "Molybdenum oxides in efficient antibacterial coatings"|
 |14:15 - 15:15 |      |**Poster Session and Coffee Break**|
 |15:15 - 15:30 |      |**Farewell and Best Poster**|
 |15:30         |      |**Vianna Lab Tour**|
