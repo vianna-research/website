@@ -21,15 +21,20 @@ short introducing text
 |------ |------             |-----                  |-------             |
 | 08:30 | Overview          |  |Lecture Hall |
 | **09:00** | **Plenary Lectures**|  |**Lecture Hall** |
-|       | State of the Art and Limitations |Lenarz, Gilles |  |
-|       | Neurophysiology of the healthy auditory system | Knipper, Malmierca, Puel |  |
+|       | Clinical research - State of the Art and Limitations |Lenarz, Gilles |  |
+|       | Neurophysiology of the healthy auditory system - basic research and possibilities for closing the loop | Knipper, Sanchez Malmierca, Puel |  |
+|       | Signal Processing and Audiology | PiC|
+|       | coffee break |  | |
+|       | Modelling and System Integration | Meddis, Hemmert | |
+|       | Neuro surgery and anatomy | Rask-Anderson, Schrott-Fischer | |
+|       | panel discussion | Ryugo, Kollmeier, Hirschhausen, Altenmüller |  |
 |*12:30*| *lunch* | | *hall upstairs* |
 | **13:30** |**Track A**| **Students**| **Seminar room 1, 2, 3**|
 |  |  |  |  |
 | **13:30** |**Track B** | **Junior and Senior researcher** | **Lecture hall** |
 |  |  |  |  |
 | *18:00* | *dinner* |  | *hall upstairs* |
-| **19:00** | **Plenary Lecture** | **Zenner** | **Lecture hall**|
+| **19:00** | **Plenary Lecture** </br> "Hätte Beethoven von den heutigen Cochlea Implantaten profitiert?" | **Zenner** | **Lecture hall**|
 
 ## Day 3 28.10.2015
 ------------------
@@ -38,7 +43,13 @@ short introducing text
 |------ |------             |-----                  |-------             |
 | 08:30 | Overview          |  |Lecture Hall |
 | **09:00** | **Road Mapping**|  |**Seminar rooms 1,2,3,4,5,6** |
-|  |  |  |  |
+|  | Modelling | PiC |  |
+|  | Signal Processing and Coding | PiC |  |
+|  | Anatomy and Surgery | PiC |  |
+|  | Technology and System Integration | PiC |  |
+|  | Clinic and Patient Studies | PiC |  |
+|  | Neurophysiology and Animal Studies | PiC |  |
+|  | Market | PiC |  |
 |*12:00*| *lunch* | | *hall upstairs* |
 | **13:00** |**Track A**| **Students**| **Seminar room 1**|
 |           | (optional |  |  |

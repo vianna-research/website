@@ -3,7 +3,7 @@ title: Session B
 
 |Presentation Schedule| **Session&nbsp;B**||
 |-----|----|---|
-|12:45 - 13:30 |B.0 |**Prof. A. Spieß**: |
+|12:45 - 13:30 |B.0 |[**Prof. A. Spieß**](tutorialb.html):"Enzymes and Catalysis on Interfaces" |
 |13:30 - 13:33 |B.1 |**I. Pötzelberger**: "Cu-Ni thin film combinatorial library for electrochemical oxidation of glucose"|
 |13:33 - 13:36 |B.2 |**J.J. Velasco-Velez**: "On the activation and stability of electrodeposited fourth row transition metals onto Au studied by in situ XAS"|
 |13:36 - 13:39 |B.3 |**C. D. Grill**: "Investigation of cobalt-nickel material libraries obtained from electrodeposition using different complexing agents"|
@@ -18,4 +18,5 @@ title: Session B
 |14:03 - 14:06 |B.12 |**P. Cabello**: "Surface effects on the kinetic of the electrochemical deposition of copper on graphite HOPG"|
 |14:06 - 14:09 |B.13 |**J. Warmer**: "Catalytic conversion of triaceton triperoxide on different metal oxides"|
 |14:09 - 14:12 |B.14 |**C. Huck**: "Chemical sensors based on the same transducer material of barium strontium titanate"|
+|14:12 - 14:15|B.15|**K. Doll**: "Liquid-infused structured titanium as an innovative medically relevant material with antibiofilm properties"|
 |14:15 - 15:15 ||**Poster Session and Coffee Break** |
