@@ -23,7 +23,7 @@ Please be aware, that the presentation time will not exceed 3 minutes per person
 |12:45 - 15:15    |[**Session B**](programm/sessionb.html)     |
 |  Tutorial Speaker |[Prof. A. Spieß, RWTH Aachen](programm/tutorialb.html)   |
 |15:15 - 18:00  |[**Session C**](programm/sessionc.html)            |
-|Tutorial Speaker  |  Prof. D. Ricci, IIT, Genova          |
+|Tutorial Speaker  |  [Prof. D. Ricci, IIT, Genova](programm/tutorialc.html)        |
 19:30   |Conference Dinner           |
 
 
