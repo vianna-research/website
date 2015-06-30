@@ -9,6 +9,6 @@ title: Downloads
 
  [PDF-Version](enfi2015flyer.pdf) 
 
-###Download Programm
+###Download Book of Abstracts
 
 [PDF-Version](abstractbook.pdf)
