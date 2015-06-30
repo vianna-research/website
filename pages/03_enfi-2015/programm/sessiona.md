@@ -24,4 +24,5 @@ title: Session A
 |10:51 - 10:54 | A.18 |**J. Pilas**: "Application of a bienzyme sensor setup for the amperometric detection of alcohols in biogas"|
 |10:54 - 10:57 | A.19 |**D. Rani**: "Label free detection of prostate-specific antigens using Si-NW FETs"|
 |10:57 - 11:00 | A.20 |**K. Miyamoto**: "Rapid prototyping of microfluidic devices for on-chip cell assay combined with a chemical imaging sensor"|
+|11:00 - 12:00|  | **Poster Session**|
 |11:45 - 12:45 |   |**Lunch**            |
