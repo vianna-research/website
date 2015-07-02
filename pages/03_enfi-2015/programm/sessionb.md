@@ -9,7 +9,7 @@ title: Session B
 |13:36 - 13:39 |B.3 |**C. D. Grill**: "Investigation of cobalt-nickel material libraries obtained from electrodeposition using different complexing agents"|
 |13:39 - 13:42 |B.4 |**V. Scherbahn**: "Enzymatic biofuels cells based on direct enzyme-electrode contacts using modified carbon nanotube materials"|
 |13:42 - 13:45 |B.5 |**S. C. Feifel**: "Supramolecular architectures of cellobiose dehydrogenase and cytochrome c on electrodes using artificial matrices"|
-|13:45 - 13:48 |B.6 |**. Posseckardt**: "Mobility of a supported lipid bilayer on dispersed single-walled carbon nanotubes"|
+|13:45 - 13:48 |B.6 |**J. Posseckardt**: "Mobility of a supported lipid bilayer on dispersed single-walled carbon nanotubes"|
 |13:48 - 13:51 |B.7 |**S. Schusser**: "Sensor system for in-situ and real-time monitoring of polymer (bio)degradation"|
 |13:51 - 13:54 |B.8 |**G. Wackers**: "Detection of the peanut allergen Ara h1 by electrochemical impedance spectroscopy and the heat-transfer method"|
 |13:54 - 13:57 |B.9 |**H.-C. Schwarz**: "Controlled transformations in transparent conducting films fabricated from highly stable hydrophilic dispersions of single wall nanotubes"|
