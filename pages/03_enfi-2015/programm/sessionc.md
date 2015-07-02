@@ -2,7 +2,7 @@ title: Session C
 
 |Presentation Schedule|**Session&nbsp;C**||
 |---|---|---|
-|15:15 - 16:00| C.0 |**Prof. D. Ricci**:|
+|15:15 - 16:00| C.0 |**Prof. D. Ricci**:"Human-centered brain interfaces"|
 |16:00 - 16:03 | C.1 |**Y. Guo**: "LAPS-based optoelectronic device for mapping the brain activities in vivo"|
 |16:03 - 16:06 | C.2 |**L. De Laporte**: "Light modulated hydrogel stiffness for mechanical stimulation of cells and nerves"|
 |16:09 - 16:12 | C.3 |**S. D. Angelov**: "Electrophoretic deposition of ligand-free nanoparticles affected electrode impedance"|
