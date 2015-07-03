@@ -1,5 +1,11 @@
 title: Publications
 
+## 2015
+
+* Lenarz T, **Scheper V**. [Preserving Residual Hearing in Cochlear Implant Patients.](http://www.springer.com/us/book/9783319134727) in "Free Radicals in ENT Pathology". Eds.: Miller J, LePrell CG, Rybak L, Springer 2015, ISBN 978-3-319-13473-4
+
+* Linke I, Fadeeva E, **Scheper V**, Esser KH, Koch J, Chichkov B, Lenarz T, Paasche G. [Nanostructuring of cochlear implant electrode contacts induces delayed impedance increase in vivo.](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201431746/epdf) Phys. Status Solidi A. 2015 Feb. 3;6; 1210-1215
+
 ## 2014
 
 * Miller F, Burghard A, Salcher R, **Scheper V**, Leibold W, Lenarz T, Paasche G. [Treatment of middle ear ventilation disorders: sheep as animal model for stenting the human eustachian tube - a cadaver study. ](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0113906) PLoS One. 2014 Nov 24;9(11):e113906. doi: 10.1371/journal.pone.0113906. eCollection 2014.
