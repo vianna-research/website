@@ -16,7 +16,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="vips_in_pics/MeddisR_small.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/MeddisR_small.png" border="0" alt="Pic" align="left">
 ```
 Ray Meddis
 University of Esses
