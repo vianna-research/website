@@ -10,10 +10,13 @@ We have booked single rooms for you. The official confirmation of your participa
 ![Mussmann](travel/mussmann_tags_small.jpg) ![Mussmann](travel/mussmann_nachts_small.jpg)
 
 Ernst August Platz 7
+
 30159 Hannover
 
 Tel: +49/511/36 56-0 
+
 Fax: +49/511/36 56-145 
+
 Mail: Grandhotel@Hannover.de
  
 [www.grandhotel.de](www.grandhotel.de)
