@@ -10,14 +10,16 @@ Names of all Speakers in alphabetic order: Micheal Beauchamp, Alexandra Bendixen
 
 <img src="04_cal-symposium-2015/vips_in_pics/DenhamS_small100px.png" border="0" alt="Pic" align="left">
 ```
+
 Susan Denham
 Cognition Institute, Plymouth
 Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="vips_in_pics/MeddisR_small.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/MeddisR_small.png" border="0" alt="Pic" align="left">
 ```
+
 Ray Meddis
 University of Esses
 Title of Talk
