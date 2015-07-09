@@ -7,7 +7,7 @@ We have booked single rooms for you. The official confirmation of your participa
 
 ------------------------
 ### Grand Hotel Mussmann
-![Mussmann](04_cal-symposium-2015/travel/mussmann_tags_small.jpg) ![Mussmann](travel/mussmann_nachts_small.jpg)
+![Mussmann](04_cal-symposium-2015/travel/mussmann_tags_small.jpg) ![Mussmann](04_cal-symposium-2015/travel/mussmann_nachts_small.jpg)
 
 Ernst August Platz 7   
 30159 Hannover   
@@ -21,7 +21,7 @@ Mail: Grandhotel@Hannover.de
 --------------------------------------
 ### IBIS Hotel Hannover - Medical Park
 
-![IBIS](travel/ibis.jpg)
+![IBIS](04_cal-symposium-2015/travel/ibis.jpg)
 
 Feodor-Lynen-Straße 1   
 30625 Hannover   
@@ -36,7 +36,7 @@ Mail: H1632@accor.com
 -----------------
 ### How to get to the Conference Centre
 
-![map](travel/ibis_map.png)
-![map](travel/mussmann_map.png)
-![map](travel/hannover_map.png)
+![map](04_cal-symposium-2015/travel/ibis_map.png)
+![map](04_cal-symposium-2015/travel/mussmann_map.png)
+![map](04_cal-symposium-2015/travel/hannover_map.png)
 
