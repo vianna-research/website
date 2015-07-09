@@ -9,9 +9,13 @@ Publications regarding these projects can be found [here](Publications.html)
 
 
 ##Ongoing Projects
+* **Feedback loop and fluid flow electrode - FLOWTRODE** (BMBF: KMU Innovativ Medizintechnik)  
+Project Partners are 
+	Please contact [Prof. Doll](staff.html) for more information.
+* **Flexible Individualized Active Medical Implants – 3D Printing of Silicone Rubber Connectors and Electrodes - FINAMI** (BMWi: ZIM KF-VP)   
+	Please contact [Prof. Doll](staff.html) for more information.
 
 * **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank) Adapted, highly flexible ECoG electrode systems are developed, leading to a prototype that can be testet by the end-user. By implementing an innovative multicenter product development and suitable product logistics a resource saving process is possible.   
-Project Partner is [Black Rock Microsystems Europe](http://www.blackrockmicro.com/index.aspx)   
 
 	Please contact [Prof. Doll](staff.html) for more information.
 
