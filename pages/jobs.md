@@ -1,6 +1,8 @@
 title: Open Positions
 
-Sorry, there are no open positions at the moment.
+[Technical Assistant](01_workgroups/doll/TA.pdf)
+
+<!-- Sorry, there are no open positions at the moment.-->
 
 
 **********
