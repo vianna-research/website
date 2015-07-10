@@ -23,12 +23,17 @@ title: Staff
 -----------------------------
 **Students**
 
-![Image Friederike Benjamin](Friederike.png) | Friederike Benjamin | benjamin.friederike@mh-hannover.de| Master Thesis      
+![Image Friederike Benjamin](Friederike.png) | Friederike Benjamin | benjamin.friederike@mh-hannover.de| Master Thesis
+
+![Image Anne Bührke](Anne.png) | Anne Bührke, B. Sc. 
+
 ![Image Lennart Guntenhöner](Lennart.png) | Lennart Guntenhöner | Ben.L.Guntenhoener@stud.mh-hannover.de | Medical Doctorate Thesis 
+
+![Image Bingrui Li](Bingrui.png) | Bingrui Li
 
 ![Image Daniel Majaura](Daniel.png) | Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Master Thesis
 
 ![Image Nina Sendler](Nina.png) | Nina Sendler, B.Eng.	|	sendler.nina(at)mh-hannover.de	|	Master Thesis
 
-
+![Image Hendrik Wevering](Hendrik.png) | Hendrik Wevering | Student project
 
