@@ -5,7 +5,9 @@ status: draft
 
 short introducing text
 
-Names of all Speakers in alphabetic order: Micheal Beauchamp, Alexandra Bendixen, Benjamin Blankertz, Alain De Cheveigne, Paul Hinckley Delano, [Susan Denham](04_cal-symposium-2015/vips_in_pics/DenhamS_small100px.png), Maarten De Vos, Preben Kidmose, Enrique Lopez-Poveda, Myles McLaughlin, Ray Meddis, Jean-Luc Puel, Helge Rask-Anderson, David Ryugo, Manuel Sanchez-Malmierca, Marc Schönwiesner, Barbara Shinn-Cunningham, Michael Tangermann, Jeremy Voix, Hans-Peter Zenner
+Plenary talks (overview), Expert talks (research), workshop leadears (group leaders during workshop on day 3)
+
+Names of all Speakers in alphabetic order: Pascal Barone, Alexandra Bendixen, Alain De Cheveigne, Paul Hinckley Delano, Werner Hemmert, Preben Kidmose, Marlies Knipper, Bernhard Laback, Thomas Lenarz, Annette Limbergerm, Enrique Lopez-Poveda, Myles McLaughlin, Ray Meddis, Jean-Luc Puel, Sonja Pyott, Helge Rask-Anderson, Manuel Sánchez-Malmierca, Marc Schönwiesner, Anneliese Schrott-Fischer, Anu Sharma, Georg Sprinzl, Thomas Stieglitz, Michael Tangermann, Pim van Dijk, Hans-Peter Zenner
 
 ### Plenary Talks
 
@@ -270,12 +272,87 @@ Title of Talk
 
 Susan Denham
 Cognition Institute, Plymouth, UK
-Title of Talk
+Workshop
 
 ```
 <br style="clear: both;">
 
+<img src="04_cal-symposium-2015/vips_in_pics/DeVosM_113px.png" border="0" alt="Pic" align="left">
+```
 
+Maarten De Vos
+Institute of Biomedical Engineering, Oxford, UK
+Workshop
 
+```
+<br style="clear: both;">
 
+<img src="04_cal-symposium-2015/vips_in_pics/ShinnCunninghamB_113px.png" border="0" alt="Pic" align="left">
+```
 
+Barbara Shinn-Cunningham
+Boston University, USA
+Workshop
+
+```
+<br style="clear: both;">
+
+<img src="04_cal-symposium-2015/vips_in_pics/VoixJ_113px.png" border="0" alt="Pic" align="left">
+```
+
+Jérémie Voix
+École de Technologie Supérieure, Montreal, Canada
+Workshop
+
+```
+<br style="clear: both;">
+
+<img src="04_cal-symposium-2015/vips_in_pics/HamacherV_113px.png" border="0" alt="Pic" align="left">
+```
+
+Volkmar Hamacher
+Company, Germany
+Workshop
+
+```
+<br style="clear: both;">
+
+<img src="04_cal-symposium-2015/vips_in_pics/SolzbacherF_113px.png" border="0" alt="Pic" align="left">
+```
+
+Florian Solzbacher
+Company, Germany
+Workshop
+
+```
+<br style="clear: both;">
+
+<img src="04_cal-symposium-2015/vips_in_pics/WaldmannB_113px.png" border="0" alt="Pic" align="left">
+```
+
+Bernd Waldmann
+Cochlear, Germany
+Workshop
+
+```
+<br style="clear: both;">
+
+<img src="04_cal-symposium-2015/vips_in_pics/HolmeR_113px.png" border="0" alt="Pic" align="left">
+```
+
+Ralph Holme
+Company, Germany
+Workshop
+
+```
+<br style="clear: both;">
+
+<img src="04_cal-symposium-2015/vips_in_pics/LaunerS_113px.png" border="0" alt="Pic" align="left">
+```
+
+Stefan Launer
+Company, Germany
+Workshop
+
+```
+<br style="clear: both;">
