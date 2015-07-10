@@ -23,8 +23,18 @@ title: Mitarbeiter
 
 ![Image Friederike Benjamin](Friederike.png) | Friederike Benjamin, B.Eng.				|		Benjamin.friederike(at)mh-hannover.de	| Masterarbeit
 
+![Image Anne Bührke](Anne.png) | Anne Bührke, B. Sc.
+
 ![Image Lennart Guntenhöner](Lennart.png) | Lennart Guntenhöner | Promotion Dr. med. 
+
+![Image Bingrui Li](Bingrui.png) | Bingrui Li, B. Sc.
 
 ![Image Daniel Majaura](Daniel.png) | Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Masterarbeit
 
 ![Image Nina Sendler](Nina.png) | Nina Sendler, B.Eng.	|	sendler.nina(at)mh-hannover.de	|	Masterarbeit
+
+![Image Hendrik Wevering](Hendrik.png) | Hendrik Wevering | Projektarbeit
+
+
+
+
