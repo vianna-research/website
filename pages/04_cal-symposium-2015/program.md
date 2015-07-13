@@ -21,18 +21,38 @@ short introducing text
 |------ |------             |-----                  |-------             |
 | 08:30 | Overview          |  |Lecture Hall |
 | **09:00** | **Plenary Lectures**|  |**Lecture Hall** |
-|       | Clinical research - State of the Art and Limitations |Lenarz, Gilles |  |
+|       | Clinical research - State of the Art, Limitations and Outlook |Lenarz, Gilles |  |
 |       | Neurophysiology of the healthy auditory system - basic research and possibilities for closing the loop | Knipper, Sanchez Malmierca, Puel |  |
-|       | Signal Processing and Audiology | PiC|
-|       | coffee break |  | |
+|       | Signal Processing and Audiology | Shinn-Cunningham, Limberger|
+|       | coffee break |  |  |
 |       | Modelling and System Integration | Meddis, Hemmert | |
 |       | Neuro surgery and anatomy | Rask-Anderson, Schrott-Fischer | |
-|       | panel discussion | Ryugo, Kollmeier, Hirschhausen, Altenmüller |  |
+|       | panel discussion | Ryugo, Kollmeier, Altenmüller |  |
 |*12:30*| *lunch* | | *hall upstairs* |
-| **13:30** |**Track A**| **Students**| **Seminar room 1, 2, 3**|
-|  |  |  |  |
-| **13:30** |**Track B** | **Junior and Senior researcher** | **Lecture hall** |
-|  |  |  |  |
+| **13:30** |**Track A**| **Senior researcher**| **Lecture hall**|
+| 13:30 | Closed-Loop CI: first steps | McLaughlin |  |
+| 13:45 | Reinstate efferent effects with CIs | Lopez-Poveda |  |
+| 14:00 | COCOHA – use of EEG to steer HA | De Cheveigne |  |
+| 14:15 | Plasticity 1 – auditory restauration after CI implantation | Barone |  |
+| 14:25 | Plasticity 2 – importance of hearing restauration in young listeners | Sharma |  |
+| 14:35 | Plasticity 3 – real-time sound modification, imaging plasticity | Schönwiesner |  |
+| 14:45 | Impact of bilateral implantation & binaural hearing | Laback |  |
+| 15:15 | Coffee break |  |  |
+| 15:45 | New electrode arrays for BCIs | Stieglitz |  |
+| 16:00 | Auditory BCIs | Tangermann |  |
+| 16:15 | inEar-EEG | Kidmose |  |
+| 16:30 | Hearing preservation (EAS) – integration of CI and natural listening | Sprinzl |  |
+| 16:45 | Imaging auditory processing | van Dijk |  |
+| 16:55 | Efferent pathway – top-down feedback from cortex to cochlea | Delano |  |
+| 17:05 | Efferent innervation of the cochlea during development | Pyott |  |
+| 17:15 | Coffee Break |  |  |
+| 17:30 | Wrap-up | PiC - Ryuogo? |  |
+| **13:30** |**Track B** | **Junior researcher and Students** | **Seminar room 1** |
+| 13:30 | Tutorials                                 |     | Seminar room 1  |
+|       | Tutorial 1 - Signal Recording and Analysis| PiC |   |
+|       | Tutorial 2 - Modelling                    | PiC |   |
+|       | Tutorial 3 - BCI Technology               | PiC |   |
+| 15:00 |  |  |  |
 | *18:00* | *dinner* |  | *hall upstairs* |
 | **19:00** | **Plenary Lecture** </br> "Hätte Beethoven von den heutigen Cochlea Implantaten profitiert?" | **Zenner** | **Lecture hall**|
 
@@ -43,16 +63,18 @@ short introducing text
 |------ |------             |-----                  |-------             |
 | 08:30 | Overview          |  |Lecture Hall |
 | **09:00** | **Road Mapping**|  |**Seminar rooms 1,2,3,4,5,6** |
-|  | Modelling | PiC |  |
-|  | Signal Processing and Coding | PiC |  |
-|  | Anatomy and Surgery | PiC |  |
-|  | Technology and System Integration | PiC |  |
-|  | Clinic and Patient Studies | PiC |  |
-|  | Neurophysiology and Animal Studies | PiC |  |
-|  | Market | PiC |  |
+|  | Clinic and Patient Studies | Gilles, Lenarz, Maier, Waldmann  |  |
+|  | Neurophysiology and Animal Studies | Kral, Puel, Rüttiger ,Sanchez Malmierca |  |
+|  | Anatomy and Surgery | Knight, Krauss, Rask-Anderson, Schrott-Fischer |  |
+|  | Psychology, Psychophysics and Audiology | De Vos, Herrmann, Limberger, van Dijk |  |
+|  | Signal Processing and Coding | Büchner, Doclo, Shinn-Cunningham |  |
+|  | Modelling | Denham, Jürgens, Meddis |  |
+|  | Technology and System Integration | Dalhoff, Rieger, Voix |  |
+|  | BCI | Debener, Holme, Solzbacher, Stieglitz |  |
 |*12:00*| *lunch* | | *hall upstairs* |
-| **13:00** |**Track A**| **Students**| **Seminar room 1**|
-|           | (optional |  |  |
-| **13:00** |**Track B** | **Junior and Senior researcher** | **Lecture hall** |
+| **13:00** |**Track A**| **Senior researcher**| **Lecture hall**|
+|           | Individual Statements on future contributions | (optional for junior scientist) |  |
+| **13:00** |**Track B** | **Students** | **Seminar room 1** |
+|           | Career Development | (optional for junior scientist) |  |
 | 14:00 | wrap up and panal discussion |  | Lecture Hall |
 | 15:00 | farewell/departure |  |  |
