@@ -6,12 +6,12 @@ short introducing text
 ## Day 1 26.10.2015
 ------------------
 
-| When  |  What             | Who                   | Where              |
-|------ |------             |-----                  |-------             |
-| 17:00 | Arrival           |                       |Foyer Tagungszentrum|
-| 18:00 | Welcome           | Lenarz                |Lecture Hall        |
-| 18:15 | Joint Introduction| Debener, Doll, Knipper|                    |
-| 19:30 | Get together      |                       |Foyer Tagungszentrum|
+| When  |  What             | Who                   | Where                 |
+|------ |------             |-----                  |-------                |
+| 17:00 | Arrival           |                       |Foyer Conference Center|
+| 18:00 | Welcome           | Lenarz                |Lecture Hall           |
+| 18:15 | Joint Introduction| Debener, Doll, Knipper|                       |
+| 19:30 | Get together      |                       |Foyer Conference Center|
 
 
 ## Day 2 27.10.2015
@@ -37,7 +37,7 @@ short introducing text
 | 14:25 | Plasticity 2 – importance of hearing restauration in young listeners | Sharma |  |
 | 14:35 | Plasticity 3 – real-time sound modification, imaging plasticity | Schönwiesner |  |
 | 14:45 | Impact of bilateral implantation & binaural hearing | Laback |  |
-| 15:15 | Coffee break |  |  |
+| *15:15* | *Coffee break* |  |  |
 | 15:45 | New electrode arrays for BCIs | Stieglitz |  |
 | 16:00 | Auditory BCIs | Tangermann |  |
 | 16:15 | inEar-EEG | Kidmose |  |
@@ -45,14 +45,14 @@ short introducing text
 | 16:45 | Imaging auditory processing | van Dijk |  |
 | 16:55 | Efferent pathway – top-down feedback from cortex to cochlea | Delano |  |
 | 17:05 | Efferent innervation of the cochlea during development | Pyott |  |
-| 17:15 | Coffee Break |  |  |
+| *17:15* | *Coffee Break* |  |  |
 | 17:30 | Wrap-up | PiC - Ryuogo? |  |
 | **13:30** |**Track B** | **Junior researcher and Students** | **Seminar room 1** |
 | 13:30 | Tutorials                                 |     |   |
 |       | Tutorial 1 - Signal Recording and Analysis| PiC |   |
 |       | Tutorial 2 - Modelling                    | PiC |   |
 |       | Tutorial 3 - BCI Technology               | PiC |   |
-| 15:00 | Coffee Break including **Poster Session** |  |  |
+| *15:00* | *Coffee Break* including **Poster Session** |  |  |
 | 16:00 | Short Talks by junior researchers |  |  |
 | 17:30 | Wrap-up |  |  |
 | *18:00* | *dinner* |  | *hall upstairs* |
@@ -73,6 +73,7 @@ short introducing text
 |  | Modelling | Denham, Jürgens, Meddis |  |
 |  | Technology and System Integration | Dalhoff, Rieger, Voix |  |
 |  | BCI | Debener, Holme, Solzbacher, Stieglitz |  |
+|  | Wrap-up | Ryugo?? |  |
 |*12:00*| *lunch* | | *hall upstairs* |
 | **13:00** |**Track A**| **Senior researcher**| **Lecture hall**|
 |           | Individual Statements on future contributions | (optional for junior scientist) |  |
