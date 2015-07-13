@@ -21,15 +21,15 @@ short introducing text
 |------ |------             |-----                  |-------             |
 | 08:30 | Overview          |  |Lecture Hall |
 | **09:00** | **Plenary Lectures**|  |**Lecture Hall** |
-|       | Clinical research - State of the Art, Limitations and Outlook |Lenarz, Gilles |  |
-|       | Neurophysiology of the healthy auditory system - basic research and possibilities for closing the loop | Knipper, Sanchez Malmierca, Puel |  |
-|       | Signal Processing and Audiology | Shinn-Cunningham, Limberger|
-|       | coffee break |  |  |
-|       | Modelling and System Integration | Meddis, Hemmert | |
-|       | Neuro surgery and anatomy | Rask-Anderson, Schrott-Fischer | |
-|       | panel discussion | Ryugo, Kollmeier, Altenmüller |  |
+| 9:00 | Clinical research - State of the Art, Limitations and Outlook |Lenarz, Gilles |  |
+| 9:30 | Neurophysiology of the healthy auditory system - basic research and possibilities for closing the loop | Knipper, Sanchez Malmierca, Puel |  |
+| 10:00 | Signal Processing and Audiology | Shinn-Cunningham, Limberger|
+| *10:30* | *coffee break* |  |  |
+| 11:00 | Modelling and System Integration | Meddis, Hemmert | |
+| 11:30 | Neuro surgery and anatomy | Rask-Anderson, Schrott-Fischer | |
+| 12:00 | panel discussion | Ryugo, Kollmeier, Altenmüller |  |
 |*12:30*| *lunch* | | *hall upstairs* |
-| **13:30** |**Track A**| **Senior researcher** </br> **Expert Talks** | **Lecture hall**|
+| **13:30** | **Track A** </br> **Expert Talks** | **Senior researcher** | **Lecture hall** |
 | 13:30 | Closed-Loop CI: first steps | McLaughlin |  |
 | 13:45 | Reinstate efferent effects with CIs | Lopez-Poveda |  |
 | 14:00 | COCOHA – use of EEG to steer HA | De Cheveigne |  |
@@ -47,7 +47,7 @@ short introducing text
 | 17:05 | Efferent innervation of the cochlea during development | Pyott |  |
 | *17:15* | *Coffee Break* |  |  |
 | 17:30 | Wrap-up | PiC - Ryuogo? |  |
-| **13:30** |**Track B** | **Junior researcher and Students** | **Seminar room 1** |
+| **13:30** |**Track B** </br> **Short Talks** </br> **Postersession** | **Junior researcher and Students** | **Seminar room 1** |
 | 13:30 | Tutorials                                 |     |   |
 |       | Tutorial 1 - Signal Recording and Analysis| PiC |   |
 |       | Tutorial 2 - Modelling                    | PiC |   |
@@ -66,7 +66,7 @@ short introducing text
 | 08:30 | Overview          |  |Lecture Hall |
 | **09:00** | **Road Mapping**|  |**Seminar rooms 1,2,3,4,5,6** |
 |  | Clinic and Patient Studies | Gilles, Lenarz, Maier, Waldmann  |  |
-|  | Neurophysiology and Animal Studies | Kral, Puel, Rüttiger ,Sanchez Malmierca |  |
+|  | Neurophysiology and Animal Studies | Kral, Puel, Rüttiger, Sanchez Malmierca |  |
 |  | Anatomy and Surgery | Knight, Krauss, Rask-Anderson, Schrott-Fischer |  |
 |  | Psychology, Psychophysics and Audiology | De Vos, Herrmann, Limberger, van Dijk |  |
 |  | Signal Processing and Coding | Büchner, Doclo, Shinn-Cunningham |  |
