@@ -29,7 +29,7 @@ short introducing text
 |       | Neuro surgery and anatomy | Rask-Anderson, Schrott-Fischer | |
 |       | panel discussion | Ryugo, Kollmeier, Altenmüller |  |
 |*12:30*| *lunch* | | *hall upstairs* |
-| **13:30** |**Track A**| **Senior researcher**| **Lecture hall**|
+| **13:30** |**Track A**| **Senior researcher** </br> **Expert Talks** | **Lecture hall**|
 | 13:30 | Closed-Loop CI: first steps | McLaughlin |  |
 | 13:45 | Reinstate efferent effects with CIs | Lopez-Poveda |  |
 | 14:00 | COCOHA – use of EEG to steer HA | De Cheveigne |  |
@@ -48,11 +48,13 @@ short introducing text
 | 17:15 | Coffee Break |  |  |
 | 17:30 | Wrap-up | PiC - Ryuogo? |  |
 | **13:30** |**Track B** | **Junior researcher and Students** | **Seminar room 1** |
-| 13:30 | Tutorials                                 |     | Seminar room 1  |
+| 13:30 | Tutorials                                 |     |   |
 |       | Tutorial 1 - Signal Recording and Analysis| PiC |   |
 |       | Tutorial 2 - Modelling                    | PiC |   |
 |       | Tutorial 3 - BCI Technology               | PiC |   |
-| 15:00 |  |  |  |
+| 15:00 | Coffee Break including **Poster Session** |  |  |
+| 16:00 | Short Talks by junior researchers |  |  |
+| 17:30 | Wrap-up |  |  |
 | *18:00* | *dinner* |  | *hall upstairs* |
 | **19:00** | **Plenary Lecture** </br> "Hätte Beethoven von den heutigen Cochlea Implantaten profitiert?" | **Zenner** | **Lecture hall**|
 
