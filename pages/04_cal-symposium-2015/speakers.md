@@ -11,7 +11,7 @@ Names of all Speakers in alphabetic order: Pascal Barone, Alexandra Bendixen, Al
 
 ### Plenary Talks
 
-<img src="04_cal-symposium-2015/vips_in_pics/HemmertW_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/HemmertW_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Werner Hemmert
@@ -21,7 +21,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/KnipperM_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/KnipperM_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Marlies Knipper
@@ -31,7 +31,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/LenarzT_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/LenarzT_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Thomas Lenarz
@@ -41,7 +41,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/LimbergerA_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/LimbergerA_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Annette Limberger
@@ -51,7 +51,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/MeddisR_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/MeddisR_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Ray Meddis
@@ -61,7 +61,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/PuelJ_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/PuelJ_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Jean-Luc Puel
@@ -71,7 +71,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/RaskAndersonH_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/RaskAndersonH_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Helge Rask-Anderson
@@ -81,7 +81,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/MalmiercaM_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/SanchezMalmiercaM_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Manuel Sánchez-Malmierca
@@ -91,7 +91,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/SchrottFischerA_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/SchrottFischerA_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Anneliese Schrott-Fischer
@@ -101,7 +101,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/ZennerH_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/ZennerH_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Hans-Peter Zenner
@@ -114,7 +114,7 @@ Title of Talk
 ----------------
 ### Expert Talks
 
-<img src="04_cal-symposium-2015/vips_in_pics/BaroneP_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/BaroneP_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Pascal Barone
@@ -124,7 +124,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/BendixenA_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/BendixenA_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Alexandra Bendixen
@@ -134,7 +134,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/DeCheveigneA_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/DeCheveigneA_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Alain De Cheveigne
@@ -144,7 +144,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/DelanoP_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/DelanoPH_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Paul Hinckley Delano
@@ -154,7 +154,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/KidmoseP_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/KidmoseP_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Preben Kidmose
@@ -164,7 +164,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/LabackB_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/LabackB_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Bernhard Laback
@@ -174,7 +174,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/LopezPovedaE_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/LopezPovedaE_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Enrique Lopez-Poveda
@@ -184,7 +184,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/McLaughlinM_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/McLaughlinM_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Myles McLaughlin
@@ -194,7 +194,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/PyottS_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/PyottS_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Sonja Pyott
@@ -204,7 +204,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/SchoenwiesnerM_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/SchoenwiesnerM_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Marc Schönwiesner
@@ -214,7 +214,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/SharmaA_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/SharmaA_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Anu Sharma
@@ -224,7 +224,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/SprinzlG_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/SprinzlG_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Georg Sprinzl
@@ -234,7 +234,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/StieglitzT_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/StieglitzT_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Thomas Stieglitz
@@ -244,7 +244,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/TangermannM_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/TangermannM_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Michael Tangermann
@@ -254,7 +254,7 @@ Title of Talk
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/VanDijkP_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/VanDijkP_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Pim van Dijk
@@ -267,7 +267,7 @@ Title of Talk
 -------------------
 ### Workshop leader
 
-<img src="04_cal-symposium-2015/vips_in_pics/DenhamS_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/DenhamS_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Susan Denham
@@ -277,7 +277,7 @@ Workshop
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/DeVosM_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/DeVosM_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Maarten De Vos
@@ -287,7 +287,7 @@ Workshop
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/ShinnCunninghamB_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/ShinnCunninghamB_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Barbara Shinn-Cunningham
@@ -297,21 +297,11 @@ Workshop
 ```
 <br style="clear: both;">
 
-<img src="04_cal-symposium-2015/vips_in_pics/VoixJ_113px.png" border="0" alt="Pic" align="left">
+<img src="04_cal-symposium-2015/vips_in_pics/VoixJ_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
 Jérémie Voix
 École de Technologie Supérieure, Montreal, Canada
-Workshop
-
-```
-<br style="clear: both;">
-
-<img src="04_cal-symposium-2015/vips_in_pics/HamacherV_113px.png" border="0" alt="Pic" align="left">
-```
-
-Volkmar Hamacher
-Company, Germany
 Workshop
 
 ```
