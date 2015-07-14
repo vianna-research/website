@@ -1,5 +1,5 @@
 title: Registration
-status: draft
+
 
 <div markdown="1" >
 <form id="register" name="register" action="http://vianna.de/fcgi-bin/register2-enfi2015.py" method="POST">
@@ -25,13 +25,16 @@ Please activate CSS in your browser.
 ||Contact information:|
 |eMail| <input type="text" size="40" maxlength="60" name="email"> |  
 |Phone|<input type="text" size="40" maxlength="40" name="Phone">|
-||Work:|
-| Work:      | <select name="Expertise"><option>Anatomy</option><option>Clinic & Patient Studies & Surgery</option><option>Modelling</option><option>Neurophysiology</option><option>Psychology & Cognition</option><option>Singal Processing and Coding</option><option>Technology & System Integration</option></select>  |
-|Recent research|<input type="text" size="40" maxlength="40" name="research">|
-
-
-
+|||
+||  Please choose: |
+|EnFI School| <select name="EnFI_School"><option>Yes</option><option>No</option></select>|
+|Invoice|<select name="Invoice"> <option>Yes</option><option>No</option></select>|
+| | |
 | | <input type="submit" class="btn btn-primary" value="Submit"> |
 
+
+
+</form>
+</div>
 
 
