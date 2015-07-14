@@ -23,7 +23,7 @@ TU München, Germany
 Title of Talk
 
 ```
-<br style="clear: both;">
+
 
 <img src="04_cal-symposium-2015/vips_in_pics/KnipperM_113px.jpg" border="0" alt="Pic" align="left">
 ```
