@@ -14,7 +14,6 @@ Please activate CSS in your browser.
 | --------    | ---------------------------------------------------------------------------------------------------------------: |
 ||Please make sure to fill in each of the |
 || following boxes.|
-| Title:      | <select name="Title"><option>Mr</option><option>Mrs</option><option>Dr.</option><option>Prof.</option></select>  |
 | First Name: | <input type="text" size="40" maxlength="50" name="FirstName">   |
 | Last Name: | <input type="text" size="40" maxlength="50" name="LastName">     |
 | Affiliation|  <input type="text" size="40" maxlength="50" name="Affiliation" >|
@@ -25,12 +24,21 @@ Please activate CSS in your browser.
 ||Contact information:|
 |eMail| <input type="text" size="40" maxlength="60" name="email"> |  
 |Phone|<input type="text" size="40" maxlength="40" name="Phone">|
+||bank information:|
+|Account holder| <input type="text" size="40" maxlength="60" name="HolderName"> |
+|Name of bank| <input type="text" size="40" maxlength="60" name="BankName"> | 
+|IBAN| <input type="text" size="40" maxlength="60" name="IBAN"> | 
+|BIC| <input type="text" size="40" maxlength="60" name="BIC"> | 
 |||
 ||  Please choose: |
-|EnFI School| <select name="EnFI_School"><option>Yes</option><option>No</option></select>|
-|Invoice|<select name="Invoice"> <option>Yes</option><option>No</option></select>|
+|Expertise| |
 | | |
-| | <input type="submit" class="btn btn-primary" value="Submit"> |
+| | 
+<br>
+<input type="checkbox" name="option1" value="Clinic/Patient Studies"> Milk<br>
+<input type="checkbox" name="option2" value="Neurophysiology/Animal Studies" checked> Butter<br>
+<input type="checkbox" name="option3" value="Models"> Cheese<br>
+<br> |
 
 
 
