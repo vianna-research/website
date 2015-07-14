@@ -1,5 +1,4 @@
 title: CAL Symposium 2015
-status: draft
 
 # Closing the Auditory Loop 
 
