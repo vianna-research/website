@@ -1,4 +1,4 @@
-title: CAL Symposium 2015
+title: Speakers
 status: hidden
 
 ## Speakers
