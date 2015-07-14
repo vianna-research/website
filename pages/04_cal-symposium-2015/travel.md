@@ -1,5 +1,5 @@
-title: CAL Symposium 2015
-status: draft
+title: Travel
+status: hidden
 
 ## Hotels
 
