@@ -14,7 +14,8 @@ Names of all Speakers in alphabetic order: Pascal Barone, Alexandra Bendixen, Al
 <!-- <img src="04_cal-symposium-2015/vips_in_pics/HemmertW_113px.jpg" border="0" alt="Pic" align="left"> -->
 
 
-![HemmerW][vips_in_pics/HemmertW_113px.jpg]{left}
+![HemmerW](vips_in_pics/HemmertW_113px.jpg){left}
+
 ```
 
 Werner Hemmert
