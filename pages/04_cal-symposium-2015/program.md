@@ -33,9 +33,9 @@ short introducing text
 | 13:30 | Closed-Loop CI: first steps | McLaughlin |  |
 | 13:45 | Reinstate efferent effects with CIs | Lopez-Poveda |  |
 | 14:00 | COCOHA – use of EEG to steer HA | De Cheveigne |  |
-| 14:15 | Plasticity 1 – auditory restauration after CI implantation | Barone |  |
-| 14:25 | Plasticity 2 – importance of hearing restauration in young listeners | Sharma |  |
-| 14:35 | Plasticity 3 – real-time sound modification, imaging plasticity | Schönwiesner |  |
+| 14:15 | Plasticity 1 – The role of vision in CI users | Barone |  |
+| 14:25 | Plasticity 2 – Auditory sensory deprivation and cortical reorganization in children and adults | Sharma |  |
+| 14:35 | Plasticity 3 – Auditory Neuroimaging – manipulating experience | Schönwiesner |  |
 | 14:45 | Impact of bilateral implantation & binaural hearing | Laback |  |
 | *15:15* | *Coffee break* |  |  |
 | 15:45 | New electrode arrays for BCIs | Stieglitz |  |
