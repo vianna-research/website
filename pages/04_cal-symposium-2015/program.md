@@ -1,7 +1,21 @@
 title: CAL Symposium 2015
 status: draft
 
-short introducing text
+Please note that changes to the programme still may occur. New programme versions will be announced here.
+All participants will receive a printed copy of the final programme at the symposium.
+
+A preliminary programme is now available for download:
+
+The Symposium will begin with an informal get-together on October 26th in the late afternoon at 6 p.m. You are asked to register on-site between 5 and 6 p.m. 
+The scientific programme will start on October 27th at 8:30 a.m. and end on October 28th at 3:00 p.m.
+
+The programme will consist of:
+* talks summarizing the state of the art in a certain topic
+* expert talks giving a more specific insight into selected research areas
+* a workshop to discuss and define the roadmap 
+
+A detailled programme with all scheduled sessions and invited speakers is listed below.
+
 
 ## Day 1 26.10.2015
 ------------------
