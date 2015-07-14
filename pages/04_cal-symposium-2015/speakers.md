@@ -1,5 +1,5 @@
 title: CAL Symposium 2015
-status: draft
+status: hidden
 
 ## Speakers
 
@@ -11,7 +11,10 @@ Names of all Speakers in alphabetic order: Pascal Barone, Alexandra Bendixen, Al
 
 ### Plenary Talks
 
-<img src="04_cal-symposium-2015/vips_in_pics/HemmertW_113px.jpg" border="0" alt="Pic" align="left">
+<!-- <img src="04_cal-symposium-2015/vips_in_pics/HemmertW_113px.jpg" border="0" alt="Pic" align="left"> -->
+
+
+![HemmerW][vips_in_pics/HemmertW_113px.jpg]{left}
 ```
 
 Werner Hemmert
