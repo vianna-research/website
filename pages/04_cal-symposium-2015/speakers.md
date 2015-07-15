@@ -7,7 +7,7 @@ On this page you will find a list of all participants sorted by their role durin
 
 - Speakers giving a [plenary talk](#plenary-talks) on Tuesday morning
 - Speakers giving an [expert talk](#expert-talks) on Tuesday afternoon (Track A)
-- Speakers giving a short talk on Tuesday afternoon (Track B)
+- Speakers giving a [short talk](#short-talks) on Tuesday afternoon (Track B)
 - [Workshop](#workshop-leader) group leaders on Wednesday morning
 - Students
 - Industry
