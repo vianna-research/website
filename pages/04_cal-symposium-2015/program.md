@@ -10,9 +10,9 @@ The Symposium will begin with an informal get-together on October 26th in the la
 The scientific program will start on October 27th at 8:30 a.m. and end on October 28th at 3:00 p.m.
 
 The program will consist of:
-* plenary lectures summarizing the state of the art in a certain topic
-* expert talks giving a more specific insight into selected research areas
-* a workshop to discuss and define the roadmap 
+- plenary lectures summarizing the state of the art in a certain topic
+- expert talks giving a more specific insight into selected research areas
+- a workshop to discuss and define the roadmap 
 
 A detailled program with all scheduled sessions and invited speakers is listed below.
 
