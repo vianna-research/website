@@ -31,7 +31,6 @@ Please activate CSS in your browser.
 |BIC| <input type="text" size="40" maxlength="60" name="BIC"> | 
 |||
 ||  Please choose Expertise: |
-|| |
 | | |
 | |  <input type="checkbox" name="option1" value="Clinic"> Clinic / Patient Studies<br>
 | |  <input type="checkbox" name="option2" value="Animals" checked> Neurophysiology / Animal Studiesr<br>
