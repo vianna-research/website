@@ -34,13 +34,13 @@ Please activate CSS in your browser.
 || |
 | | |
 | |  <input type="checkbox" name="option1" value="Clinic"> Clinic / Patient Studies<br>
-<input type="checkbox" name="option2" value="Animals" checked> Neurophysiology / Animal Studiesr<br>
-<input type="checkbox" name="option3" value="Anatomy"> Anatomy / Neurosurgery<br>
-<input type="checkbox" name="option3" value="Psychology"> Psychology / Psychophysics / Audiology<br>
-<input type="checkbox" name="option3" value="Coding"> Signal Processing / Coding<br>
-<input type="checkbox" name="option3" value="Modelling"> Modelling<br>
-<input type="checkbox" name="option3" value="Technology"> Technology / System Integration<br>
-<input type="checkbox" name="option3" value="BCI"> Brain Conputer Interfaces<br>
+| |  <input type="checkbox" name="option2" value="Animals" checked> Neurophysiology / Animal Studiesr<br>
+| |  <input type="checkbox" name="option3" value="Anatomy"> Anatomy / Neurosurgery<br>
+| |  <input type="checkbox" name="option3" value="Psychology"> Psychology / Psychophysics / Audiology<br>
+| |  <input type="checkbox" name="option3" value="Coding"> Signal Processing / Coding<br>
+| |  <input type="checkbox" name="option3" value="Modelling"> Modelling<br>
+| |  <input type="checkbox" name="option3" value="Technology"> Technology / System Integration<br>
+| |  <input type="checkbox" name="option3" value="BCI"> Brain Conputer Interfaces<br>
 <br> |
 
 
