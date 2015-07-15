@@ -334,6 +334,22 @@ Workshop
 ```
 <br style="clear: both;">
 
+-------------------
+### Students
+
+<img src="04_cal-symposium-2015/vips_in_pics/StieghorstJ_113px.jpg" border="0" alt="Pic" align="left">
+```
+
+Jan Stieghorst Holme
+BioMaterial Engineering, Medical School Hannover, Germany
+Poster
+
+```
+<br style="clear: both;">
+
+------------
+### Industry
+
 <img src="04_cal-symposium-2015/vips_in_pics/SolzbacherF_113px.png" border="0" alt="Pic" align="left">
 ```
 
@@ -364,3 +380,15 @@ Workshop
 ```
 <br style="clear: both;">
 
+------------
+### Culture and Politics
+
+<img src="04_cal-symposium-2015/vips_in_pics/BuchholzC_113px.png" border="0" alt="Pic" align="left">
+```
+
+Christiane Buchholz
+BMBF, Germany
+
+
+```
+<br style="clear: both;">
