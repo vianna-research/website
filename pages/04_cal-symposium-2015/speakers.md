@@ -1,11 +1,21 @@
 title: Speakers
 status: hidden
 
-## Speakers
+## Participants
 
-short introducing text
+On this page you will find a list of all participants sorted by their role during the symposium: 
 
-[Plenary talks](#plenary-talks) (overview), Expert talks (research), workshop leadears (group leaders during workshop on day 3)
+- Speakers giving a [plenary talk](#plenary-talks) on Tuesday morning
+- Speakers giving an [expert talk](#expert-talks) on Tuesday afternoon (Track A)
+- Speakers giving a short talk on Tuesday afternoon (Track B)
+- [Workshop](#workshop-leader) group leaders on Wednesday morning
+- Students
+- Industry
+- Culture & Politics
+
+### Speakers
+
+[Plenary talks](#plenary-talks) (overview), [Expert talks](#expert-talks) (research), [workshop leadears](#workshop-leader) (leading discussion during workshop on day 3)
 
 Names of all Speakers in alphabetic order: Pascal Barone, Alexandra Bendixen, Alain De Cheveigne, Paul Hinckley Delano, Werner Hemmert, Preben Kidmose, Marlies Knipper, Bernhard Laback, Thomas Lenarz, Annette Limbergerm, Enrique Lopez-Poveda, Myles McLaughlin, Ray Meddis, Jean-Luc Puel, Sonja Pyott, Helge Rask-Anderson, Manuel Sánchez-Malmierca, Marc Schönwiesner, Anneliese Schrott-Fischer, Anu Sharma, Georg Sprinzl, Thomas Stieglitz, Michael Tangermann, Pim van Dijk, Hans-Peter Zenner
 
@@ -263,6 +273,19 @@ Title of Talk
 
 Pim van Dijk
 ENT Department, UMC Groningen, Netherlands
+Title of Talk
+
+```
+<br style="clear: both;">
+
+-------------------
+### Short Talks
+
+<img src="04_cal-symposium-2015/vips_in_pics/FrancartT_113px.jpg" border="0" alt="Pic" align="left">
+```
+
+Tom Francart
+Experimental Oto-rhino-laryngology, KU Leuven, Belgium
 Title of Talk
 
 ```
