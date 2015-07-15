@@ -24,13 +24,13 @@ Please activate CSS in your browser.
 ||Contact information:|
 |eMail| <input type="text" size="40" maxlength="60" name="email"> |  
 |Phone|<input type="text" size="40" maxlength="40" name="Phone">|
-||bank information:|
+||Bank information:|
 |Account holder| <input type="text" size="40" maxlength="60" name="HolderName"> |
 |Name of bank| <input type="text" size="40" maxlength="60" name="BankName"> | 
 |IBAN| <input type="text" size="40" maxlength="60" name="IBAN"> | 
 |BIC| <input type="text" size="40" maxlength="60" name="BIC"> | 
 |||
-||  Please choose Expertise: |
+||  Please choose Expertise: <br> Not more than two, please.|
 | | |
 | |  <input type="checkbox" name="option1" value="Clinic"> Clinic / Patient Studies<br>
 | |  <input type="checkbox" name="option2" value="Animals" checked> Neurophysiology / Animal Studiesr<br>
