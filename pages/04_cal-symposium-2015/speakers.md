@@ -340,7 +340,7 @@ Workshop
 <img src="04_cal-symposium-2015/vips_in_pics/StieghorstJ_113px.jpg" border="0" alt="Pic" align="left">
 ```
 
-Jan Stieghorst Holme
+Jan Stieghorst
 BioMaterial Engineering, Medical School Hannover, Germany
 Poster
 
