@@ -9,9 +9,9 @@ On this page you will find a list of all participants sorted by their role durin
 - Speakers giving an [expert talk](#expert-talks) on Tuesday afternoon (Track A)
 - Speakers giving a [short talk](#short-talks) on Tuesday afternoon (Track B)
 - [Workshop](#workshop-leader) group leaders on Wednesday morning
-- Students
-- Industry
-- Culture & Politics
+- [Students](#students)
+- [Industry](#industry)
+- [Culture & Politics](#culture-and-politics)
 
 ### Speakers
 
