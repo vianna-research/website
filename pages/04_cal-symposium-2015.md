@@ -24,8 +24,13 @@ The accomplishment of the symposium will bring us closer in achieving two main g
 
 - Define a **Roadmap**: 
   - bring together expert, share knowledge, define critical experiments etc.
-- assamble **consortium**: 
-  - for future projects EU-project: find partners to apply for EU grant, first action: apply for Coordination and Support Action Spring 2016, second: meet again in Krems in summer 2016 and apply for an EU grant in autumn 2016 as a consortium
+- assemble a **Consortium** composed of research and industry for for future projects: 
+  - within Germany: transregional SFB
+  - within EU: Horizon 2020 
+    - first: Coordination and Support Action Spring 2016 
+    - second: meet again in Krems in summer 2016 and prepare grant proposal
+    - third: EU grant in autumn 2016 as a consortium
+  - worldwide: ??MSCA action, EU-project with external partners
 
 To reach this goal there will be plenary talks giving an overview into 5 main topics, expert talks giving us an insight into current research already leading into the direction of closing the loop. Finally a workshop will give us the chance discuss important questions initiated by the talks and during coffee breaks. Here we will answer the most challenging questions that need to be answered to go the next step and set milestones for the next 10 years.  
 Besides known experts in their fields we will include young researchers, students, industrial partners as well as delegates from culture and politics.
