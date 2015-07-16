@@ -195,6 +195,7 @@ table {
     margin-bottom: 2em;
     border-spacing: 0;
     box-shadow: 0 2px 4px #999;
+    width: 100%;
 }
 table th {
     background-color: #D9D5CD; }
