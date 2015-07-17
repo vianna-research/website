@@ -8,7 +8,7 @@ Publications regarding these projects can be found [here](Publications.html)
 * Cluster of Excellence Hearing4All
 
 ##Conferences
-* We have recently hostet the Conference [Engineering of Functional Interfaces](03_enfi-2015.html)
+* We have recently hostet the Conference **[Engineering of Functional Interfaces](03_enfi-2015.html)**
 * We are currently organizing the International Symposium **„Closing the Auditory Loop“** (26.10.-28.10.2015) funded by the VW-Stiftung.   
 The main goal of the Symposium is the creation of a roadmap that defines challenges, critical experiments and milestones on a pre-competitive basis. It will also help to initiate new research collaborations as well as joint funding programs. To achieve this challenging goal selected, international leading experts of the various contributing fields (anatomy, signal processing, modelling, surgery, system integration, technology etc.) are invited. Besides academia also representatives from specialized industry will be invited to participate. Further, we are planning to invite young researchers to give new and inspiring input.
 
