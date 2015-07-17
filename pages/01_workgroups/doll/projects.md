@@ -17,6 +17,7 @@ The main goal of the Symposium is the creation of a roadmap that defines challen
 ##Ongoing Projects
 * **Feedback loop and fluid flow electrode - FLOWTRODE** (BMBF: KMU Innovativ Medizintechnik)  
 	Please contact [Prof. Doll](staff.html) for more information.
+
 * **Flexible Individualized Active Medical Implants – 3D Printing of Silicone Rubber Connectors and Electrodes - FINAMI** (BMWi: ZIM KF-VP)   
 	Please contact [Prof. Doll](staff.html) for more information.
 
