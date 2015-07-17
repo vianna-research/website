@@ -8,7 +8,7 @@ title: Staff
 ----------------------------------------------------------------------------------------
 **Team Assistant**
 
-![Image Bettina Goede](Bettina.jpg) | Bettina Goede	|	Phone: 0511 532 7231 |Fax: 0511 532 18576
+![Image Bettina Goede](Bettina.jpg) | Bettina Goede	|	Phone: 0511 532 7235 |Fax: 
 
 
 ----------------
