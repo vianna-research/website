@@ -7,12 +7,33 @@ status: hidden
 ![Logo CAL 2015](04_cal-symposium-2015/cal23.png) 
 ![Schloss Herrenhausen](04_cal-symposium-2015/SSH_small.png)
 
-### Please remember to register for the conference until July 31 2015.
+### Please remember to register for the conference until August 31st 2015.
 
 
-In the future of hearing aids and implants, which actually help deaf new-borns as well as the aging society, Brain Computer Interfaces will once be needed to make a last big leap to full hearing restoration. It will achieve, in a nutshell, the revived cocktail party capability. However this may take us 10 to 15 years from now. Whilst both academia and industry are convinced that such solutions will truly appear, many currently refrain from entering this transdisciplinary, long and unknown field of research and development.
+In the future of hearing aids and implants, which actually help deaf new-borns as well as the aging society, Brain Computer Interfaces will once be needed to make a last big leap to full hearing restoration. It will achieve, in a nutshell, the revived cocktail party capability. However this may take us 10 to 15 years from now. While both academia and industry are convinced that such solutions will truly appear, many currently refrain from entering this transdisciplinary, long and unknown field of research and development.
 
 Similar to last centuries’ computer chip development, a road mapping action can pave such a way. It will define challenges, critical experiments and milestones on a pre-competitive basis. New research collaborations as well as joint funding programmes are initiated.
+
+As we come from existing clinical practice, we reflect mature hearing aids or restauration systems and pursue precisely defined objectives. Thus our activity can be seen distinct from other BCI road mapping activities of more general and philosophical nature.
+
+The symposium is sponsored by the German Volkswagen Foundation and will be held in the famous Herrenhausen castle within a rewarding framework.
+
+#### Aim and Execution
+
+The accomplishment of the symposium will bring us closer in achieving two main goals:
+
+- Define a **Roadmap**: 
+  - bring together expert, share knowledge, define critical experiments etc.
+- assemble a **Consortium** composed of research and industry for for future projects: 
+  - within Germany: transregional SFB
+  - within EU: Horizon 2020 
+    - first: Coordination and Support Action Spring 2016 
+    - second: meet again in Krems in summer 2016 and prepare grant proposal
+    - third: EU grant in autumn 2016 as a consortium
+  - worldwide: ??MSCA action, EU-project with external partners
+
+To reach this goal there will be plenary talks giving an overview into 5 main topics, expert talks giving us an insight into current research already leading into the direction of closing the loop. Finally a workshop will give us the chance discuss important questions initiated by the talks and during coffee breaks. Here we will answer the most challenging questions that need to be answered to go the next step and set milestones for the next 10 years.  
+Besides known experts in their fields we will include young researchers, students, industrial partners as well as delegates from culture and politics.
 
 # subtitle
 
