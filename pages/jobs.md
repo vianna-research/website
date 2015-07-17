@@ -4,6 +4,8 @@ title: Open Positions
 
 [Doctorate Thesis - Dr. med.](01_workgroups/doll/Dr-med.pdf)
 
+[HiWi](01_workgroups/doll/Hiwi.pdf)
+
 <!-- Sorry, there are no open positions at the moment.-->
 
 
