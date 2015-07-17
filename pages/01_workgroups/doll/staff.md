@@ -8,7 +8,7 @@ title: Staff
 ----------------------------------------------------------------------------------------
 **Team Assistant**
 
-![Image Bettina Goede](Bettina.jpg) | Bettina Goede	|	Phone: 0511 532 7231 |Fax: 0511 532 18576
+![Image Bettina Goede](Bettina.jpg) | Bettina Goede	|	Phone: 0511 532 7235 |Fax: 
 
 
 ----------------
@@ -23,17 +23,17 @@ title: Staff
 -----------------------------
 **Students**
 
-![Image Friederike Benjamin](Friederike.png) | Friederike Benjamin | benjamin.friederike@mh-hannover.de| Master Thesis
+ Friederike Benjamin, B. Eng. | benjamin.friederike@mh-hannover.de| Master Thesis
 
-![Image Anne Bührke](Anne.png) | Anne Bührke, B. Sc. 
+ Anne Bührke, B. Sc. | Internschip
 
-![Image Lennart Guntenhöner](Lennart.png) | Lennart Guntenhöner | Ben.L.Guntenhoener@stud.mh-hannover.de | Medical Doctorate Thesis 
+Lennart Guntenhöner | Ben.L.Guntenhoener@stud.mh-hannover.de | Medical Doctorate Thesis 
 
-![Image Bingrui Li](Bingrui.png) | Bingrui Li
+Bingrui Li, B.Sc. | Student project
 
-![Image Daniel Majaura](Daniel.png) | Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Master Thesis
+Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Master Thesis
 
-![Image Nina Sendler](Nina.png) | Nina Sendler, B.Eng.	|	sendler.nina(at)mh-hannover.de	|	Master Thesis
+Nina Sendler, B.Eng.	|	sendler.nina(at)mh-hannover.de	|	Master Thesis
 
-![Image Hendrik Wevering](Hendrik.png) | Hendrik Wevering | Student project
+Hendrik Wevering | Student project
 
