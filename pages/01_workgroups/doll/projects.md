@@ -16,27 +16,28 @@ The main goal of the Symposium is the creation of a roadmap that defines challen
 
 ##Ongoing Projects
 * **Feedback loop and fluid flow electrode - FLOWTRODE** (BMBF: KMU Innovativ Medizintechnik)  
-	Please contact [Prof. Doll](staff.html) for more information.
+Please contact [Prof. Doll](staff.html) for more information.
 
 * **Flexible Individualized Active Medical Implants – 3D Printing of Silicone Rubber Connectors and Electrodes - FINAMI** (BMWi: ZIM KF-VP)   
-	Please contact [Prof. Doll](staff.html) for more information.
+Please contact [Prof. Doll](staff.html) for more information.   
 
-* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank) Adapted, highly flexible ECoG electrode systems are developed, leading to a prototype that can be testet by the end-user. By implementing an innovative multicenter product development and suitable product logistics a resource saving process is possible.   
-	Please contact [Prof. Doll](staff.html) for more information.
+* **Carbon Nanotube Neurite Interface for CI and ECoG** ([Hearing4All](http://hearing4all.eu/EN/))    
+This is a follow up project to the recently finished project *Flexible, selfbending multielectrode shafts*. 
+The optimization of highly flexible neural electrodes for both stimulating CI and recording BCI applications is the mayor goal of the Biomaterial engineering group in Hearing 4 All. Hence, parameters are high physiological limits of current density and signal to noise ratio, wide electrochemical windows, low chronic tissue corrosion and biocompatibility with low fibrotic overgrowth.
+Based on previous work, Carbon Nanotubes are further explored for these applications with the final goal of proving their suitability for chronic implantation and to review their performance with respect to the state of the art as well as towards ongoing other new material concepts.
+
+* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank) Adapted, highly flexible ECoG electrode systems are developed, leading to a prototype that can be testet by the end-user. By implementing an innovative multicenter product development and suitable product logistics a resource saving process is possible.    
+Please contact [Prof. Doll](staff.html) for more information.
+
+##Closed Projects
 
 * **Flexible, selfbending multielectrode shafts** ([Hearing4All](http://hearing4all.eu/EN/))   
-We explore the hypothesis that for CI better ambient noise understanding can be achieved by a higher number of electrode contacts – if the CIs clinge well to the modiolus. A side aspect of such R&D must be that the stiffness of CIs must not exceed the present state in order to avoid increased insertion tissue damage and trauma in general. Thus the wiring techniques of today must be altered. We test Au on parylene / polyimide films and CNTs immersed in silicone rubber. Parallelly we explore Hydrogel bimorph swelling elements for proper clinging actuation. The Start project lays the basis to further procurement of third-party funds. Our objectives are increased electrode number to 30 and 50 with almost maintained impedances and flexibility and the design and testing of actuation principles.    
-	Please contact [Prof. Doll](staff.html) for more information.
-
-
+We explore the hypothesis that for CI better ambient noise understanding can be achieved by a higher number of electrode contacts – if the CIs clinge well to the modiolus. A side aspect of such R&D must be that the stiffness of CIs must not exceed the present state in order to avoid increased insertion tissue damage and trauma in general. Thus the wiring techniques of today must be altered. We test Au on parylene / polyimide films and CNTs immersed in silicone rubber. Parallelly we explore Hydrogel bimorph swelling elements for proper clinging actuation. The Start project lays the basis to further procurement of third-party funds. Our objectives are increased electrode number to 30 and 50 with almost maintained impedances and flexibility and the design and testing of actuation principles.       
+Please contact [Prof. Doll](staff.html) for more information.
 
 * **Improvement of electrode-nerv-interaction using neural cell adhesion molecules** ([Hearing4All](http://hearing4all.eu/EN/))   
-Large distances between the electrode contacts of CIs and the to be stimulated spiral ganglion neurons of the cochlea as well as connective tissue growth, caused by insertion trauma and foreign body response are hypothesized to affect the quality of hearing in CI patients. The subjective of the envisaged project is to improve the electrode-nerve interaction by initiating strong adhesion of the neurons onto electrode material surfaces. At the same time a reduction of fibrous encapsulation of the electrode body is aimed. For this issue, body own cell adhesion molecules of immunoglobulin superfamily (Ig-CAMs) should be synthesized in bactria and will be used to functionalize model surfaces. The interaction of neurons onto the functionalized surfaces will be investigated using StED-microscopy to reveal any changes in neural cell adhesion with respect to surface modifications.   
-	Please contact [Prof. Doll](staff.html) for more information.
-
-
-
-##Projects completed
+Large distances between the electrode contacts of CIs and the to be stimulated spiral ganglion neurons of the cochlea as well as connective tissue growth, caused by insertion trauma and foreign body response are hypothesized to affect the quality of hearing in CI patients. The subjective of the envisaged project is to improve the electrode-nerve interaction by initiating strong adhesion of the neurons onto electrode material surfaces. At the same time a reduction of fibrous encapsulation of the electrode body is aimed. For this issue, body own cell adhesion molecules of immunoglobulin superfamily (Ig-CAMs) should be synthesized in bactria and will be used to functionalize model surfaces. The interaction of neurons onto the functionalized surfaces will be investigated using StED-microscopy to reveal any changes in neural cell adhesion with respect to surface modifications.     
+Please contact [Prof. Doll](staff.html) for more information.
 
 * **Dual Energy**
 A new radiographic method is developed, simulating parall measurement with two devices or different energies using only one device. Mikrostructured filters for radiographic inspection are developed. The field of application is to determine the ratio between fat tissue and muscle tissue and to distinguish foreign bodies in tissue and soft matter.   
