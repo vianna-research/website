@@ -2,7 +2,7 @@ title: Registration
 status: hidden
 
 <div markdown="1" >
-<form id="register" name="register" action="http://vianna.de/fcgi-bin/register2-enfi2015.py" method="POST">
+<form id="register" name="register" action="http://vianna.de/fcgi-bin/register_cal2015.py" method="POST">
 <!-- next few lines are to fight of unwanted bots and humans don't fill those -->
 <div class="very_important">
 Please activate CSS in your browser.
@@ -32,14 +32,14 @@ Please activate CSS in your browser.
 |||
 ||**Please choose Expertise: <br> Not more than two, please.**|
 | | |
-| |  <input type="checkbox" name="option1" value="Clinic"> Clinic / Patient Studies<br>
-| |  <input type="checkbox" name="option2" value="Animals" checked> Neurophysiology / Animal Studiesr<br>
-| |  <input type="checkbox" name="option3" value="Anatomy"> Anatomy / Neurosurgery<br>
-| |  <input type="checkbox" name="option3" value="Psychology"> Psychology / Psychophysics / Audiology<br>
-| |  <input type="checkbox" name="option3" value="Coding"> Signal Processing / Coding<br>
-| |  <input type="checkbox" name="option3" value="Modelling"> Modelling<br>
-| |  <input type="checkbox" name="option3" value="Technology"> Technology / System Integration<br>
-| |  <input type="checkbox" name="option3" value="BCI"> Brain Conputer Interfaces<br>
+| |  <input type="checkbox" name="clinic"> Clinic / Patient Studies<br>
+| |  <input type="checkbox" name="animals"> Neurophysiology / Animal Studiesr<br>
+| |  <input type="checkbox" name="anatomy"> Anatomy / Neurosurgery<br>
+| |  <input type="checkbox" name="psychology"> Psychology / Psychophysics / Audiology<br>
+| |  <input type="checkbox" name="coding"> Signal Processing / Coding<br>
+| |  <input type="checkbox" name="modeling"> Modeling<br>
+| |  <input type="checkbox" name="technology"> Technology / System Integration<br>
+| |  <input type="checkbox" name="bci"> Brain Conputer Interfaces<br>
 <br> |
 
 </form>
