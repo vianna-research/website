@@ -29,7 +29,7 @@ Please activate CSS in your browser.
 ||**Please choose Expertise: <br> Not more than two, please.**|
 | | |
 | |  <input type="checkbox" name="clinic"> Clinic / Patient Studies<br>
-| |  <input type="checkbox" name="animals"> Neurophysiology / Animal Studiesr<br>
+| |  <input type="checkbox" name="animals"> Neurophysiology / Animal Studies<br>
 | |  <input type="checkbox" name="anatomy"> Anatomy / Neurosurgery<br>
 | |  <input type="checkbox" name="psychology"> Psychology / Psychophysics / Audiology<br>
 | |  <input type="checkbox" name="coding"> Signal Processing / Coding<br>
