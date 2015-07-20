@@ -2,7 +2,7 @@ title: Registration
 status: hidden
 
 <div markdown="1" >
-<form id="register" name="register" action="http://vianna.de/fcgi-bin/register2-enfi2015.py" method="POST">
+<form id="register" name="register" action="http://vianna.de/fcgi-bin/register_cal2015.py" method="POST">
 <!-- next few lines are to fight of unwanted bots and humans don't fill those -->
 <div class="very_important">
 Please activate CSS in your browser.
