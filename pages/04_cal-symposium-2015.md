@@ -7,7 +7,7 @@ status: hidden
 ![Logo CAL 2015](04_cal-symposium-2015/cal23.png) 
 ![Schloss Herrenhausen](04_cal-symposium-2015/SSH_small.png)
 
-### Please remember to register for the conference until August 31st 2015.
+### Please remember to register for the symposium until August 31st 2015.
 
 
 In the future of hearing aids and implants, which actually help deaf new-borns as well as the aging society, Brain Computer Interfaces will once be needed to make a last big leap to full hearing restoration. It will achieve, in a nutshell, the revived cocktail party capability. However this may take us 10 to 15 years from now. While both academia and industry are convinced that such solutions will truly appear, many currently refrain from entering this transdisciplinary, long and unknown field of research and development.
@@ -24,6 +24,7 @@ The accomplishment of the symposium will bring us closer in achieving two main g
 
 - Define a **Roadmap**: 
       - bring together experts, share knowledge, define critical experiments etc.
+
 
 
 - assemble a **Consortium** composed of research and industry for future projects: 
