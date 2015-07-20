@@ -23,7 +23,9 @@ The symposium is sponsored by the German Volkswagen Foundation and will be held 
 The accomplishment of the symposium will bring us closer in achieving two main goals:
 
 - Define a **Roadmap**: 
+
   - bring together experts, share knowledge, define critical experiments etc.
+
 - assemble a **Consortium** composed of research and industry for future projects: 
   - within Germany: transregional SFB
   - within EU: Horizon 2020 
