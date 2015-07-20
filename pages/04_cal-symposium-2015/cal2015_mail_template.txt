@@ -1,17 +1,12 @@
-
-
-UPDATE the following text for CAL. The template is from ENFI
-
-
-This is an automatically generated eMail. Please don't answer this eMail. The contact Email address is: enfi-2015@mh-hannover.de.
+﻿This is an automatically generated eMail. Please don't answer this eMail. The contact Email address is: cal-2015@mh-hannover.de.
 
 
 
-Dear ${Title} ${FirstName} ${LastName},
+Dear ${FirstName} ${LastName},
 
 your registration formular has been submitted.
 
-Please check if the submitted data is correct. Contact us (enfi-2015@mh-hannover.de), if any data is incorrect. 
+Please check if the submitted data is correct. Contact us (cal-2015@mh-hannover.de), if any data is incorrect. 
 
 Affiliation: ${Affiliation} 
 
@@ -19,25 +14,14 @@ Address: ${Address}, ${City}, ${Country}
 
 Contact information: ${email}, ${Phone}   
 
-You chose:
-Please send an invoice: ${Invoice}   
-Participation in EnFI School: ${EnFI_School}   
 
+You will receive a registration confirmation within a few days. 
+If you don't receive a registration confirmation or have any questions concerning your registration please contact us. 
 
-Please note that the registration is not complete until the registration fee of 230€ has been transfered to:
+We are looking forward to welcome you in Hannover in October!
 
-Bank:	Deutsche Bank Hannover
-Account holder:	Foerderverein der HNO-Klinik
-IBAN:	DE22 250 700 240 8570715 01
-SWIFT-BIC:	DEUT DE DBHAN
-Mention:	EnFI-2015 - Lastname, Firstname - Affiliation
-
-You will receive a registration confirmation within a few days of the money transfer. If you don't receive a registration confirmation or have any questions concerning your registration please contact us. 
-
-We are looking forward to welcome you in Hannover in July.
-
-Your Local EnFI Organizing Team
-eMail: enfi-2015@mh-hannover.de
-Phone: +49 511 532 7231
+Your Local Organizing Team
+eMail: cal-2015@mh-hannover.de
+Phone: +49 511 532 7235
 
 
