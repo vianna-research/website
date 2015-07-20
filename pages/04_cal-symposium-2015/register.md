@@ -41,6 +41,7 @@ Please activate CSS in your browser.
 | |  <input type="checkbox" name="technology"> Technology / System Integration<br>
 | |  <input type="checkbox" name="bci"> Brain Conputer Interfaces<br>
 <br> |
+| | <input type="submit" class="btn btn-primary" value="Submit"> |
 
 </form>
 </div>
