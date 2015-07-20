@@ -14,6 +14,7 @@ Please activate CSS in your browser.
 | --------    | ---------------------------------------------------------------------------------------------------------------: |
 ||**Please make sure to fill in each of the** |
 ||**following boxes.**|
+||Every box with a * has to be filled in obligatory. |
 | First Name*: | <input type="text" size="40" maxlength="50" name="FirstName">   |
 | Last Name*: | <input type="text" size="40" maxlength="50" name="LastName">     |
 | Affiliation|  <input type="text" size="40" maxlength="50" name="Affiliation" >|
