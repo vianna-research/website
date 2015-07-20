@@ -1,4 +1,4 @@
-title: Dipl.-Ing. Marcel Kluge
+﻿title: Dipl.-Ing. Marcel Kluge
 
 
 ![Image Marcel Kluge](Marcel_2.jpg)
@@ -15,7 +15,7 @@ title: Dipl.-Ing. Marcel Kluge
 |Experience|
 |------------------|-----------------------|
 | since 2014| Research Engineer (Hannover Medical School)|
-| 2005-2006 | skilled worker as Toolmaker (Volkswagen Nutzfahrzeuge Hannoer)
+| 2005-2006 | skilled worker as Toolmaker (Volkswagen Nutzfahrzeuge Hannover)
 
 |Education|
 |------------------|-----------------------|
