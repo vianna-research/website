@@ -23,16 +23,14 @@ The symposium is sponsored by the German Volkswagen Foundation and will be held 
 The accomplishment of the symposium will bring us closer in achieving two main goals:
 
 - Define a **Roadmap**: 
-
   - bring together experts, share knowledge, define critical experiments etc.
 - assemble a **Consortium** composed of research and industry for future projects: 
-
   - within Germany: transregional SFB
   - within EU: Horizon 2020 
-
     - first: Coordination and Support Action Spring 2016 
     - second: meet again in Krems in summer 2016 and finalize grant proposal
     - third: EU grant in autumn 2016 as a consortium
+
   - worldwide: ??MSCA action, EU-project with external partners
 
 To reach these goals there will be plenary talks giving an overview into 5 main topics, expert talks giving us an insight into current research already leading into the direction of closing the loop. Finally, a workshop will give us the chance to discuss important questions initiated by the talks and of course during coffee breaks. We will answer the most challenging questions that need to be answered to go the next step and set milestones for the next 10 years.  
