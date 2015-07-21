@@ -28,9 +28,9 @@ THEME = 'VIANNA-theme'
 #           ('Another social link', '#'),)
 
 DISPLAY_CATEGORIES_ON_MENU = True
-#DEFAULT_CATEGORY = "news"
+DEFAULT_CATEGORY = "news"
 
-DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
 
 DISPLAY_TAGS_ON_SIDEBAR = True
 
