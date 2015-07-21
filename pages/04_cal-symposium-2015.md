@@ -18,7 +18,8 @@ As we come from existing clinical practice, we reflect mature hearing aids or re
 
 The symposium is sponsored by the German Volkswagen Foundation and will be held in the famous Herrenhausen castle within a rewarding framework.
 
-#### Aim and Execution
+
+### Aim and Execution
 
 The accomplishment of the symposium will bring us closer in achieving two main goals:
 
@@ -32,9 +33,9 @@ The accomplishment of the symposium will bring us closer in achieving two main g
          - first: Coordination and Support Action Spring 2016 
          - second: meet again in Krems in summer 2016 and finalize grant proposal
          - third: EU grant in autumn 2016 as a consortium
-      - worldwide: ??MSCA action, EU-project with external partners
+      - worldwide: MSCA action, EU-project with external partners
 
-To reach these goals there will be plenary talks giving an overview into 5 main topics, expert talks giving us an insight into current research already leading into the direction of closing the loop. Finally, a workshop will give us the chance to discuss important questions initiated by the talks and of course during coffee breaks. We will answer the most challenging questions that need to be answered to go the next step and set milestones for the next 10 years.  
+To reach these goals there will be plenary talks giving an overview into 5 main topics, expert talks giving us an insight into current research already leading into the direction of closing the loop. Finally, a workshop will give us the chance to discuss important questions initiated by the talks and of course during coffee breaks. We will define the most challenging questions that need to be answered to go the next step and set milestones for the next 10 years.  
 Besides known experts in their fields we will include young researchers, industrial partners as well as delegates from culture and politics.
 
 
