@@ -4,7 +4,7 @@ status: hidden
 Please note that changes to the program still may occur. New program versions will be announced here.
 All participants will receive a printed copy of the final program at the symposium.
 
-A preliminary program is now available for download:
+A preliminary program is now available for [download](workshop_program.pdf):
 
 The Symposium will begin with an informal get-together on October 26th in the late afternoon at 6 p.m. You are asked to register on-site between 5 and 6 p.m. 
 The scientific program will start on October 27th at 8:30 a.m. and end on October 28th at 3:00 p.m.
