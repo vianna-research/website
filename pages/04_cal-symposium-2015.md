@@ -1,5 +1,5 @@
 title: CAL Symposium 2015
-status: hidden
+
 
 # Closing the Auditory Loop 
 
@@ -23,7 +23,7 @@ The symposium is sponsored by the German Volkswagen Foundation and will be held 
 
 The accomplishment of the symposium will bring us closer in achieving two main goals:
 
-- Define a **Roadmap**: 
+- define a **Roadmap**: 
       - bring together experts, share knowledge, define critical experiments etc.
        
 
@@ -40,7 +40,7 @@ Besides known experts in their fields we will include young researchers, industr
 
 
 
-----
+-------------------
 
 Contact Information
 -------------------
