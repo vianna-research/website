@@ -5,7 +5,7 @@ status: hidden
 
 
 ![Logo CAL 2015](04_cal-symposium-2015/cal23.png) 
-![Schloss Herrenhausen](04_cal-symposium-2015/SSH_small.png)
+![Schloss Herrenhausen](04_cal-symposium-2015/ssh_jsteakley.png)
 
 ### Please remember to register for the symposium until August 31st 2015.
 
