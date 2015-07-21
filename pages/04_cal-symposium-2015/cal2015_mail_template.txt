@@ -19,13 +19,21 @@ Your area of expertise
 -----------------------------
 
 Clinic / Patient Studies ${clinic}
+
 Neurophysiology / Animal Studies ${animals}
+
 Anatomy / Neurosurgery ${anatomy}
+
 Psychology / Psychophysics / Audiology ${psychology}
+
 Signal Processing / Coding ${coding}
+
 Modeling ${modeling}
+
 Technology / System Integration ${technology}
+
 Brain Conputer Interfaces ${bci}
+
 
 You will receive a registration confirmation within a few days. 
 If you don't receive a registration confirmation or have any questions concerning your registration please contact us. 
