@@ -3,12 +3,11 @@ status: hidden
 
 # Closing the Auditory Loop 
 
-
-![Logo CAL 2015](04_cal-symposium-2015/cal23.png) 
+![Logo CAL 2015](04_cal-symposium-2015/cal23.png){align="center"}
 ![Schloss Herrenhausen](04_cal-symposium-2015/ssh_jsteakley.png)
 
-### Please remember to register for the symposium until August 31st 2015.
 
+### Please remember to register for the symposium until August 31st 2015.
 
 In the future of hearing aids and implants, which actually help deaf new-borns as well as the aging society, Brain Computer Interfaces will once be needed to make a last big leap to full hearing restoration. It will achieve, in a nutshell, the revived cocktail party capability. However this may take us 10 to 15 years from now. While both academia and industry are convinced that such solutions will truly appear, many currently refrain from entering this transdisciplinary, long and unknown field of research and development.
 
@@ -23,17 +22,16 @@ The symposium is sponsored by the German Volkswagen Foundation and will be held 
 
 The accomplishment of the symposium will bring us closer in achieving two main goals:
 
-- define a **Roadmap**: 
-      - bring together experts, share knowledge, define critical experiments etc.
-       
+-   define a **Roadmap**: 
+    -   bring together experts, share knowledge, define critical experiments etc.
 
-- assemble a **Consortium** composed of research and industry for future projects: 
-      - within Germany: transregional SFB
-      - within EU: Horizon 2020 
-         - first: Coordination and Support Action Spring 2016 
-         - second: meet again in Krems in summer 2016 and finalize grant proposal
-         - third: EU grant in autumn 2016 as a consortium
-      - worldwide: MSCA action, EU-project with external partners
+-   assemble a **Consortium** composed of research and industry for future projects: 
+    -   within Germany: transregional SFB
+    -   within EU: Horizon 2020 
+        1.   Coordination and Support Action Spring 2016 
+        2.   second: meet again in Krems in summer 2016 and finalize grant proposal
+        3.   third: EU grant in autumn 2016 as a consortium
+    -   worldwide: MSCA action, EU-project with external partners
 
 To reach these goals there will be plenary talks giving an overview into 5 main topics, expert talks giving us an insight into current research already leading into the direction of closing the loop. Finally, a workshop will give us the chance to discuss important questions initiated by the talks and of course during coffee breaks. We will define the most challenging questions that need to be answered to go the next step and set milestones for the next 10 years.  
 Besides known experts in their fields we will include young researchers, industrial partners as well as delegates from culture and politics.
