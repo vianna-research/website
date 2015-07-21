@@ -62,7 +62,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 17:05 | | Pyott |  |
 | *17:15* | *Coffee Break* |  |  |
 |  |  |  |  |
-| **13:30** |**Track B** </br> **Short Talks** </br> **Postersession** | **Junior researcher and Students** | **Seminar room 1** |
+| **13:30** |**Track B** </br> **Tutorials** </br> **Short Talks** </br> **Postersession** | **Junior researcher and Students** | **Seminar room 1** |
 | 13:30 | Tutorials                                 |     |   |
 |       | Tutorial 1 - Signal Recording and Analysis| PiC |   |
 |       | Tutorial 2 - Modelling                    | PiC |   |
