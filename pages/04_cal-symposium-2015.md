@@ -3,7 +3,7 @@ status: hidden
 
 # Closing the Auditory Loop 
 
-![Logo CAL 2015](04_cal-symposium-2015/cal23.png){align-center}
+![Logo CAL 2015](04_cal-symposium-2015/cal23.png){.align-center}
 ![Schloss Herrenhausen](04_cal-symposium-2015/ssh_cropped.png)
 
 
