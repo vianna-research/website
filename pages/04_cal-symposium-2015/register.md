@@ -28,14 +28,14 @@ Please activate CSS in your browser.
 |||
 ||**Please choose Expertise: <br> Not more than two, please.**|
 | | |
-| |  <input type="checkbox" name="clinic"> Clinic / Patient Studies<br>
-| |  <input type="checkbox" name="animals"> Neurophysiology / Animal Studies<br>
-| |  <input type="checkbox" name="anatomy"> Anatomy / Neurosurgery<br>
-| |  <input type="checkbox" name="psychology"> Psychology / Psychophysics / Audiology<br>
-| |  <input type="checkbox" name="coding"> Signal Processing / Coding<br>
-| |  <input type="checkbox" name="modeling"> Modeling<br>
-| |  <input type="checkbox" name="technology"> Technology / System Integration<br>
-| |  <input type="checkbox" name="bci"> Brain Conputer Interfaces<br>
+| |  <input type="checkbox" name="clinic" value="✓"> Clinic / Patient Studies<br>
+| |  <input type="checkbox" name="animals" value="✓"> Neurophysiology / Animal Studies<br>
+| |  <input type="checkbox" name="anatomy" value="✓"> Anatomy / Neurosurgery<br>
+| |  <input type="checkbox" name="psychology" value="✓"> Psychology / Psychophysics / Audiology<br>
+| |  <input type="checkbox" name="coding" value="✓"> Signal Processing / Coding<br>
+| |  <input type="checkbox" name="modeling" value="✓"> Modeling<br>
+| |  <input type="checkbox" name="technology" value="✓"> Technology / System Integration<br>
+| |  <input type="checkbox" name="bci" value="✓"> Brain Conputer Interfaces<br>
 <br> |
 | | <input type="submit" class="btn btn-primary" value="Submit"> |
 
