@@ -95,6 +95,7 @@ pre {
 /* Indentation of lists */
 ul {
   padding-left: 20px;
+  padding-bottom: 10px;
 }
 
 /* Adjusting the sizes of the smaller headings ... */
