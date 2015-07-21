@@ -45,21 +45,21 @@ A detailled program with all scheduled sessions and invited speakers is listed b
 | 12:00 | panel discussion | Ryugo, Kollmeier, Altenmüller |  |
 |*12:30*| *lunch* | | *hall upstairs* |
 | **13:30** | **Track A** </br> **Expert Talks** | **Senior researcher** | **Lecture hall** |
-| 13:30 | Closed-Loop CI: first steps | McLaughlin |  |
-| 13:45 | Reinstate efferent effects with CIs | Lopez-Poveda |  |
-| 14:00 | COCOHA – use of EEG to steer HA | De Cheveigne |  |
-| 14:15 | Plasticity 1 – The role of vision in CI users | Barone |  |
-| 14:25 | Plasticity 2 – Auditory sensory deprivation and cortical reorganization in children and adults | Sharma |  |
-| 14:35 | Plasticity 3 – Auditory Neuroimaging – manipulating experience | Schönwiesner |  |
-| 14:45 | Impact of bilateral implantation & binaural hearing | Laback |  |
+| 13:30 | | McLaughlin |  |
+| 13:45 | | Lopez-Poveda |  |
+| 14:00 | | De Cheveigne |  |
+| 14:15 | | Barone |  |
+| 14:25 | | Sharma |  |
+| 14:35 | | Schönwiesner |  |
+| 14:45 | | Laback |  |
 | *15:15* | *Coffee break* |  |  |
-| 15:45 | New electrode arrays for BCIs | Stieglitz |  |
-| 16:00 | Auditory Brain-Computer Interfaces | Tangermann |  |
-| 16:15 | Recording EEG from the ear | Kidmose |  |
-| 16:30 | Hearing preservation (EAS) – integration of CI and natural listening | Sprinzl |  |
-| 16:45 | Imaging auditory processing | van Dijk |  |
-| 16:55 | Efferent pathway – top-down feedback from cortex to cochlea | Delano |  |
-| 17:05 | Efferent innervation of the cochlea during development | Pyott |  |
+| 15:45 | | Stieglitz |  |
+| 16:00 | | Tangermann |  |
+| 16:15 | | Kidmose |  |
+| 16:30 | | Dalhoff |  |
+| 16:45 | | van Dijk |  |
+| 16:55 | | Delano |  |
+| 17:05 | | Pyott |  |
 | *17:15* | *Coffee Break* |  |  |
 | 17:30 | Wrap-up | PiC - Ryuogo? |  |
 | **13:30** |**Track B** </br> **Short Talks** </br> **Postersession** | **Junior researcher and Students** | **Seminar room 1** |
