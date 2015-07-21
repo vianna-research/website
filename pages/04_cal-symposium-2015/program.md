@@ -1,4 +1,4 @@
-title: Program
+title: Program detailed
 status: hidden
 
 Please note that changes to the program still may occur. New program versions will be announced here.
