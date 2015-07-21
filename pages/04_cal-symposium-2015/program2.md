@@ -88,7 +88,7 @@ A detailled program with all scheduled sessions and invited speakers is listed b
 |  | Modelling | Denham, Jürgens, Meddis |  |
 |  | Technology and System Integration | Dalhoff, Rieger, Voix |  |
 |  | BCI | Debener, Holme, Solzbacher, Stieglitz |  |
-|  | Wrap-up | Ryugo?? |  |
+|  | Wrap-up | Ryugo |  |
 |*12:00*| *lunch* | | *hall upstairs* |
 | **13:00** |**Track A**| **Senior researcher**| **Lecture hall**|
 |           | Individual Statements on future contributions | (optional for junior scientist) |  |
