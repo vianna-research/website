@@ -49,7 +49,7 @@ HNO-Klinik
 Medizinische Hochschule Hannover
 Feodor-Lynen-Straße 27
 30625 Hannover
-cal-2015@mh-hannover.de
+[cal-2015@mh-hannover.de](mailto://cal-2015@mh-hannover.de)
 
 Bettina Goede
 Tel: +49 (0)511 532 7235
