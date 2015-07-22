@@ -1,5 +1,5 @@
 title: About
-status: hidden
+
 
 ### Organizing Committee
 
