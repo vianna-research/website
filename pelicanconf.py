@@ -82,6 +82,7 @@ MD_EXTENSIONS = ['markdown.extensions.extra',
                  'markdown.extensions.sane_lists',
                  'markdown.extensions.toc',
                  'markdown.extensions.headerid',
+                 'markdown.extensions.nl2br',
                  'markdown.extensions.smarty']
 
 # Needed for inclusion of IPython notebooks
