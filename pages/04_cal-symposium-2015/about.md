@@ -25,5 +25,6 @@ please contact:
 
 ### Links you might find helpful
 
-[Hotel Mussmann](www.grandhotel.de)
-[Conference center Schloss Herrenhausen](www.schloss-herrenhausen.de)
+[Hotel Mussmann](http://www.grandhotel.de)
+
+[Conference center Schloss Herrenhausen](http://www.schloss-herrenhausen.de)
