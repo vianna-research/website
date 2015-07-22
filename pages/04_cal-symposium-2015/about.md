@@ -20,7 +20,7 @@ For questions regarding:
     - technical questions concerning abstract submission
 
 please contact:
-[cal-2015@mh-hannover.de](cal-2015@mh-hannover.de)
+[cal-2015@mh-hannover.de](mailto:cal-2015@mh-hannover.de)
 
 
 ### Links you might find helpful
