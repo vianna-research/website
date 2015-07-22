@@ -58,7 +58,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 16:55 | tba | Delano |  |
 | 17:05 | tba | Pyott |  |
 | *17:15* | *Coffee Break* |  |  |
-|  |  |  |  |{style="background-color: red;"}
+|  |  |  |  |
 | **13:30** |**Track B** </br> **Tutorials** </br> **Short Talks** </br> **Postersession** | **Junior researcher and Students** | **Seminar room 1** |
 | 13:30 | Tutorials                                 |     |   |
 |       | Tutorial 1 - Signal Recording and Analysis| tba  |   |
