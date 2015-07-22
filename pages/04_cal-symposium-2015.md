@@ -7,7 +7,7 @@ status: hidden
 ![Schloss Herrenhausen](04_cal-symposium-2015/ssh_cropped.png){.align-right style="width:66%"}
 
 
------------------------------------------------------------------------------ {style="clear: both;"}
+-----------------------------------------------------------------------------{style="clear: both;"}
 
 
 ### Please remember to register for the symposium until August 31st 2015. 
