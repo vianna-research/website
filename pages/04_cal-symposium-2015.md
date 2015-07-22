@@ -1,4 +1,4 @@
-title: CAL Symposium 2015
+title: CAL 2015
 
 # Closing the Auditory Loop 
 
