@@ -14,10 +14,10 @@ status: hidden
 
 For questions regarding:
 
-    - registration 
-    - venue
-    - accomodation
-    - technical questions concerning abstract submission
+- registration 
+- venue
+- accomodation
+- technical questions concerning abstract submission
 
 please contact:
 [cal-2015@mh-hannover.de](mailto:cal-2015@mh-hannover.de)
