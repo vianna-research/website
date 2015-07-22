@@ -13,6 +13,7 @@ status: hidden
 ### Contact
 
 For questions regarding:
+
     - registration 
     - venue
     - accomodation
@@ -20,3 +21,9 @@ For questions regarding:
 
 please contact:
 [cal-2015@mh-hannover.de](cal-2015@mh-hannover.de)
+
+
+### Links you might find helpful
+
+[Hotel Mussmann](www.grandhotel.de)
+[Conference center Schloss Herrenhausen](www.schloss-herrenhausen.de)
