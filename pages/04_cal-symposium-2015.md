@@ -3,11 +3,11 @@ status: hidden
 
 # Closing the Auditory Loop 
 
-![Logo CAL 2015](04_cal-symposium-2015/cal23.png){.align-left style="width:30%"}
-![Schloss Herrenhausen](04_cal-symposium-2015/ssh_cropped.png){style="width:60%"}
+![Logo CAL 2015](04_cal-symposium-2015/cal23.png){.align-left style="width:27%"}
+![Schloss Herrenhausen](04_cal-symposium-2015/ssh_cropped.png){.align-right style="width:66%"}
 
 
-### Please remember to register for the symposium until August 31st 2015.
+### Please remember to register for the symposium until August 31st 2015. {style="clear: both;"}
 
 In the future of hearing aids and implants, which actually help deaf new-borns as well as the aging society, Brain Computer Interfaces will once be needed to make a last big leap to full hearing restoration. It will achieve, in a nutshell, the revived cocktail party capability. However this may take us 10 to 15 years from now. While both academia and industry are convinced that such solutions will truly appear, many currently refrain from entering this transdisciplinary, long and unknown field of research and development.
 
