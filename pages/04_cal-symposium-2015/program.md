@@ -11,18 +11,18 @@ The scientific program will start on October 27th at 8:30 a.m. and end on Octobe
 
 The program will consist of:
 
-  - plenary lectures summarizing the state of the art in certain topics
-  - expert talks giving a more specific insight into selected research areas
-  - a workshop to discuss and define the roadmap 
+- plenary lectures summarizing the state of the art in certain topics
+- expert talks giving a more specific insight into selected research areas
+- a workshop to discuss and define the roadmap 
 
 A detailed program with all scheduled sessions and invited speakers is listed below.
 
 
 ## Day 1 26.10.2015
-------------------
+
 
 | When  |  What             | Who                   | Where                 |
-|------ |------             |-----                  |-------                |
+|------ |-------------------|-----------------------|-----------------------|
 | 17:00 | Arrival           |                       |Foyer Conference Center|
 | 18:00 | Welcome           | Lenarz                |Lecture Hall           |
 | 18:15 | Joint Introduction| Debener, Doll, Knipper|                       |
