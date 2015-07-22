@@ -37,7 +37,7 @@ Please activate CSS in your browser.
 | |  <input type="checkbox" name="technology" value="✓"> Technology / System Integration<br>
 | |  <input type="checkbox" name="bci" value="✓"> Brain Conputer Interfaces<br>
 <br> |
-| | <input type="submit" class="btn btn-primary" value="Submit"> |
+| | <input type="submit" class="btn btn-primary btn-lg btn-block" value="Submit"> |
 
 </form>
 </div>
