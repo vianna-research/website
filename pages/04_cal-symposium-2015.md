@@ -3,8 +3,8 @@ status: hidden
 
 # Closing the Auditory Loop 
 
-![Logo CAL 2015](04_cal-symposium-2015/cal23.png){.align-center}
-![Schloss Herrenhausen](04_cal-symposium-2015/ssh_cropped.png)
+![Logo CAL 2015](04_cal-symposium-2015/cal23.png){.align-left style="width:30%"}
+![Schloss Herrenhausen](04_cal-symposium-2015/ssh_cropped.png){style="width:60%"}
 
 
 ### Please remember to register for the symposium until August 31st 2015.
