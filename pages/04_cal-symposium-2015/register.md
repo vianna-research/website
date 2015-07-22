@@ -1,5 +1,6 @@
 title: Registration
 
+### You can only register for the symposium if you have been invited by the committee!
 
 <div markdown="1" >
 <form id="register" name="register" action="http://vianna.de/fcgi-bin/register_cal2015.py" method="POST">
