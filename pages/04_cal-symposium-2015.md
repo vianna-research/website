@@ -3,7 +3,7 @@ title: CAL Symposium 2015
 # Closing the Auditory Loop 
 
 ![Logo CAL 2015](04_cal-symposium-2015/cal23.png){.align-left style="width:27%"}
-![Schloss Herrenhausen](04_cal-symposium-2015/ssh_cropped.png){.align-right style="width:66%"}
+![Schloss Herrenhausen](04_cal-symposium-2015/ssh_cropped.png){.align-right .img-rounded style="width:66%"}
 
 <br style="clear:both">
 
@@ -61,4 +61,4 @@ Contact Information
 
 ![Logo VW Stiftung](04_cal-symposium-2015/LogoVW.gif)
 
-![Logo Hearing4all](04_cal-symposium-2015/h4a_logo_long3.png)
+![Logo Hearing4all](04_cal-symposium-2015/h4a_logo_long3.png){.img-rounded}
