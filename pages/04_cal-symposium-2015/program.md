@@ -18,7 +18,7 @@ The program will consist of:
 A detailed program with all scheduled sessions and invited speakers is listed below.
 
 
-## Day 1 26.10.2015
+## Day 1 – 26.10.2015
 
 
 | When  |  What             | Who                   | Where                 |
@@ -29,7 +29,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 19:30 | Get together      |                       |Foyer Conference Center|
 
 
-## Day 2 27.10.2015
+## Day 2 – 27.10.2015
 ------------------
 
 | When | What | Who | Where |
@@ -73,7 +73,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | *18:00* | *dinner* |  | *hall upstairs* |
 | **19:00** | **Plenary Lecture** </br> "Hätte Beethoven von den heutigen Cochlea Implantaten profitiert?" | **Zenner** | **Lecture hall**|
 
-## Day 3 28.10.2015
+## Day 3 – 28.10.2015
 ------------------
 
 | When  | What              | Who                   | Where             |
