@@ -1,5 +1,4 @@
 title: Program
-status: hidden
 
 Please note that changes to the program still may occur. New program versions will be announced here.
 All participants will receive a printed copy of the final program at the symposium.
