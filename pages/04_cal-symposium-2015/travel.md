@@ -1,5 +1,4 @@
 title: Travel
-status: hidden
 
 ## Hotels
 
