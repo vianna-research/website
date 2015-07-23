@@ -8,9 +8,6 @@ We have booked single rooms for you. The official confirmation of your participa
 ------------------------
 ### Grand Hotel Mussmann
 
-![Logo CAL 2015](04_cal-symposium-2015/cal23.png){.align-left style="width:27%"}
-![Schloss Herrenhausen](04_cal-symposium-2015/ssh_cropped.png){.align-right .img-rounded style="width:66%"}
-
 ![Mussmann](04_cal-symposium-2015/travel/mussmann_tags_small.jpg){.align-left .img-rounded style="width:45%"} ![Mussmann](04_cal-symposium-2015/travel/mussmann_nachts_small.jpg){.align-right .img-rounded style="width:45%"}
 
 <br style="clear:both">
