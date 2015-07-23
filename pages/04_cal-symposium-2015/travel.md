@@ -8,7 +8,7 @@ We have booked single rooms for you. The official confirmation of your participa
 ------------------------
 ### Grand Hotel Mussmann
 
-![Mussmann](04_cal-symposium-2015/travel/mussmann_tags_small.jpg){.align-left .img-rounded style="width:42%"} ![Mussmann](04_cal-symposium-2015/travel/mussmann_nachts_small.jpg){.align-right .img-rounded style="width:48%"}
+![Mussmann](04_cal-symposium-2015/travel/mussmann_tags_small.jpg){.align-left .img-rounded style="width:41%"} ![Mussmann](04_cal-symposium-2015/travel/mussmann_nachts_small.jpg){.align-right .img-rounded style="width:49%"}
 
 <br style="clear:both">
 
@@ -21,7 +21,7 @@ Mail: [Grandhotel@Hannover.de](mailto:Grandhotel@Hannover.de)
  
 [www.grandhotel.de](www.grandhotel.de)
 
-![map](04_cal-symposium-2015/travel/mussmann_map.png){.img-rounded}
+![map](04_cal-symposium-2015/travel/mussmann_map.png){.align-left .img-rounded style="width:75%"}
 
 --------------------------------------
 ### IBIS Hotel Hannover - Medical Park
@@ -38,7 +38,8 @@ Mail: [H1632@accor.com](mailto:H1632@accor.com)
 [www.ibishotel.com](www.ibishotel.com)   
 [www.accorhotels.com](www.accorhotels.com)
 
-![map](04_cal-symposium-2015/travel/ibis_map.png){.img-rounded}
+![map](04_cal-symposium-2015/travel/ibis_map.png){.align-left .img-rounded style="width:75%"}
+<br style="clear:both">
 
 -----------------
 ### How to get to the Conference Centre
