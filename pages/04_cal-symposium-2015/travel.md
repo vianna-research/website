@@ -25,7 +25,7 @@ Mail: [Grandhotel@Hannover.de](mailto:Grandhotel@Hannover.de)
 
 The IBIS Hotel  is located at Medical Park Hannover right next to the Medical School Hannover. To get to the Conference Center Schloss Herrenhausen you have two options. You can either go to the bus station 'Nobelring' almost in front of the hotel, take one of the *buses (123, 137)*, change at the bus/tram station 'Misburger Straße' to *tram No. 4* towards 'Garbsen'. The other option is to walk to the tram station 'Medizinische Hochschule' where you can directly take *tram no. 4* towards 'Garbsen'. *Tram no. 4* will bring you directly to the Conference Center Schloss Herrenhausen. It is only a 22 min tram ride. Of course, we will provide tickets for public transfer.
 
-![IBIS](04_cal-symposium-2015/ibis_and_map.png){.img-rounded}
+![IBIS](ibis_and_map.png){.img-rounded}
 
 Feodor-Lynen-Straße 1   
 30625 Hannover   
@@ -38,7 +38,7 @@ Mail: [H1632@accor.com](mailto:H1632@accor.com)
 [www.accorhotels.com](www.accorhotels.com)
 
 -----------------
-### How to get to the Conference Centre
+### How to get to the Conference Center
 
 This is a sketch of the city Hannover. Highlighted are the Conference Center, the hotels, the city center, the MHH and public transfer. You can see where about the hotels and the conference center are located within the city.
 
