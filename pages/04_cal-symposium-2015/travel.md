@@ -47,7 +47,7 @@ Mail: [H1632@accor.com](mailto:H1632@accor.com)
 -----------------
 ### How to get to the Conference Centre
 
-This is a sketch where about you the hotels are located 
+This is a sketch where about you the hotels and the conference center are located within the city.
 
 ![map](04_cal-symposium-2015/travel/travel-map.png){.img-rounded}
 
