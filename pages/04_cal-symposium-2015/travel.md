@@ -21,7 +21,7 @@ Mail: [Grandhotel@Hannover.de](mailto:Grandhotel@Hannover.de)
  
 [www.grandhotel.de](www.grandhotel.de)
 
-![map](04_cal-symposium-2015/travel/mussmann_map.png){.align-left .img-rounded style="width:75%"}
+![map](04_cal-symposium-2015/travel/mussmann_map.png){.align-left .img-rounded style="width:50%"}
 <br style="clear:both">
 
 --------------------------------------
@@ -39,7 +39,7 @@ Mail: [H1632@accor.com](mailto:H1632@accor.com)
 [www.ibishotel.com](www.ibishotel.com)   
 [www.accorhotels.com](www.accorhotels.com)
 
-![map](04_cal-symposium-2015/travel/ibis_map.png){.align-left .img-rounded style="width:75%"}
+![map](04_cal-symposium-2015/travel/ibis_map.png){.align-left .img-rounded style="width:60%"}
 <br style="clear:both">
 
 -----------------
