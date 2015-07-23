@@ -8,7 +8,7 @@ We have booked single rooms for you. The official confirmation of your participa
 ------------------------
 ### Grand Hotel Mussmann
 
-![Mussmann](04_cal-symposium-2015/travel/mussmann_tags_small.jpg){.align-left .img-rounded style="width:41%"} ![Mussmann](04_cal-symposium-2015/travel/mussmann_nachts_small.jpg){.align-right .img-rounded style="width:48%"}
+![Mussmann](04_cal-symposium-2015/travel/mussmann_tags.png){.align-left .img-rounded style="width:41%"} ![Mussmann](04_cal-symposium-2015/travel/mussmann_nachts.png){.align-right .img-rounded style="width:48%"}
 
 <br style="clear:both">
 
@@ -45,5 +45,5 @@ Mail: [H1632@accor.com](mailto:H1632@accor.com)
 -----------------
 ### How to get to the Conference Centre
 
-![map](04_cal-symposium-2015/travel/hannover_map.png){.img-rounded}
+![map](04_cal-symposium-2015/travel/travel_map.png){.img-rounded}
 
