@@ -8,7 +8,7 @@ We have booked single rooms for you. Once you register you will get a confirmati
 ------------------------
 ### Grand Hotel Mussmann
 
-The Grand Hotel Mussmannn is located at the center of Hannover right across the main station and only a 3 min walk from the tram station called 'Kröpcke'. Here you can take *tram No. 4* towards 'Garbsen'. This will bring you directly to the Conference Center Schloss Herrenhausen. It is only a 7 min train ride. Of course, we will provide tickets for public transfer.
+The Grand Hotel Mussmannn is located at the center of Hannover right across the main station and only a 3 min walk from the tram station called 'Kröpcke'. Here you can take *tram no. 4* towards 'Garbsen'. This will bring you directly to the Conference Center Schloss Herrenhausen. It is only a 7 min train ride. Of course, we will provide tickets for public transfer.
 
 ![Mussmann](04_cal-symposium-2015/travel/mussmann_and_map.png){.img-rounded } 
 
@@ -24,7 +24,7 @@ Mail: [Grandhotel@Hannover.de](mailto:Grandhotel@Hannover.de)
 --------------------------------------
 ### IBIS Hotel Hannover - Medical Park
 
-The IBIS Hotel  is located at Medical Park Hannover right next to the Medical School Hannover. To get to the Conference Center Schloss Herrenhausen you have two options. You can either go to the bus station 'Nobelring' almost in front of the hotel, take one of the *buses (123, 137)*, change at the bus/tram station 'Misburger Straße' to *tram No. 4* towards 'Garbsen'. The other option is to walk to the tram station 'Medizinische Hochschule' where you can directly take *tram No. 4* towards 'Garbsen'. *Tram no. 4* will bring you directly to the Conference Center Schloss Herrenhausen. It is only a 22 min tram ride. Of course, we will provide tickets for public transfer.
+The IBIS Hotel  is located at Medical Park Hannover right next to the Medical School Hannover. To get to the Conference Center Schloss Herrenhausen you have two options. You can either go to the bus station 'Nobelring' almost in front of the hotel, take one of the *buses (123, 137)*, change at the bus/tram station 'Misburger Straße' to *tram No. 4* towards 'Garbsen'. The other option is to walk to the tram station 'Medizinische Hochschule' where you can directly take *tram no. 4* towards 'Garbsen'. *Tram no. 4* will bring you directly to the Conference Center Schloss Herrenhausen. It is only a 22 min tram ride. Of course, we will provide tickets for public transfer.
 
 ![IBIS](04_cal-symposium-2015/travel/ibis_and_map.png){.img-rounded}
 
@@ -41,7 +41,7 @@ Mail: [H1632@accor.com](mailto:H1632@accor.com)
 -----------------
 ### How to get to the Conference Centre
 
-This is a sketch of the city Hannover. Highlighted are the Conference Center, the hotels, the city center and the MHH. You can see where about you can find the hotels and the conference center are located within the city.
+This is a sketch of the city Hannover. Highlighted are the Conference Center, the hotels, the city center, the MHH and public transfer. You can see where about the hotels and the conference center are located within the city.
 
 ![map](04_cal-symposium-2015/travel/travel-map.png){.img-rounded}
 
