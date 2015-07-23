@@ -8,7 +8,7 @@ We have booked single rooms for you. The official confirmation of your participa
 ------------------------
 ### Grand Hotel Mussmann
 
-![Mussmann](04_cal-symposium-2015/travel/mussmann_tags_small.jpg){.align-left .img-rounded style="width:41%"} ![Mussmann](04_cal-symposium-2015/travel/mussmann_nachts_small.jpg){.align-right .img-rounded style="width:49%"}
+![Mussmann](04_cal-symposium-2015/travel/mussmann_tags_small.jpg){.align-left .img-rounded style="width:41%"} ![Mussmann](04_cal-symposium-2015/travel/mussmann_nachts_small.jpg){.align-right .img-rounded style="width:48%"}
 
 <br style="clear:both">
 
@@ -22,6 +22,7 @@ Mail: [Grandhotel@Hannover.de](mailto:Grandhotel@Hannover.de)
 [www.grandhotel.de](www.grandhotel.de)
 
 ![map](04_cal-symposium-2015/travel/mussmann_map.png){.align-left .img-rounded style="width:75%"}
+<br style="clear:both">
 
 --------------------------------------
 ### IBIS Hotel Hannover - Medical Park
