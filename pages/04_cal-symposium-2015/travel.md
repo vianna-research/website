@@ -42,5 +42,5 @@ Mail: [H1632@accor.com](mailto:H1632@accor.com)
 
 This is a sketch of the city Hannover. Highlighted are the Conference Center, the hotels, the city center, the MHH and public transfer. You can see where about the hotels and the conference center are located within the city.
 
-![map](travel/travel_map.png){.img-rounded}
+![map](travel/travel_map_trans.png){.img-rounded}
 
