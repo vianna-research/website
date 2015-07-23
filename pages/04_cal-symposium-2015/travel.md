@@ -8,7 +8,7 @@ We have booked single rooms for you. The official confirmation of your participa
 ------------------------
 ### Grand Hotel Mussmann
 
-![Mussmann](04_cal-symposium-2015/travel/mussmann_tags_small.jpg){.align-left .img-rounded style="width:45%"} ![Mussmann](04_cal-symposium-2015/travel/mussmann_nachts_small.jpg){.align-right .img-rounded style="width:45%"}
+![Mussmann](04_cal-symposium-2015/travel/mussmann_tags_small.jpg){.align-left .img-rounded style="width:40%"} ![Mussmann](04_cal-symposium-2015/travel/mussmann_nachts_small.jpg){.align-right .img-rounded style="width:50%"}
 
 <br style="clear:both">
 
