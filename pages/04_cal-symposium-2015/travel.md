@@ -9,7 +9,7 @@ We have booked single rooms for you. Once you register you will get a confirmati
 
 The Grand Hotel Mussmannn is located at the center of Hannover right across the main station and only a 3 min walk from the tram station called 'Kröpcke'. Here you can take *tram no. 4* towards 'Garbsen'. This will bring you directly to the Conference Center Schloss Herrenhausen. It is only a 7 min train ride. Of course, we will provide tickets for public transfer.
 
-![Mussmann](04_cal-symposium-2015/mussmann_and_map.png){.img-rounded } 
+![Mussmann](04_cal-symposium-2015/travel/mussmann_and_map.png){.img-rounded } 
 
 Ernst August Platz 7   
 30159 Hannover   
