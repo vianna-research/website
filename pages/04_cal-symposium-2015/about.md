@@ -27,6 +27,6 @@ please contact:
 
 [Hotel Mussmann](http://www.grandhotel.de)
 
-[Conference center Schloss Herrenhausen](http://www.schloss-herrenhausen.de)
+[Conference Center Schloss Herrenhausen](http://www.schloss-herrenhausen.de)
 
 [IBIS Hotel](http://www.ibishotel.com)
