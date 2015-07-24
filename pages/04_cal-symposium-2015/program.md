@@ -84,7 +84,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |  | Psychology, Psychophysics and Audiology | Bendixen, Limberger, Rieger, van Dijk |  |
 |  | Signal Processing and Coding | Büchner, Doclo, Shinn-Cunningham |  |
 |  | Modelling | Denham, Jürgens, Meddis, Verhulst |  |
-|  | Technology and System Integration | Beauchamp, Stieglitz, Voix |  |
+|  | Technology and System Integration | Beauchamp, Braun, Stieglitz, Voix |  |
 |  | BCI | De Vos, Debener, Holme, Solzbacher |  |
 |  | Wrap-up | tba |  |
 |*12:00*| *lunch* | | *hall upstairs* |
