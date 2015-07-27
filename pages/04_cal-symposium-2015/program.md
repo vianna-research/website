@@ -38,7 +38,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 10:00 | Signal Processing and Audiology | Shinn-Cunningham, Limberger|
 | *10:30* | *coffee break* |  |  |
 | 11:00 | Modelling and System Integration | Meddis, Hemmert | |
-| 11:30 | Neuro surgery and anatomy | Rask-Anderson, Schrott-Fischer | |
+| 11:30 | Neuro surgery and anatomy | Schrott-Fischer, tba | |
 | 12:00 | panel discussion | Altenmüller, Kollmeier, Ryugo |  |
 |*12:30*| *lunch* | | *hall upstairs* |
 | **13:30** | **Track A** </br> **Expert Talks** | **Senior researcher** | **Lecture hall** |
@@ -48,7 +48,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 14:15 | tba | Barone |  |
 | 14:25 | tba | Sharma |  |
 | 14:35 | tba | Schönwiesner |  |
-| 14:45 | tba | Laback |  |
+| 14:45 | Impact of bilateral implantation & binaural hearing | Laback |  |
 | *15:15* | *Coffee break* |  |  |
 | 15:45 | tba | Stieglitz |  |
 | 16:00 | tba | Tangermann |  |
@@ -56,7 +56,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 16:30 | tba | Dalhoff |  |
 | 16:45 | tba | van Dijk |  |
 | 16:55 | tba | Delano |  |
-| 17:05 | tba | Pyott |  |
+| 17:05 | Efferent innervation of the cochlea during development | Pyott |  |
 | *17:15* | *Coffee Break* |  |  |
 |  |  |  |  |
 | **13:30** |**Track B** </br> **Tutorials** </br> **Short Talks** </br> **Postersession** | **Junior researcher and Students** | **Seminar room 1** |
@@ -80,9 +80,9 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | **09:00** | **Road Mapping**|  |**Seminar rooms 1,2,3,4,5,6** |
 |  | Clinic and Patient Studies | Gilles, Lenarz, Maier, Waldmann  |  |
 |  | Neurophysiology and Animal Studies | Kral, Puel, Rüttiger, Sánchez Malmierca |  |
-|  | Anatomy and Surgery | Krauss, Rask-Anderson, Schrott-Fischer, Sprinzl |  |
+|  | Anatomy and Surgery | Krauss, Schrott-Fischer, Sprinzl, tba |  |
 |  | Psychology, Psychophysics and Audiology | Bendixen, Limberger, Rieger, van Dijk |  |
-|  | Signal Processing and Coding | Büchner, Doclo, Shinn-Cunningham |  |
+|  | Signal Processing and Coding | Büchner, Doclo, Shinn-Cunningham, tba |  |
 |  | Modelling | Denham, Jürgens, Meddis, Verhulst |  |
 |  | Technology and System Integration | Beauchamp, Braun, Stieglitz, Voix |  |
 |  | BCI | De Vos, Debener, Holme, Solzbacher |  |
