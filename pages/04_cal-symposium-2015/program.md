@@ -55,7 +55,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 16:15 | tba | Kidmose |  |
 | 16:30 | tba | Dalhoff |  |
 | 16:45 | Imaging auditory processing | van Dijk |  |
-| 16:55 | Efferent pathway â€“ top-down feedback from cortex to cochlea | Delano |  |
+| 16:55 | Efferent pathway: top-down feedback from cortex to cochlea | Delano |  |
 | 17:05 | Efferent innervation of the cochlea during development | Pyott |  |
 | *17:15* | *Coffee Break* |  |  |
 |  |  |  |  |
