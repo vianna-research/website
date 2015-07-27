@@ -56,7 +56,7 @@ A detailled program with all scheduled sessions and invited speakers is listed b
 | 15:45 | New electrode arrays for BCIs | Stieglitz |  |
 | 16:00 | Auditory Brain-Computer Interfaces | Tangermann |  |
 | 16:15 | Recording EEG from the ear | Kidmose |  |
-| 16:30 | Hearing preservation (EAS) – integration of CI and natural listening | Sprinzl |  |
+| 16:30 | | Dalhoff |  |
 | 16:45 | Imaging auditory processing | van Dijk |  |
 | 16:55 | Efferent pathway – top-down feedback from cortex to cochlea | Delano |  |
 | 17:05 | Efferent innervation of the cochlea during development | Pyott |  |
