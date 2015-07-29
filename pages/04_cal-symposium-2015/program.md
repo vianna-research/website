@@ -62,8 +62,8 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |  |  |  |  |
 | **13:30** |**Track B** </br> **Tutorials** </br> **Short Talks** </br> **Postersession** | **Junior researcher and Students** | **Seminar room 1** |
 | 13:30 | Tutorials                                 |     |   |
-|       | Tutorial 1 - Signal Recording and Analysis| tba  |   |
-|       | Tutorial 2 - Signal Processing and Modelling | tba  |   |
+|       | Tutorial 1 - Signal Recording and Modeling| Noguiera, Krüger |   |
+|       | Tutorial 2 - Signal Processing and Analysis | tba |   |
 |       | Tutorial 3 - BCI Technology               | Bleichner  |   |
 | *15:00* | *Coffee Break* including **Poster Session** |  |  |
 | 16:00 | Short Talks by junior researchers |  |  |
@@ -83,7 +83,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |  | Neurophysiology and Animal Studies | Kral, Puel, Rüttiger, Sánchez Malmierca |  |
 |  | Anatomy and Surgery | Krauss, Schrott-Fischer, Sprinzl, tba |  |
 |  | Psychology, Psychophysics and Audiology | Beauchamp, Bendixen, Limberger, van Dijk |  |
-|  | Signal Processing and Coding | Büchner, Doclo, Hamacher, Shinn-Cunningham |  |
+|  | Signal Processing and Coding | Büchner, Doclo, Shinn-Cunningham, tba |  |
 |  | Modelling | Denham, Jürgens, Meddis, Verhulst |  |
 |  | Technology and System Integration | Braun, Stieglitz, Voix, Waldmann |  |
 |  | BCI | De Vos, Debener, Holme, Solzbacher |  |
