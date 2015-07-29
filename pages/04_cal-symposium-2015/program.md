@@ -49,21 +49,22 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 14:25 | Plasticity 2: Auditory sensory deprivation and cortical reorganization in children and adults | Sharma |  |
 | 14:35 | Plasticity 3: Auditory Neuroimaging - manipulating experience | Schönwiesner |  |
 | 14:45 | Impact of bilateral implantation & binaural hearing | Laback |  |
-| *15:15* | *Coffee break* |  |  |
-| 15:45 | tba | Stieglitz |  |
-| 16:00 | Auditory Brain-Computer Interfaces | Tangermann |  |
-| 16:15 | Recording EEG from the ear | Kidmose |  |
-| 16:30 | tba  | Dalhoff |  |
-| 16:45 | Imaging auditory processing | van Dijk |  |
-| 16:55 | Efferent pathway: top-down feedback from cortex to cochlea | Delano |  |
-| 17:05 | Efferent innervation of the cochlea during development | Pyott |  |
-| *17:15* | *Coffee Break* |  |  |
+| 14:55 | Aging and listening – Scene analysis in the aging auditory system | Bendixen |  |
+| *15:05* | *Coffee break* |  |  |
+| 15:35 | tba | Stieglitz |  |
+| 15:50 | Auditory Brain-Computer Interfaces | Tangermann |  |
+| 16:05 | Recording EEG from the ear | Kidmose |  |
+| 16:20 | Imaging auditory processing | van Dijk |  |
+| 16:35 | Fast measurement of efferent adaptation in humans | Dalhoff |  |
+| 16:50 | Efferent pathway: top-down feedback from cortex to cochlea | Delano |  |
+| 17:00 | Efferent innervation of the cochlea during development | Pyott |  |
+| *17:10* | *Coffee Break* |  |  |
 |  |  |  |  |
 | **13:30** |**Track B** </br> **Tutorials** </br> **Short Talks** </br> **Postersession** | **Junior researcher and Students** | **Seminar room 1** |
 | 13:30 | Tutorials                                 |     |   |
 |       | Tutorial 1 - Signal Recording and Analysis| tba  |   |
-|       | Tutorial 2 - Modelling                    | tba  |   |
-|       | Tutorial 3 - BCI Technology               | tba  |   |
+|       | Tutorial 2 - Signal Processing and Modelling | tba  |   |
+|       | Tutorial 3 - BCI Technology               | Bleichner  |   |
 | *15:00* | *Coffee Break* including **Poster Session** |  |  |
 | 16:00 | Short Talks by junior researchers |  |  |
 | 17:30 | Wrap-up | tba  |  |
