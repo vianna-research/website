@@ -46,14 +46,14 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 13:45 | tba | Lopez-Poveda |  |
 | 14:00 | tba | De Cheveigné |  |
 | 14:15 | tba | Barone |  |
-| 14:25 | tba | Sharma |  |
-| 14:35 | tba | Schönwiesner |  |
+| 14:25 | Plasticity 2: Auditory sensory deprivation and cortical reorganization in children and adults | Sharma |  |
+| 14:35 | Plasticity 3: Auditory Neuroimaging - manipulating experience | Schönwiesner |  |
 | 14:45 | Impact of bilateral implantation & binaural hearing | Laback |  |
 | *15:15* | *Coffee break* |  |  |
 | 15:45 | tba | Stieglitz |  |
-| 16:00 | tba | Tangermann |  |
-| 16:15 | tba | Kidmose |  |
-| 16:30 | tba | Dalhoff |  |
+| 16:00 | Auditory Brain-Computer Interfaces | Tangermann |  |
+| 16:15 | Recording EEG from the ear | Kidmose |  |
+| 16:30 | tba  | Dalhoff |  |
 | 16:45 | Imaging auditory processing | van Dijk |  |
 | 16:55 | Efferent pathway: top-down feedback from cortex to cochlea | Delano |  |
 | 17:05 | Efferent innervation of the cochlea during development | Pyott |  |
@@ -78,13 +78,13 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |------ |------             |-----                  |-------            |
 | 08:30 | Overview          | tba                   | Lecture Hall      |
 | **09:00** | **Road Mapping**|  |**Seminar rooms 1,2,3,4,5,6** |
-|  | Clinic and Patient Studies | Gilles, Lenarz, Maier, Waldmann  |  |
+|  | Clinic and Patient Studies | Gilles, Lenarz, Maier, tba  |  |
 |  | Neurophysiology and Animal Studies | Kral, Puel, Rüttiger, Sánchez Malmierca |  |
 |  | Anatomy and Surgery | Krauss, Schrott-Fischer, Sprinzl, tba |  |
-|  | Psychology, Psychophysics and Audiology | Bendixen, Limberger, Rieger, van Dijk |  |
-|  | Signal Processing and Coding | Büchner, Doclo, Shinn-Cunningham, tba |  |
+|  | Psychology, Psychophysics and Audiology | Beauchamp, Bendixen, Limberger, van Dijk |  |
+|  | Signal Processing and Coding | Büchner, Doclo, Hamacher, Shinn-Cunningham |  |
 |  | Modelling | Denham, Jürgens, Meddis, Verhulst |  |
-|  | Technology and System Integration | Beauchamp, Braun, Stieglitz, Voix |  |
+|  | Technology and System Integration | Braun, Stieglitz, Voix, Waldmann |  |
 |  | BCI | De Vos, Debener, Holme, Solzbacher |  |
 |  | Wrap-up | tba |  |
 |*12:00*| *lunch* | | *hall upstairs* |
@@ -92,5 +92,5 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |           | Individual Statements on future contributions | (optional for junior scientist) |  |
 | **13:00** |**Track B** | **Students** | **Seminar room 1** |
 |           | Career Development | (optional for junior scientist) |  |
-| 14:00 | wrap up and panal discussion | Altenmüller, Kollmeier, Ryugo | Lecture Hall |
+| 14:00 | wrap up and panal discussion | tba, Kollmeier, Ryugo | Lecture Hall |
 | 15:00 | farewell/departure |  |  |
