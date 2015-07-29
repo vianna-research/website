@@ -62,8 +62,8 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |  |  |  |  |
 | **13:30** |**Track B** </br> **Tutorials** </br> **Short Talks** </br> **Postersession** | **Junior researcher and Students** | **Seminar room 1** |
 | 13:30 | Tutorials                                 |     |   |
-|       | Tutorial 1 - Signal Recording and Modeling| Noguiera, Krüger |   |
-|       | Tutorial 2 - Signal Processing and Analysis | tba |   |
+|       | Tutorial 1 - Signal Processing and Modeling| Noguiera, Krüger |   |
+|       | Tutorial 2 - Signal Recording and Analysis | tba |   |
 |       | Tutorial 3 - BCI Technology               | Bleichner  |   |
 | *15:00* | *Coffee Break* including **Poster Session** |  |  |
 | 16:00 | Short Talks by junior researchers |  |  |
