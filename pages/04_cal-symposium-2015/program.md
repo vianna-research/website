@@ -33,7 +33,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |------ |------             |-----                  |-------             |
 | 08:30 | Overview          | tba  |Lecture Hall |
 | **09:00** | **Plenary Lectures**|  |**Lecture Hall** |
-| 9:00 | Clinical research - State of the Art, Limitations and Outlook |Lenarz, Gilles |  |
+| 9:00 | Clinical research - State of the Art, Limitations and Outlook |Lenarz, tba |  |
 | 9:30 | Neurophysiology of the healthy auditory system - basic research and possibilities for closing the loop | Knipper, Sánchez Malmierca, Puel |  |
 | 10:00 | Signal Processing and Audiology | Shinn-Cunningham, Limberger|
 | *10:30* | *coffee break* |  |  |
@@ -43,7 +43,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |*12:30*| *lunch* | | *hall upstairs* |
 | **13:30** | **Track A** </br> **Expert Talks** | **Senior researcher** | **Lecture hall** |
 | 13:30 | tba | McLaughlin |  |
-| 13:45 | tba | Lopez-Poveda |  |
+| 13:45 | Reinstating medial olivocochlear efferent reflex effects with cochlear implants | Lopez-Poveda |  |
 | 14:00 | tba | De Cheveigné |  |
 | 14:15 | tba | Barone |  |
 | 14:25 | Plasticity 2: Auditory sensory deprivation and cortical reorganization in children and adults | Sharma |  |
@@ -51,7 +51,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 14:45 | Impact of bilateral implantation & binaural hearing | Laback |  |
 | 14:55 | Aging and listening – Scene analysis in the aging auditory system | Bendixen |  |
 | *15:05* | *Coffee break* |  |  |
-| 15:35 | tba | Stieglitz |  |
+| 15:35 | New electrode arrays for BCIs | Stieglitz |  |
 | 15:50 | Auditory Brain-Computer Interfaces | Tangermann |  |
 | 16:05 | Recording EEG from the ear | Kidmose |  |
 | 16:20 | Imaging auditory processing | van Dijk |  |
