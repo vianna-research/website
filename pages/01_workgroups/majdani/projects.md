@@ -19,8 +19,6 @@
 -   Contact: [Daniel Schurzig](http://www.vianna.de/01_workgroups/majdani/staff/daniel.html) | Schurzig.Daniel@mh-hannover.de
 
 
-##Robo-Jig
-
 ##Akva-Med
 -   Project Partners: Ilmenau University of Technology, [Mechanism Technology](https://www.tu-ilmenau.de/en/mechanism-technology-group "TU Ilmenau - Mechanism Technology")
 -   Aims:
@@ -31,13 +29,12 @@
 	cochlear implants are expected to benefit from such mechanisms, concerning new electrode carriers used for insertion achieving hearing 
 	preservation and perimodiolar position within the cochlea.
 	
--   Contact: [Silke Hügl](www.vianna.de/01_workgroups/majdani/staff/silke.html) | Huegl.Silke@mh-hannover.de
+-   Contact: [Silke Hügl](http://www.vianna.de/01_workgroups/majdani/staff/silke.html) | Huegl.Silke@mh-hannover.de
 
 
 ##Hexapod
-
-
 -   Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/marcel.html) | Kluge.Marcel@mh-hannover.de
+
 
 ##Gentle-CI
 -   Project Partners: 
@@ -57,6 +54,4 @@
 	
     The project concentrates on the functionalization of cochlear implant electrodes with laser-sintered actuators made of a shape memory alloy (Nitinol).
 	
--   Contact: [Silke Hügl](www.vianna.de/01_workgroups/majdani/staff/silke.html) | Huegl.Silke@mh-hannover.de
-
-## even more
+-   Contact: [Silke Hügl](http://www.vianna.de/01_workgroups/majdani/staff/silke.html) | Huegl.Silke@mh-hannover.de
