@@ -84,7 +84,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |  | Neurophysiology and Animal Studies | Kral, Puel, Rüttiger, Sánchez Malmierca |  |
 |  | Anatomy and Surgery | Krauss, Schrott-Fischer, Sprinzl, tba |  |
 |  | Psychology, Psychophysics and Audiology | Beauchamp, Bendixen, Limberger, van Dijk |  |
-|  | Signal Processing and Coding | Büchner, Doclo, Shinn-Cunningham, tba |  |
+|  | Signal Processing and Coding | Büchner, Doclo, hamacher, Shinn-Cunningham |  |
 |  | Modelling | Denham, Jürgens, Meddis, Verhulst |  |
 |  | Technology and System Integration | Braun, Stieglitz, Voix, Waldmann |  |
 |  | BCI | De Vos, Debener, Holme, Solzbacher |  |
