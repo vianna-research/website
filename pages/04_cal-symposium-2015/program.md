@@ -21,7 +21,8 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 
 | When  |  What             | Who                   | Where                 |
 |------ |-------------------|-----------------------|-----------------------|
-| 17:00 | Arrival           |                       |Foyer Conference Center|
+| until </br> 17:00 | Arrival |                     |Foyer Conference Center|
+| 17:00 | Registration      |                       |Foyer Conference Center|
 | 18:00 | Welcome           | Lenarz                |Lecture Hall           |
 | 18:15 | Joint Introduction| Debener, Doll, Knipper|                       |
 | 19:30 | Get together      |                       |Foyer Conference Center|
@@ -42,7 +43,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 12:00 | panel discussion | Altenmüller, Kollmeier, Ryugo |  |
 |*12:30*| *lunch* | | *hall upstairs* |
 | **13:30** | **Track A** </br> **Expert Talks** | **Senior researcher** | **Lecture hall** |
-| 13:30 | tba | McLaughlin |  |
+| 13:30 | Closed-Loop CI: first steps | McLaughlin |  |
 | 13:45 | Reinstating medial olivocochlear efferent reflex effects with cochlear implants | Lopez-Poveda |  |
 | 14:00 | tba | De Cheveigné |  |
 | 14:15 | tba | Barone |  |
@@ -60,7 +61,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 17:00 | Efferent innervation of the cochlea during development | Pyott |  |
 | *17:10* | *Coffee Break* |  |  |
 |  |  |  |  |
-| **13:30** |**Track B** </br> **Tutorials** </br> **Short Talks** </br> **Postersession** | **Junior researcher and Students** | **Seminar room 1** |
+| **13:30** |**Track B** </br> **Tutorials** </br> **Short Talks** </br> **Postersession** | **Junior researcher and Students** | **Seminar room 5** |
 | 13:30 | Tutorials                                 |     |   |
 |       | Tutorial 1 - Signal Processing and Modeling| Noguiera, Krüger |   |
 |       | Tutorial 2 - Signal Recording and Analysis | tba |   |
@@ -69,7 +70,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 16:00 | Short Talks by junior researchers |  |  |
 | 17:30 | Wrap-up | tba  |  |
 | *18:00* | *dinner* |  | *hall upstairs* |
-| **19:00** | **Plenary Lecture** </br> "Hätte Beethoven von den heutigen Cochlea Implantaten profitiert?" | **Zenner** | **Lecture hall**|
+| **19:00** | **Plenary Lecture** </br> "Would Beethoven have benefited from today's cochlear implants?" | **Zenner** | **Lecture hall**|
 
 
 
@@ -78,7 +79,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | When  | What              | Who                   | Where             |
 |------ |------             |-----                  |-------            |
 | 08:30 | Overview          | tba                   | Lecture Hall      |
-| **09:00** | **Road Mapping**|  |**Seminar rooms 1,2,3,4,5,6** |
+| **09:00** | **Road Mapping**|  |**Seminar rooms 3,4,5,6** |
 |  | Clinic and Patient Studies | Gilles, Lenarz, Maier, tba  |  |
 |  | Neurophysiology and Animal Studies | Kral, Puel, Rüttiger, Sánchez Malmierca |  |
 |  | Anatomy and Surgery | Krauss, Schrott-Fischer, Sprinzl, tba |  |
@@ -91,7 +92,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |*12:00*| *lunch* | | *hall upstairs* |
 | **13:00** |**Track A**| **Senior researcher**| **Lecture hall**|
 |           | Individual Statements on future contributions | (optional for junior scientist) |  |
-| **13:00** |**Track B** | **Students** | **Seminar room 1** |
+| **13:00** |**Track B** | **Students** | **Seminar room 5** |
 |           | Career Development | (optional for junior scientist) |  |
 | 14:00 | wrap up and panal discussion | tba, Kollmeier, Ryugo | Lecture Hall |
 | 15:00 | farewell/departure |  |  |
