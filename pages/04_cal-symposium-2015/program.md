@@ -34,12 +34,12 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |------ |------             |-----                  |-------             |
 | 08:30 | Overview          | tba  |Lecture Hall |
 | **09:00** | **Plenary Lectures**|  |**Lecture Hall** |
-| 9:00 | Clinical research - State of the Art, Limitations and Outlook |Lenarz, tba |  |
+| 9:00 | Clinical research - State of the Art, Limitations and Outlook |Lenarz |  |
 | 9:30 | Neurophysiology of the healthy auditory system - basic research and possibilities for closing the loop | Knipper, Sánchez Malmierca, Puel |  |
 | 10:00 | Signal Processing and Audiology | Shinn-Cunningham, Limberger|
 | *10:30* | *coffee break* |  |  |
 | 11:00 | Modelling and System Integration | Meddis, Hemmert | |
-| 11:30 | Neuro surgery and anatomy | Schrott-Fischer, tba | |
+| 11:30 | Neuro surgery and anatomy | Krauss, Sprinzl | |
 | 12:00 | panel discussion | Altenmüller, Kollmeier, Ryugo |  |
 |*12:30*| *lunch* | | *hall upstairs* |
 | **13:30** | **Track A** </br> **Expert Talks** | **Senior researcher** | **Lecture hall** |
@@ -102,5 +102,5 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |           | Individual Statements on future contributions | (optional for junior scientist) |  |
 | **13:00** |**Track B** | **Students** | **Seminar room 5** |
 |           | Career Development | (optional for junior scientist) |  |
-| 14:00 | wrap up and panal discussion | tba, Kollmeier, Ryugo | Lecture Hall |
+| 14:00 | wrap up and panal discussion | tba, tba, Ryugo | Lecture Hall |
 | 15:00 | farewell/departure |  |  |
