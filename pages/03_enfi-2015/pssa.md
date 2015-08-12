@@ -3,13 +3,17 @@ title: Physica Status Solidi A
 ###Special Issue in physica status solidi (a) 
 ###Engineering of Functional Interfaces 
 
+
+
 Guest Editors:   
 **Torsten Wagner, Patrick Wagner, Michael J. Schöning, and Theodor Doll** 
+
+
 
 Submission Deadline:   
 **September 30th, 2015**   
 (Please confirm your contribution to the Guest Editors asap.)   
-www.editorialmanager.com/pssa-journal 
+www.editorialmanager.com/pssa-journal
 
 
 
