@@ -2,6 +2,8 @@ title: Publications
 
 ## 2015
 
+* Schwieger J, Warnecke A, Leanrz T, Esser KH, **Scheper V** [Neuronal Survival, Morphology and Outgrowth of Spiral Ganglion Neurons Using a Defined Growth Factor Combination.](http://www.ncbi.nlm.nih.gov/pubmed/26263175) PLoS One. 2015 Aug 11;10(8):e0133680. doi: 10.1371/journal.pone.0133680.
+
 * Lenarz T, **Scheper V**. [Preserving Residual Hearing in Cochlear Implant Patients.](http://www.springer.com/us/book/9783319134727) in "Free Radicals in ENT Pathology". Eds.: Miller J, LePrell CG, Rybak L, Springer 2015, ISBN 978-3-319-13473-4
 
 * Linke I, Fadeeva E, **Scheper V**, Esser KH, Koch J, Chichkov B, Lenarz T, Paasche G. [Nanostructuring of cochlear implant electrode contacts induces delayed impedance increase in vivo.](http://onlinelibrary.wiley.com/doi/10.1002/pssa.201431746/epdf) Phys. Status Solidi A. 2015 Feb. 3;6; 1210-1215
