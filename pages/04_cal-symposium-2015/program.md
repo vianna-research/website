@@ -1,6 +1,6 @@
 title: Program
 
-Please note that changes to the program still may occur. New program versions will be announced here.
+Please note that changes to the program may still occur. New program versions will be announced here.
 All participants will receive a printed copy of the final program at the symposium.
 
 A preliminary program is now available for [download](program-cal2015.pdf):
