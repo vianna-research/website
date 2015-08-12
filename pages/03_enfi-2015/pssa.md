@@ -1,24 +1,16 @@
 title: Physica Status Solidi A
-<font color="red">Call for papers – Invitation to authors </font>
+##<font color="red">Call for papers – Invitation to authors </font>
+###Special Issue in physica status solidi (a) 
+###Engineering of Functional Interfaces 
 
-<img src="03_enfi-2015/pssa.png" border="0" alt="Pic" align="right">
-```
-Special Issue in physica status solidi (a) 
-Engineering of Functional Interfaces 
+Guest Editors:   
+**Torsten Wagner, Patrick Wagner, Michael J. Schöning, and Theodor Doll** 
 
-Guest Editors:
-Torsten Wagner, Patrick Wagner, Michael J. Schöning, and Theodor Doll 
-
-Submission Deadline:
-September 30zh, 2015
-(Please confirm your contribution to the Guest Editors asap.)
+Submission Deadline:   
+**September 30th, 2015**   
+(Please confirm your contribution to the Guest Editors asap.)   
 www.editorialmanager.com/pssa-journal 
 
-
-```
-
-
-<br style="clear: both;">                             
 
 
 Dear EnFI-2015 presenters,
@@ -73,22 +65,14 @@ Further **benefits** for pss authors include:
 * pss is indexed in ISI Web of Science and all other major abstracting databases.    
 * Promotion of selected content via web portals, e.g. materialsviews.com, newsletters, and press releases.    
 
-<img src="03_enfi-2015/pssa2.png" border="0" alt="Pic" align="right">
-```
-Special Issue: Phys. Status Solidi A 212(6), pp. 1183 ff. (2015) 
-(DOI 10.1002/pssa.v212.6) 
-Including: From 2D to 1D functionalization: Steps towards a carbon nanotube based biomembrane sensor for curvature sensitive proteins, 
-F. Ostermaier, L. Scharfenberg, K. Schneider, S. Hennig, K. Ostermann, 
-J. Posseckardt, G. Rödel and M. Mertig, Phys. Status Solidi A 212, 1389 (2015) (DOI 10.1002/pssa.201431723) 
 
-Feature Article: Diamond-based DNA sensors: surface functionalization and read-out strategies, S. Wenmackers, V. Vermeeren, M. vandeVen, M. Ameloot, N. Bijnens, K. Haenen, L. Michiels, and P. Wagner, Phys. Status Solidi A 206, 391 (2009) (DOI 10.1002/pssa.200880486) (free-to-read) 
+<font color="red">Special Issue:</font> Phys. Status Solidi A **212**(6), pp. 1183 ff. (2015) 
+(DOI 10.1002/pssa.v212.6)    
+*Including:* From 2D to 1D functionalization: Steps towards a carbon nanotube based biomembrane sensor for curvature sensitive proteins, F. Ostermaier, L. Scharfenberg, K. Schneider, S. Hennig, K. Ostermann, J. Posseckardt, G. Rödel and M. Mertig, Phys. Status Solidi A **212**, 1389 (2015) (DOI 10.1002/pssa.201431723) 
 
-Expert Opinion: Functional surfaces in heterogeneous catalysis: A short review, D. Rosenthal, Phys. Status Solidi A 208, 1217 (2011) (DOI 10.1002/pssa.201001207) 
+**Feature Article:** Diamond-based DNA sensors: surface functionalization and read-out strategies, S. Wenmackers, V. Vermeeren, M. vandeVen, M. Ameloot, N. Bijnens, K. Haenen, L. Michiels, and P. Wagner, Phys. Status Solidi A **206**, 391 (2009) (DOI 10.1002/pssa.200880486) *(free-to-read)* 
 
-On-chip control of magnetic particles, P. Rinklin, H.-J. Krause, and B. Wolfrum, Phys. Status Solidi A 209, 871 (2012) (DOI 10.1002/pssa.201100529) (free-to-read)
+**Expert Opinion:** Functional surfaces in heterogeneous catalysis: A short review, D. Rosenthal, Phys. Status Solidi A **208**, 1217 (2011) (DOI 10.1002/pssa.201001207) 
 
-
-```
-
-
-<br style="clear: both;">    
+On-chip control of magnetic particles, P. Rinklin, H.-J. Krause, and B. Wolfrum, Phys. Status Solidi A **209**, 871 (2012) (DOI 10.1002/pssa.201100529) *(free-to-read)*
+   
