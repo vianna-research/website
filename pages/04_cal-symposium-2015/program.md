@@ -67,7 +67,15 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |       | Tutorial 2 - Signal Recording and Analysis | tba |   |
 |       | Tutorial 3 - BCI Technology               | Bleichner  |   |
 | *15:00* | *Coffee Break* including **Poster Session** |  |  |
-| 16:00 | Short Talks by junior researchers |  |  |
+| **16:00** | **Short Talks** |  |  |
+| 16:00 | Invasive or invisible? Different approaches for controlling hearing aids with neural signals | Bleichner |
+| 16:15 | Language-Related Cues for the Efferent Pathway - Limitations or Research Opportunities? | Carroll |
+| 16:25 | tba | Tamati|
+| 16:35 | tba | tba |
+| 16:50 | Optogenetic stimulation of the cochlea: Making use of a device-tissue interface with less cochlear spread of excitation | Harczos |
+| 17:00 | tba | Gilles|
+| 17:10 | tba | tba |
+| 17:20 | tba | tba |
 | 17:30 | Wrap-up | tba  |  |
 | *18:00* | *dinner* |  | *hall upstairs* |
 | **19:00** | **Plenary Lecture** </br> "Would Beethoven have benefited from today's cochlear implants?" | **Zenner** | **Lecture hall**|
