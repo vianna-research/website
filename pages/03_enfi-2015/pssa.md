@@ -29,8 +29,7 @@ Torsten Wagner, Patrick Wagner, Michael J. Schöning, Theodor Doll, Stefan Hilde
 
 |         |                           |      |
 |----------------------------|---------------------------|------|
-|    Guest Editors:          |                           |      |
-|                            |Torsten Wagner |     torsten.wagner@fh-aachen.de    |
+|    Guest Editors:  |Torsten Wagner |     torsten.wagner@fh-aachen.de    |
 |   |Patrick Wagner |  patrick.wagner@uhasselt.be  |
 |        |Michael J. Schöning|   schoening@fh-aachen.de|
 |     |Theodor Doll |   theodoll@web.de    |  
