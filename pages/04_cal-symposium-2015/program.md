@@ -55,7 +55,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 15:35 | New electrode arrays for BCIs | Stieglitz |  |
 | 15:50 | Auditory Brain-Computer Interfaces | Tangermann |  |
 | 16:05 | Recording EEG from the ear | Kidmose |  |
-| 16:20 | Imaging auditory processing | van Dijk |  |
+| 16:20 | tba | tba |  |
 | 16:35 | Fast measurement of efferent adaptation in humans | Dalhoff |  |
 | 16:50 | Efferent pathway: top-down feedback from cortex to cochlea | Delano |  |
 | 17:00 | Efferent innervation of the cochlea during development | Pyott |  |
@@ -86,12 +86,12 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 
 | When  | What              | Who                   | Where             |
 |------ |------             |-----                  |-------            |
-| 08:30 | Overview          | tba                   | Lecture Hall      |
+| 08:30 | Overview          | Debener                   | Lecture Hall      |
 | **09:00** | **Road Mapping**|  |**Seminar rooms 3,4,5,6** |
 |  | Clinic and Patient Studies | Gilles, Lenarz, Maier, tba  |  |
 |  | Neurophysiology and Animal Studies | Kral, Puel, Rüttiger, Sánchez Malmierca |  |
 |  | Anatomy and Surgery | Krauss, Schrott-Fischer, Sprinzl, tba |  |
-|  | Psychology, Psychophysics and Audiology | Beauchamp, Bendixen, Limberger, van Dijk |  |
+|  | Psychology, Psychophysics and Audiology | Beauchamp, Bendixen, Limberger, tba |  |
 |  | Signal Processing and Coding | Büchner, Doclo, hamacher, Shinn-Cunningham |  |
 |  | Modelling | Denham, Jürgens, Meddis, Verhulst |  |
 |  | Technology and System Integration | Braun, Stieglitz, Voix, Waldmann |  |
@@ -102,5 +102,5 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |           | Individual Statements on future contributions | (optional for junior scientist) |  |
 | **13:00** |**Track B** | **Students** | **Seminar room 5** |
 |           | Career Development | (optional for junior scientist) |  |
-| 14:00 | wrap up and panal discussion | tba, tba, Ryugo | Lecture Hall |
+| 14:00 | wrap up and panal discussion | Debener, Doll, Knipper, Ryugo | Lecture Hall |
 | 15:00 | farewell/departure |  |  |
