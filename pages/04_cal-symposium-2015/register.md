@@ -36,7 +36,7 @@ Please activate CSS in your browser.
 | |  <input type="checkbox" name="coding" value="✓"> Signal Processing / Coding |
 | |  <input type="checkbox" name="modeling" value="✓"> Modeling |
 | |  <input type="checkbox" name="technology" value="✓"> Technology / System Integration |
-| |  <input type="checkbox" name="bci" value="✓"> Brain Conputer Interfaces |
+| |  <input type="checkbox" name="bci" value="✓"> Brain Computer Interfaces |
 |||
 | | <input type="submit" class="btn btn-primary btn-lg" value="Submit"> |
 
