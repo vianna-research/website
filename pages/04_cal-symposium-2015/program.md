@@ -70,7 +70,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | **16:00** | **Short Talks** |  |  |
 | 16:00 | Invasive or invisible? Different approaches for controlling hearing aids with neural signals | Bleichner |
 | 16:15 | Language-Related Cues for the Efferent Pathway - Limitations or Research Opportunities? | Carroll |
-| 16:25 | tba | Tamati|
+| 16:25 | Linguistic Experience and Cognitive Skills: What can real-life speech variability tell us about hearing with a cochlear implant? | Tamati|
 | 16:35 | tba | tba |
 | 16:50 | Optogenetic stimulation of the cochlea: Making use of a device-tissue interface with less cochlear spread of excitation | Harczos |
 | 17:00 | tba | Gilles|
