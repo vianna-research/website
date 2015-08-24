@@ -48,7 +48,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 14:00 | tba | De Cheveigné |  |
 | 14:15 | tba | Barone |  |
 | 14:25 | Plasticity 2: Auditory sensory deprivation and cortical reorganization in children and adults | Sharma |  |
-| 14:35 | Plasticity 3: Auditory Neuroimaging - manipulating experience | Schönwiesner |  |
+| 14:35 | Plasticity 3: In-ear modification of spatial hearing | Schönwiesner |  |
 | 14:45 | Impact of bilateral implantation & binaural hearing | Laback |  |
 | 14:55 | Aging and listening – Scene analysis in the aging auditory system | Bendixen |  |
 | *15:05* | *Coffee break* |  |  |
