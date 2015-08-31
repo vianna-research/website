@@ -19,6 +19,5 @@ The following workgroups are located at the VIANNA:
 | Prof. Dr. Günter Reuter        | [Experimental Otology](01_workgroups/reuter.html)                                          |
 | Dr. Verena Scheper             | [Pharmacology of the Inner Ear](01_workgroups/scheper.html)                                |
 | PD Dr. med. Athanasia Warnecke | [Protection and Regeneration of the Inner Ear](01_workgroups/warnecke.html)                |
-| Prof. Dr. Simone Kurt          | [Kurt Lab - Pathophysiology of the Auditory System](01_workgroups/kurt)                    |
 |                                |                                                                                            |
 
