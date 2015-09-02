@@ -21,20 +21,25 @@ title: Mitarbeiter
 -----------------------------
 **Studenten**
 
-Friederike Benjamin, B.Eng.	|	Benjamin.friederike(at)mh-hannover.de	| Masterarbeit
+Friederike Benjamin, B. Eng. |  Masterarbeit
 
-Anne Bührke, B. Sc. | Praktikum
+Fabian Borrmann | Bachelorarbeit
 
-Lennart Guntenhöner | Promotion Dr. med. 
+Lennart Guntenhöner |Promotion Dr. med.
+
+Georg Leuteritz, B. Sc. | Projektarbeit
 
 Bingrui Li, B. Sc. | Projektarbeit
 
-Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Masterarbeit
+Daniel Majaura, B. Eng.	|	 Masterarbeit
 
-Nina Sendler, B.Eng.	|	sendler.nina(at)mh-hannover.de	|	Masterarbeit
+Nina Sendler, B. Eng.	|	 Masterarbeit
 
 Hendrik Wevering | Projektarbeit
 
+Michael Wilckens | Studentische Hilfskraft
+
+Annette Winter | Promotion Dr. med.
 
 
 
