@@ -1,10 +1,6 @@
 status: draft
 Publikationen zu diesen Projekten finden Sie [hier](Publications-de.html)
 
-##Forschungsgelder
-
-* Lower Austria Life Science Grants LS010-017
-* Cluster of Excellence Hearing4All
 
 ##Conferences
 * Kürzlich organisierten wir die Konferenz **[Engineering of Functional Interfaces](03_enfi-2015.html)**.
@@ -15,10 +11,10 @@ Das Hauptziel des Symposiums ist die Erstellung einer Roadmap auf präkompetitiv
 ##Laufende Projekte
 
 * **Feedback loop and fluid flow electrode - FLOWTRODE** (BMBF: KMU Innovativ Medizintechnik)   
-Please contact Prof. Doll for more information.
+Kontakt: [Prof. Doll](staff.html)
 
 * **Flexible Individualized Active Medical Implants – 3D Printing of Silicone Rubber Connectors and Electrodes - FINAMI** (BMWi: ZIM KF-VP)   
-Please contact Prof. Doll for more information.
+Kontakt: [Prof. Doll](staff.html)
 
 
 * **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank) Es werden adaptierte, hochflexible ECoG Elektrodensysteme bis zu Prototypen entwickelt, die vom Endanwender getestet werden können. Die Elektrodenentwicklung findet auf Basis einer innovativen, ressourcenschonenden Multizentren-Fertigungslogistik statt.   
@@ -28,7 +24,7 @@ Kontakt: [Prof. Doll](staff.html)
 Die Hypothese eines besseren Umgebungsgeräuschverstehens durch eine höhere Anzahl an Elektrodenkontakten bei anschmiegen des CIs an den Modiolus, wird untersucht. Ein Nebenaspekt dieses F&E muss die Steifigkeit des CIs sein, welche auch mit vielen Elektrodenkontakten nicht die bisherigen Werte übersteigen darf, um ein Ansteigen der Insertionstraumata zu verhindern. Entsprechend muss die derzeit verwendete Verdrahtung verändert werden. Dafür werden Au auf Parylene/Polyimid- Schichten und ein CNT-Silikon Compound untersucht. Gleichzeitig wird ein Hydrogel-Bimorpher Akutator auf sein potential zum Anschmiegen an den Modiolus untersucht. Dieses Projekt soll die Basis für weitere Projekte und die Sicherung weiterer Drittmittel bilden. Unser Ziel ist es die Anzahl an Elektrodenkontakten aud 30 bis 50 zu erhöhen wobei Impedanzen und felxibilität beibehalten werden sollen, sowie das Design und Testen von Aktuartorprinzipien.
 Kontakt: [Prof. Doll](staff.html).
 
-* ** Verbesserung des Elektroden-Nerv-Interfaces durch Nutzung von neuronalen Zelladhäsionsmolekülen ([Hearing4All](http://hearing4all.eu/EN/))
+* ** Verbesserung des Elektroden-Nerv-Interfaces durch Nutzung von neuronalen Zelladhäsionsmolekülen** ([Hearing4All](http://hearing4all.eu/EN/))
 Large distances between the electrode contacts of CIs and the to be stimulated spiral ganglion neurons of the cochlea as well as connective tissue growth, caused by insertion trauma and foreign body response are hypothesized to affect the quality of hearing in CI patients. The subjective of the envisaged project is to improve the electrode-nerve interaction by initiating strong adhesion of the neurons onto electrode material surfaces. At the same time a reduction of fibrous encapsulation of the electrode body is aimed. For this issue, body own cell adhesion molecules of immunoglobulin superfamily (Ig-CAMs) should be synthesized in bactria and will be used to functionalize model surfaces. The interaction of neurons onto the functionalized surfaces will be investigated using StED-microscopy to reveal any changes in neural cell adhesion with respect to surface modifications.
 Kontakt:[Prof. Doll](staff.html).
 
