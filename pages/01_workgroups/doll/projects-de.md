@@ -1,5 +1,5 @@
 status: draft
-Publikationen zu diesen Projekten finden Sie [hier](Publications-de.html)
+Publikationen zu diesen Projekten finden Sie [hier](publications-de.html)
 
 
 ##Conferences
