@@ -2,11 +2,6 @@ title: Grants and Projects
 
 Publications regarding these projects can be found [here](Publications.html)
 
-##Research Grants
-
-* Lower Austria Life Science Grants LS010-017
-* Cluster of Excellence Hearing4All
-
 ##Conferences
 * We have recently hostet the Conference **[Engineering of Functional Interfaces](http://vianna.de/03_enfi-2015.html)**
 * We are currently organizing the International Symposium **„Closing the Auditory Loop“** (26.10.-28.10.2015) funded by the VW-Stiftung.   
