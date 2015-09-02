@@ -21,7 +21,7 @@ Adress:
 
 Contact Information:
 
-    Phone: +49 511 532 7231
+    Phone: +49 511 532 7235
     Fax: +49 511 532 18576
     Mail: biomaterialengineering(@)mh-hannover.de
 
