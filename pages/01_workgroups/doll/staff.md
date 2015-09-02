@@ -23,17 +23,22 @@ title: Staff
 -----------------------------
 **Students**
 
- Friederike Benjamin, B. Eng. | benjamin.friederike@mh-hannover.de| Master Thesis
+Friederike Benjamin, B. Eng. | Master Thesis
 
- Anne Bührke, B. Sc. | Internschip
+Fabian Borrmann | Bachelor Thesis
 
-Lennart Guntenhöner | Ben.L.Guntenhoener@stud.mh-hannover.de | Medical Doctorate Thesis 
+Lennart Guntenhöner |Medical Doctorate Thesis 
 
-Bingrui Li, B.Sc. | Student project
+Georg Leuteritz, B. Sc. | Student Project
 
-Daniel Majaura, B.Eng.	|	majaura.daniel(at)mh-hannover.de	|	Master Thesis
+Bingrui Li, B. Sc. | Student Project
 
-Nina Sendler, B.Eng.	|	sendler.nina(at)mh-hannover.de	|	Master Thesis
+Daniel Majaura, B. Eng.	|	Master Thesis
 
-Hendrik Wevering | Student project
+Nina Sendler, B. Eng.	|	Master Thesis
 
+Hendrik Wevering | Student Project
+
+Michael Wilckens | Student Assistant
+
+Annette Winter | Medical Doctorate Thesis
