@@ -1,6 +1,6 @@
 title: Grants and Projects
 
-Publications regarding these projects can be found [here](Publications.html)
+Publications regarding these projects can be found [here](publications.html)
 
 ##Conferences
 * We have recently hostet the Conference **[Engineering of Functional Interfaces](http://vianna.de/03_enfi-2015.html)**
