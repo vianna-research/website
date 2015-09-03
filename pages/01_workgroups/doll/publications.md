@@ -40,15 +40,18 @@ before 2013
 * Poster: Flexibles Carbon Nanotube basiertes Elektrodenmaterial zur Anwendung in Cochlea Implantaten; K. Tegtmeier, F. Golly, W. Saleh, T. Lenarz und [T. Doll](pagedoll.html), 2015
  
 **EnFI 2015** - Engineering of Functional Interfaces
+
 * Poster & Abstract: Evaluation of the bonding strenght between a silicone rubber / polyimide interface for cochlear implants; D. Majaura, F. Borrmann, J. Stieghorst and [T. Doll](pagedoll.html)
 * Poster & Abstract:Silicone rubber spreading during infrared curing for inividually shaped neural implant fabrication; J. Stieghorst, c. Margenfeld and [T. Doll](pagedoll.html)
 * Poster & Abstract: Neural interfacing via track etch membrane of cell model mediated by human growth factors; L. Guntenhöner, K. Tegtmeier, J. Stieghorst and [T. Doll](pagedoll.html)
 * Poster & Abstract: Investigation of silicone rubber removal from carbon nanotubes by means of wet and dry etching; K. Tegtmeier, [T. Doll](pagedoll.html)
 
 **BMT 2015** - 49th DGBMT annual conference
+
 * Presentation: Accelerated active implant degradation in proteinated artificial body fluids; F. Benjamin, F. Riedel, N. Sendler, G. Pohlmann, C. Dasenbrock, T. Lenarz, B. Glasmacher and [T. Doll](pagedoll.html) 
 
 **MSTK15** - MikroSystemTechnik Kongress 2015
+
 * Poster: Untersuchung der Elektrischen Leitfähigkeit von Kohlenstoffnanoröhrchen durch Silikonschichten; K. Tegtmeier and [T. Doll](pagedoll.html)
 
 **2014**
