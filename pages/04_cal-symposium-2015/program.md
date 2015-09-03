@@ -23,16 +23,15 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 |------ |-------------------|-----------------------|-----------------------|
 | until </br> 17:00 | Arrival |                     |Foyer Conference Center|
 | 17:00 | Registration      |                       |Foyer Conference Center|
-| 18:00 | Welcome           | Lenarz                |Lecture Hall           |
-| 18:15 | Joint Introduction| Debener, Doll, Knipper|                       |
-| 19:30 | Get together      |                       |Foyer Conference Center|
+| 18:00 | Welcome           | Lenarz, Doll          |Lecture Hall           |
+| 18:30 | Get together with buffet |                       |Foyer Conference Center|
 
 
 ## Day 2 – 27.10.2015
 
 | When | What | Who | Where |
 |------ |------             |-----                  |-------             |
-| 08:30 | Overview          | tba  |Lecture Hall |
+| 08:30 | Overview          | Knipper               |Lecture Hall        |
 | **09:00** | **Plenary Lectures**|  |**Lecture Hall** |
 | 9:00 | Clinical research - State of the Art, Limitations and Outlook |Lenarz |  |
 | 9:30 | Neurophysiology of the healthy auditory system - basic research and possibilities for closing the loop | Knipper, Sánchez Malmierca, Puel |  |
@@ -40,43 +39,43 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | *10:30* | *coffee break* |  |  |
 | 11:00 | Modelling and System Integration | Meddis, Hemmert | |
 | 11:30 | Neuro surgery and anatomy | Krauss, Sprinzl | |
-| 12:00 | panel discussion | Altenmüller, Kollmeier, Ryugo |  |
+| 12:00 | expert round | Altenmüller, Kollmeier, Ryugo |  |
 |*12:30*| *lunch* | | *hall upstairs* |
 | **13:30** | **Track A** </br> **Expert Talks** | **Senior researcher** | **Lecture hall** |
-| 13:30 | Closed-Loop CI: first steps | McLaughlin |  |
-| 13:45 | Reinstating medial olivocochlear efferent reflex effects with cochlear implants | Lopez-Poveda |  |
+| 13:30 | Towards a closed-loop CI | McLaughlin |  |
+| 13:45 | Reinstating contralateral medial olivocochlear reflex with cochlear implants | Lopez-Poveda |  |
 | 14:00 | tba | De Cheveigné |  |
-| 14:15 | tba | Barone |  |
-| 14:25 | Plasticity 2: Auditory sensory deprivation and cortical reorganization in children and adults | Sharma |  |
-| 14:35 | Plasticity 3: In-ear modification of spatial hearing | Schönwiesner |  |
-| 14:45 | Impact of bilateral implantation & binaural hearing | Laback |  |
-| 14:55 | Aging and listening – Scene analysis in the aging auditory system | Bendixen |  |
+| 14:15 | Audiovisual Plasticity and speech recovery after cochlear implantation in postlingual adult deaf patients | Barone |  |
+| 14:25 | Auditory sensory deprivation and cortical reorganization in children and adults | Sharma |  |
+| 14:35 | In-ear modification of spatial hearing | Schönwiesner |  |
+| 14:45 | Impact of efferents on binaural hearing and bilateral implantation | Laback |  |
+| 14:55 | Scene analysis in the aging auditory system | Bendixen |  |
 | *15:05* | *Coffee break* |  |  |
-| 15:35 | New electrode arrays for BCIs | Stieglitz |  |
-| 15:50 | Auditory Brain-Computer Interfaces | Tangermann |  |
+| 15:35 | New electrode arrays for Brain Computer Interfaces | Stieglitz |  |
+| 15:50 | Auditory Brain Computer Interfaces | Tangermann |  |
 | 16:05 | Recording EEG from the ear | Kidmose |  |
 | 16:20 | tba | tba |  |
 | 16:35 | Fast measurement of efferent adaptation in humans | Dalhoff |  |
-| 16:50 | Efferent pathway: top-down feedback from cortex to cochlea | Delano |  |
-| 17:00 | Efferent innervation of the cochlea during development | Pyott |  |
+| 16:50 | Efferent pathway: Top-down feedback from cortex to cochlea | Delano |  |
+| 17:00 | Activation of group I mGluRs enhances efferent inhibition of inner hair cells in the developing cochlea of the rat | Pyott |  |
 | *17:10* | *Coffee Break* |  |  |
-|  |  |  |  |
-| **13:30** |**Track B** </br> **Tutorials** </br> **Short Talks** </br> **Postersession** | **Junior researcher and Students** | **Seminar room 5** |
+| 17:30 | open discussion |  |  |
+| **13:30** |**Track B** </br> **Tutorials** </br> **Short Talks** </br> **Postersession** | **PostDocs and PhD Students** | **Seminar room 5** |
 | 13:30 | Tutorials                                 |     |   |
-|       | Tutorial 1 - Signal Processing and Modeling| Noguiera, Krüger |   |
-|       | Tutorial 2 - Signal Recording and Analysis | tba |   |
-|       | Tutorial 3 - BCI Technology               | Bleichner  |   |
+| 13:30 | Tutorial 1 - Signal Processing and Modeling| Noguiera, Krüger |   |
+| 14:00 | Tutorial 2 - CI Technology | tba |   |
+| 14:30 | Tutorial 3 - Brain Computer Interface Technology | Bleichner  |   |
 | *15:00* | *Coffee Break* including **Poster Session** |  |  |
 | **16:00** | **Short Talks** |  |  |
 | 16:00 | Invasive or invisible? Different approaches for controlling hearing aids with neural signals | Bleichner |
 | 16:15 | Language-Related Cues for the Efferent Pathway - Limitations or Research Opportunities? | Carroll |
 | 16:25 | Linguistic Experience and Cognitive Skills: What can real-life speech variability tell us about hearing with a cochlear implant? | Tamati|
-| 16:35 | tba | tba |
-| 16:50 | Optogenetic stimulation of the cochlea: Making use of a device-tissue interface with less cochlear spread of excitation | Harczos |
-| 17:00 | tba | Gilles|
-| 17:10 | tba | tba |
-| 17:20 | tba | tba |
-| 17:30 | Wrap-up | tba  |  |
+| 16:35 | Effects of efferents on neural SNR and spatial hearing: Implications for CIs | Srinivasan |
+| 16:45 | break |  |
+| 17:00 | Optogenetic stimulation of the cochlea: Making use of a device-tissue interface with less cochlear spread of excitation | Harczos |
+| 17:10 | tba | Gilles|
+| 17:20 | tba | Wimmer |
+| 17:30 | open discussion |  |  |
 | *18:00* | *dinner* |  | *hall upstairs* |
 | **19:00** | **Plenary Lecture** </br> "Would Beethoven have benefited from today's cochlear implants?" | **Zenner** | **Lecture hall**|
 
@@ -86,21 +85,21 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 
 | When  | What              | Who                   | Where             |
 |------ |------             |-----                  |-------            |
-| 08:30 | Overview          | Debener                   | Lecture Hall      |
-| **09:00** | **Road Mapping**|  |**Seminar rooms 3,4,5,6** |
+| 08:30 | Overview          | Debener               | Lecture Hall      |
+| **09:00** | **Road Mapping**|  |**Seminar rooms 3, 4, 5, 6** |
 |  | Clinic and Patient Studies | Gilles, Lenarz, Maier, tba  |  |
 |  | Neurophysiology and Animal Studies | Kral, Puel, Rüttiger, Sánchez Malmierca |  |
-|  | Anatomy and Surgery | Krauss, Schrott-Fischer, Sprinzl, tba |  |
+|  | Anatomy and Surgery | Krauss, Sprinzl, tba |  |
 |  | Psychology, Psychophysics and Audiology | Beauchamp, Bendixen, Limberger, tba |  |
-|  | Signal Processing and Coding | Büchner, Doclo, hamacher, Shinn-Cunningham |  |
+|  | Signal Processing and Coding | Büchner, Doclo, Chalupper, Shinn-Cunningham |  |
 |  | Modelling | Denham, Jürgens, Meddis, Verhulst |  |
 |  | Technology and System Integration | Braun, Stieglitz, Voix, Waldmann |  |
-|  | BCI | De Vos, Debener, Holme, Solzbacher |  |
-|  | Wrap-up | tba |  |
+|  | Brain Computer Interface | De Vos, Debener, Holme, Solzbacher |  |
+|  | Wrap-up | Workshop group leaders |  |
 |*12:00*| *lunch* | | *hall upstairs* |
-| **13:00** |**Track A**| **Senior researcher**| **Lecture hall**|
+| **13:00** |**Track A**| **Senior researcher and PostDocs**| **Lecture hall**|
 |           | Individual Statements on future contributions | (optional for junior scientist) |  |
-| **13:00** |**Track B** | **Students** | **Seminar room 5** |
+| **13:00** |**Track B** | **PhD Students** | **Seminar room 5** |
 |           | Career Development | (optional for junior scientist) |  |
-| 14:00 | wrap up and panal discussion | Debener, Doll, Knipper, Ryugo | Lecture Hall |
+| 14:00 | wrap up and panal discussion | Doll, Höfer, Knipper, Ryugo | Lecture Hall |
 | 15:00 | farewell/departure |  |  |
