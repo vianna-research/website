@@ -21,6 +21,9 @@ title: PD Dr. Athanasia Warnecke
 
 ### Publications
 
+
+* Schwieger J, **Warnecke A**, Lenarz T, Esser KH, Scheper V [Neuronal Survival, Morphology and Outgrowth of Spiral Ganglion Neurons Using a Defined Growth Factor Combination.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4532470/) PLoS One. 2015 Aug 11;10(8):e0133680. doi: 10.1371/journal.pone.0133680. eCollection 2015.
+
 * Wrzeszcz A, Steffens M, Balster S, **Warnecke A**, Dittrich B, Lenarz T, Reuter G. [Hydrogel coated and dexamethasone releasing cochlear implants: Quantification of fibrosis in guinea pigs and evaluation of insertion forces in a human cochlea model.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33187/abstract) J Biomed Mater Res B Appl Biomater. 2014 May 8. doi: 10.1002/jbm.b.33187. [Epub ahead of print]
 
 * Kranz K, **Warnecke A**, Durisin M, Lenarz T, Scheper V. [Phosphodiesterase type 4 inhibitor Rolipram improves survival of spiral ganglion neurons in vitro.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0092157) Accepted February 2014 in PLOSone
