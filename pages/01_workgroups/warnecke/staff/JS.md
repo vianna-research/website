@@ -16,4 +16,3 @@ title: Jennifer Schulze
 	Schulze.Jennifer.HNO@mh-hannover.de
 
 
-### Publications
