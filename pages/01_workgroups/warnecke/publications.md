@@ -1,5 +1,16 @@
 title: Publications
 
+## 2015
+
+
+* Schwieger J, Warnecke A, Lenarz T, Esser KH, Scheper V. **[Neuronal Survival, Morphology and Outgrowth of Spiral Ganglion Neurons Using a Defined Growth Factor Combination.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4532470/)** PLoS One. 2015 Aug 11;10(8):e0133680. doi: 10.1371/journal.pone.0133680. eCollection 2015.
+
+* Helmstaedter V, Tellkamp R, Majdani O, Warnecke A, Lenarz T, Durisin M. **[High-frequency jet ventilation for endolaryngotracheal surgery - chart review and procedure analysis from the surgeon's and the anaesthesiologist's point of view.](http://onlinelibrary.wiley.com/doi/10.1111/coa.12376/full)** Clin Otolaryngol. 2015 Aug;40(4):341-8. doi: 10.1111/coa.12376.
+
+* Reich U, Warnecke A, Szczepek AJ, Mazurek B, Olze H. **[Establishment of an experimental system to study the influence of electrical field on cochlear structures.](http://www.sciencedirect.com/science/article/pii/S0304394015003845)** Neurosci Lett. 2015 Jul 10;599:38-42. doi: 10.1016/j.neulet.2015.05.027. Epub 2015 May 19.
+
+* Durisin M, Büchner A, Lesinski-Schiedat A, Bartling S, Warnecke A, Lenarz T. **[Cochlear implantation in children with bacterial meningitic deafness: The influence of the degree of ossification and obliteration on impedance and charge of the implant.](http://www.maneyonline.com/doi/full/10.1179/1754762814Y.0000000094)** Cochlear Implants Int. 2015 May;16(3):147-58. doi: 10.1179/1754762814Y.0000000094. Epub 2014 Aug 17.
+
 ## 2014
 
 * Wrzeszcz A, Steffens M, Balster S, Warnecke A, Dittrich B, Lenarz T, Reuter G. **[Hydrogel coated and dexamethasone releasing cochlear implants: Quantification of fibrosis in guinea pigs and evaluation of insertion forces in a human cochlea model.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33187/abstract)** J Biomed Mater Res B Appl Biomater. 2014 May 8. doi: 10.1002/jbm.b.33187. [Epub ahead of print]
