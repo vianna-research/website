@@ -1,4 +1,4 @@
-title: Athanasia Warnecke
+title: PD Dr. Athanasia Warnecke
 
  
 **Head of Research Group**
