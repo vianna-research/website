@@ -2,7 +2,7 @@ title: Staff
 
 **Head of Work Group**
 
-[PD. Dr. med. A. Warnecke](http://www.vianna.de/01_workgroups/warnecke/aw.html) | <Warnecke.Athanasia@mh-hannover.de>
+[PD. Dr. med. A. Warnecke](aw.md) | <Warnecke.Athanasia@mh-hannover.de>
 
 ---------------------------
 
