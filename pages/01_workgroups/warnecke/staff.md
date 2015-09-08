@@ -2,7 +2,7 @@ title: Staff
 
 **Head of Work Group**
 
-PD. Dr. med. A. Warnecke | <Warnecke.Athanasia@mh-hannover.de>
+[PD. Dr. med. A. Warnecke](AW.html) | <Warnecke.Athanasia@mh-hannover.de>
 
 ---------------------------
 
@@ -10,7 +10,7 @@ PD. Dr. med. A. Warnecke | <Warnecke.Athanasia@mh-hannover.de>
 
 [Ass.-Arzt William Burke](staff/wb.html) | <Burke.William@mh-hannover.de>
 
-[Ass.-Arzt Dr. Ariane Römer](staff/wb.html) | <Römer.Ariane@mh-hannover.de>
+[Ass.-Arzt Dr. med Ariane Römer](staff/wb.html) | <Römer.Ariane@mh-hannover.de>
 
 [M.Sc. Biol. Jennifer Schulze](staff/js.html) | <Schulze.Jennifer.HNO@mh-hannover.de>
 
