@@ -2,21 +2,27 @@ title: Staff
 
 **Head of Work Group**
 
-PD. Dr. med. A. Warnecke | <warnecke.athanasia@mh-hannover.de>
+PD. Dr. med. A. Warnecke | <Warnecke.Athanasia@mh-hannover.de>
 
 ---------------------------
 
 **Research Team**
 
-[Dipl.-Ing. PhD Pooyan Aliuos](staff/ap.html) | <aliuos.pooyan@mh-hannover.de>
+[Ass.-Arzt William Burke](staff/wb.html) | <Burke.William@mh-hannover.de>
 
-[Ass.-Arzt William Burke](staff/wb.html) | <william.burke@mh-hannover.de>
+[Ass.-Arzt Dr. Ariane Römer](staff/wb.html) | <Römer.Ariane@mh-hannover.de>
 
-[Dipl.-Biol. Dr. Katharina Kranz](staff/kk.html) | <kranz.katharina@mh-hannover.de>
+[M.Sc. Biol. Jennifer Schulze](staff/js.html) | <Schulze.Jennifer.HNO@mh-hannover.de>
 
-[M.Sc. Biol. Jennifer Schulze](staff/js.html) | <schulze.jennifer.hno@mh-hannover.de>
+[Dr. rer. nat. Melanie Steffens](staff/wb.html) | <Steffens.Melanie@mh-hannover.de>
 
-[Dr. rer. nat. Kirsten Wissel](staff/kw.html) | <wissel.kirsten@mh-hannover.de>
+[Dr. rer. nat. Kirsten Wissel](staff/kw.html) | <Wissel.Kirsten@mh-hannover.de>
 
 
 -----------------------------
+
+**Alumni**
+
+[Dipl.-Biol. Dr. Katharina Kranz](staff/kk.html) | <Kranz.Katharina@mh-hannover.de>
+
+[Dipl.-Ing. PhD Pooyan Aliuos](staff/ap.html) | <Aliuos.Pooyan@mh-hannover.de>
