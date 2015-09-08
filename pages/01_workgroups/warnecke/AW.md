@@ -32,7 +32,7 @@ title: PD Dr. Athanasia Warnecke
 
 * Durisin M, Büchner A, Lesinski-Schiedat A, Bartling S, **Warnecke A**, Lenarz T. [Cochlear implantation in children with bacterial meningitic deafness: The influence of the degree of ossification and obliteration on impedance and charge of the implant.](http://www.maneyonline.com/doi/full/10.1179/1754762814Y.0000000094) Cochlear Implants Int. 2015 May;16(3):147-58. doi: 10.1179/1754762814Y.0000000094. Epub 2014 Aug 17.
 
-* Wrzeszcz A, Steffens M, Balster S, **Warnecke A**, Dittrich B, Lenarz T, Reuter G. [Hydrogel coated and dexamethasone releasing cochlear implants: Quantification of fibrosis in guinea pigs and evaluation of insertion forces in a human cochlea model.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33187/abstract) J Biomed Mater Res B Appl Biomater. 2014 May 8. doi: 10.1002/jbm.b.33187. [Epub ahead of print]
+* Wrzeszcz A, Steffens M, Balster S, **Warnecke A**, Dittrich B, Lenarz T, Reuter G. [Hydrogel coated and dexamethasone releasing cochlear implants: Quantification of fibrosis in guinea pigs and evaluation of insertion forces in a human cochlea model.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33187/abstract) J Biomed Mater Res B Appl Biomater. 2015 Jan;103(1):169-78. doi: 10.1002/jbm.b.33187. Epub 2014 May 8.
 
 * Kranz K, **Warnecke A**, Durisin M, Lenarz T, Scheper V. [Phosphodiesterase type 4 inhibitor Rolipram improves survival of spiral ganglion neurons in vitro.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0092157) Accepted February 2014 in PLOSone
 
