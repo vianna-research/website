@@ -8,21 +8,21 @@ title: Staff
 
 **Research Team**
 
-[Ass.-Arzt William Burke](staff/wb.html) | <Burke.William@mh-hannover.de>
+[Ass.-Arzt William Burke](wb.html) | <Burke.William@mh-hannover.de>
 
-[Ass.-Arzt Dr. med Ariane Römer](staff/wb.html) | <Römer.Ariane@mh-hannover.de>
+Ass.-Arzt Dr. med Ariane Römer | <Römer.Ariane@mh-hannover.de>
 
-[M.Sc. Biol. Jennifer Schulze](staff/js.html) | <Schulze.Jennifer.HNO@mh-hannover.de>
+[M.Sc. Biol. Jennifer Schulze](js.html) | <Schulze.Jennifer.HNO@mh-hannover.de>
 
-[Dr. rer. nat. Melanie Steffens](staff/wb.html) | <Steffens.Melanie@mh-hannover.de>
+Dr. rer. nat. Melanie Steffens| <Steffens.Melanie@mh-hannover.de>
 
-[Dr. rer. nat. Kirsten Wissel](staff/kw.html) | <Wissel.Kirsten@mh-hannover.de>
+[Dr. rer. nat. Kirsten Wissel](kw.html) | <Wissel.Kirsten@mh-hannover.de>
 
 
 -----------------------------
 
 **Alumni**
 
-[Dipl.-Biol. Dr. Katharina Kranz](staff/kk.html) | <Kranz.Katharina@mh-hannover.de>
+[Dipl.-Biol. Dr. Katharina Kranz](kk.html) | <Kranz.Katharina@mh-hannover.de>
 
-[Dipl.-Ing. PhD Pooyan Aliuos](staff/ap.html) | <Aliuos.Pooyan@mh-hannover.de>
+[Dipl.-Ing. PhD Pooyan Aliuos](ap.html) | <Aliuos.Pooyan@mh-hannover.de>
