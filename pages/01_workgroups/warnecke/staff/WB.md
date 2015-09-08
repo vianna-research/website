@@ -16,6 +16,10 @@ title: William Burke
 
 ### Publications
 
+* **Burke WF**, Lenarz T, Maier H. [Hereditary hearing loss: Part 2: Syndromic forms of hearing loss.](http://link.springer.com/article/10.1007/s00106-014-2901-x/fulltext.html) [Article in German] HNO. 2014 Oct;62(10):759-69; quiz 770. doi: 10.1007/s00106-014-2901-x.
+
+* **Burke WF**, Lenarz T, Maier H. [Hereditary hearing loss: Part 1: Diagnostic overview and practical advice.](http://link.springer.com/article/10.1007/s00106-013-2689-0/fulltext.html) [Article in German] HNO. 2013 Apr;61(4):353-63. doi: 10.1007/s00106-013-2689-0.
+
 * Steiert N, **Burke WF**, Laenger F, Sorg H, Steiert AE. [Coating of an anti-Fas antibody on silicone: first in vivo results.](http://asj.oxfordjournals.org/content/34/1/175.long) Aesthet Surg J. 2014 Jan 1;34(1):175-82. doi: 10.1177/1090820X13515878.
 
 * Steiert A, Reimers K, **Burke W**, Zapf A, Vogt P. [Covalent vectored binding of functional proteins by bifunctional crosslinking at silicone interfaces.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34008/abstract;jsessionid=A80A2889CDA76F061C7FABAC50466A98.f03t01) J Biomed Mater Res A. 2012 May;100(5):1248-55. doi: 10.1002/jbm.a.34008. Epub 2012 Feb 23.
