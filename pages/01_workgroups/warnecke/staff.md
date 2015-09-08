@@ -8,7 +8,7 @@ PD. Dr. med. A. Warnecke | <Warnecke.Athanasia@mh-hannover.de>
 
 **Research Team**
 
-Ass.-Arzt William Burke | <Burke.William@mh-hannover.de>
+[Ass.-Arzt William Burke](WB.html) | <Burke.William@mh-hannover.de>
 
 Ass.-Arzt Dr. med Ariane Römer | <Römer.Ariane@mh-hannover.de>
 
