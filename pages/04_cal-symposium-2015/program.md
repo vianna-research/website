@@ -49,7 +49,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 14:15 | Audiovisual Plasticity and speech recovery after cochlear implantation in postlingual adult deaf patients | P. Barone |  |
 | 14:25 | Auditory sensory deprivation and cortical reorganization in children and adults | A Sharma |  |
 | 14:35 | In-ear modification of spatial hearing | M. Schönwiesner |  |
-| 14:45 | Impact of efferents on binaural hearing and bilateral implantation | B.Laback |  |
+| 14:45 | Impact of efferents on binaural hearing and bilateral implantation | B. Laback |  |
 | 14:55 | Scene analysis in the aging auditory system | A. Bendixen |  |
 | *15:05* | *Coffee break* |  |  |
 | 15:35 | New electrode arrays for Brain Computer Interfaces | Th. Stieglitz |  |
