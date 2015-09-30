@@ -39,7 +39,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 10:00 | Signal Processing and Audiology | Shinn-Cunningham, Limberger|
 | *10:30* | *coffee break* |  |  |
 | 11:00 | Modelling and System Integration | Meddis, Hemmert | |
-| 11:30 | Neuro surgery and anatomy | Krauss, Sprinzl | |
+| 11:30 | Neuro surgery | Krauss | |
 | 12:00 | expert round | Altenmüller, Kollmeier, Ryugo |  |
 |*12:30*| *lunch* | | *hall upstairs* |
 | **13:30** | **Track A** </br> **Expert Talks** | **Senior researcher** | **Lecture hall** |
