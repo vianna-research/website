@@ -74,9 +74,8 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 16:35 | Effects of efferents on neural SNR and spatial hearing: Implications for CIs | Srinivasan |
 | 16:45 | break |  |
 | 17:00 | Optogenetic stimulation of the cochlea: Making use of a device-tissue interface with less cochlear spread of excitation | Harczos |
-| 17:10 | tba | Gilles|
-| 17:20 | tba | Wimmer |
-| 17:30 | open discussion |  |  |
+| 17:10 | tba | Wimmer |
+| 17:20 | open discussion |  |  |
 | *18:00* | *dinner* |  | *hall upstairs* |
 | **19:00** | **Plenary Lecture** </br> "Would Beethoven have benefited from today's cochlear implants?" | **Zenner** | **Lecture hall**|
 | 20:30 | Get together |                |Foyer Conference Center|
