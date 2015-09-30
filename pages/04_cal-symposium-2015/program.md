@@ -24,7 +24,8 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | until </br> 17:00 | Arrival |                     |Foyer Conference Center|
 | 17:00 | Registration      |                       |Foyer Conference Center|
 | 18:00 | Welcome           | Lenarz, Doll          |Lecture Hall           |
-| 18:30 | Get together with buffet |                |Foyer Conference Center|
+| 18:30 | tba               | Andringa              |Lecture Hall           |
+| 18:45 | Get together with buffet |                |Foyer Conference Center|
 
 
 ## Day 2 – 27.10.2015
@@ -44,7 +45,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | **13:30** | **Track A** </br> **Expert Talks** | **Senior researcher** | **Lecture hall** |
 | 13:30 | Towards a closed-loop CI | McLaughlin |  |
 | 13:45 | Reinstating contralateral medial olivocochlear reflex with cochlear implants | Lopez-Poveda |  |
-| 14:00 | tba | De Cheveigné |  |
+| 14:00 | Cognitive control of a hearing aid: Why and How? | De Cheveigné |  |
 | 14:15 | Audiovisual Plasticity and speech recovery after cochlear implantation in postlingual adult deaf patients | Barone |  |
 | 14:25 | Auditory sensory deprivation and cortical reorganization in children and adults | Sharma |  |
 | 14:35 | In-ear modification of spatial hearing | Schönwiesner |  |
@@ -85,11 +86,12 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 
 | When  | What              | Who                   | Where             |
 |------ |------             |-----                  |-------            |
-| 08:30 | Overview          | Debener               | Lecture Hall      |
+| 08:30 | Working across disciplines | Andringa     | Lecture Hall      |
+| 08:45 | Overview - planned activities | Debener   | Lecture Hall      |
 | **09:00** | **Road Mapping**|  |**Seminar rooms 3, 4, 5, 6** |
 |  | Clinic and Patient Studies | Gilles, Lenarz, Maier, tba  |  |
 |  | Neurophysiology and Animal Studies | Kral, Puel, Rüttiger, Sánchez Malmierca |  |
-|  | Anatomy and Surgery | Krauss, Sprinzl, tba |  |
+|  | Anatomy and Surgery | Krauss, tba |  |
 |  | Psychology, Psychophysics and Audiology | Beauchamp, Bendixen, Limberger, tba |  |
 |  | Signal Processing and Coding | Büchner, Doclo, Chalupper, Shinn-Cunningham |  |
 |  | Modelling | Denham, Jürgens, Meddis, Verhulst |  |
