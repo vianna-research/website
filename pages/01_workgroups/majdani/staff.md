@@ -17,4 +17,4 @@
 |![Image Samuel John](staff/Samuel.jpg)| Dipl.-Inform. Samuel John			|	John.Samuel(at)mh-hannover.de|
 |![Image Marcel Kluge](staff/Marcel.jpg) |[Dipl.-Ing. Marcel Kluge](staff/marcel.html "Marcel Kluge")		|	Kluge.Marcel(at)mh-hannover.de|
 |![Image Jakob Lexow](staff/Jakob.jpg) | Dipl.-Ing. Jakob Lexow			|	Lexow.Jakob(at)mh-hannover.de|
-|![Image Daniel Schurzig](staff/Daniel.jpg) | Dipl.-Ing. Daniel Schurzig	|	Schurzig.Daniel(at)mh-hannover.de|
+|![Image Wouter van Drunen](staff/Wouter.jpg) | Dr. Wouter J. van Drunen	|	vanDrunen.Wouter(at)mh-hannover.de|
