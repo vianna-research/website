@@ -24,8 +24,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | until </br> 17:00 | Arrival |                     |Foyer Conference Center|
 | 17:00 | Registration      |                       |Foyer Conference Center|
 | 18:00 | Welcome           | Th. Lenarz, T. Doll   |Lecture Hall           |
-| 18:30 | tba               | T. Andringa           |Lecture Hall           |
-| 18:45 | Get together with buffet |                |Foyer Conference Center|
+| 18:30 | Get together with buffet |                |Foyer Conference Center|
 
 
 ## Day 2 – 27.10.2015
@@ -46,24 +45,23 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 13:30 | Towards a closed-loop CI | M. McLaughlin |  |
 | 13:45 | Reinstating contralateral medial olivocochlear reflex with cochlear implants | E. Lopez-Poveda |  |
 | 14:00 | Cognitive control of a hearing aid: Why and How? | A. De Cheveigné |  |
-| 14:15 | Audiovisual Plasticity and speech recovery after cochlear implantation in postlingual adult deaf patients | P. Barone |  |
-| 14:25 | Auditory sensory deprivation and cortical reorganization in children and adults | A. Sharma |  |
-| 14:35 | In-ear modification of spatial hearing | M. Schönwiesner |  |
-| 14:45 | Impact of efferents on binaural hearing and bilateral implantation | B. Laback |  |
-| 14:55 | Scene analysis in the aging auditory system | A. Bendixen |  |
-| *15:05* | *Coffee break* |  |  |
-| 15:35 | New electrode arrays for Brain Computer Interfaces | Th. Stieglitz |  |
-| 15:50 | Auditory Brain Computer Interfaces | M. Tangermann |  |
-| 16:05 | Recording EEG from the ear | P. Kidmose |  |
-| 16:20 | Fast measurement of efferent adaptation in humans | E. Dalhoff |  |
-| 16:35 | Efferent pathway: Top-down feedback from cortex to cochlea | P. Delano |  |
-| 16:50 | Activation of group I mGluRs enhances efferent inhibition of inner hair cells in the developing cochlea of the rat | S. Pyott |  |
-| *17:00* | *Coffee Break* |  |  |
+| 14:15 | Activation of group I mGluRs enhances efferent inhibition of inner hair cells in the developing cochlea of the rat | S. Pyott |  |
+| 14:30 | Auditory sensory deprivation and cortical reorganization in children and adults | A. Sharma |  |
+| 14:45 | cancelled | cancelled |  |
+| *15:00* | *Coffee break* |  |  |
+| 15:30 | In-ear modification of spatial hearing | M. Schönwiesner |  |
+| 15:45 | Impact of efferents on binaural hearing and bilateral implantation | B. Laback |  |
+| 16:00 | Efferent pathway: Top-down feedback from cortex to cochlea | P. Delano |  |
+| 16:15 | New electrode arrays for Brain Computer Interfaces | Th. Stieglitz |  |
+| 16:30 | Auditory Brain Computer Interfaces | M. Tangermann |  |
+| 16:45 | Recording EEG from the ear | P. Kidmose |  |
+| 17:00 | Fast measurement of efferent adaptation in humans | E. Dalhoff |  |
+| 17:15 | Audiovisual plasticity and speech recovery after cochlear implantation in postlingual adult deaf patients | P. Barone |  |
 | 17:30 | open discussion |  |  |
 | **13:30** |**Track B** </br> **Tutorials** </br> **Short Talks** </br> **Postersession** | **PostDocs and PhD Students** | **Seminar room 5** |
 | 13:30 | Tutorials                                 |     |   |
 | 13:30 | Tutorial 1 - Signal Processing | W. Noguiera |   |
-| 14:00 | Tutorial 2 - CI Technology | tba |   |
+| 14:00 | Tutorial 2 - Electrodes, CI Technology | G. Paasche |   |
 | 14:30 | Tutorial 3 - Brain Computer Interface Technology | M. Bleichner  |   |
 | *15:00* | *Coffee Break* including **Poster Session** |  |  |
 | **16:00** | **Short Talks** |  |  |
@@ -73,7 +71,7 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 16:35 | Effects of efferents on neural SNR and spatial hearing: Implications for CIs | S. Srinivasan |
 | 16:45 | break |  |
 | 17:00 | Optogenetic stimulation of the cochlea: Making use of a device-tissue interface with less cochlear spread of excitation | T. Harczos |
-| 17:10 | tba | Ph. Wimmer |
+| 17:10 | Identification of access routes and implantation sites | Ph. Wimmer |
 | 17:20 | open discussion |  |  |
 | *18:00* | *dinner* |  | *hall upstairs* |
 | **19:00** | **Plenary Lecture** </br> "Would Beethoven have benefited from today's cochlear implants?" | **H.-P. Zenner** | **Lecture hall**|
@@ -87,15 +85,15 @@ A detailed program with all scheduled sessions and invited speakers is listed be
 | 08:30 | Working across disciplines | Andringa     | Lecture Hall      |
 | 08:45 | Overview - planned activities | Debener   | Lecture Hall      |
 | **09:00** | **Road Mapping**|  |**Seminar rooms 3, 4, 5, 6** |
-|  | Clinic and Patient Studies | Th. Lenarz, H. Maier, tba  |  |
-|  | Neurophysiology and Animal Studies | A. Kral, R. Nouvian, L. Rüttiger, M. Malmierca |  |
-|  | Anatomy and Surgery | J. Krauss, tba |  |
-|  | Psychology, Psychophysics and Audiology | M. Beauchamp, A. Bendixen, A. Limberger, tba |  |
-|  | Signal Processing and Coding | A. Büchner, S. Doclo, J. Chalupper, B. Shinn-Cunningham |  |
-|  | Modelling | S. Denham, T. Jürgens, R. Meddis, S. Verhulst |  |
-|  | Technology and System Integration | C. Braun, Th. Stieglitz, J. Voix, B. Waldmann |  |
-|  | Brain Computer Interface | M. De Vos, S. Debener, R. Holme, F. Solzbacher |  |
-|  | Wrap-up | Workshop group leaders |  |
+|  | Patients and Plasticity | A. Kral, A. Sharma  | SR 4  |
+|  | Neurophysiology and Animal Studies |R. Nouvian, L. Rüttiger, M. Malmierca | SR3  |
+|  | Anatomy and Surgery | M. Beauchamp, B. Hirt, J. Krauss | SR 1 |
+|  | Psychology, Psychophysics and Audiology | Ch. Braun, H. Maier | SR 3 |
+|  | Signal Processing and Coding | S. Doclo, J. Chalupper | SR 6 |
+|  | Modelling | S. Denham, T. Jürgens | SR 4 |
+|  | Technology and System Integration | E. Dalhoff, Th. Stieglitz, J. Voix | SR 1 |
+|  | Brain Computer Interface | M. De Vos, M. Tangermann | SR 6 |
+|  | Wrap-up | Workshop group leaders | Lecture Hall |
 |*12:00*| *lunch* | | *hall upstairs* |
 | **13:00** |**Track A**| **Senior researcher and PostDocs**| **Lecture hall**|
 |           | Individual Statements on future contributions | (optional for junior scientist) |  |
