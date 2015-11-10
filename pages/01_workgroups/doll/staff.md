@@ -25,22 +25,28 @@ Dipl.-Ing. Juan Pablo Marcoleta 	|	marcoleta.juan(at)mh-hannover.de
 -----------------------------
 **Students**
 
-Friederike Benjamin, B. Eng. | Master Thesis
-
 Fabian Borrmann | Bachelor Thesis
+
+Markus Buddensieck | Bachelor Thesis
 
 Lennart Guntenhöner |Medical Doctorate Thesis 
 
-Georg Leuteritz, B. Sc. | Student Project
+David Kirchhoff | Student Project
+
+Wiebke Kossow, B.Eng. | Master Thesis
+
+Georg Leuteritz, B. Sc. | Master Thesis
 
 Bingrui Li, B. Sc. | Student Project
 
 Daniel Majaura, B. Eng.	|	Master Thesis
 
-Nina Sendler, B. Eng.	|	Master Thesis
+Henning Suhr, B. Sc. | Student Project
+
+Aaron Voigt | Student Project
+
+Moritz Weissbrich, B. Sc. | Student Project
 
 Hendrik Wevering | Student Project
-
-Michael Wilckens | Student Assistant
 
 Annette Winter | Medical Doctorate Thesis
