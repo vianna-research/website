@@ -1,52 +1,38 @@
 title: Staff
 
-**Head of research group**
-
-![Image Theo Doll](Theo.png) |[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de   
-
-
-----------------------------------------------------------------------------------------
-**Team Assistant**
-
-![Image Bettina Goede](Bettina.jpg) | Bettina Goede	|	Phone: 0511 532 7235 |Fax: 
+|Head of research group|                |
+|------------------------|---------------|
+|![Image Theo Doll](Theo.png) |[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
 
 
-----------------
-**Research Team**   
 
-![Image Maria Höfer](Maria.png) | Dr. rer. nat. Maria Höfer | hoefer.maria(at)mh-hannover.de     
+|Team Assistant|                     |
+|--------------|---------------------|
+|![Image Bettina Goede](Bettina.jpg) | Bettina Goede	|	Phone: 0511 532 7235 |
 
-![Image Jan Stieghorst ](Jan.png) |  Dipl.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de    
 
-![Image Katharina Tegtmeier](Katharina.png)  | Katharina Tegtmeier, M.Sc. 	|	tegtmeier.katharina(at)mh-hannover.de  
 
-Dipl.-Ing. Juan Pablo Marcoleta 	|	marcoleta.juan(at)mh-hannover.de  
+|Research Team|             |
+|---------|------|
+|![Image Maria Höfer](Maria.png) | Dr. rer. nat. Maria Höfer | hoefer.maria(at)mh-hannover.de |    
+|![Image Jan Stieghorst ](Jan.png) |  Dipl.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
+|![Image Katharina Tegtmeier](Katharina.png)  | Katharina Tegtmeier, M.Sc. 	|	tegtmeier.katharina(at)mh-hannover.de | 
 
------------------------------
-**Students**
+|                            |Dipl.-Ing. Juan Pablo Marcoleta 	|	marcoleta.juan(at)mh-hannover.de  |
 
-Fabian Borrmann | Bachelor Thesis
 
-Markus Buddensieck | Bachelor Thesis
-
-Lennart Guntenhöner |Medical Doctorate Thesis 
-
-David Kirchhoff | Student Project
-
-Wiebke Kossow, B.Eng. | Master Thesis
-
-Georg Leuteritz, B. Sc. | Master Thesis
-
-Bingrui Li, B. Sc. | Student Project
-
-Daniel Majaura, B. Eng.	|	Master Thesis
-
-Henning Suhr, B. Sc. | Student Project
-
-Aaron Voigt | Student Project
-
-Moritz Weissbrich, B. Sc. | Student Project
-
-Hendrik Wevering | Student Project
-
-Annette Winter | Medical Doctorate Thesis
+|Students|             |
+|-----------|-------------|
+|Fabian Borrmann | Bachelor Thesis|
+|Markus Buddensieck | Bachelor Thesis|
+|Lennart Guntenhöner |Medical Doctorate Thesis |
+|David Kirchhoff | Student Project|
+|Wiebke Kossow, B.Eng. | Master Thesis|
+|Georg Leuteritz, B. Sc. | Master Thesis|
+|Bingrui Li, B. Sc. | Student Project|
+|Daniel Majaura, B. Eng.	|	Master Thesis|
+|Henning Suhr, B. Sc. | Student Project|
+|Aaron Voigt | Student Project|
+|Moritz Weissbrich, B. Sc. | Student Project|
+|Hendrik Wevering | Student Project|
+|Annette Winter | Medical Doctorate Thesis|
