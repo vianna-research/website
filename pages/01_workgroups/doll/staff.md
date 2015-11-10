@@ -1,5 +1,8 @@
 title: Staff
 
+![Image group](Gruppe.png)
+
+
 ||          Head of research group        |   |
 |--------------|:---------------:|----|
 |![Image Theo Doll](Theo.png)|[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
