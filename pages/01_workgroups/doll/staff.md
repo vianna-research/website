@@ -20,6 +20,8 @@ title: Staff
 
 ![Image Katharina Tegtmeier](Katharina.png)  | Katharina Tegtmeier, M.Sc. 	|	tegtmeier.katharina(at)mh-hannover.de  
 
+Dipl.-Ing. Juan Pablo Marcoleta 	|	marcoleta.juan(at)mh-hannover.de  
+
 -----------------------------
 **Students**
 
