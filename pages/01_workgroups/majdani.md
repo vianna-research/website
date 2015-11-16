@@ -39,7 +39,9 @@ additional information: <http://www.smart-ci.de/91.html>.
 
 ## Publications:
 
-<http://www.smart-ci.de/3.html>
+- [List of publications](publications.md)
+
+- Further publications: <http://www.smart-ci.de/3.html>
 
 
 ## Contact:
