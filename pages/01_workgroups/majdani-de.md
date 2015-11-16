@@ -41,7 +41,9 @@ Weitere Informationen: <http://www.smart-ci.de/91.html>.
 
 ## Publikationen:
 
-<http://www.smart-ci.de/3.html>
+- [Publikationsliste](publications.md)
+
+- Further publications: <http://www.smart-ci.de/3.html>
 
 
 ## Kontakt:
