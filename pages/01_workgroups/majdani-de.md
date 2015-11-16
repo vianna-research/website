@@ -41,7 +41,7 @@ Weitere Informationen: <http://www.smart-ci.de/91.html>.
 
 ## Publikationen:
 
-- [Publikationsliste](publications.md)
+- [Publikationsliste](majdani/publications.md)
 
 - Further publications: <http://www.smart-ci.de/3.html>
 
