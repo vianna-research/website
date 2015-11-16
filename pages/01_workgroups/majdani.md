@@ -39,7 +39,7 @@ additional information: <http://www.smart-ci.de/91.html>.
 
 ## Publications:
 
-- [List of publications](publications.md)
+- [List of publications](majdani/publications.md)
 
 - Further publications: <http://www.smart-ci.de/3.html>
 
