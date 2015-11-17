@@ -4,37 +4,37 @@ title: Publications
 
 - Wardenga N, Batsoulis C, Wagener KC, Brand T, Lenarz T, Maier H. [**Do you hear the noise? The German matrix sentence test with a fixed noise level in subjects with normal hearing and hearing impairment.**](http://www.tandfonline.com/doi/full/10.3109/14992027.2015.1079929) Int J Audiol. 2015;2027(November):1-9. doi:10.3109/14992027.2015.1079929.
 
-- Mueller M, Salcher R, Majdani O, Lenarz T, Maier H. [**Electro-Mechanical Stimulation of the Cochlea by Vibrating Cochlear Implant Electrodes.**](http://www.ncbi.nlm.nih.gov/pubmed/26485592 "Electro-Mechanical Stimulation of the Cochlea by Vibrating Cochlear Implant Electrodes") Otol Neurotol. 2015;(7):1-6. doi:10.1097/MAO.0000000000000872.
+- Mueller M, Salcher R, Majdani O, Lenarz T, Maier H. [**Electro-Mechanical Stimulation of the Cochlea by Vibrating Cochlear Implant Electrodes.**](http://www.ncbi.nlm.nih.gov/pubmed/26485592) Otol Neurotol. 2015;(7):1-6. doi:10.1097/MAO.0000000000000872.
 
-- Schwab, B., Kludt, E., Maier, H., Lenarz, T., Teschner, M., 2015. [**Subtotal petrosectomy and Codacs™: new possibilities in ears with chronic infection.**](http://link.springer.com/article/10.1007%2Fs00405-015-3688-4 "Subtotal petrosectomy and Codacs™: new possibilities in ears with chronic infection.") Eur. Arch. Oto-Rhino-Laryngology. 2015 Jun 20. [Epub ahead of print] DOI: 10.1007/s00405-015-3688-4.
+- Schwab, B., Kludt, E., Maier, H., Lenarz, T., Teschner, M., 2015. [**Subtotal petrosectomy and Codacs™: new possibilities in ears with chronic infection.**](http://link.springer.com/article/10.1007%2Fs00405-015-3688-4) Eur. Arch. Oto-Rhino-Laryngology. 2015 Jun 20. [Epub ahead of print] DOI: 10.1007/s00405-015-3688-4.
 
-- Maier H, Hinze AL, Gerdes T, Busch S, Salcher R, Schwab B, Lenarz T. [**Long-Term Results of Incus Vibroplasty in Patients with Moderate-to-Severe Sensorineural Hearing Loss.**](http://www.karger.com/Article/FullText/368387 "Long-Term Results of Incus Vibroplasty in Patients with Moderate-to-Severe Sensorineural Hearing Loss.") Audiol Neurootol. 2015;20(2):136-146. DOI:10.1159/000368387 PubMed PMID: 25824716.
+- Maier H, Hinze AL, Gerdes T, Busch S, Salcher R, Schwab B, Lenarz T. [**Long-Term Results of Incus Vibroplasty in Patients with Moderate-to-Severe Sensorineural Hearing Loss.**](http://www.karger.com/Article/FullText/368387) Audiol Neurootol. 2015;20(2):136-146. DOI:10.1159/000368387 PubMed PMID: 25824716.
 
-- Grossöhmichen M, Salcher R, Kreipe HH, Lenarz T, Maier H. [**The Codacs™ Direct Acoustic Cochlear Implant Actuator: Exploring Alternative Stimulation Sites and Their Stimulation Efficiency.**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119601 "The Codacs™ Direct Acoustic Cochlear Implant Actuator: Exploring Alternative Stimulation Sites and Their Stimulation Efficiency.") PLoS One. 2015 Mar 18;10(3):e0119601. doi:10.1371/journal.pone.0119601. eCollection 2015. PubMed PMID: 25785860.
+- Grossöhmichen M, Salcher R, Kreipe HH, Lenarz T, Maier H. [**The Codacs™ Direct Acoustic Cochlear Implant Actuator: Exploring Alternative Stimulation Sites and Their Stimulation Efficiency.**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119601) PLoS One. 2015 Mar 18;10(3):e0119601. doi:10.1371/journal.pone.0119601. eCollection 2015. PubMed PMID: 25785860.
 
-- Busch S, Giere T, Lenarz T, Maier H. [**Comparison of Audiologic Results and Patient Satisfaction for Two Osseointegrated Bone Conduction Devices: Results of a Prospective Study.**](http://journals.lww.com/otology-neurotology/Abstract/publishahead/Comparison_of_Audiologic_Results_and_Patient.97614.aspx "Comparison of Audiologic Results and Patient Satisfaction for Two Osseointegrated Bone Conduction Devices: Results of a Prospective Study")  Otol Neurotol. 2015;36(5):842-848. PubMed PMID: 25730448.
+- Busch S, Giere T, Lenarz T, Maier H. [**Comparison of Audiologic Results and Patient Satisfaction for Two Osseointegrated Bone Conduction Devices: Results of a Prospective Study.**](http://journals.lww.com/otology-neurotology/Abstract/publishahead/Comparison_of_Audiologic_Results_and_Patient.97614.aspx)  Otol Neurotol. 2015;36(5):842-848. PubMed PMID: 25730448.
 
 
 ##2014
-- Burke WF, Lenarz T and Maier H [**Hereditäre Schwerhörigkeit.**](http://link.springer.com/article/10.1007%2Fs00106-014-2901-x "Hereditäre Schwerhörigkeit") HNO. 2014; 62(10):759–770. doi: 10.1007/s00106-014-2901-x.
+- Burke WF, Lenarz T and Maier H [**Hereditäre Schwerhörigkeit.**](http://link.springer.com/article/10.1007%2Fs00106-014-2901-x) HNO. 2014; 62(10):759–770. doi: 10.1007/s00106-014-2901-x.
 
-- Lenarz T, Schwab B, Maier H, Kludt E. [**Direkte akustische cochleäre Stimulation für die Therapie der hochgradigen kombinierten Schwerhörigkeit: Codacs™ Direct Acoustic Cochlear Implant System.**](http://link.springer.com/article/10.1007%2Fs00106-014-2893-6 "Direkte akustische cochleäre Stimulation für die Therapie der hochgradigen kombinierten Schwerhörigkeit: Codacs™ Direct Acoustic Cochlear Implant System")  HNO. 2014 Jul;62(7):481-9. doi:10.1007/s00106-014-2893-6. German. PubMed PMID: 25056645.
+- Lenarz T, Schwab B, Maier H, Kludt E. [**Direkte akustische cochleäre Stimulation für die Therapie der hochgradigen kombinierten Schwerhörigkeit: Codacs™ Direct Acoustic Cochlear Implant System.**](http://link.springer.com/article/10.1007%2Fs00106-014-2893-6)  HNO. 2014 Jul;62(7):481-9. doi:10.1007/s00106-014-2893-6. German. PubMed PMID: 25056645.
 
-- Giere T, Busch S, Lenarz T, Maier H. [**Erste audiologische Ergebnisse des im Ohr getragenen Knochenleitungshörgeräts C.A.I. BC811.**](http://link.springer.com/article/10.1007%2Fs00106-014-2875-8 "Erste audiologische Ergebnisse des im Ohr getragenen Knochenleitungshörgeräts C.A.I. BC811") HNO. 2014 Jul 11. doi: 10.1007/s00106-014-2875-8. German. PubMed PMID: 25008271.
+- Giere T, Busch S, Lenarz T, Maier H. [**Erste audiologische Ergebnisse des im Ohr getragenen Knochenleitungshörgeräts C.A.I. BC811.**](http://link.springer.com/article/10.1007%2Fs00106-014-2875-8) HNO. 2014 Jul 11. doi: 10.1007/s00106-014-2875-8. German. PubMed PMID: 25008271.
 
-- Salcher R, Schwab B, Lenarz T, Maier H. [**Round window stimulation with the floating mass transducer at constant pretension.**](http://www.sciencedirect.com/science/article/pii/S0378595514000446 "Round window stimulation with the floating mass transducer at constant pretension") Hear Res. 2014 Aug;314:1-9. doi: 10.1016/j.heares.2014.04.001. Epub 2014 Apr 13. PubMed PMID: 24727490.|
+- Salcher R, Schwab B, Lenarz T, Maier H. [**Round window stimulation with the floating mass transducer at constant pretension.**](http://www.sciencedirect.com/science/article/pii/S0378595514000446) Hear Res. 2014 Aug;314:1-9. doi: 10.1016/j.heares.2014.04.001. Epub 2014 Apr 13. PubMed PMID: 24727490.|
 
 
 
 ##2013
 
-- Busch S, Kruck S, Spickers D, Leuwer R, Hoth S, Praetorius M, Plinkert PK, Mojallal H, Schwab B, Maier H, Lenarz T. [**First clinical experiences with a direct acoustic cochlear stimulator in comparison to preoperative fitted conventional hearing aids.**](http://www.ncbi.nlm.nih.gov/pubmed/24232068 "First clinical experiences with a direct acoustic cochlear stimulator in comparison to preoperative fitted conventional hearing aids.") Otol Neurotol. 2013 Dec;34(9):1711-8. doi: 10.1097/MAO.0000000000000225. PubMed PMID: 24232068.  
+- Busch S, Kruck S, Spickers D, Leuwer R, Hoth S, Praetorius M, Plinkert PK, Mojallal H, Schwab B, Maier H, Lenarz T. [**First clinical experiences with a direct acoustic cochlear stimulator in comparison to preoperative fitted conventional hearing aids.**](http://www.ncbi.nlm.nih.gov/pubmed/24232068) Otol Neurotol. 2013 Dec;34(9):1711-8. doi: 10.1097/MAO.0000000000000225. PubMed PMID: 24232068.  
 
-- Burke WF, Lenarz T, Maier H. [**Hereditäre Schwerhörigkeit Teil 1: Überblick und praktische Hinweise zur Diagnostik.**](http://link.springer.com/article/10.1007%2Fs00106-013-2689-0 "Hereditäre Schwerhörigkeit Teil 1: Überblick und praktische Hinweise zur Diagnostik.") HNO. 2013 Apr;61(4):353-63. doi: 10.1007/s00106-013-2689-0. German. PubMed PMID: 23588679.
+- Burke WF, Lenarz T, Maier H. [**Hereditäre Schwerhörigkeit Teil 1: Überblick und praktische Hinweise zur Diagnostik.**](http://link.springer.com/article/10.1007%2Fs00106-013-2689-0) HNO. 2013 Apr;61(4):353-63. doi: 10.1007/s00106-013-2689-0. German. PubMed PMID: 23588679.
 
-- Nolan LS, Maier H, Hermans-Borgmeyer I, Girotto G, Ecob R, Pirastu N, Cadge BA, Hübner C, Gasparini P, Strachan DP, Davis A, Dawson SJ. [**Estrogen-related receptor gamma and hearing function: evidence of a role in humans and mice.**](http://www.sciencedirect.com/science/article/pii/S0197458013000821 "Estrogen-related receptor gamma and hearing function: evidence of a role in humans and mice.") Neurobiol Aging. 2013 Aug;34(8):2077.e1-9. doi: 10.1016/j.neurobiolaging.2013.02.009. Epub 2013 Mar 26. PubMed PMID: 23540940.
+- Nolan LS, Maier H, Hermans-Borgmeyer I, Girotto G, Ecob R, Pirastu N, Cadge BA, Hübner C, Gasparini P, Strachan DP, Davis A, Dawson SJ. [**Estrogen-related receptor gamma and hearing function: evidence of a role in humans and mice.**](http://www.sciencedirect.com/science/article/pii/S0197458013000821) Neurobiol Aging. 2013 Aug;34(8):2077.e1-9. doi: 10.1016/j.neurobiolaging.2013.02.009. Epub 2013 Mar 26. PubMed PMID: 23540940.
 
-- Maier H, Salcher R, Schwab B, Lenarz T. [**The effect of static force on round window stimulation with the direct acoustic cochlea stimulator.**](http://www.sciencedirect.com/science/article/pii/S037859551200305X "The effect of static force on round window stimulation with the direct acoustic cochlea stimulator.") Hear Res. 2013 Jul;301:115-24. doi: 10.1016/j.heares.2012.12.010. Epub 2012 Dec 28. PubMed PMID: 23276731.
+- Maier H, Salcher R, Schwab B, Lenarz T. [**The effect of static force on round window stimulation with the direct acoustic cochlea stimulator.**](http://www.sciencedirect.com/science/article/pii/S037859551200305X) Hear Res. 2013 Jul;301:115-24. doi: 10.1016/j.heares.2012.12.010. Epub 2012 Dec 28. PubMed PMID: 23276731.
 
 
 
