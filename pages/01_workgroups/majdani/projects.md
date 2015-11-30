@@ -16,7 +16,7 @@
 	Motivated by this discovery, the project aim is to develop a single implant capable of both electrical and mechanical cochlea stimulation. The main task herein is the development, 
 	layout and optimization of miniaturized actuators which can be incorporated into existing cochlear implants.
 	
--   Contact: [Daniel Schurzig](http://www.vianna.de/01_workgroups/majdani/staff/daniel.html) | Schurzig.Daniel@mh-hannover.de
+-   Contact: Dr. Wouter J. van Drunen | vanDrunen.Wouter@mh-hannover.de
 
 
 ##Akva-Med
