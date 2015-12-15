@@ -7,7 +7,10 @@ title: CAL Symposium 2015
 
 <br style="clear:both">
 
-### Please remember to register for the symposium until August 31st 2015.
+### Thank you to all participants for their contributions!
+![Group Picture](04_cal-symposium-2015/group_pic.jpg)
+
+### About
 
 In the future of hearing aids and implants, which actually help deaf new-borns as well as the aging society, Brain Computer Interfaces will once be needed to make a last big leap to full hearing restoration. It will achieve, in a nutshell, the revived cocktail party capability. However this may take us 10 to 15 years from now. While both academia and industry are convinced that such solutions will truly appear, many currently refrain from entering this transdisciplinary, long and unknown field of research and development.
 
@@ -18,7 +21,7 @@ As we come from existing clinical practice, we reflect mature hearing aids or re
 The symposium is sponsored by the German Volkswagen Foundation and will be held in the famous Herrenhausen castle within a rewarding framework.
 
 
-### Aim and Execution
+### Aims and Execution
 
 The accomplishment of the symposium will bring us closer in achieving two main goals:
 
@@ -36,6 +39,7 @@ The accomplishment of the symposium will bring us closer in achieving two main g
 To reach these goals there will be plenary talks giving an overview into 5 main topics, expert talks giving us an insight into current research already leading into the direction of closing the loop. Finally, a workshop will give us the chance to discuss important questions initiated by the talks and of course during coffee breaks. We will define the most challenging questions that need to be answered to go the next step and set milestones for the next 10 years.  
 Besides known experts in their fields we will include young researchers, industrial partners as well as delegates from culture and politics.
 
+### Results
 
 
 -------------------
@@ -49,9 +53,9 @@ Contact Information
 > Medizinische Hochschule Hannover
 > Feodor-Lynen-Straße 27
 > 30625 Hannover
-> [cal-2015@mh-hannover.de](mailto:cal-2015@mh-hannover.de)
+> [cal-2015@mh-hannover.de](mailto:hoefer.maria@mh-hannover.de)
 > 
-> Bettina Goede
+> Maria Hoefer
 > Tel: +49 (0)511 532 7235
 
 
