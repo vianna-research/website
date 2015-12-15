@@ -1,4 +1,5 @@
 title: Registration
+status: hidden
 
 ### You can only register for the symposium if you have been invited by the committee!
 
