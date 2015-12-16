@@ -53,7 +53,7 @@ Contact Information
 > Medizinische Hochschule Hannover
 > Feodor-Lynen-Straße 27
 > 30625 Hannover
-> [cal-2015@mh-hannover.de](mailto:hoefer.maria@mh-hannover.de)
+> [hoefer.maria@mh-hannover.de](mailto:hoefer.maria@mh-hannover.de)
 > 
 > Maria Hoefer
 > Tel: +49 (0)511 532 7235
