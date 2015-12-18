@@ -41,7 +41,7 @@ Besides known experts in their fields we will include young researchers, industr
 
 ### Results
 
-An abstract booklet including the abstracts for all talks and posters, as well as the program and a list of participants is available for [download](AbstractBooklet-CAL-2015.pdf).
+An abstract booklet including the abstracts for all talks and posters, as well as the program and a list of participants is available for [download](04_cal-symposium-2015/abstractbooklet_cal_2015.pdf).
 
 The program consist of:
 
