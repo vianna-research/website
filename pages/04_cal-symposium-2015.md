@@ -6,7 +6,7 @@ title: CAL Symposium 2015
 
 <br style="clear:both">
 
-### Thank you to all participants for their contributions!
+## Thank you to all participants for their contributions!
 ![Group Picture](04_cal-symposium-2015/group_pic.png){.img-rounded}
 
 ### About
@@ -40,6 +40,17 @@ To reach these goals there will be plenary talks giving an overview into 5 main 
 Besides known experts in their fields we will include young researchers, industrial partners as well as delegates from culture and politics.
 
 ### Results
+
+An abstract booklet including the abstracts for all talks and posters, as well as the program and a list of participants is available for [download](AbstractBooklet-CAL-2015.pdf).
+
+The program consist of:
+
+- plenary lectures summarizing the state of the art in certain topics
+- expert talks giving a more specific insight into selected research areas
+- a workshop to discuss and define the roadmap.
+
+For detailled information about the results of the Symposium, please contact Maria Hoefer:
+[hoefer.maria@mh-hannover.de](mailto:hoefer.maria@mh-hannover.de)
 
 
 -------------------
