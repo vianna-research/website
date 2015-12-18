@@ -8,7 +8,7 @@ title: CAL Symposium 2015
 <br style="clear:both">
 
 ### Thank you to all participants for their contributions!
-![Group Picture](04_cal-symposium-2015/group_pic.jpeg){.img-rounded}
+![Group Picture](04_cal-symposium-2015/group_pic.jpg){.img-rounded}
 
 ### About
 
