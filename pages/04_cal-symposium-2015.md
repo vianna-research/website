@@ -2,8 +2,7 @@ title: CAL Symposium 2015
 
 # Closing the Auditory Loop 
 
-![Logo CAL 2015](04_cal-symposium-2015/cal23.png){.align-left style="width:27%"}
-![Schloss Herrenhausen](04_cal-symposium-2015/ssh_cropped.png){.align-right .img-rounded style="width:66%"}
+![Logo CAL 2015](04_cal-symposium-2015/cal23.png){style="width:27%"}
 
 <br style="clear:both">
 
@@ -20,6 +19,7 @@ As we come from existing clinical practice, we reflect mature hearing aids or re
 
 The symposium is sponsored by the German Volkswagen Foundation and will be held in the famous Herrenhausen castle within a rewarding framework.
 
+![Schloss Herrenhausen](04_cal-symposium-2015/ssh_cropped.png){.img-rounded}
 
 ### Aims and Execution
 
