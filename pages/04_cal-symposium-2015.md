@@ -6,7 +6,7 @@ title: CAL Symposium 2015
 
 <br style="clear:both">
 
-### Thank you to all participants for their contributions!
+## Thank you to all participants for their contributions!
 ![Group Picture](04_cal-symposium-2015/group_pic.png){.img-rounded}
 
 ### About
@@ -41,6 +41,17 @@ Besides known experts in their fields we will include young researchers, industr
 
 ### Results
 
+An abstract booklet including the abstracts for all talks and posters, as well as the program and a list of participants is available for [download](04_cal-symposium-2015/abstractbooklet_cal_2015.pdf).
+
+The program consist of:
+
+- plenary lectures summarizing the state of the art in certain topics
+- expert talks giving a more specific insight into selected research areas
+- a workshop to discuss and define the roadmap.
+
+For detailled information about the results of the Symposium, please contact Maria Hoefer:
+[hoefer.maria@mh-hannover.de](mailto:hoefer.maria@mh-hannover.de)
+
 
 -------------------
 
@@ -57,6 +68,17 @@ Contact Information
 > 
 > Maria Hoefer
 > Tel: +49 (0)511 532 7235
+
+
+
+------------------------
+### Organizing Committee
+
+- Marlies Knipper, Department for Molecular Physiology of Hearing, Hearing Research Centre Tübingen, Germany
+- Stefan Debener, Department for Neuropsychology, University Oldenburg, Germany
+- Theodor Doll, BioMaterial Engineering, Medical School Hannover, Germany
+- Maria Höfer, BioMaterial Engineering, Medical School Hannover, Germany
+- Thomas Lenarz, ENT Department, Medical School Hannover, Germany
 
 
 
