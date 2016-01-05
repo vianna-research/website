@@ -1,6 +1,7 @@
 title: Publications
 
 ##2015
+- Ghoncheh M, Lilli G, Lenarz T, Maier H. [**Outer ear canal sound pressure and bone vibration measurement in SSD and CHL patients using a transcutaneous bone conduction instrument.**](http://www.ncbi.nlm.nih.gov/pubmed/26723102) Hear Res. 2015. [Epub ahead of print] doi:10.1016/j.heares.2015.12.019.
 
 - Wardenga N, Batsoulis C, Wagener KC, Brand T, Lenarz T, Maier H. [**Do you hear the noise? The German matrix sentence test with a fixed noise level in subjects with normal hearing and hearing impairment.**](http://www.tandfonline.com/doi/full/10.3109/14992027.2015.1079929) Int J Audiol. 2015;2027(November):1-9. doi:10.3109/14992027.2015.1079929.
 
