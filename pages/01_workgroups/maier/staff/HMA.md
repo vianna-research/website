@@ -1,4 +1,4 @@
-title: Prof. Hannes Maier
+title: Hannes Maier
 
 ### Head of Research Group
 
