@@ -42,7 +42,9 @@ We could also do reaction/timing tests. Something along the lines: After pressin
 		}
 	</script>
 
-	<div id="time_display" class="alert alert-success" role="alert">...waiting for answer A or B.</div>
+	<p></p>
+
+	<div id="time_display" class="alert alert-success" role="alert">...waiting for answer A or B. </div>
 
 	<div class="btn-group btn-group-lg btn-group-justified" role="group" aria-label="...">
 	  <button type="button" class="btn btn-default btn-primary" onmousedown="stop_timer();">  A  </button>
@@ -50,14 +52,11 @@ We could also do reaction/timing tests. Something along the lines: After pressin
 	</div>
 	<script type="text/javascript">
 		function stop_timer() {
-			var time_delta = new Date().getTime()- time_start;
+			var now = new Date().getTime();
+			var time_delta = now - time_start;
 			document.getElementById("time_display").innterHTML = time_delta/1000.0;
 		}
 	</script>
 
 </div>
 
-
-<div id="s1">
-
-</div>
