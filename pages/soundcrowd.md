@@ -10,11 +10,12 @@ Technically, the ingredients are here:
 -   Measuring the elapsed time from the click on a "Play sound x" button till one of the answer Buttons.
 
 
-<div>
+<div class="jumbotron">
 	<audio id="soundcheck1" src="/__downloads/test.wav" preload="auto"></audio>
 	<audio id="soundcheck2" src="/__downloads/test-44100-le-1ch-4bytes.wav" preload="auto"></audio>
 	<audio id="soundcheck3" src="/__downloads/ds_china.wav" preload="auto"></audio>
 	
+	<h1>Press "Play sound" then, answer A or B.</h1>
 	
 	<div class="btn-group btn-group-lg-justified" role="group" aria-label="...">
 	  <button type="button" class="btn btn-default" onmousedown="play_sound1();">Play sound 1</button>
@@ -40,12 +41,12 @@ Technically, the ingredients are here:
 	</script>
 
 	<div class="well" style="height:60pt;">
-		<span id="time_display"></display>	
+		<span id="time_display"></span>	
 	</div>
 
 	<div class="btn-group btn-group-lg" role="group" aria-label="...">
-	  <button type="button" class="btn btn-default" onmousedown="stop_timer();">A</button>
-	  <button type="button" class="btn btn-default" onmousedown="stop_timer();">B</button>
+	  <button type="button" class="btn btn-default btn-primary" onmousedown="stop_timer();">  A  </button>
+	  <button type="button" class="btn btn-default btn-primary" onmousedown="stop_timer();">  B  </button>
 	</div>
 	<script type="text/javascript">
 		function stop_timer() {
