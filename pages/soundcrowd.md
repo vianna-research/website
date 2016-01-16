@@ -19,6 +19,8 @@ We could also do reaction/timing tests. Something along the lines: After pressin
 	
 	<h3>Press "Play sound" then, answer A or B.</h3>
 	
+	You can press left key (<-) for A and right key (->) for B on your keyboard instead.
+	
 	<div class="btn-group btn-group-lg" role="group" aria-label="...">
 	  <button type="button" class="btn btn-default" onmousedown="play_sound1();">Play sound 1</button>
 	  <button type="button" class="btn btn-default" onmousedown="play_sound2();">Play sound 2</button>
