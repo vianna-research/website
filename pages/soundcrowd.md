@@ -19,7 +19,7 @@ We could also do reaction/timing tests. Something along the lines: After pressin
 	
 	<h3>Press "Play sound" then, answer A or B.</h3>
 	
-	<div class="btn-group btn-group-lg btn-group-justified" role="group" aria-label="...">
+	<div class="btn-group btn-group-lg" role="group" aria-label="...">
 	  <button type="button" class="btn btn-default" onmousedown="play_sound1();">Play sound 1</button>
 	  <button type="button" class="btn btn-default" onmousedown="play_sound2();">Play sound 2</button>
 	  <button type="button" class="btn btn-default" onmousedown="play_sound3();">Play sound 3</button>
@@ -46,7 +46,7 @@ We could also do reaction/timing tests. Something along the lines: After pressin
 
 	<div id="time_display" class="alert alert-success" role="alert">...waiting for answer A or B. </div>
 
-	<div class="btn-group btn-group-lg btn-group-justified" role="group" aria-label="...">
+	<div class="btn-group btn-group-lg" role="group" aria-label="...">
 	  <button type="button" class="btn btn-default btn-primary" onmousedown="stop_timer();">  A  </button>
 	  <button type="button" class="btn btn-default btn-primary" onmousedown="stop_timer();">  B  </button>
 	</div>
