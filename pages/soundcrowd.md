@@ -6,7 +6,7 @@ This is a demo page, built to showcase – or better to hear-case – a possible
 
 <div>
 <audio id="soundcheck1" src="/__downloads/test.wav" preload="auto"></audio>
-<audio id="soundcheck2" src="/__downloads/test-44100-le-1ch-4bytes" preload="auto"></audio>
+<audio id="soundcheck2" src="/__downloads/test-44100-le-1ch-4bytes.wav" preload="auto"></audio>
 <audio id="soundcheck3" src="/__downloads/ds_china.wav" preload="auto"></audio>
 
 
