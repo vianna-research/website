@@ -47,14 +47,14 @@ We could also do reaction/timing tests. Something along the lines: After pressin
 	<div id="time_display" class="alert alert-success" role="alert">...waiting for answer A or B. </div>
 
 	<div class="btn-group btn-group-lg" role="group" aria-label="...">
-	  <button type="button" class="btn btn-default btn-primary" onmousedown="stop_timer();">  A  </button>
-	  <button type="button" class="btn btn-default btn-primary" onmousedown="stop_timer();">  B  </button>
+	  <button type="button" class="btn btn-default btn-primary" onmousedown="stop_timer(\'A\');">  A  </button>
+	  <button type="button" class="btn btn-default btn-primary" onmousedown="stop_timer(\'B\');">  B  </button>
 	</div>
 	<script type="text/javascript">
-		function stop_timer() {
+		function stop_timer(ans) {
 			var now = new Date().getTime();
 			var time_delta = now - time_start;
-			document.getElementById("time_display").innterHTML = time_delta/1000.0;
+			document.getElementById("time_display").innerHTML = "You answerd " +ans+ " in "+time_delta.toString() + " ms" ;
 		}
 	</script>
 
