@@ -26,7 +26,7 @@ We could also do reaction/timing tests. Something along the lines: After pressin
 	</div>
 	
 	<script type="text/javascript">
-		var time_start = new Date().getTime();
+		var time_start = 0;
 	
 		function play_sound1() {
 			time_start = new Date().getTime();
@@ -53,9 +53,12 @@ We could also do reaction/timing tests. Something along the lines: After pressin
 	<script type="text/javascript">
 	
 		function stop_timer(ans) {
-			var now = new Date().getTime();
-			var time_delta = now - time_start;
-			document.getElementById("time_display").innerHTML = "You answerd " +ans+ " in "+time_delta.toString() + " ms" ;
+			if (time_start > 0) {
+				var now = new Date().getTime();
+				var time_delta = now - time_start;
+				time_start = 0;
+				document.getElementById("time_display").innerHTML = "You answerd " +ans+ " in "+time_delta.toString() + " ms" ;
+			}
 		}
 		
 		function checkKey(e) {
