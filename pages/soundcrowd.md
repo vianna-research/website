@@ -51,12 +51,23 @@ We could also do reaction/timing tests. Something along the lines: After pressin
 	  <button type="button" class="btn btn-default btn-primary" onmousedown="stop_timer('B');">  B  </button>
 	</div>
 	<script type="text/javascript">
+	
 		function stop_timer(ans) {
 			var now = new Date().getTime();
 			var time_delta = now - time_start;
 			document.getElementById("time_display").innerHTML = "You answerd " +ans+ " in "+time_delta.toString() + " ms" ;
 		}
+		
+		function checkKey(e) {
+		    e = e || window.event;
+    		    if (e.keyCode == 37) {stop_timer('A')};
+    		    if (e.keyCode == 39) {stop_timer('B')};
+		}
+
+		document.onkeydown = checkKey;
+		
 	</script>
+
 
 </div>
 
