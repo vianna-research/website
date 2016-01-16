@@ -40,9 +40,7 @@ Technically, the ingredients are here:
 		}
 	</script>
 
-	<div class="well" style="height:60pt;">
-		<span id="time_display"></span>	
-	</div>
+	<div id="time_display" class="alert alert-success" role="alert">...waiting for answer A or B.</div>
 
 	<div class="btn-group btn-group-lg" role="group" aria-label="...">
 	  <button type="button" class="btn btn-default btn-primary" onmousedown="stop_timer();">  A  </button>
