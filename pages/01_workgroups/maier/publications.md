@@ -1,5 +1,8 @@
 title: Publications
 
+##2016
+- Kuru I, Maier H, Müller M, Lenarz T, Lueth TC. [**A 3D-printed functioning anatomical human middle ear model.**](http://www.ncbi.nlm.nih.gov/pubmed/26772730) Hear Res. 2016. [Epub ahead of print] doi:10.1016/j.heares.2015.12.025.
+
 ##2015
 - Ghoncheh M, Lilli G, Lenarz T, Maier H. [**Outer ear canal sound pressure and bone vibration measurement in SSD and CHL patients using a transcutaneous bone conduction instrument.**](http://www.ncbi.nlm.nih.gov/pubmed/26723102) Hear Res. 2015. [Epub ahead of print] doi:10.1016/j.heares.2015.12.019.
 
