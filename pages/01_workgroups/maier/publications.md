@@ -1,6 +1,7 @@
 title: Publications
 
 ##2016
+- Burke WF, Warnecke A, Schöner-Heinisch A, Lesinski-Schiedat A, Maier H, Lenarz T. [**Prevalence and Audiological Profiles of GJB2 Mutations in a Large Collective of Hearing Impaired Patients.**](http://www.ncbi.nlm.nih.gov/pubmed/26778469) Hear Res. 2016. [Epub ahead of print] doi:10.1016/j.heares.2016.01.006.
 - Kuru I, Maier H, Müller M, Lenarz T, Lueth TC. [**A 3D-printed functioning anatomical human middle ear model.**](http://www.ncbi.nlm.nih.gov/pubmed/26772730) Hear Res. 2016. [Epub ahead of print] doi:10.1016/j.heares.2015.12.025.
 
 ##2015
