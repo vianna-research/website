@@ -1,15 +1,18 @@
 title: Publications
 
+2016
+---
+* Dispersed Hydrogel Actuator for Modiolar Hugging Cochlear Implant Electrode Arrays; Jan Stieghorst and Theodor Doll; IEEE Transactions on Biomedical Engineering; DOI 10.1109/TBME.2016.2524663
+
 2015
 ---
-* 3D silicone rubber interfaces for individually tailored implants; Jan Stieghorst, Alexandra Bondarenkova, Niklas Burblies, Peter Behrens and Theodor Doll; Biomed Microdevices; DOI 10.1007/s10544-015-9960-y; 2015 accepted
+* 3D silicone rubber interfaces for individually tailored implants; Jan Stieghorst, Alexandra Bondarenkova, Niklas Burblies, Peter Behrens and Theodor Doll; Biomed Microdevices; DOI 10.1007/s10544-015-9960-y 
 
 
 2014
 ---
 * Aligned carbon nanotube-liquid silicone rubber conductors and electrode surfaces for stimulating medical implants; Katharina Tegtmeier, Pooyan Aliuos, Jan Stieghorst, Malte Schickedanz, Felix Golly, Holger Zernetsch, Birgit Glasmacher and [T. Doll](pagedoll.html); Phys. Status Solidi A 211, No. 6, 1439–1447 (2014); DOI 10.1002/pssa.201330405
-* Self-bending hydrogel actuation for electrode shafts in cochlear implants; Jan Stieghorst, Katharina Tegtmeier, Pooyan Aliuos, Holger Zernetsch, Birgit Glasmacher,
-and [T. Doll](pagedoll.html); Phys. Status Solidi A 211, No. 6, 1455–1461 (2014); DOI 10.1002/pssa.201330404
+* Self-bending hydrogel actuation for electrode shafts in cochlear implants; Jan Stieghorst, Katharina Tegtmeier, Pooyan Aliuos, Holger Zernetsch, Birgit Glasmacher and [T. Doll](pagedoll.html); Phys. Status Solidi A 211, No. 6, 1455–1461 (2014); DOI 10.1002/pssa.201330404
 * A. Amann, W. Filipiak, P. Mochalski, C. Ager, A. Filipiak, R. Cumeras, C. E. Davis, D. Smith, P. Španěl, [T. Doll](pagedoll.html), J. Troppmair, Arriving at the human volatilome: A review of volatile organic compounds (VOCs) released by different cell types, J. Breath Res. 2014 accepted
 
 
