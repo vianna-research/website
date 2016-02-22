@@ -17,7 +17,7 @@ title: Mitarbeiter
 |Wissenschaftliche Mitarbeiter|             |    |
 |---------|------|------|
 |![Image Maria Höfer](Maria.png) | Dr. rer. nat. Maria Höfer | hoefer.maria(at)mh-hannover.de | 
-Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de
+|   |Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|
 |![Image Jan Stieghorst ](Jan.png) |  Dipl.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
 |![Image Katharina Tegtmeier](Katharina.png)  | Katharina Tegtmeier, M.Sc. 	|	tegtmeier.katharina(at)mh-hannover.de | 
 |                            |Dipl.-Ing. Juan Pablo Marcoleta 	|	marcoleta.juan(at)mh-hannover.de  |
