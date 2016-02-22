@@ -16,7 +16,8 @@ title: Mitarbeiter
 
 |Wissenschaftliche Mitarbeiter|             |    |
 |---------|------|------|
-|![Image Maria Höfer](Maria.png) | Dr. rer. nat. Maria Höfer | hoefer.maria(at)mh-hannover.de |    
+|![Image Maria Höfer](Maria.png) | Dr. rer. nat. Maria Höfer | hoefer.maria(at)mh-hannover.de | 
+Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de
 |![Image Jan Stieghorst ](Jan.png) |  Dipl.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
 |![Image Katharina Tegtmeier](Katharina.png)  | Katharina Tegtmeier, M.Sc. 	|	tegtmeier.katharina(at)mh-hannover.de | 
 |                            |Dipl.-Ing. Juan Pablo Marcoleta 	|	marcoleta.juan(at)mh-hannover.de  |
@@ -30,10 +31,9 @@ title: Mitarbeiter
 |David Kirchhoff | Projektarbeit|
 |Wiebke Kossow, B.Eng. |  Masterarbeit|
 |Georg Leuteritz, B. Sc. |  Masterarbeit|
-|Bingrui Li, B. Sc. | Projektarbeit|
+|Bingrui Li, B. Sc. |Masterarbeit|
 |Daniel Majaura, B. Eng.	|	 Masterarbeit|
-|Henning Suhr, B. Sc. | Projektarbeit|
-|Aaron Voigt | Projektarbeit|
+|Sheridan Renzi | Projektarbeit|
 |Moritz Weissbrich, B. Sc. | Projektarbeit|
 |Hendrik Wevering |Projektarbeit|
 |Annette Winter | Promotion Dr. med.|
