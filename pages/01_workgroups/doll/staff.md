@@ -14,6 +14,9 @@ title: Staff
 |![Image Bettina Goede](Bettina.jpg) | Bettina Goede	| goede.bettina@mh-hannover.de|
 |                                   |                 |	Phone: +49 (0)511 532 7235 |
 
+|Technical Staff|                     |      |
+|--------------|---------------------|------|
+| | Michaela Kreienmeyer	|	kreienmeyer.michaela(at)mh-hannover.de     |
 
 ||Research Team      |  |
 |---------|:------|------|
