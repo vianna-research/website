@@ -7,11 +7,14 @@ title: Mitarbeiter
 
 
 
-|Teamassistentin|                     |      |
+|Technische Mitarbeiter|                     |      |
 |--------------|---------------------|------|
 |![Image Bettina Goede](Bettina.jpg) | Bettina Goede	|	goede.bettina@mh-hannover.de     |
 |    |   |Phone: +49 (0)511 532 7235|
 
+|Teamassistentin|                     |      |
+|--------------|---------------------|------|
+| | Michaela Kreienmeyer	|	kreienmeyer.michaela(at)mh-hannover.de     |
 
 
 |Wissenschaftliche Mitarbeiter|             |    |
