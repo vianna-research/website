@@ -1,5 +1,9 @@
 title: Publications
 
+## 2016
+
+* Wilk M, Hessler R, Mugridge K, Jolly C, Fehr M, Lenarz T, **Scheper V**. [Impedance Changes and Fibrous Tissue Growth after Cochlear Implantation Are Correlated and Can Be Reduced Using a Dexamethasone Eluting Electrode.](http://www.ncbi.nlm.nih.gov/pubmed/26840740) PLoS One. 2016 Feb 3;11(2):e0147552. doi: 10.1371/journal.pone.0147552.
+
 ## 2015
 
 * Schwieger J, Warnecke A, Lenarz T, Esser KH, **Scheper V**. [Neuronal Survival, Morphology and Outgrowth of Spiral Ganglion Neurons Using a Defined Growth Factor Combination.](http://www.ncbi.nlm.nih.gov/pubmed/26263175) PLoS One. 2015 Aug 11;10(8):e0133680. doi: 10.1371/journal.pone.0133680.
