@@ -12,8 +12,8 @@ Martin Großöhmichen studied Mechanical Engineering (Dipl.-Ing.) at the Univers
 	Martin Großöhmichen
 	Medizinische Hochschule Hannover
 	Klinik für Hals-Nasen-Ohrenheilkunde
-	VIANNA
-	Feodor-Lynen-Str. 35
+	NIFE - VIANNA - AG Maier
+	Stadtfelddamm 34
 	30625 Hannover
 
 <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;%47%72%6F%73%73%6F%65%68%6D%69%63%68%65%6E%2E%4D%61%72%74%69%6E%40%6D%68%2D%68%61%6E%6E%6F%76%65%72%2E%64%65 "title="&#x45;&#x2d;&#x4d;&#x61;&#x69;&#x6c;">&#x47;&#x72;&#x6f;&#x73;&#x73;&#x6f;&#x65;&#x68;&#x6d;&#x69;&#x63;&#x68;&#x65;&#x6e;&#x2e;&#x4d;&#x61;&#x72;&#x74;&#x69;&#x6e;&#x40;&#x6d;&#x68;&#x2d;&#x68;&#x61;&#x6e;&#x6e;&#x6f;&#x76;&#x65;&#x72;&#x2e;&#x64;&#x65;</a>
