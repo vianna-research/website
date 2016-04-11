@@ -16,7 +16,6 @@ Currently he is working as a PhD student in the research of new strategies for i
 	Mathias Müller
 	Medizinische Hochschule Hannover
 	Klinik für Hals-Nasen-Ohrenheilkunde
-	Klinik für Hals-Nasen-Ohrenheilkunde
 	NIFE - VIANNA - AG Maier
 	Stadtfelddamm 34
 	30625 Hannover
