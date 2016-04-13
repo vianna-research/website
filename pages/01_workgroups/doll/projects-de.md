@@ -1,13 +1,6 @@
 status: draft
 Publikationen zu diesen Projekten finden Sie [hier](publications-de.html)
 
-
-##Conferences
-* Kürzlich organisierten wir die Konferenz **[Engineering of Functional Interfaces](03_enfi-2015.html)**.
-* Derzeit organisieren wir das Symposium **„Closing the Auditory Loop“** (26.10.-28.10.2015), welches durch die VW-Stiftung organisiert wird. 
-Das Hauptziel des Symposiums ist die Erstellung einer Roadmap auf präkompetitiver Basis, welche notwendige Experimente, Meilensteine und Herausforderungen beschreibt. Außerdem soll das Symposium die Initiierung neuer Kooperationen befördern und Möglichkeiten für gemeinsame Förderprogramme aufzeigen. Um dieses anspruchsvolle Ziel zu erreichen, sind ausgesuchte Experten aus vielfältigen Wissenschaftsbereichen (Anatomie, Signal Verarbeitung, Modellierung, Chirurgie, Systemintegration, Technologie, etc.) eingeladen. Neben Vertretern aus dem akademischen Bereich nehmen auch Repräsentanten aus der Industrie teil. Außerdem bieten wir jungen Wissenschaftlern die Möglichkeit mit ihrem frischen Geist neuen, inspirierenden Input zu geben und sich zu vernetzen. 
-
-
 ##Laufende Projekte
 
 * **Feedback loop and fluid flow electrode - FLOWTRODE** (BMBF: KMU Innovativ Medizintechnik)   
