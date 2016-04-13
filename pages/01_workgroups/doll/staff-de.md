@@ -1,5 +1,6 @@
 title: Mitarbeiter
 
+![Image group](Gruppe.png)
 
 |Arbeitsgruppenleiter|                |     |
 |--------------|---------------|----|
