@@ -30,14 +30,11 @@ title: Mitarbeiter
 |Fabian Borrmann | Bachelorarbeit|
 |Markus Buddensieck | Bachelorarbeit|
 |Lennart Guntenhöner |Promotion Dr. med. |
-|David Kirchhoff | Projektarbeit|
+|Steffen Hadeler | Projektarbeit|
 |Wiebke Kossow, B.Eng. |  Masterarbeit|
 |Georg Leuteritz, B. Sc. |  Masterarbeit|
 |Bingrui Li, B. Sc. |Masterarbeit|
-|Daniel Majaura, B. Eng.	|	 Masterarbeit|
 |Sheridan Renzi | Projektarbeit|
-|Moritz Weissbrich, B. Sc. | Projektarbeit|
-|Hendrik Wevering |Projektarbeit|
 |Annette Winter | Promotion Dr. med.|
 
 
