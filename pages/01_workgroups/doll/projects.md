@@ -2,11 +2,6 @@ title: Grants and Projects
 
 Publications regarding these projects can be found [here](publications.html)
 
-##Conferences
-* We have recently hostet the Conference **[Engineering of Functional Interfaces](http://vianna.de/03_enfi-2015.html)**
-* We are currently organizing the International Symposium **„Closing the Auditory Loop“** (26.10.-28.10.2015) funded by the VW-Stiftung.   
-The main goal of the Symposium is the creation of a roadmap that defines challenges, critical experiments and milestones on a pre-competitive basis. It will also help to initiate new research collaborations as well as joint funding programs. To achieve this challenging goal selected, international leading experts of the various contributing fields (anatomy, signal processing, modelling, surgery, system integration, technology etc.) are invited. Besides academia also representatives from specialized industry will be invited to participate. Further, we are planning to invite young researchers to give new and inspiring input.
-
 
 
 ##Ongoing Projects
@@ -21,10 +16,18 @@ This is a follow up project to the recently finished project *Flexible, selfbend
 The optimization of highly flexible neural electrodes for both stimulating CI and recording BCI applications is the mayor goal of the Biomaterial engineering group in Hearing 4 All. Hence, parameters are high physiological limits of current density and signal to noise ratio, wide electrochemical windows, low chronic tissue corrosion and biocompatibility with low fibrotic overgrowth.
 Based on previous work, Carbon Nanotubes are further explored for these applications with the final goal of proving their suitability for chronic implantation and to review their performance with respect to the state of the art as well as towards ongoing other new material concepts.
 
-* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank) Adapted, highly flexible ECoG electrode systems are developed, leading to a prototype that can be testet by the end-user. By implementing an innovative multicenter product development and suitable product logistics a resource saving process is possible.    
-Please contact [Prof. Doll](staff.html) for more information.
+
+
+##Conferences
+* In July 2015 we hosted the Conference **[Engineering of Functional Interfaces](http://vianna.de/03_enfi-2015.html)**
+* In October 2015 we organized the International Symposium **„Closing the Auditory Loop“** funded by the VW-Stiftung.   
+The main goal of the Symposium was the creation of a roadmap that defines challenges, critical experiments and milestones on a pre-competitive basis. Another goal was to initiate new research collaborations as well as joint funding programs. To achieve this challenging goal selected, international leading experts of the various contributing fields (anatomy, signal processing, modelling, surgery, system integration, technology etc.) were invited. Besides academia also representatives from specialized industry were invited to participate.
+
 
 ##Closed Projects
+
+* **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank) Adapted, highly flexible ECoG electrode systems are developed, leading to a prototype that can be testet by the end-user. By implementing an innovative multicenter product development and suitable product logistics a resource saving process is possible.    
+Please contact [Prof. Doll](staff.html) for more information.
 
 * **Flexible, selfbending multielectrode shafts** ([Hearing4All](http://hearing4all.eu/EN/))   
 We explore the hypothesis that for CI better ambient noise understanding can be achieved by a higher number of electrode contacts – if the CIs clinge well to the modiolus. A side aspect of such R&D must be that the stiffness of CIs must not exceed the present state in order to avoid increased insertion tissue damage and trauma in general. Thus the wiring techniques of today must be altered. We test Au on parylene / polyimide films and CNTs immersed in silicone rubber. Parallelly we explore Hydrogel bimorph swelling elements for proper clinging actuation. The Start project lays the basis to further procurement of third-party funds. Our objectives are increased electrode number to 30 and 50 with almost maintained impedances and flexibility and the design and testing of actuation principles.       
