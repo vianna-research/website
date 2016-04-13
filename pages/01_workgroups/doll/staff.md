@@ -32,14 +32,9 @@ title: Staff
 |Fabian Borrmann | Bachelor Thesis|
 |Markus Buddensieck | Bachelor Thesis|
 |Lennart Guntenhöner |Medical Doctorate Thesis |
-|David Kirchhoff | Student Project|
+|Steffen Hadeler|Student Project|
 |Wiebke Kossow, B.Eng. | Master Thesis|
 |Georg Leuteritz, B. Sc. | Master Thesis|
 |Bingrui Li, B. Sc. | Master Thesis|
-|Daniel Majaura, B. Eng.	|	Master Thesis|
 |Sheridan Renzi | Student Projekt|
-|Henning Suhr, B. Sc. | Student Project|
-|Aaron Voigt | Student Project|
-|Moritz Weissbrich, B. Sc. | Student Project|
-|Hendrik Wevering | Student Project|
 |Annette Winter | Medical Doctorate Thesis|
