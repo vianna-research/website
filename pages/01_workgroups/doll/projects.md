@@ -16,7 +16,8 @@ This is a follow up project to the recently finished project *Flexible, selfbend
 The optimization of highly flexible neural electrodes for both stimulating CI and recording BCI applications is the mayor goal of the Biomaterial engineering group in Hearing 4 All. Hence, parameters are high physiological limits of current density and signal to noise ratio, wide electrochemical windows, low chronic tissue corrosion and biocompatibility with low fibrotic overgrowth.
 Based on previous work, Carbon Nanotubes are further explored for these applications with the final goal of proving their suitability for chronic implantation and to review their performance with respect to the state of the art as well as towards ongoing other new material concepts.
 
-
+* **The future of hearing restoration** (NFB - Österreich)
+Please contact [Prof. Doll](staff.html) for further information.
 
 ##Conferences
 * In July 2015 we hosted the Conference **[Engineering of Functional Interfaces](http://vianna.de/03_enfi-2015.html)**
