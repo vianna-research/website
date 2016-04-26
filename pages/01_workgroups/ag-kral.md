@@ -1,6 +1,6 @@
 title: Kral Lab - Auditory Neuroscience
 
-# [Lab of Auditory Neuroscience & Neuroprostheses](http://www.neuroprostheses.com)
+[Link to lab wesite](http://www.neuroprostheses.com)
 
 ![Figure 1](RTEmagicC_KralBilder_03.jpg)
 
