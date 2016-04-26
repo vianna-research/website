@@ -7,6 +7,13 @@ status: hidden
 <!-- The previous two lines make this the Homepage -->
 
 
+The Joint Research Institute of AudioNeuroTechnology (VIANNA) of the Medical University Hannover (MHH) investigates possibilites of artificial stimulation of nervous tissue focused on the auditory system. The research topics include basic research on hearing loss and its consequences for the brain, as well as development of new stimulation strategies (prosthetic devices) in the peripheral and central nervous system. We investigate how the brain adapts to hearing loss, particularly congenital deafness, and how neuroplasticity can be used for the optimal adaptation to prosthetic hearing. 
+
+In the insitute more than 50 scientists from different disciplines collaborate on research on prosthetic devices and hearing loss. Their expertise includes medicine, physics, engineering, neurophysiology, neurology and chemistry. We work on topics of biomechanics, electrical engineering and signal processing, electrophysiology and human imaging, neuroscience, robotics, histology and molecular biology. 
+
+The directors of the institute are Prof. Andrej Kral, head of the Dept. of Experimental Otology, a neuroscientist with focus on neuroplasticity and cochlear implant neuroscience, responsible for research, and Prof. Thomas Lenarz, the otolaryngologist and head of the ENT clinics, responsible for the translation. 
+
+
 VIANNA     |
 -----------|---------------------------
 Directors: | [Prof. Dr. Dr. med. A. Kral](http://www.neuroprostheses.com/)
@@ -19,13 +26,6 @@ Phone:     | +49 (0)511 532 7272
 Fax:       | +49 (0)511 532 7274
 E-Mail:    | Secretary of Prof. Kral: <sekretariat@vianna.de>
 Internet:  | <www.vianna.de>
-
-
-The Joint Research Institute of AudioNeuroTechnology (VIANNA) investigates possibilites of artificial stimulation of nervous tissue focused on the auditory system. The research topics include basic research on hearing loss and its consequences for the brain, as well as development of new stimulation strategies (prosthetic devices) in the peripheral and central nervous system. We investigate how the brain adapts to hearing loss, particularly congenital deafness, and how neuroplasticity can be used for the optimal adaptation to prosthetic hearing. 
-
-In the insitute more than 50 scientists from different discipline collaborate on research on prosthetic devices and hearing loss. Their expertise includes medicine, physics, engineering, neurophysiology, neurology and chemistry. We work on topics of biomechanics, electrical engineering and signal processing, electrophysiology and human imaging, neuroscience, robotics, histology and molecular biology. 
-
-The directors of the institute are Prof. Andrej Kral, a neuroscientist with focus on neuroplasticity and cochlear implant neuroscience, and Prof. Thomas Lenarz, the otolaryngologist and head of the ENT clinics. 
 
 
 * * * * * * * * * * * * *
