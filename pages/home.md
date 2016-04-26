@@ -30,7 +30,8 @@ The directors of the institute are Prof. Andrej Kral, a neuroscientist with focu
 
 * * * * * * * * * * * * *
 
-News: Press releases (in German):
+## News: Press releases (in German):
+
 - [Hearing and cognition are tighly related - paper in Lancet Neurology](https://www.mh-hannover.de/46.html?&tx_ttnews%5Btt_news%5D=4495&cHash=9372250e91868167c310b0d3a8c1a088)
 
 - [Lower Saxony funds research excellence at MHH (DE)](https://www.mh-hannover.de/46.html?&tx_ttnews%5Btt_news%5D=4513&cHash=e49273834517320895694558489ed500)
