@@ -14,7 +14,7 @@ Detailed information is available at [the Lab's website](http://www.neuroprosthe
 
 ## Research Topics
 -   [Neurophysiology of Cochlear Implants](http://neuroprostheses.com/AK/Cochlear_Implants.html)
--   [Plasticity & Critical Periods](http://neuroprostheses.com/AK/Critical_periods.html)
+-   [Plasticity & Critical Periods](http://www.neuroprostheses.com/AK/Brain_plasticity.html)
 -   [Development & Sensory Deprivation](http://neuroprostheses.com/AK/Deafness.html)
 -   [Single-Sided Deafness](http://neuroprostheses.com/AK/Single-sided_deafness.html)
 -   [Deafness and Space](http://neuroprostheses.com/AK/Binaural_CIs.html)
