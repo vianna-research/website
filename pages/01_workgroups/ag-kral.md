@@ -35,7 +35,7 @@ Detailed information is available at [the Lab's website](http://www.neuroprosthe
 ## Full list of publications
 - [Publications](http://neuroprostheses.com/AK/Papers.html)
 
-## Press reports on our work & Interviews
+## Public outreach & interviews
 - [Press reports](http://www.neuroprostheses.com/AK/Media.html)
 
 
