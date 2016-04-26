@@ -25,7 +25,7 @@ The Joint Research Institute of AudioNeuroTechnology (VIANNA) investigates possi
 
 In the insitute more than 50 scientists from different discipline collaborate on research on prosthetic devices and hearing loss. Their expertise includes medicine, physics, engineering, neurophysiology, neurology and chemistry. We work on topics of biomechanics, electrical engineering and signal processing, electrophysiology and human imaging, neuroscience, robotics, histology and molecular biology. 
 
-The directors of the institute are Prof. Andrej Kral, a neuroscientist with focus on neuroplasticity and cochlear implant neuroscience, and Prof. Th. Lenarz, the otolaryngologist and head of the ENT clinics. 
+The directors of the institute are Prof. Andrej Kral, a neuroscientist with focus on neuroplasticity and cochlear implant neuroscience, and Prof. Thomas Lenarz, the otolaryngologist and head of the ENT clinics. 
 
 
 * * * * * * * * * * * * *
