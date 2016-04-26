@@ -9,15 +9,15 @@ status: hidden
 
 VIANNA     |
 -----------|---------------------------
-Leitung:   | [Prof. Dr. Dr. med. A. Kral](http://www.neuroprostheses.com/)
+Heads:     | [Prof. Dr. Dr. med. A. Kral](http://www.neuroprostheses.com/)
            | [Prof. Prof. h. c. Dr. med. T. Lenarz](http://www.mhh-hno.de)
-Addresse:  | VIANNA
+Address:   | VIANNA
            | Stadtfelddamm 34
            | 30625 Hannover
            | Deutschland
-Telefon:   | +49 (0)511 532 7272
+Phone:     | +49 (0)511 532 7272
 Fax:       | +49 (0)511 532 7274
-E-Mail:    | Sekretariat Prof. Kral: <sekretariat@vianna.de>
+E-Mail:    | Secretary of Prof. Kral: <sekretariat@vianna.de>
 Internet:  | <www.vianna.de>
 
 
