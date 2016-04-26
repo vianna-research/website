@@ -21,15 +21,11 @@ E-Mail:    | Sekretariat Prof. Kral: <sekretariat@vianna.de>
 Internet:  | <www.vianna.de>
 
 
-Das Verbund-Institut für AudioNeurotechnologie und NAnobiomaterialien (VIANNA) umfasst Grundlagenforschung zur Gehörlosigkeit und künstlicher Stimulation von Nervengewebe, sowie die Entwicklung, das Design und erste in-vivo Tests von Hör- und Neuroimplantaten, Nanobiomaterialien und diagnostische sowie therapeutische Laserverfahren in Kooperation mit im Institut angesiedelten renommierten Industriepartnern. Wir untersuchen, wie sich das Gehirn bei Gehörlosigkeit entwickelt, welche Veränderungen es aufweist, und wie es sich an die Stimulation mit Neuroprothesen anpasst. Als Ergebnis dieser Arbeiten erwarten wir neue, verbesserte Diagnostik- und Therapieverfahren für Patienten mit Schwerhörigkeit, anderen Sinnesbehinderungen und neurologischen Erkrankungen.
+The Joint Research Institute of AudioNeuroTechnology (VIANNA) investigates possibilites of artificial stimulation of nervous tissue focused on the auditory system. The research topics include basic research on hearing loss and its consequences for the brain, as well as development of new stimulation strategies (prosthetic devices) in the peripheral and central nervous system. We investigate how the brain adapts to hearing loss, particularly congenital deafness, and how neuroplasticity can be used for the optimal adaptation to prosthetic hearing. 
 
-Das Institut führt Wissenschaftler aus den Natur- und Ingenieurwissenschaften sowie Mediziner aus den Bereichen HNO-Heilkunde, Neurophysiologie, Neurochirurgie und Neurologie zusammen. Das Spektrum der Forschungsmethoden reicht dabei von der Quantenoptik über die Biomechanik, Elektrotechnik, Elektrophysiologie, Neurophysiologie und Neurobionik, Bildgebung und -verarbeitung, Histologie, Molekularbiologie, in vitro- und in vivo-Verfahren bis hin zur Signalverarbeitung. Die transdisziplinäre Kooperation unter einem Dach schafft die notwendigen Voraussetzungen für die Weiterentwicklung des vom VIANNA abgesteckten Themenfeldes der Medizintechnik auf höchstem internationalen Niveau.
+In the insitute more than 50 scientists from different discipline collaborate on research on prosthetic devices and hearing loss. Their expertise includes medicine, physics, engineering, neurophysiology, neurology and chemistry. We work on topics of biomechanics, electrical engineering and signal processing, electrophysiology and human imaging, neuroscience, robotics, histology and molecular biology. 
 
-Geleitet wird das Verbundinstitut von einer Doppelspitze, die den Kontakt von Klinik (Prof. Th. Lenarz) und Forschung widerspiegelt. Die W3-Professur für auditorische Neurophysiologie (Prof. A. Kral) wurde in diesem Kontext neu eingerichtet. Die neue Arbeitsgruppe beschäftigt sich mit zentralen Effekten von Gehörlosigkeit und Cochlea-Implantaten, der binauralen Stimulation und Entwicklung des Hörsystems.
-
-Neben der durch die MHH angemieteten Fläche werden zusätzlich Räume von drei Partnerfirmen bezogen, so dass die unmittelbare Kooperation mit der international führenden Industrie direkt möglich ist.
-
-VIANNA ist Teil des Niedersächsischen Zentrums für Biomedizintechnik und kooperiert mit den anderen bereits vorhandenen Einrichtungen im Medical Park.
+The directors of the institute are Prof. Andrej Kral, a neuroscientist with focus on neuroplasticity and cochlear implant neuroscience, and Prof. Th. Lenarz, the otolaryngologist and head of the ENT clinics. 
 
 
 * * * * * * * * * * * * *
