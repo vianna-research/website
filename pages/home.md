@@ -33,6 +33,7 @@ VIANNA ist Teil des Niedersächsischen Zentrums für Biomedizintechnik und koope
 
 
 * * * * * * * * * * * * *
+
 News: Press releases (in German):
 - [Hearing and cognition are tighly related - paper in Lancet Neurology](https://www.mh-hannover.de/46.html?&tx_ttnews%5Btt_news%5D=4495&cHash=9372250e91868167c310b0d3a8c1a088)
 
