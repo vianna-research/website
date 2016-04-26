@@ -12,7 +12,7 @@ VIANNA     |
 Leitung:   | [Prof. Dr. Dr. med. A. Kral](http://www.neuroprostheses.com/)
            | [Prof. Prof. h. c. Dr. med. T. Lenarz](http://www.mhh-hno.de)
 Addresse:  | VIANNA
-           | Feodor-Lynen-Straße 35
+           | Stadtfelddamm 34
            | 30625 Hannover
            | Deutschland
 Telefon:   | +49 (0)511 532 7272
