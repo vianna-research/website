@@ -36,7 +36,7 @@ Detailed information is available at [the Lab's website](http://www.neuroprosthe
 - [Publications](http://neuroprostheses.com/AK/Papers.html)
 
 ## Press reports on our work & Interviews
-- [Press reports](http://neuroprostheses.com/AK/Press_%26_TV.html)
+- [Press reports](http://www.neuroprostheses.com/AK/Media.html)
 
 
 Contact: Prof. Dr. Dr. med. A. Kral: <Kral.Andrej@mh-hannover.de>
