@@ -19,7 +19,7 @@ Detailed information is available at [the Lab's website](http://www.neuroprosthe
 -   [Single-Sided Deafness](http://neuroprostheses.com/AK/Single-sided_deafness.html)
 -   [Deafness and Space](http://neuroprostheses.com/AK/Binaural_CIs.html)
 -   [Crossmodal Plasticity](http://neuroprostheses.com/AK/Crossmodal.html)
--   [Morphology of the Cochlea](http://neuroprostheses.com/AK/Cochlea.html)
+-   [Morphology of the Cochlea](http://www.neuroprostheses.com/AK/Cochlear_anatomy.html)
 -   [“Hearing” Light](http://neuroprostheses.com/AK/Laser_prosthesis.html)
 -   [Anaesthesia & the Cortex](http://neuroprostheses.com/MouseLab/Burst-Suppression.html)
 -   [Mouse Brain](http://neuroprostheses.com/MouseLab/Mouse_V1.html)
