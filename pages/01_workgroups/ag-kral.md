@@ -1,4 +1,4 @@
-title: Kral Lab - Electrophysiology
+title: Kral Lab - Auditory Neuroscience
 
 # [Lab of Auditory Neuroscience & Neuroprostheses](http://www.neuroprostheses.com)
 
