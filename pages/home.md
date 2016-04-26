@@ -9,7 +9,7 @@ status: hidden
 
 VIANNA     |
 -----------|---------------------------
-Heads:     | [Prof. Dr. Dr. med. A. Kral](http://www.neuroprostheses.com/)
+Directors: | [Prof. Dr. Dr. med. A. Kral](http://www.neuroprostheses.com/)
            | [Prof. Prof. h. c. Dr. med. T. Lenarz](http://www.mhh-hno.de)
 Address:   | VIANNA
            | Stadtfelddamm 34
