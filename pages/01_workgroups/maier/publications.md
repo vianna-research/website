@@ -1,6 +1,9 @@
 title: Publications
 
 ##2016
+- Gerdes T, Salcher RB, Schwab B, Lenarz T, Maier H. [**Comparison of Audiological Results Between a Transcutaneous and a Percutaneous Bone Conduction Instrument in Conductive Hearing Loss.**](http://www.ncbi.nlm.nih.gov/pubmed/27093021) Otol Neurotol. 2016 Apr 15. [Epub ahead of print] PubMed
+PMID: 27093021. doi: 10.1097/MAO.0000000000001010.
+
 - Kludt E, Büchner A, Schwab B, Lenarz T, Maier H. [**Indication of Direct Acoustical Cochlea Stimulation in Comparison to Cochlear Implants.**](http://www.ncbi.nlm.nih.gov/pubmed/26836967) Hear Res. 2016. [Epub ahead of print] doi:10.1016/j.heares.2016.01.016.
 
 - Burke WF, Warnecke A, Schöner-Heinisch A, Lesinski-Schiedat A, Maier H, Lenarz T. [**Prevalence and Audiological Profiles of GJB2 Mutations in a Large Collective of Hearing Impaired Patients.**](http://www.ncbi.nlm.nih.gov/pubmed/26778469) Hear Res. 2016. [Epub ahead of print] doi:10.1016/j.heares.2016.01.006.
