@@ -11,13 +11,13 @@ The Joint Research Institute of AudioNeuroTechnology (VIANNA) of the Medical Uni
 
 In the insitute more than 50 scientists from different disciplines collaborate on research on prosthetic devices and hearing loss. Their expertise includes medicine, physics, engineering, neurophysiology, neurology and chemistry. We work on topics of biomechanics, electrical engineering and signal processing, electrophysiology and human imaging, neuroscience, robotics, histology and molecular biology. 
 
-The directors of the institute are Prof. Andrej Kral, head of the Dept. of Experimental Otology, a neuroscientist with focus on neuroplasticity and cochlear implant neuroscience, responsible for research, and Prof. Thomas Lenarz, the otolaryngologist and head of the ENT clinics, responsible for the translation. 
+
 
 
 VIANNA     |
 -----------|---------------------------
-Directors: | [Prof. Dr. Dr. med. A. Kral](http://www.neuroprostheses.com/)
-           | [Prof. Prof. h. c. Dr. med. T. Lenarz](http://www.mhh-hno.de)
+Directors: | [Prof. Dr. Dr. med. A. Kral, head of research](http://www.neuroprostheses.com/)
+           | [Prof. Prof. h. c. Dr. med. T. Lenarz, head of translation](http://www.mhh-hno.de)
 Address:   | VIANNA
            | Stadtfelddamm 34
            | 30625 Hannover
