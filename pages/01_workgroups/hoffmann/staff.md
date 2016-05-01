@@ -1,8 +1,11 @@
 title: Staff
 
-
-### Frau Dr. Yvonne Roger
-
+Prof. Andrea Hoffmann
+Dr. Yvonne Roger
+Dr. Nico Jäschke
+Annika Hamm
+Sohila Schiedlmeier
+Laura Burmeister
 
 
 
