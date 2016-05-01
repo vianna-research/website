@@ -9,4 +9,4 @@ Laura Burmeister
 
 
 
-Telefonnummern sind 7258, 7289, 7260 und 7261.
+Phone numbers: 7258, 7289, 7260 and 7261.
