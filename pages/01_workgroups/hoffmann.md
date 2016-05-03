@@ -1,6 +1,6 @@
 title: Hoffmann Lab - Graded Implants and Regenerative Strategies
 
-The group “Graded Implants and Regenerative Strategies” [www.lbb-mhh.de/index.php?id=1417&L=1] (www.lbb-mhh.de) located within the department of Orthopaedic Surgery (Prof. Dr. H. Windhagen) and headed by Prof. Dr. Andrea Hoffmann performs basic research to investigate important factors involved in the function of human mesenchymal stem cells (MSCs). Through biochemical, molecular biological and cell biological methods the understanding of fundamental principles of stem cell functions under normal and inflammatory conditions shall be improved. The factors investigated contribute to maintenance of stem cell characteristics and the so-called potency of stem cells, or they guide differentiation of the stem cells into distinct cell types. This differentiation capacity can be altered in inflammatory conditions. **“Factors” in narrower sense** are genes or proteins, e.g. growth and transcription factors like bone morphogenetic proteins 2 (BMP2) or constitutively active Smad8, so-called surface antigens of cells or signal mediators like transforming growth factor-beta activated kinase 1 (TAK1) which control biological processes. **“Factors” in the broader sense** can also imply native or genetically modified (stem) cells.
+The group “Graded Implants and Regenerative Strategies” [www.lbb-mhh.de/index.php?id=1417&L=1] located within the department of Orthopaedic Surgery (Prof. Dr. H. Windhagen) and headed by Prof. Dr. Andrea Hoffmann performs basic research to investigate important factors involved in the function of human mesenchymal stem cells (MSCs). Through biochemical, molecular biological and cell biological methods the understanding of fundamental principles of stem cell functions under normal and inflammatory conditions shall be improved. The factors investigated contribute to maintenance of stem cell characteristics and the so-called potency of stem cells, or they guide differentiation of the stem cells into distinct cell types. This differentiation capacity can be altered in inflammatory conditions. **“Factors” in narrower sense** are genes or proteins, e.g. growth and transcription factors like bone morphogenetic proteins 2 (BMP2) or constitutively active Smad8, so-called surface antigens of cells or signal mediators like transforming growth factor-beta activated kinase 1 (TAK1) which control biological processes. **“Factors” in the broader sense** can also imply native or genetically modified (stem) cells.
 
 Our aim is to develop procedures for isolation and cultivation of MSCs by improved materials, coatings, surface structuring or medium additives in the long term in order to enhance the clinical use of MSCs. We focus on the following questions:
 
@@ -29,7 +29,7 @@ Although in principle we focus on basic research it is also our aim to elaborate
 
 -   The role of the enzyme (kinase) TAK1 in rheumatoid arthritis
   
--   Research Unit FOR 2180 [www.gradierte-implantate.de](www.gradierte-implantate.de)
+-   Research Unit FOR 2180 [www.gradierte-implantate.de]
 
 
 ## Cooperation partners
@@ -37,7 +37,7 @@ Although in principle we focus on basic research it is also our aim to elaborate
 -   Hannover Medical School
     *    Laryngology, Rhinology and Otology (Prof. T. Lenarz, PD Dr. A. Warnecke)
     *    Neurology (Prof. M. Stangel, Prof. S. Petri)
-    *   Dental Prosthetics (Prof. M. Stiesch, Dr. A. Win¬kel)
+    *   Dental Prosthetics (Prof. M. Stiesch, Dr. A. Winkel)
     *   Cellular Therapeutics (Prof. U. Köhl)
     *   Physiological Chemistry (Prof. T. Tamura)
     *   Transfusion Medicine (Prof. R. Blasczyk, PD Dr.T. Müller)
