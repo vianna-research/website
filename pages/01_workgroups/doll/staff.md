@@ -5,18 +5,18 @@ title: Staff
 
 ||Head of research group        |   |
 |--------------|:---------------|----|
-|![Image Theo Doll](Theo.png)|[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
+|![Image Theo Doll](Doll2.png)|[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
 
 
 
 ||Team Assistant          |   |
 |--------------|:---------------------|------|
-|![Image Bettina Goede](Bettina.jpg) | Bettina Goede	| goede.bettina@mh-hannover.de|
+|![Image Bettina Goede](Betti.jpg) | Bettina Goede	| goede.bettina@mh-hannover.de|
 |                                   |                 |	Phone: +49 (0)511 532 7235 |
 
 |Technical Staff|                     |      |
 |--------------|---------------------|------|
-| | Michaela Kreienmeyer	|	kreienmeyer.michaela(at)mh-hannover.de     |
+|![Michaela Kreienmeyer](Michaela.jpg) | Michaela Kreienmeyer	|	kreienmeyer.michaela(at)mh-hannover.de     |
 
 ||Research Team      |  |
 |---------|:------|------|
@@ -29,12 +29,15 @@ title: Staff
 
 |  |Students   |
 |-----------|-------------|
+|Adrian Boos | Student Project|
 |Fabian Borrmann | Bachelor Thesis|
 |Markus Buddensieck | Bachelor Thesis|
+|Andrej Fendel, B. Sc.|Student Project|
 |Lennart Guntenhöner |Medical Doctorate Thesis |
 |Steffen Hadeler|Student Project|
 |Wiebke Kossow, B.Eng. | Master Thesis|
 |Georg Leuteritz, B. Sc. | Master Thesis|
 |Bingrui Li, B. Sc. | Master Thesis|
-|Sheridan Renzi | Student Projekt|
+|Bich Ngoc, B. Sc.| Student Project|
+|Tan Tan, B- Sc. | Student Project|
 |Annette Winter | Medical Doctorate Thesis|
