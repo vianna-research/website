@@ -4,7 +4,7 @@ title: Mitarbeiter
 
 |Arbeitsgruppenleiter|                |     |
 |--------------|---------------|----|
-|![Image Theo Doll](doll.jpg)|[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
+|![Image Theo Doll](doll2.png)|[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
 
 
 
