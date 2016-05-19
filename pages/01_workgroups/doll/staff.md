@@ -16,7 +16,7 @@ title: Staff
 
 |Technical Staff|                     |      |
 |--------------|---------------------|------|
-|![Michaela Kreienmeyer](Michaela.jpg) | Michaela Kreienmeyer	|	kreienmeyer.michaela(at)mh-hannover.de     |
+|![Michaela Kreienmeyer](Michaela.png) | Michaela Kreienmeyer	|	kreienmeyer.michaela(at)mh-hannover.de     |
 
 |Research Team  |    |  |
 |---------|:------|------|
