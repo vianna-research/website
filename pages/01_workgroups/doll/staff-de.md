@@ -4,18 +4,18 @@ title: Mitarbeiter
 
 |Arbeitsgruppenleiter|                |     |
 |--------------|---------------|----|
-|![Image Theo Doll](Theo.png)|[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
+|![Image Theo Doll](doll.jpg)|[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
 
 
 
 |Teamassistentin|                     |      |
 |--------------|---------------------|------|
-|![Image Bettina Goede](Bettina.jpg) | Bettina Goede	|	goede.bettina@mh-hannover.de     |
+|![Image Bettina Goede](Betti.jpg) | Bettina Goede	|	goede.bettina@mh-hannover.de     |
 |    |   |Phone: +49 (0)511 532 7235|
 
 |Technische Mitarbeiter|                     |      |
 |--------------|---------------------|------|
-| | Michaela Kreienmeyer	|	kreienmeyer.michaela(at)mh-hannover.de     |
+|![Image Michaela Kreienmeyer](Michaela.jpg) | Michaela Kreienmeyer	|	kreienmeyer.michaela(at)mh-hannover.de     |
 
 
 |Wissenschaftliche Mitarbeiter|             |    |
@@ -28,14 +28,17 @@ title: Mitarbeiter
 
 |Studenten|             |
 |-----------|-------------|
+|Adrian Boos | Projektarbeit|
 |Fabian Borrmann | Bachelorarbeit|
 |Markus Buddensieck | Bachelorarbeit|
+|Andrej Fendel, B. Sc. | Projektarbeit|
 |Lennart Guntenhöner |Promotion Dr. med. |
 |Steffen Hadeler | Projektarbeit|
 |Wiebke Kossow, B.Eng. |  Masterarbeit|
 |Georg Leuteritz, B. Sc. |  Masterarbeit|
 |Bingrui Li, B. Sc. |Masterarbeit|
-|Sheridan Renzi | Projektarbeit|
+|Bich Ngoc, B. Sc.| Projektarbeit|
+|Tan Tan, B. Sc.| Projektarbeit|
 |Annette Winter | Promotion Dr. med.|
 
 
