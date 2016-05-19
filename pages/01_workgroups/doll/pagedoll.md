@@ -2,7 +2,7 @@ title: Prof. Dr.-Ing Theodor Doll
 
 
 
-![Profile photo of Theo Doll](doll1.png)
+![Theo Doll](Doll.png)
 
 
 ### Academic Education
