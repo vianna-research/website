@@ -3,13 +3,13 @@ title: Staff
 ![Image group](Gruppe.png)
 
 
-||Head of research group        |   |
+|Head of research group|        |   |
 |--------------|:---------------|----|
 |![Image Theo Doll](Doll2.png)|[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
 
 
 
-||Team Assistant          |   |
+|Team Assistant   |       |   |
 |--------------|:---------------------|------|
 |![Image Bettina Goede](Betti.jpg) | Bettina Goede	| goede.bettina@mh-hannover.de|
 |                                   |                 |	Phone: +49 (0)511 532 7235 |
@@ -18,7 +18,7 @@ title: Staff
 |--------------|---------------------|------|
 |![Michaela Kreienmeyer](Michaela.jpg) | Michaela Kreienmeyer	|	kreienmeyer.michaela(at)mh-hannover.de     |
 
-||Research Team      |  |
+|Research Team  |    |  |
 |---------|:------|------|
 |![Image Maria Höfer](Maria.png) | Dr. rer. nat. Maria Höfer | hoefer.maria(at)mh-hannover.de |
 |   | Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|
@@ -27,7 +27,7 @@ title: Staff
 
 
 
-|  |Students   |
+|  Students   ||
 |-----------|-------------|
 |Adrian Boos | Student Project|
 |Fabian Borrmann | Bachelor Thesis|
