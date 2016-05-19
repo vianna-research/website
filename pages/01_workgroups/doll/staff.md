@@ -11,7 +11,7 @@ title: Staff
 
 |Team Assistant   |       |   |
 |--------------|:---------------------|------|
-|![Image Bettina Goede](Betti.jpg) | Bettina Goede	| goede.bettina@mh-hannover.de|
+|![Image Bettina Goede](Betti.png) | Bettina Goede	| goede.bettina@mh-hannover.de|
 |                                   |                 |	Phone: +49 (0)511 532 7235 |
 
 |Technical Staff|                     |      |
