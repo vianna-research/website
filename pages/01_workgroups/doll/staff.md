@@ -41,3 +41,4 @@ title: Staff
 |Bich Ngoc, B. Sc.| Student Project|
 |Tan Tan, B- Sc. | Student Project|
 |Annette Winter | Medical Doctorate Thesis|
+|Eugen Zukin| Student Assistent|
