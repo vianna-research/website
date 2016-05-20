@@ -40,5 +40,6 @@ title: Mitarbeiter
 |Bich Ngoc, B. Sc.| Projektarbeit|
 |Tan Tan, B. Sc.| Projektarbeit|
 |Annette Winter | Promotion Dr. med.|
+|Eugen Zukin | HiWi |
 
 
