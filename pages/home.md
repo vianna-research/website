@@ -9,7 +9,11 @@ status: hidden
 
 The Joint Research Institute of AudioNeuroTechnology (VIANNA) of the Medical University Hannover (MHH) investigates possibilites of artificial stimulation of nervous tissue focused on the auditory system. The research topics include basic research on hearing loss and its consequences for the brain, as well as development of new stimulation strategies (prosthetic devices) in the peripheral and central nervous system. We work on improvemtns of cochlear implants using pulsed laser light, using biohybrid techniques, but we also focus on implantable prostheses in the middle ear and experiment with nanomaterials for stimulation purposes. We test different techniques for delivering drugs into the inner ear. We investigate how the brain adapts to hearing loss, particularly congenital deafness, and how neuroplasticity can be used for the optimal adaptation to prosthetic hearing. In collaboration with several industrial partners we help to develop new stimulation strategies but also to test new prototypes of auditory prostheses.
 
-In the insitute more than 50 scientists from different disciplines collaborate on research on prosthetic devices and hearing loss. Their expertise includes medicine, physics, engineering, neurophysiology, neurology and chemistry. We work on topics of biomechanics, electrical engineering and signal processing, electrophysiology and human imaging, neuroscience, robotics, histology and molecular biology. 
+The institute was established in 2009 with the appointment of the new chair of auditory neuroscience and the scientific director of the institute, Prof. A. Kral. The institute was officially opened by the Ministry of Education of Lower Saxony, Prof. J. Wanka, and the president of the MHH, Prof. D. Bitter-Suermann, on January 17, 2011. 
+
+The institute is lead by Prof. A. Kral in the domain of science and technology and Prof. Th. Lenarz in the domain of clinical and industrial translation. 
+
+Currently 65 researchers from different disciplines collaborate on prosthetic devices and hearing loss. Their expertise includes medicine, physics, engineering, neurophysiology, neurology and chemistry. We work on topics of biomechanics, electrical engineering and signal processing, electrophysiology and human imaging, neuroscience, robotics, histology and molecular biology. 
 
 
 
