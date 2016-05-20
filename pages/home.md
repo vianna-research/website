@@ -50,7 +50,6 @@ Name                                                                     | Logo
 [PhD Programm Auditory Sciences][auditorysciences]                       | ![Logo-auditorysciences](http://www.neuroprostheses.com/AuditorySciences/Main_files/2-logo%20phd%20programm%20auditory%20sciences.png)
 [Zentrum für Systemische Neurowissenschaften Hannover, ZSN][ZSN]         | [![ZSN](zsn.gif)][ZSN]
 [Audiologie Initiative Niedersachsen - Auditory Valley][Auditory Valley] | [![Audiologie Initiative Niedersachsen - Auditory Valley (Logo)](auditory_valley.jpg)][Auditory Valley]
-[PhD Programm Hören][PhD Hearing]                                        | [![Promotionsprogramm Hören (Logo)](promotionsprogramm_hoeren_logo.jpg)][PhD Hearing]
 
 
 
