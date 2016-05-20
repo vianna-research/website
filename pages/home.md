@@ -22,8 +22,8 @@ The institute receives funding from DFG, BMBF, EU, NIH and industrial partners (
 
 VIANNA     |
 -----------|---------------------------
-Directors: | [Prof. Dr. Dr. med. A. Kral, head of research](http://www.neuroprostheses.com/)
-           | [Prof. Prof. h. c. Dr. med. T. Lenarz, head of translation](http://www.mhh-hno.de)
+Directors: | [Prof. Dr. Dr. med. A. Kral, science](http://www.neuroprostheses.com/)
+           | [Prof. Prof. h. c. Dr. med. T. Lenarz, translation](http://www.mhh-hno.de)
 Address:   | VIANNA
            | Stadtfelddamm 34
            | 30625 Hannover
