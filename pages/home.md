@@ -62,4 +62,3 @@ Name                                                                     | Logo
 
 [Auditory Valley]: http://www.hoertech.de/ain/web/audiologie-initiative/index.shtml
 
-[PhD Hearing]: http://www.phd-program-hearing.de
