@@ -3,6 +3,8 @@ title: Publications
 2016
 ---
 * Dispersed Hydrogel Actuator for Modiolar Hugging Cochlear Implant Electrode Arrays; Jan Stieghorst and Theodor Doll; IEEE Transactions on Biomedical Engineering; DOI 10.1109/TBME.2016.2524663
+*	Toward 3D printing of medical implants: Reduced lateral droplet spreading of silicone rubber under intense IR curing; Jan Stieghorst, Daniel Majaura, Henning Wevering and Theodor Doll,  ACS Appl. Mater. Interfaces; DOI:10.1021/acsami.5b12728 
+* Residual Rubber Shielded Multi Wall Carbon Nanotube Electrodes for Neural Interfacing in Active Medical Implants; Katharina Tegtmeier, Pooyan Aliuos, Thomas Lenarz and Theodor Doll; Physics in Medicine, DOI: 10.1016/j.phmed.2016.04.001; accepted
 
 2015
 ---
@@ -35,6 +37,11 @@ before 2013
 
 
 #Conferences
+**2016**
+---
+
+Abstracts submitted to EnFI 2016, Eurosensors 2016, BMT Dreiländertagung and MNE 2016, awaiting notification.
+
 **2015**
 ----
 **Deutscher HNO-Kongress** - 86. Jahrestagung der Deutschen Gesellschaft für HNO-Heilkunde   
