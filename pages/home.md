@@ -17,7 +17,7 @@ Currently 65 researchers from different disciplines collaborate on prosthetic de
 
 The institute is a funding part of the DFG Cluster of Excellence "Hearing4All" with PIs T. Doll, A. Kral, Th. Lenarz, H. Maier, O. Majdani and A. Warnecke. We are part of several structured graduation programms, including the PhD Programm Auditory Sciences of the HBRS.
 
-The institute receives funding from DFG, BMBF, EU, NIH and industrial partners (Cochlear Ltd., MedEl Comp., Advanced Bionics, Blackrock). 
+The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industrial partners (Cochlear Ltd., MedEl Comp., Advanced Bionics, Blackrock). 
 
 
 VIANNA     |
