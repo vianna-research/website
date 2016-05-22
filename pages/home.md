@@ -13,9 +13,11 @@ The Joint Research Institute of AudioNeuroTechnology (VIANNA) of the Medical Uni
 
 In collaboration with several industrial partners we help to develop and test new stimulation strategies and new prototypes of auditory prostheses. 
 
-The institute was established in 2009 with the appointment of the new chair of auditory neuroscience and the scientific director of the institute, Prof. A. Kral. The institute was officially opened by the Ministry of Education of Lower Saxony, Prof. J. Wanka, and the president of the MHH, Prof. D. Bitter-Suermann, on January 17, 2011. 
+The institute was established in 2009 after Prof. Th. Lenarz, director of the ENT clinics, and the Medical University Hannover obtained the financial support from the State of Lower Saxony for founding the institute, for its basic equipment, and a new chaired professorship for the scientific leadership of the insitute. Prof. A. Kral, at that time Professor of Neurophysiology in Hamburg, followed the offer and was appointed Chaired Professor of Auditory Neuroscience and the scientific director of the Institute in August 2009. 
 
-Currently 65 researchers from different disciplines collaborate on prosthetic devices and hearing loss. Their expertise includes medicine, physics, engineering, neurophysiology, neurology and chemistry. We work on topics of biomechanics, electrical engineering and signal processing, electrophysiology and human imaging, neuroscience, robotics, histology and molecular biology. 
+The institute was officially opened by the Ministry of Education of Lower Saxony, Prof. J. Wanka, and the president of the MHH, Prof. D. Bitter-Suermann, on January 17, 2011. Since then the institute attracted funding from many prestigeous ageinceis for both research and infrastracture. It moved to a newly-constructed building owned by the MHH (NIFE) in 2016. 
+
+From the initial group of ~20 researches the institute has grown substantially. Currently, 65 researchers from different disciplines collaborate on prosthetic devices and hearing loss. Their expertise includes medicine, physics, engineering, neurophysiology, neurology and chemistry. We work on topics of biomechanics, electrical engineering and signal processing, electrophysiology and human imaging, neuroscience, robotics, histology and molecular biology. 
 
 The institute is a funding part of the DFG Cluster of Excellence "Hearing4All" with PIs T. Doll, A. Kral, Th. Lenarz, H. Maier, O. Majdani and A. Warnecke. We are part of several structured graduation programms, including the PhD Programm Auditory Sciences of the HBRS.
 
