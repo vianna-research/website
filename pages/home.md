@@ -6,7 +6,7 @@ save_as: index.html
 status: hidden
 <!-- The previous two lines make this the Homepage -->
 
-![Figure 1](website/VIANNA_Titel_Wenseite.jpeg)
+![Figure 1](VIANNA_Titel_Wenseite.jpeg)
 
 
 The Joint Research Institute of AudioNeuroTechnology (VIANNA) of the Medical University Hannover (MHH) investigates possibilites of artificial stimulation of nervous tissue focused on the auditory system. The research topics include basic research on hearing loss and its consequences for the brain, as well as development of new stimulation strategies (prosthetic devices) in the peripheral and central nervous system. We work on improvements of cochlear implants using pulsed laser light, using biohybrid techniques, but we also focus on implantable prostheses in the middle ear and experiment with nanomaterials for stimulation purposes. We test different techniques for delivering drugs into the inner ear. We investigate how the brain adapts to hearing loss, particularly congenital deafness, and how neuroplasticity can be used for the optimal adaptation to prosthetic hearing. In collaboration with several industrial partners we help to develop new stimulation strategies but also to test new prototypes of auditory prostheses.
@@ -20,7 +20,7 @@ The institute is a funding part of the DFG Cluster of Excellence "Hearing4All" w
 The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industrial partners (Cochlear Ltd., MedEl Comp., Advanced Bionics, Blackrock). 
 
 
-![Figure 2](website/VIANNA_Schild.jpg)
+![Figure 2](VIANNA_Schild.jpg)
 
 VIANNA     |
 -----------|---------------------------
