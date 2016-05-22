@@ -5,9 +5,10 @@ title: Kral Lab - Auditory Neuroscience
 ![Figure 1](RTEmagicC_KralBilder_03.jpg)
 
 
-We focus our research on neuroprosthetic devices, i.e. methods of artificial stimulation of the nervous system. So far, the cochlear implant has been the clinically most successful neuroprosthetic device. We work on further improvements of this prosthetic device and search for alternative ways of the stimulation of the brain.
-
 Replacing a lost brain function by a neuroprosthesis requires to understand how neuronal assemblies represent the world and how neuronal circuits process information. We focus on the consequences of lost functions on information processing in the brain. As postnatal development of the brain depends on experience, the most devastating effects of lost functions are observed when deprivation starts in childhood. Our lab investigates how congenital auditory deprivation (deafness) affects the neuronal networks of the auditory system. We could show that some feature sensitivity is rudimentary preserved in the auditory cortex of congenitally deaf, whereas e.g. cortical interactions and binaural representations show extensive alterations. In it‘s ultimate consequence, congenital deafness leads to the inability to represent auditory stimuli and to learn. We could for the first time describe a neural correlate of a developmental sensitive (critical) period - the earier the restoration of hearing with cochlear implant is performed, the faster and better is the adaptation to the implant.
+
+We further focus our research on bioengineering aspects of neuroprosthetic devices, i.e. methods of artificial stimulation of the nervous system. So far, the cochlear implant has been the clinically most successful neuroprosthetic device. We work on further improvements of this prosthetic device and search for alternative ways of the stimulation of the brain.
+
 
 ## Staff
 [see the Lab's website](http://www.neuroprostheses.com).
