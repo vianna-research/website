@@ -19,6 +19,7 @@ Replacing a lost brain function by a neuroprosthesis requires to understand how 
 -   [Single-Sided Deafness](http://neuroprostheses.com/AK/Single-sided_deafness.html)
 -   [Deafness and Space](http://neuroprostheses.com/AK/Binaural_CIs.html)
 -   [Crossmodal Plasticity](http://www.neuroprostheses.com/AK/Crossmodal_plasticity.html)
+-   [Deaf Cognition](http://www.neuroprostheses.com/AK/Deaf_Cognition.html)
 -   [Morphology of the Cochlea](http://www.neuroprostheses.com/AK/Cochlear_anatomy.html)
 -   [“Hearing” Light](http://neuroprostheses.com/AK/Laser_prosthesis.html)
 -   [Anaesthesia & the Cortex](http://neuroprostheses.com/MouseLab/Burst-Suppression.html)
