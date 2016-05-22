@@ -9,7 +9,9 @@ status: hidden
 ![Figure 1](VIANNA_Titel_Wenseite.png)
 
 
-The Joint Research Institute of AudioNeuroTechnology (VIANNA) of the Medical University Hannover (MHH) investigates possibilites of artificial stimulation of nervous tissue focused on the auditory system. The research topics include basic research on hearing loss and its consequences for the brain, as well as development of new stimulation strategies (prosthetic devices) in the peripheral and central nervous system. We work on improvements of cochlear implants using pulsed laser light, using biohybrid techniques, but we also focus on implantable prostheses in the middle ear and experiment with nanomaterials for stimulation purposes. We test different techniques for delivering drugs into the inner ear. We investigate how the brain adapts to hearing loss, particularly congenital deafness, and how neuroplasticity can be used for the optimal adaptation to prosthetic hearing. In collaboration with several industrial partners we help to develop new stimulation strategies but also to test new prototypes of auditory prostheses.
+The Joint Research Institute of AudioNeuroTechnology (VIANNA) of the Medical University Hannover (MHH) investigates possibilites of artificial stimulation of nervous tissue focused on the auditory system. The research topics include basic research on hearing loss and its consequences for the brain, as well as development of new stimulation strategies (prosthetic devices) in the peripheral and central nervous system. We work on improvements of cochlear implants using pulsed laser light, using biohybrid techniques, but we also focus on implantable prostheses in the middle ear and experiment with nanomaterials for stimulation purposes and test different techniques for delivering drugs into the inner ear. Furthermore, we explore how the brain adapts to hearing loss, particularly congenital deafness, and how neuroplasticity can be used for the optimal adaptation to prosthetic hearing. 
+
+In collaboration with several industrial partners we help to develop and test new stimulation strategies and new prototypes of auditory prostheses. 
 
 The institute was established in 2009 with the appointment of the new chair of auditory neuroscience and the scientific director of the institute, Prof. A. Kral. The institute was officially opened by the Ministry of Education of Lower Saxony, Prof. J. Wanka, and the president of the MHH, Prof. D. Bitter-Suermann, on January 17, 2011. 
 
@@ -20,9 +22,7 @@ The institute is a funding part of the DFG Cluster of Excellence "Hearing4All" w
 The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industrial partners (Cochlear Ltd., MedEl Comp., Advanced Bionics, Blackrock). 
 
 
-![Figure 2](VIANNA_Schild.jpg)
-
-VIANNA     |
+Contact     |
 -----------|---------------------------
 Directors: | [Prof. Dr. Dr. med. A. Kral, science](http://www.neuroprostheses.com/)
            | [Prof. Prof. h. c. Dr. med. T. Lenarz, translation](http://www.mhh-hno.de)
