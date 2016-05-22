@@ -5,7 +5,7 @@ status: hidden
 
 #### Das Verbundinstitut für Audioneurotechnologie und Nanobiomaterialforschung (VIANNA)
 
-    Feodor-Lynen-Straße 35
+    Stadtfelddamm 34
     30625 Hannover
     Tel.: +49 (0)511 532 7272
     Fax: +49 (0)511 532 7274
