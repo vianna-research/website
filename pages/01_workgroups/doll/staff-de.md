@@ -37,7 +37,7 @@ title: Mitarbeiter
 |Wiebke Kossow, B.Eng. |  Masterarbeit|
 |Georg Leuteritz, B. Sc. |  Masterarbeit|
 |Bingrui Li, B. Sc. |Masterarbeit|
-|Bich Ngoc, B. Sc.| Projektarbeit|
+|Bich Ngoc Tran, B. Sc.| Projektarbeit|
 |Tan Tan, B. Sc.| Projektarbeit|
 |Annette Winter | Promotion Dr. med.|
 |Eugen Zukin | HiWi |
