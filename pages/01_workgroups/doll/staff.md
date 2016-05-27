@@ -38,7 +38,7 @@ title: Staff
 |Wiebke Kossow, B.Eng. | Master Thesis|
 |Georg Leuteritz, B. Sc. | Master Thesis|
 |Bingrui Li, B. Sc. | Master Thesis|
-|Bich Ngoc, B. Sc.| Student Project|
+|Bich Ngoc Tran, B. Sc.| Student Project|
 |Tan Tan, B- Sc. | Student Project|
 |Annette Winter | Medical Doctorate Thesis|
 |Eugen Zukin| Student Assistent|
