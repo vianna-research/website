@@ -1,5 +1,7 @@
 title: Open Positions
+status: hidden
 
+<!-- hidden until someone has a job offer/ PhD / student offer to post here -->
 
 Sorry, there are no open positions at the moment.
 
