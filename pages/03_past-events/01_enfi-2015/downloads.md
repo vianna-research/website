@@ -1,14 +1,14 @@
 title: Downloads
 
-###Download abstract templates:
+### Download abstract templates:
 
- [PDF-Version](EnFI-2015_template.pdf)   
- [Word-Template](EnFI-2015_template.doc)
+[PDF-Version](EnFI-2015_template.pdf)   
+[Word-Template](EnFI-2015_template.doc)
 
-###Download Flyer
+### Download Flyer
 
- [PDF-Version](enfi2015flyer.pdf) 
+[PDF-Version](enfi2015flyer.pdf) 
 
-###Download Book of Abstracts
+### Download Book of Abstracts
 
-[PDF-Version](abstractbook.pdf)
+[PDF-Version](/__downloads/abstractbook_enfi-2015.pdf)
