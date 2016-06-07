@@ -1,0 +1,47 @@
+﻿This is an automatically generated eMail. Please don't answer this eMail. The contact Email address is: cal-2015@mh-hannover.de.
+
+
+
+Dear ${FirstName} ${LastName},
+
+your registration formular has been submitted.
+
+Please check if the submitted data is correct. Contact us (cal-2015@mh-hannover.de), if any data is incorrect. 
+
+Affiliation: ${Affiliation} 
+
+Address: ${Address}, ${City}, ${Country}   
+
+Contact information: ${email}, ${Phone}   
+
+
+Your area of expertise
+-----------------------------
+
+Clinic / Patient Studies ${clinic}
+
+Neurophysiology / Animal Studies ${animals}
+
+Anatomy / Neurosurgery ${anatomy}
+
+Psychology / Psychophysics / Audiology ${psychology}
+
+Signal Processing / Coding ${coding}
+
+Modeling ${modeling}
+
+Technology / System Integration ${technology}
+
+Brain Conputer Interfaces ${bci}
+
+
+You will receive a registration confirmation within a few days. 
+If you don't receive a registration confirmation or have any questions concerning your registration please contact us. 
+
+We are looking forward to welcome you in Hannover in October!
+
+Your Local Organizing Team
+eMail: cal-2015@mh-hannover.de
+Phone: +49 511 532 7235
+
+
