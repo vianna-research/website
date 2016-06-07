@@ -27,6 +27,18 @@ The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industria
 {style="padding-bottom:20em;"} <!-- the style says we want extra space below this line -->
 
 
+
+## News: Press releases (in German):
+
+
+- [Hearing and cognition are tighly related - paper in Lancet Neurology 2016](https://www.mh-hannover.de/46.html?&tx_ttnews%5Btt_news%5D=4495&cHash=9372250e91868167c310b0d3a8c1a088)
+
+- [Lower Saxony funds research excellence at MHH (DE)](https://www.mh-hannover.de/46.html?&tx_ttnews%5Btt_news%5D=4513&cHash=e49273834517320895694558489ed500)
+
+
+* * * * * * * * * * * * *
+
+
 Contact                 |
 ------------------------|---------------------------
 Directors:<br>          | [Prof. Dr. Dr. med. A. Kral, science](http://www.neuroprostheses.com/) <br> [Prof. Prof. h. c. Dr. med. T. Lenarz, translation](http://www.mhh-hno.de)
@@ -36,14 +48,7 @@ Fax:                    | +49 (0)511 532 7274
 E-Mail:                 | Secretary of Prof. Kral: <sekretariat@vianna.de>
 
 
-* * * * * * * * * * * * *
 
-## News: Press releases (in German):
-
-
-- [Hearing and cognition are tighly related - paper in Lancet Neurology 2016](https://www.mh-hannover.de/46.html?&tx_ttnews%5Btt_news%5D=4495&cHash=9372250e91868167c310b0d3a8c1a088)
-
-- [Lower Saxony funds research excellence at MHH (DE)](https://www.mh-hannover.de/46.html?&tx_ttnews%5Btt_news%5D=4513&cHash=e49273834517320895694558489ed500)
 
 
 ## Cooperations
