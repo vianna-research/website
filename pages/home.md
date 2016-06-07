@@ -23,10 +23,11 @@ The institute is a funding part of the DFG Cluster of Excellence "Hearing4All" w
 
 The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industrial partners (Cochlear Ltd., MED-EL, Advanced Bionics, Blackrock).
 
-  
-  
-  
-  
+
+<br>
+<br>
+<br>
+<br>
 
 ## News: Press releases (in German):
 
