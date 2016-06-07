@@ -23,15 +23,13 @@ The institute is a funding part of the DFG Cluster of Excellence "Hearing4All" w
 
 The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industrial partners (Cochlear Ltd., MedEl Comp., Advanced Bionics, Blackrock). 
 
+* * * * * * * * * * * * *
 
-Contact     |
+
+Contact    |
 -----------|---------------------------
-Directors: | [Prof. Dr. Dr. med. A. Kral, science](http://www.neuroprostheses.com/)
-           | [Prof. Prof. h. c. Dr. med. T. Lenarz, translation](http://www.mhh-hno.de)
-Address:   | VIANNA
-           | Stadtfelddamm 34
-           | 30625 Hannover
-           | Deutschland
+Directors: | [Prof. Dr. Dr. med. A. Kral, science](http://www.neuroprostheses.com/) <br> [Prof. Prof. h. c. Dr. med. T. Lenarz, translation](http://www.mhh-hno.de)
+Address:   | VIANNA <br> Stadtfelddamm 34 <br> 30625 Hannover <br> Deutschland
 Phone:     | +49 (0)511 532 7272
 Fax:       | +49 (0)511 532 7274
 E-Mail:    | Secretary of Prof. Kral: <sekretariat@vianna.de>
