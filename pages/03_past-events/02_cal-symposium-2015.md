@@ -2,12 +2,12 @@ title: CAL Symposium 2015
 
 # Closing the Auditory Loop 
 
-![Logo CAL 2015](04_cal-symposium-2015/cal23.png){style="width:27%"}
+![Logo CAL 2015](02_cal-symposium-2015/cal23.png){style="width:27%"}
 
 <br style="clear:both">
 
 ## Thank you to all participants for their contributions!
-![Group Picture](04_cal-symposium-2015/group_pic.png){.img-rounded}
+![Group Picture](02_cal-symposium-2015/group_pic.png){.img-rounded}
 
 ### About
 
@@ -19,7 +19,7 @@ As we come from existing clinical practice, we reflect mature hearing aids or re
 
 The symposium is sponsored by the German Volkswagen Foundation and will be held in the famous Herrenhausen castle within a rewarding framework.
 
-![Schloss Herrenhausen](04_cal-symposium-2015/ssh_cropped.png){.img-rounded}
+![Schloss Herrenhausen](02_cal-symposium-2015/ssh_cropped.png){.img-rounded}
 
 ### Aims and Execution
 
@@ -41,7 +41,7 @@ Besides known experts in their fields we will include young researchers, industr
 
 ### Results
 
-An abstract booklet including the abstracts for all talks and posters, as well as the program and a list of participants is available for [download](04_cal-symposium-2015/abstractbooklet_cal_2015.pdf).
+An abstract booklet including the abstracts for all talks and posters, as well as the program and a list of participants is available for [download](/__downloads/abstractbooklet_cal_2015.pdf).
 
 The program consist of:
 
@@ -85,6 +85,6 @@ Contact Information
 ----------------------------
 ### With the kind support of
 
-![Logo VW Stiftung](04_cal-symposium-2015/LogoVW.gif)
+![Logo VW Stiftung](02_cal-symposium-2015/LogoVW.gif)
 
-![Logo Hearing4all](04_cal-symposium-2015/h4a_logo_long3.png){.img-rounded}
+![Logo Hearing4all](02_cal-symposium-2015/h4a_logo_long3.png){.img-rounded}
