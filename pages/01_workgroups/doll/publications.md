@@ -39,8 +39,18 @@ before 2013
 #Conferences
 **2016**
 ---
+**EnFI 2015** - Engineering of Functional Interfaces
 
-Abstracts submitted to EnFI 2016, Eurosensors 2016, BMT Dreiländertagung and MNE 2016, awaiting notification.
+* Poster & Abstract: G. Leuteritz, W. Kossow, J. Stieghorst and [T. Doll](pagedoll.html): Analysis of Bonding Strength and Spreading of Multilayer Silicone Rubber Interfaces for Medical Rapid Prototyping 
+* Poster & Abstract: W. Kossow, G. Leuteritz, J. Stieghorst and [T. Doll](pagedoll.html): Investigation of Silicone Rubber Interfaces for Medical Rapid Prototyping
+* Poster & Abstract: K. Tegtmeier, D. Manikowski, B. Andrée and [T. Doll](pagedoll.html): Cell recording on wet etched carbon nanotube-silicone rubber electrode surfaces
+* Poster & Abstract: L. Guntenhöner, K. Tegtmeier and [T. Doll](pagedoll.html): BDNF diffusion through membranes for guided neurite growth
+* Poster & Abstract: A. Winter, K. Tegtmeier, D. Schaudien, T. Tillmann, S. Rittinghausen, C. Dasenbrock, S. Kurt and [T. Doll](pagedoll.html): Biocompatibility of Carbon nanotube silicone rubber in animal model (mouse)
+
+**Eurosensors 2016**
+
+* Poster & Abstracts: K. Tegtmeier, F. Borrmann and [T. Doll](pagedoll.html): Wet-etch induced changed in impedance of carbon nanotube-silicone rubber electrode materials for active implants, 2016
+* Poster & Abstracts: J. Stieghorst, D. Beckmann and [T. Doll](pagedoll.html): Hydrogel-Based Actuation for Modiolar Hugging Cochlear Implant Electrode Arrays, 2016
 
 **2015**
 ----
