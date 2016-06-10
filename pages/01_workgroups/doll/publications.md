@@ -46,6 +46,7 @@ before 2013
 * Poster & Abstract: K. Tegtmeier, D. Manikowski, B. Andrée and [T. Doll](pagedoll.html): Cell recording on wet etched carbon nanotube-silicone rubber electrode surfaces
 * Poster & Abstract: L. Guntenhöner, K. Tegtmeier and [T. Doll](pagedoll.html): BDNF diffusion through membranes for guided neurite growth
 * Poster & Abstract: A. Winter, K. Tegtmeier, D. Schaudien, T. Tillmann, S. Rittinghausen, C. Dasenbrock, S. Kurt and [T. Doll](pagedoll.html): Biocompatibility of Carbon nanotube silicone rubber in animal model (mouse)
+* Poster & Abstract: J.P. Marcoleta, W. Nogueira and [T. Doll](pagedoll.html): Distributed multiplexing system for ECoG
 
 **Eurosensors 2016**
 
