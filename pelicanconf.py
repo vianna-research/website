@@ -10,7 +10,8 @@ ABOUT_ME = " "
 LINKS = [['Impressum', "/impressum.html"],
          ['MHH Homepage', "http://mh-hannover.de"],
          ['NIFE', "http://nife-hannover.de"],
-         ['Hearing4all', "http://www.neuroprostheses.com/AK/Hearing4all.html"]]
+         ['Hearing4all', "http://www.neuroprostheses.com/AK/Hearing4all.html"],
+         ['Hearing4all (official)', "http://hearing4all.eu"]]
 
 TIMEZONE = 'Europe/Berlin'
 
