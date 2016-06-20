@@ -1,6 +1,8 @@
 title: Publications
 
 ##2016
+- N. Kallweit, P. Baumhoff, A. Krueger, N. Tinne, A. Kral, T. Ripken, and H. Maier: [**Optoacoustic effect is responsible for laser-induced cochlear responses.**](http://www.nature.com/articles/srep28141) Sci. Rep. vol. 6, no. February, pp. 28141, 2016.
+
 - Grossöhmichen M, Salcher R, Lenarz T, Maier H. [**The Effect of Simulated Mastoid Obliteration on the Mechanical Output of Electromagnetic Transducers.**](http://journals.lww.com/otology-neurotology/Abstract/publishahead/The_Effect_of_Simulated_Mastoid_Obliteration_on.97334.aspx) Otol. Neurotol. 2016. [Epub ahead of print] doi:10.1097/MAO.0000000000001062
 
 - Gerdes T, Salcher RB, Schwab B, Lenarz T, Maier H. [**Comparison of Audiological Results Between a Transcutaneous and a Percutaneous Bone Conduction Instrument in Conductive Hearing Loss.**](http://www.ncbi.nlm.nih.gov/pubmed/27093021) Otol Neurotol. 2016 Apr 15. [Epub ahead of print] PubMed PMID: 27093021. doi: 10.1097/MAO.0000000000001010.
