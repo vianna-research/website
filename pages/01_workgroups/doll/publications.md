@@ -52,6 +52,11 @@ before 2013
 
 * Poster & Abstracts: K. Tegtmeier, F. Borrmann and [T. Doll](pagedoll.html): Wet-etch induced changed in impedance of carbon nanotube-silicone rubber electrode materials for active implants, 2016
 * Poster & Abstracts: J. Stieghorst, D. Beckmann and [T. Doll](pagedoll.html): Hydrogel-Based Actuation for Modiolar Hugging Cochlear Implant Electrode Arrays, 2016
+ 
+
+**BMT 2016** - Dreiländertagung der Biomedizinischen Technik
+
+* Presentation: K. Tegtmeier, F. Borrmann, D. Manikowski, B. Andrée, T. Lenarz and [T. Doll](pagedoll.html): Changes in impedance and cell recording by surface etching of a carbon nanotube-silicone rubber electrode material
 
 **2015**
 ----
