@@ -21,6 +21,7 @@ title: Prof. Dr.-Ing Theodor Doll
 <div class="borderless" markdown="1">
 |             |                                              |
 |-------------|----------------------------------------------|
+| since 2016  | Coordinator of Business Unit Translational Medical Engineering at Fraunhofer ITEM            |
 | since 2013  | Professorship in Biomaterial Engineering at Hannover Medical School                          |
 | 2006 - 2012 | Chief Scientist at Application and competence center for heterogeneous microsystems Dortmund |
 | 2004 - 2009 | Professor microstructure physics, Johannes Gutenberg University Mainz                        |
@@ -43,6 +44,9 @@ title: Prof. Dr.-Ing Theodor Doll
 [Hearing for All Homepage](http://hearing4all.eu/EN/)
 
 [MHH - Research Group at the Otolaryngology Department](http://www.mh-hannover.de/18078.98.html?&L=1&no_cache=1)
+
+[Fraunhofer ITEM - Translational Medical Engineering](http://www.item.fraunhofer.de/en/services_expertise/medical_engineering.html)
+
 ***
 
 **Contact Information:**
