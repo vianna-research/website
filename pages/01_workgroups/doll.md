@@ -16,13 +16,17 @@ Adress:
 
     BioMaterial Engineering
     Medizinische Hochschule Hannover
-    Feodor-Lynen-Straße 27
+    Stadtfelddamm 34
+    30625 Hannover
+    
+    Translationale Medizintechnik
+    Fraunhofer ITEM
+    Nikolai-Fuchs-Str. 1 (Eingang am Stadtfelddamm)
     30625 Hannover
 
 Contact Information:
 
-    Phone: +49 511 532 7235
-    Fax: +49 511 532 18576
+    Phone: +49 511 532 7235 or or +49 (0)511 5350 247
     Mail: biomaterialengineering(@)mh-hannover.de
 
 A list of the staff can be found [here](doll/staff.html).
