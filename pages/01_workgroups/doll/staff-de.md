@@ -11,7 +11,7 @@ title: Mitarbeiter
 |Teamassistentin|                     |      |
 |--------------|---------------------|------|
 |![Image Bettina Goede](Betti.png) | Bettina Goede	|	goede.bettina@mh-hannover.de     |
-|    |   |Phone: +49 (0)511 532 7235|
+|    |   |Phone: +49 (0)511 532 7235 oder +49 (0)511 5350 247|
 
 |Technische Mitarbeiter|                     |      |
 |--------------|---------------------|------|
@@ -28,12 +28,11 @@ title: Mitarbeiter
 
 |Studenten|             |
 |-----------|-------------|
-|Adrian Boos | Projektarbeit|
-|Fabian Borrmann | Bachelorarbeit|
+|Fabian Borrmann, B.Sc. | HiWi|
 |Markus Buddensieck | Bachelorarbeit|
 |Andrej Fendel, B. Sc. | Projektarbeit|
 |Lennart Guntenhöner |Promotion Dr. med. |
-|Steffen Hadeler | Projektarbeit|
+|Steffen Hadeler | Bachelorarbeit|
 |Wiebke Kossow, B.Eng. |  Masterarbeit|
 |Georg Leuteritz, B. Sc. |  Masterarbeit|
 |Bingrui Li, B. Sc. |Masterarbeit|
