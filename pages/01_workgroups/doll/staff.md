@@ -12,7 +12,7 @@ title: Staff
 |Team Assistant   |       |   |
 |--------------|:---------------------|------|
 |![Image Bettina Goede](Betti.png) | Bettina Goede	| goede.bettina@mh-hannover.de|
-|                                   |                 |	Phone: +49 (0)511 532 7235 |
+|                                   |                 |	Phone: +49 (0)511 532 7235 or +49 (0)511 5350 247 |
 
 |Technical Staff|                     |      |
 |--------------|---------------------|------|
@@ -29,12 +29,11 @@ title: Staff
 
 |  Students   ||
 |-----------|-------------|
-|Adrian Boos | Student Project|
-|Fabian Borrmann | Bachelor Thesis|
+|Fabian Borrmann, B. Sc. | Student Assistent|
 |Markus Buddensieck | Bachelor Thesis|
 |Andrej Fendel, B. Sc.|Student Project|
 |Lennart Guntenhöner |Medical Doctorate Thesis |
-|Steffen Hadeler|Student Project|
+|Steffen Hadeler|Bachelor Thesis|
 |Wiebke Kossow, B.Eng. | Master Thesis|
 |Georg Leuteritz, B. Sc. | Master Thesis|
 |Bingrui Li, B. Sc. | Master Thesis|
