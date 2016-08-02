@@ -21,7 +21,7 @@ Adress:
     
     Translationale Medizintechnik
     Fraunhofer ITEM
-    Nikolai-Fuchs-Str. 1 (Eingang am Stadtfelddamm)
+    Nikolai-Fuchs-Str. 1 (Haupteingang am Stadtfelddamm)
     30625 Hannover
 
 Contact Information:
