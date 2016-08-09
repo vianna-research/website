@@ -2,6 +2,8 @@ title: Publications
 
 ## 2016
 
+* Schwieger J, Esser KH, Lenarz T, **Scheper V**. [Establishment of a long-term spiral ganglion neuron culture with reduced glial cell number: Effects of AraC on cell composition and neurons.](http://www.sciencedirect.com/science/article/pii/S0165027016300796) J Neurosci Methods. 2016 Aug 1;268:106-16. doi: 10.1016/j.jneumeth.2016.05.001. Epub 2016 May 3.
+
 * Wilk M, Hessler R, Mugridge K, Jolly C, Fehr M, Lenarz T, **Scheper V**. [Impedance Changes and Fibrous Tissue Growth after Cochlear Implantation Are Correlated and Can Be Reduced Using a Dexamethasone Eluting Electrode.](http://www.ncbi.nlm.nih.gov/pubmed/26840740) PLoS One. 2016 Feb 3;11(2):e0147552. doi: 10.1371/journal.pone.0147552.
 
 ## 2015
