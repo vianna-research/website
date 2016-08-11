@@ -1,6 +1,8 @@
 title: Publications
 
 ## 2016
+* **Scheper V**, Leifholz M, von der Leyen H, Keller M, Denkena U, Koch A, Karch A, Miller J, Lenarz T.. [ACEMg-mediated hearing preservation in cochlear implant patients receiving different electrode lengths (PROHEARING): study protocol for a randomized controlled trial.](http://www.ncbi.nlm.nih.gov/pubmed/27502589) Trials. 2016 Aug 8;17:394. doi: 10.1186/s13063-016-1526-7
+
 
 * Schwieger J, Esser KH, Lenarz T, **Scheper V**. [Establishment of a long-term spiral ganglion neuron culture with reduced glial cell number: Effects of AraC on cell composition and neurons.](http://www.sciencedirect.com/science/article/pii/S0165027016300796) J Neurosci Methods. 2016 Aug 1;268:106-16. doi: 10.1016/j.jneumeth.2016.05.001. Epub 2016 May 3.
 
