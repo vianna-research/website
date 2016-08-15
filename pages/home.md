@@ -13,9 +13,9 @@ The Joint Research Institute of AudioNeuroTechnology (VIANNA) of the Medical Uni
 
 In collaboration with several industrial partners we help to develop and test new stimulation strategies and new prototypes of auditory prostheses. 
 
-The institute was established in 2009 after Prof. Th. Lenarz, director of the ENT clinics, and the Medical University Hannover obtained the financial support from the State of Lower Saxony for founding the institute, for its basic equipment, and a new chaired professorship for the scientific leadership of the insitute. Prof. A. Kral, at that time Professor of Neurophysiology in Hamburg, followed the offer and was appointed Chaired Professor of Auditory Neuroscience and the scientific director of the Institute in August 2009. 
+The institute was established in 2009, funded by the State of Lower Saxony. Prof. A. Kral was appointed Chaired Professor of Auditory Neuroscience and the scientific director of the Institute in August 2009, Prof. T. Lenarz heads the translational activities of the institute. 
 
-The institute was officially opened by the Ministry of Education of Lower Saxony, Prof. J. Wanka, and the president of the MHH, Prof. D. Bitter-Suermann, on January 17, 2011. Since then the institute hosted many [scientists from all continents](http://www.neuroprostheses.com/AuditorySciences/Visitors.html), attracted funding from many prestigeous agencies and expanded both its research scope and its infrastracture. It moved to a newly-constructed building owned by the MHH (called “NIFE”) in spring 2016. 
+The institute was officially opened by the Ministry of Education of Lower Saxony, Prof. J. Wanka, and the president of the MHH, Prof. D. Bitter-Suermann, on January 17, 2011. Since then the institute hosted many [scientists from all continents](http://www.neuroprostheses.com/AuditorySciences/Visitors.html), attracted funding from many prestigeous agencies and expanded both its research scope and its infrastracture. It moved to a newly-constructed building of the MHH (“NIFE”) in spring 2016. 
 
 From the initial group of ~20 researches the institute has grown substantially. Currently, 65 researchers from different disciplines collaborate on prosthetic devices and hearing loss. Their expertise includes medicine, physics, engineering, neurophysiology, neurology and chemistry. We work on topics of biomechanics, electrical engineering and signal processing, electrophysiology and human imaging, neuroscience, robotics, histology and molecular biology. 
 
@@ -29,7 +29,7 @@ The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industria
 <br>
 <br>
 
-## News: Press releases (in German):
+## News: Press releases:
 
 
 - [Hearing and cognition are tighly related - paper in Lancet Neurology 2016](https://www.mh-hannover.de/46.html?&tx_ttnews%5Btt_news%5D=4495&cHash=9372250e91868167c310b0d3a8c1a088)
