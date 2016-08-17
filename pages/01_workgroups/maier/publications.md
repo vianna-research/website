@@ -1,15 +1,17 @@
 title: Publications
 
 ##2016
-- N. Kallweit, P. Baumhoff, A. Krueger, N. Tinne, A. Kral, T. Ripken, and H. Maier: [**Optoacoustic effect is responsible for laser-induced cochlear responses.**](http://www.nature.com/articles/srep28141) Sci. Rep. vol. 6, no. February, pp. 28141, 2016.
+- Grossöhmichen M, Salcher R, Püschel K, Lenarz T, Maier H. [**Differential Intracochlear Sound Pressure Measurements in Human Temporal Bones with an Off-the-Shelf Sensor.**](www.hindawi.com/journals/bmri/2016/6059479) Biomed Res. Int. vol. 2016, Article ID 6059479, pp. 1–10, 2016. doi:10.1155/2016/6059479
 
-- Grossöhmichen M, Salcher R, Lenarz T, Maier H. [**The Effect of Simulated Mastoid Obliteration on the Mechanical Output of Electromagnetic Transducers.**](http://journals.lww.com/otology-neurotology/Abstract/publishahead/The_Effect_of_Simulated_Mastoid_Obliteration_on.97334.aspx) Otol. Neurotol. 2016. [Epub ahead of print] doi:10.1097/MAO.0000000000001062
+- N. Kallweit, P. Baumhoff, A. Krueger, N. Tinne, A. Kral, T. Ripken, H. Maier: [**Optoacoustic effect is responsible for laser-induced cochlear responses.**](http://www.nature.com/articles/srep28141) Sci. Rep. vol. 6, no. February, pp. 28141, 2016. doi:10.1038/srep28141
 
-- Gerdes T, Salcher RB, Schwab B, Lenarz T, Maier H. [**Comparison of Audiological Results Between a Transcutaneous and a Percutaneous Bone Conduction Instrument in Conductive Hearing Loss.**](http://www.ncbi.nlm.nih.gov/pubmed/27093021) Otol Neurotol. 2016 Apr 15. [Epub ahead of print] PubMed PMID: 27093021. doi: 10.1097/MAO.0000000000001010.
+- Grossöhmichen M, Salcher R, Lenarz T, Maier H. [**The Effect of Simulated Mastoid Obliteration on the Mechanical Output of Electromagnetic Transducers.**](http://journals.lww.com/otology-neurotology/Abstract/publishahead/The_Effect_of_Simulated_Mastoid_Obliteration_on.97334.aspx) Otol Neurotol. 2016;37: 919–925. doi:10.1097/MAO.0000000000001062
 
-- Kludt E, Büchner A, Schwab B, Lenarz T, Maier H. [**Indication of Direct Acoustical Cochlea Stimulation in Comparison to Cochlear Implants.**](http://www.ncbi.nlm.nih.gov/pubmed/26836967) Hear Res. 2016. [Epub ahead of print] doi:10.1016/j.heares.2016.01.016.
+- Gerdes T, Salcher RB, Schwab B, Lenarz T, Maier H. [**Comparison of Audiological Results Between a Transcutaneous and a Percutaneous Bone Conduction Instrument in Conductive Hearing Loss.**](http://www.ncbi.nlm.nih.gov/pubmed/27093021) Otol Neurotol. 2016 Jul;37(6):685-91. doi: 10.1097/MAO.0000000000001010
 
-- Burke WF, Warnecke A, Schöner-Heinisch A, Lesinski-Schiedat A, Maier H, Lenarz T. [**Prevalence and Audiological Profiles of GJB2 Mutations in a Large Collective of Hearing Impaired Patients.**](http://www.ncbi.nlm.nih.gov/pubmed/26778469) Hear Res. 2016. [Epub ahead of print] doi:10.1016/j.heares.2016.01.006.
+- Kludt E, Büchner A, Schwab B, Lenarz T, Maier H. [**Indication of Direct Acoustical Cochlea Stimulation in Comparison to Cochlear Implants.**](http://www.ncbi.nlm.nih.gov/pubmed/26836967) Hear Res. Elsevier Ltd; 2016; doi:10.1016/j.heares.2016.01.016
+
+- Burke WF, Warnecke A, Schöner-Heinisch A, Lesinski-Schiedat A, Maier H, Lenarz T. [**Prevalence and Audiological Profiles of GJB2 Mutations in a Large Collective of Hearing Impaired Patients.**](http://www.ncbi.nlm.nih.gov/pubmed/26778469) Hear Res. 2016 Mar;333:77-86. doi: 10.1016/j.heares.2016.01.006. Epub 2016 Jan 15
 
 - Kuru I, Maier H, Müller M, Lenarz T, Lueth TC. [**A 3D-printed functioning anatomical human middle ear model.**](http://www.ncbi.nlm.nih.gov/pubmed/26772730) Hear Res. 2016. [Epub ahead of print] doi:10.1016/j.heares.2015.12.025.
 
