@@ -32,6 +32,10 @@ The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industria
 ## News: Press releases:
 
 
+- [Gut gebrüllt Kätzchen – Pressemitteilung TiHo](http://www.tiho-hannover.de/aktuelles-presse/pressemitteilungen/pressemitteilungen-2016/pressemitteilungen-2016/article/gut-gebruellt-kaetzchen/)
+
+- [Lady cats are more tuned into kittens emotions than males are – Artikel in der Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/08/12/lady-cats-are-more-tuned-into-kittens-emotions-than-males-are/)
+
 - [Hearing and cognition are tighly related - paper in Lancet Neurology 2016](https://www.mh-hannover.de/46.html?&tx_ttnews%5Btt_news%5D=4495&cHash=9372250e91868167c310b0d3a8c1a088)
 
 - [Lower Saxony funds research excellence at MHH (DE)](https://www.mh-hannover.de/46.html?&tx_ttnews%5Btt_news%5D=4513&cHash=e49273834517320895694558489ed500)
@@ -69,4 +73,3 @@ Name                                                                     | Logo
 [ZSN]: http://www.tiho-hannover.de/studium-lehre/promotion-und-phd-programme/phd-systems-neuroscience/
 
 [Auditory Valley]: http://www.hoertech.de/ain/web/audiologie-initiative/index.shtml
-
