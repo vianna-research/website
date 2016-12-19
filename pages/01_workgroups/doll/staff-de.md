@@ -20,7 +20,6 @@ title: Mitarbeiter
 
 |Wissenschaftliche Mitarbeiter|             |    |
 |---------|------|------|
-|![Image Maria Höfer](Maria.png) | Dr. rer. nat. Maria Höfer | hoefer.maria(at)mh-hannover.de | 
 |   |Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|
 |![Image Jan Stieghorst ](Jan.png) |  Dipl.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
 |![Image Katharina Tegtmeier](Katharina.png)  | Katharina Tegtmeier, M.Sc. 	|	tegtmeier.katharina(at)mh-hannover.de | 
@@ -28,16 +27,15 @@ title: Mitarbeiter
 
 |Studenten|             |
 |-----------|-------------|
+|Ailke Behrens| Praktikum|
 |Fabian Borrmann, B.Sc. | HiWi|
-|Markus Buddensieck | Bachelorarbeit|
-|Andrej Fendel, B. Sc. | Projektarbeit|
 |Lennart Guntenhöner |Promotion Dr. med. |
 |Steffen Hadeler | Bachelorarbeit|
+|Filip Jakimovski, B. Sc.| Masterarbeit|
 |Wiebke Kossow, B.Eng. |  Masterarbeit|
-|Georg Leuteritz, B. Sc. |  Masterarbeit|
-|Bingrui Li, B. Sc. |Masterarbeit|
-|Bich Ngoc Tran, B. Sc.| Projektarbeit|
-|Tan Tan, B. Sc.| Projektarbeit|
+|Fabian Müller|Praktikum|
+|Bich Ngoc Tran, B. Sc.| HiWi|
+|Tan Tan, B. Sc.| Masterarbeit|
 |Annette Winter | Promotion Dr. med.|
 |Eugen Zukin | HiWi |
 
