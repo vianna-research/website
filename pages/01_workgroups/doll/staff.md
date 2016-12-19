@@ -20,7 +20,6 @@ title: Staff
 
 |Research Team  |    |  |
 |---------|:------|------|
-|![Image Maria Höfer](Maria.png) | Dr. rer. nat. Maria Höfer | hoefer.maria(at)mh-hannover.de |
 |   | Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|
 |![Image Jan Stieghorst ](Jan.png) |  Dipl.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
 |![Image Katharina Tegtmeier](Katharina.png)  | Katharina Tegtmeier, M.Sc. 	|	tegtmeier.katharina(at)mh-hannover.de | 
@@ -29,15 +28,14 @@ title: Staff
 
 |  Students   ||
 |-----------|-------------|
+|Ailke Behrens| Intern|
 |Fabian Borrmann, B. Sc. | Student Assistent|
-|Markus Buddensieck | Bachelor Thesis|
-|Andrej Fendel, B. Sc.|Student Project|
 |Lennart Guntenhöner |Medical Doctorate Thesis |
 |Steffen Hadeler|Bachelor Thesis|
-|Wiebke Kossow, B.Eng. | Master Thesis|
-|Georg Leuteritz, B. Sc. | Master Thesis|
-|Bingrui Li, B. Sc. | Master Thesis|
-|Bich Ngoc Tran, B. Sc.| Student Project|
-|Tan Tan, B- Sc. | Student Project|
+|Filip Jakimovski, B. Sc.| Master Thesis|
+|Wiebke Kossow, B. Eng. | Master Thesis|
+|Fabian Müller|Intern|
+|Bich Ngoc Tran, B. Sc.| Student Assistent|
+|Tan Tan, B. Sc. | Student Project|
 |Annette Winter | Medical Doctorate Thesis|
 |Eugen Zukin| Student Assistent|
