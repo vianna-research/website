@@ -1,6 +1,8 @@
 title: Publications
 
 ##2016
+- Busch S, Lenarz T, Maier H. [**Comparison of Alternative Coupling Methods of the Vibrant Soundbridge Floating Mass Transducer.**](http://www.karger.com/Article/FullText/453354) Audiol Neurotol. 2016; 347–355. doi:10.1159/000453354
+
 - Grossöhmichen M, Salcher R, Püschel K, Lenarz T, Maier H. [**Differential Intracochlear Sound Pressure Measurements in Human Temporal Bones with an Off-the-Shelf Sensor.**](http://www.hindawi.com/journals/bmri/2016/6059479) Biomed Res. Int. vol. 2016, Article ID 6059479, pp. 1–10, 2016. doi:10.1155/2016/6059479
 
 - N. Kallweit, P. Baumhoff, A. Krueger, N. Tinne, A. Kral, T. Ripken, H. Maier: [**Optoacoustic effect is responsible for laser-induced cochlear responses.**](http://www.nature.com/articles/srep28141) Sci. Rep. vol. 6, no. February, pp. 28141, 2016. doi:10.1038/srep28141
