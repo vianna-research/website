@@ -2,10 +2,12 @@ title: Publications
 
 2016
 ---
+* Hydrogel-Based Actuation for Modiolar Hugging Cochlear Implant Electrode Arrays; J. Stieghorst, B.N. Tran, S. Hadeler, D. Beckmann, T. Doll; Procedia Engineering; DOI: 10.1016/j.proeng.2016.11.453
+* Wet-etch Induced Changes in Impedance of Carbon Nanotube – Silicone Rubber Electrode Materials for Active Implants; K. Tegtmeier, F. Borrmann, T. Doll; Procedia Engineering; DOI: 10.1016/j.proeng.2016.11.393
 * Canine scent detection for the diagnosis of lung cancer in a screening-like situation; Klaus Hackner, Peter Errhalt, Michael Rolf Mueller, Manulea Speiser, Beatrice A. Marzluf, Andrea Schulheim, Peter Schenk, Johannes Bilek and Theodor Doll; Journal of Breath reasearch; DOI: 10.1088/1752-7155/10/4/046003
 * Dispersed Hydrogel Actuator for Modiolar Hugging Cochlear Implant Electrode Arrays; Jan Stieghorst and Theodor Doll; IEEE Transactions on Biomedical Engineering; DOI: 10.1109/TBME.2016.2524663
 *	Toward 3D printing of medical implants: Reduced lateral droplet spreading of silicone rubber under intense IR curing; Jan Stieghorst, Daniel Majaura, Henning Wevering and Theodor Doll,  ACS Appl. Mater. Interfaces; DOI: 10.1021/acsami.5b12728 
-* Residual Rubber Shielded Multi Wall Carbon Nanotube Electrodes for Neural Interfacing in Active Medical Implants; Katharina Tegtmeier, Pooyan Aliuos, Thomas Lenarz and Theodor Doll; Physics in Medicine, DOI: 10.1016/j.phmed.2016.04.001; accepted
+* Residual Rubber Shielded Multi Wall Carbon Nanotube Electrodes for Neural Interfacing in Active Medical Implants; Katharina Tegtmeier, Pooyan Aliuos, Thomas Lenarz and Theodor Doll; Physics in Medicine, DOI: 10.1016/j.phmed.2016.04.001
 
 2015
 ---
