@@ -1,5 +1,3 @@
-##Projects
-
 
 ##Development of an Implant-Linked Alginate Matrix for Cell-Mediated Neuronal Protection  
 The aim of this DFG-funded project is to develop a cell-mediated neuroprotection based on an alginate matrix. The cochlear implant electrode which is functionalized with a cell-alginate coating is used as model system.
