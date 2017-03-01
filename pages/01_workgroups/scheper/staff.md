@@ -7,7 +7,7 @@ Verena Scheper, Dr. med. vet., veterinarian| scheper.verena(at)mh-hannover.de
 ---------------------------
 **Research Team**
 
-Schwieger, Jana, Veterinarian | schwieger.jana(at)mh-hannover.de
+ Dr. med vet. Schwieger, Jana, Veterinarian | schwieger.jana(at)mh-hannover.de
 
 Bohlmann, Jasmin, technician  | bohlmann.jasmin(at)mh-hannover.de
 
