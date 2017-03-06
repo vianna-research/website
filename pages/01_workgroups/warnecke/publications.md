@@ -1,8 +1,26 @@
 title: Publications
 
+## 2017
+* Roemer A, Staecker H, Sasse S, Lenarz T, **Warnecke A.** [Biologische Therapien in der Otologie.](https://link.springer.com/article/10.1007%2Fs00106-016-0304-x) HNO. 2017 Feb 15. doi: 10.1007/s00106-016-0304-x.
+
+## 2016
+* Roger Y, Schäck LM, Koroleva A, Noack S, Kurselis K, Krettek C, Chichkov B, Lenarz T, **Warnecke A**, Hoffmann A. [Grid-like surface structures in thermoplastic polyurethane induce anti-inflammatory and anti-fibrotic processes in bone marrow-derived mesenchymal stem cells.](http://www.sciencedirect.com/science/article/pii/S0927776516304507) Colloids Surf B Biointerfaces. 2016 Dec;148:104-115. doi: 10.1016/j.colsurfb.2016.06.024. Epub 2016 Jun 16.
+
+* Roemer A, Köhl U, Majdani O, Klöß S, Falk C, Haumann S, Lenarz T, Kral A, **Warnecke A**. [Biohybrid cochlear implants in human neurosensory restoration.](http://stemcellres.biomedcentral.com/articles/10.1186/s13287-016-0408-y) Stem Cell Res Ther. 2016 Oct 7;7(1):148. doi:  10.1186/s13287-016-0408-y
+
+* Schäck L, Budde S, Lenarz T, Krettek C, Gross G, Windhagen H, Hoffmann A, **Warnecke A**. [Induction of neuronal-like phenotype in human mesenchymal stem cells by overexpression of Neurogenin1 and treatment with neurotrophins.](http://www.sciencedirect.com/science/article/pii/S0040816616300805) Tissue Cell. 2016 Oct;48(5):524-32. doi: 10.1016/j.tice.2016.06.011. Epub 2016 Jun 27.
+
+* Hadler C, Aliuos P, Brandes G, **Warnecke A**, Bohlmann J, Dempwolf W, Menzel H, Lenarz T, Reuter G, Wissel K2. [Polymer Coatings of Cochlear Implant Electrode Surface - An Option for Improving Electrode-Nerve-Interface by Blocking Fibroblast Overgrowth.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157710) PLoS One. 2016 Jul;11(7):e0157710. doi: 10.1371/journal.pone.0157710. eCollection 2016.
+
+* Burblies N, Schulze J, Schwarz HC, Kranz K, Motz D, Vogt C, Lenarz T, **Warnecke A**, Behrens P.[Coatings of Different Carbon Nanotubes on Platinum Electrodes for Neuronal Devices: Preparation, Cytocompatibility and Interaction with Spiral Ganglion Cells.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158571) PLoS One. 2016 Jul;11(7):e0158571. doi: 10.1371/journal.pone.0158571. eCollection 2016.
+
+* Lamm H, Müller-Kortkamp C, **Warnecke A**, Pohl F, Paasche G, Lenarz T, Stolle SR. [Concurrent hyperbaric oxygen therapy and intratympanic steroid application as salvage therapy after severe sudden sensorineural hearing loss.](http://onlinelibrary.wiley.com/doi/10.1002/ccr3.510/abstract;jsessionid=ACCD40899FAD7B88D1475519CDC70038.f02t03) Clin Case Rep. 2016 Feb;4(3):287-93. doi: 10.1002/ccr3.510. eCollection 2016.
+
+* Aliuos P, Schulze J, Schomaker M, Reuter G, Stolle SR, Werner D, Ripken T, Lenarz T, **Warnecke A**.[Magnetic Beads Enhance Adhesion of NIH 3T3 Fibroblasts: A Proof-of-Principle In Vitro Study for Implant-Mediated Long-Term Drug Delivery to the Inner Ear.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150057) PLoS One. 2016 Feb;11(2):e0150057. doi: 10.1371/journal.pone.0150057. eCollection 2016.
+
+* Burke WF, **Warnecke A**, Schöner-Heinisch A, Lesinski-Schiedat A, Maier H, Lenarz T. [Prevalence and audiological profiles of GJB2 mutations in a large collective of hearing impaired patients.](http://www.sciencedirect.com/science/article/pii/S0378595516000034) Hear Res. 2016 Mar;333:77-86. doi: 10.1016/j.heares.2016.01.006. Epub 2016 Jan 15.
+
 ## 2015
-
-
 * Schwieger J, Warnecke A, Lenarz T, Esser KH, Scheper V. **[Neuronal Survival, Morphology and Outgrowth of Spiral Ganglion Neurons Using a Defined Growth Factor Combination.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4532470/)** PLoS One. 2015 Aug 11;10(8):e0133680. doi: 10.1371/journal.pone.0133680. eCollection 2015.
 
 * Helmstaedter V, Tellkamp R, Majdani O, Warnecke A, Lenarz T, Durisin M. **[High-frequency jet ventilation for endolaryngotracheal surgery - chart review and procedure analysis from the surgeon's and the anaesthesiologist's point of view.](http://onlinelibrary.wiley.com/doi/10.1111/coa.12376/full)** Clin Otolaryngol. 2015 Aug;40(4):341-8. doi: 10.1111/coa.12376.
@@ -12,7 +30,6 @@ title: Publications
 * Durisin M, Büchner A, Lesinski-Schiedat A, Bartling S, Warnecke A, Lenarz T. **[Cochlear implantation in children with bacterial meningitic deafness: The influence of the degree of ossification and obliteration on impedance and charge of the implant.](http://www.maneyonline.com/doi/full/10.1179/1754762814Y.0000000094)** Cochlear Implants Int. 2015 May;16(3):147-58. doi: 10.1179/1754762814Y.0000000094. Epub 2014 Aug 17.
 
 ## 2014
-
 * Wenzel GI, Sarnes P, Warnecke A, Stöver T, Jäger B, Lesinski-Schiedat A, Lenarz T. **[Non-penetrating round window electrode stimulation for tinnitus therapy followed by cochlear implantation.](http://link.springer.com/article/10.1007/s00405-014-3413-8/fulltext.html)** Eur Arch Otorhinolaryngol. 2014 Dec 6.  doi: 10.1007/s00405-014-3413-8 [Epub ahead of print]
 
 * Wrzeszcz A, Steffens M, Balster S, Warnecke A, Dittrich B, Lenarz T, Reuter G. **[Hydrogel coated and dexamethasone releasing cochlear implants: Quantification of fibrosis in guinea pigs and evaluation of insertion forces in a human cochlea model.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33187/abstract)** J Biomed Mater Res B Appl Biomater. 2014 May 8. doi: 10.1002/jbm.b.33187. [Epub ahead of print]
@@ -24,7 +41,6 @@ title: Publications
 * Balster S, Wenzel GI, Warnecke A, Steffens M, Rettenmaier A, Zhang K, Lenarz T, Reuter G. **[Optical cochlear implant: evaluation of insertion forces of optical fibres in a cochlear model and of traumata in human temporal bones.](http://www.degruyter.com/view/j/bmte.2014.59.issue-1/bmt-2013-0038/bmt-2013-0038.xml;jsessionid=B859C5C9F2215DF8FB96F3A590E9A25E)** Biomed Tech (Berl). 2014 Feb 1;59(1):19-28.
 
 ## 2013
-
 * Kaiser O, Paasche G, Stöver T, Ernst S, Lenarz T, Kral A, Warnecke A. **[TGF-beta superfamily member activin A acts with BDNF and erythropoietin to improve survival of spiral ganglion neurons in vitro.](http://www.sciencedirect.com/science/article/pii/S0028390813003651)** Neuropharmacology. 2013 Aug 22;75C:416-425. doi: 10.1016/j.neuropharm.2013.08.008. [Epub ahead of print]
 
 * Aliuos P, Sen A, Reich U, Dempwolf W, Warnecke A, Hadler C, Lenarz T, Menzel H, Reuter G. **[Inhibition of fibroblast adhesion by covalently immobilized protein repellent polymer coatings studied by single cell force spectroscopy.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34686/abstract)** J Biomed Mater Res A. 2013 Apr 18. doi: 10.1002/jbm.a.34686. [Epub ahead of print]
@@ -32,7 +48,6 @@ title: Publications
 * Alious P, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U, Reuter G. **E[valuation of single-cell force spectroscopy and microscopy to determine cell interactions with femtosecond-laser microstructured titanium surfaces.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34401/abstract)** J Biomed Res Part A 2013;101(4):981-990. 
 
 ## Before 2013
-
 * Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, Paasche G, Scheper V, Reich U, Esser K-H, Lenarz T, Stöver T, Wissel K. **[Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo](http://www.sciencedirect.com/science/article/pii/S0378595512000937).** Hear Res. 2012 Jul;289(1-2):86-97. 
 
 * Reich U, Fadeeva E, Warnecke A, Paasche G, Mueller P, Chichkov B, Stöver T, Lenarz T, Reuter G. **[Directing neuronal cell growth on implant material surfaces by microstructuring.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.32656/abstract)** Journal of Biomedical Materials Research: Part B - Applied Biomaterials. 2012 May;100(4):940-947. 
