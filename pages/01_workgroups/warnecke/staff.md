@@ -35,3 +35,5 @@ Dipl.-Biol. Dr. Katharina Kranz
 Dipl.-Ing. PhD Pooyan Aliuos
 
 Dipl.-Phys. PhD Alexander Rettenmaier
+
+Dr. med. vet. Antonina Wrzeszcz
