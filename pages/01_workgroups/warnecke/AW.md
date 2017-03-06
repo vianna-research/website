@@ -21,7 +21,7 @@ title: PD Dr. Athanasia Warnecke
 
 ### Publications
 
-* Roemer A, Staecker H, Sasse S, Lenarz T, **Warnecke A.** [Biologische Therapien in der Otologie.](https://link.springer.com/article/10.1007%2Fs00106-016-0304-x) HNO. 2017 Feb 15. doi: 10.1007/s00106-016-0304-x. [Epub ahead of print]
+* Roemer A, Staecker H, Sasse S, Lenarz T, **Warnecke A.** [Biologische Therapien in der Otologie.](https://link.springer.com/article/10.1007%2Fs00106-016-0304-x) HNO. 2017 Feb 15. doi: 10.1007/s00106-016-0304-x.
 
 * Roger Y, Schäck LM, Koroleva A, Noack S, Kurselis K, Krettek C, Chichkov B, Lenarz T, **Warnecke A**, Hoffmann A. [Grid-like surface structures in thermoplastic polyurethane induce anti-inflammatory and anti-fibrotic processes in bone marrow-derived mesenchymal stem cells.](http://www.sciencedirect.com/science/article/pii/S0927776516304507) Colloids Surf B Biointerfaces. 2016 Dec;148:104-115. doi: 10.1016/j.colsurfb.2016.06.024. Epub 2016 Jun 16.
 
@@ -29,17 +29,15 @@ title: PD Dr. Athanasia Warnecke
 * Roemer A, Köhl U, Majdani O, Klöß S, Falk C, Haumann S, Lenarz T, Kral A, **Warnecke A**. [Biohybrid cochlear implants in human neurosensory restoration.](http://stemcellres.biomedcentral.com/articles/10.1186/s13287-016-0408-y) Stem Cell Res Ther. 2016 Oct 7;7(1):148. doi:  10.1186/s13287-016-0408-y
 
 
-Tissue Cell. 2016 Oct;48(5):524-32. doi: 10.1016/j.tice.2016.06.011. Epub 2016 Jun 27.
-Induction of neuronal-like phenotype in human mesenchymal stem cells by overexpression of Neurogenin1 and treatment with neurotrophins.
-Schäck L1, Budde S2, Lenarz T3, Krettek C4, Gross G5, Windhagen H2, Hoffmann A6, Warnecke A7.
+* Schäck L, Budde S, Lenarz T, Krettek C, Gross G, Windhagen H, Hoffmann A, **Warnecke A**. [Induction of neuronal-like phenotype in human mesenchymal stem cells by overexpression of Neurogenin1 and treatment with neurotrophins.](http://www.sciencedirect.com/science/article/pii/S0040816616300805) Tissue Cell. 2016 Oct;48(5):524-32. doi: 10.1016/j.tice.2016.06.011. Epub 2016 Jun 27.
 
-PLoS One. 2016 Jul 8;11(7):e0157710. doi: 10.1371/journal.pone.0157710. eCollection 2016.
-Polymer Coatings of Cochlear Implant Electrode Surface - An Option for Improving Electrode-Nerve-Interface by Blocking Fibroblast Overgrowth.
-Hadler C1, Aliuos P2,3, Brandes G4, Warnecke A2,3, Bohlmann J2, Dempwolf W1, Menzel H1, Lenarz T2,3, Reuter G2, Wissel K2.
 
-PLoS One. 2016 Jul 6;11(7):e0158571. doi: 10.1371/journal.pone.0158571. eCollection 2016.
+* Hadler C, Aliuos P, Brandes G, **Warnecke A**, Bohlmann J, Dempwolf W, Menzel H, Lenarz T, Reuter G, Wissel K2. [Polymer Coatings of Cochlear Implant Electrode Surface - An Option for Improving Electrode-Nerve-Interface by Blocking Fibroblast Overgrowth.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157710) PLoS One. 2016 Jul;11(7):e0157710. doi: 10.1371/journal.pone.0157710. eCollection 2016.
+
+
+* Burblies N, Schulze J, Schwarz HC, Kranz K, Motz D, Vogt C, Lenarz T, Warnecke A, Behrens P.PLoS One. 2016 Jul 6;11(7):e0158571. doi: 10.1371/journal.pone.0158571. eCollection 2016.
 Coatings of Different Carbon Nanotubes on Platinum Electrodes for Neuronal Devices: Preparation, Cytocompatibility and Interaction with Spiral Ganglion Cells.
-Burblies N1,2, Schulze J3,2, Schwarz HC1,2, Kranz K3,2, Motz D1, Vogt C1, Lenarz T3,2, Warnecke A3,2, Behrens P1,2.
+
 
 Clin Case Rep. 2016 Feb 11;4(3):287-93. doi: 10.1002/ccr3.510. eCollection 2016.
 Concurrent hyperbaric oxygen therapy and intratympanic steroid application as salvage therapy after severe sudden sensorineural hearing loss.
