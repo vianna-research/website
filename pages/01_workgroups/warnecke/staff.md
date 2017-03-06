@@ -30,6 +30,8 @@ Marvin Peter, M.Sc. Chem.| Peter.Marvin(at) mh-hannover.de>
 
 **Alumni**
 
- Dipl.-Biol. Dr. Katharina Kranz
+Dipl.-Biol. Dr. Katharina Kranz
 
- Dipl.-Ing. PhD Pooyan Aliuos
+Dipl.-Ing. PhD Pooyan Aliuos
+
+Dipl.-Phys. PhD Alexander Rettenmaier
