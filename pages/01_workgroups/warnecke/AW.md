@@ -25,7 +25,6 @@ title: PD Dr. Athanasia Warnecke
 
 * Roger Y, Schäck LM, Koroleva A, Noack S, Kurselis K, Krettek C, Chichkov B, Lenarz T, **Warnecke A**, Hoffmann A. [Grid-like surface structures in thermoplastic polyurethane induce anti-inflammatory and anti-fibrotic processes in bone marrow-derived mesenchymal stem cells.](http://www.sciencedirect.com/science/article/pii/S0927776516304507) Colloids Surf B Biointerfaces. 2016 Dec;148:104-115. doi: 10.1016/j.colsurfb.2016.06.024. Epub 2016 Jun 16.
 
-
 * Roemer A, Köhl U, Majdani O, Klöß S, Falk C, Haumann S, Lenarz T, Kral A, **Warnecke A**. [Biohybrid cochlear implants in human neurosensory restoration.](http://stemcellres.biomedcentral.com/articles/10.1186/s13287-016-0408-y) Stem Cell Res Ther. 2016 Oct 7;7(1):148. doi:  10.1186/s13287-016-0408-y
 
 
