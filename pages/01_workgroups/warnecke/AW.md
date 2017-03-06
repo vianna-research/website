@@ -26,9 +26,8 @@ title: PD Dr. Athanasia Warnecke
 * Roger Y, Schäck LM, Koroleva A, Noack S, Kurselis K, Krettek C, Chichkov B, Lenarz T, **Warnecke A**, Hoffmann A. [Grid-like surface structures in thermoplastic polyurethane induce anti-inflammatory and anti-fibrotic processes in bone marrow-derived mesenchymal stem cells.](http://www.sciencedirect.com/science/article/pii/S0927776516304507) Colloids Surf B Biointerfaces. 2016 Dec;148:104-115. doi: 10.1016/j.colsurfb.2016.06.024. Epub 2016 Jun 16.
 
 
-Stem Cell Res Ther. 2016 Oct 7;7(1):148.
-Biohybrid cochlear implants in human neurosensory restoration.
-Roemer A1,2, Köhl U3, Majdani O1,2, Klöß S3, Falk C4, Haumann S1,2, Lenarz T1,2, Kral A1,2, Warnecke A5,6.
+* Roemer A, Köhl U, Majdani O, Klöß S, Falk C, Haumann S, Lenarz T, Kral A, **Warnecke A**. [Biohybrid cochlear implants in human neurosensory restoration.](http://stemcellres.biomedcentral.com/articles/10.1186/s13287-016-0408-y) Stem Cell Res Ther. 2016 Oct 7;7(1):148. doi:  10.1186/s13287-016-0408-y
+
 
 Tissue Cell. 2016 Oct;48(5):524-32. doi: 10.1016/j.tice.2016.06.011. Epub 2016 Jun 27.
 Induction of neuronal-like phenotype in human mesenchymal stem cells by overexpression of Neurogenin1 and treatment with neurotrophins.
