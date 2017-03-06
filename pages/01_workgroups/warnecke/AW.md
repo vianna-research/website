@@ -23,6 +23,37 @@ title: PD Dr. Athanasia Warnecke
 
 * Roemer A, Staecker H, Sasse S, Lenarz T, **Warnecke A.** [Biologische Therapien in der Otologie.](https://link.springer.com/article/10.1007%2Fs00106-016-0304-x) HNO. 2017 Feb 15. doi: 10.1007/s00106-016-0304-x. [Epub ahead of print]
 
+* Roger Y, Schäck LM, Koroleva A, Noack S, Kurselis K, Krettek C, Chichkov B, Lenarz T, **Warnecke A**, Hoffmann A. [Grid-like surface structures in thermoplastic polyurethane induce anti-inflammatory and anti-fibrotic processes in bone marrow-derived mesenchymal stem cells.](http://www.sciencedirect.com/science/article/pii/S0927776516304507) Colloids Surf B Biointerfaces. 2016 Dec;148:104-115. doi: 10.1016/j.colsurfb.2016.06.024. Epub 2016 Jun 16.
+
+
+Stem Cell Res Ther. 2016 Oct 7;7(1):148.
+Biohybrid cochlear implants in human neurosensory restoration.
+Roemer A1,2, Köhl U3, Majdani O1,2, Klöß S3, Falk C4, Haumann S1,2, Lenarz T1,2, Kral A1,2, Warnecke A5,6.
+
+Tissue Cell. 2016 Oct;48(5):524-32. doi: 10.1016/j.tice.2016.06.011. Epub 2016 Jun 27.
+Induction of neuronal-like phenotype in human mesenchymal stem cells by overexpression of Neurogenin1 and treatment with neurotrophins.
+Schäck L1, Budde S2, Lenarz T3, Krettek C4, Gross G5, Windhagen H2, Hoffmann A6, Warnecke A7.
+
+PLoS One. 2016 Jul 8;11(7):e0157710. doi: 10.1371/journal.pone.0157710. eCollection 2016.
+Polymer Coatings of Cochlear Implant Electrode Surface - An Option for Improving Electrode-Nerve-Interface by Blocking Fibroblast Overgrowth.
+Hadler C1, Aliuos P2,3, Brandes G4, Warnecke A2,3, Bohlmann J2, Dempwolf W1, Menzel H1, Lenarz T2,3, Reuter G2, Wissel K2.
+
+PLoS One. 2016 Jul 6;11(7):e0158571. doi: 10.1371/journal.pone.0158571. eCollection 2016.
+Coatings of Different Carbon Nanotubes on Platinum Electrodes for Neuronal Devices: Preparation, Cytocompatibility and Interaction with Spiral Ganglion Cells.
+Burblies N1,2, Schulze J3,2, Schwarz HC1,2, Kranz K3,2, Motz D1, Vogt C1, Lenarz T3,2, Warnecke A3,2, Behrens P1,2.
+
+Clin Case Rep. 2016 Feb 11;4(3):287-93. doi: 10.1002/ccr3.510. eCollection 2016.
+Concurrent hyperbaric oxygen therapy and intratympanic steroid application as salvage therapy after severe sudden sensorineural hearing loss.
+Lamm H1, Müller-Kortkamp C2, Warnecke A3, Pohl F1, Paasche G3, Lenarz T3, Stolle SR1.
+
+PLoS One. 2016 Feb 26;11(2):e0150057. doi: 10.1371/journal.pone.0150057. eCollection 2016.
+Magnetic Beads Enhance Adhesion of NIH 3T3 Fibroblasts: A Proof-of-Principle In Vitro Study for Implant-Mediated Long-Term Drug Delivery to the Inner Ear.
+Aliuos P1,2, Schulze J1,2, Schomaker M3, Reuter G1, Stolle SR1, Werner D1, Ripken T2,3, Lenarz T1,2, Warnecke A1,2.
+
+Hear Res. 2016 Mar;333:77-86. doi: 10.1016/j.heares.2016.01.006. Epub 2016 Jan 15.
+Prevalence and audiological profiles of GJB2 mutations in a large collective of hearing impaired patients.
+Burke WF1, Warnecke A2, Schöner-Heinisch A3, Lesinski-Schiedat A4, Maier H2, Lenarz T2.
+
 
 * Schwieger J, **Warnecke A**, Lenarz T, Esser KH, Scheper V. [Neuronal Survival, Morphology and Outgrowth of Spiral Ganglion Neurons Using a Defined Growth Factor Combination.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4532470/) PLoS One. 2015 Aug 11;10(8):e0133680. doi: 10.1371/journal.pone.0133680. eCollection 2015.
 
