@@ -27,23 +27,17 @@ title: PD Dr. Athanasia Warnecke
 
 * Roemer A, Köhl U, Majdani O, Klöß S, Falk C, Haumann S, Lenarz T, Kral A, **Warnecke A**. [Biohybrid cochlear implants in human neurosensory restoration.](http://stemcellres.biomedcentral.com/articles/10.1186/s13287-016-0408-y) Stem Cell Res Ther. 2016 Oct 7;7(1):148. doi:  10.1186/s13287-016-0408-y
 
-
 * Schäck L, Budde S, Lenarz T, Krettek C, Gross G, Windhagen H, Hoffmann A, **Warnecke A**. [Induction of neuronal-like phenotype in human mesenchymal stem cells by overexpression of Neurogenin1 and treatment with neurotrophins.](http://www.sciencedirect.com/science/article/pii/S0040816616300805) Tissue Cell. 2016 Oct;48(5):524-32. doi: 10.1016/j.tice.2016.06.011. Epub 2016 Jun 27.
-
 
 * Hadler C, Aliuos P, Brandes G, **Warnecke A**, Bohlmann J, Dempwolf W, Menzel H, Lenarz T, Reuter G, Wissel K2. [Polymer Coatings of Cochlear Implant Electrode Surface - An Option for Improving Electrode-Nerve-Interface by Blocking Fibroblast Overgrowth.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157710) PLoS One. 2016 Jul;11(7):e0157710. doi: 10.1371/journal.pone.0157710. eCollection 2016.
 
-
 * Burblies N, Schulze J, Schwarz HC, Kranz K, Motz D, Vogt C, Lenarz T, **Warnecke A**, Behrens P.[Coatings of Different Carbon Nanotubes on Platinum Electrodes for Neuronal Devices: Preparation, Cytocompatibility and Interaction with Spiral Ganglion Cells.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158571) PLoS One. 2016 Jul;11(7):e0158571. doi: 10.1371/journal.pone.0158571. eCollection 2016.
-
 
 * Lamm H, Müller-Kortkamp C, **Warnecke A**, Pohl F, Paasche G, Lenarz T, Stolle SR. [Concurrent hyperbaric oxygen therapy and intratympanic steroid application as salvage therapy after severe sudden sensorineural hearing loss.](http://onlinelibrary.wiley.com/doi/10.1002/ccr3.510/abstract;jsessionid=ACCD40899FAD7B88D1475519CDC70038.f02t03) Clin Case Rep. 2016 Feb;4(3):287-93. doi: 10.1002/ccr3.510. eCollection 2016.
 
 * Aliuos P, Schulze J, Schomaker M, Reuter G, Stolle SR, Werner D, Ripken T, Lenarz T, **Warnecke A**.[Magnetic Beads Enhance Adhesion of NIH 3T3 Fibroblasts: A Proof-of-Principle In Vitro Study for Implant-Mediated Long-Term Drug Delivery to the Inner Ear.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150057) PLoS One. 2016 Feb;11(2):e0150057. doi: 10.1371/journal.pone.0150057. eCollection 2016.
 
-
 * Burke WF, **Warnecke A**, Schöner-Heinisch A, Lesinski-Schiedat A, Maier H, Lenarz T. [Prevalence and audiological profiles of GJB2 mutations in a large collective of hearing impaired patients.](http://www.sciencedirect.com/science/article/pii/S0378595516000034) Hear Res. 2016 Mar;333:77-86. doi: 10.1016/j.heares.2016.01.006. Epub 2016 Jan 15.
-
 
 * Schwieger J, **Warnecke A**, Lenarz T, Esser KH, Scheper V. [Neuronal Survival, Morphology and Outgrowth of Spiral Ganglion Neurons Using a Defined Growth Factor Combination.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4532470/) PLoS One. 2015 Aug 11;10(8):e0133680. doi: 10.1371/journal.pone.0133680. eCollection 2015.
 
