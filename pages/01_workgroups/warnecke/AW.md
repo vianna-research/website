@@ -35,21 +35,15 @@ title: PD Dr. Athanasia Warnecke
 * Hadler C, Aliuos P, Brandes G, **Warnecke A**, Bohlmann J, Dempwolf W, Menzel H, Lenarz T, Reuter G, Wissel K2. [Polymer Coatings of Cochlear Implant Electrode Surface - An Option for Improving Electrode-Nerve-Interface by Blocking Fibroblast Overgrowth.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157710) PLoS One. 2016 Jul;11(7):e0157710. doi: 10.1371/journal.pone.0157710. eCollection 2016.
 
 
-* Burblies N, Schulze J, Schwarz HC, Kranz K, Motz D, Vogt C, Lenarz T, Warnecke A, Behrens P.PLoS One. 2016 Jul 6;11(7):e0158571. doi: 10.1371/journal.pone.0158571. eCollection 2016.
-Coatings of Different Carbon Nanotubes on Platinum Electrodes for Neuronal Devices: Preparation, Cytocompatibility and Interaction with Spiral Ganglion Cells.
+* Burblies N, Schulze J, Schwarz HC, Kranz K, Motz D, Vogt C, Lenarz T, **Warnecke A**, Behrens P.[Coatings of Different Carbon Nanotubes on Platinum Electrodes for Neuronal Devices: Preparation, Cytocompatibility and Interaction with Spiral Ganglion Cells.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158571) PLoS One. 2016 Jul;11(7):e0158571. doi: 10.1371/journal.pone.0158571. eCollection 2016.
 
 
-Clin Case Rep. 2016 Feb 11;4(3):287-93. doi: 10.1002/ccr3.510. eCollection 2016.
-Concurrent hyperbaric oxygen therapy and intratympanic steroid application as salvage therapy after severe sudden sensorineural hearing loss.
-Lamm H1, Müller-Kortkamp C2, Warnecke A3, Pohl F1, Paasche G3, Lenarz T3, Stolle SR1.
+* Lamm H, Müller-Kortkamp C, **Warnecke A**, Pohl F, Paasche G, Lenarz T, Stolle SR. [Concurrent hyperbaric oxygen therapy and intratympanic steroid application as salvage therapy after severe sudden sensorineural hearing loss.](http://onlinelibrary.wiley.com/doi/10.1002/ccr3.510/abstract;jsessionid=ACCD40899FAD7B88D1475519CDC70038.f02t03) Clin Case Rep. 2016 Feb;4(3):287-93. doi: 10.1002/ccr3.510. eCollection 2016.
 
-PLoS One. 2016 Feb 26;11(2):e0150057. doi: 10.1371/journal.pone.0150057. eCollection 2016.
-Magnetic Beads Enhance Adhesion of NIH 3T3 Fibroblasts: A Proof-of-Principle In Vitro Study for Implant-Mediated Long-Term Drug Delivery to the Inner Ear.
-Aliuos P1,2, Schulze J1,2, Schomaker M3, Reuter G1, Stolle SR1, Werner D1, Ripken T2,3, Lenarz T1,2, Warnecke A1,2.
+* Aliuos P, Schulze J, Schomaker M, Reuter G, Stolle SR, Werner D, Ripken T, Lenarz T, **Warnecke A**.[Magnetic Beads Enhance Adhesion of NIH 3T3 Fibroblasts: A Proof-of-Principle In Vitro Study for Implant-Mediated Long-Term Drug Delivery to the Inner Ear.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150057) PLoS One. 2016 Feb;11(2):e0150057. doi: 10.1371/journal.pone.0150057. eCollection 2016.
 
-Hear Res. 2016 Mar;333:77-86. doi: 10.1016/j.heares.2016.01.006. Epub 2016 Jan 15.
-Prevalence and audiological profiles of GJB2 mutations in a large collective of hearing impaired patients.
-Burke WF1, Warnecke A2, Schöner-Heinisch A3, Lesinski-Schiedat A4, Maier H2, Lenarz T2.
+
+* Burke WF, **Warnecke A**, Schöner-Heinisch A, Lesinski-Schiedat A, Maier H, Lenarz T. [Prevalence and audiological profiles of GJB2 mutations in a large collective of hearing impaired patients.](http://www.sciencedirect.com/science/article/pii/S0378595516000034) Hear Res. 2016 Mar;333:77-86. doi: 10.1016/j.heares.2016.01.006. Epub 2016 Jan 15.
 
 
 * Schwieger J, **Warnecke A**, Lenarz T, Esser KH, Scheper V. [Neuronal Survival, Morphology and Outgrowth of Spiral Ganglion Neurons Using a Defined Growth Factor Combination.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4532470/) PLoS One. 2015 Aug 11;10(8):e0133680. doi: 10.1371/journal.pone.0133680. eCollection 2015.
