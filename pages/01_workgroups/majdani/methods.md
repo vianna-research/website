@@ -1,4 +1,4 @@
-title:General Research Area and Methods
+title:General Research Area & Methods
 
 
 ## General Research Area
