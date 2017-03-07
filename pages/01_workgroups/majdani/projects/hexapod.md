@@ -1,5 +1,5 @@
 ﻿title: Mini-Hexapod
-status: draft
+
 
 ## Mini-Hexapod
 
