@@ -6,7 +6,7 @@ title: M. Sc. Silke Hügl
 
 |Specialisation	& current Projects|
 |-----------------------------------------|
-|-   Project: [Akva-Med](http://www.vianna.de/01_workgroups/majdani/projects.html "Akva-Med")|
+|-   Project: [Akva-Med](http://www.vianna.de/01_workgroups/majdani/projects/akvamed.html "Akva-Med")|
 | |
 |-   Development of Cochlear Implant (CI) Electrodes| 
 |-   Finite Element Analysis of CIs|
