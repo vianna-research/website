@@ -13,7 +13,8 @@ title: AkvaMed
   - Perimodiolar position within the scala tympani of the cochlea
   
 ### Patents and Awards:
-![](iena.png){style="width:250px; float:left"}![](2015auszeichnung.jpg){style="width:450px; float:left; margin-left:1em"} The research team from Medical School Hannover and Ilmenau University of Technology, represented by Silke Hügl (MHH) and Stefan Griebel (TUI), receive the gold medal from Henning Könicke (iENA manager, left) 
+![](2015auszeichnung.jpg){style="width:450px; float:center"}
+![](iena.png){style="width:250px; float:lef; margin-right:1em"} The research team from Medical School Hannover and Ilmenau University of Technology, represented by Silke Hügl (MHH) and Stefan Griebel (TUI), receive the gold medal from Henning Könicke (iENA manager, left) 
 
 - Goldmedal at the international traide fair „Ideen-Erfindungen-Neuheiten (IENA)“ (ideas-inventions-new products) Nürnberg, Germany, 2015; 
  Topic: „Adaptiver Elektrodenträger, seine Verwendung und Verfahren zur Insertion eines Cochlea-Implantat-Elektrodenträgers“
