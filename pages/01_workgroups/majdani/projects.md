@@ -37,7 +37,7 @@ Motivated by this discovery, the project aim is to develop a single implant capa
 -  A bone-attached, passive, parallel kinematic device
 
 
-![Gough-Stewart platform (Hexapod) on the skull](projects/hexapod_v01.png)
+//<![Gough-Stewart platform (Hexapod) on the skull](projects/hexapod_v01.png)>
 
 
 **Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
