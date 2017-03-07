@@ -6,7 +6,7 @@ title: M. Sc. Silke Hügl
 
 |Specialisation	& current Projects|
 |-----------------------------------------|
-|-   Project: [Akva-Med](http://www.vianna.de/01_workgroups/majdani/projects.html "Akva-Med")|
+|-   Project: [Akva-Med](http://www.vianna.de/01_workgroups/majdani/projects/akvamed.html "Akva-Med")|
 | |
 |-   Development of Cochlear Implant (CI) Electrodes| 
 |-   Finite Element Analysis of CIs|
@@ -20,13 +20,13 @@ title: M. Sc. Silke Hügl
 |2012|Master of Science, Biomedical Engineering (TU Ilmenau)|
 |2011|Bachelor of Science, Biomedical Engineering (TU Ilmenau)|
 
-|Contact|                       
-|------------------|
-|VIANNA - Institut für Audioneurotechnologie|
-|der Klinik für Hals-, Nasen-, Ohrenheilkunde|
-|Medizinische Hochschule Hannover|
-|Feodor-Lynen-Str. 35|
-| 30625 Hannover|
-| |
-|Huegl.Silke(at)mh-hannover.de|
-|Tel.: +49 (0) 511-532-7263|
+
+**Contact**
+
+	Medizinische Hochschule Hannover
+  Klinik für Hals-Nasen-Ohrenheilkunde
+	Stadtfelddamm 34
+	30625 Hannover
+	Huegl.Silke(at)mh-hannover.de
+	Phone.: +49 (0) 511-532-7263
+  
