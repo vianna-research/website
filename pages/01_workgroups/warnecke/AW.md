@@ -12,7 +12,7 @@ title: PD Dr. med. Athanasia Warnecke
 	Warnecke.Athanasia@mh-hannover.de
 
 
-![Athanasia Warnecke](warnecke_CI_labor.jpg) 
+<p align="center">![Athanasia Warnecke](warnecke_CI_labor.jpg) 
 
 ***
 ### Publications
