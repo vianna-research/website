@@ -18,6 +18,6 @@ Funded by the German Research Foundation (DFG) under grant number MA 4038/9-1.
 
 Ilmenau University of Technology, [Mechanism Technology](https://www.tu-ilmenau.de/en/mechanism-technology-group "TU Ilmenau - Mechanism Technology")
 
-#### Contact: 
+**Contact: 
 [Silke Hügl](http://www.vianna.de/01_workgroups/majdani/staff/silke.html) | Huegl.Silke@mh-hannover.de
 
