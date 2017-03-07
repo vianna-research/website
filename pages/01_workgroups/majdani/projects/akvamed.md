@@ -20,7 +20,7 @@ title: AkvaMed
  Adaptiver Elektrodenträger, seine Verwendung und Verfahren zu seiner Insertion
  file number: DE 10 2016 003 259.2, patent application 04.03.2016 
 
-![](2015auszeichnung.jpg){style="width:525px; float:left"} ![](iena.png){style="width:246px; float:right; margin-left:4em"} 
+![](2015auszeichnung.jpg){style="width:525px; float:left"} ![](iena.png){style="width:247px; float:right; margin-left:4em"} 
 
 
 The research team from Medical School Hannover and Ilmenau University of Technology, represented by Silke Hügl (MHH) and Stefan Griebel (TUI), receive the gold medal from Henning Könicke (iENA manager, left). *Image: Andreas Heckel*
