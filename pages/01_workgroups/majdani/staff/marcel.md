@@ -6,9 +6,11 @@
 
 |Specialisation	& Current Projects|
 |-----------------------------------------|
-|-   Project: [Hexapod](http://www.vianna.de/01_workgroups/majdani/projects.html "Hexapod")|
-| |
-|-   Construction for minimally invasive surgical intervention|
+|**Projects**: |					
+|-   [Hexapod](http://www.vianna.de/01_workgroups/majdani/projects.html "Hexapod")|
+|-   RoboJig |
+|**Specialisation** |
+|-   Mechanical construction of minimally invasive surgical tools|
 |-   Anatomical Workplace analysis|
 
 
