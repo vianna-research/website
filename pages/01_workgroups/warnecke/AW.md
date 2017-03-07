@@ -2,13 +2,6 @@ title: PD Dr. med. Athanasia Warnecke
 
  
 **Head of Research Group**
-
-![Athanasia Warnecke](warnecke_CI_labor.jpg) 
-
-
-***
-
-
 **Contact:**
 
 	Athanasia Warnecke
@@ -19,7 +12,9 @@ title: PD Dr. med. Athanasia Warnecke
 	Warnecke.Athanasia@mh-hannover.de
 
 
+![Athanasia Warnecke](warnecke_CI_labor.jpg) 
 
+***
 ### Publications
 
 * Roemer A, Staecker H, Sasse S, Lenarz T, **Warnecke A.** [Biologische Therapien in der Otologie.](https://link.springer.com/article/10.1007%2Fs00106-016-0304-x) HNO. 2017 Feb 15. doi: 10.1007/s00106-016-0304-x.
