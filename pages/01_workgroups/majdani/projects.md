@@ -23,7 +23,7 @@ Motivated by this discovery, the project aim is to develop a single implant capa
 
 
 
-## Hexapod
+## Mini-Hexapod
 
 ### Minimally invasive cochlear implant surgery
 -  Drilling a direct access to the cochleainstead of removing parts of the lateral skull base
@@ -34,10 +34,13 @@ Motivated by this discovery, the project aim is to develop a single implant capa
 -  Preserving vital structures such as the facial nerve and chorda tympani
 
 ### Approach considered here
--  A bone-attached, passive, parallel kinematic device
+-  A bone-attached, passive, parallel kinematic device
 
 
 **Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
+
+
+
 
 
 ## RoboJig
