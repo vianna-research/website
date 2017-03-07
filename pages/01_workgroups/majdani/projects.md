@@ -55,3 +55,10 @@ title:Projects
     The project concentrates on the functionalization of cochlear implant electrodes with laser-sintered actuators made of a shape memory alloy (Nitinol).
 	
 -   Contact: [Silke Hügl](http://www.vianna.de/01_workgroups/majdani/staff/silke.html) | Huegl.Silke@mh-hannover.de
+
+
+## RoboJig
+
+Minimally-invasive CI-surgery
+
+![Overview of RoboJig System](projects/robojig-overview-de.png)
