@@ -8,9 +8,10 @@ title: AkvaMed
 	
 - Using compliant mechanisms for actuation of medical implants and instruments
 - Planning, testing, analytical synthesis and fabrication of CI electrode carrier with fludically actuation 
-- Expected benefit of such mechanisms:
-  - Hearing preservation
-  - Perimodiolar position within the scala tympani of the cochlea
+
+Expected benefit of such mechanisms:
+ - Hearing preservation
+ - Perimodiolar position within the scala tympani of the cochlea
   
 ### Patents and Awards:
 
