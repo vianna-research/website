@@ -1,7 +1,7 @@
-﻿title:Projects
+title:Projects
 
 
-##Hearing4all - Electromechanical Stimulation of the Cochlea (EMS)
+## Hearing4all - Electromechanical Stimulation of the Cochlea (EMS)
 -   Project Partners: 
 	
 	Leibniz Universität Hannover, [Institute of Micro Production Technology](http://www.impt.uni-hannover.de/das_impt.html?&L=1 "Institute of Micro Production Technology")
@@ -19,7 +19,7 @@
 -   Contact: Dr. Wouter J. van Drunen | vanDrunen.Wouter@mh-hannover.de
 
 
-##Akva-Med
+## Akva-Med
 -   Project Partners: Ilmenau University of Technology, [Mechanism Technology](https://www.tu-ilmenau.de/en/mechanism-technology-group "TU Ilmenau - Mechanism Technology")
 -   Aims:
 
@@ -32,11 +32,11 @@
 -   Contact: [Silke Hügl](http://www.vianna.de/01_workgroups/majdani/staff/silke.html) | Huegl.Silke@mh-hannover.de
 
 
-##Hexapod
+## Hexapod
 -   Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/marcel.html) | Kluge.Marcel@mh-hannover.de
 
 
-##Gentle-CI
+## Gentle-CI
 -   Project Partners: 
 	
 	Leibniz Universität Hannover, [Institute of Mechatronic Systems](http://www.imes.uni-hannover.de/institut.html?&L=1 "Institute of Mechatronic Systems"),
