@@ -20,7 +20,8 @@ The second  research focus is on the improvement of the electrode array of a coc
 
 -   imaging of the inner ear and lateral skull base
 -   imaging of cochlear implants after insertion
--   computed tomography (CT), digital volume tomography (DVT), micro-CT, 3D histology (microgrinding)
+-   computed tomography (CT), digital volume tomography (DVT), micro-CT, 3D histology ([microgrinding](http://www.vianna.de/01_workgroups/majdani/methods/microgrinding.html "Microgrinding"))
+
 
 ### Image processing and software development
 
@@ -37,18 +38,15 @@ The second  research focus is on the improvement of the electrode array of a coc
 -   finite element models of the human inner ear and the electrode array
 -   physicial replica of the human inner ear (artificial cochlear model)
 
-### Development and evalutaion of 
+### Medical device development and evaluation 
 
 -   surgical assistance devices for minimally invasive cochlear implantation surgery
 -   surgical tools and medical devices such as
     - image-guides surgery systems
     - medical robots
-    - micro-stereotactic frames
-    - template-guides surgery systems
+    - micro-stereotactic frames (surgical templates)
     - manual and automated insertion tools
-    - drilling tools
-    - laser hand pieces
-    - endoscopes
+    - drilling tools, laser hand pieces, and endoscopes
 
 ### CI electrode development
 
