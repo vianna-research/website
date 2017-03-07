@@ -1,6 +1,6 @@
-title: CAS-hno – Computer-assisted surgery and electrode development
+title: CAS-hno - Computer-Assisted Surgery
 
-![cash-logo](majdani/cas-h.png){style="width:200px"}
+![cash-logo](majdani/cas-h.png){style="width:400px"}
 
 ## Research
 
