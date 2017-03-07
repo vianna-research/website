@@ -2,15 +2,18 @@ title: CAS-hno - Computer-Assisted Surgery
 
 ![cash-logo](majdani/cas-h.png){style="width:400px"}
 
+- - -
+
+
+- - - 
+
 ## Research
 
-The focus of our research activities is directed at the use of computer-assisted surgery (CAS) based on high-resolution imaging technologies, in order to improve the precision and safety of surgical procedures, particularly on the lateral skull base. These include the use of intraoperative navigation techniques, mechatronic assistance systems and methods of computer-aided simulation and pre-operative planning. Building on this, the continued goal is to develop adaptive cochlear implant (CI) electrodes and to integrate these into the overall concept of a minimally traumatic approach to the cochlea that preserves residual hearing.
+The research group "Computer-Assisted Surgery and Electrode Development" (CAS-hno) is an interdisciplinary group of engineers, physicians, and natural scientist at the Department of Otolaryngology whose focus is on the development of technologies and methods for surgical rehabilitation of the inner ear (cochlear). This includes research activities dedicated to the design and development of surgical assistance devices in order to improvement surgical techniques - with special focus on the minimally invasive approach to the inner ear. Based on high-resolution imaging and pre-operative patient-specific planning different technologies of image-guides surgery systems, mechatronic assistance devices as well als micro-stereotactic frames are incoorporated into the surgical workflow for an highly accurate and less traumatic surgical intervention. 
 
-![Simulation of a CI insertion](majdani/rtemagicc_rau_02.jpg){style="float:left;margin-right:3em;"}
+The second  research focus is on the improvement of the electrode array of a cochlear implant (CI) including the insertion technique. In this field, our research group covers the complete design and development process. Starting with imaging and three-dimensional (3D) modelling of the human inner ear, the methods used include: development of improved electrode designs using compputer aided design (CAD) software and finite element analysis (FEA); the simulation and optimization of the insertion process; experimental characterization of the electroe arrays by manual and/or automated insertion in artificial cochlear models and/or temporal bone specimens. Of special interest is the functionalization of the electrode array by integrating of actuators (e.g. by us of shape memory materials, fluid mechanical actuators, and tubular manipulators) for an individual adaption of the shape of the implant to the helical shaped inner ear in order to improve hearing preservation.  
 
-Because of the complex anatomy of the lateral skull base and the substantial social relevance of hearing, cochlear implantation represents one of the core applications for this technology. As part of the German Research Foundation’s (DFG) focus programme on ‘Medical Navigation and Robotics’ (SPP 1124), experimental set-ups were created using a navigation-assisted manual approach and a robot-assisted drilling approach to create a minimally invasive canal from the surface of the skull to the cochlea. This allows the cochlear implantation to be performed without the large surgical approach involving a mastoidectomy that is necessary when conventional surgical techniques are used. In response to the specific requirements arising from the need to insert the CI electrode array through the new minimally invasive approach, an automated insertion tool was developed in cooperation with the Institute of Mechatronic Systems (IMES) at the Leibniz University of Hannover, which facilitated the controlled insertion of the electrode into the inner ear.
-
-Promising concepts can then be characterized in insertion studies on cochlear models or temporal bone specimens. The expertise of the research group includes insertion studies both with force measurement and under fluoroscopy, aimed at drawing correlations between the insertion forces arising and the deforming properties of the implant *in situ*.
+- - - 
 
 ### The major focuses of this research group are
 
