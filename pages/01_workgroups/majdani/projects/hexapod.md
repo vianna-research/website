@@ -14,5 +14,5 @@ status: draft
 
 
 
-#### Contact: [Silke Hügl](http://www.vianna.de/01_workgroups/majdani/staff/silke.html) | Huegl.Silke@mh-hannover.de
+**Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
 
