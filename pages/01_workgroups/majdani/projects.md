@@ -54,10 +54,10 @@ Overview of the RoboJig surgery vs. conventional approach.
 
 
 
-## [GentleCI](http://www.vianna.de/01_workgroups/majdani/completed_projects/gentleci.html)
+## [GentleCI](http://www.vianna.de/01_workgroups/majdani/projects/gentleci.html)
 
 ### Electrode Development: nickel-titanium (nitinol) actuators for cochlear implants
 
-![FE-Simulation of electrode carrier equipped with actuator from shape-memory-alloy]( website/pages/01_workgroups/majdani/completed_projects/gentleci1.png ){style="width:300px"}
+![FE-Simulation of electrode carrier equipped with actuator from shape-memory-alloy]( website/pages/01_workgroups/majdani/projects/gentleci1.png ){style="width:300px"}
 
 **Contact: [Silke Hügl](staff/silke.html) | Huegl.Silke@mh-hannover.de**
