@@ -15,5 +15,10 @@
 ![Gough-Stewart platform (Hexapod) on the skull](hexapod_v01.png)
 
 
+### Project Partners: 
+	
+Leibniz Universität Hannover, [Institute of Mechatronic Systems](https://www.imes.uni-hannover.de/104.html?&L=1)
+
+
 **Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
 
