@@ -29,7 +29,7 @@
 	der Klinik für Hals-, Nasen-, Ohrenheilkunde
 	Klinik für Hals-Nasen-Ohrenheilkunde
 	Medizinische Hochschule Hannover
-	Feodor-Lynen-Str. 27
+	Stadtfelddamm 34
 	30625 Hannover
 	Kluge.Marcel(at)mh-hannover.de
-	Phone.: +49 (0) 511-532-7305                       
+	Phone.: +49 (0) 511-532-7264                       
