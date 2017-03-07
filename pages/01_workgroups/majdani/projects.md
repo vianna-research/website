@@ -23,7 +23,7 @@ Motivated by this discovery, the project aim is to develop a single implant capa
 
 
 
-## Hexapod
+## Mini-Hexapod
 
 ### Minimally invasive cochlear implant surgery
 -  Drilling a direct access to the cochleainstead of removing parts of the lateral skull base
