@@ -1,6 +1,6 @@
-title: Majdani Lab - Computer-assisted surgery and electrode development
+title: CAS-hno – Computer-assisted surgery and electrode development
 
-![cash-logo](majdani/cas-h.png)
+![cash-logo](majdani/cas-h.png){style="width:200px"}
 
 ## Research
 
@@ -65,7 +65,7 @@ Email: <majdani.omid@mh-hannover.de>
     VIANNA - Institut für Audioneurotechnologie
     der Klinik für Hals-, Nasen-, Ohrenheilkunde
     Medizinische Hochschule Hannover
-    Feodor-Lynen-Str. 35
+    Stadtfelddamm 34
     30625 Hannover
 
 phone: +49 511-532-3025
