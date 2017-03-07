@@ -1,6 +1,6 @@
 title: CAS-hno - Computer-Assisted Surgery
 
-![cash-logo](majdani/cas-h.png){style="width:300px"}
+![cash-logo](majdani/cas-h.png){style="width:300px; float:right; margin-left:3em"}
 
 - - -
 
