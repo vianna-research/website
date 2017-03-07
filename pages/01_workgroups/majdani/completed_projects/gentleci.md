@@ -2,10 +2,16 @@ title:Gentle-CI
 
 	
 ### Aims:
+![FE-Simulation of nitiol equipped cochlear implant](gentleci1.png){style="width:250px; float:right; margin-left:3em"}
 
 "Laserbasierte Generierung von NiTi-Mikroaktoren durch Laserstrahlsintern für die resthörerhaltende, minimal-traumatische Cochlea-Implantat-Versorgung (GentleCI)"
 	
-The project concentrates on the functionalization of cochlear implant electrodes with laser-sintered actuators made of a shape memory alloy (Nitinol).
+- functionalization of cochlear implant electrodes with an actuator made of shape memory alloy (Nitinol)
+- laser-sintering of nickel-titanium (Nitinol) actuators
+- embedding the actuator in the electrode carrier
+- characterization and testing of the functionalized implants
+
+![graded Nitinol-actuator](gentleci2.png){style="width:250px"}
 
 
 ### Project Partners: 
