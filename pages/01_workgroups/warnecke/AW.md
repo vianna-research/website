@@ -1,9 +1,10 @@
-title: PD Dr. Athanasia Warnecke
+title: PD Dr. med. Athanasia Warnecke
 
  
 **Head of Research Group**
 
 
+![Figure_1](warnecke/warnecke CI labor.jpg) 
 
 ***
 
