@@ -20,7 +20,8 @@ The second  research focus is on the improvement of the electrode array of a coc
 
 -   imaging of the inner ear and lateral skull base
 -   imaging of cochlear implants after insertion
--   computed tomography (CT), digital volume tomography (DVT), micro-CT, 3D histology (microgrinding)
+-   computed tomography (CT), digital volume tomography (DVT), micro-CT, 3D histology ([microgrinding](http://www.vianna.de/01_workgroups/majdani/methods/microgrinding.html "Microgrinding"))
+
 
 ### Image processing and software development
 
