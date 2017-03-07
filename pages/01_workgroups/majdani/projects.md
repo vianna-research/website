@@ -34,7 +34,7 @@ Motivated by this discovery, the project aim is to develop a single implant capa
 -  Preserving vital structures such as the facial nerve and chorda tympani
 
 ### Approach considered here
--  A bone-attached, passive, parallel kinematic device
+-  A bone-attached, passive, parallel kinematic device
 
 
 **Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
