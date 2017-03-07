@@ -1,16 +1,18 @@
 ﻿title: Mini-Hexapod
-status: draft
+
 
 ## Mini-Hexapod
 
+### Minimally invasive cochlear implant surgery
+-  Drilling a direct access to the cochleainstead of removing parts of the lateral skull base
+-  Diameter of the drill canal: ≈ 2 mm
 
+### Challenges
+-  Targeting the cochlea with an accuracy better than 0.5 mm
+-  Preserving vital structures such as the facial nerve and chorda tympani
 
-
-### Aims:
-
-
-
-### Project Partners:
+### Approach considered here
+-  A bone-attached, passive, parallel kinematic device
 
 
 
