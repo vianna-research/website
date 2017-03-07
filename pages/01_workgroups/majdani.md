@@ -18,9 +18,9 @@ The second  research focus is on the improvement of the electrode array of a coc
 
 ### Image acquisition
 
--   Imaging of the inner ear and lateral skull base
--   Imaging of cochlear implants after insertion
--   Computed Tomography (CT), Digital Volume Tomography (DVT), Micro-CT, 3D Histology (microgrinding)
+-   imaging of the inner ear and lateral skull base
+-   imaging of cochlear implants after insertion
+-   computed tomography (CT), digital volume tomography (DVT), micro-CT, 3D histology (microgrinding)
 
 ### Image processing and software development
 
@@ -29,8 +29,13 @@ The second  research focus is on the improvement of the electrode array of a coc
 -   trajectory planning
 -   bone thickness calculation and visualization
 -   visualization of cochlear anatomy using rotating midmodiolar slice planes
+-   software development using C++, VTK, ITK, Matlab, LabView
 
 ### 3D modelling
+
+-   anatomica models of the lateral skull base and the surgical approach
+-   finite element models of the human inner ear and the electrode array
+-   physicial replica of the human inner ear (artificial cochlear model)
 
 ### Development and evalutaion of 
 
@@ -46,12 +51,14 @@ The second  research focus is on the improvement of the electrode array of a coc
     - endoscopes
 
 ### CI electrode development
+
 -   functionalization (shape memory inlays, fluid-mechanical actuators, tubular manipulators,...)
 -   individualization (length, thickness, shape change,...)
 -   virtual prototyping using finite element analysis
 -   simulation and optimization of the individual insertion process
 
 ### CI electrode characterization
+
 -   using 3D bending test
 -   determination of curling behavior
 -   manual and automated insertion tests in artificial cochlea models and human temporal bone specimens
@@ -59,15 +66,10 @@ The second  research focus is on the improvement of the electrode array of a coc
 -   histology and evaluation of insertion trauma
 
 
-## Publications:
 
-- [List of publications](majdani/publications.md)
+- - - 
 
-
-
-## Contact:
-
-**Dr.-Ing. Thomas S. Rau**
+** Contact: Dr.-Ing. Thomas S. Rau**
 
     VIANNA - Institut für Audioneurotechnologie
     der Klinik für Hals-, Nasen-, Ohrenheilkunde
