@@ -9,7 +9,11 @@ title: AkvaMed
 
 "Aktiv-verformbare, hydraulisch-aktuierte, nachgiebige Mechanismen für schonende Implantate und Instrumentarien" (Akva-Med)
 	
-The project adresses the research on compliant mechanisms in order to use them in medical implants and instruments. Especially cochlear implants are expected to benefit from such mechanisms, concerning new electrode carriers used for insertion achieving hearing preservation and perimodiolar position within the cochlea.
+- using compliant mechanisms for actuation of medical implants and instruments
+- planning, testing, analytical synthesis and fabrication of CI electrode carrier with fludically actuation 
+- expected benefit of such mechanisms:
+  - hearing preservation
+  - perimodiolar position within the scala tympani of the cochlea
 
 ### Project Funding:
 Funded by the German Research Foundation (DFG) under grant number MA 4038/9-1.
