@@ -6,7 +6,7 @@
 
 |Specialisation	& Current Projects|
 |-----------------------------------------|
-|**Projects**: |					
+|**Projects:** |					
 |-   [Hexapod](http://www.vianna.de/01_workgroups/majdani/projects.html "Hexapod")|
 |-   RoboJig |
 |**Specialisation:** |
