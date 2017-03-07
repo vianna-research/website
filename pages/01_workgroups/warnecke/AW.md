@@ -3,7 +3,7 @@ title: PD Dr. med. Athanasia Warnecke
  
 **Head of Research Group**
 
-![Figure_1](warnecke/warnecke_CI_labor.jpg) 
+![Athanasia Warnecke](warnecke_CI_labor.jpg) 
 
 
 ***
