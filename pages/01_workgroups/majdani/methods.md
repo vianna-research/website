@@ -11,4 +11,4 @@ title:General Research Area & Methods
 ## Methods
 - Software Development
 - Finite-Element-Analysis
-- Microgrinding
+- histological imaging technology: [Microgrinding](http://www.vianna.de/01_workgroups/majdani/methods/microgrinding.html "Microgrinding")
