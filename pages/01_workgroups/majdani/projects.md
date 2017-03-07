@@ -27,6 +27,8 @@ Motivated by this discovery, the project aim is to develop a single implant capa
 
 ### Minimally invasive cochlear implant surgery
 
+![Gough-Stewart platform (Hexapod) on the skull](projects/hexapod_v02.png)
+
 
 **Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
 
