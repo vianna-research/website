@@ -11,7 +11,7 @@ title:Gentle-CI
 - embedding the actuator in the electrode carrier
 - characterization and testing of the functionalized implants
 
-![graded Nitinol-actuator](gentleci2.png){style="width:250px"}
+![graded Nitinol-actuator](gentleci2.png){style="width:350px"}
 
 
 ### Project Partners: 
@@ -26,5 +26,5 @@ Leibniz Universität Hannover, [Institute of Mechatronic Systems](http://www.ime
 
 
 
-#### Contact: 
-[Silke Hügl](http://www.vianna.de/01_workgroups/majdani/staff/silke.html) | Huegl.Silke@mh-hannover.de
+**Contact: 
+[Silke Hügl](http://www.vianna.de/01_workgroups/majdani/staff/silke.html) | Huegl.Silke@mh-hannover.de**
