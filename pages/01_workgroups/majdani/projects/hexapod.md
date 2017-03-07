@@ -2,7 +2,7 @@
 
 
 ### Minimally invasive cochlear implant surgery
--  Drilling a direct access to the cochleainstead of removing parts of the lateral skull base
+-  Drilling a direct access to the cochlea instead of removing parts of the lateral skull base
 -  Diameter of the drill canal: ≈ 2 mm
 
 ### Challenges
