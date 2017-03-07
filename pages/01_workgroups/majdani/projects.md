@@ -37,7 +37,7 @@ Motivated by this discovery, the project aim is to develop a single implant capa
 
 ### Electrode Development: fluidically actuated implant
 
-![FE-Simulation of fluidically actuated implants](projects/akvamed3.png){style="width:250px"}
+![FE-Simulation of fluidically actuated implants](projects/akvamed3.png){style="width:300px"}
 
 
 **Contact: [Silke Hügl](staff/silke.html) | Huegl.Silke@mh-hannover.de**
