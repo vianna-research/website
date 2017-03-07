@@ -9,11 +9,15 @@ title: AkvaMed
 
 "Aktiv-verformbare, hydraulisch-aktuierte, nachgiebige Mechanismen für schonende Implantate und Instrumentarien" (Akva-Med)
 	
-- using compliant mechanisms for actuation of medical implants and instruments
-- planning, testing, analytical synthesis and fabrication of CI electrode carrier with fludically actuation 
-- expected benefit of such mechanisms:
-  - hearing preservation
-  - perimodiolar position within the scala tympani of the cochlea
+- Using compliant mechanisms for actuation of medical implants and instruments
+- Planning, testing, analytical synthesis and fabrication of CI electrode carrier with fludically actuation 
+- Expected benefit of such mechanisms:
+  - Hearing preservation
+  - Perimodiolar position within the scala tympani of the cochlea
+  
+### Patents and Awards:
+-  Goldmedal at the international traide fair „Ideen-Erfindungen-Neuheiten (IENA)“ (ideas-inventions-innovations) Nürnberg, Germany, 2015; Topic: „Adaptiver Elektrodenträger, seine Verwendung und Verfahren zur Insertion eines Cochlea-Implantat-Elektrodenträgers“
+- Griebel, S.; Hügl., S.; Rau, T.S.; Majdani, O.; Wystup, C.; Lenarz, T.; Zentner, L.: Adaptiver Elektrodenträger, seine Verwendung und Verfahren zu seiner Insertion. file number: DE 10 2016 003 259.2, patent application 04.03.2016 
 
 ### Project Funding:
 Funded by the German Research Foundation (DFG) under grant number MA 4038/9-1.
