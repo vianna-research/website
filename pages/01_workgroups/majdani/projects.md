@@ -33,7 +33,14 @@ Motivated by this discovery, the project aim is to develop a single implant capa
 **Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
 
 
+## [Akva-Med](projects/akvamed.html)
 
+### Electrode Development: fluidically actuated implant
+
+![FE-Simulation of fluidically actuated implants](projects/akvamed2.png)
+
+
+**Contact: [Silke Hügl](staff/silke.html) | Huegl.Silke@mh-hannover.de**
 
 
 ## RoboJig
