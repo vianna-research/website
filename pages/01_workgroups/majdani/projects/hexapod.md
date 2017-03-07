@@ -1,8 +1,6 @@
 ﻿title: Mini-Hexapod
 
 
-## Mini-Hexapod
-
 ### Minimally invasive cochlear implant surgery
 -  Drilling a direct access to the cochleainstead of removing parts of the lateral skull base
 -  Diameter of the drill canal: ≈ 2 mm
@@ -14,6 +12,7 @@
 ### Approach considered here
 -  A bone-attached, passive, parallel kinematic device
 
+![Gough-Stewart platform (Hexapod) on the skull](projects/hexapod_v01.png)
 
 
 **Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
