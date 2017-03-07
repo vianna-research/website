@@ -11,7 +11,7 @@ title: M. Sc. Silke Hügl
 |-   Development of Cochlear Implant (CI) Electrodes| 
 |-   Finite Element Analysis of CIs|
 |-   Navigated Insertion of Cochlear Implant Electrodes|
-|-   Manual and automated Microgrinding|
+|-   Manual and automated [Microgrinding](http://www.vianna.de/01_workgroups/majdani/methods/microgrinding.html "Microgrinding")|
 
 
 
@@ -20,13 +20,13 @@ title: M. Sc. Silke Hügl
 |2012|Master of Science, Biomedical Engineering (TU Ilmenau)|
 |2011|Bachelor of Science, Biomedical Engineering (TU Ilmenau)|
 
-|Contact|                       
-|------------------|
-|VIANNA - Institut für Audioneurotechnologie|
-|der Klinik für Hals-, Nasen-, Ohrenheilkunde|
-|Medizinische Hochschule Hannover|
-|Feodor-Lynen-Str. 35|
-| 30625 Hannover|
-| |
-|Huegl.Silke(at)mh-hannover.de|
-|Tel.: +49 (0) 511-532-7263|
+
+**Contact**
+
+    Medizinische Hochschule Hannover
+    Klinik für Hals-Nasen-Ohrenheilkunde
+    Stadtfelddamm 34
+    30625 Hannover
+    Mail: 	Huegl.Silke(at)mh-hannover.de
+    Phone.: 	+49 (0) 511-532-7263
+  
