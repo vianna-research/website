@@ -13,7 +13,7 @@ title: AkvaMed
   - Perimodiolar position within the scala tympani of the cochlea
   
 ### Patents and Awards:
-!(2015auszeichnung.png){style="width:250px; float:left"}
+!(2015auszeichnung.jpg){style="width:250px; float:left"}
 !(iena.png){style="width:250px; float:right; margin-left:3em"}
 
 - Goldmedal at the international traide fair „Ideen-Erfindungen-Neuheiten (IENA)“ (ideas-inventions-new products) Nürnberg, Germany, 2015; 
