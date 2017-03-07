@@ -33,7 +33,7 @@ Motivated by this discovery, the project aim is to develop a single implant capa
 **Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
 
 
-## [Akva-Med](projects/akvamed.html)
+## [Akva-Med](projects/akvamed.html){style="width:350px"}
 
 ### Electrode Development: fluidically actuated implant
 
