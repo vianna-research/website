@@ -1,8 +1,8 @@
 title: PD Dr. med. Athanasia Warnecke
 
  
-<p align="center">**Head of Research Group**
-<p align="center">**Contact:**
+**Head of Research Group**
+**Contact:**
 
 	Athanasia Warnecke
 	Medizinische Hochschule Hannover
@@ -12,7 +12,7 @@ title: PD Dr. med. Athanasia Warnecke
 	Warnecke.Athanasia@mh-hannover.de
 
 
-<p align="center"> ![Athanasia Warnecke](warnecke_CI_labor.jpg) 
+<p align="center">![Athanasia Warnecke](warnecke_CI_labor.jpg) 
 
 ***
 ### Publications
