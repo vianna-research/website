@@ -22,6 +22,7 @@ title: AkvaMed
 
 ![](2015auszeichnung.jpg){style="width:525px; float:left"} ![](iena.png){style="width:245px; float:right; margin-left:3em"} 
 
+
 The research team from Medical School Hannover and Ilmenau University of Technology, represented by Silke Hügl (MHH) and Stefan Griebel (TUI), receive the gold medal from Henning Könicke (iENA manager, left). *Image: Andreas Heckel*
 
 
