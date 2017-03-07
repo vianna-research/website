@@ -61,4 +61,9 @@ title:Projects
 
 Minimally-invasive CI-surgery
 
+
 ![Overview of RoboJig System](projects/robojig-overview-de.png)
+
+Overview of the RoboJig surgery vs. conventional approach.
+
+
