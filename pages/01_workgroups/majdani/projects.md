@@ -1,8 +1,7 @@
 ﻿title:Projects
 
-
+---
 ## Hearing4all - Electromechanical Stimulation of the Cochlea (EMS)
-
 
 ### Project Partners: 
 	
@@ -22,7 +21,7 @@ Motivated by this discovery, the project aim is to develop a single implant capa
 
 
 
-
+---
 ## [Mini-Hexapod](http://www.vianna.de/01_workgroups/majdani/projects/hexapod.html)
 
 ### Minimally invasive cochlear implant surgery
@@ -32,7 +31,7 @@ Motivated by this discovery, the project aim is to develop a single implant capa
 
 **Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
 
-
+---
 ## [Akva-Med](projects/akvamed.html)
 
 ### Electrode Development: fluidically actuated implant
@@ -42,7 +41,7 @@ Motivated by this discovery, the project aim is to develop a single implant capa
 
 **Contact: [Silke Hügl](staff/silke.html) | Huegl.Silke@mh-hannover.de**
 
-
+---
 ## RoboJig
 
 Minimally-invasive CI-surgery
@@ -53,7 +52,7 @@ Minimally-invasive CI-surgery
 Overview of the RoboJig surgery vs. conventional approach.
 
 
-
+---
 ## [GentleCI](http://www.vianna.de/01_workgroups/majdani/projects/gentleci.html)
 
 ### Electrode Development: nickel-titanium (nitinol) actuators for cochlear implants
