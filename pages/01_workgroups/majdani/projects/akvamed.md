@@ -24,7 +24,7 @@ Expected benefit of such mechanisms:
 
 The research team from Medical School Hannover and Ilmenau University of Technology, represented by Silke Hügl (MHH) and Stefan Griebel (TUI), receive the gold medal from Henning Könicke (iENA manager, left). *Image: Andreas Heckel*
 
-
+---
 ### Project Funding:
 Funded by the German Research Foundation (DFG) under grant number MA 4038/9-1.
 
