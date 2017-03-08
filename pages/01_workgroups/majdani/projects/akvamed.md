@@ -8,16 +8,23 @@ title: AkvaMed
 	
 - Using compliant mechanisms for actuation of medical implants and instruments
 - Planning, testing, analytical synthesis and fabrication of CI electrode carrier with fludically actuation 
-- Expected benefit of such mechanisms:
-  - Hearing preservation
-  - Perimodiolar position within the scala tympani of the cochlea
+
+Expected benefit of such mechanisms:
+ - Hearing preservation
+ - Perimodiolar position within the scala tympani of the cochlea
   
 ### Patents and Awards:
-![iena](iena.png){style="width:250px; float:right; margin-left:3em"}
 
-- Goldmedal at the international traide fair „Ideen-Erfindungen-Neuheiten (IENA)“ (ideas-inventions-new products) Nürnberg, Germany, 2015; Topic: „Adaptiver Elektrodenträger, seine Verwendung und Verfahren zur Insertion eines Cochlea-Implantat-Elektrodenträgers“
-- Griebel, S.; Hügl., S.; Rau, T.S.; Majdani, O.; Wystup, C.; Lenarz, T.; Zentner, L.: Adaptiver Elektrodenträger, seine Verwendung und Verfahren zu seiner Insertion. file number: DE 10 2016 003 259.2, patent application 04.03.2016 
+- Goldmedal at the international traide fair „Ideen-Erfindungen-Neuheiten (IENA)“ (ideas-inventions-new products) Nürnberg, Germany, 2015; 
+ Topic: „Adaptiver Elektrodenträger, seine Verwendung und Verfahren zur Insertion eines Cochlea-Implantat-Elektrodenträgers“
+- Griebel, S.; Hügl., S.; Rau, T.S.; Majdani, O.; Wystup, C.; Lenarz, T.; Zentner, L.: 
+ Adaptiver Elektrodenträger, seine Verwendung und Verfahren zu seiner Insertion
+ file number: DE 10 2016 003 259.2, patent application 04.03.2016 
 
+![](2015auszeichnung.jpg){style="width:525px; float:left"} ![](iena.png){style="width:248px; float:right; margin-left:4em"} 
+
+
+The research team from Medical School Hannover and Ilmenau University of Technology, represented by Silke Hügl (MHH) and Stefan Griebel (TUI), receive the gold medal from Henning Könicke (iENA manager, left). *Image: Andreas Heckel*
 
 
 ### Project Funding:
