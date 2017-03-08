@@ -57,6 +57,6 @@ Overview of the RoboJig surgery vs. conventional approach.
 
 ### Electrode Development: nickel-titanium (nitinol) actuators for cochlear implants
 
-![FE-Simulation of electrode carrier equipped with actuator from shape-memory-alloy]( website/pages/01_workgroups/majdani/projects/gentleci1.png ){style="width:300px"}
+![FE-Simulation of electrode carrier equipped with actuator from shape-memory-alloy](projects/gentleci1.png){style="width:300px"}
 
 **Contact: [Silke Hügl](staff/silke.html) | Huegl.Silke@mh-hannover.de**
