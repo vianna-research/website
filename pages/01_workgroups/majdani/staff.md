@@ -1,6 +1,6 @@
 title:Staff
 
-![Group photo of workgroup computer-assisted Surgery](website/pages/01_workgroups/majdani/staff/IMG_3661.JPG )
+![Group photo of workgroup computer-assisted Surgery](website/pages/01_workgroups/majdani/staff/IMG_3661.JPG)
 
 | Head of Research Group                                                                         |
 |:-------------------------------------|:-----------------------|-------------------------------:|
