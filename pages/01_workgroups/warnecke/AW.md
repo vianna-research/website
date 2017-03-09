@@ -1,13 +1,7 @@
-title: PD Dr. Athanasia Warnecke
+title: PD Dr. med. Athanasia Warnecke
 
  
 **Head of Research Group**
-
-
-
-***
-
-
 **Contact:**
 
 	Athanasia Warnecke
@@ -17,8 +11,10 @@ title: PD Dr. Athanasia Warnecke
 	30625 Hannover
 	Warnecke.Athanasia@mh-hannover.de
 
+ ![Athanasia Warnecke](warnecke_CI_labor.jpg)
 
-
+[Arbeitsgruppe im Immunologisches Zentrum Hannover](https://www.mh-hannover.de/30458.html)
+***
 ### Publications
 
 * Roemer A, Staecker H, Sasse S, Lenarz T, **Warnecke A.** [Biologische Therapien in der Otologie.](https://link.springer.com/article/10.1007%2Fs00106-016-0304-x) HNO. 2017 Feb 15. doi: 10.1007/s00106-016-0304-x.

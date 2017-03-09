@@ -1,75 +1,82 @@
-title: CAS-hno – Computer-assisted surgery and electrode development
+title: CAS-hno - Computer-Assisted Surgery
 
-![cash-logo](majdani/cas-h.png){style="width:200px"}
+- - - 
 
 ## Research
 
-The focus of our research activities is directed at the use of computer-assisted surgery (CAS) based on high-resolution imaging technologies, in order to improve the precision and safety of surgical procedures, particularly on the lateral skull base. These include the use of intraoperative navigation techniques, mechatronic assistance systems and methods of computer-aided simulation and pre-operative planning. Building on this, the continued goal is to develop adaptive cochlear implant (CI) electrodes and to integrate these into the overall concept of a minimally traumatic approach to the cochlea that preserves residual hearing.
+![cash-logo](majdani/cas-h.png){style="width:350px; float:right; margin-left:3em"}
 
-![Simulation of a CI insertion](majdani/rtemagicc_rau_02.jpg){style="float:left;margin-right:3em;"}
+The group "Computer-Assisted Surgery and Electrode Development" (CAS-hno) is an interdisciplinary research group of engineers, physicians, and natural scientist at the Department of Otolaryngology whose common focus is on the development of technologies and methods for surgical rehabilitation of the inner ear (cochlear). 
 
-Because of the complex anatomy of the lateral skull base and the substantial social relevance of hearing, cochlear implantation represents one of the core applications for this technology. As part of the German Research Foundation’s (DFG) focus programme on ‘Medical Navigation and Robotics’ (SPP 1124), experimental set-ups were created using a navigation-assisted manual approach and a robot-assisted drilling approach to create a minimally invasive canal from the surface of the skull to the cochlea. This allows the cochlear implantation to be performed without the large surgical approach involving a mastoidectomy that is necessary when conventional surgical techniques are used. In response to the specific requirements arising from the need to insert the CI electrode array through the new minimally invasive approach, an automated insertion tool was developed in cooperation with the Institute of Mechatronic Systems (IMES) at the Leibniz University of Hannover, which facilitated the controlled insertion of the electrode into the inner ear.
+This includes research activities dedicated to the design and development of surgical assistance devices in order to improvement surgical techniques - with special focus on the minimally invasive approach to the inner ear. Based on high-resolution imaging and pre-operative patient-specific planning different technologies of image-guides surgery systems, mechatronic assistance devices as well als micro-stereotactic frames are incoorporated into the surgical workflow for an highly accurate and less traumatic surgical intervention. 
 
-Promising concepts can then be characterized in insertion studies on cochlear models or temporal bone specimens. The expertise of the research group includes insertion studies both with force measurement and under fluoroscopy, aimed at drawing correlations between the insertion forces arising and the deforming properties of the implant *in situ*.
+The second  research focus is on the improvement of the electrode array of a cochlear implant (CI) including the insertion technique. In this field, our research group covers the complete design and development process. Starting with imaging and three-dimensional (3D) modelling of the human inner ear, the methods used include: development of improved electrode designs using compputer aided design (CAD) software and finite element analysis (FEA); the simulation and optimization of the insertion process; experimental characterization of the electroe arrays by manual and/or automated insertion in artificial cochlear models and/or temporal bone specimens. Of special interest is the functionalization of the electrode array by integrating of actuators (e.g. by us of shape memory materials, fluid mechanical actuators, and tubular manipulators) for an individual adaption of the shape of the implant to the helical shaped inner ear in order to improve hearing preservation.  
 
-### The major focuses of this research group are
+- - - 
 
--   Use of medical imaging, particularly the importance of flat panel detector technology in visualization using volume tomography
+## Scientific expertise
 
--   Imaging of cochlear implants, including limitations of MRI imaging
+### Image acquisition
 
--   Use of a surgical navigation system for guiding a surgical drill tool to avoid injuring at-risk structures
-
--   Robot-assisted, minimally invasive access to the cochlea for cochlear implantation
-
--   Image-guided, microsterotactic approach to the cochlear for cochlear implantation
-
--   Development and evaluation of an insertion tool for introducing the CI electrode into the cochlea through the minimally invasive approach
-
--   Development of active CI electrodes for atraumatic insertion in surgical techniques designed to preserve residual hearing
-
--   Finite-Element-Analysis of CI-electrodes and their mechanical interaction with the inner ear
-
--   Accurate imaging modality and 3D-modelling of the middle and inner ear using histological serial cross-section imaging (so called microgrinding)
+-   imaging of the inner ear and lateral skull base
+-   imaging of cochlear implants after insertion
+-   computed tomography (CT), digital volume tomography (DVT), micro-CT, 3D histology ([microgrinding](majdani/methods/microgrinding.html "Microgrinding"))
 
 
-additional information: <http://www.smart-ci.de/91.html>.
+### Image processing and software development
+
+-   visualization and processing of medical images
+-   manually and semi-automated segmentation
+-   trajectory planning
+-   bone thickness calculation and visualization
+-   visualization of cochlear anatomy using rotating midmodiolar slice planes
+-   software development using C++, VTK, ITK, Matlab, LabView
+
+### 3D modelling
+
+-   anatomica models of the lateral skull base and the surgical approach
+-   finite element models of the human inner ear and the electrode array
+-   physicial replica of the human inner ear (artificial cochlear model)
+
+### Medical device development and evaluation 
+
+-   surgical assistance devices for minimally invasive cochlear implantation surgery
+-   surgical tools and medical devices such as
+    - image-guides surgery systems
+    - medical robots
+    - micro-stereotactic frames (surgical templates)
+    - manual and automated insertion tools
+    - drilling tools, laser hand pieces, and endoscopes
+
+### CI electrode development
+
+-   functionalization (shape memory inlays, fluid-mechanical actuators, tubular manipulators,...)
+-   individualization (length, thickness, shape change,...)
+-   virtual prototyping using finite element analysis
+-   simulation and optimization of the individual insertion process
+
+### CI electrode characterization
+
+-   using 3D bending test
+-   determination of curling behavior
+-   manual and automated insertion tests in artificial cochlea models and human temporal bone specimens
+-   force measurement
+-   histology and evaluation of insertion trauma
 
 
 
-## Publications:
+- - - 
 
-- [List of publications](majdani/publications.md)
-
-- Further publications: <http://www.smart-ci.de/3.html>
-
-
-## Contact:
-
-### Group head: Prof. Dr. Omid Majdani
-
-
-    Klinik für Hals-, Nasen-, Ohrenheilkunde
-    Medical School Hannover
-    Carl-Neuberg-Str. 1
-    30625 Hannover
-
-phone: +49 1761-532-7466
-
-fax: +49 511-532-8876
-
-Email: <majdani.omid@mh-hannover.de>
-
-### Lab: Dr.-Ing. Thomas S. Rau
+** Contact: Dr.-Ing. Thomas S. Rau**
 
     VIANNA - Institut für Audioneurotechnologie
     der Klinik für Hals-, Nasen-, Ohrenheilkunde
     Medizinische Hochschule Hannover
     Stadtfelddamm 34
     30625 Hannover
+    
+    phone: +49 511/532-3025
+    email: rau.thomas@mh-hannover.de
 
-phone: +49 511-532-3025
-
-Email: <rau.thomas@mh-hannover.de>
 
 
