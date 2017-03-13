@@ -1,5 +1,5 @@
 title:Microgrinding
-
+---
 ## manual Microgrinding
 Method for Imaging of histological/morphological samples:
 - embedded of the samples in epoxy
@@ -9,7 +9,7 @@ Method for Imaging of histological/morphological samples:
 
 ![manualMicrogrinding](manual_microgrinding.png)
 
-
+---
 ## automated Microgrinding
 - embedded of the samples in epoxy
 - grinding in slices of 10-100µm (automated process)
