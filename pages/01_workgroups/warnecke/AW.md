@@ -13,7 +13,10 @@ title: PD Dr. med. Athanasia Warnecke
 
  ![Athanasia Warnecke](warnecke_CI_labor.jpg)
 
-[Arbeitsgruppe im Immunologisches Zentrum Hannover](https://www.mh-hannover.de/30458.html)
+
+**Links:**
+[Immunologisches Zentrum Hannover](https://www.mh-hannover.de/30458.html)
+
 ***
 ### Publications
 
