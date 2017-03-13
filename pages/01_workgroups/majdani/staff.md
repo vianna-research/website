@@ -1,6 +1,6 @@
 title:Staff
 
-![Group photo of workgroup computer-assisted Surgery](staff/IMG_3661.jpg)
+![Group photo of workgroup computer-assisted Surgery](staff/IMG_3661.JPG)
 
 | Head of Research Group                                                                         |
 |:-------------------------------------|:-----------------------|-------------------------------:|

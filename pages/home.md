@@ -36,6 +36,8 @@ The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industria
 
 - [Lady cats are more tuned into kittens emotions than males are – Artikel in der Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/08/12/lady-cats-are-more-tuned-into-kittens-emotions-than-males-are/)
 
+- [Goldmedaille auf Erfindermesse erhalten - Pressemitteilung Technologie Region Ilmenau Arnstadt](http://www.tria-online.eu/Newseintrag.17.0.html?&tx_news_pi1[news]=4126&tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=74e24bb73bcb1c9249f1704b9c2b318f)
+
 - [Hearing and cognition are tighly related - paper in Lancet Neurology 2016](https://www.mh-hannover.de/46.html?&tx_ttnews%5Btt_news%5D=4495&cHash=9372250e91868167c310b0d3a8c1a088)
 
 - [Lower Saxony funds research excellence at MHH (DE)](https://www.mh-hannover.de/46.html?&tx_ttnews%5Btt_news%5D=4513&cHash=e49273834517320895694558489ed500)
