@@ -19,6 +19,7 @@ title: PD Dr. med. Athanasia Warnecke
 [ResearchGate](https://www.researchgate.net/profile/Athanasia_Warnecke)
 [DFG](http://gepris.dfg.de/gepris/person/116674265)
 [Hearing4all](http://hearing4all.eu/DE/Organisation/Projektleiter.php)
+[HNO - für Wissenschaftler](https://www.mh-hannover.de/18058.html)
 
 ***
 ### Publications
