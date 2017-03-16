@@ -3,10 +3,10 @@ title: Cooperations
 The VIANNA team is the research arm of the [ENT department of the Hannover Medical School](https://www.mh-hannover.de/hno.html).
 The [German Hearing Center Hannover (*Deutsches HörZentrums Hannover*)](http://www.hoerzentrum-hannover.de) is the first contact point for patients with hearing related issues.
 
-- Cooperations of the German Hearing Center Hannover: http://www.hoerzentrum-hannover.de/index.php?id=9
+-   Cooperations of the German Hearing Center Hannover: [link](http://www.hoerzentrum-hannover.de/index.php?id=9)
 
-- [Institute of Mechatronic Systems](https://www.imes.uni-hannover.de/institut.html?&L=1)
-  +  Joint research project [RoboJig](01_workgroups/cas/projects/akvamed.html) with the group of Prof. Ortmaier
+-   [Institute of Mechatronic Systems](https://www.imes.uni-hannover.de/institut.html?&L=1) of the Leibniz University Hannover
+    +   Joint research project [RoboJig](01_workgroups/cas/projects/akvamed.html) with the group of Prof. Ortmaier
 
 
 ## Industry
