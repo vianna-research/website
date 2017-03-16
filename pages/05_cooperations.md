@@ -1,9 +1,13 @@
 title: Cooperations
 
+The VIANNA team is the research arm of the [ENT department of the Hannover Medical School](https://www.mh-hannover.de/hno.html).
+The [German Hearing Center Hannover (*Deutsches HörZentrums Hannover*)](http://www.hoerzentrum-hannover.de) is the first contact point for patients with hearing related issues.
+
+- Cooperations of the German Hearing Center Hannover: http://www.hoerzentrum-hannover.de/index.php?id=9
+
+
+
 ## Industry
-
-... WIP
-
 
 ### HörSys GmbH
 
@@ -15,6 +19,7 @@ HörSys GmbH was founded in 2008 by Prof. Prof. h.c. Dr. med. Thomas Lenarz with
 * * * * * * * *
 
 
+
 ### [MED-EL](https://www.medel.com)
 
 ![MED-EL-Logo](05_cooperations/MED-EL_red_large.png){: style=width:30%;}
@@ -22,8 +27,5 @@ HörSys GmbH was founded in 2008 by Prof. Prof. h.c. Dr. med. Thomas Lenarz with
 ### Cochlear
 
 
-
 ### Advanced Bionics
 
-
-### Blackrock Europe GmbH
