@@ -20,9 +20,8 @@ HörSys GmbH was founded in 2008 by Prof. Prof. h.c. Dr. med. Thomas Lenarz with
 
 
 
-### [MED-EL](https://www.medel.com)
+[![MED-EL-Logo](05_cooperations/MED-EL_red_large.png){: style=width:20%;}](https://www.medel.com)
 
-![MED-EL-Logo](05_cooperations/MED-EL_red_large.png){: style=width:20%;}
 
 ### Cochlear
 
