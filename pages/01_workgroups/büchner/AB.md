@@ -1,9 +1,11 @@
 title: Prof. Dr. Dipl.-Inform. Andreas Büchner 	
 
 
- ![Andreas Büchner](buechner.jpg) 
+ 
 
 **Head of Research of the German Hearing Centre Hannover (DHZ)**
+
+![Andreas Büchner](buechner.jpg)
 
 **Contact:**
 
