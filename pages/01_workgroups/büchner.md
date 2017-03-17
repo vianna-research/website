@@ -1,5 +1,4 @@
 title: Büchner Lab - 
 ***
 
-[DHZ](http://www.hoerzentrum-hannover.de/index.php?id=19)
-
+[DHZ](http://www.hoerzentrum-hannover.de/index.php?id=1)
