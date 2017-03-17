@@ -1,4 +1,4 @@
-itle: Prof. Dr. Dipl.-Inform. Andreas Büchner 	
+title: Prof. Dr. Dipl.-Inform. Andreas Büchner 	
 
  ![Andreas Büchner](buechner.jpg) 
 
