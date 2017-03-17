@@ -1,6 +1,6 @@
 itle: Prof. Dr. Dipl.-Inform. Andreas Büchner 	
 
- ![Andreas Büchner](E:\Daten\Büchner Andreas\website\buechner.jpg) 
+ ![Andreas Büchner](buechner.jpg) 
 
 **Head of Research of the German Hearing Centre Hannover (DHZ)**
 
