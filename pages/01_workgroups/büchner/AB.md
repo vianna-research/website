@@ -28,13 +28,9 @@ title: Prof. Dr. Dipl.-Inform. Andreas Büchner
 ***
 ### Publications
 
-* [Auditory and audio-visual processing in patients with cochlear, auditory brainstem, and auditory midbrain implants: An EEG study.](http://onlinelibrary.wiley.com/doi/10.1002/hbm.23515/abstract;jsessionid=EA9F8D82EAD0690C8A72C9476044DB5D.f04t04?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+25th+March+from+07%3A00+GMT+%2F+03%3A00+EDT+%2F+15%3A00+SGT+for+4+hours+for+essential+maintenance.++Apologies+for+the+inconvenience.)
-Schierholz I, Finke M, Kral A, **Büchner A**, Rach S, Lenarz T, Dengler R, Sandmann P.
-Hum Brain Mapp. 2017 Apr;38(4):2206-2225. doi: 10.1002/hbm.23515.
+* [Auditory and audio-visual processing in patients with cochlear, auditory brainstem, and auditory midbrain implants: An EEG study.](http://onlinelibrary.wiley.com/doi/10.1002/hbm.23515/abstract;jsessionid=EA9F8D82EAD0690C8A72C9476044DB5D.f04t04?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+25th+March+from+07%3A00+GMT+%2F+03%3A00+EDT+%2F+15%3A00+SGT+for+4+hours+for+essential+maintenance.++Apologies+for+the+inconvenience.) Schierholz I, Finke M, Kral A, **Büchner A**, Rach S, Lenarz T, Dengler R, Sandmann P. Hum Brain Mapp. 2017 Apr;38(4):2206-2225. doi: 10.1002/hbm.23515.
 
-* [Speech intelligibility and subjective benefit in single-sided deaf adults after cochlear implantation.](http://www.sciencedirect.com/science/article/pii/S0378595516304075)
-Finke M, Strauß-Schier A, Kludt E, **Büchner A**, Illg A.
-Hear Res. 2017 Mar 9. pii: S0378-5955(16)30407-5. doi: 10.1016/j.heares.2017.03.002. [Epub ahead of print]
+* [Speech intelligibility and subjective benefit in single-sided deaf adults after cochlear implantation.](http://www.sciencedirect.com/science/article/pii/S0378595516304075) Finke M, Strauß-Schier A, Kludt E, **Büchner A**, Illg A. Hear Res. 2017 Mar 9. pii: S0378-5955(16)30407-5. doi: 10.1016/j.heares.2017.03.002. [Epub ahead of print]
 
 * [Off the ear with no loss in speech understanding: comparing the RONDO and the OPUS 2 cochlear implant audio processors.](https://link.springer.com/article/10.1007%2Fs00405-016-4400-z)
 Dazert S, Thomas JP, **Büchner A**, Müller J, Hempel JM, Löwenheim H, Mlynski R.
@@ -187,24 +183,14 @@ Eur J Pain. 2011 Sep;15(8):880-4. doi: 10.1016/j.ejpain.2011.01.013.
 Gärtner L, Lenarz T, Joseph G, **Büchner A**.
 Acta Otolaryngol. 2010 Jun;130(6):724-32. doi: 10.3109/00016480903380539.
 
-* European adult multi-centre HiRes® 120 study--an update on 65 subjects.
-Ambrosch P, Müller-Deile J, Aschendorff A, Laszig R, Boermans PP, Frijns J, Boyle P, Kienast B, **Büchner A**, Lenarz T, Cooper H, Fielden C, Eklöf M, Freijd A, Filipo R, Mancini P, Frachet B, Gallego S, Truy E, Helbig S, Jeffs E, Lombaard S, Meerton L, Marco J, Morant A, Meyer B, Pickerill M, Vanat Z, Sterkers O.
-Cochlear Implants Int. 2010 Jun;11 Suppl 1:406-11. doi: 10.1179/146701010X12671177204183. No abstract available.
+* European adult multi-centre HiRes® 120 study--an update on 65 subjects. Ambrosch P, Müller-Deile J, Aschendorff A, Laszig R, Boermans PP, Frijns J, Boyle P, Kienast B, **Büchner A**, Lenarz T, Cooper H, Fielden C, Eklöf M, Freijd A, Filipo R, Mancini P, Frachet B, Gallego S, Truy E, Helbig S, Jeffs E, Lombaard S, Meerton L, Marco J, Morant A, Meyer B, Pickerill M, Vanat Z, Sterkers O. Cochlear Implants Int. 2010 Jun;11 Suppl 1:406-11. doi: 10.1179/146701010X12671177204183. No abstract available.
 
-* Speech perception with cochlear implants as measured using a roving-level adaptive test method.
-Haumann S, Lenarz T, **Büchner A**.
-ORL J Otorhinolaryngol Relat Spec. 2010;72(6):312-8. doi: 10.1159/000318872.
+* Speech perception with cochlear implants as measured using a roving-level adaptive test method. Haumann S, Lenarz T, **Büchner A**. ORL J Otorhinolaryngol Relat Spec. 2010;72(6):312-8. doi: 10.1159/000318872.
 
-* Comparison of dual-time-constant and fast-acting automatic gain control (AGC) systems in cochlear implants.
-Boyle PJ, **Büchner A**, Stone MA, Lenarz T, Moore BC.
-Int J Audiol. 2009 Apr;48(4):211-21. doi: 10.1080/14992020802581982.
+* Comparison of dual-time-constant and fast-acting automatic gain control (AGC) systems in cochlear implants. Boyle PJ, **Büchner A**, Stone MA, Lenarz T, Moore BC. Int J Audiol. 2009 Apr;48(4):211-21. doi: 10.1080/14992020802581982.
 
-* A foodborne outbreak of Salmonella Enteritidis phage type 6 in Austria, 2008.
-Much P, Pichler J, Kasper S, Lassnig H, Kornschober C, **Büchner A**, König C, Allerberger F.
-Wien Klin Wochenschr. 2009;121(3-4):132-6. doi: 10.1007/s00508-008-1134-y.
+* A foodborne outbreak of Salmonella Enteritidis phage type 6 in Austria, 2008. Much P, Pichler J, Kasper S, Lassnig H, Kornschober C, **Büchner A**, König C, Allerberger F. Wien Klin Wochenschr. 2009;121(3-4):132-6. doi: 10.1007/s00508-008-1134-y.
 
-* Results from a psychoacoustic model-based strategy for the nucleus-24 and freedom cochlear implants.
-**Büchner A**, Nogueira W, Edler B, Battmer RD, Lenarz T.
-Otol Neurotol. 2008 Feb;29(2):189-92. doi: 10.1097/mao.0b013e318162512c.
+* Results from a psychoacoustic model-based strategy for the nucleus-24 and freedom cochlear implants. **Büchner A**, Nogueira W, Edler B, Battmer RD, Lenarz T. Otol Neurotol. 2008 Feb;29(2):189-92. doi: 10.1097/mao.0b013e318162512c.
 
 
