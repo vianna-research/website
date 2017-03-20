@@ -1,4 +1,5 @@
 title: Reuter Lab - Experimental Otology
+status: hidded
 
 ![Figure_1](reuter/zusammenstellung_03_skaliert.jpg)
 
