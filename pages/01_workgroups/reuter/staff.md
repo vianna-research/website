@@ -1,4 +1,5 @@
 title: Staff
+status: hidden
 
 **Head of Work Group**
 

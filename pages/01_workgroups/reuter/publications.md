@@ -1,4 +1,5 @@
 title: Publications
+status: hidden
 
 ## 2014
 
