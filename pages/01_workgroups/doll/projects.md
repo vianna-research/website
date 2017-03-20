@@ -5,10 +5,17 @@ Publications regarding these projects can be found [here](publications.html)
 
 
 ##Ongoing Projects
+
+* **Leistungszentrum Translational Medical Engineering** (in Cooperation with Fraunhofer Foundation)
+This competence centre establishes a framework of non-standard compliant medical device manufacturing services especially for SME innovations. Its basis are quality and risk management supporting services developed for external processes. Also novel test procedures especially for accelerated life cycling are developed. 
+Please contact [Prof. Doll](staff.html) for more information.
+
 * **Feedback loop and fluid flow electrode - FLOWTRODE** (BMBF: KMU Innovativ Medizintechnik)  
+Combination of thin film ECoG array development incl. the development of a flexible electrode material with microdialysis and neurotransmitter sensing functions for neuropharmacological developments. The combination of methods leads to a drastical reduction of necessary studies.
 Please contact [Prof. Doll](staff.html) for more information.
 
 * **Flexible Individualized Active Medical Implants – 3D Printing of Silicone Rubber Connectors and Electrodes - FINAMI** (BMWi: ZIM KF-VP)   
+Development of a rapid 3D printing technique for medical grade silicone rubber devices. This comes with fundamental theory of vulcanization under non standard conditions like laser illumination.
 Please contact [Prof. Doll](staff.html) for more information.   
 
 * **Carbon Nanotube Neurite Interface for CI and ECoG** ([Hearing4All](http://hearing4all.eu/EN/))    
