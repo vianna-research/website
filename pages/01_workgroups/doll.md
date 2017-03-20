@@ -11,6 +11,21 @@ More information about current projects can be found [here](doll/projects.html).
 The work group has dual appointment to Fraunhofer. In its [Institute for Toxicology and Experimental Medicine ITEM](https://www.item.fraunhofer.de/en/services_expertise/medical_engineering.html) we perform addditional biocompatibility testing, risk- and quality management and devlop advanced testing methods suitable for implant developments that go beyond clinical standards.
 
 
+The group cooperates with the following institutions:
+* [Charité-Universitätsmedizin Berlin](https://www.charite.de/en/)
+* [Harvard Medical School](https://hms.harvard.edu/)
+* [Jade Hochschule](https://www.jade-hs.de/en/)
+* [Johannes Keppler Universität Linz](http://www.jku.at/content)
+* [Katholieke Universiteit Leuven](http://www.kuleuven.be/english/)
+* [Leibniz Universität Hannover](https://www.uni-hannover.de/en/?no_cache=1)
+* [Linköpings universitet](https://liu.se/en)
+* [Technische Universität Braunschweig](https://www.tu-braunschweig.de/wirueberuns/index.html)
+* [Technische Universität München](https://www.tum.de/en/homepage/)
+* [The University of Utah](https://www.utah.edu/)
+* [Universidad de Salamanca](http://www0.usal.es/webusal/en)
+* [Universidad de Santiago de Chile](http://www.usach.cl/en)
+
+
 
 
 ***
