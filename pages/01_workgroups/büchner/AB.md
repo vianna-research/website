@@ -78,44 +78,42 @@ title: Prof. Dr. Dipl.-Inform. Andreas Büchner
 
 * [Evaluation of the bimodal benefit in a large cohort of cochlear implant subjects using a contralateral hearing aid.](http://ovidsp.tx.ovid.com/sp-3.24.1b/ovidweb.cgi?QS2=434f4e1a73d37e8c0a3e3482ebd120755eb4385e5401081bb76b7ea8a77cedcd58462373c681c8c165c9f80cef2be038372848654d8717d5024194ffb2c73149494717737b1c4e7facb204a90b83f69ed14a4a1eba09d67eebaf05bc1ac0d42acf8034f0635563ffee74c08971c3b7156c8cc13248c6c69d4970ecc553cda44bb3674e14a4e5a142bd480f1f9ff0a427388a55b6aeb749be1afae6797411c5e52c8cfe18b470003ffb93820f40478396efa3bca21d2e10025cce2f3609044554c114c6b2f66e35ce18e5400f410d0919fc394ca79ff29114a95acd561be1e112233f86d6004b8a03fe5a8367f8243a9551fbeabf48a7497fd8dea08cec3f0415d808cf436d4727d00cc4627f3ba9a5a71b9d12dbe1f39ba1e8ccfd01e056b3daa56a810e158a62c72c630d5ab63dc4d52a7c6707a352831677a3b1c28d00ec71caa2ea42776de5c6652d871a42a9388f) Illg A, Bojanowicz M, Lesinski-Schiedat A, Lenarz T, **Büchner A**. Otol Neurotol. 2014 Oct;35(9):e240-4. doi: 10.1097/MAO.0000000000000529.
 
-* Audio-tactile integration in congenitally and late deaf cochlear implant users. Nava E, Bottari D, Villwock A, Fengler I, **Büchner A**, Lenarz T, Röder B. PLoS One. 2014 Jun 11;9(6):e99606. doi: 10.1371/journal.pone.0099606.
+* [Audio-tactile integration in congenitally and late deaf cochlear implant users.] Nava E, Bottari D, Villwock A, Fengler I, **Büchner A**, Lenarz T, Röder B. PLoS One. 2014 Jun 11;9(6):e99606. doi: 10.1371/journal.pone.0099606.
 
-* Residual neural processing of musical sound features in adult cochlear implant users. Timm L, Vuust P, Brattico E, Agrawal D, Debener S, **Büchner A**, Dengler R, Wittfoth M. Front Hum Neurosci. 2014 Apr 3;8:181. doi: 10.3389/fnhum.2014.00181.
+* [Residual neural processing of musical sound features in adult cochlear implant users. Timm L, Vuust P, Brattico E, Agrawal D, Debener S, **Büchner A**, Dengler R, Wittfoth M. Front Hum Neurosci. 2014 Apr 3;8:181. doi: 10.3389/fnhum.2014.00181.
 
 * [Hearing preservation outcomes with different cochlear implant electrodes: Nucleus® Hybrid™-L24 and Nucleus Freedom™ CI422.](https://www.karger.com/Article/FullText/360601) Jurawitz MC, **Büchner A**, Harpel T, Schüssler M, Majdani O, Lesinski-Schiedat A, Lenarz T. Audiol Neurootol. 2014;19(5):293-309. doi: 10.1159/000360601.
 
-* Speech comprehension in children and adolescents after sequential bilateral cochlear implantation with long interimplant interval. Illg A, Giourgas A, Kral A, **Büchner A**, Lesinski-Schiedat A, Lenarz T. Otol Neurotol. 2013 Jun;34(4):682-9. doi: 10.1097/MAO.0b013e31828bb75e.
+* [Speech comprehension in children and adolescents after sequential bilateral cochlear implantation with long interimplant interval.] Illg A, Giourgas A, Kral A, **Büchner A**, Lesinski-Schiedat A, Lenarz T. Otol Neurotol. 2013 Jun;34(4):682-9. doi: 10.1097/MAO.0b013e31828bb75e.
 
-* ERP evidence for the recognition of emotional prosody through simulated cochlear implant strategies. Agrawal D, Timm L, Viola FC, Debener S, **Büchner A**, Dengler R, Wittfoth M. BMC Neurosci. 2012 Sep 20;13:113. doi: 10.1186/1471-2202-13-113.
+* [ERP evidence for the recognition of emotional prosody through simulated cochlear implant strategies. Agrawal D, Timm L, Viola FC, Debener S, **Büchner A**, Dengler R, Wittfoth M. BMC Neurosci. 2012 Sep 20;13:113. doi: 10.1186/1471-2202-13-113.
 
-* Indication criteria for cochlear implants and hearing aids: impact of audiological and non-audiological findings. Haumann S, Hohmann V, Meis M, Herzke T, Lenarz T, **Büchner A**. Audiol Res. 2012 Aug 14;2(1):e12. doi: 10.4081/audiores.2012.e12. Review.
+* [Indication criteria for cochlear implants and hearing aids: impact of audiological and non-audiological findings. Haumann S, Hohmann V, Meis M, Herzke T, Lenarz T, **Büchner A**. Audiol Res. 2012 Aug 14;2(1):e12. doi: 10.4081/audiores.2012.e12. Review.
 
-* Long-term performance of cochlear implants in postlingually deafened adults. Lenarz M, Sönmez H, Joseph G, **Büchner A**, Lenarz T. Otolaryngol Head Neck Surg. 2012 Jul;147(1):112-8. doi: 10.1177/0194599812438041.
+* [Long-term performance of cochlear implants in postlingually deafened adults. Lenarz M, Sönmez H, Joseph G, **Büchner A**, Lenarz T. Otolaryngol Head Neck Surg. 2012 Jul;147(1):112-8. doi: 10.1177/0194599812438041.
 
-* Cochlear implant performance in geriatric patients. Lenarz M, Sönmez H, Joseph G, **Büchner A**, Lenarz T. Laryngoscope. 2012 Jun;122(6):1361-5. doi: 10.1002/lary.23232.
+* [Cochlear implant performance in geriatric patients. Lenarz M, Sönmez H, Joseph G, **Büchner A**, Lenarz T. Laryngoscope. 2012 Jun;122(6):1361-5. doi: 10.1002/lary.23232.
 
-* Effect of gender on the hearing performance of adult cochlear implant patients. Lenarz M, Sönmez H, Joseph G, **Büchner A**, Lenarz T. Laryngoscope. 2012 May;122(5):1126-9. doi: 10.1002/lary.23214.
+* [Effect of gender on the hearing performance of adult cochlear implant patients. Lenarz M, Sönmez H, Joseph G, **Büchner A**, Lenarz T. Laryngoscope. 2012 May;122(5):1126-9. doi: 10.1002/lary.23214.
 
-* Benefits of the HiRes 120 coding strategy combined with the Harmony processor in an adult European multicentre study. **Büchner A**, Lenarz T, Boermans PP, Frijns JH, Mancini P, Filipo R, Fielden C, Cooper H, Eklöf M, Freijd A, Lombaard S, Meerton L, Pickerill M, Vanat Z, Wesarg T, Aschendorff A, Kienast B, Boyle P, Arnold L, Meyer B, Sterkers O, Müller-Deile J, Ambrosch P, Helbig S, Frachet B, Gallego S, Truy E, Jeffs E, Morant A, Marco J. Acta Otolaryngol. 2012 Feb;132(2):179-87. doi: 10.3109/00016489.2011.630015.
+* [Benefits of the HiRes 120 coding strategy combined with the Harmony processor in an adult European multicentre study. **Büchner A**, Lenarz T, Boermans PP, Frijns JH, Mancini P, Filipo R, Fielden C, Cooper H, Eklöf M, Freijd A, Lombaard S, Meerton L, Pickerill M, Vanat Z, Wesarg T, Aschendorff A, Kienast B, Boyle P, Arnold L, Meyer B, Sterkers O, Müller-Deile J, Ambrosch P, Helbig S, Frachet B, Gallego S, Truy E, Jeffs E, Morant A, Marco J. Acta Otolaryngol. 2012 Feb;132(2):179-87. doi: 10.3109/00016489.2011.630015.
 
-* Temporal feature perception in cochlear implant users. Timm L, Agrawal D, C Viola F, Sandmann P, Debener S, **Büchner A**, Dengler R, Wittfoth M. PLoS One. 2012;7(9):e45375. doi: 10.1371/journal.pone.0045375.
+* [Temporal feature perception in cochlear implant users. Timm L, Agrawal D, C Viola F, Sandmann P, Debener S, **Büchner A**, Dengler R, Wittfoth M. PLoS One. 2012;7(9):e45375. doi: 10.1371/journal.pone.0045375.
 
-* Effect of technological advances on cochlear implant performance in adults. Lenarz M, Joseph G, Sönmez H, **Büchner A**, Lenarz T. Laryngoscope. 2011 Dec;121(12):2634-40. doi: 10.1002/lary.22377.
+* [Effect of technological advances on cochlear implant performance in adults. Lenarz M, Joseph G, Sönmez H, **Büchner A**, Lenarz T. Laryngoscope. 2011 Dec;121(12):2634-40. doi: 10.1002/lary.22377.
 
-* Binaural unmasking of multi-channel stimuli in bilateral cochlear implant users. Van Deun L, van Wieringen A, Francart T, **Büchner A**, Lenarz T, Wouters J. J Assoc Res Otolaryngol. 2011 Oct;12(5):659-70. doi: 10.1007/s10162-011-0275-2.
+* [Binaural unmasking of multi-channel stimuli in bilateral cochlear implant users. Van Deun L, van Wieringen A, Francart T, **Büchner A**, Lenarz T, Wouters J. J Assoc Res Otolaryngol. 2011 Oct;12(5):659-70. doi: 10.1007/s10162-011-0275-2.
 
-* Epidemiologic evidence of barometric pressure changes inducing increased reporting of oral pain. Kloss-Brandstätter A, Hächl O, Leitgeb PC, **Büchner A**, Coassin S, Rasse M, Kronenberg F, Kloss FR. Eur J Pain. 2011 Sep;15(8):880-4. doi: 10.1016/j.ejpain.2011.01.013.
+* [Epidemiologic evidence of barometric pressure changes inducing increased reporting of oral pain. Kloss-Brandstätter A, Hächl O, Leitgeb PC, **Büchner A**, Coassin S, Rasse M, Kronenberg F, Kloss FR. Eur J Pain. 2011 Sep;15(8):880-4. doi: 10.1016/j.ejpain.2011.01.013.
 
-* Clinical use of a system for the automated recording and analysis of electrically evoked compound action  otentials (ECAPs) in cochlear implant patients. Gärtner L, Lenarz T, Joseph G, **Büchner A**. Acta Otolaryngol. 2010 Jun;130(6):724-32. doi: 10.3109/00016480903380539.
+* [Clinical use of a system for the automated recording and analysis of electrically evoked compound action  otentials (ECAPs) in cochlear implant patients. Gärtner L, Lenarz T, Joseph G, **Büchner A**. Acta Otolaryngol. 2010 Jun;130(6):724-32. doi: 10.3109/00016480903380539.
 
-* European adult multi-centre HiRes® 120 study--an update on 65 subjects. Ambrosch P, Müller-Deile J, Aschendorff A, Laszig R, Boermans PP, Frijns J, Boyle P, Kienast B, **Büchner A**, Lenarz T, Cooper H, Fielden C, Eklöf M, Freijd A, Filipo R, Mancini P, Frachet B, Gallego S, Truy E, Helbig S, Jeffs E, Lombaard S, Meerton L, Marco J, Morant A, Meyer B, Pickerill M, Vanat Z, Sterkers O. Cochlear Implants Int. 2010 Jun;11 Suppl 1:406-11. doi: 10.1179/146701010X12671177204183. No abstract available.
+* [European adult multi-centre HiRes® 120 study--an update on 65 subjects. Ambrosch P, Müller-Deile J, Aschendorff A, Laszig R, Boermans PP, Frijns J, Boyle P, Kienast B, **Büchner A**, Lenarz T, Cooper H, Fielden C, Eklöf M, Freijd A, Filipo R, Mancini P, Frachet B, Gallego S, Truy E, Helbig S, Jeffs E, Lombaard S, Meerton L, Marco J, Morant A, Meyer B, Pickerill M, Vanat Z, Sterkers O. Cochlear Implants Int. 2010 Jun;11 Suppl 1:406-11. doi: 10.1179/146701010X12671177204183. No abstract available.
 
-* Speech perception with cochlear implants as measured using a roving-level adaptive test method. Haumann S, Lenarz T, **Büchner A**. ORL J Otorhinolaryngol Relat Spec. 2010;72(6):312-8. doi: 10.1159/000318872.
+* [Speech perception with cochlear implants as measured using a roving-level adaptive test method. Haumann S, Lenarz T, **Büchner A**. ORL J Otorhinolaryngol Relat Spec. 2010;72(6):312-8. doi: 10.1159/000318872.
 
-* Comparison of dual-time-constant and fast-acting automatic gain control (AGC) systems in cochlear implants. Boyle PJ, **Büchner A**, Stone MA, Lenarz T, Moore BC. Int J Audiol. 2009 Apr;48(4):211-21. doi: 10.1080/14992020802581982.
+* [Comparison of dual-time-constant and fast-acting automatic gain control (AGC) systems in cochlear implants.](http://www.tandfonline.com/doi/full/10.1080/14992020802581982) Boyle PJ, **Büchner A**, Stone MA, Lenarz T, Moore BC. Int J Audiol. 2009 Apr;48(4):211-21. doi: 10.1080/14992020802581982.
 
-* A foodborne outbreak of Salmonella Enteritidis phage type 6 in Austria, 2008. Much P, Pichler J, Kasper S, Lassnig H, Kornschober C, **Büchner A**, König C, Allerberger F. Wien Klin Wochenschr. 2009;121(3-4):132-6. doi: 10.1007/s00508-008-1134-y.
-
-* Results from a psychoacoustic model-based strategy for the nucleus-24 and freedom cochlear implants. **Büchner A**, Nogueira W, Edler B, Battmer RD, Lenarz T. Otol Neurotol. 2008 Feb;29(2):189-92. doi: 10.1097/mao.0b013e318162512c.
+* [Results from a psychoacoustic model-based strategy for the nucleus-24 and freedom cochlear implants](http://ovidsp.tx.ovid.com/sp-3.24.1b/ovidweb.cgi?QS2=434f4e1a73d37e8c740ce3cde7a33785926d9639151ecbef2a579cae066d06664e75f4c55d045e4ae535f89f23497b2b6ef17a0c08aab98dabec8de3610dcde41245b25deb8f868beadb54349a95c6bcb47cdc978ffd4e15f8b10c10ffe85f1b58be9187da89345fb50a600ab181feda6c193afc32868c915e5feab97a5f5f52573cefebc1921203e7454ccda0dd42c653bb0c441029daf0ee8585a29e779356fcfb6d80e5cc3625f5927f821d90c27895feb84cdb5ad7d32545ef99387088d7747126aad09fad0f0d4205f53ba3e03c4bf7464924e4ea24764c7483f3ce7c67bb029a1f9e43f696df933f6e7d05ce3bd31b9b6ab72697a4d1edda2d36bd295bbd75f917554481ff6391426722ebd3b64f68a28b2eb33c0440f2ffa3b130b64bf7ad6e6454658de730f70873d8296075ca70cd40b3c0f4cf7a4a97b40b3f14a4872bd772b75308c9bf61e60b320b7fdc20be179bf8a0de97a28e90f3da2a5fdadb7858a2acbb3fcdab98962372a4a01fee6de63b78f4141ec3ef452285d4c5cd0287e2d020b7d019895af97b413714c632edbba969a4d3cc). **Büchner A**, Nogueira W, Edler B, Battmer RD, Lenarz T. Otol Neurotol. 2008 Feb;29(2):189-92. doi: 10.1097/mao.0b013e318162512c.
 
 
