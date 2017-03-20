@@ -53,9 +53,8 @@ title: Prof. Dr.-Ing Theodor Doll
 
 BioMaterial Engineering
 Medizinische Hochschule Hannover
-Feodor-Lynen-Straße 27
+Stadtfelddam 34
 30625 Hannover
 
-Phone: 0511 532 7231
-Fax: 0511 532 18576
+Phone: 0511 532 7230
 Mail: doll.theodor(at)mh-hannover.de
