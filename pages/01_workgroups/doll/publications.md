@@ -42,7 +42,7 @@ before 2013
 #Conferences
 **2016**
 ---
-**EnFI 2015** - Engineering of Functional Interfaces
+**EnFI 2016** - Engineering of Functional Interfaces
 
 * Poster & Abstract: G. Leuteritz, W. Kossow, J. Stieghorst and [T. Doll](pagedoll.html): Analysis of Bonding Strength and Spreading of Multilayer Silicone Rubber Interfaces for Medical Rapid Prototyping 
 * Poster & Abstract: W. Kossow, G. Leuteritz, J. Stieghorst and [T. Doll](pagedoll.html): Investigation of Silicone Rubber Interfaces for Medical Rapid Prototyping
