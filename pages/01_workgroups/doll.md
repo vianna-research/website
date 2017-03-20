@@ -6,11 +6,12 @@ title: Doll Lab - Biomaterial Engineering
 
 The research group BioMaterial Engineering works towards development and production techniques for new electrode concepts for active implants.
 Our material concepts cover nanocomposites as biocompatible, low impedance CNT-silicone rubber electrodes , microelectronic circuits for implantable on-board electronics as well as encapsulation strategies to chronic application of them. Also sillicone rubber 3D printing is developed for medical device applications. We develop biochemical sensors for acute in-vivo use as well actuators that make implants hugging to their target tissue.
- 
-The work group has dual appointment to Fraunhofer. In its Institute for Toxicology and Experimental Medicine ITEM (LINK) we perform addditional biocompatibility testing, risk- and quality management and devlop advanced testing methods suitable for implant developments that go beyond clinical standards.
-
-
 More information about current projects can be found [here](doll/projects.html).
+ 
+The work group has dual appointment to Fraunhofer. In its [Institute for Toxicology and Experimental Medicine ITEM](https://www.item.fraunhofer.de/en/services_expertise/medical_engineering.html) we perform addditional biocompatibility testing, risk- and quality management and devlop advanced testing methods suitable for implant developments that go beyond clinical standards.
+
+
+
 
 ***
 
