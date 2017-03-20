@@ -88,8 +88,7 @@ title: Prof. Dr. Dipl.-Inform. Andreas Büchner
 
 * ERP evidence for the recognition of emotional prosody through simulated cochlear implant strategies. Agrawal D, Timm L, Viola FC, Debener S, **Büchner A**, Dengler R, Wittfoth M. BMC Neurosci. 2012 Sep 20;13:113. doi: 10.1186/1471-2202-13-113.
 
-* Indication criteria for cochlear implants and hearing aids: impact of audiological and non-audiological findings.
-Haumann S, Hohmann V, Meis M, Herzke T, Lenarz T, **Büchner A**. Audiol Res. 2012 Aug 14;2(1):e12. doi: 10.4081/audiores.2012.e12. Review.
+* Indication criteria for cochlear implants and hearing aids: impact of audiological and non-audiological findings. Haumann S, Hohmann V, Meis M, Herzke T, Lenarz T, **Büchner A**. Audiol Res. 2012 Aug 14;2(1):e12. doi: 10.4081/audiores.2012.e12. Review.
 
 * Long-term performance of cochlear implants in postlingually deafened adults. Lenarz M, Sönmez H, Joseph G, **Büchner A**, Lenarz T. Otolaryngol Head Neck Surg. 2012 Jul;147(1):112-8. doi: 10.1177/0194599812438041.
 
@@ -97,8 +96,7 @@ Haumann S, Hohmann V, Meis M, Herzke T, Lenarz T, **Büchner A**. Audiol Res. 20
 
 * Effect of gender on the hearing performance of adult cochlear implant patients. Lenarz M, Sönmez H, Joseph G, **Büchner A**, Lenarz T. Laryngoscope. 2012 May;122(5):1126-9. doi: 10.1002/lary.23214.
 
-* Benefits of the HiRes 120 coding strategy combined with the Harmony processor in an adult European multicentre study. **Büchner A**, Lenarz T, Boermans PP, Frijns JH, Mancini P, Filipo R, Fielden C, Cooper H, Eklöf M, Freijd A, Lombaard S, Meerton L, Pickerill M, Vanat Z, Wesarg T, Aschendorff A, Kienast B, Boyle P, Arnold L, Meyer B, Sterkers O, Müller-Deile J, Ambrosch P, Helbig S, Frachet B, Gallego S, Truy E, Jeffs E, Morant A, Marco J.
-Acta Otolaryngol. 2012 Feb;132(2):179-87. doi: 10.3109/00016489.2011.630015.
+* Benefits of the HiRes 120 coding strategy combined with the Harmony processor in an adult European multicentre study. **Büchner A**, Lenarz T, Boermans PP, Frijns JH, Mancini P, Filipo R, Fielden C, Cooper H, Eklöf M, Freijd A, Lombaard S, Meerton L, Pickerill M, Vanat Z, Wesarg T, Aschendorff A, Kienast B, Boyle P, Arnold L, Meyer B, Sterkers O, Müller-Deile J, Ambrosch P, Helbig S, Frachet B, Gallego S, Truy E, Jeffs E, Morant A, Marco J. Acta Otolaryngol. 2012 Feb;132(2):179-87. doi: 10.3109/00016489.2011.630015.
 
 * Temporal feature perception in cochlear implant users. Timm L, Agrawal D, C Viola F, Sandmann P, Debener S, **Büchner A**, Dengler R, Wittfoth M. PLoS One. 2012;7(9):e45375. doi: 10.1371/journal.pone.0045375.
 
