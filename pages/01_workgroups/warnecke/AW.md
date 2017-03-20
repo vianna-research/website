@@ -24,7 +24,7 @@ title: PD Dr. med. Athanasia Warnecke
 ***
 ### Publications
 
-* Roemer A, Staecker H, Sasse S, Lenarz T, **Warnecke A.** [Biologische Therapien in der Otologie.](https://link.springer.com/article/10.1007%2Fs00106-016-0304-x) HNO. 2017 Feb 15. doi: 10.1007/s00106-016-0304-x.
+* Roemer A, Staecker H, Sasse S, Lenarz T, **Warnecke A**. [Biologische Therapien in der Otologie.](https://link.springer.com/article/10.1007%2Fs00106-016-0304-x) HNO. 2017 Feb 15. doi: 10.1007/s00106-016-0304-x.
 
 * Roger Y, Schäck LM, Koroleva A, Noack S, Kurselis K, Krettek C, Chichkov B, Lenarz T, **Warnecke A**, Hoffmann A. [Grid-like surface structures in thermoplastic polyurethane induce anti-inflammatory and anti-fibrotic processes in bone marrow-derived mesenchymal stem cells.](http://www.sciencedirect.com/science/article/pii/S0927776516304507) Colloids Surf B Biointerfaces. 2016 Dec;148:104-115. doi: 10.1016/j.colsurfb.2016.06.024. Epub 2016 Jun 16.
 
@@ -76,7 +76,7 @@ title: PD Dr. med. Athanasia Warnecke
 
 * Kramer F, Stöver T, **Warnecke A**, Diensthuber M, Lenarz T, Wissel K. [BDNF mRNA expression is significantly upregulated in vestibular schwannomas and correlates with proliferative activity.](http://link.springer.com/article/10.1007%2Fs11060-009-0063-6) J Neurooncol. 2010 May;98(1):31-39.
 
-* Warnecke A, Averbeck T, Soudah B, Wenzel GI, Lenarz T, Stöver T. [Contact endoscopy for the evaluation of the pharyngeal and laryngeal mucosa.](http://onlinelibrary.wiley.com/doi/10.1002/lary.20732/abstract) Laryngoscope. 2010 Feb;120(2):253-258. 
+* **Warnecke A**, Averbeck T, Soudah B, Wenzel GI, Lenarz T, Stöver T. [Contact endoscopy for the evaluation of the pharyngeal and laryngeal mucosa.](http://onlinelibrary.wiley.com/doi/10.1002/lary.20732/abstract) Laryngoscope. 2010 Feb;120(2):253-258. 
 
 * Scheper V, Paasche G, Miller JM, **Warnecke A**, Berkingali N, Lenarz T, Stöver T. [Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs.](http://onlinelibrary.wiley.com/doi/10.1002/jnr.21964/abstract) J Neurosci Res. 2009 May 1;87(6):1389-1399. 
 
