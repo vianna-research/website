@@ -12,6 +12,7 @@ The work group has dual appointment to Fraunhofer. In its [Institute for Toxicol
 
 
 The group cooperates with the following institutions:
+
 * [Charité-Universitätsmedizin Berlin](https://www.charite.de/en/)
 * [Harvard Medical School](https://hms.harvard.edu/)
 * [Jade Hochschule](https://www.jade-hs.de/en/)
