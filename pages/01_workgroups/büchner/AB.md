@@ -32,21 +32,14 @@ title: Prof. Dr. Dipl.-Inform. Andreas Büchner
 
 * [Speech intelligibility and subjective benefit in single-sided deaf adults after cochlear implantation.](http://www.sciencedirect.com/science/article/pii/S0378595516304075) Finke M, Strauß-Schier A, Kludt E, **Büchner A**, Illg A. Hear Res. 2017 Mar 9. pii: S0378-5955(16)30407-5. doi: 10.1016/j.heares.2017.03.002. [Epub ahead of print]
 
-* [Off the ear with no loss in speech understanding: comparing the RONDO and the OPUS 2 cochlear implant audio processors.](https://link.springer.com/article/10.1007%2Fs00405-016-4400-z)
-Dazert S, Thomas JP, **Büchner A**, Müller J, Hempel JM, Löwenheim H, Mlynski R.
-Eur Arch Otorhinolaryngol. 2017 Mar;274(3):1391-1395. doi: 10.1007/s00405-016-4400-z.
+* [Off the ear with no loss in speech understanding: comparing the RONDO and the OPUS 2 cochlear implant audio processors.](https://link.springer.com/article/10.1007%2Fs00405-016-4400-z) Dazert S, Thomas JP, **Büchner A**, Müller J, Hempel JM, Löwenheim H, Mlynski R. Eur Arch Otorhinolaryngol. 2017 Mar;274(3):1391-1395. doi: 10.1007/s00405-016-4400-z.
 
-* [Adding simultaneous stimulating channels to reduce power consumption in cochlear implants.](http://www.sciencedirect.com/science/article/pii/S0378595516302532)
-Langner F, Saoji AA, **Büchner A**, Nogueira W.
+* [Adding simultaneous stimulating channels to reduce power consumption in cochlear implants.](http://www.sciencedirect.com/science/article/pii/S0378595516302532) Langner F, Saoji AA, **Büchner A**, Nogueira W.
 Hear Res. 2017 Mar;345:96-107. doi: 10.1016/j.heares.2017.01.010.
 
-* [Loudness and pitch perception using Dynamically Compensated Virtual Channels.](http://www.sciencedirect.com/science/article/pii/S0378595516302374)
-Nogueira W, Litvak LM, Landsberger DM, **Büchner A**.
-Hear Res. 2017 Feb;344:223-234. doi: 10.1016/j.heares.2016.11.017.
+* [Loudness and pitch perception using Dynamically Compensated Virtual Channels.](http://www.sciencedirect.com/science/article/pii/S0378595516302374) Nogueira W, Litvak LM, Landsberger DM, **Büchner A**. Hear Res. 2017 Feb;344:223-234. doi: 10.1016/j.heares.2016.11.017.
 
-* [A physiologically-inspired model reproducing the speech intelligibility benefit in cochlear implant listeners with residual acoustic hearing.](http://www.sciencedirect.com/science/article/pii/S0378595516301368)
-Zamaninezhad L, Hohmann V, **Büchner A**, Schädler MR, Jürgens T.
-Hear Res. 2017 Feb;344:50-61. doi: 10.1016/j.heares.2016.10.023.
+* [A physiologically-inspired model reproducing the speech intelligibility benefit in cochlear implant listeners with residual acoustic hearing.](http://www.sciencedirect.com/science/article/pii/S0378595516301368) Zamaninezhad L, Hohmann V, **Büchner A**, Schädler MR, Jürgens T. Hear Res. 2017 Feb;344:50-61. doi: 10.1016/j.heares.2016.10.023.
 
 * [Toward Automated Cochlear Implant Fitting Procedures Based on Event-Related Potentials.](http://ovidsp.tx.ovid.com/sp-3.24.1b/ovidweb.cgi?QS2=434f4e1a73d37e8c6a240dd2f6a7d9ed2acac64a2869cae08a35b739fbf4e56eedb0f39c9ebe8b7d43a02dd34ca328aaba85800f86cfe9c0e934959eff481d7c9e6279a1c340692cb1f349bcc8b5bec7c4fd0ecb161181c1c347888b467f54588242f43a3ec5dba9e9b55bd0aa119e6973b997e860bccc6f378160db9aef7204dd24cd785341ba31957d1542782af205b2ab53acbdcd9eb5c5eb44f3d2f13cfe5559535dda684f60a064a07963cf6eed6cab5ae38dac871e2ebb54fd2481c45b260d878cf38f256b77d2c5087774217c0e61ee967fe46c48607507aebfa6218677317e7a1e7fda1d799224a713071c4c332412a1e5e2cec8239246474c5f4ceeec0b3b238510e9b66f2ee1a9e83db520cb1ce4ba07200733e6e6891c420984f433463fb47f7606d983544fe8f3cc3ef2316e14963a65c3f2)
 Finke M, Billinger M, Büchner A.
