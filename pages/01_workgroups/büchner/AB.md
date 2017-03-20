@@ -27,6 +27,7 @@ title: Prof. Dr. Dipl.-Inform. Andreas Büchner
 
 ***
 ### Publications
+* [Design and evaluation of a cochlear implant strategy based on a "Phantom" channel.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120148) Nogueira W, Litvak LM, Saoji AA, **Büchner A**. PLoS One. 2015 Mar 25;10(3):e0120148. doi: 10.1371/journal.pone.0120148.
 
 * [Auditory and audio-visual processing in patients with cochlear, auditory brainstem, and auditory midbrain implants: An EEG study.](http://onlinelibrary.wiley.com/doi/10.1002/hbm.23515/abstract;jsessionid=EA9F8D82EAD0690C8A72C9476044DB5D.f04t04?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+25th+March+from+07%3A00+GMT+%2F+03%3A00+EDT+%2F+15%3A00+SGT+for+4+hours+for+essential+maintenance.++Apologies+for+the+inconvenience.) Schierholz I, Finke M, Kral A, **Büchner A**, Rach S, Lenarz T, Dengler R, Sandmann P. Hum Brain Mapp. 2017 Apr;38(4):2206-2225. doi: 10.1002/hbm.23515.
 
