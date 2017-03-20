@@ -27,16 +27,15 @@ title: Mitarbeiter
 
 |Studenten|             |
 |-----------|-------------|
-|Ailke Behrens| Praktikum|
+|Ailke Behrens| Bachelorarbeit|
 |Fabian Borrmann, B.Sc. | HiWi|
+|Hazel Börgmann| Praktikum|
 |Lennart Guntenhöner |Promotion Dr. med. |
 |Steffen Hadeler | Bachelorarbeit|
 |Filip Jakimovski, B. Sc.| Masterarbeit|
 |Wiebke Kossow, B.Eng. |  Masterarbeit|
-|Fabian Müller|Praktikum|
-|Bich Ngoc Tran, B. Sc.| HiWi|
+|Fabian Müller|Bachelorarbeit|
 |Tan Tan, B. Sc.| Masterarbeit|
-|Annette Winter | Promotion Dr. med.|
 |Eugen Zukin | HiWi |
 
 
