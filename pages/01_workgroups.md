@@ -17,8 +17,9 @@ The following workgroups are located at the VIANNA:
 | Prof. Dr. Andrea Hoffmann      | [Regenerative Strategies](01_workgroups/hoffmann.html)                                     |
 | Prof. Dr. Omid Majdani       	 | [hnoCAS - Computer-assisted surgery and electrode development](01_workgroups/majdani.html) |
 | Dr. Gerrit Paasche             | [Electrode-Neural-Interface](01_workgroups/paasche.html)                                   |
-| Prof. Dr. Günter Reuter        | [Experimental Otology](01_workgroups/reuter.html)                                          |
 | Dr. Verena Scheper             | [Pharmacology of the Inner Ear](01_workgroups/scheper.html)                                |
 | PD Dr. med. Athanasia Warnecke | [Protection and Regeneration of the Inner Ear](01_workgroups/warnecke.html)                |
 |                                |                                                                                            |
 
+
+Unfortunatly, our good friend and fellow reseracher Prof. Dr. Günter Reuter (Experimental Otology Lab) passed away and his research is continued in the Labs of Warnecke, Paasche, and Scheper.
