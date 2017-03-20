@@ -108,9 +108,9 @@ title: Prof. Dr. Dipl.-Inform. Andreas Büchner
 
 * [Clinical use of a system for the automated recording and analysis of electrically evoked compound action  otentials (ECAPs) in cochlear implant patients. Gärtner L, Lenarz T, Joseph G, **Büchner A**. Acta Otolaryngol. 2010 Jun;130(6):724-32. doi: 10.3109/00016480903380539.
 
-* [European adult multi-centre HiRes® 120 study--an update on 65 subjects. Ambrosch P, Müller-Deile J, Aschendorff A, Laszig R, Boermans PP, Frijns J, Boyle P, Kienast B, **Büchner A**, Lenarz T, Cooper H, Fielden C, Eklöf M, Freijd A, Filipo R, Mancini P, Frachet B, Gallego S, Truy E, Helbig S, Jeffs E, Lombaard S, Meerton L, Marco J, Morant A, Meyer B, Pickerill M, Vanat Z, Sterkers O. Cochlear Implants Int. 2010 Jun;11 Suppl 1:406-11. doi: 10.1179/146701010X12671177204183. No abstract available.
+* [European adult multi-centre HiRes® 120 study--an update on 65 subjects.](http://www.tandfonline.com/doi/abs/10.1179/146701010X12671177204183) Ambrosch P, Müller-Deile J, Aschendorff A, Laszig R, Boermans PP, Frijns J, Boyle P, Kienast B, **Büchner A**, Lenarz T, Cooper H, Fielden C, Eklöf M, Freijd A, Filipo R, Mancini P, Frachet B, Gallego S, Truy E, Helbig S, Jeffs E, Lombaard S, Meerton L, Marco J, Morant A, Meyer B, Pickerill M, Vanat Z, Sterkers O. Cochlear Implants Int. 2010 Jun;11 Suppl 1:406-11. doi: 10.1179/146701010X12671177204183. No abstract available.
 
-* [Speech perception with cochlear implants as measured using a roving-level adaptive test method. Haumann S, Lenarz T, **Büchner A**. ORL J Otorhinolaryngol Relat Spec. 2010;72(6):312-8. doi: 10.1159/000318872.
+* [Speech perception with cochlear implants as measured using a roving-level adaptive test method.](https://www.karger.com/Article/Abstract/318872) Haumann S, Lenarz T, **Büchner A**. ORL J Otorhinolaryngol Relat Spec. 2010;72(6):312-8. doi: 10.1159/000318872.
 
 * [Comparison of dual-time-constant and fast-acting automatic gain control (AGC) systems in cochlear implants.](http://www.tandfonline.com/doi/full/10.1080/14992020802581982) Boyle PJ, **Büchner A**, Stone MA, Lenarz T, Moore BC. Int J Audiol. 2009 Apr;48(4):211-21. doi: 10.1080/14992020802581982.
 
