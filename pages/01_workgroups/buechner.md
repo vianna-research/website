@@ -1,7 +1,7 @@
 title: Büchner Lab - 
 ***
 
-![DHZ](büchner/DHZ.png) 
+![DHZ](buechner/DHZ.png) 
 
 
 
