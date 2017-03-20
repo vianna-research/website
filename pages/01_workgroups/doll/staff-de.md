@@ -4,14 +4,14 @@ title: Mitarbeiter
 
 |Arbeitsgruppenleiter|                |     |
 |--------------|---------------|----|
-|![Image Theo Doll](doll2.png)|[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
+|![Image Theo Doll](Doll2.png)|[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
 
 
 
 |Teamassistentin|                     |      |
 |--------------|---------------------|------|
 |![Image Bettina Goede](Betti.png) | Bettina Goede	|	goede.bettina@mh-hannover.de     |
-|    |   |Phone: +49 (0)511 532 7235 oder +49 (0)511 5350 247|
+|    |   Telefon:| +49 (0)511 532 7235 oder +49 (0)511 5350 247|
 
 |Technische Mitarbeiter|                     |      |
 |--------------|---------------------|------|
