@@ -5,4 +5,4 @@ title: Büchner Lab -
 
 
 
-[DHZ](http://www.hoerzentrum-hannover.de/index.php?id=1)
+[DHZ-Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=1)
