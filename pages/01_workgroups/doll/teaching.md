@@ -32,9 +32,11 @@ This lecture introduces into the field of the peripheral neural system. It start
 **Language:** German
 
 **Contact:**
-[Prof. Dr.-Ing. Jürgen Legler (Jade Hochschule)](http://team.jade-hs.de/kontakt/index.php?id=41)
+[Prof. Dr.-Ing. Jürgen Legler (Jade Hochschule - Coordinator)](http://team.jade-hs.de/kontakt/index.php?id=41)
 
-[Jan Stieghorst (MHH)](staff.html)
+[Jan Stieghorst (MHH - Contact for Biomechanics](staff.html)
+[Dr. Gerhard Pohlmann (Fraunhofer ITEM - Contact for Inhalation)](https://www.item.fraunhofer.de/de/forschungsschwerpunkte/medizintechnik.html)
+[Prof. Dr.-Ing Theodor Doll (MHH - Contact for Neurorehabilitation)](http://www.vianna.de/01_workgroups/doll/pagedoll.html)
 
 **Location:** [Jade Hochschule Wilhelmshaven](https://www.jade-hs.de/)
 
