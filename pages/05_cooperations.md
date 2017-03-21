@@ -1,4 +1,5 @@
 title: Cooperations
+status: hidden
 
 The VIANNA team is the research arm of the [ENT department of the Hannover Medical School](https://www.mh-hannover.de/hno.html).
 The [German Hearing Center Hannover (*Deutsches HörZentrums Hannover*)](http://www.hoerzentrum-hannover.de) is the first contact point for patients with hearing related issues.
