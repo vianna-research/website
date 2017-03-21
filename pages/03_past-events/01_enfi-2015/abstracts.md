@@ -1,4 +1,5 @@
 title: Abstract submission
+status: hidden
 
 **Submission deadline changed to April 28th.**
 
