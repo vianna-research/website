@@ -22,6 +22,22 @@ Tutorials include researching and exercises about biofunctionality which are dis
 **Location:**  [LUH, Institute for Multiphase Processing, Callinstraße 36](http://www.imp.uni-hannover.de/wegbeschreibung.html)
 
 
+##Joint Lecture: Biomechanics - Inhalation - Neurorehabilitation
+
+###Content: 
+This lecture introduces into the field of the peripheral neural system. It starts with the mechanic requirements of the striated sceletal muscles, adds exemplarily the smooth muscles and disembogues into the requirements of the overlying neural loops of control. The lecture ends up with today's approaches to technically restore such functions in the disabled / severly injured.
+
+**Date:** 
+
+**Language:** German
+
+**Contact:**
+[Prof. Dr.-Ing. Jürgen Legler (Jade Hochschule)](http://team.jade-hs.de/kontakt/index.php?id=41)
+
+[Jan Stieghorst (MHH)](staff.html)
+
+**Location:** [Jade Hochschule Wilhelmshaven](https://www.jade-hs.de/)
+
 
 ##Nanotechnology in Medicine
 Nanotechnologie in der Medizin
