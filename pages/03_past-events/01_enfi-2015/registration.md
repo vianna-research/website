@@ -1,4 +1,5 @@
 title: Registration
+status: hidden
 
 <!--
 <div markdown="1" >
