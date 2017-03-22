@@ -2,7 +2,7 @@ title: Doll Lab - Biomaterial Engineering
 
 ![Logo BioMaterial Engineering](doll/BME.png)
 
-![Image Sted-Microscope and 3D-Printer](doll/laser_sted.png)
+<!--![Image Sted-Microscope and 3D-Printer](doll/laser_sted.png)-->
 
 The research group BioMaterial Engineering works towards development and production techniques for new electrode concepts for active implants.
 Our material concepts cover nanocomposites as biocompatible, low impedance CNT-silicone rubber electrodes , microelectronic circuits for implantable on-board electronics as well as encapsulation strategies to chronic application of them. Also sillicone rubber 3D printing is developed for medical device applications. We develop biochemical sensors for acute in-vivo use as well actuators that make implants hugging to their target tissue.
