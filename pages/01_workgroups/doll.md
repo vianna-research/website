@@ -1,6 +1,6 @@
 title: Doll Lab - Biomaterial Engineering
 
-![Logo BioMaterial Engineering](doll/BME.png)
+![Logo BioMaterial Engineering](doll/BME.png){right}
 
 <!--![Image Sted-Microscope and 3D-Printer](doll/laser_sted.png)-->
 
