@@ -4,6 +4,7 @@ title: Doll Lab - Biomaterial Engineering
 
 ![Logo BioMaterial Engineering](doll/BME_final.jpg){style="width:33%;}
 
+<center>
 * (Mechanically) Active Neural Implants
 * Electrode Nerve Interface
 * Biocompatible Nanocomposites
@@ -12,7 +13,7 @@ title: Doll Lab - Biomaterial Engineering
 * Brain Computer Interface
 * Closing the auditory loop
 * Life Cycle biocompatibility testing
-
+</center>
 
 <br style="clear:both">
 
