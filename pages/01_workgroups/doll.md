@@ -1,6 +1,20 @@
 title: Doll Lab - Biomaterial Engineering
 
-![Logo BioMaterial Engineering](doll/BME.png){right}
+<!--![Logo BioMaterial Engineering](doll/BME.png)-->
+
+![Logo BioMaterial Engineering](doll/BME.png){style="width:33%; float:left; margin-right:3em;"}
+
+(Mechanically) Active Neural Implants
+Electrode Nerve Interface
+Biocompatible Nanocomposites
+Medical Grade Silicon rubber 3D printing
+Hydrogel-Silicone Rubber compounds
+Brain Computer Interface
+Closing the auditory loop
+Life Cycle biocompatibility testing
+
+
+<br style="clear:both">
 
 <!--![Image Sted-Microscope and 3D-Printer](doll/laser_sted.png)-->
 
