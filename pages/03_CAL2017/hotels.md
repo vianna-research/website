@@ -18,7 +18,7 @@ Click on Image for Google Maps
 
 <br style="clear:both">
 
-## [arte Hotel Krems](http://www.arte-hotel.at/) 
+## [Arte Hotel Krems](http://www.arte-hotel.at/) 
 >Dr. Karl Dorrek-Straße 23
 >A-3500 Krems
 >Tel: +43 (0)2732 711-23
