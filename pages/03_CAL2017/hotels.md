@@ -8,11 +8,12 @@ title: Hotels
 >Fax: +43 (0) 2732 835 41
 >E-Mail: campuskrems@kolping.at
 
+<!--
 Click on Image for Google Maps
 [![Kolping Hotel][1]][2]
 [1]: kolp.jpg
 [2]: https://www.google.de/maps/place/Kolping+Campus+Krems/@48.4082792,15.5865367,17z/data=!3m1!4b1!4m5!3m4!1s0x47728448b26ab8ab:0xccd8356a622aec8f!8m2!3d48.4082792!4d15.5887254
-
+-->
 
 <br style="clear:both">
 
