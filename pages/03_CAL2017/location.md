@@ -1,6 +1,6 @@
 title: Symposium Location
 
-The CAL Symposium takes place at the Kolpinghaus on Campus Krems. 
+The CAL Symposium takes place at the Kolpinghaus on Campus Krems. If you need guidance to find the location, just click on the image below. 
 
 
 [![Map of Location][1]][2]
