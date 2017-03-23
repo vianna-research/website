@@ -8,7 +8,7 @@ title: Doll Lab - Biomaterial Engineering
 * (Mechanically) Active Neural Implants
 * Electrode Nerve Interface
 * Biocompatible Nanocomposites
-* Medical Grade Silicon rubber 3D printing
+* Medical Grade Silicone rubber 3D printing
 * Hydrogel-Silicone Rubber compounds
 * Brain Computer Interface
 * Closing the auditory loop
