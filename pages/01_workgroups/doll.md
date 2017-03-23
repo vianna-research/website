@@ -2,7 +2,7 @@ title: Doll Lab - Biomaterial Engineering
 
 <!--![Logo BioMaterial Engineering](doll/BME.png)-->
 
-![Logo BioMaterial Engineering](doll/BME_final.png){style="width:33%; float:left; margin-right:3em;"}
+![Logo BioMaterial Engineering](doll/BME_final.jpg){style="width:33%; float:left; margin-right:3em;"}
 
 (Mechanically) Active Neural Implants
 Electrode Nerve Interface
