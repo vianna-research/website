@@ -24,9 +24,8 @@ Click on Image for Google Maps
 >Tel: +43 (0)2732 711-23
 >E-Mail: willkommen(at)arte-hotel(dot)at
 
-<!--
 Click on Image for Google Maps:
-[![Arte Hotel][1]][2]
-[1]: arte.jpg
-[2]: https://www.google.de/maps/place/Arte+Hotel+Krems/@48.4070478,15.5830813,17z/data=!4m5!3m4!1s0x4772844917765faf:0x47ff44908ae44163!8m2!3d48.4077133!4d15.5847251
--->
+[![Arte Hotel][3]][4]
+[3]: arte.jpg
+[4]: https://www.google.de/maps/place/Arte+Hotel+Krems/@48.4070478,15.5830813,17z/data=!4m5!3m4!1s0x4772844917765faf:0x47ff44908ae44163!8m2!3d48.4077133!4d15.5847251
+
