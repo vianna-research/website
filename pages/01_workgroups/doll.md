@@ -36,7 +36,7 @@ The group cooperates with the following institutions:
 * [Johannes Keppler Universität Linz](http://www.jku.at/content)
 * [Katholieke Universiteit Leuven](http://www.kuleuven.be/english/)
 * [Leibniz Universität Hannover](https://www.uni-hannover.de/en/?no_cache=1)
-* [Linköpings universitet](https://liu.se/en)
+* [Linköpings Universitet](https://liu.se/en)
 * [Technische Universität Braunschweig](https://www.tu-braunschweig.de/wirueberuns/index.html)
 * [Technische Universität München](https://www.tum.de/en/homepage/)
 * [The University of Utah](https://www.utah.edu/)
