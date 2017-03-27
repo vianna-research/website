@@ -5,7 +5,7 @@ title: Workgroups
 | Prof. Dr. Dr. med. Andrej Kral           | [Auditory Neuroscience & Neuroprostheses](01_workgroups/ag-kral.html) |
 | Prof. Prof. h. c. Dr. med. Thomas Lenarz | [Specimen Preparation Laboratory](01_workgroups/lenarz.html)          |
 
-Office: <sekretariat@vianna.de>
+Office: <sekretariat(at)vianna.de>
 
 The following workgroups are located at the VIANNA:
 

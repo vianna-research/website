@@ -52,7 +52,7 @@ The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industria
 | Address: <br><br><br>   | VIANNA <br> Stadtfelddamm 34 <br> 30625 Hannover <br> Deutschland |
 | Phone:                  | +49 (0)511 532 7272 |
 | Fax:                    | +49 (0)511 532 7274 |
-| E-Mail:                 | Secretary of Prof. Kral: <sekretariat@vianna.de> |
+| E-Mail:                 | Secretary of Prof. Kral: <sekretariat(at)vianna.de> |
 
 
 
