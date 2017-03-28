@@ -25,7 +25,7 @@ Die Arbeitsgruppe beschäftigt sich mit der Entwicklung von Signalverarbeitungss
 
 - - - 
 
-** Contact: **
+**Kontakt:**
 
     Prof. Dr. Dipl.-Inform. Andreas Büchner
 	[DHZ-Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=1)
