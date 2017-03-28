@@ -1,4 +1,4 @@
-draft
+status:draft
 title: Project / Bachelor / Master / Doctoral Thesis
 
 ## Topics for Student Assistants
