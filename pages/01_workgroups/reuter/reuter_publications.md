@@ -11,16 +11,14 @@ Prof. Reuter war seit August 1993 an der HNO-Klinik der MHH tätig und hat vor a
 ## Publikationen
 * Schmitt HA, Pich A, Schröder A, Scheper V, Lilli G, Reuter G, Lenarz T. [**Proteome Analysis of Human Perilymph using an Intraoperative Sampling Method.**](http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00986) J Proteome Res. 2017 Mar 10. doi: 10.1021/acs.jproteome.6b00986. [Epub ahead of print]
 
-* Magnetic Beads Enhance Adhesion of NIH 3T3 Fibroblasts: A Proof-of-Principle In Vitro Study for Implant-Mediated Long-Term Drug Delivery to the Inner Ear.
-Aliuos P, Schulze J, Schomaker M, Reuter G, Stolle SR, Werner D, Ripken T, Lenarz T, Warnecke A.
-PLoS One. 2016 Feb 26;11(2):e0150057. doi: 10.1371/journal.pone.0150057. eCollection 2016 Feb 26.
+* Aliuos P, Schulze J, Schomaker M, Reuter G, Stolle SR, Werner D, Ripken T, Lenarz T, Warnecke A.[**Magnetic Beads Enhance Adhesion of NIH 3T3 Fibroblasts: A Proof-of-Principle In Vitro Study for Implant-Mediated Long-Term Drug Delivery to the Inner Ear.**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150057) PLoS One. 2016 Feb 26;11(2):e0150057. doi: 10.1371/journal.pone.0150057. eCollection 2016 Feb 26.
 PMID: 26918945 Free PMC Article
 
 * New, non-quinone fluorogeldanamycin derivatives strongly inhibit Hsp90.
 Hermane J, Bułyszko I, Eichner S, Sasse F, Collisi W, Poso A, Schax E, Walter JG, Scheper T, Kock K, Herrmann C, Aliuos P, Reuter G, Zeilinger C, Kirschning A.
 Chembiochem. 2015 Jan 19;16(2):302-11. doi: 10.1002/cbic.201402375. Epub 2015 Jan 8.
 
-* Hermane J, Bułyszko I, Eichner S, Sasse F, Collisi W, Poso A, Schax E, Walter JG, Scheper T, Kock K, Herrmann C, Aliuos P, Reuter G, Zeilinger C and Kirschning A. [**New non quinone fluoro geldanamycin derivatives strongly inhibit Hsp90.**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1439-7633/homepage/2268_preview.html) ChemBioChem. 2014: in press
+* Hermane J, Bułyszko I, Eichner S, Sasse F, Collisi W, Poso A, Schax E, Walter JG, Scheper T, Kock K, Herrmann C, Aliuos P, Reuter G, Zeilinger C and Kirschning A. [**New non quinone fluoro geldanamycin derivatives strongly inhibit Hsp90.**](http://onlinelibrary.wiley.com/doi/10.1002/cbic.201402375/full) hembiochem. 2015 Jan 19;16(2):302-11. doi: 10.1002/cbic.201402375. Epub 2015 Jan 8.
  
 * Wrzeszcz A, Steffens M, Balster S, Warnecke A, Dittrich B, Lenarz T and Reuter G. [**Hydrogel coated and dexamethasone releasing cochlear implants: Quantification of fibrosis in guinea pigs and evaluation of insertion forces in a human cochlea model.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33187/abstract;jsessionid=2563AABAD49F1730D686B1CCE3B1FB2E.f01t04) J Biomed Mater Res B Appl Biomater. 2015 Jan;103(1):169-78. doi: 10.1002/jbm.b.33187. Epub 2014 May 8. PubMed PMID: 24811046
 
