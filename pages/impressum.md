@@ -9,7 +9,7 @@ status: hidden
     30625 Hannover
     Tel.: +49 (0)511 532 7272
     Fax: +49 (0)511 532 7274
-    E-Mail: sekretariat@vianna.de (Sekretariat Prof. Kral )
+    E-Mail: sekretariat(at)vianna.de (Sekretariat Prof. Kral )
     Internet: http://www.vianna.de
 
 ... ist der jur. Person Medizinische Hochschule Hannover (MHH) untergeordnet:
@@ -19,7 +19,7 @@ status: hidden
     30625 Hannover
     Tel.: +49 511-532-0
     Fax: +49 511-532-5550
-    E-Mail: pressestellemh-hannover.de
+    E-Mail: pressestelle(at)mh-hannover.de
     Internet: www.mh-hannover.de
 
 Die Medizinische Hochschule Hannover ist eine Körperschaft des öffentlichen Rechts.

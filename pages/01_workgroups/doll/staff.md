@@ -12,7 +12,7 @@ title: Staff
 |Team Assistant   |       |   |
 |--------------|:---------------------|------|
 |![Image Bettina Goede](Betti.png) | Bettina Goede	| goede.bettina@mh-hannover.de|
-|                                   |                 |	Phone: +49 (0)511 532 7235 or +49 (0)511 5350 247 |
+|                                   |     Phone:            | +49 (0)511 532 7235 or +49 (0)511 5350 247 |
 
 |Technical Staff|                     |      |
 |--------------|---------------------|------|
@@ -28,14 +28,13 @@ title: Staff
 
 |  Students   ||
 |-----------|-------------|
-|Ailke Behrens| Intern|
+|Ailke Behrens| Bachelor Thesis|
 |Fabian Borrmann, B. Sc. | Student Assistent|
+|Hazel Börgmann | Internship|
 |Lennart Guntenhöner |Medical Doctorate Thesis |
 |Steffen Hadeler|Bachelor Thesis|
 |Filip Jakimovski, B. Sc.| Master Thesis|
 |Wiebke Kossow, B. Eng. | Master Thesis|
-|Fabian Müller|Intern|
-|Bich Ngoc Tran, B. Sc.| Student Assistent|
-|Tan Tan, B. Sc. | Student Project|
-|Annette Winter | Medical Doctorate Thesis|
+|Fabian Müller|Bachelor Thesis|
+|Tan Tan, B. Sc. |Master Thesis|
 |Eugen Zukin| Student Assistent|

@@ -19,11 +19,12 @@ title: PD Dr. med. Athanasia Warnecke
 [ResearchGate](https://www.researchgate.net/profile/Athanasia_Warnecke)
 [DFG](http://gepris.dfg.de/gepris/person/116674265)
 [Hearing4all](http://hearing4all.eu/DE/Organisation/Projektleiter.php)
+[HNO - für Wissenschaftler](https://www.mh-hannover.de/18058.html)
 
 ***
 ### Publications
 
-* Roemer A, Staecker H, Sasse S, Lenarz T, **Warnecke A.** [Biologische Therapien in der Otologie.](https://link.springer.com/article/10.1007%2Fs00106-016-0304-x) HNO. 2017 Feb 15. doi: 10.1007/s00106-016-0304-x.
+* Roemer A, Staecker H, Sasse S, Lenarz T, **Warnecke A**. [Biologische Therapien in der Otologie.](https://link.springer.com/article/10.1007%2Fs00106-016-0304-x) HNO. 2017 Feb 15. doi: 10.1007/s00106-016-0304-x.
 
 * Roger Y, Schäck LM, Koroleva A, Noack S, Kurselis K, Krettek C, Chichkov B, Lenarz T, **Warnecke A**, Hoffmann A. [Grid-like surface structures in thermoplastic polyurethane induce anti-inflammatory and anti-fibrotic processes in bone marrow-derived mesenchymal stem cells.](http://www.sciencedirect.com/science/article/pii/S0927776516304507) Colloids Surf B Biointerfaces. 2016 Dec;148:104-115. doi: 10.1016/j.colsurfb.2016.06.024. Epub 2016 Jun 16.
 
@@ -33,11 +34,11 @@ title: PD Dr. med. Athanasia Warnecke
 
 * Hadler C, Aliuos P, Brandes G, **Warnecke A**, Bohlmann J, Dempwolf W, Menzel H, Lenarz T, Reuter G, Wissel K2. [Polymer Coatings of Cochlear Implant Electrode Surface - An Option for Improving Electrode-Nerve-Interface by Blocking Fibroblast Overgrowth.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157710) PLoS One. 2016 Jul;11(7):e0157710. doi: 10.1371/journal.pone.0157710. eCollection 2016.
 
-* Burblies N, Schulze J, Schwarz HC, Kranz K, Motz D, Vogt C, Lenarz T, **Warnecke A**, Behrens P.[Coatings of Different Carbon Nanotubes on Platinum Electrodes for Neuronal Devices: Preparation, Cytocompatibility and Interaction with Spiral Ganglion Cells.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158571) PLoS One. 2016 Jul;11(7):e0158571. doi: 10.1371/journal.pone.0158571. eCollection 2016.
+* Burblies N, Schulze J, Schwarz HC, Kranz K, Motz D, Vogt C, Lenarz T, **Warnecke A**, Behrens P. [Coatings of Different Carbon Nanotubes on Platinum Electrodes for Neuronal Devices: Preparation, Cytocompatibility and Interaction with Spiral Ganglion Cells.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158571) PLoS One. 2016 Jul;11(7):e0158571. doi: 10.1371/journal.pone.0158571. eCollection 2016.
 
 * Lamm H, Müller-Kortkamp C, **Warnecke A**, Pohl F, Paasche G, Lenarz T, Stolle SR. [Concurrent hyperbaric oxygen therapy and intratympanic steroid application as salvage therapy after severe sudden sensorineural hearing loss.](http://onlinelibrary.wiley.com/doi/10.1002/ccr3.510/abstract;jsessionid=ACCD40899FAD7B88D1475519CDC70038.f02t03) Clin Case Rep. 2016 Feb;4(3):287-93. doi: 10.1002/ccr3.510. eCollection 2016.
 
-* Aliuos P, Schulze J, Schomaker M, Reuter G, Stolle SR, Werner D, Ripken T, Lenarz T, **Warnecke A**.[Magnetic Beads Enhance Adhesion of NIH 3T3 Fibroblasts: A Proof-of-Principle In Vitro Study for Implant-Mediated Long-Term Drug Delivery to the Inner Ear.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150057) PLoS One. 2016 Feb;11(2):e0150057. doi: 10.1371/journal.pone.0150057. eCollection 2016.
+* Aliuos P, Schulze J, Schomaker M, Reuter G, Stolle SR, Werner D, Ripken T, Lenarz T, **Warnecke A**. [Magnetic Beads Enhance Adhesion of NIH 3T3 Fibroblasts: A Proof-of-Principle In Vitro Study for Implant-Mediated Long-Term Drug Delivery to the Inner Ear.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150057) PLoS One. 2016 Feb;11(2):e0150057. doi: 10.1371/journal.pone.0150057. eCollection 2016.
 
 * Burke WF, **Warnecke A**, Schöner-Heinisch A, Lesinski-Schiedat A, Maier H, Lenarz T. [Prevalence and audiological profiles of GJB2 mutations in a large collective of hearing impaired patients.](http://www.sciencedirect.com/science/article/pii/S0378595516000034) Hear Res. 2016 Mar;333:77-86. doi: 10.1016/j.heares.2016.01.006. Epub 2016 Jan 15.
 
@@ -75,7 +76,7 @@ title: PD Dr. med. Athanasia Warnecke
 
 * Kramer F, Stöver T, **Warnecke A**, Diensthuber M, Lenarz T, Wissel K. [BDNF mRNA expression is significantly upregulated in vestibular schwannomas and correlates with proliferative activity.](http://link.springer.com/article/10.1007%2Fs11060-009-0063-6) J Neurooncol. 2010 May;98(1):31-39.
 
-* Warnecke A, Averbeck T, Soudah B, Wenzel GI, Lenarz T, Stöver T. [Contact endoscopy for the evaluation of the pharyngeal and laryngeal mucosa.](http://onlinelibrary.wiley.com/doi/10.1002/lary.20732/abstract) Laryngoscope. 2010 Feb;120(2):253-258. 
+* **Warnecke A**, Averbeck T, Soudah B, Wenzel GI, Lenarz T, Stöver T. [Contact endoscopy for the evaluation of the pharyngeal and laryngeal mucosa.](http://onlinelibrary.wiley.com/doi/10.1002/lary.20732/abstract) Laryngoscope. 2010 Feb;120(2):253-258. 
 
 * Scheper V, Paasche G, Miller JM, **Warnecke A**, Berkingali N, Lenarz T, Stöver T. [Effects of delayed treatment with combined GDNF and continuous electrical stimulation on spiral ganglion cell survival in deafened guinea pigs.](http://onlinelibrary.wiley.com/doi/10.1002/jnr.21964/abstract) J Neurosci Res. 2009 May 1;87(6):1389-1399. 
 

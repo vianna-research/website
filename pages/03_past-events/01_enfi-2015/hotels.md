@@ -1,5 +1,5 @@
 title: Hotel Suggestions
-
+status: hidden
 
 Single and double rooms have been blocked in the Ibis Hotel Medical Park and the GHotel. Please mention **EnFI** when booking theses rooms.   
 Both are close to the conference location at Hannover Medical School. From both hotels it is possible to walk to the MHH in aproximately 10-15 min.  If you want to use public transport, a bus transfer is available from both hotels with busses 123 and 137 to Medizinische Hochschule Hannover. This stop can also be reached with the tram no. 4.
