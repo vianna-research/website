@@ -2,6 +2,7 @@ title: Büchner Lab -
 ***
 
 # Forschungsthemen: #
+![DHZ](buechner/DHZ.png){style="width:350px; float:right; margin-left:3em"}
 
 - Signalverarbeitung für Cochlea-Implantate
 - Messung akustisch evozierter Potentiale mittels intracochleärer Messelektroden (Cochlear Microphonics, Summationspotential, Summenaktionspotential)
@@ -19,8 +20,16 @@ Die Arbeitsgruppe beschäftigt sich mit der Entwicklung von Signalverarbeitungss
 - **Entwicklung automatisierter Anpassverfahren** auf der Basis von objektiven Messungen und Patientenfeedback.]
 - **Entwicklung und Evaluation von Geräuschunterdrückungs- und Beamformer-Algorithmen** zur Verbesserung des Signal-Rauschabstands in unterschiedlichen Hörumgebungen zur Verbeserung des Hörens beim  CI-Patienten.
 
-![DHZ](buechner/DHZ.png) 
+ 
 
 
+- - - 
 
-[DHZ-Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=1)
+** Contact: **
+
+    Prof. Dr. Dipl.-Inform. Andreas Büchner
+	[DHZ-Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=1)
+	Karl-Wiechert-Allee 3 
+	30625 Hannover
+       
+    email:Buechner(at)hoerzentrum-hannover.de
