@@ -1,12 +1,17 @@
 title: Publications
 status: hidden
 
+![Figure_1](reuter/reuter.jpg){style="width:350px; float:right; margin-left:3em"}
 
-Prof. Dr. rer. nat. Günter Reuter
-Wissenschaftlicher Leiter des Labors für Experimentelle Otologie
-der HNO-Klinik der MHH
+Prof. Dr. rer. nat. Günter Reuter 
+
+Wissenschaftlicher Leiter des Labors für Experimentelle Otologie der HNO-Klinik der MHH
+
+
 
 Prof. Reuter war seit August 1993 an der HNO-Klinik der MHH tätig und hat vor allem im Bereich von kindlicher Schwerhörigkeit gearbeitet. Maßgeblich war unter anderem an der Pilotstudie zur Früherkennung von Hörstörungen im Kindesalter, am Sonderforschungsbereich 599 sowie am Exzellenzcluster Hearing4all. Zudem hat er großen Anteil am Aufbau der HNO Forschungslaboratorien VIANNA und NIFE.
+
+
 
 ## Publikationen
 * Schmitt HA, Pich A, Schröder A, Scheper V, Lilli G, Reuter G, Lenarz T. [**Proteome Analysis of Human Perilymph using an Intraoperative Sampling Method.**](http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00986) J Proteome Res. 2017 Mar 10. doi: 10.1021/acs.jproteome.6b00986. [Epub ahead of print]
