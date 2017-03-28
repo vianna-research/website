@@ -9,7 +9,7 @@ Wissenschaftlicher Leiter des Labors für Experimentelle Otologie der HNO-Klinik
 
 
 
-Prof. Reuter war seit August 1993 an der HNO-Klinik der MHH tätig und hat vor allem im Bereich von kindlicher Schwerhörigkeit gearbeitet. Maßgeblich war unter anderem an der Pilotstudie zur Früherkennung von Hörstörungen im Kindesalter, am Sonderforschungsbereich 599 sowie am Exzellenzcluster Hearing4all. Zudem hat er großen Anteil am Aufbau der HNO Forschungslaboratorien VIANNA und NIFE.
+Prof. Reuter war seit August 1993 an der HNO-Klinik der MHH tätig und hat vor allem im Bereich von kindlicher Schwerhörigkeit gearbeitet. Maßgeblich beteiligt war er unter anderem an der Pilotstudie zur Früherkennung von Hörstörungen im Kindesalter, am Sonderforschungsbereich 599 sowie am Exzellenzcluster Hearing4all. Zudem hat er großen Anteil am Aufbau der HNO Forschungslaboratorien VIANNA und NIFE.
 
 
 
