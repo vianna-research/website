@@ -22,4 +22,4 @@ The following workgroups are located at the VIANNA:
 |                                |                                                                                            |
 
 
-Unfortunatly, our good friend and fellow reseracher Prof. Dr. Günter Reuter (Experimental Otology Lab) passed away and his research is continued in the Labs of Warnecke, Paasche, and Scheper.
+Unfortunatly, our good friend and fellow researcher Prof. Dr. Günter Reuter (Experimental Otology Lab) passed away and his research is continued in the Labs of Warnecke, Paasche, and Scheper.
