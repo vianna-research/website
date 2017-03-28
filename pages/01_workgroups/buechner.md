@@ -2,6 +2,7 @@ title: Büchner Lab -
 ***
 
 # Forschungsthemen: #
+
 ![DHZ](buechner/DHZ.png){style="width:350px; float:right; margin-left:3em"}
 
 - Signalverarbeitung für Cochlea-Implantate
@@ -19,9 +20,6 @@ Die Arbeitsgruppe beschäftigt sich mit der Entwicklung von Signalverarbeitungss
 -  **Nutzung hochauflösender EEG Systeme** (128 Kanäle, Abtastrate 20.000 Hz) für die Objektivierung von Hörwahrnehmungen in CI-Patienten (Frequenz-, Lautstärke- und zeitliche Auflösung).
 - **Entwicklung automatisierter Anpassverfahren** auf der Basis von objektiven Messungen und Patientenfeedback.]
 - **Entwicklung und Evaluation von Geräuschunterdrückungs- und Beamformer-Algorithmen** zur Verbesserung des Signal-Rauschabstands in unterschiedlichen Hörumgebungen zur Verbeserung des Hörens beim  CI-Patienten.
-
- 
-
 
 - - - 
 
