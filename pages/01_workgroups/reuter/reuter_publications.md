@@ -1,9 +1,25 @@
 title: Publications
 status: hidden
 
-## 2014
+![Figure_1](reuter/reuter.jpg){style="width:350px; float:right; margin-left:3em"}
 
-* Hermane J, Bułyszko I, Eichner S, Sasse F, Collisi W, Poso A, Schax E, Walter JG, Scheper T, Kock K, Herrmann C, Aliuos P, Reuter G, Zeilinger C and Kirschning A. [**New non quinone fluoro geldanamycin derivatives strongly inhibit Hsp90.**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1439-7633/homepage/2268_preview.html) ChemBioChem. 2014: in press
+Prof. Dr. rer. nat. Günter Reuter 
+
+Wissenschaftlicher Leiter des Labors für Experimentelle Otologie der HNO-Klinik der MHH
+
+
+
+Prof. Reuter war seit August 1993 an der HNO-Klinik der MHH tätig und hat vor allem im Bereich von kindlicher Schwerhörigkeit gearbeitet. Maßgeblich beteiligt war er unter anderem an der Pilotstudie zur Früherkennung von Hörstörungen im Kindesalter, am Sonderforschungsbereich 599 sowie am Exzellenzcluster Hearing4all. Zudem hat er großen Anteil am Aufbau der HNO Forschungslaboratorien VIANNA und NIFE.
+
+
+
+## Publikationen
+* Schmitt HA, Pich A, Schröder A, Scheper V, Lilli G, Reuter G, Lenarz T. [**Proteome Analysis of Human Perilymph using an Intraoperative Sampling Method.**](http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00986) J Proteome Res. 2017 Mar 10. doi: 10.1021/acs.jproteome.6b00986. [Epub ahead of print]
+
+* Aliuos P, Schulze J, Schomaker M, Reuter G, Stolle SR, Werner D, Ripken T, Lenarz T, Warnecke A.[**Magnetic Beads Enhance Adhesion of NIH 3T3 Fibroblasts: A Proof-of-Principle In Vitro Study for Implant-Mediated Long-Term Drug Delivery to the Inner Ear.**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150057) PLoS One. 2016 Feb 26;11(2):e0150057. doi: 10.1371/journal.pone.0150057. eCollection 2016 Feb 26.
+PMID: 26918945 Free PMC Article
+
+* Hermane J, Bułyszko I, Eichner S, Sasse F, Collisi W, Poso A, Schax E, Walter JG, Scheper T, Kock K, Herrmann C, Aliuos P, Reuter G, Zeilinger C and Kirschning A. [**New non quinone fluoro geldanamycin derivatives strongly inhibit Hsp90.**](http://onlinelibrary.wiley.com/doi/10.1002/cbic.201402375/full) Chembiochem. 2015 Jan 19;16(2):302-11. doi: 10.1002/cbic.201402375. Epub 2015 Jan 8
  
 * Wrzeszcz A, Steffens M, Balster S, Warnecke A, Dittrich B, Lenarz T and Reuter G. [**Hydrogel coated and dexamethasone releasing cochlear implants: Quantification of fibrosis in guinea pigs and evaluation of insertion forces in a human cochlea model.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33187/abstract;jsessionid=2563AABAD49F1730D686B1CCE3B1FB2E.f01t04) J Biomed Mater Res B Appl Biomater. 2015 Jan;103(1):169-78. doi: 10.1002/jbm.b.33187. Epub 2014 May 8. PubMed PMID: 24811046
 
@@ -13,7 +29,6 @@ status: hidden
 
 * Wrzeszcz A, Dittrich B, Haamann D, Aliuos P, Klee D, Nolte I, Lenarz T and Reuter G. [**Dexamethasone released from cochlear implant coatings combined with a protein repellent hydrogel layer inhibits fibroblast proliferation.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34719/abstract) J Biomed Mater Res A. 2014 Feb;102(2):442-54. doi: 10.1002/jbm.a.34719. Epub 2013 May 18. PubMed PMID: 23533184
 
-## 2013
 
 * Kaiser O, Aliuos P, Wissel K, Lenarz T, Werner D, Reuter G, Kral A and Warnecke A. [**Dissociated neurons and glial cells derived from rat inferior colliculi after digestion with papain.**](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0080490) PLoS One. 2013 Dec 12;8(12):e80490. doi: 10.1371/journal.pone.0080490. eCollection 2013. PubMed PMID: 24349001
 
@@ -23,8 +38,6 @@ status: hidden
 
 * Aliuos P, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U and Reuter G. [**Evaluation of single-cell force spectroscopy and fluorescence microscopy to determine cell interactions with femtosecond-laser microstructured titanium surfaces.**](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34401/abstract) J Biomed Mater Res A. 2013 Apr;101(4):981-90. doi: 10.1002/jbm.a.34401. Epub 2012 Sep 10. PubMed PMID: 22965938
 
-
-## Before 2013
 
 * Creutzburg T, Rissing L, Lenarz T and Reuter G. [**Design and fabrication of a microactuator for a hearing aid**](http://iospress.metapress.com/content/91951u16274m8105/) Int J Appl Electrom. 2012 Jan;39(1):471-77. doi: 10.3233/JAE-2012-1498.
 
