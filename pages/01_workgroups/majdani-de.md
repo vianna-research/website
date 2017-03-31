@@ -1,4 +1,4 @@
-title: AG Majdani - Computer-assistierte Chirurgie und Elektrodenentwicklung
+title: CAS-hno - Computer-assistierte Chirurgie und Elektrodenentwicklung
 
 ![cash-logo](majdani/cas-h.png)
 
