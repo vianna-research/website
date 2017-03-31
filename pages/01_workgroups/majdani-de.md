@@ -13,7 +13,7 @@ Die Arbeitsgruppe "Computer-assistierte Chirurgie und Elektrodenentwicklung" (CA
 Die Forschung der AG beschäftigt sich mit der Nutzung von Verfahren der computer-assistierten Chirurgie (CAS) auf der Basis hochauflösender Bildgebungstechnologien, um die Präzision und Sicherheit operativer Eingriffe, insbesondere an der lateralen Schädelbasis, zu erhöhen. Dazu zählen der Einsatz intraoperativer Navigationstechnik, mechatronischer Assistenzsysteme und Verfahren der computergestützten Simulation und prä-operativen Planung. Basierend darauf ist es das weiterführende Ziel, adaptive Cochlea-Implantat (CI)-Elektroden zu entwickeln und in das Gesamtkonzept eines minimal-traumatischen, resthörerhaltenden Zugangs zur Cochlea zu integrieren.
 
 
-Der zweite Forschungsschwerpunkt der AG umfasst die Weiterentwicklung des Elektrodenträgers (ET) von Cochlea-Implantaten (CIs) und der dazugehörigen Insertionstechnik. Die Arbeitsgruppe bearbeitet dabei den gesamten Design- und Entwicklungsprozess. Die verwendeten Methoden umfassen: Bildgebung und  drei-dimensionale (3D) Modellierung des humanen Innenohrs, Weiterentwicklung des Elektrodenträger-Designs mittels computer aided design (CAD) Software und Finite-Elemente-Analyse (FEA), die Simulation und Optimierung des Insertionsprozesses, experimentelle Charakterisierung  des Elektrodenträgers durch manuelle und/oder automatisierte Insertion in Cochlea-Modelle und/oder humane Felsenbeinpräparate. 
+Der zweite Forschungsschwerpunkt der AG umfasst die Weiterentwicklung des Elektrodenträgers (ET) von Cochlea-Implantaten (CIs) und der dazugehörigen Insertionstechnik. Die Arbeitsgruppe bearbeitet dabei den gesamten Design- und Entwicklungsprozess. Die verwendeten Methoden umfassen: Bildgebung und  drei-dimensionale (3D) Modellierung des humanen Innenohrs, Weiterentwicklung des Elektrodenträger-Designs mittels computer aided design (CAD) Software und Finite-Elemente-Analyse (FEA), die Simulation und Optimierung des Insertionsprozesses, experimentelle Charakterisierung  des Elektrodenträgers durch manuelle und/oder automatisierte Insertion in Cochlea-Modelle und/oder humane Felsenbeinpräparate. Besonderer Fokus liegt dabei auf der Funktionalisierung des Elektrodenträgers mittels Integration von Aktuatoren zur individuellen Anpassung der Form des ETs an die Spiralform des Innenohrs (Cochlea) zur Verbesserung des Restgehörerhalts. Untersuche Aktuatoren umfassen dabei Formgedächtnislegierungen, nachgiebige Mechanismen basierend auf fluidisch-aktuierten Aktuatoren und tubulären Manipulatoren.
 
 
 
@@ -53,7 +53,7 @@ Vielversprechende Konzepte werden in Insertionsstudien an Cochleamodellen oder F
 	- Bohrertools, Laser-Handstücke und Endoskope
 
 ### Elektrodenentwicklung für Cochlea-Implantate (CIs)
-- Funktionalisierung mit Aktorik (Formgedächtnislegierungen, Fluid-mechanische Aktuaren, tubuläre Manpulatoren)
+- Funktionalisierung mit Aktorik (Formgedächtnislegierungen, Fluid-mechanische Aktuatoren, tubuläre Manpulatoren)
 - Individualisierte Implantate (Formveränderung, Krümmungsanpassung, Länge, Dicke)
 - virtuelles Prototyping mit Finiter-Elemente-Modellierung
 - Simulation und Optimierung des individuellen Insertionsprozesses
