@@ -29,74 +29,50 @@ Vielversprechende Konzepte werden in Insertionsstudien an Cochleamodellen oder F
 - Computer-Tomographie (CT), digitale Volumen-Tomographie (DVT), Micro-CT, 3D Histologie ([microgrinding](majdani/methods/microgrinding.html "Schliffpräparation"))
 
 ### Bildverarbeitung und Softwareentwicklung
--
+- Visualisierung und Verarbeitung von medizinischen Bilddaten
+- manuelle und semi-automatische Segmentierung
+- Planung von (Insertions-) Trajektorien
+- Berechnung und Visualisierung der Knochendicke (lat. Schädelbasis)
+- Visualisierung der Cochleaanatomie mittels rotierender mid-modiolarer Schnittebenen
+- Softwareentwicklung mit C++, VTK, ITK, Matlab, Mathematica, LabView
 
 ### 3D-Modellierung
+- anatomische Modelle der lateralen Schädelbasis und des chirurgischen Zugang zum Innenohr
+- Finite-Elemente-Modellierung des humanen Innenohrs and des Elektrodenträgers
+- Planung und Fertigung physikalischer Modelle des humanen Innenohrs (künstliche Cochlea-Modelle)
+
 ### Entwicklung und Evaluierung von medizintechnischer Geräte
+- chirurgische Assistenzsysteme für die minimal-invasive Cochlea-Implantat-Chirurgie
+- chirurgische Instrumente und medizintechnische Geräte, wie:
+	- Bild-gestützte Chirurgie-Systeme
+	- Medizinroboter
+	- Mini-Stereotaxie-Rahmen
+	- manuelle und automatisierte Insertionstools
+	- Bohrertools, Laser-Handstücke und Endoskope
+
 ### Elektrodenentwicklung für Cochlea-Implantate (CIs)
+- Funktionalisierung mit Aktorik (Formgedächtnislegierungen, Fluid-mechanische Aktuaren, tubuläre Manpulatoren)
+- Individualisierte Implantate (Formveränderung, Krümmungsanpassung, Länge, Dicke)
+- virtuelles Prototyping mit Finiter-Elemente-Modellierung
+- Simulation und Optimierung des individuellen Insertionsprozesses
+
 ### Charakterisierung von CI-Elektrodenträgern
-
--   Einsatz der medizinischen Bildgebung, insbesondere Stellenwert der Flächendetektortechnologie bei der volumentomographischen Darstellung
-
--   Nutzung eines chirurgischen Navigationssystems zur Kontrolle einer chirurgischen Fräse zur Vermeidung der Verletzung von Risikostrukturen.
-
--   Roboterassistierte, minimal-invasiver Zugang zu der Cochlea für die CI-Operation
-
--   Bildgestützter, ministereotaktischer Zugang zu der Cochlea für die CI-Operation
-
--   Entwicklung und Evaluierung eines Insertionstools für die Einführung der CI-Elektrode in der Tiefe des minimal-invasiven Zuganges
+- 3-Punkt-Biegeversuch
+- Vermessung des individuellen Krümmungsverhalten von CIs
+- manuelle und automatisierte Insertionsversuche in künstliche Cochleamodelle und humane Felsenbeinpräparate
+- (Insertions-) Kraftmessung
+- Histologie und Evaluierung des Insertionstraumas
 
 
--   Entwicklung aktiver CI-Elektroden für die atraumatische Insertion bei resthörerhaltender Operationstechnik
+- - - 
 
-
--   Finite-Elemente-Modellierung der CI-Elektrode und der mechanischen Wechselwirkungen mit dem Innenohr
-
-
--   Präzisionsbildgebung und 3D-Modellierung des Mittel- und Innenohres auf der Basis histologischer Schliffpräparation
-
-
-Weitere Informationen: <http://www.smart-ci.de/91.html>.
-
-
-
-## Publikationen:
-
-- [Publikationsliste](majdani/publications.md)
-
-- Further publications: <http://www.smart-ci.de/3.html>
-
-
-## Kontakt:
-
-### Projektleiter: Prof. Dr. Omid Majdani
-
-Oberarzt
-
-    Klinik für Hals-, Nasen-, Ohrenheilkunde
-    Medizinische Hochschule Hannover
-    Carl-Neuberg-Str. 1
-    30625 Hannover
-
-Tel: +49 (0) 1761-532-7466
-
-Fax: +49 (0) 511-532-8876
-
-Email: <majdani.omid@mh-hannover.de>
-
-### Technische Leitung: Dr.-Ing. Thomas S. Rau
+** Kontakt: Dr.-Ing. Thomas S. Rau**
 
     VIANNA - Institut für Audioneurotechnologie
     der Klinik für Hals-, Nasen-, Ohrenheilkunde
     Medizinische Hochschule Hannover
-    Feodor-Lynen-Str. 35
+    Stadtfelddamm 34
     30625 Hannover
-
-Tel.: +49 (0) 511-532-3025
-
-Email: <rau.thomas@mh-hannover.de>
-
-
-
-Prof. Dr. O. Majdani: <Majdani.Omid@mh-hannover.de>  
-Dr.-Ing. Th. Rau: <Rau.Thomas@mh-hannover.de>
+    
+	Tel: +49 511/532-3025
+    Mail: rau.thomas@mh-hannover.de
