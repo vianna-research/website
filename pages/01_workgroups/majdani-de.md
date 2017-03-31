@@ -1,10 +1,17 @@
 title: CAS-hno - Computer-assistierte Chirurgie und Elektrodenentwicklung
 
-![cash-logo](majdani/cas-h.png)
+ - - - 
+ 
+
 
 ## Forschung
 
-**Schwerpunkt** der Forschungsarbeiten ist die Nutzung von Verfahren der computer-assistierten Chirurgie (CAS) auf der Basis hochauflösender Bildgebungstechnologien, um die Präzision und Sicherheit operativer Eingriffe, insbesondere an der lateralen Schädelbasis, zu erhöhen. Dazu zählen der Einsatz intraoperativer Navigationstechnik, mechatronischer Assistenzsysteme und Verfahren der computergestützten Simulation und prä-operativen Planung. Basierend darauf ist es das weiterführende Ziel, adaptive Cochlea-Implantat (CI)-Elektroden zu entwickeln und in das Gesamtkonzept eines minimal-traumatischen, resthörerhaltenden Zugangs zur Cochlea zu integrieren.
+![cash-logo](majdani/cas-h.png){style="width:350px; float:right; margin-left:3em"}
+
+Die Arbeitsgruppe "Computer-assistierte Chirurgie und Elektrodenentwicklung" (CAS-hno) ist ein interdisziplinäres Forschungsteam aus Ingenieuren, Ärzten und Naturwissenschaftlern innerhalb der Klinik für HNO-Heilkunde der MHH.
+
+
+Schwerpunkt der Forschungsarbeiten ist die Nutzung von Verfahren der computer-assistierten Chirurgie (CAS) auf der Basis hochauflösender Bildgebungstechnologien, um die Präzision und Sicherheit operativer Eingriffe, insbesondere an der lateralen Schädelbasis, zu erhöhen. Dazu zählen der Einsatz intraoperativer Navigationstechnik, mechatronischer Assistenzsysteme und Verfahren der computergestützten Simulation und prä-operativen Planung. Basierend darauf ist es das weiterführende Ziel, adaptive Cochlea-Implantat (CI)-Elektroden zu entwickeln und in das Gesamtkonzept eines minimal-traumatischen, resthörerhaltenden Zugangs zur Cochlea zu integrieren.
 
 ![Simulation einer CI Insertion](majdani/rtemagicc_rau_02.jpg)
 
