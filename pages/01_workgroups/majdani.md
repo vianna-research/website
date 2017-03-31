@@ -30,7 +30,7 @@ The second  research focus is on the improvement of the electrode array of a coc
 -   trajectory planning
 -   bone thickness calculation and visualization
 -   visualization of cochlear anatomy using rotating midmodiolar slice planes
--   software development using C++, VTK, ITK, Matlab, LabView
+-   software development using C++, VTK, ITK, Matlab, Mathematica, LabView
 
 ### 3D modelling
 
