@@ -21,7 +21,7 @@ Der zweite Forschungsschwerpunkt der AG umfasst die Weiterentwicklung des Elektr
 ### Bildgebungstechnologien
 - Bildgebung der Innenohres (Cochlea) und der lateralen Schädelbasis
 - Bildgebung von Cochlea-Implantaten nach Insertion
-- Computer-Tomographie (CT), digitale Volumen-Tomographie (DVT), Micro-CT, 3D Histologie ([microgrinding](majdani/methods/microgrinding.html "Schliffpräparation"))
+- Computer-Tomographie (CT), digitale Volumen-Tomographie (DVT), Micro-CT, 3D Histologie ([Schliffpräparation](majdani/methods/microgrinding.html "Schliffpräparation"))
 
 ### Bildverarbeitung und Softwareentwicklung
 - Visualisierung und Verarbeitung von medizinischen Bilddaten
