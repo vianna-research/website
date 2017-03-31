@@ -13,7 +13,7 @@ Die Arbeitsgruppe "Computer-assistierte Chirurgie und Elektrodenentwicklung" (CA
 Die Forschung der AG beschäftigt sich mit der Nutzung von Verfahren der computer-assistierten Chirurgie (CAS) auf der Basis hochauflösender Bildgebungstechnologien, um die Präzision und Sicherheit operativer Eingriffe, insbesondere an der lateralen Schädelbasis, zu erhöhen. Dazu zählen der Einsatz intraoperativer Navigationstechnik, mechatronischer Assistenzsysteme und Verfahren der computergestützten Simulation und prä-operativen Planung. Basierend darauf ist es das weiterführende Ziel, adaptive Cochlea-Implantat (CI)-Elektroden zu entwickeln und in das Gesamtkonzept eines minimal-traumatischen, resthörerhaltenden Zugangs zur Cochlea zu integrieren.
 
 
-Der zweite Forschungsschwerpunkt der AG umfasst die Weiterentwicklung des Elektrodenträgers (ET) von Cochlea-Implantaten (CIs) und der dazugehörigen Insertionstechnik. 
+Der zweite Forschungsschwerpunkt der AG umfasst die Weiterentwicklung des Elektrodenträgers (ET) von Cochlea-Implantaten (CIs) und der dazugehörigen Insertionstechnik. Die Arbeitsgruppe bearbeitet dabei den gesamten Design- und Entwicklungsprozess. Die verwendeten Methoden umfassen: Bildgebung und  drei-dimensionale (3D) Modellierung des humanen Innenohrs, Weiterentwicklung des Elektrodenträger-Designs mittels computer aided design (CAD) Software und Finite-Elemente-Simulation
 
 
 
