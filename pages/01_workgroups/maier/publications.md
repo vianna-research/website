@@ -1,7 +1,7 @@
 title: Publications
 
 ##2017
-- Kludt E, D'hondt C, Lenarz T, Maier H. [**Clinical Validation of a Sound Processor Upgrade in Direct Acoustic Cochlear Implant Subjects.**](https://www.ncbi.nlm.nih.gov/pubmed/28375939) Audiol Neurotol. 2016; 347–355. doi:10.1159/000453354
+- Kludt E, D'hondt C, Lenarz T, Maier H. [**Clinical Validation of a Sound Processor Upgrade in Direct Acoustic Cochlear Implant Subjects.**](https://www.ncbi.nlm.nih.gov/pubmed/28375939) Audiol Neurotol. 2017; 347–355. doi:10.1159/000453354
 
 - Salcher R, Zimmermann D, Giere T, Lenarz T, Maier H. [**Audiological Results in SSD With an Active Transcutaneous Bone Conduction Implant at a Retrosigmoidal Position.**](https://www.ncbi.nlm.nih.gov/pubmed/28375939) Audiol Neurotol. 2016; 347–355. doi:10.1159/000453354
 
