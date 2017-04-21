@@ -1,5 +1,9 @@
 title: Publications
 
+## 2017
+* Schmitt HA, Pich A, Schröder A, **Scheper V**, Lilli G, Reuter G, Lenarz T..  [Proteome Analysis of Human Perilymph Using an Intraoperative Sampling Method.](https://www.ncbi.nlm.nih.gov/pubmed/28282143) J Proteome Res. 2017 Apr 13. doi: 10.1021/acs.jproteome.6b00986.
+
+
 ## 2016
 * **Scheper V**, Leifholz M, von der Leyen H, Keller M, Denkena U, Koch A, Karch A, Miller J, Lenarz T.. [ACEMg-mediated hearing preservation in cochlear implant patients receiving different electrode lengths (PROHEARING): study protocol for a randomized controlled trial.](http://www.ncbi.nlm.nih.gov/pubmed/27502589) Trials. 2016 Aug 8;17:394. doi: 10.1186/s13063-016-1526-7
 
