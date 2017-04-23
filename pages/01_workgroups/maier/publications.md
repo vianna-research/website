@@ -1,5 +1,10 @@
 title: Publications
 
+##2017
+- Kludt E, D'hondt C, Lenarz T, Maier H. [**Clinical Validation of a Sound Processor Upgrade in Direct Acoustic Cochlear Implant Subjects.**](https://www.ncbi.nlm.nih.gov/pubmed/28406848) Otol Neurotol. 2017 Apr 14. doi: 10.1097/MAO.0000000000001404. [Epub ahead of print] 
+
+- Salcher R, Zimmermann D, Giere T, Lenarz T, Maier H. [**Audiological Results in SSD With an Active Transcutaneous Bone Conduction Implant at a Retrosigmoidal Position.**](https://www.ncbi.nlm.nih.gov/pubmed/28375939) Otol Neurotol. 2017 Apr 3. doi: 10.1097/MAO.0000000000001394. [Epub ahead of print]
+
 ##2016
 - Busch S, Lenarz T, Maier H. [**Comparison of Alternative Coupling Methods of the Vibrant Soundbridge Floating Mass Transducer.**](http://www.karger.com/Article/FullText/453354) Audiol Neurotol. 2016; 347–355. doi:10.1159/000453354
 
