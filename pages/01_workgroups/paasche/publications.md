@@ -1,11 +1,24 @@
 title: Publications
 
+## 2017
+* Pohl F, **Paasche G**, Lenarz T, Schuon R. [Tympanometric measurements in conscious sheep - a diagnostic tool for pre-clinical middle ear implant studies] (http://www.tandfonline.com/doi/full/10.1080/14992027.2016.1227480). Int J Audiol. 2017 Jan;56(1):53-61.
 
+## 2016
+* Dencker F, Dreyer L, Müller D, Zernetsch H, **Paasche G**, Sindelar R, Glasmacher B. [A silicone fiber coating as approach for the reduction of fibroblast growth on implant electrodes] (http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33798/abstract). J Biomed Mater Res B Appl Biomater. 2016 Oct 4. doi: 10.1002/jbm.b.33798. [Epub ahead of print]
+
+* Genzel S, Sen-Richter A, Reich U, Menzel H, Reuter G, Lenarz T, **Paasche G**. [Fibroblast growth on patterned polymeric coatings] (http://onlinelibrary.wiley.com/doi/10.1002/pssa.201532787/abstract). Physica status solidi (a). 2016; 213;6:1456–1462.
+
+* Lamm H, Müller-Kortkamp C, Warnecke A, Pohl F, **Paasche G**, Lenarz T, Stolle SR. [Concurrent hyperbaric oxygen therapy and intratympanic steroid application as salvage therapy after severe sudden sensorineural hearing loss] (http://onlinelibrary.wiley.com/doi/10.1002/ccr3.510/abstract). Clin Case Rep. 2016 Feb 11;4(3):287-93. 
+
+## 2015
+* Miller F, Hinze U, Chichkov B, Leibold W, Lenarz T, **Paasche G**. [Validation of eGFP fluorescence intensity for testing in vitro cytotoxicity according to ISO 10993-5] (http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33602/abstract). J Biomed Mater Res B Appl Biomater. 2015 Dec 24. doi: 10.1002/jbm.b.33602. [Epub ahead of print]
+
+* Linke I, Fadeeva E, Scheper V, Esser KH, Koch J, Chichkov BN, Lenarz T, **Paasche G**. [Nanostructuring of cochlear implant electrode contacts induces delayed impedance increase in vivo] (http://onlinelibrary.wiley.com/doi/10.1002/pssa.201431746/abstract). Physica status solidi (a). 2015; 212;6:1210-1215. 
 
 ## 2014
 * Miller F, Burghard A, Salcher R, Scheper V, Leibold W, Lenarz T, **Paasche G**. [Treatment of middle ear ventilation disorders: sheep as animal model for stenting the human eustachian tube - a cadaver study](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0113906). PLoS One. 2014 Nov 24;9(11):e113906. doi: 10.1371/journal.pone.0113906. eCollection 2014.
 
-* Burghard A, Lenarz T, Kral A, **Paasche G**. [Insertion site and sealing technique affect residual hearing and tissue formation after cochlear implantation](http://www.sciencedirect.com/science/article/pii/S0378595514000215). Hear Res. 2014 Jun;312:21-7
+* Burghard A, Lenarz T, Kral A, **Paasche G**. [Insertion site and sealing technique affect residual hearing and tissue formation after cochlear implantation](http://www.sciencedirect.com/science/article/pii/S0378595514000215). Hear Res. 2014 Jun;312:21-7.
 
 * Ceschi P, Bohl A, Sternberg K, Neumeister A, Senz V, Schmitz KP, Kietzmann M, Scheper V, Lenarz T, StÃ¶ver T, **Paasche G**. [Biodegradable polymeric coatings on cochlear implant surfaces and their influence on spiral ganglion cell survival](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33110/abstract;jsessionid=BB7D59FAC22C14A3B4305927C3C94B8B.f04t03). J Biomed Mater Res B Appl Biomater. 2014 Aug;102(6):1255-67.
 
