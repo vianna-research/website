@@ -6,6 +6,9 @@ title: Publications
 ## 2016
 * Dencker F, Dreyer L, Müller D, Zernetsch H, **Paasche G**, Sindelar R, Glasmacher B. [A silicone fiber coating as approach for the reduction of fibroblast growth on implant electrodes] (http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33798/abstract). J Biomed Mater Res B Appl Biomater. 2016 Oct 4. doi: 10.1002/jbm.b.33798. [Epub ahead of print]
 
+* Fadeeva E,  Schlie-Wolter S, Chichkov BN, **Paasche G**, Lenarz T. Structuring of biomaterial surfaces with ultrashort pulsed laser radiation.  in: Vilar R (ed.). Laser Surface Modification of Biomaterials - Techniques and Applications. Woodhead Publishing Series in Biomaterials: Number 111. Elsevier. 2016 :145-172.  
+
+
 * Genzel S, Sen-Richter A, Reich U, Menzel H, Reuter G, Lenarz T, **Paasche G**. [Fibroblast growth on patterned polymeric coatings] (http://onlinelibrary.wiley.com/doi/10.1002/pssa.201532787/abstract). Physica status solidi (a). 2016; 213;6:1456–1462.
 
 * Lamm H, Müller-Kortkamp C, Warnecke A, Pohl F, **Paasche G**, Lenarz T, Stolle SR. [Concurrent hyperbaric oxygen therapy and intratympanic steroid application as salvage therapy after severe sudden sensorineural hearing loss] (http://onlinelibrary.wiley.com/doi/10.1002/ccr3.510/abstract). Clin Case Rep. 2016 Feb 11;4(3):287-93. 
