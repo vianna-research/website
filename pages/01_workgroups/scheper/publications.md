@@ -1,11 +1,13 @@
 title: Publications
 
 ## 2017
-* Schmitt HA, Pich A, Schröder A, **Scheper V**, Lilli G, Reuter G, Lenarz T..  [Proteome Analysis of Human Perilymph Using an Intraoperative Sampling Method.](https://www.ncbi.nlm.nih.gov/pubmed/28282143) J Proteome Res. 2017 Apr 13. doi: 10.1021/acs.jproteome.6b00986.
+* Konerding WS, Janssen H, Hubka P, Tornøe J, Mistrik P, Wahlberg L, Lenarz T, Kral A, **Scheper V**.  [Encapsulated cell device approach for combined electrical stimulation and neurotrophic treatment of the deaf cochlea.](http://www.sciencedirect.com/science/article/pii/S0378595516304129) Hear Res. 2017 Apr 25;350:110-121. 
+
+* Schmitt HA, Pich A, Schröder A, **Scheper V**, Lilli G, Reuter G, Lenarz T.  [Proteome Analysis of Human Perilymph Using an Intraoperative Sampling Method.](https://www.ncbi.nlm.nih.gov/pubmed/28282143) J Proteome Res. 2017 Apr 13. doi: 10.1021/acs.jproteome.6b00986.
 
 
 ## 2016
-* **Scheper V**, Leifholz M, von der Leyen H, Keller M, Denkena U, Koch A, Karch A, Miller J, Lenarz T.. [ACEMg-mediated hearing preservation in cochlear implant patients receiving different electrode lengths (PROHEARING): study protocol for a randomized controlled trial.](http://www.ncbi.nlm.nih.gov/pubmed/27502589) Trials. 2016 Aug 8;17:394. doi: 10.1186/s13063-016-1526-7
+* **Scheper V**, Leifholz M, von der Leyen H, Keller M, Denkena U, Koch A, Karch A, Miller J, Lenarz T. [ACEMg-mediated hearing preservation in cochlear implant patients receiving different electrode lengths (PROHEARING): study protocol for a randomized controlled trial.](http://www.ncbi.nlm.nih.gov/pubmed/27502589) Trials. 2016 Aug 8;17:394. doi: 10.1186/s13063-016-1526-7
 
 
 * Schwieger J, Esser KH, Lenarz T, **Scheper V**. [Establishment of a long-term spiral ganglion neuron culture with reduced glial cell number: Effects of AraC on cell composition and neurons.](http://www.sciencedirect.com/science/article/pii/S0165027016300796) J Neurosci Methods. 2016 Aug 1;268:106-16. doi: 10.1016/j.jneumeth.2016.05.001. Epub 2016 May 3.
