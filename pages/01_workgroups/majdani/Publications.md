@@ -5,7 +5,7 @@ title: Publications
 
 ### Journal Papers
 
-Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017): _Synthesis process of a compliant fluidmechanical actuator for use as an adaptive electrode carrier for cochlear implants_. Mechanism and Machine Theory 112: 155-171. (IF: 1.689)
+Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017): _Synthesis process of a compliant fluidmechanical actuator for use as an adaptive electrode carrier for cochlear implants_. Mechanism and Machine Theory 112: 155-171. \[[DOI](https://doi.org/10.1016/j.mechmachtheory.2017.02.001); IF: 1.689\].
 
 Mirsalehi M., Rau Th. S., Harbach L., Hügl S., Mohebbi S., Lenarz T., Majdani O. (2017): _Insertion forces and intracochlear trauma in temporal bone specimens implanted with a straight atraumatic electrode array_. Eur Arch Otorhinolaryngol. 274(5):2131-2140. (IF: 1.627).
 
