@@ -5,15 +5,19 @@ title: Publications
 
 ### Journal Papers
 
+Büchner A., Illg A., Majdani O., Lenarz T. (2017): _Investigation of the effect of cochlear implant electrode length on speech comprehension in quiet and noise compared with the results with users of electro-acoustic-stimulation, a retrospective analysis_. PLoS One. 12(5):e0174900. \[[**DOI**](https://doi.org/10.1371/journal.pone.0174900); [**PDF**](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174900&type=printable); IF: 3.057\]  
+
+Bergmeier J., Fitzpatrick J.M., Daentzer D., Majdani O., Ortmaier T., Kahrs L. A. (2017): _Workflow and simulation of image-to-physical registration of holes inside spongy bone_. Int J Comput Assist Radiol Surg. (Epub ahead of print). \[[**DOI**](http://dx.doi.org/10.1007/s11548-017-1594-5); IF: 1.827\].
+
 Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017): _Synthesis process of a compliant fluidmechanical actuator for use as an adaptive electrode carrier for cochlear implants_. Mechanism and Machine Theory 112: 155-171. \[[**DOI**](https://doi.org/10.1016/j.mechmachtheory.2017.02.001); IF: 1.689\].
 
 Mirsalehi M., Rau Th. S., Harbach L., Hügl S., Mohebbi S., Lenarz T., Majdani O. (2017): _Insertion forces and intracochlear trauma in temporal bone specimens implanted with a straight atraumatic electrode array_. Eur Arch Otorhinolaryngol. 274(5):2131-2140. \[[**DOI**](http://dx.doi.org/10.1007/s00405-017-4485-z); IF: 1.627\].
 
 ### Conference Papers
 
-Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101350P. doi:10.1117/12.2254304.
+Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101350P. \[[**DOI**](http://dx.doi.org/10.1117/12.2254304)\].
 
-Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101352N. doi:10.1117/12.2254381.
+Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101352N. \[[**DOI**](http://dx.doi.org/10.1117/12.2254381)\).
 
 
 ### Abstracts
