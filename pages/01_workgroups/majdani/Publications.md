@@ -13,6 +13,11 @@ Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017): _Syn
 
 Mirsalehi M., Rau Th. S., Harbach L., Hügl S., Mohebbi S., Lenarz T., Majdani O. (2017): _Insertion forces and intracochlear trauma in temporal bone specimens implanted with a straight atraumatic electrode array_. Eur Arch Otorhinolaryngol. 274(5):2131-2140. \[[**DOI**](http://dx.doi.org/10.1007/s00405-017-4485-z); IF: 1.627\].
 
+Mohebbi S., Mirsalehi M., Kahrs L. A., Ortmaier T., Lenarz T., Majdani O. (2017): _Experimental Visualization of Labyrinthine Structure with Optical Coherence Tomography_. Iran J Otorhinolaryngol. 29(90):5-9. \[[**DOI**](http://dx.doi.org/10.22038/ijorl.2016.8062); [**PDF**](http://ijorl.mums.ac.ir/article_8062_91de932cebc87ec9227990d4e62323e9.pdf)\].
+
+
+
+
 ### Conference Papers
 
 Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101350P. \[[**DOI**](http://dx.doi.org/10.1117/12.2254304)\].
