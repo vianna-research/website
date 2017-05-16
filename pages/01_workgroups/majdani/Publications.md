@@ -1,18 +1,20 @@
-## Publications
+title Publications
+
+## Publications 2017
 
 ### 2017
 
 #### Journal Papers
 
-Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017): _Synthesis process of a compliant fluidmechanical actuator for use as an adaptive electrode carrier for cochlear implants._ Mechanism and Machine Theory 112: 155-171. (IF: 1.689)
+Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017): _Synthesis process of a compliant fluidmechanical actuator for use as an adaptive electrode carrier for cochlear implants_. Mechanism and Machine Theory 112: 155-171. (IF: 1.689)
 
-Mirsalehi M., Rau Th. S., Harbach L., Hügl S., Mohebbi S., Lenarz T., Majdani O. (2017): _Insertion forces and intracochlear trauma in temporal bone specimens implanted with a straight atraumatic electrode array._ Eur Arch Otorhinolaryngol. 274(5):2131-2140. (IF: 1.627).
+Mirsalehi M., Rau Th. S., Harbach L., Hügl S., Mohebbi S., Lenarz T., Majdani O. (2017): _Insertion forces and intracochlear trauma in temporal bone specimens implanted with a straight atraumatic electrode array_. Eur Arch Otorhinolaryngol. 274(5):2131-2140. (IF: 1.627).
 
 #### Conference Papers
 
-Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017): _Micro-stereotactic frame utilizing bone cement for individual fabrication._ An initial investigation of its accuracy. In Proc. of SPIE 10135, 10135-24.
+Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. of SPIE 10135, 10135-24.
 
-Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation._ In Proc. of SPIE 10135, 10135-94.
+Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. of SPIE 10135, 10135-94.
 
 
 #### Abstracts
