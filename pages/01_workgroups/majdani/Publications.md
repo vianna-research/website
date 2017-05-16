@@ -25,11 +25,9 @@ Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017): _Phantom-based
 
 ### Patents
 
-Rau Th. S., Granna J., Majdani O., Burgner-Kahrs J.: _Elektrodenanordnung eines Cochlea-Implantats, automatisierte Betätigungseinrichtung sowie Verwendung eines tubularen Manipulators._ 
-__DE 10 2015 115 525 B4__. Erteilt am 23.03.2017.
+Rau Th. S., Granna J., Majdani O., Burgner-Kahrs J.: _Elektrodenanordnung eines Cochlea-Implantats, automatisierte Betätigungseinrichtung sowie Verwendung eines tubularen Manipulators._ DE 10 2015 115 525 B4. Erteilt am 23.03.2017.
 
-Griebel S., Hügl S., Rau Th. S., Majdani O., Wystup C., Lenarz T., Zentner L.: _Adaptiver Elektrodenträger, seine Verwendung und Verfahren zur Insertion eines Cochlea-Implantat-Elektrodenträgers._  
-__DE 10 2016 003 295.2__. Erteilt am 23.03.2017.
+Griebel S., Hügl S., Rau Th. S., Majdani O., Wystup C., Lenarz T., Zentner L.: _Adaptiver Elektrodenträger, seine Verwendung und Verfahren zur Insertion eines Cochlea-Implantat-Elektrodenträgers._ DE 10 2016 003 295.2. Erteilt am 23.03.2017.
 
 
 ### 2016
