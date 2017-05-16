@@ -41,6 +41,8 @@ Griebel S., Hügl S., Rau Th. S., Majdani O., Wystup C., Lenarz T., Zentner L.: 
 
 ### Journal Papers
 
+Roemer A., Köhl U., Majdani O., Klöß S., Falk C., Haumann S., Lenarz T., Kral A., Warnecke A. (2017): _Biohybrid cochlear implants in human neurosensory restoration_. Stem Cell Res Ther. 7(1):148. \[[**DOI**](http://dx.doi.org/10.1186/s13287-016-0408-y); [**PDF**](http://stemcellres.biomedcentral.com/track/pdf/10.1186/s13287-016-0408-y?site=stemcellres.biomedcentral.com); IF: 4.504\].
+
 Schurzig D., Lexow G. J., Majdani O., Lenarz Th., Rau Th. S. (2016): _Three-dimensional modeling of the cochlea by use of an arc fitting approach_. Comput Methods Biomech Biomed Engin. 19(16):1785-1799. (IF: 1.850)
 
 Schurzig D., Rau Th. S., Wallaschek J., Lenarz T., Majdani O. (2016): _Determination of optimal excitation patterns for local mechanical inner ear stimulation using a physiologically-based model._ Biomed Microdevices. 18(2):36. (IF: 2.227).
