@@ -87,7 +87,7 @@ Rau Th. S., Granna J., Lenarz T., Majdani O., Burgner-Kahrs J. (2015): _Tubular 
 
 Kobler J.-P., Nuelle K., Lexow G. J., Rau Th. S., Majdani O., Kahrs L. A., Kotlarski J., Ortmaier T. (2015): _Configuration optimization and experimental accuracy evaluation of a bone-attached, parallel robot for skull surgery_. Int J Comput Assist Radiol Surg. 11(3):421-36. doi:10.1007/s11548-015-1300-4. (IF: 1.707)
 
-Rau Th. S., Lenarz Th., Majdani O. (2015): _Individual Optimization of the Insertion of a Preformed Cochlear Implant Electrode Array_. International Journal of Otolaryngology. Vol. 2015, Article ID 724703:1-22. \[[PDF](http://downloads.hindawi.com/journals/ijoto/2015/724703.pdf); [DOI](http://dx.doi.org/10.1155/2015/724703)\].
+Rau Th. S., Lenarz Th., Majdani O. (2015): _Individual Optimization of the Insertion of a Preformed Cochlear Implant Electrode Array_. International Journal of Otolaryngology. Vol. 2015, Article ID 724703:1-22. \[[**PDF**](http://downloads.hindawi.com/journals/ijoto/2015/724703.pdf); [**DOI**](http://dx.doi.org/10.1155/2015/724703)\].
 
 Kobler J.-P., Prielozny L., Lexow G. J., Rau Th. S., Majdani O., Ortmaier T. (2015): _Mechanical characterization of bone anchors used with a bone-attached, parallel robot for skull surgery_. Med Eng Phys. 2015 May;37(5):460-8. (IF: 1.825)
 
