@@ -1,7 +1,18 @@
-title: Publications
+## Publications
+
+### Journal Papers
+
+2017
+
+Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017): _Synthesis process of a compliant fluidmechanical actuator for use as an adaptive electrode carrier for cochlear implants._ Mechanism and Machine Theory 112: 155-171. (IF: 1.689)
+
+Mirsalehi M., Rau Th. S., Harbach L., Hügl S., Mohebbi S., Lenarz T., Majdani O. (2017): _Insertion forces and intracochlear trauma in temporal bone specimens implanted with a straight atraumatic electrode array._ Eur Arch Otorhinolaryngol. 274(5):2131-2140. (IF: 1.627).
+
+2016
+
+Schurzig D., Lexow G. J., Majdani O., Lenarz Th., Rau Th. S. (2016): _Three-dimensional modeling of the cochlea by use of an arc fitting approach. Comput Methods Biomech Biomed Engin._ 19(16):1785-1799. (IF: 1.850)
 
 
-### Peer-reviewed Journal Articles
 
 -   **Rau Th. S., Lenarz Th., Majdani O. (2015)**:
      Individual Optimization of the Insertion of a reformed Cochlear Implant Electrode Array. International Journal of Otolaryngology. Vol. 2015, Article ID 724703:1-22. doi:10.1155/2015/724703.
