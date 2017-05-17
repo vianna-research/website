@@ -1,5 +1,9 @@
 title: EMS
 
+
+![EMS](projects/ems.png){style="width:600px"}
+
+
 ### Aims:
 
 "Electromechanical Stimulation of the Cochlea" (EMS)
