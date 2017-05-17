@@ -5,7 +5,9 @@
 
 ### Electromechanical Stimulation of the Cochlea
 
+
 ![EMS](projects/ems.png){style="width:500px"}
+
 
 **Contact: Dr. Wouter J. van Drunen | vanDrunen.Wouter@mh-hannover.de**
 
