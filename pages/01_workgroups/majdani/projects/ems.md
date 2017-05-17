@@ -1,7 +1,5 @@
-
-
 title: EMS
-<iframe width="600px" height="400px" src="https://www.youtube.com/embed/8Envgp2PDsA" frameborder="0" allowfullscreen></iframe>
+
 Aims:
 
 "Electromechanical Stimulation of the Cochlea" (EMS)
