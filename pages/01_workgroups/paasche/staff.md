@@ -14,8 +14,10 @@ Jasmin Bohlmann
 Simon Konrad, MUC.
 Sinja Möller, MUC.
 Henrike Senker, MUC.
+Jannis-Fiete Riedemann, MUC.
 Halina Ebel, MUC.
 Ida Janzen-Senn, MUC.
+Susanne Genzel, MUC.
 
 <!--
 
