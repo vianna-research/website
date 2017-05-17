@@ -7,11 +7,15 @@ Dr. Gerrit Paasche | <paasche.gerrit@mh-hannover.de>
 ---------------------------
 
 **Research Team**
-Friederike Pohl, Vet. med.
+Friederike Pohl, PhD.
+Robert Schuon, MD.
+Tamara Wilfling, MD.
 Jasmin Bohlmann
 Simon Konrad, MUC.
 Sinja Möller, MUC.
 Henrike Senker, MUC.
+Halina Ebel, MUC.
+Ida Janzen-Senn, MUC.
 
 <!--
 
