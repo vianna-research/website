@@ -21,6 +21,9 @@ Die Arbeitsgruppe beschäftigt sich mit der Entwicklung von Signalverarbeitungss
 - **Entwicklung automatisierter Anpassverfahren** auf der Basis von objektiven Messungen und Patientenfeedback.]
 - **Entwicklung und Evaluation von Geräuschunterdrückungs- und Beamformer-Algorithmen** zur Verbesserung des Signal-Rauschabstands in unterschiedlichen Hörumgebungen zur Verbeserung des Hörens beim  CI-Patienten.
 
+
+![Freifeldraum](buechner/Freifeldraum.png)
+
 - - - 
 
 **Kontakt:**
