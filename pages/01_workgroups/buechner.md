@@ -15,7 +15,7 @@ title: Büchner Lab -
  
 Die Arbeitsgruppe beschäftigt sich mit der Entwicklung von Signalverarbeitungsstrategien für Cochlea-Implantate. Je nach Hersteller stimulieren 12 bis 22 intracochleäre Elektrodenkontakte des Cochlea-Implantats den Hörnerv elektrisch, um bei CI-Patienten einen Höreindruck hervorzurufen. Die Elektroden werden dabei in schneller Folge mehrere hundert bis tausend Mal in der Sekunde aktiviert. Die Komposition dieser intracochleären Stimulationsmuster, die mittels Signalverarbeitungsstrategienberechnet werden, bestimmt dabei den Höreindruck des CI-Patienten. Daraus ergeben sich die folgende Themenschwerpunkte:
 
-![FFR](buechner/FFR.png)
+![FFR](buechner/FFR.png){style="width:350px; float:right; margin-left:3em"}
 
 - **Entwicklung von Signalverarbeitungsstrategien für Cochlea-Implantate** unter Berücksichtigung der Wahrnehmungseigenschaften des menschlichen Hörsystems. Insbesondere die Berücksichtigung von Wahrnehmungsschwellen in Abhängigkeit des akustischen Signals wird erforscht zur besseren Nutzung der eingeschränkten Bandbreite der Elektrode-Nervschnittstelle. Um das Hören in der wachsenden Patientengruppe von EAS (Elektrisch-Akustische Stimulation) Patienten zu verbessern, werden neuerdings auch Interaktionen zwischen elektrischer und akustischer Stimulation bei Patienten mit akustischem Restgehör untersucht.
 - **Entwicklung von binauralen Stimulationsstrategien für Cochlea-Implantate** mit dem Ziel, das eingeschränkte Richtungshören bei bilateral implantierten Cochlea-Implantat Patienten zu verbessern. Evaluation der Strategien im reflexionsarmen Raum mit unterer Grenzfrequenz von 90 Hz unter Verwendung einer fest installierten Richtungshöranlage.
