@@ -39,8 +39,9 @@ Die Arbeitsgruppe beschäftigt sich mit der Entwicklung von Signalverarbeitungss
 **Kontakt:**
 
     Prof. Dr. Dipl.-Inform. Andreas Büchner
-	[DHZ-Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=1)
-	Karl-Wiechert-Allee 3 
-	30625 Hannover
-       
-    email:Buechner(at)hoerzentrum-hannover.de
+    Karl-Wiechert-Allee 3 
+    30625 Hannover
+    
+[DHZ-Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=1)
+
+Buechner(at)hoerzentrum-hannover.de
