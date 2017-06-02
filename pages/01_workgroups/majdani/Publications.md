@@ -27,7 +27,7 @@ Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017): _Phantom-based
 
 ### Abstracts
 
-coming soon...
+Hügl S., Lexow G. J., Majdani o., Lenarz Th., Rau Th. (2017): _Untersuchung der anatomischen Variabilität perimodiolarer Scala Tympani Pfade als Grundlage individueller Cochlea-Implantat Elektrodenträger_. In: Tagungsband zur 88. Jahresversammlung der Dt. Gesell. für Hals-Nasen-Ohren-Heilkunde, Kopf- und Hals-Chirurgie e.V., 24.-27.05., Erfurt. doi: 10.3205/17hno299.
 
 
 ### Patents
