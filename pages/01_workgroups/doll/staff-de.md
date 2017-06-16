@@ -11,7 +11,7 @@ title: Mitarbeiter
 |Teamassistentin|                     |      |
 |--------------|---------------------|------|
 |![Image Bettina Goede](Betti.png) | Bettina Goede	|	goede.bettina@mh-hannover.de     |
-|    |   Telefon:| +49 (0)511 532 7235 oder +49 (0)511 5350 247|
+|    |   Telefon:|  +49 (0)511 5350 247|
 
 |Technische Mitarbeiter|                     |      |
 |--------------|---------------------|------|
