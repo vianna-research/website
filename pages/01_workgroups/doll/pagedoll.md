@@ -56,5 +56,5 @@ Medizinische Hochschule Hannover
 Stadtfelddam 34
 30625 Hannover
 
-Phone: 0511 532 7230
+Phone: 0511 5350 248
 Mail: doll.theodor(at)mh-hannover.de
