@@ -31,6 +31,9 @@ We further focus our research on bioengineering aspects of neuroprosthetic devic
 ## Methods used by our lab
 - [Methods](http://neuroprostheses.com/AK/Methods.html)
 
+## Collaborations
+- [Courses](http://www.neuroprostheses.com/AK/Cooperations.html)
+
 ## Courses that we teach
 - [Courses](http://neuroprostheses.com/AK/Students_corner.html)
 
