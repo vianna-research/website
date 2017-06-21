@@ -13,7 +13,7 @@ The Joint Research Institute of AudioNeuroTechnology (VIANNA) of the Medical Uni
 
 In collaboration with several industrial partners we help to develop and test new stimulation strategies and new prototypes of auditory prostheses. 
 
-The institute was established in 2009, funded by the State of Lower Saxony. Prof. A. Kral was appointed Chaired Professor of Auditory Neuroscience and the scientific director of the Institute in August 2009, Prof. T. Lenarz heads the translational activities of the institute. 
+The institute was established in 2009, funded by the State of Lower Saxony. Prof. A. Kral was appointed Chaired Professor of Auditory Neuroscience and the scientific director of the Institute in August 2009, Prof. T. Lenarz, the chair of the Dept. of Otolaryngology, heads the translational activities of the institute. 
 
 The institute was officially opened by the Ministry of Education of Lower Saxony, Prof. J. Wanka, and the president of the MHH, Prof. D. Bitter-Suermann, on January 17, 2011. Since then the institute hosted many [scientists from all continents](http://www.neuroprostheses.com/AuditorySciences/Visitors.html), attracted funding from many prestigeous agencies and expanded both its research scope and its infrastracture. It moved to a newly-constructed building of the MHH (“NIFE”) in spring 2016. 
 
