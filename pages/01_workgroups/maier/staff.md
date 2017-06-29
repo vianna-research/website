@@ -15,9 +15,11 @@ title: Staff
 |[![Picture Martin Großöhmichen](staff/MGR_small.jpg)](staff/mgr.html "Martin Großöhmichen")|	[Martin Großöhmichen](staff/mgr.html "Martin Großöhmichen")|
 |[![Picture Mathias Müller](staff/MMU_small.jpg)](staff/mmu.html "Mathias Müller")|	[Mathias Müller](staff/mmu.html "Mathias Müller ")|
 |[![Picture Rolf Salcher](staff/RSA_small.jpg)](staff/rsa.html "Rolf Salcher")| [Rolf Salcher](staff/rsa.html "Rolf Salcher")|
-|[![Picture Sarah Vormelcher](staff/svo_small.jpg)](staff/svo.html "Sarah Vormelcher")| [Sarah Vormelcher](staff/svo.html "Sarah Vormelcher")|
 ||Jaspar Wesemann|
 
+|Former Employees|
+|------------------|
+|Sarah Vormelcher|
 
 
 
