@@ -1,7 +1,7 @@
 title: Publications
 
 ##2017
-- Müller M, Salcher R, Lenarz T, Maier H. [**The Hannover Coupler: Controlled Static Prestress in Round Window Stimulation With the Floating Mass Transducer.**]
+- Müller M, Salcher R, Lenarz T, Maier H. [**The Hannover Coupler: Controlled Static Prestress in Round Window Stimulation With the Floating Mass Transducer.**](https://www.ncbi.nlm.nih.gov/pubmed/28657955) Otol Neurotol. 2017 Jun 27. doi: 10.1097/MAO.0000000000001484. [Epub ahead of print]
 
 - Kludt E, D'hondt C, Lenarz T, Maier H. [**Clinical Validation of a Sound Processor Upgrade in Direct Acoustic Cochlear Implant Subjects.**](https://www.ncbi.nlm.nih.gov/pubmed/28406848) Otol Neurotol. 2017 Apr 14. doi: 10.1097/MAO.0000000000001404. [Epub ahead of print] 
 
