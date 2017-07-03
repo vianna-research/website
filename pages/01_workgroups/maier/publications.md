@@ -3,9 +3,9 @@ title: Publications
 ##2017
 - Müller M, Salcher R, Lenarz T, Maier H. [**The Hannover Coupler: Controlled Static Prestress in Round Window Stimulation With the Floating Mass Transducer.**](https://www.ncbi.nlm.nih.gov/pubmed/28657955) Otol Neurotol. 2017 Jun 27. doi: 10.1097/MAO.0000000000001484. [Epub ahead of print]
 
-- Kludt E, D'hondt C, Lenarz T, Maier H. [**Clinical Validation of a Sound Processor Upgrade in Direct Acoustic Cochlear Implant Subjects.**](https://www.ncbi.nlm.nih.gov/pubmed/28406848) Otol Neurotol. 2017 Apr 14. doi: 10.1097/MAO.0000000000001404. [Epub ahead of print] 
+- Kludt E, D'hondt C, Lenarz T, Maier H. [**Clinical Validation of a Sound Processor Upgrade in Direct Acoustic Cochlear Implant Subjects.**](https://www.ncbi.nlm.nih.gov/pubmed/28406848) Otol Neurotol. 2017 Jun;38(5):655-661. doi: 10.1097/MAO.0000000000001404.
 
-- Salcher R, Zimmermann D, Giere T, Lenarz T, Maier H. [**Audiological Results in SSD With an Active Transcutaneous Bone Conduction Implant at a Retrosigmoidal Position.**](https://www.ncbi.nlm.nih.gov/pubmed/28375939) Otol Neurotol. 2017 Apr 3. doi: 10.1097/MAO.0000000000001394. [Epub ahead of print]
+- Salcher R, Zimmermann D, Giere T, Lenarz T, Maier H. [**Audiological Results in SSD With an Active Transcutaneous Bone Conduction Implant at a Retrosigmoidal Position.**](https://www.ncbi.nlm.nih.gov/pubmed/28375939) Otol Neurotol. Jun;38(5):642-647. doi: 10.1097/MAO.0000000000001394.
 
 ##2016
 - Busch S, Lenarz T, Maier H. [**Comparison of Alternative Coupling Methods of the Vibrant Soundbridge Floating Mass Transducer.**](http://www.karger.com/Article/FullText/453354) Audiol Neurotol. 2016; 347–355. doi:10.1159/000453354
@@ -22,7 +22,7 @@ title: Publications
 
 - Burke WF, Warnecke A, Schöner-Heinisch A, Lesinski-Schiedat A, Maier H, Lenarz T. [**Prevalence and Audiological Profiles of GJB2 Mutations in a Large Collective of Hearing Impaired Patients.**](http://www.ncbi.nlm.nih.gov/pubmed/26778469) Hear Res. 2016 Mar;333:77-86. doi: 10.1016/j.heares.2016.01.006. Epub 2016 Jan 15
 
-- Kuru I, Maier H, Müller M, Lenarz T, Lueth TC. [**A 3D-printed functioning anatomical human middle ear model.**](http://www.ncbi.nlm.nih.gov/pubmed/26772730) Hear Res. 2016. [Epub ahead of print] doi:10.1016/j.heares.2015.12.025.
+- Kuru I, Maier H, Müller M, Lenarz T, Lueth TC. [**A 3D-printed functioning anatomical human middle ear model.**](http://www.ncbi.nlm.nih.gov/pubmed/26772730) Hear Res. 2016 Oct;340:204-213. doi:10.1016/j.heares.2015.12.025.
 
 ##2015
 - Ghoncheh M, Lilli G, Lenarz T, Maier H. [**Outer ear canal sound pressure and bone vibration measurement in SSD and CHL patients using a transcutaneous bone conduction instrument.**](http://www.ncbi.nlm.nih.gov/pubmed/26723102) Hear Res. 2015. [Epub ahead of print] doi:10.1016/j.heares.2015.12.019.
