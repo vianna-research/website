@@ -27,6 +27,8 @@ Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017): _Phantom-based
 
 ### Abstracts
 
+Majdani O., Kluge M., Lexow G. J., John S., Kahrs L. A., Ortmaier T., Müller S., Lenarz Th., Rau, Th. S. (2017): _Minimally invasive, mini-stereotactic approach for Cochlear Implant Surgery: RoboJIG_. In: Tagungsband Festival della Scienza Medica, Bologna, 20-23 April 2017. 
+
 Hügl S., Lexow G. J., Majdani o., Lenarz Th., Rau Th. (2017): _Untersuchung der anatomischen Variabilität perimodiolarer Scala Tympani Pfade als Grundlage individueller Cochlea-Implantat Elektrodenträger_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno299.shtml)\].
 
 Majdani O., Lexow J., Lenarz Th., Rau Th. S. (2017): _COMET: Anwenderfreundliche Vermessung der Cochlea-Länge auf präoperativen Bilddaten_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno343.shtml); [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001689.pdf)\].
