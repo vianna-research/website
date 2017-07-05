@@ -22,12 +22,18 @@ Mohebbi S., Mirsalehi M., Kahrs L. A., Ortmaier T., Lenarz T., Majdani O. (2017)
 
 Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101350P. \[[**DOI**](http://dx.doi.org/10.1117/12.2254304)\].
 
-Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101352N. \[[**DOI**](http://dx.doi.org/10.1117/12.2254381)\).
+Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101352N. \[[**DOI**](http://dx.doi.org/10.1117/12.2254381)\].
 
 
 ### Abstracts
 
-Hügl S., Lexow G. J., Majdani o., Lenarz Th., Rau Th. (2017): _Untersuchung der anatomischen Variabilität perimodiolarer Scala Tympani Pfade als Grundlage individueller Cochlea-Implantat Elektrodenträger_. In: Tagungsband zur 88. Jahresversammlung der Dt. Gesell. für Hals-Nasen-Ohren-Heilkunde, Kopf- und Hals-Chirurgie e.V., 24.-27.05., Erfurt. doi: 10.3205/17hno299.
+Hügl S., Lexow G. J., Majdani o., Lenarz Th., Rau Th. (2017): _Untersuchung der anatomischen Variabilität perimodiolarer Scala Tympani Pfade als Grundlage individueller Cochlea-Implantat Elektrodenträger_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. doi: 10.3205/17hno299.
+
+Majdani O., Lexow J., Lenarz Th., Rau Th. S. (2017): _COMET: Anwenderfreundliche Vermessung der Cochlea-Länge auf präoperativen Bilddaten_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. doi: 10.3205/17hno343.
+
+Rau Th. S., Heil M., Lexow G. J., Lenarz Th., Majdani O. (2017): _Hydraulisches Insertionstool für langsames und gleichmäßiges Einführen von Cochlea-Implantat-Elektroden_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. doi: 10.3205/17hno372. [Poster](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001689.pdf)
+
+van Drunen Ww. J., Kacha L. S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017): _Experimental investigation of the performance of piezoelectric actuators in a cochlea test rig_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Erfurt. doi: 10.3205/17hno426.
 
 
 ### Patents
