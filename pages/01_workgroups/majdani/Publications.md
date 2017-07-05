@@ -35,7 +35,9 @@ Majdani O., Lexow J., Lenarz Th., Rau Th. S. (2017): _COMET: Anwenderfreundliche
 
 Rau Th. S., Heil M., Lexow G. J., Lenarz Th., Majdani O. (2017): _Hydraulisches Insertionstool für langsames und gleichmäßiges Einführen von Cochlea-Implantat-Elektroden_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno372.shtml); [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001674.pdf)\].
 
-van Drunen Ww. J., Kacha L. S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017): _Experimental investigation of the performance of piezoelectric actuators in a cochlea test rig_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno426.shtml); [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001647.pdf)\].
+van Drunen W. J., Kacha L. S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017): _Experimental investigation of the performance of piezoelectric actuators in a cochlea test rig_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno426.shtml); [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001647.pdf)\].
+
+Kluge M., Rau Th. S., Lexow J., Kahrs L. A., Kobler J.-P., Ortmaier T., Lenarz Th., Majdani O. (2017): _Eine iterative Entwicklung eines Mini-Stereotaxiesystems für die laterale Schädelbasis_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno315.shtml), [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001699.pdf)\].
 
 
 ### Patents
