@@ -16,6 +16,8 @@ Expected benefit of such mechanisms:
 |Full Version (German Text, ~15min):|
 |-----------------------------------|
 |<iframe width="600px" height="400px" src="https://www.youtube.com/embed/8Envgp2PDsA" frameborder="0" allowfullscreen></iframe>|
+|<iframe width="560" height="315" src="https://www.youtube.com/embed/SeeZEB9KiwM" frameborder="0" allowfullscreen></iframe>|
+|<iframe width="600px" height="400px" src="https://www.youtube.com/embed/f9xSI8bRmYY" frameborder="0" allowfullscreen></iframe>|
  
 |Short Versions: |
 |------|----------|
