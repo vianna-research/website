@@ -9,8 +9,8 @@ title: AkvaMed
 - Planning, testing, analytical synthesis and fabrication of CI electrode carrier with fludically actuation 
 
 Expected benefit of such mechanisms:
- - Hearing preservation
- - Perimodiolar position within the scala tympani of the cochlea
+- Hearing preservation
+- Perimodiolar position within the scala tympani of the cochlea
  
 ### Video Documentations:
 |Full Version (German Text, ~15min):|
