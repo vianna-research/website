@@ -20,7 +20,7 @@ Expected benefit of such mechanisms:
 |Short Versions: |
 |------|----------|
 |German Text (~5min): | English Text (~5min):|
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/SeeZEB9KiwM" frameborder="0" allowfullscreen></iframe>|<iframe width="560" height="315" src="https://www.youtube.com/embed/f9xSI8bRmYY" frameborder="0" allowfullscreen></iframe>|
+|<iframe width="560px" height="315px" src="https://www.youtube.com/embed/SeeZEB9KiwM" frameborder="0" allowfullscreen></iframe>|<iframe width="560px" height="315px" src="https://www.youtube.com/embed/f9xSI8bRmYY" frameborder="0" allowfullscreen></iframe>|
 
  
   
