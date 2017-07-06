@@ -19,7 +19,7 @@ Expected benefit of such mechanisms:
  
 |Short Versions: |
 |------|----------|
-|German Text (~5min): | **English Text** (~5min):|
+|German Text (~5min): | English Text (~5min):|
 | <iframe width="300px" height="200px" src="https://www.youtube.com/watch?v=SeeZEB9KiwM" frameborder="0" > </iframe> |<iframe width="300px" height="200px" src="https://www.youtube.com/watch?v=f9xSI8bRmYY" frameborder="0" > </iframe> |
 
  
