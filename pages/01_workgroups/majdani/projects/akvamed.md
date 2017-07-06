@@ -1,6 +1,5 @@
 title: AkvaMed
 
-<iframe width="600px" height="400px" src="https://www.youtube.com/embed/8Envgp2PDsA" frameborder="0" allowfullscreen></iframe>
 
 ### Aims:
 
@@ -12,6 +11,16 @@ title: AkvaMed
 Expected benefit of such mechanisms:
  - Hearing preservation
  - Perimodiolar position within the scala tympani of the cochlea
+ 
+### Video Documentations:
+ - Full Version (German Text, ~15min):
+ <iframe width="600px" height="400px" src="https://www.youtube.com/embed/8Envgp2PDsA" frameborder="0" allowfullscreen></iframe>
+ 
+- Short Version (German Text, ~5min):
+ <iframe width="300px" height="200px" src="https://www.youtube.com/watch?v=SeeZEB9KiwM" frameborder="0" allowfullscreen></iframe>
+  
+ - Short Version (**English Text**, ~5min):
+ <iframe width="300px" height="200px" src="https://www.youtube.com/watch?v=f9xSI8bRmYY" frameborder="0" allowfullscreen></iframe>
   
 ### Patents and Awards:
 
