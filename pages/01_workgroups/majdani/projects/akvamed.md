@@ -29,7 +29,7 @@ Expected benefit of such mechanisms:
 - Goldmedal at the international traide fair „Ideen-Erfindungen-Neuheiten (IENA)“ (ideas-inventions-new products) Nürnberg, Germany, 2015; Topic: „Adaptiver Elektrodenträger, seine Verwendung und Verfahren zur Insertion eines Cochlea-Implantat-Elektrodenträgers“
 - Griebel, S.; Hügl., S.; Rau, T.S.; Majdani, O.; Wystup, C.; Lenarz, T.; Zentner, L.: 
  Adaptiver Elektrodenträger, seine Verwendung und Verfahren zu seiner Insertion
- file number: DE 10 2016 003 259.2, patent application 04.03.2016 
+ file number: DE 10 2016 003 295 B3, patent granted 23.03.2017, [[**PDF**](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=DE102016003295B3)\] 
 
 ![](2015auszeichnung.jpg){style="width:526px"} ![](iena.png){style="width:248px"}
 
