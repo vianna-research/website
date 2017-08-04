@@ -1,6 +1,9 @@
 title: Publications
 
 ## 2017
+* Berger C, Kühne D, **Scheper V**, Kral A. [Congenital deafness affects deep layers in primary and secondary auditory cortex.] (https://www.ncbi.nlm.nih.gov/pubmed/28643417) J Comp Neurol. 2017 Oct 1;525(14):3110-3125. doi: 10.1002/cne.24267. Epub 2017 Jul 13.
+
+
 * Konerding WS, Janssen H, Hubka P, Tornøe J, Mistrik P, Wahlberg L, Lenarz T, Kral A, **Scheper V**.  [Encapsulated cell device approach for combined electrical stimulation and neurotrophic treatment of the deaf cochlea.](http://www.sciencedirect.com/science/article/pii/S0378595516304129) Hear Res. 2017 Apr 25;350:110-121. 
 
 * Schmitt HA, Pich A, Schröder A, **Scheper V**, Lilli G, Reuter G, Lenarz T.  [Proteome Analysis of Human Perilymph Using an Intraoperative Sampling Method.](https://www.ncbi.nlm.nih.gov/pubmed/28282143) J Proteome Res. 2017 Apr 13. doi: 10.1021/acs.jproteome.6b00986.
