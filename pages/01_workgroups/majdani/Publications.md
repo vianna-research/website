@@ -5,8 +5,7 @@ title: Publications
 
 ### Journal Papers
 
-Mirsalehi M., Mohebbi S., Ghajarzadeh M., Lenarz Th., Majdani O.: _Impact of the round window membrane accessibility on hearing
-preservation in adult cochlear implantation._ Eur Arch Otorhinolaryngol. 274(8):3049–3056. \[[**DOI**](https://doi.org/10.1007/s00405-017-4628-2); IF: 1.660\].
+Mirsalehi M., Mohebbi S., Ghajarzadeh M., Lenarz Th., Majdani O.: _Impact of the round window membrane accessibility on hearing preservation in adult cochlear implantation._ Eur Arch Otorhinolaryngol. 274(8):3049–3056. \[[**DOI**](https://doi.org/10.1007/s00405-017-4628-2); IF: 1.660\].
 
 Lyutenski S., Götz F., Giourgas A., Majdani O., Bültmann E., Lanfermann H., Lenarz Th., Giesemann A. M.: _Does severity of cerebral MRI lesions in congenital CMV infection correlates with the outcome of cochlear implantation?_ Eur Arch Otorhinolaryngol. 274(3):1397–1403. \[[**DOI**](https://doi.org/10.1007/s00405-016-4408-4); IF: 1.660\]
 
