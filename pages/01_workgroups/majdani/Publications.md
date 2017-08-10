@@ -5,11 +5,16 @@ title: Publications
 
 ### Journal Papers
 
+Mirsalehi M., Mohebbi S., Ghajarzadeh M., Lenarz Th., Majdani O.: _Impact of the round window membrane accessibility on hearing
+preservation in adult cochlear implantation._ Eur Arch Otorhinolaryngol. 274(8):3049–3056. \[[**DOI**](https://doi.org/10.1007/s00405-017-4628-2); IF: 1.660\].
+
+Lyutenski S., Götz F., Giourgas A., Majdani O., Bültmann E., Lanfermann H., Lenarz Th., Giesemann A. M.: _Does severity of cerebral MRI lesions in congenital CMV infection correlates with the outcome of cochlear implantation?_ Eur Arch Otorhinolaryngol. 274(3):1397–1403. \[[**DOI**](https://doi.org/10.1007/s00405-016-4408-4); IF: 1.660\]
+
 Büchner A., Illg A., Majdani O., Lenarz T. (2017): _Investigation of the effect of cochlear implant electrode length on speech comprehension in quiet and noise compared with the results with users of electro-acoustic-stimulation, a retrospective analysis_. PLoS One. 12(5):e0174900. \[[**DOI**](https://doi.org/10.1371/journal.pone.0174900); [**PDF**](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174900&type=printable); IF: 3.057\]  
 
-Bergmeier J., Fitzpatrick J.M., Daentzer D., Majdani O., Ortmaier T., Kahrs L. A. (2017): _Workflow and simulation of image-to-physical registration of holes inside spongy bone_. Int J Comput Assist Radiol Surg. (Epub ahead of print). \[[**DOI**](http://dx.doi.org/10.1007/s11548-017-1594-5); IF: 1.827\].
+Bergmeier J., Fitzpatrick J.M., Daentzer D., Majdani O., Ortmaier T., Kahrs L. A. (2017): _Workflow and simulation of image-to-physical registration of holes inside spongy bone_. Int J Comput Assist Radiol Surg. 12(8):1425–1437. \[[**DOI**](http://dx.doi.org/10.1007/s11548-017-1594-5); IF: 1.827\].
 
-Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017): _Synthesis process of a compliant fluidmechanical actuator for use as an adaptive electrode carrier for cochlear implants_. Mechanism and Machine Theory 112: 155-171. \[[**DOI**](https://doi.org/10.1016/j.mechmachtheory.2017.02.001); IF: 1.689\].
+Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017): _Synthesis process of a compliant fluidmechanical actuator for use as an adaptive electrode carrier for cochlear implants_. Mechanism and Machine Theory 112:155-171. \[[**DOI**](https://doi.org/10.1016/j.mechmachtheory.2017.02.001); IF: 1.689\].
 
 Mirsalehi M., Rau Th. S., Harbach L., Hügl S., Mohebbi S., Lenarz T., Majdani O. (2017): _Insertion forces and intracochlear trauma in temporal bone specimens implanted with a straight atraumatic electrode array_. Eur Arch Otorhinolaryngol. 274(5):2131-2140. \[[**DOI**](http://dx.doi.org/10.1007/s00405-017-4485-z); IF: 1.627\].
 
