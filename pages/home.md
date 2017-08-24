@@ -24,16 +24,14 @@ The institute is a funding part of the DFG Cluster of Excellence "Hearing4All" w
 The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industrial partners (Cochlear Ltd., MED-EL, Advanced Bionics, Blackrock).
 
 
-<br>
-<br>
+
 <br>
 
 ## Open Positions:
 
 - [Engineer for the development of a novel implant for the direct mechanical stimulation of the inner ear](development_engineer_hearing4all_hannover.pdf)
 
-<br>
-<br>
+
 <br>
 
 ## News: Press releases:
