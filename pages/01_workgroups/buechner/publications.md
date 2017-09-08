@@ -10,10 +10,9 @@ title: Publications
 
 * **[Speech intelligibility and subjective benefit in single-sided deaf adults after cochlear implantation.](http://www.sciencedirect.com/science/article/pii/S0378595516304075?via%3Dihub)** Finke M, Strauß-Schier A, Kludt E, Büchner A, Illg A. Hear Res. 2017 May;348:112-119. doi: 10.1016/j.heares.2017.03.002. Epub 2017 Mar 10.
 
-
 * **[Technical advancements in cochlear implants : State of the art-Technische Entwicklungen bei Cochleaimplantaten](https://link.springer.com/article/10.1007%2Fs00106-017-0339-7)** Büchner A, Gärtner L. HNO. 2017 Apr;65(4):276-289. doi: 10.1007/s00106-017-0339-7. German.
 
-* **[Auditory and audio-visual processing in patients with cochlear, auditory brainstem, and auditory midbrain implants: An EEG study.](http://onlinelibrary.wiley.com/doi/10.1002/hbm.23515/abstract;jsessionid=EA9F8D82EAD0690C8A72C9476044DB5D.f04t04?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+25th+March+from+07%3A00+GMT+%2F+03%3A00+EDT+%2F+15%3A00+SGT+for+4+hours+for+essential+maintenance.++Apologies+for+the+inconvenience.)** Schierholz I, Finke M, Kral A, Büchner A, Rach S, Lenarz T, Dengler R, Sandmann P. Hum Brain Mapp. 2017 Apr;38(4):2206-2225. doi: 10.1002/hbm.23515.
+* **[Auditory and audio-visual processing in patients with cochlear, auditory brainstem, and auditory midbrain implants: An EEG study.](http://onlinelibrary.wiley.com/doi/10.1002/hbm.23515/abstract;jsessionid=3C33B1CCC137251AA14208BD90FB63F9.f04t04)** Schierholz I, Finke M, Kral A, Büchner A, Rach S, Lenarz T, Dengler R, Sandmann P. Hum Brain Mapp. 2017 Apr;38(4):2206-2225. doi: 10.1002/hbm.23515.
 
 * **[Toward Automated Cochlear Implant Fitting Procedures Based on Event-Related Potentials.](http://journals.lww.com/ear-hearing/Abstract/2017/03000/Toward_Automated_Cochlear_Implant_Fitting.22.aspx)** Finke M, Billinger M, Büchner A. Ear Hear. 2017 Mar/Apr;38(2):e118-e127. doi: 10.1097/AUD.0000000000000377.
 
