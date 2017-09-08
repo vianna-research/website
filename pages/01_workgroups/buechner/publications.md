@@ -66,7 +66,7 @@ title: Publications
 
 * **[Audio-tactile integration in congenitally and late deaf cochlear implant users.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099606)** Nava E, Bottari D, Villwock A, Fengler I, Büchner A, Lenarz T, Röder B. PLoS One. 2014 Jun 11;9(6):e99606. doi: 10.1371/journal.pone.0099606. eCollection 2014.
 
-* **[Residual neural processing of musical sound features in adult cochlear implant users.](http://journal.frontiersin.org/article/10.3389/fnhum.2014.00181/full)** Timm L, Vuust P, Brattico E, Agrawal D, Debener S, Büchner A, Dengler R, Wittfoth M. Front Hum Neurosci. 2014 Apr 3;8:181. doi: 10.3389/fnhum.2014.00181.
+* **[Residual neural processing of musical sound features in adult cochlear implant users.](http://journal.frontiersin.org/article/10.3389/fnhum.2014.00181/full)** Timm L, Vuust P, Brattico E, Agrawal D, Debener S, Büchner A, Dengler R, Wittfoth M. Front Hum Neurosci. 2014 Apr 3;8:181. doi: 10.3389/fnhum.2014.00181. eCollection 2014.
 
 * **[Hearing preservation outcomes with different cochlear implant electrodes: Nucleus® Hybrid™-L24 and Nucleus Freedom™ CI422.](https://www.karger.com/Article/FullText/360601)** Jurawitz MC, Büchner A, Harpel T, Schüssler M, Majdani O, Lesinski-Schiedat A, Lenarz T. Audiol Neurootol. 2014;19(5):293-309. doi: 10.1159/000360601.
 
