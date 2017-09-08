@@ -59,7 +59,7 @@ title: Publications
 
 * **[Assessment of 'Fitting to Outcomes Expert' FOX™ with new cochlear implant users in a multi-centre study.](http://www.tandfonline.com/doi/full/10.1179/1754762814Y.0000000093)** Battmer RD, Borel S, Brendel M, Büchner A, Cooper H, Fielden C, Gazibegovic D, Goetze R, Govaerts P, Kelleher K, Lenartz T, Mosnier I, Muff J, Nunn T, Vaerenberg B, Vanat Z. Cochlear Implants Int. 2015 Mar;16(2):100-9. doi: 10.1179/1754762814Y.0000000093. Epub 2014 Aug 12.
 
-* **[Speech reception threshold benefits in cochlear implant users with an adaptive beamformer in real life situations.](http://www.tandfonline.com/doi/full/10.1179/1754762814Y.0000000088)** Geißler G, Arweiler I, Hehrmann P, Lenarz T, Hamacher V, Büchner A. Cochlear Implants Int. 2015 Mar;16(2):69-76. doi: 10.1179/1754762814Y.0000000088.  Epub 2014 Jul 3.
+* **[Speech reception threshold benefits in cochlear implant users with an adaptive beamformer in real life situations.](http://www.tandfonline.com/doi/full/10.1179/1754762814Y.0000000088)** Geißler G, Arweiler I, Hehrmann P, Lenarz T, Hamacher V, Büchner A. Cochlear Implants Int. 2015 Mar;16(2):69-76. doi: 10.1179/1754762814Y.0000000088. Epub 2014 Jul 3.
 
 ## 2014
 * **[Evaluation of the bimodal benefit in a large cohort of cochlear implant subjects using a contralateral hearing aid.](http://journals.lww.com/otology-neurotology/Abstract/2014/10000/Evaluation_of_the_Bimodal_Benefit_in_a_Large.15.aspx)** Illg A, Bojanowicz M, Lesinski-Schiedat A, Lenarz T, Büchner A. Otol Neurotol. 2014 Oct;35(9):e240-4. doi: 10.1097/MAO.0000000000000529.
