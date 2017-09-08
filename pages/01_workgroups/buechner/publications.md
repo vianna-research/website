@@ -18,38 +18,38 @@ title: Publications
 
 * **[Off the ear with no loss in speech understanding: comparing the RONDO and the OPUS 2 cochlear implant audio processors.](https://link.springer.com/article/10.1007%2Fs00405-016-4400-z)** Dazert S, Thomas JP, Büchner A, Müller J, Hempel JM, Löwenheim H, Mlynski R. Eur Arch Otorhinolaryngol. 2017 Mar;274(3):1391-1395. doi: 10.1007/s00405-016-4400-z.
 
-* **[Adding simultaneous stimulating channels to reduce power consumption in cochlear implants.](http://www.sciencedirect.com/science/article/pii/S0378595516302532)** Langner F, Saoji AA, Büchner A, Nogueira W. Hear Res. 2017 Mar;345:96-107. doi: 10.1016/j.heares.2017.01.010.
+* **[Adding simultaneous stimulating channels to reduce power consumption in cochlear implants.](http://www.sciencedirect.com/science/article/pii/S0378595516302532)** Langner F, Saoji AA, Büchner A, Nogueira W. Hear Res. 2017 Mar;345:96-107. doi: 10.1016/j.heares.2017.01.010. Epub 2017 Jan 16.
 
 * **[Loudness and pitch perception using Dynamically Compensated Virtual Channels.](http://www.sciencedirect.com/science/article/pii/S0378595516302374)** Nogueira W, Litvak LM, Landsberger DM, Büchner A. Hear Res. 2017 Feb;344:223-234. doi: 10.1016/j.heares.2016.11.017. Epub 2016 Dec 7.
 
 ## 2016
-* **[A physiologically-inspired model reproducing the speech intelligibility benefit in cochlear implant listeners with residual acoustic hearing.](http://www.sciencedirect.com/science/article/pii/S0378595516301368)** Zamaninezhad L, Hohmann V, Büchner A, Schädler MR, Jürgens T. Hear Res. 2017 Feb;344:50-61. doi: 10.1016/j.heares.2016.10.023.
+* **[A physiologically-inspired model reproducing the speech intelligibility benefit in cochlear implant listeners with residual acoustic hearing.](http://www.sciencedirect.com/science/article/pii/S0378595516301368)** Zamaninezhad L, Hohmann V, Büchner A, Schädler MR, Jürgens T. Hear Res. 2017 Feb;344:50-61. doi: 10.1016/j.heares.2016.10.023. Epub 2016 Nov 9.
 
-* **[Validation of a Cochlear Implant Patient-Specific Model of the Voltage Distribution in a Clinical Setting.](http://journal.frontiersin.org/article/10.3389/fbioe.2016.00084/full)** Nogueira W, Schurzig D, Büchner A, Penninger RT, Würfel W. Front Bioeng Biotechnol. 2016 Nov 23;4:84.
+* **[Validation of a Cochlear Implant Patient-Specific Model of the Voltage Distribution in a Clinical Setting.](http://journal.frontiersin.org/article/10.3389/fbioe.2016.00084/full)** Nogueira W, Schurzig D, Büchner A, Penninger RT, Würfel W. Front Bioeng Biotechnol. 2016 Nov 23;4:84.eCollection 2016.
 
-* **[Indication of direct acoustical cochlea stimulation in comparison to cochlear implants.](http://www.sciencedirect.com/science/article/pii/S0378595515301027)** Kludt E, Büchner A, Schwab B, Lenarz T, Maier H. Hear Res. 2016 Oct;340:185-190. doi: 10.1016/j.heares.2016.01.016.
+* **[Indication of direct acoustical cochlea stimulation in comparison to cochlear implants.](http://www.sciencedirect.com/science/article/pii/S0378595515301027)** Kludt E, Büchner A, Schwab B, Lenarz T, Maier H. Hear Res. 2016 Oct;340:185-190. doi: 10.1016/j.heares.2016.01.016. Epub 2016 Feb 4
 
 * **[The Impact of Electrode Array Length on Hearing Preservation in Cochlear Implantation.](http://journals.lww.com/otology-neurotology/Abstract/2016/09000/The_Impact_of_Electrode_Array_Length_on_Hearing.3.aspx)** Suhling MC, Majdani O, Salcher R, Leifholz M, Büchner A, Lesinski-Schiedat A, Lenarz T. Otol Neurotol. 2016 Sep;37(8):1006-15. doi: 10.1097/MAO.0000000000001110.
 
-* **[On the relationship between auditory cognition and speech intelligibility in cochlear implant users: An ERP study.](http://www.sciencedirect.com/science/article/pii/S0028393216301695)** Finke M, Büchner A, Ruigendijk E, Meyer M, Sandmann P. Neuropsychologia. 2016 Jul 1;87:169-81. doi: 10.1016/j.neuropsychologia.2016.05.019.
+* **[On the relationship between auditory cognition and speech intelligibility in cochlear implant users: An ERP study.](http://www.sciencedirect.com/science/article/pii/S0028393216301695)** Finke M, Büchner A, Ruigendijk E, Meyer M, Sandmann P. Neuropsychologia. 2016 Jul 1;87:169-81. doi: 10.1016/j.neuropsychologia.2016.05.019. Epub 2016 May 19.
 
-* **[Survey of Cochlear Implant User Satisfaction with the Neptune™ Waterproof Sound Processor.](http://www.audiologyresearch.org/index.php/audio/article/view/146/187)** Briaire JJ; Indian Research Group., Büchner A, Auletta G, Arroyo H, Zoilo C, Mancini P, Buhagiar R, Vaid N, Mathias N. Audiol Res. 2016 Apr 20;6(1):146. doi: 10.4081/audiores.2016.146.
+* **[Survey of Cochlear Implant User Satisfaction with the Neptune™ Waterproof Sound Processor.](http://www.audiologyresearch.org/index.php/audio/article/view/146/187)** Briaire JJ; Indian Research Group., Büchner A, Auletta G, Arroyo H, Zoilo C, Mancini P, Buhagiar R, Vaid N, Mathias N. Audiol Res. 2016 Apr 20;6(1):146. doi: 10.4081/audiores.2016.146. Epub 2016 May 19.
 
 * **[Spectral contrast enhancement improves speech intelligibility in noise for cochlear implants.](http://asa.scitation.org/doi/10.1121/1.4939896)** Nogueira W, Rode T, Büchner A. J Acoust Soc Am. 2016 Feb;139(2):728-39. doi: 10.1121/1.4939896.
 
 * **[Optimization of a Spectral Contrast Enhancement Algorithm for Cochlear Implants Based on a Vowel Identification Model.](https://link.springer.com/chapter/10.1007%2F978-3-319-25474-6_11)** Nogueira W, Rode T, Büchner A. Adv Exp Med Biol. 2016;894:93-104. doi: 10.1007/978-3-319-25474-6_11.
 
-* **[Consequences of Stimulus Type on Higher-Order Processing in Single-Sided Deaf Cochlear Implant Users.](https://www.karger.com/Article/FullText/452123)** Finke M, Sandmann P, Bönitz H, Kral A, Büchner A. Audiol Neurootol. 2016;21(5):305-315. doi: 10.1159/000452123.
+* **[Consequences of Stimulus Type on Higher-Order Processing in Single-Sided Deaf Cochlear Implant Users.](https://www.karger.com/Article/FullText/452123)** Finke M, Sandmann P, Bönitz H, Kral A, Büchner A. Audiol Neurootol. 2016;21(5):305-315. doi: 10.1159/000452123. Epub 2016 Nov 19
 
-* **[Enhanced audio-visual interactions in the auditory cortex of elderly cochlear-implant users.](http://www.sciencedirect.com/science/article/pii/S0378595515001768)** Schierholz I, Finke M, Schulte S, Hauthal N, Kantzke C, Rach S, Büchner A, Dengler R, Sandmann P. Hear Res. 2015 Oct;328:133-47. doi: 10.1016/j.heares.2015.08.009.
+* **[Enhanced audio-visual interactions in the auditory cortex of elderly cochlear-implant users.](http://www.sciencedirect.com/science/article/pii/S0378595515001768)** Schierholz I, Finke M, Schulte S, Hauthal N, Kantzke C, Rach S, Büchner A, Dengler R, Sandmann P. Hear Res. 2015 Oct;328:133-47. doi: 10.1016/j.heares.2015.08.009. Epub 2015 Aug 21.
 
 ## 2015
 
 * **[Effect of Channel Envelope Synchrony on Interaural Time Difference Sensitivity in Bilateral Cochlear Implant Listeners.](http://ovidsp.tx.ovid.com/sp-3.24.1b/ovidweb.cgi?QS2=434f4e1a73d37e8cd5d17abe40274ae48fce891fb027991452ae05a45511a0f88a2b57824f03466a055fcc5e80335ab2ed44bbebe320eccfdd11dfd66bf98c8a28b69b74b0e5bad901a7784821f211f0c07a47901ccabaf37348fc8fd854100c5701458731ec3716d7b50a9b9873c2c5708c6e0932eb1cdfbba4d2927a49128a25aae190c554f69f8cb390f12ec8b5c7403ebe235b8f67d08f5c1fdb4642c03b5e7c24c504b80651b9161c2c5fcaa863c0d8eaad7a98473be7e978d8423bdc67e1474e2a42461a5c4a2c92ec3975903490337fdd0d26bd912d81aab8d958b3118e2f4a84096ebafeea1109717f9a5844e8a6865728e58075da91430dc40f9c255c7d4bd5baa0158ed45704cb016e320ed9344be5f9f4ffdd5105ac2e1610e8332b04a157d6a8dbde8dab465afb4c920bd4f0cc64557a0671a210a292c57e8b4c46b865670ede3531eb6cd8330bba322264bbbb274171a5f1f733b8f36373fdfbeb94e381e298076b7df66c70f540ff66d6812413a5a3078536060a3717261ad908a13ef4f05152cb06506d1d9518c55aa2da448cad12f3a19d644c1e41503e86)** Francart T, Lenssen A, Büchner A, Lenarz T, Wouters J. Ear Hear. 2015 Jul-Aug;36(4):e199-206. doi: 10.1097/AUD.0000000000000152.
 
-* **[Evaluation of a Transient Noise Reduction Algorithm in Cochlear Implant Users.](http://www.audiologyresearch.org/index.php/audio/article/view/116/174)** Dyballa KH, Hehrmann P, Hamacher V, Nogueira W, Lenarz T, Büchner A. Audiol Res. 2015 Jun 11;5(2):116. doi: 10.4081/audiores.2015.116.
+* **[Evaluation of a Transient Noise Reduction Algorithm in Cochlear Implant Users.](http://www.audiologyresearch.org/index.php/audio/article/view/116/174)** Dyballa KH, Hehrmann P, Hamacher V, Nogueira W, Lenarz T, Büchner A. Audiol Res. 2015 Jun 11;5(2):116. doi: 10.4081/audiores.2015.116. eCollection 2015 Jun 11.
 
-* **[Stimulating on multiple electrodes can improve temporal pitch perception.](http://www.tandfonline.com/doi/full/10.3109/14992027.2014.997313)** Penninger RT, Kludt E, Büchner A, Nogueira W. Int J Audiol. 2015 Jun;54(6):376-83. doi: 10.3109/14992027.2014.997313.
+* **[Stimulating on multiple electrodes can improve temporal pitch perception.](http://www.tandfonline.com/doi/full/10.3109/14992027.2014.997313)** Penninger RT, Kludt E, Büchner A, Nogueira W. Int J Audiol. 2015 Jun;54(6):376-83. doi: 10.3109/14992027.2014.997313. Epub 2015 Jan 29.
 
 * **[Cochlear implantation in children with bacterial meningitic deafness: The influence of the degree of ossification and obliteration on impedance and charge of the implant.](http://www.tandfonline.com/doi/full/10.1179/1754762814Y.0000000094)** Durisin M, Büchner A, Lesinski-Schiedat A, Bartling S, Warnecke A, Lenarz T. Cochlear Implants Int. 2015 May;16(3):147-58. doi: 10.1179/1754762814Y.0000000094.
 
