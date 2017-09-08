@@ -75,9 +75,9 @@ title: Publications
 
 * **[ERP evidence for the recognition of emotional prosody through simulated cochlear implant strategies.](https://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-13-113)** Agrawal D, Timm L, Viola FC, Debener S, Büchner A, Dengler R, Wittfoth M. BMC Neurosci. 2012 Sep 20;13:113. doi: 10.1186/1471-2202-13-113.
 
-* **[Indication criteria for cochlear implants and hearing aids: impact of audiological and non-audiological findings.](http://www.audiologyresearch.org/index.php/audio/article/view/audiores.2012.e12/140)** Haumann S, Hohmann V, Meis M, Herzke T, Lenarz T, Büchner A. Audiol Res. 2012 Aug 14;2(1):e12. doi: 10.4081/audiores.2012.e12. Review.
+* **[Indication criteria for cochlear implants and hearing aids: impact of audiological and non-audiological findings.](http://www.audiologyresearch.org/index.php/audio/article/view/audiores.2012.e12/140)** Haumann S, Hohmann V, Meis M, Herzke T, Lenarz T, Büchner A. Audiol Res. 2012 Aug 14;2(1):e12. doi: 10.4081/audiores.2012.e12. Review. eCollection 2012 Jan 9.
 
-* **[Long-term performance of cochlear implants in postlingually deafened adults.](http://journals.sagepub.com/doi/full/10.1177/0194599812438041)** Lenarz M, Sönmez H, Joseph G, Büchner A, Lenarz T. Otolaryngol Head Neck Surg. 2012 Jul;147(1):112-8. doi: 10.1177/0194599812438041.
+* **[Long-term performance of cochlear implants in postlingually deafened adults.](http://journals.sagepub.com/doi/full/10.1177/0194599812438041)** Lenarz M, Sönmez H, Joseph G, Büchner A, Lenarz T. Otolaryngol Head Neck Surg. 2012 Jul;147(1):112-8. doi: 10.1177/0194599812438041. Epub 2012 
 
 * **[Cochlear implant performance in geriatric patients.](http://onlinelibrary.wiley.com/doi/10.1002/lary.23232/full)** Lenarz M, Sönmez H, Joseph G, Büchner A, Lenarz T. Laryngoscope. 2012 Jun;122(6):1361-5. doi: 10.1002/lary.23232.
 
