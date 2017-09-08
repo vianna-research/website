@@ -4,11 +4,16 @@ title: Publications
 
 * **[Long-Term Outcomes, Education, and Occupational Level in Cochlear Implant Recipients Who Were Implanted in Childhood.](http://journals.lww.com/ear-hearing/Abstract/2017/09000/Long_Term_Outcomes,_Education,_and_Occupational.5.aspx)** Illg A, Haack M, Lesinski-Schiedat A, Büchner A, Lenarz T. Ear Hear. 2017 Sep/Oct;38(5):577-587. doi: 10.1097/AUD.0000000000000423.
 
+* **[Simultaneous masking between electric and acoustic stimulation in cochlear implant users with residual low-frequency hearing.](http://www.sciencedirect.com/science/article/pii/S0378595517300424?via%3Dihub)** Krüger B, Büchner A, Nogueira W. Hear Res. 2017 Jun 30. pii: S0378-5955(17)30042-4. doi: 10.1016/j.heares.2017.06.014. [Epub ahead of print]
+
 * **[Investigation of the effect of cochlear implant electrode length on speech comprehension in quiet and noise compared with the results with users of electro-acoustic-stimulation, a retrospective analysis.](https://doi.org/10.1371/journal.pone.0174900)** Büchner A, Illg A, Majdani O, Lenarz T. PLoS One. 2017 May 15;12(5):e0174900. doi: 10.1371/journal.pone.0174900.
 
-* **[Auditory and audio-visual processing in patients with cochlear, auditory brainstem, and auditory midbrain implants: An EEG study.](http://onlinelibrary.wiley.com/doi/10.1002/hbm.23515/abstract;jsessionid=EA9F8D82EAD0690C8A72C9476044DB5D.f04t04?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+25th+March+from+07%3A00+GMT+%2F+03%3A00+EDT+%2F+15%3A00+SGT+for+4+hours+for+essential+maintenance.++Apologies+for+the+inconvenience.)** Schierholz I, Finke M, Kral A, Büchner A, Rach S, Lenarz T, Dengler R, Sandmann P. Hum Brain Mapp. 2017 Apr;38(4):2206-2225. doi: 10.1002/hbm.23515.
+* **[Speech intelligibility and subjective benefit in single-sided deaf adults after cochlear implantation.](http://www.sciencedirect.com/science/article/pii/S0378595516304075?via%3Dihub)** Finke M, Strauß-Schier A, Kludt E, Büchner A, Illg A. Hear Res. 2017 May;348:112-119. doi: 10.1016/j.heares.2017.03.002. Epub 2017 Mar 10.
 
-* **[Speech intelligibility and subjective benefit in single-sided deaf adults after cochlear implantation.](http://www.sciencedirect.com/science/article/pii/S0378595516304075)** Finke M, Strauß-Schier A, Kludt E, Büchner A, Illg A. Hear Res. 2017 Mar 9. pii: S0378-5955(16)30407-5. doi: 10.1016/j.heares.2017.03.002. [Epub ahead of print]
+
+* **[Technical advancements in cochlear implants : State of the art-Technische Entwicklungen bei Cochleaimplantaten](https://link.springer.com/article/10.1007%2Fs00106-017-0339-7)** Büchner A, Gärtner L. HNO. 2017 Apr;65(4):276-289. doi: 10.1007/s00106-017-0339-7. German.
+
+* **[Auditory and audio-visual processing in patients with cochlear, auditory brainstem, and auditory midbrain implants: An EEG study.](http://onlinelibrary.wiley.com/doi/10.1002/hbm.23515/abstract;jsessionid=EA9F8D82EAD0690C8A72C9476044DB5D.f04t04?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+25th+March+from+07%3A00+GMT+%2F+03%3A00+EDT+%2F+15%3A00+SGT+for+4+hours+for+essential+maintenance.++Apologies+for+the+inconvenience.)** Schierholz I, Finke M, Kral A, Büchner A, Rach S, Lenarz T, Dengler R, Sandmann P. Hum Brain Mapp. 2017 Apr;38(4):2206-2225. doi: 10.1002/hbm.23515.
 
 * **[Off the ear with no loss in speech understanding: comparing the RONDO and the OPUS 2 cochlear implant audio processors.](https://link.springer.com/article/10.1007%2Fs00405-016-4400-z)** Dazert S, Thomas JP, Büchner A, Müller J, Hempel JM, Löwenheim H, Mlynski R. Eur Arch Otorhinolaryngol. 2017 Mar;274(3):1391-1395. doi: 10.1007/s00405-016-4400-z.
 
