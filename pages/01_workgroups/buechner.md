@@ -1,4 +1,4 @@
-title: Büchner Lab - 
+title: Büchner Lab - Signal Processing
 ***
 
 # Forschungsthemen: #
