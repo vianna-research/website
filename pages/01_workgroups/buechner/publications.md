@@ -45,7 +45,7 @@ title: Publications
 
 ## 2015
 
-* **[Effect of Channel Envelope Synchrony on Interaural Time Difference Sensitivity in Bilateral Cochlear Implant Listeners.](http://ovidsp.tx.ovid.com/sp-3.24.1b/ovidweb.cgi?QS2=434f4e1a73d37e8cd5d17abe40274ae48fce891fb027991452ae05a45511a0f88a2b57824f03466a055fcc5e80335ab2ed44bbebe320eccfdd11dfd66bf98c8a28b69b74b0e5bad901a7784821f211f0c07a47901ccabaf37348fc8fd854100c5701458731ec3716d7b50a9b9873c2c5708c6e0932eb1cdfbba4d2927a49128a25aae190c554f69f8cb390f12ec8b5c7403ebe235b8f67d08f5c1fdb4642c03b5e7c24c504b80651b9161c2c5fcaa863c0d8eaad7a98473be7e978d8423bdc67e1474e2a42461a5c4a2c92ec3975903490337fdd0d26bd912d81aab8d958b3118e2f4a84096ebafeea1109717f9a5844e8a6865728e58075da91430dc40f9c255c7d4bd5baa0158ed45704cb016e320ed9344be5f9f4ffdd5105ac2e1610e8332b04a157d6a8dbde8dab465afb4c920bd4f0cc64557a0671a210a292c57e8b4c46b865670ede3531eb6cd8330bba322264bbbb274171a5f1f733b8f36373fdfbeb94e381e298076b7df66c70f540ff66d6812413a5a3078536060a3717261ad908a13ef4f05152cb06506d1d9518c55aa2da448cad12f3a19d644c1e41503e86)** Francart T, Lenssen A, Büchner A, Lenarz T, Wouters J. Ear Hear. 2015 Jul-Aug;36(4):e199-206. doi: 10.1097/AUD.0000000000000152.
+* **[Effect of Channel Envelope Synchrony on Interaural Time Difference Sensitivity in Bilateral Cochlear Implant Listeners.](http://journals.lww.com/ear-hearing/Abstract/2015/07000/Effect_of_Channel_Envelope_Synchrony_on_Interaural.21.aspx)** Francart T, Lenssen A, Büchner A, Lenarz T, Wouters J. Ear Hear. 2015 Jul-Aug;36(4):e199-206. doi: 10.1097/AUD.0000000000000152.
 
 * **[Evaluation of a Transient Noise Reduction Algorithm in Cochlear Implant Users.](http://www.audiologyresearch.org/index.php/audio/article/view/116/174)** Dyballa KH, Hehrmann P, Hamacher V, Nogueira W, Lenarz T, Büchner A. Audiol Res. 2015 Jun 11;5(2):116. doi: 10.4081/audiores.2015.116. eCollection 2015 Jun 11.
 
@@ -93,7 +93,7 @@ title: Publications
 
 * **[Epidemiologic evidence of barometric pressure changes inducing increased reporting of oral pain.](http://onlinelibrary.wiley.com/doi/10.1016/j.ejpain.2011.01.013/full)** Kloss-Brandstätter A, Hächl O, Leitgeb PC, Büchner A, Coassin S, Rasse M, Kronenberg F, Kloss FR. Eur J Pain. 2011 Sep;15(8):880-4. doi: 10.1016/j.ejpain.2011.01.013.
 
-* **[Clinical use of a system for the automated recording and analysis of electrically evoked compound action  otentials (ECAPs) in cochlear implant patients.](http://www.tandfonline.com/doi/full/10.3109/00016480903380539)** Gärtner L, Lenarz T, Joseph G, Büchner A. Acta Otolaryngol. 2010 Jun;130(6):724-32. doi: 10.3109/00016480903380539.
+* **[Clinical use of a system for the automated recording and analysis of electrically evoked compound action potentials (ECAPs) in cochlear implant patients.](http://www.tandfonline.com/doi/full/10.3109/00016480903380539)** Gärtner L, Lenarz T, Joseph G, Büchner A. Acta Otolaryngol. 2010 Jun;130(6):724-32. doi: 10.3109/00016480903380539.
 
 * **[European adult multi-centre HiRes® 120 study--an update on 65 subjects.](http://www.tandfonline.com/doi/abs/10.1179/146701010X12671177204183)** Ambrosch P, Müller-Deile J, Aschendorff A, Laszig R, Boermans PP, Frijns J, Boyle P, Kienast B, Büchner A, Lenarz T, Cooper H, Fielden C, Eklöf M, Freijd A, Filipo R, Mancini P, Frachet B, Gallego S, Truy E, Helbig S, Jeffs E, Lombaard S, Meerton L, Marco J, Morant A, Meyer B, Pickerill M, Vanat Z, Sterkers O. Cochlear Implants Int. 2010 Jun;11 Suppl 1:406-11. doi: 10.1179/146701010X12671177204183. No abstract available.
 
