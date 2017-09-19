@@ -24,6 +24,8 @@ Mohebbi S., Mirsalehi M., Kahrs L. A., Ortmaier T., Lenarz T., Majdani O. (2017)
 
 ### Conference Papers
 
+van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017): _Investigation of intracochlear dual actuator stimulation in a scaled test rig_. Current Directions in Biomedical Engineering  3(2):119-122. \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0024); IF: 1.650\].
+
 Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101350P. \[[**DOI**](http://dx.doi.org/10.1117/12.2254304)\].
 
 Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101352N. \[[**DOI**](http://dx.doi.org/10.1117/12.2254381)\].
