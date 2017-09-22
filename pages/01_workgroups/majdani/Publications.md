@@ -23,18 +23,21 @@ Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017): _Syn
 
 ### Conference Papers
 
-van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017): _Investigation of intracochlear dual actuator stimulation in a scaled test rig_. Current Directions in Biomedical Engineering  3(2):119-122. \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0024); IF: 1.650\].
+van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017): _Investigation of intracochlear dual actuator stimulation in a scaled test rig_. In Current Directions in Biomedical Engineering  3(2):119-122. \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0024); IF: 1.650\].
 
 Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101352N. \[[**DOI**](http://dx.doi.org/10.1117/12.2254381)\].
 
 Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101350P. \[[**DOI**](http://dx.doi.org/10.1117/12.2254304)\].
+
+Rau Th. S., Hügl S., Lenarz Th., Majdano O. (2017): _Toward steerable electrodes : an overview of concepts and current research_. In Current Directions in Biomedical Engineering  3(2):765-769.  \[[**DOI**] (https://doi.org/10.1515/cdbme-2017-0161); IF: 1.650\].
+
 
 
 ### Abstracts
 
 van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017): _Experimental investigation of the performance of piezoelectric actuators in a cochlea test rig_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno426.shtml); [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001647.pdf)\].
 
-Hügl S., Rülander K., Lenarz Th., Majdani O., Rau Th. S. (2017): _Impact of insertion velocity on insertion forces in cochlear implantation surgery_. In: Biomedical Engineering : joint journal of the German Society for Biomedical Engineering in VDE and the Austrian and Swiss Societies for Biomedical Engineering. Bd. 62 (2017), S1, Seite S167, 10.-13.09., Dresden \[[**Poster**]](https://www.researchgate.net/publication/319686748_Impact_of_insertion_velocity_on_insertion_forces_in_cochlear_implantation_surgery)\].
+Hügl S., Rülander K., Lenarz Th., Majdani O., Rau Th. S. (2017): _Impact of insertion velocity on insertion forces in cochlear implantation surgery_. In: Biomedical Engineering : joint journal of the German Society for Biomedical Engineering in VDE and the Austrian and Swiss Societies for Biomedical Engineering. Bd. 62 (2017), S1, Seite S167, 10.-13.09., Dresden \[[**Poster**](https://www.researchgate.net/publication/319686748_Impact_of_insertion_velocity_on_insertion_forces_in_cochlear_implantation_surgery)\].
 
 Hügl S., Lexow G. J., Majdani O., Lenarz Th., Rau Th. S. (2017): _Untersuchung der anatomischen Variabilität perimodiolarer Scala Tympani Pfade als Grundlage individueller Cochlea-Implantat Elektrodenträger_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno299.shtml)\].
 
