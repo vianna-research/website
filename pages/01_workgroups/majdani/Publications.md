@@ -31,8 +31,9 @@ Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017): _Phantom-based
 
 Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101350P. \[[**DOI**](http://dx.doi.org/10.1117/12.2254304)\].
 
-Rau Th. S., Hügl S., Lenarz Th., Majdano O. (2017): _Toward steerable electrodes : an overview of concepts and current research_. In Current Directions in Biomedical Engineering  3(2):765-769.  \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0161); IF: 1.650\].
+Rau Th. S., Hügl S., Lenarz Th., Majdani O. (2017): _Toward steerable electrodes : an overview of concepts and current research_. In Current Directions in Biomedical Engineering  3(2):765-769.  \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0161); IF: 1.650\].
 
+Rau Th. S., Hügl S., Salcher R., Lenarz Th., Majdani O. (2017): _Hydraulisch automatisierte Elektrodeninsertion_. In: Tagungsband der 16. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 05.-07.10.2017, Hannover.
 
 
 ### Abstracts
