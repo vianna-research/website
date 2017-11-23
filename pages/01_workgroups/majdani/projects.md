@@ -34,13 +34,19 @@
 ---
 ## RoboJig
 
-Minimally-invasive CI-surgery
+###Minimally-invasive CI-surgery
 
 
 ![Overview of RoboJig System](projects/robojig-overview-de.png)
 
 Overview of the RoboJig surgery vs. conventional approach.
 
+---
+## MemoryCI
+
+### Electrode Development: Shape-Memory Alloys (SMA) for functionalisation of medical implants
+
+**Contact: Nuha Suzaly | Suzaly.Nuha@mh-hannover.de**
 
 ---
 ## [GentleCI](http://www.vianna.de/01_workgroups/majdani/projects/gentleci.html)
