@@ -27,13 +27,6 @@ The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industria
 
 <br>
 
-## Open Positions:
-
-- [Engineer for the development of a novel implant for the direct mechanical stimulation of the inner ear](development_engineer_hearing4all_hannover.pdf)
-
-
-<br>
-
 ## News: Press releases:
 
 
