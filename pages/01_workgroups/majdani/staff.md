@@ -16,16 +16,16 @@ title:Staff
 |![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow                     | Lexow.Jakob@mh-hannover.de         |
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | vanDrunen.Wouter@mh-hannover.de    |
 |								|M. Sc. Nuha Suzaly							| Suzaly.Nuha@mh-hannover.de          |
-|								| Max Eike Timm								|										|
+|								| Max Eike Timm								|									  |
 
 
 | Students                                                                                             |
 |:------------------------------|:-------------------------------------------|--------------------------------------:|
 | Shari Barati					| Medical Doctoral Thesis					| Medical School Hannover				|
-| Alexander Becker 				| Master Thesis                 			| Leibniz University Hannover       |
-| Tobias Blum 					| Bachelor Thesis                    	 	| Leibniz University Hannover         |
-| Denise Blume 					| Bachelor Thesis                    	 	| Leibniz University Hannover         |
-| Jakob Cramer 					| Bachelor Thesis                    	 	| Leibniz University Hannover         |
+| Alexander Becker 				| Master Thesis                 			| Leibniz University Hannover      		|
+| Tobias Blum 					| Bachelor Thesis                    	 	| Leibniz University Hannover         	|
+| Denise Blume 					| Bachelor Thesis                    	 	| Leibniz University Hannover         	|
+| Jakob Cramer 					| Bachelor Thesis                    	 	| Leibniz University Hannover         	|
 | Lena Geiger					| Student Assistant							| Medical School Hannover				| 
 | Till Gerking					| Medical Doctoral Thesis					| Medical School Hannover				|
 | Katharina Koch				| Medical Doctoral Thesis					| Medical School Hannover				|
