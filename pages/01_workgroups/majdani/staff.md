@@ -11,11 +11,8 @@ title:Staff
 |:------------------------------|:-------------------------------------------|--------------------------------------:|
 |![Portrait](staff/Omid.jpg)    | Prof. Dr. Omid Majdani                     | Majdani.Omid@mh-hannover.de        |
 |![Portrait](staff/Silke.jpg)   | [M. Sc. Silke Hügl](staff/silke.md)        | Huegl.Silke@mh-hannover.de         |
-|![Portrait](staff/Samuel.jpg)  | Dipl.-Inform. Samuel John                  | <John.Samuel@mh-hannover.de>       |
-|![Portrait](staff/Marcel.jpg)  | [Dipl.-Ing. Marcel Kluge](staff/marcel.md) |	Kluge.Marcel@mh-hannover.de       |
 |![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow                     | Lexow.Jakob@mh-hannover.de         |
-|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | vanDrunen.Wouter@mh-hannover.de    |
-|								|M. Sc. Nuha Suzaly							| Suzaly.Nuha@mh-hannover.de          |
+|								| M. Sc. Nuha Suzaly						| Suzaly.Nuha@mh-hannover.de          |
 |								| Max Eike Timm								|									  |
 
 
@@ -38,3 +35,10 @@ title:Staff
 | Lea Uhlenbusch 				| Bachelor Thesis                    	 	| Leibniz University Hannover         |
 | Jan-Niklas Wellers			| Medical Doctoral Thesis                  | Medical School Hannover     |
 | Sina Witte 				    | Medical Doctoral Thesis                  | Medical School Hannover     |
+
+
+| Alumni                                                                                            |
+|:------------------------------|:-------------------------------------------|--------------------------------------:|
+|![Portrait](staff/Samuel.jpg)  | Dipl.-Inform. Samuel John                  | jetzt [HörSys GmbH](http://www.hoersys.de)  |
+|![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge					 | jetzt [HörSys GmbH](http://www.hoersys.de)  |
+|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | jetzt [Implandata Ophthalmic Products GmbH](http://www.my-eyemate.com) |
