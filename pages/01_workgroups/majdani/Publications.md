@@ -9,6 +9,8 @@ Bergmeier J., Fitzpatrick J.M., Daentzer D., Majdani O., Ortmaier T., Kahrs L. A
 
 Büchner A., Illg A., Majdani O., Lenarz T. (2017): _Investigation of the effect of cochlear implant electrode length on speech comprehension in quiet and noise compared with the results with users of electro-acoustic-stimulation, a retrospective analysis_. PLoS One. 12(5):e0174900. \[[**DOI**](https://doi.org/10.1371/journal.pone.0174900); [**PDF**](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174900&type=printable); IF: 3.057\]  
 
+van Drunen W., Müller M., Glukhovskoy A., Salcher R., Wurz M., Lenarz T., Maier H. (2017): _Feasibility of Round Window Stimulation by a Novel Electromagnetic Microactuator_. BioMed Research International 2017, Article ID: 6369247. \[[**DOI](https://www.hindawi.com/journals/bmri/2017/6369247/); IF: 2.476\]
+
 Lyutenski S., Götz F., Giourgas A., Majdani O., Bültmann E., Lanfermann H., Lenarz Th., Giesemann A. M.: _Does severity of cerebral MRI lesions in congenital CMV infection correlates with the outcome of cochlear implantation?_ Eur Arch Otorhinolaryngol. 274(3):1397–1403. \[[**DOI**](https://doi.org/10.1007/s00405-016-4408-4); IF: 1.660\]
 
 Mirsalehi M., Mohebbi S., Ghajarzadeh M., Lenarz Th., Majdani O.: _Impact of the round window membrane accessibility on hearing preservation in adult cochlear implantation._ Eur Arch Otorhinolaryngol. 274(8):3049–3056. \[[**DOI**](https://doi.org/10.1007/s00405-017-4628-2); IF: 1.660\].
