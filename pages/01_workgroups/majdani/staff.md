@@ -22,7 +22,7 @@ title:Staff
 | Alexander Becker 				| Master Thesis                 			| Leibniz University Hannover      		|
 | Tobias Blum 					| Bachelor Thesis                    	 	| Leibniz University Hannover         	|
 | Denise Blume 					| Bachelor Thesis                    	 	| Leibniz University Hannover         	|
-| Jakob Cramer 					| Bachelor Thesis                    	 	| Leibniz University Hannover         	|
+| Jakob Cramer 					| Bachelor Thesis                    	 	| Technische Universität Berlin         	|
 | Lena Geiger					| Student Assistant							| Medical School Hannover				| 
 | Till Gerking					| Medical Doctoral Thesis					| Medical School Hannover				|
 | Katharina Koch				| Medical Doctoral Thesis					| Medical School Hannover				|
