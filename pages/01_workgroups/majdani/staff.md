@@ -12,7 +12,7 @@ title:Staff
 |![Portrait](staff/Omid.jpg)    | Prof. Dr. Omid Majdani                     | Majdani.Omid@mh-hannover.de        |
 |![Portrait](staff/Silke.jpg)   | [M. Sc. Silke Hügl](staff/silke.md)        | Huegl.Silke@mh-hannover.de         |
 |![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow                     | Lexow.Jakob@mh-hannover.de         |
-|![Portrait](staff/Nuha.jpg) 	| M. Sc. Nuha Suzaly			   			| Suzaly.Nuha@mh-hannover.de          |
+|![Portrait](staff/Silke.jpg) 	| M. Sc. Nuha Suzaly			   			| Suzaly.Nuha@mh-hannover.de          |
 |								| Max Eike Timm								|									  |
 
 
