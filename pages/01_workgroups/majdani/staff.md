@@ -12,17 +12,17 @@ title:Staff
 |![Portrait](staff/Omid.jpg)    | Prof. Dr. Omid Majdani                     | Majdani.Omid@mh-hannover.de        |
 |![Portrait](staff/Silke.jpg)   | [M. Sc. Silke Hügl](staff/silke.md)        | Huegl.Silke@mh-hannover.de         |
 |![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow                     | Lexow.Jakob@mh-hannover.de         |
-|![Portrait](staff/Nuha2.jpg) 	| M. Sc. Nuha Suzaly			   			| Suzaly.Nuha@mh-hannover.de          |
+|![Portrait](staff/nuha.jpg) 	| M. Sc. Nuha Suzaly			   			| Suzaly.Nuha@mh-hannover.de          |
 |								| Max Eike Timm								|									  |
 
 
 | Students                                                                                             |
 |:------------------------------|:-------------------------------------------|-------------------------------------------------:|
 |								| Shari Barati								| Medical Doctoral Thesis, Medical School Hannover	|
-|![Portrait](staff/Alexander.jpg) | Alexander Becker 							| Master Thesis, Leibniz University Hannover      	|
-|![Portrait](staff/Tobias.jpg) 	| Tobias Blum 								| Bachelor Thesis, Leibniz University Hannover      |
+|![Portrait](staff/alexander.jpg) | Alexander Becker 							| Master Thesis, Leibniz University Hannover      	|
+|![Portrait](staff/tobias.jpg) 	| Tobias Blum 								| Bachelor Thesis, Leibniz University Hannover      |
 |								| Denise Blume 								| Bachelor Thesis, Leibniz University Hannover      |
-|![Portrait](staff/JakobC.jpg)	| Jakob Cramer 								| Bachelor Thesis, Technische Universität Berlin    |
+|![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Bachelor Thesis, Technische Universität Berlin    |
 |								| Lena Geiger								| Student Assistant, Medical School Hannover		| 
 |								| Till Gerking								| Medical Doctoral Thesis, Medical School Hannover	|
 |								| Katharina Koch							| Medical Doctoral Thesis, Medical School Hannover	|
