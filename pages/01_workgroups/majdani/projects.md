@@ -9,7 +9,7 @@
 ![EMS](projects/ems.png){style="width:450px"}
 
 
-**Contact: Dr. Wouter J. van Drunen | vanDrunen.Wouter@mh-hannover.de**
+**Contact: Dipl.-Phys. Mathias Müller | Mueller.Mathias@mh-hannover.de**
 
 ---
 ## [Mini-Hexapod](http://www.vianna.de/01_workgroups/majdani/projects/hexapod.html)
