@@ -12,6 +12,7 @@ title:Staff
 |![Portrait](staff/Omid.jpg)    | Prof. Dr. Omid Majdani                     | Majdani.Omid@mh-hannover.de        |
 |![Portrait](staff/Silke.jpg)   | [M. Sc. Silke Hügl](staff/silke.md)        | Huegl.Silke@mh-hannover.de         |
 |![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow                     | Lexow.Jakob@mh-hannover.de         |
+|![Portrait](staff/mathias_small.jpg)	| Dipl.-Phys. Mathias Müller		 | Mueller.Mathias@mh-hannover.de	  |
 |![Portrait](staff/nuha.jpg) 	| M. Sc. Nuha Suzaly			   			| Suzaly.Nuha@mh-hannover.de          |
 |								| Max Eike Timm								|									  |
 
@@ -19,7 +20,7 @@ title:Staff
 | Students                                                                                             |
 |:------------------------------|:-------------------------------------------|-------------------------------------------------:|
 |								| Shari Barati								| Medical Doctoral Thesis, Medical School Hannover	|
-|![Portrait](staff/alexander.jpg) | Alexander Becker 							| Master Thesis, Leibniz University Hannover      	|
+|![Portrait](staff/alexander.jpg) | Alexander Becker 						| Master Thesis, Leibniz University Hannover        |
 |![Portrait](staff/tobias.jpg) 	| Tobias Blum 								| Bachelor Thesis, Leibniz University Hannover      |
 |								| Denise Blume 								| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Bachelor Thesis, Technische Universität Berlin    |
@@ -27,7 +28,7 @@ title:Staff
 |								| Till Gerking								| Medical Doctoral Thesis, Medical School Hannover	|
 |								| Diana Kreul								| Medical Doctoral Thesis, Medical School Hannover	|
 |								| Christian Menke							| Medical Doctoral Thesis, Medical School Hannover	|
-|![Portrait](staff/christoph.jpg) | Christoph Rostkowski						| Medical Doctoral Thesis, Medical School Hannover	|
+|![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral Thesis, Medical School Hannover	|
 |![Portrait](staff/katharina.jpg) | Katharina Rülander						| Master Thesis, Fachhochschule Münster				|
 |![Portrait](staff/henrik.png)	| Henrik Schädlich							| Master Thesis, Leibniz University Hannover		|
 |								| Evelyn Semke								| Medical Doctoral Thesis, Medical School Hannover	|
