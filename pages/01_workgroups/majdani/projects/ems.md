@@ -26,4 +26,4 @@ Leibniz Universität Hannover, [Institute of Micro Production Technology](http:/
 Leibniz Universität Hannover, [Institute of Dynamics and Vibration Research](http://www.ids.uni-hannover.de/ueber_uns.html?&L=1)
 
 
-**Contact: Dr. Wouter J. van Drunen | vanDrunen.Wouter@mh-hannover.de**
+**Contact: Dipl.-Phys. Mathias Müller | Mueller.Mathias@mh-hannover.de**
