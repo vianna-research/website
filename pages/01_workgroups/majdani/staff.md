@@ -19,23 +19,23 @@ title:Staff
 
 | Students                                                                                             |
 |:------------------------------|:-------------------------------------------|-------------------------------------------------:|
-|								| Shari Barati								| Medical Doctoral Thesis, Medical School Hannover	|
+|								| Shari Barati								| Medical Doctoral Thesis, Hannover Medical School 	|
 |![Portrait](staff/alexander.jpg) | Alexander Becker 						| Master Thesis, Leibniz University Hannover        |
 |![Portrait](staff/tobias.jpg) 	| Tobias Blum 								| Bachelor Thesis, Leibniz University Hannover      |
 |								| Denise Blume 								| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Bachelor Thesis, Technische Universität Berlin    |
-|![Portrait](staff/lena.jpg)	| Lena Geiger								| Student Assistant, Medical School Hannover		| 
-|								| Till Gerking								| Medical Doctoral Thesis, Medical School Hannover	|
-|								| Diana Kreul								| Medical Doctoral Thesis, Medical School Hannover	|
-|								| Christian Menke							| Medical Doctoral Thesis, Medical School Hannover	|
-|![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral Thesis, Medical School Hannover	|
+|![Portrait](staff/lena.jpg)	| Lena Geiger								| Student Assistant, Hannover Medical School		| 
+|								| Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
+|								| Diana Kreul								| Medical Doctoral Thesis, Hannover Medical School	|
+|								| Christian Menke							| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/katharina.jpg) | Katharina Rülander						| Master Thesis, Fachhochschule Münster				|
 |![Portrait](staff/henrik.png)	| Henrik Schädlich							| Master Thesis, Leibniz University Hannover		|
-|								| Evelyn Semke								| Medical Doctoral Thesis, Medical School Hannover	|
-|								| Katharina Spichal							| Medical Doctoral Thesis, Medical School Hannover	|
+|								| Evelyn Semke								| Medical Doctoral Thesis, Hannover Medical School	|
+|								| Katharina Spichal							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/lea.png)		| Lea Uhlenbusch 							| Bachelor Thesis, Leibniz University Hannover      |
-|								| Jan-Niklas Wellers						| Medical Doctoral Thesis, Medical School Hannover  |
-|								| Sina Witte 				    			| Medical Doctoral Thesis, Medical School Hannover  |
+|								| Jan-Niklas Wellers						| Medical Doctoral Thesis, Hannover Medical School  |
+|								| Sina Witte 				    			| Medical Doctoral Thesis, Hannover Medical School  |
 
 
 | Alumni                                                                                            |
