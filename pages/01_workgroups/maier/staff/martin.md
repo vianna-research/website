@@ -1,6 +1,6 @@
 title: Mohammad Ghoncheh
 
-![Picture Mohammad Ghoncheh](MGH.jpg)  
+![Picture Mohammad Ghoncheh](martin.jpg)  
 **Mohammad Ghoncheh, M.Sc.**
 
 Mohammad Ghoncheh is a PhD student in Medical University of Hannover. His research interest is in hearing technologies with focus on middle ear and bone conduction implants. He is involved in a project to develop and improve intraoperative tests for different available implantable middle ear solutions.

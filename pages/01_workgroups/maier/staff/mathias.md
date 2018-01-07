@@ -1,6 +1,6 @@
 title: Mathias Müller
 
-![Picture Hannes Maier](MMU.jpg)  
+![Picture Hannes Maier](mathias.jpg)  
 **Dipl.-Phys. Mathias Müller**
 
 

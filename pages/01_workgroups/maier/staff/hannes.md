@@ -2,7 +2,7 @@ title: Hannes Maier
 
 ### Head of Research Group
 
-![Picture Hannes Maier](HMA.jpg)  
+![Picture Hannes Maier](hannes.jpg)  
 **Prof. Dr. phil. nat. Hannes Maier**
 
 
