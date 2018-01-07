@@ -2,7 +2,7 @@ title: Prof. Hannes Maier
 
 ### Leiter der Arbeitsgruppe
 
-![Picture Hannes Maier](HMA.jpg)  
+![Picture Hannes Maier](hma.jpg)  
 **Prof. Dr. phil. nat. Hannes Maier**   
 
 Prof. Maier evaluiert und untersucht implantierbare Hörgeräte im Felsenbeinversuch und entwickelt Methoden, um die Stimulationseffizienz bei direkter mechanischer Anregung der Hörschnecke (Cochlea) zu charakterisieren.
