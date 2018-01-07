@@ -11,7 +11,7 @@ title: Staff
 
 |Research Team     	|                       |
 |------------------|-----------------------|
-|[![Picture Mohammad Ghoncheh](staff/mohammad.jpg)](staff/mohammad.html "Mohammad Ghoncheh")|	[Mohammad Ghoncheh](staff/mgh.html "Mohammad Ghoncheh")|
+|[![Picture Mohammad Ghoncheh](staff/mohammad.jpg)](staff/mohammad.html "Mohammad Ghoncheh")|	[Mohammad Ghoncheh](staff/mohammad.html "Mohammad Ghoncheh")|
 |[![Picture Rolf Salcher](staff/rolf.jpg)](staff/rolf.html "Rolf Salcher")| [Rolf Salcher](staff/rolf.html "Rolf Salcher")|
 ||Jaspar Wesemann|
 
