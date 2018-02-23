@@ -20,13 +20,12 @@ title:Staff
 | Students                                                                                             |
 |:------------------------------|:-------------------------------------------|-------------------------------------------------:|
 |								| Shari Barati								| Medical Doctoral Thesis, Hannover Medical School 	|
-|![Portrait](staff/alexander.jpg) | Alexander Becker 						| Master Thesis, Leibniz University Hannover        |
 |![Portrait](staff/tobias.jpg) 	| Tobias Blum 								| Bachelor Thesis, Leibniz University Hannover      |
 |								| Denise Blume 								| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Bachelor Thesis, Technische Universität Berlin    |
 |![Portrait](staff/lena.jpg)	| Lena Geiger								| Student Assistant, Hannover Medical School		| 
 |								| Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
-|![Portrait](staff/max.png)	| Maximilian Henke							| Master Thesis, Leibniz University Hannover   		|
+|![Portrait](staff/max.png)		| Maximilian Henke							| Master Thesis, Leibniz University Hannover   		|
 |								| Diana Kreul								| Medical Doctoral Thesis, Hannover Medical School	|
 |								| Christian Menke							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral Thesis, Hannover Medical School	|
@@ -41,6 +40,7 @@ title:Staff
 
 | Alumni                                                                                            |
 |:------------------------------|:-------------------------------------------|--------------------------------------:|
+|![Portrait](staff/alexander.jpg) | M. Sc. Alexander Becker 						 | jetzt [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/mitarbeiter.html)|
+|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | jetzt [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
 |![Portrait](staff/Samuel.jpg)  | Dipl.-Inform. Samuel John                  | jetzt [HörSys GmbH](http://www.hoersys.de)  |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge					 | jetzt [HörSys GmbH](http://www.hoersys.de)  |
-|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | jetzt [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
