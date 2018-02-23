@@ -8,7 +8,7 @@ title:Staff
 
 
 | Research Team                                                                                                      |
-|:------------------------------|:-------------------------------------------|--------------------------------------:|
+|:------------------------------|:----------------------------------------------|--------------------------------------:|
 |![Portrait](staff/Omid.jpg)    | Prof. Dr. Omid Majdani                     | Majdani.Omid@mh-hannover.de        |
 |![Portrait](staff/Silke.jpg)   | [M. Sc. Silke Hügl](staff/silke.md)        | Huegl.Silke@mh-hannover.de         |
 |![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow                     | Lexow.Jakob@mh-hannover.de         |
@@ -26,6 +26,7 @@ title:Staff
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Bachelor Thesis, Technische Universität Berlin    |
 |![Portrait](staff/lena.jpg)	| Lena Geiger								| Student Assistant, Hannover Medical School		| 
 |								| Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/max.png)	| Maximilian Henke							| Master Thesis, Leibniz University Hannover   		|
 |								| Diana Kreul								| Medical Doctoral Thesis, Hannover Medical School	|
 |								| Christian Menke							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral Thesis, Hannover Medical School	|
