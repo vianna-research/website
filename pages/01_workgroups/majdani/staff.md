@@ -18,9 +18,9 @@ title:Staff
 
 
 | Students                                                                                             |
-|:------------------------------|:-------------------------------------------|-------------------------------------------------:|
+|:------------------------------|:------------------------------------------|-------------------------------------------------:|
 |								| Shari Barati								| Medical Doctoral Thesis, Hannover Medical School 	|
-|![Portrait](staff/tobias.jpg) 	| Tobias Blum 								| Bachelor Thesis, Leibniz University Hannover      |
+|![Portrait](staff/tobias.png) 	| Tobias Blum 								| Bachelor Thesis, Leibniz University Hannover      |
 |								| Denise Blume 								| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Bachelor Thesis, Technische Universität Berlin    |
 |![Portrait](staff/lena.jpg)	| Lena Geiger								| Student Assistant, Hannover Medical School		| 
