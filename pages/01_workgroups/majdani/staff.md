@@ -40,7 +40,7 @@ title:Staff
 
 | Alumni                                                                                            |
 |:------------------------------|:-------------------------------------------|--------------------------------------:|
-|![Portrait](staff/alexander.jpg) | M. Sc. Alexander Becker 						 | jetzt [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/mitarbeiter.html)|
+|![Portrait](staff/alexander.jpg)| M. Sc. Alexander Becker 					 | jetzt [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/mitarbeiter.html)|
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | jetzt [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
 |![Portrait](staff/Samuel.jpg)  | Dipl.-Inform. Samuel John                  | jetzt [HörSys GmbH](http://www.hoersys.de)  |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge					 | jetzt [HörSys GmbH](http://www.hoersys.de)  |
