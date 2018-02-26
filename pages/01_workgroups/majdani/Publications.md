@@ -1,4 +1,15 @@
 title: Publications
+- - -
+## 2018
+
+### Abstracts
+John S., Kluge M., Erfurt P., Müller S., Lexow J., Kahrs L. A., Rau Th., Ortmaier T., Majdani O., Lenarz Th. (2018): _Feasibility of a Simple, Safe, and High-Precision Approach to Minimally Invasive Cochlear Implantation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41: 236-237, 09.-14.02. 2018 San Diego.
+
+Salcher R., Nullmeier M., Lenarz Th., Pawsey N., Waldmann B., Majdani O., Rau Th. (2018): _Electrode insertion force measurements in sheep temporal bones_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41: 236, 09.-14.02. 2018 San Diego.
+
+Schwieger J., Hügl S., Hamm A., Lenarz Th., Hoffmann A., Rau Th., Scheper V (2018): _A Stem Cell-Alginate Coated Cochlear Implant for Chronic BDNF-Delivery is Stable and Neuroprotective In Vitro_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41: 592-593, 09.-14.02. 2018 San Diego.
+
+
 
 - - -
 ## 2017
