@@ -10,7 +10,7 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018)
 
 ### Abstracts
 
-□ _ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA._
+► _ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA._
 
 John S., Kluge M., Erfurt P., Müller S., Lexow J., Kahrs L. A., Rau Th., Ortmaier T., Majdani O., Lenarz Th. (2018): _Feasibility of a Simple, Safe, and High-Precision Approach to Minimally Invasive Cochlear Implantation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236-237.
 
@@ -28,6 +28,8 @@ Timm M. E., Schurzig D., Assadi M., Lenarz Th. (2018): _A Novel Approach for Cli
 ### Journal Papers
 
 Bergmeier J., Fitzpatrick J.M., Daentzer D., Majdani O., Ortmaier T., Kahrs L. A. (2017): _Workflow and simulation of image-to-physical registration of holes inside spongy bone_. Int J Comput Assist Radiol Surg. 12(8):1425–1437. \[[**DOI**](http://dx.doi.org/10.1007/s11548-017-1594-5); IF: 1.827\].
+
+Hügl S., Eckardt, F., Lexow J., Majdani O., Lenarz Th., Rau Th. S. (2016): _Increasing the resolution of morphological 3D image data sets through image stitching: application to the temporal bone._ Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization. \[[**DOI**](https://doi.org/10.1080/21681163.2015.1137080)\].
 
 Büchner A., Illg A., Majdani O., Lenarz T. (2017): _Investigation of the effect of cochlear implant electrode length on speech comprehension in quiet and noise compared with the results with users of electro-acoustic-stimulation, a retrospective analysis_. PLoS One. 12(5):e0174900. \[[**DOI**](https://doi.org/10.1371/journal.pone.0174900); [**PDF**](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174900&type=printable); IF: 3.057\]  
 
@@ -93,8 +95,6 @@ Rau Th. S., Granna J., Majdani O., Burgner-Kahrs J.: _Elektrodenanordnung eines 
 ## 2016
 
 ### Journal Papers
-
-Hügl S., Eckardt, F., Lexow J., Majdani O., Lenarz Th., Rau Th. S. (2016): _Increasing the resolution of morphological 3D image data sets through image stitching: application to the temporal bone._ Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization. [Epub ahead of print]. doi:10.1080/21681163.2015.1137080.
 
 Lexow G. J., Schurzig D., Gellrich N. C., Lenarz T., Majdani O., Rau Th. S. (2016): _Visualization, measurement and modelling of the cochlea using rotating midmodiolar slice planes._ Int J Comput Assist Radiol Surg. 11(10):1855-69. doi:10.1007/s11548-016-1374-7. (IF: 1.827).
 
