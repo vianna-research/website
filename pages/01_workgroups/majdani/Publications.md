@@ -29,7 +29,7 @@ Timm M. E., Schurzig D., Assadi M., Lenarz Th. (2018): _A Novel Approach for Cli
 
 Bergmeier J., Fitzpatrick J.M., Daentzer D., Majdani O., Ortmaier T., Kahrs L. A. (2017): _Workflow and simulation of image-to-physical registration of holes inside spongy bone_. Int J Comput Assist Radiol Surg. 12(8):1425–1437. \[[**DOI**](http://dx.doi.org/10.1007/s11548-017-1594-5); IF: 1.827\].
 
-Hügl S., Eckardt, F., Lexow J., Majdani O., Lenarz Th., Rau Th. S. (2016): _Increasing the resolution of morphological 3D image data sets through image stitching: application to the temporal bone._ Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization. \[[**DOI**](https://doi.org/10.1080/21681163.2015.1137080)\].
+Hügl S., Eckardt, F., Lexow J., Majdani O., Lenarz Th., Rau Th. S. (2016): _Increasing the resolution of morphological 3D image data sets through image stitching: application to the temporal bone._ Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization. 5(6):438-445. \[[**DOI**](https://doi.org/10.1080/21681163.2015.1137080)\].
 
 Büchner A., Illg A., Majdani O., Lenarz T. (2017): _Investigation of the effect of cochlear implant electrode length on speech comprehension in quiet and noise compared with the results with users of electro-acoustic-stimulation, a retrospective analysis_. PLoS One. 12(5):e0174900. \[[**DOI**](https://doi.org/10.1371/journal.pone.0174900); [**PDF**](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174900&type=printable); IF: 3.057\]  
 
