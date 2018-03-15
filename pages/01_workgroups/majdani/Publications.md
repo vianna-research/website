@@ -2,6 +2,12 @@ title: Publications
 - - -
 ## 2018
 
+### Journal Papers
+
+Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018): _On the accuracy of cochlear duct length measurement in computed tomographic images_. European Archives of Oto-Rhino-Laryngology. Online First Article. \[[**DOI**](https://doi.org/10.1007/s00405-018-4930-7); IF: 1.660\].
+
+
+
 ### Abstracts
 
 □ _ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA._
