@@ -26,10 +26,10 @@ title: Research Areas & Methods
 
 - surgical assistance devices for minimally invasive cochlear implantation surgery
 - surgical tools and medical devices such as
-  + image-guided surgery systems
-  + micro-stereotactic frames (surgical templates)
-  + manual and automated insertion tools
-  + drilling tools
+   + image-guided surgery systems
+   + micro-stereotactic frames (surgical templates)
+   + manual and automated insertion tools
+   + drilling tools
 
 ### CI electrode development
 
@@ -43,11 +43,11 @@ title: Research Areas & Methods
 - using 3D bending test
 - determination of curling behavior
 - manual and automated insertion tests in 
-  + artificial cochlea models and 
-  + human temporal bone specimens
+  - artificial cochlea models and 
+  - human temporal bone specimens
 - investigation of insertion forces and their correlation to
-  + insertion speed
-  + shape and size of the inner ear
+  - insertion speed
+  - shape and size of the inner ear
 - histology and evaluation of insertion trauma
 
 ## Methods and Expertise Used in our Lab
