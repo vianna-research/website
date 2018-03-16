@@ -49,9 +49,9 @@ title: Research Areas & Methods
 
 ## Methods and Expertise Used in our Lab
 
--   computed tomography (CT) and digital volume tomography (DVT), 
+-   digital volume tomography (DVT)
 -   micro-CT imaging
--   histological imaging ("3D histology) ([Microgrinding](majdani/methods/microgrinding.html "Microgrinding"))
+-   histological imaging ("3D histology") ([Microgrinding](http://www.vianna.de/01_workgroups/majdani/methods/microgrinding.html "Microgrinding"))
 -   Software Development (using Matlab, C++, VTK, ITK, Qt, Mathematica, LabView)
 -   Finite-Element-Analysis (using ANSYS)
 
