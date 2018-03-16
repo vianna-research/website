@@ -1,7 +1,7 @@
-title:General Research Area & Methods
+title: Research Areas & Methods
 
 
-## General Research Area
+## General Research Areas
 - minimally-invasive approach to the inner ear
 - image-based intervention planning
 - image-guided implant insertion
