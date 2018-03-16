@@ -14,68 +14,21 @@ The second  research focus lies on the improvement of the electrode array of a c
 
 - - - 
 
-## Scientific expertise
-
-### Image acquisition
-
--   imaging of the inner ear and lateral skull base
--   imaging of cochlear implants after insertion
--   computed tomography (CT), digital volume tomography (DVT), micro-CT, 3D histology ([microgrinding](majdani/methods/microgrinding.html "Microgrinding"))
-
-
-### Image processing and software development
-
--   visualization and processing of medical images
--   manually and semi-automated segmentation
--   trajectory planning
--   bone thickness calculation and visualization
--   visualization of cochlear anatomy using rotating midmodiolar slice planes
--   software development using C++, VTK, ITK, Matlab, Mathematica, LabView
-
-### 3D modelling
-
--   anatomica models of the lateral skull base and the surgical approach
--   finite element models of the human inner ear and the electrode array
--   physicial replica of the human inner ear (artificial cochlear model)
-
-### Medical device development and evaluation 
-
--   surgical assistance devices for minimally invasive cochlear implantation surgery
--   surgical tools and medical devices such as
-    - image-guides surgery systems
-    - medical robots
-    - micro-stereotactic frames (surgical templates)
-    - manual and automated insertion tools
-    - drilling tools, laser hand pieces, and endoscopes
-
-### CI electrode development
-
--   functionalization (shape memory inlays, fluid-mechanical actuators, tubular manipulators,...)
--   individualization (length, thickness, shape change,...)
--   virtual prototyping using finite element analysis
--   simulation and optimization of the individual insertion process
-
-### CI electrode characterization
-
--   using 3D bending test
--   determination of curling behavior
--   manual and automated insertion tests in artificial cochlea models and human temporal bone specimens
--   force measurement
--   histology and evaluation of insertion trauma
-
-
 
 - - - 
 
 ** Contact: Dr.-Ing. Thomas S. Rau**
 
-    VIANNA - Institut für Audioneurotechnologie
-    der Klinik für Hals-, Nasen-, Ohrenheilkunde
-    Medizinische Hochschule Hannover
+    Head of Research Group
+    Computer-Assisted Surgery and Electrode Development
+    
+    Hannover Medical School
+    Department of Otolaryngology
+    VIANNA - Institute of AudioNeuroTechnology
     Stadtfelddamm 34
     30625 Hannover
     
-    phone: +49 511/532-3025
+    phone: +49(0)511/532-3025
     email: rau.thomas@mh-hannover.de
 
 
