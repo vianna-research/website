@@ -10,6 +10,13 @@ Minimally-invasive cochlear implantation surgery requires appropiate surgical to
 The developed system allows the patient specific individualization of a drill guide under sterile conditions. It does not require expensive equipment or technical personal. The whole process can be performed by OR staff in few minutes. These are advantages compared to previously developed systems and might facilitate its integration into clinical routine.
 
 
+### Contact:
+If your are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
+
+    Dr.-Ing. Thomas Rau
+    rau.thomas@mh-hannover.de
+
+
 ### Patents:
 
 European patent granted in 2017 and validated in DE, FR, GB, CH, NL . US patent application is pending. 
