@@ -26,12 +26,12 @@ title: Research Areas & Methods
 
 ### Medical device development and evaluation 
 
-- surgical assistance devices for minimally invasive cochlear implantation surgery
-- surgical tools and medical devices such as
-   + image-guided surgery systems
-   + micro-stereotactic frames (surgical templates)
-   + manual and automated insertion tools
-   + drilling tools
+-  surgical assistance devices for minimally invasive cochlear implantation surgery
+-  surgical tools and medical devices such as
+   +  image-guided surgery systems
+   +  micro-stereotactic frames (surgical templates)
+   +  manual and automated insertion tools
+   +  drilling tools
 
 ### CI electrode development
 
