@@ -43,8 +43,8 @@ title: Research Areas & Methods
 - using 3D bending test
 - determination of curling behavior
 - manual and automated insertion tests in 
-  - artificial cochlea models and 
-  - human temporal bone specimens
+   - artificial cochlea models and 
+   - human temporal bone specimens
 - investigation of insertion forces and their correlation to
   - insertion speed
   - shape and size of the inner ear
