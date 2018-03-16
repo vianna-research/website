@@ -4,7 +4,7 @@ title: Research Areas & Methods
 
 ### Image acquisition
 
-- imaging of the inner ear and lateral skull base
+- imaging of the inner ear and the lateral skull base
 - imaging of cochlear implants after insertion
 
 ### Image processing and software development
