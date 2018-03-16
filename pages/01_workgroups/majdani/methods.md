@@ -52,6 +52,6 @@ title: Research Areas & Methods
 -   computed tomography (CT) and digital volume tomography (DVT), 
 -   micro-CT imaging
 -   histological imaging ("3D histology) ([Microgrinding](majdani/methods/microgrinding.html "Microgrinding"))
--   Software Development (using Matlab, C++, using VTK, ITK, Qt)
+-   Software Development (using Matlab, C++, VTK, ITK, Qt, Mathematica, LabView)
 -   Finite-Element-Analysis (using ANSYS)
 
