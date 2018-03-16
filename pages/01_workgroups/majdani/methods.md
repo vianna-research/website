@@ -1,5 +1,7 @@
 title: Research Areas & Methods
 
+- - - 
+
 ## Research Areas and Main Topics of our Group
 
 ### Image acquisition
