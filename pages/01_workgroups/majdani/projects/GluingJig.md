@@ -2,4 +2,4 @@
 
 - - - 
 
-# Individually mouldable surgical targeting system
+# An individually mouldable surgical targeting system
