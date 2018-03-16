@@ -38,19 +38,19 @@ title: Research Areas & Methods
 - functionalization (shape memory inlays, fluid-mechanical actuators, tubular manipulators,...)
 - individualization (length, thickness, shape change,...)
 - virtual prototyping using finite element analysis
--  simulation and optimization of the individual insertion process
+- simulation and optimization of the individual insertion process
 
 ### CI electrode characterization
 
-- using 3D bending test
-- determination of curling behavior
-- manual and automated insertion tests in 
-   - artificial cochlea models and 
-   - human temporal bone specimens
-- investigation of insertion forces and their correlation to
-  - insertion speed
-  - shape and size of the inner ear
-- histology and evaluation of insertion trauma
+-  using 3D bending test
+-  determination of curling behavior
+-  manual and automated insertion tests in 
+   +  artificial cochlea models and 
+   +  human temporal bone specimens
+-  investigation of insertion forces and their correlation to
+   +  insertion speed
+   +  shape and size of the inner ear
+-  histology and evaluation of insertion trauma
 
 ## Methods and Expertise Used in our Lab
 
