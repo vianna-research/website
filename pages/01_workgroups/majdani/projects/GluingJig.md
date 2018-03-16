@@ -12,8 +12,10 @@ The developed system allows the patient specific individualization of a drill gu
 
 ### Patents:
 
-Rau Th. S., Majdani O., Lenarz T., Kahrs L. A.: Surgical guidance device and method for its preparation. 
-EP 3 058 890 B1. Erteilt am 04.10.2017. 
+European patent granted in 2017 and validated in DE, FR, GB, CH, NL . US patent application is pending. 
+
+Rau Th. S., Majdani O., Lenarz T., Kahrs L. A.: _Surgical guidance device and method for its preparation_. 
+EP 3 058 890 B1. 
 
 
 ### Further Reading:
