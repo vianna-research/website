@@ -10,7 +10,7 @@ title: Mitarbeiter
 
 |Teamassistentin|                     |      |
 |--------------|---------------------|------|
-|![Image Bettina Goede](Betti.png) | Bettina Goede	|	goede.bettina@mh-hannover.de     |
+| | Lena Gebauer-Hoetzel	| Gebauer-Hoetzel.Lena(at)mh-hannover.de|
 |    |   Telefon:|  +49 (0)511 5350 247|
 
 |Technische Mitarbeiter|                     |      |
@@ -27,15 +27,15 @@ title: Mitarbeiter
 
 |Studenten|             |
 |-----------|-------------|
-|Ailke Behrens| Bachelorarbeit|
+|Ailke Behrens, B.Sc.| HiWi|
 |Fabian Borrmann, B.Sc. | HiWi|
-|Hazel Börgmann| Praktikum|
+|Hazel Börgmann, B.Sc.| HiWi|
 |Lennart Guntenhöner |Promotion Dr. med. |
-|Steffen Hadeler | Bachelorarbeit|
+|Steffen Hadeler, B.Sc. | HiWi|
 |Filip Jakimovski, B. Sc.| Masterarbeit|
-|Wiebke Kossow, B.Eng. |  Masterarbeit|
-|Fabian Müller|Bachelorarbeit|
-|Tan Tan, B. Sc.| Masterarbeit|
-|Eugen Zukin | HiWi |
-
+|Fabian Müller|HiWi|
+|Michael Kaiser|HiWi|
+|Magnus Schwieters|HiWi|
+|Madleen Danho|Masterarbeit|
+|Alexander Clement|HiWi|
 
