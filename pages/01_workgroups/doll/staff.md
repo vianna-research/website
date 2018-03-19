@@ -35,5 +35,9 @@ title: Staff
 |Steffen Hadeler|Student Assistent|
 |Filip Jakimovski, B. Sc.| Master Thesis|
 |Fabian Müller|Student Assistent|
+|Michael Kaiser|Student Assistent|
+|Magnus Schwieters|Student Assistent|
+|Madleen Danho|Master Thesis|
+|Alexander Clement|Master Thesis|
 
 
