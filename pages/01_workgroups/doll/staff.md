@@ -11,7 +11,7 @@ title: Staff
 
 |Team Assistant   |       |   |
 |--------------|:---------------------|------|
-|![Image Bettina Goede](Betti.png) | Bettina Goede	| goede.bettina@mh-hannover.de|
+| | Lena Gebauer-Hoetzel	| Gebauer-Hoetzel.Lena(at)mh-hannover.de|
 |                                   |     Phone:            |+49 (0)511 5350 247 |
 
 |Technical Staff|                     |      |
@@ -28,13 +28,12 @@ title: Staff
 
 |  Students   ||
 |-----------|-------------|
-|Ailke Behrens| Bachelor Thesis|
+|Ailke Behrens| Student Assistant|
 |Fabian Borrmann, B. Sc. | Student Assistent|
-|Hazel Börgmann | Internship|
+|Hazel Börgmann | Student Assistant|
 |Lennart Guntenhöner |Medical Doctorate Thesis |
-|Steffen Hadeler|Bachelor Thesis|
+|Steffen Hadeler|Student Assistent|
 |Filip Jakimovski, B. Sc.| Master Thesis|
-|Wiebke Kossow, B. Eng. | Master Thesis|
-|Fabian Müller|Bachelor Thesis|
-|Tan Tan, B. Sc. |Master Thesis|
-|Eugen Zukin| Student Assistent|
+|Fabian Müller|Student Assistent|
+
+
