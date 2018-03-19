@@ -37,5 +37,5 @@ title: Mitarbeiter
 |Michael Kaiser|HiWi|
 |Magnus Schwieters|HiWi|
 |Madleen Danho|Masterarbeit|
-|Alexander Clement|HiWi|
+|Alexander Clement|Masterarbeit|
 
