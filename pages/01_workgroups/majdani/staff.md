@@ -19,23 +19,21 @@ title:Staff
 
 | Students                                                                                             |
 |:------------------------------|:------------------------------------------|-------------------------------------------------:|
-|								| Shari Barati								| Medical Doctoral Thesis, Hannover Medical School 	|
+|![Portrait](staff/soon.png) 	| Shari Barati								| Medical Doctoral Thesis, Hannover Medical School 	|
 |![Portrait](staff/tobias.png) 	| Tobias Blum 								| Bachelor Thesis, Leibniz University Hannover      |
-|								| Denise Blume 								| Bachelor Thesis, Leibniz University Hannover      |
+|![Portrait](staff/soon.png) 	| Denise Blume 								| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Bachelor Thesis, Technische Universität Berlin    |
 |![Portrait](staff/lena.jpg)	| Lena Geiger								| Student Assistant, Hannover Medical School		| 
-|								| Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/soon.png) 	| Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/max.png)		| Maximilian Henke							| Master Thesis, Leibniz University Hannover   		|
-|								| Diana Kreul								| Medical Doctoral Thesis, Hannover Medical School	|
-|								| Christian Menke							| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/soon.png) 	| Diana Kreul								| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/soon.png) 	| Christian Menke							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral Thesis, Hannover Medical School	|
-|![Portrait](staff/katharina.jpg) | Katharina Rülander						| Master Thesis, Fachhochschule Münster				|
-|![Portrait](staff/henrik.png)	| Henrik Schädlich							| Master Thesis, Leibniz University Hannover		|
-|								| Evelyn Semke								| Medical Doctoral Thesis, Hannover Medical School	|
-|								| Katharina Spichal							| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/soon.png) 	| Evelyn Semke								| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/soon.png) 	| Katharina Spichal							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/lea.png)		| Lea Uhlenbusch 							| Bachelor Thesis, Leibniz University Hannover      |
-|								| Jan-Niklas Wellers						| Medical Doctoral Thesis, Hannover Medical School  |
-|								| Sina Witte 				    			| Medical Doctoral Thesis, Hannover Medical School  |
+|![Portrait](staff/soon.png) 	| Jan-Niklas Wellers						| Medical Doctoral Thesis, Hannover Medical School  |
+|![Portrait](staff/soon.png) 	| Sina Witte 				    			| Medical Doctoral Thesis, Hannover Medical School  |
 
 
 | Alumni                                                                                            |
@@ -44,3 +42,5 @@ title:Staff
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | jetzt [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
 |![Portrait](staff/Samuel.jpg)  | Dipl.-Inform. Samuel John                  | jetzt [HörSys GmbH](http://www.hoersys.de)  |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge					 | jetzt [HörSys GmbH](http://www.hoersys.de)  |
+|![Portrait](staff/katharina.jpg) | M. Sc. Katharina Rülander				 | 											   |
+|![Portrait](staff/henrik.png)	| M. Sc. Henrik Schädlich					 | jetzt Physik- & Mathematiklehrer			   |
