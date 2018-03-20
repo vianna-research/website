@@ -14,7 +14,7 @@ title:Staff
 |![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow                     | Lexow.Jakob@mh-hannover.de         |
 |![Portrait](staff/mathias_small.jpg)	| Dipl.-Phys. Mathias Müller		 | Mueller.Mathias@mh-hannover.de	  |
 |![Portrait](staff/nuha.jpg) 	| M. Sc. Nuha Suzaly			   			 | Suzaly.Nuha@mh-hannover.de          |
-|![Portrait](staff/maxtimm.png)	| Max Eike Timm								 |									  |
+|![Portrait](staff/maxt.png)	| Max Eike Timm								 |									  |
 
 
 | Students                                                                                             |
