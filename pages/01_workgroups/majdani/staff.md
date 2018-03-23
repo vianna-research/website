@@ -37,7 +37,7 @@ title:Staff
 
 
 | Former Staff                                                                                            |
-|:------------------------------|:-------------------------------------------|--------------------------------------:|
+|:------------------------------|:--------------------------------------------------------|--------------------------------------:|
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | jetzt [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
 |![Portrait](staff/Samuel.jpg)  | Dipl.-Inform. Samuel John                  | jetzt [HörSys GmbH](http://www.hoersys.de)  |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge					 | jetzt [HörSys GmbH](http://www.hoersys.de)  |
