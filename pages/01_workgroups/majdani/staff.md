@@ -1,8 +1,6 @@
 title:Staff
 
-![Group photo of workgroup computer-assisted Surgery](staff/IMG_3688_cut.jpg)
-
-Figure: Members of the group in front of the International Neuroscience Institute (INI) Hannover in December 2016.
+![Members of the group in front of the International Neuroscience Institute (INI) Hannover in December 2016](staff/IMG_3688_cut.jpg "Members of the group in front of the International Neuroscience Institute (INI) Hannover in December 2016")
 
 - - - 
 
