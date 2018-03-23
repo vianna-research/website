@@ -42,7 +42,8 @@ title:Staff
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge					 | jetzt [HörSys GmbH](http://www.hoersys.de)  |
 |                               | Dr.-Ing. Daniel Schurzig (04/2014 - 08/2015) | jetzt [MED-EL Deutschland](www.medel.com)
 |                               | Dipl.-Ing. Lenka Harbach (12/2012 - 06/2014)          |                           |
-|                               | Dipl.-Ing. (FH) Franziska Eckhardt (09/2010 - 12/2012)     |                           |
+|                               | Dipl.-Ing. (FH) Franziska Eckhardt  
+(09/2010 - 12/2012)     |                           |
 |                               | M. Sc. Priyant Mane (05/2010 - 05/2012)           | jetzt [Achtung Technik](http://www.achtung.in) |
 
 
