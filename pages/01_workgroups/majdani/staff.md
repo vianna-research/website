@@ -19,7 +19,16 @@ Figure: Members of the group in front of the International Neuroscience Institut
 |![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow                     | Lexow.Jakob@mh-hannover.de         |
 |![Portrait](staff/mathias_small.jpg)	| Dipl.-Phys. Mathias Müller		 | Mueller.Mathias@mh-hannover.de	  |
 |![Portrait](staff/nuha.jpg) 	| M. Sc. Nuha Suzaly			   			 | Suzaly.Nuha@mh-hannover.de          |
-|![Portrait](staff/maxt.png)	| Max Eike Timm								 |									  |
+
+
+
+| Associated Staff                                                                                                     |
+|:------------------------------|:----------------------------------------------|--------------------------------------:|
+|![Portrait](staff/soon.jpg)    | Dr. Martina Nullmeier                     | Research Engineer Implants, Cochlear Ltd.|
+|![Portrait](staff/rolf.jpg)    | Dr. Rolf Salcher                   		| Senior Physician, Team Leader Inner Ear, Hannover Medical School|
+|![Portrait](staff/maxt.png)    | Max Eike Tim     							| Assistant Physician, Hannover Medical School|
+
+
 
 
 | Students                                                                                             |
@@ -45,9 +54,9 @@ Figure: Members of the group in front of the International Neuroscience Institut
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | jetzt [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
 |![Portrait](staff/Samuel.jpg)  | Dipl.-Inform. Samuel John                  | jetzt [HörSys GmbH](http://www.hoersys.de)  |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge					 | jetzt [HörSys GmbH](http://www.hoersys.de)  |
-|![Portrait](staff/soon.png)    | Dr.-Ing. Daniel Schurzig (04/2014 - 08/2015) | jetzt [MED-EL Deutschland](www.medel.com)
-|![Portrait](staff/soon.png)    | Dipl.-Ing. Lenka Harbach (12/2012 - 06/2014)          |                           |
-|![Portrait](staff/soon.png)    | Dipl.-Ing. (FH) Franziska Eckhardt (09/2010 - 12/2012)     |                           |
+|![Portrait](staff/daniel.png)    | Dr.-Ing. Daniel Schurzig (04/2014 - 08/2015) | jetzt [MED-EL Deutschland](www.medel.com) |
+|![Portrait](staff/lenka.png)    | Dipl.-Ing. Lenka Harbach (12/2012 - 06/2014) |                           					|
+|![Portrait](staff/soon.png)    | Dipl.-Ing. (FH) Franziska Eckhardt (09/2010 - 12/2012)|                           		|
 |![Portrait](staff/soon.png)    | M. Sc. Priyant Mane (05/2010 - 05/2012)   | jetzt [Achtung Technik](http://www.achtung.in) |
 
 
