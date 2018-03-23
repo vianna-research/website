@@ -2,6 +2,8 @@ title:Staff
 
 ![Group photo of workgroup computer-assisted Surgery](staff/IMG_3688_cut.jpg)
 
+Figure: Members of the group in December 2016 in front of the International Neuroscience Institute (INI) Hannover.
+
 | Head of Research Group                                                                         |
 |:------------------------------|:-----------------------|-------------------------------:|
 |![Portrait](staff/Thomas.jpg)         | Dr.-Ing. Thomas S. Rau | Rau.Thomas@mh-hannover.de   |
