@@ -3,7 +3,7 @@ title:Staff
 ![Group photo of workgroup computer-assisted Surgery](staff/IMG_3661.JPG)
 
 | Head of Research Group                                                                         |
-|:-------------------------------------|:-----------------------|-------------------------------:|
+|:------------------------------|:-----------------------|-------------------------------:|
 |![Portrait](staff/Thomas.jpg)         | Dr.-Ing. Thomas S. Rau | Rau.Thomas@mh-hannover.de   |
 
 
