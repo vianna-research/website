@@ -12,7 +12,7 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018a
 
 ► _ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA._
 
-| ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA.    |
+| ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA. |   |
 |-|------| 
 | | John S., Kluge M., Erfurt P., Müller S., Lexow J., Kahrs L. A., Rau Th., Ortmaier T., Majdani O., Lenarz Th. (2018a): _Feasibility of a Simple, Safe, and High-Precision Approach to Minimally Invasive Cochlear Implantation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236-237. |
 |  | Salcher R., Nullmeier M., Lenarz Th., Pawsey N., Waldmann B., Majdani O., Rau Th. (2018a): _Electrode insertion force measurements in sheep temporal bones_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236. |
