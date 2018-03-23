@@ -23,16 +23,16 @@ Figure: Members of the group in front of the International Neuroscience Institut
 
 
 | Associated Staff																	|
-|:--------------------------|:------------------------------------------|--------------------------------------:|
+|:------------------------------|:------------------------------|-------------------------------------------------:|
 |![Portrait](staff/soon.png) | Dr. Martina Nullmeier					| Research Engineer Implants, Cochlear Ltd.|
-|![Portrait](staff/rolf.jpg) | Dr. Rolf Salcher                   		| Senior Physician, Team Leader Inner Ear,  Hannover Medical School|
+|![Portrait](staff/rolf.jpg) | Dr. Rolf Salcher                   		| Senior Physician, Hannover Medical School|
 |![Portrait](staff/maxt.png) | Max Eike Tim     						| Assistant Physician, Hannover Medical School|
 
 
 
 
 | Students                                                                                             |
-|:------------------------------|:------------------------------------------|-------------------------------------------------:|
+|:------------------------------|:------------------------------|-------------------------------------------------:|
 |![Portrait](staff/soon.png) 	| Shari Barati								| Medical Doctoral Thesis, Hannover Medical School 	|
 |![Portrait](staff/tobias.png) 	| Tobias Blum 								| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/soon.png) 	| Denise Blume 								| Bachelor Thesis, Leibniz University Hannover      |
