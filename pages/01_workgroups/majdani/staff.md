@@ -36,11 +36,20 @@ title:Staff
 |![Portrait](staff/soon.png) 	| Sina Witte 				    			| Medical Doctoral Thesis, Hannover Medical School  |
 
 
-| Alumni                                                                                            |
+| Former Staff                                                                                            |
 |:------------------------------|:-------------------------------------------|--------------------------------------:|
-|![Portrait](staff/alexander.jpg)| M. Sc. Alexander Becker 					 | jetzt [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/mitarbeiter.html)|
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | jetzt [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
 |![Portrait](staff/Samuel.jpg)  | Dipl.-Inform. Samuel John                  | jetzt [HörSys GmbH](http://www.hoersys.de)  |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge					 | jetzt [HörSys GmbH](http://www.hoersys.de)  |
+|                               | Dr.-Ing. Daniel Schurzig (04/2014 - 08/2015) | jetzt [MED-EL Deutschland](www.medel.com)
+|                               | Dipl.-Ing. Lenka Harbach (12/2012 - 06/2014)          |                           |
+|                               | Dipl.-Ing. (FH) Franziska Eckhardt (09/2010 - 12/2012)     |                           |
+|                               | M. Sc. Priyant Mane (05/2010 - 05/2012)           | jetzt [Achtung Technik](http://www.achtung.in) |
+
+
+
+| Alumni                                                                                            |
+|:------------------------------|:-------------------------------------------|--------------------------------------:|
+|![Portrait](staff/alexander.jpg)| M. Sc. Alexander Becker 					 | jetzt [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/mitarbeiter.html)|
 |![Portrait](staff/katharina.jpg) | M. Sc. Katharina Rülander				 | 											   |
 |![Portrait](staff/henrik.png)	| M. Sc. Henrik Schädlich					 | jetzt Physik- & Mathematiklehrer			   |
