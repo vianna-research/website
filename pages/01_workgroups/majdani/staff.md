@@ -22,10 +22,10 @@ Figure: Members of the group in front of the International Neuroscience Institut
 
 
 
-| Associated Staff                                                                                                     |
+| Associated Staff																	|
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
-|![Portrait](staff/soon.jpg)    | Dr. Martina Nullmeier                     | Research Engineer Implants, Cochlear Ltd.|
-|![Portrait](staff/rolf.jpg)    | Dr. Rolf Salcher                   		| Senior Physician, Team Leader Inner Ear, Hannover Medical School|
+|![Portrait](staff/soon.png)    | Dr. Martina Nullmeier						| Research Engineer Implants, Cochlear Ltd.|
+|![Portrait](staff/rolf.jpg)    | Dr. Rolf Salcher                   		| Senior Physician, Team Leader Inner Ear,  Hannover Medical School|
 |![Portrait](staff/maxt.png)    | Max Eike Tim     							| Assistant Physician, Hannover Medical School|
 
 
@@ -49,7 +49,7 @@ Figure: Members of the group in front of the International Neuroscience Institut
 |![Portrait](staff/soon.png) 	| Sina Witte 				    			| Medical Doctoral Thesis, Hannover Medical School  |
 
 
-| Former Staff                                                                                            |
+| Former Staff																				|
 |:------------------------------|:--------------------------------------------------------|--------------------------------------:|
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | jetzt [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
 |![Portrait](staff/Samuel.jpg)  | Dipl.-Inform. Samuel John                  | jetzt [HörSys GmbH](http://www.hoersys.de)  |
