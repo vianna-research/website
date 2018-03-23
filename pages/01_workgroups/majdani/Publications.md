@@ -4,7 +4,7 @@ title: Publications
 
 ### Journal Papers
 
-Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018): _On the accuracy of cochlear duct length measurement in computed tomographic images_. European Archives of Oto-Rhino-Laryngology. Online First Article. \[[**DOI**](https://doi.org/10.1007/s00405-018-4930-7); IF: 1.660\].
+Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018a): _On the accuracy of cochlear duct length measurement in computed tomographic images_. European Archives of Oto-Rhino-Laryngology. Online First Article. \[[**DOI**](https://doi.org/10.1007/s00405-018-4930-7); IF: 1.660\].
 
 
 
@@ -12,13 +12,13 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018)
 
 ► _ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA._
 
-John S., Kluge M., Erfurt P., Müller S., Lexow J., Kahrs L. A., Rau Th., Ortmaier T., Majdani O., Lenarz Th. (2018): _Feasibility of a Simple, Safe, and High-Precision Approach to Minimally Invasive Cochlear Implantation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236-237.
+John S., Kluge M., Erfurt P., Müller S., Lexow J., Kahrs L. A., Rau Th., Ortmaier T., Majdani O., Lenarz Th. (2018a): _Feasibility of a Simple, Safe, and High-Precision Approach to Minimally Invasive Cochlear Implantation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236-237.
 
-Salcher R., Nullmeier M., Lenarz Th., Pawsey N., Waldmann B., Majdani O., Rau Th. (2018): _Electrode insertion force measurements in sheep temporal bones_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236.
+Salcher R., Nullmeier M., Lenarz Th., Pawsey N., Waldmann B., Majdani O., Rau Th. (2018a): _Electrode insertion force measurements in sheep temporal bones_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236.
 
-Schwieger J., Hügl S., Hamm A., Lenarz Th., Hoffmann A., Rau Th., Scheper V (2018): _A Stem Cell-Alginate Coated Cochlear Implant for Chronic BDNF-Delivery is Stable and Neuroprotective In Vitro_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:592-593.
+Schwieger J., Hügl S., Hamm A., Lenarz Th., Hoffmann A., Rau Th., Scheper V (2018a): _A Stem Cell-Alginate Coated Cochlear Implant for Chronic BDNF-Delivery is Stable and Neuroprotective In Vitro_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:592-593.
 
-Timm M. E., Schurzig D., Assadi M., Lenarz Th. (2018): _A Novel Approach for Clinical Cochlear Duct Length Estimation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:614.
+Timm M. E., Schurzig D., Assadi M., Lenarz Th. (2018a): _A Novel Approach for Clinical Cochlear Duct Length Estimation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:614.
 
 
 
@@ -27,60 +27,60 @@ Timm M. E., Schurzig D., Assadi M., Lenarz Th. (2018): _A Novel Approach for Cli
 
 ### Journal Papers
 
-Bergmeier J., Fitzpatrick J.M., Daentzer D., Majdani O., Ortmaier T., Kahrs L. A. (2017): _Workflow and simulation of image-to-physical registration of holes inside spongy bone_. Int J Comput Assist Radiol Surg. 12(8):1425–1437. \[[**DOI**](http://dx.doi.org/10.1007/s11548-017-1594-5); IF: 1.827\].
+Bergmeier J., Fitzpatrick J.M., Daentzer D., Majdani O., Ortmaier T., Kahrs L. A. (2017a): _Workflow and simulation of image-to-physical registration of holes inside spongy bone_. Int J Comput Assist Radiol Surg. 12(8):1425–1437. \[[**DOI**](http://dx.doi.org/10.1007/s11548-017-1594-5); IF: 1.827\].
 
-Hügl S., Eckardt, F., Lexow J., Majdani O., Lenarz Th., Rau Th. S. (2016): _Increasing the resolution of morphological 3D image data sets through image stitching: application to the temporal bone._ Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization. 5(6):438-445. \[[**DOI**](https://doi.org/10.1080/21681163.2015.1137080)\].
+Hügl S., Eckardt, F., Lexow J., Majdani O., Lenarz Th., Rau Th. S. (2017a): _Increasing the resolution of morphological 3D image data sets through image stitching: application to the temporal bone._ Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization. 5(6):438-445. \[[**DOI**](https://doi.org/10.1080/21681163.2015.1137080)\].
 
-Büchner A., Illg A., Majdani O., Lenarz T. (2017): _Investigation of the effect of cochlear implant electrode length on speech comprehension in quiet and noise compared with the results with users of electro-acoustic-stimulation, a retrospective analysis_. PLoS One. 12(5):e0174900. \[[**DOI**](https://doi.org/10.1371/journal.pone.0174900); [**PDF**](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174900&type=printable); IF: 3.057\]  
+Büchner A., Illg A., Majdani O., Lenarz T. (2017a): _Investigation of the effect of cochlear implant electrode length on speech comprehension in quiet and noise compared with the results with users of electro-acoustic-stimulation, a retrospective analysis_. PLoS One. 12(5):e0174900. \[[**DOI**](https://doi.org/10.1371/journal.pone.0174900); [**PDF**](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174900&type=printable); IF: 3.057\]  
 
-van Drunen W., Müller M., Glukhovskoy A., Salcher R., Wurz M., Lenarz T., Maier H. (2017): _Feasibility of Round Window Stimulation by a Novel Electromagnetic Microactuator_. BioMed Research International 2017, Article ID: 6369247. \[[**DOI**](https://www.hindawi.com/journals/bmri/2017/6369247/); [**PDF**](http://downloads.hindawi.com/journals/bmri/2017/6369247.pdf); IF: 2.476\]
+van Drunen W., Müller M., Glukhovskoy A., Salcher R., Wurz M., Lenarz T., Maier H. (2017a): _Feasibility of Round Window Stimulation by a Novel Electromagnetic Microactuator_. BioMed Research International 2017, Article ID: 6369247. \[[**DOI**](https://www.hindawi.com/journals/bmri/2017/6369247/); [**PDF**](http://downloads.hindawi.com/journals/bmri/2017/6369247.pdf); IF: 2.476\]
 
-Lyutenski S., Götz F., Giourgas A., Majdani O., Bültmann E., Lanfermann H., Lenarz Th., Giesemann A. M.: _Does severity of cerebral MRI lesions in congenital CMV infection correlates with the outcome of cochlear implantation?_ Eur Arch Otorhinolaryngol. 274(3):1397–1403. \[[**DOI**](https://doi.org/10.1007/s00405-016-4408-4); IF: 1.660\]
+Lyutenski S., Götz F., Giourgas A., Majdani O., Bültmann E., Lanfermann H., Lenarz Th., Giesemann A. M. (2017a): _Does severity of cerebral MRI lesions in congenital CMV infection correlates with the outcome of cochlear implantation?_ Eur Arch Otorhinolaryngol. 274(3):1397–1403. \[[**DOI**](https://doi.org/10.1007/s00405-016-4408-4); IF: 1.660\]
 
-Mirsalehi M., Mohebbi S., Ghajarzadeh M., Lenarz Th., Majdani O.: _Impact of the round window membrane accessibility on hearing preservation in adult cochlear implantation._ Eur Arch Otorhinolaryngol. 274(8):3049–3056. \[[**DOI**](https://doi.org/10.1007/s00405-017-4628-2); IF: 1.660\].
+Mirsalehi M., Mohebbi S., Ghajarzadeh M., Lenarz Th., Majdani O. (2017b): _Impact of the round window membrane accessibility on hearing preservation in adult cochlear implantation._ Eur Arch Otorhinolaryngol. 274(8):3049–3056. \[[**DOI**](https://doi.org/10.1007/s00405-017-4628-2); IF: 1.660\].
 
-Mirsalehi M., Rau Th. S., Harbach L., Hügl S., Mohebbi S., Lenarz T., Majdani O. (2017): _Insertion forces and intracochlear trauma in temporal bone specimens implanted with a straight atraumatic electrode array_. Eur Arch Otorhinolaryngol. 274(5):2131-2140. \[[**DOI**](http://dx.doi.org/10.1007/s00405-017-4485-z); IF: 1.627\].
+Mirsalehi M., Rau Th. S., Harbach L., Hügl S., Mohebbi S., Lenarz T., Majdani O. (2017a): _Insertion forces and intracochlear trauma in temporal bone specimens implanted with a straight atraumatic electrode array_. Eur Arch Otorhinolaryngol. 274(5):2131-2140. \[[**DOI**](http://dx.doi.org/10.1007/s00405-017-4485-z); IF: 1.627\].
 
-Mohebbi S., Mirsalehi M., Kahrs L. A., Ortmaier T., Lenarz T., Majdani O. (2017): _Experimental Visualization of Labyrinthine Structure with Optical Coherence Tomography_. Iran J Otorhinolaryngol. 29(90):5-9. \[[**DOI**](http://dx.doi.org/10.22038/ijorl.2016.8062); [**PDF**](http://ijorl.mums.ac.ir/article_8062_91de932cebc87ec9227990d4e62323e9.pdf)\].
+Mohebbi S., Mirsalehi M., Kahrs L. A., Ortmaier T., Lenarz T., Majdani O. (2017a): _Experimental Visualization of Labyrinthine Structure with Optical Coherence Tomography_. Iran J Otorhinolaryngol. 29(90):5-9. \[[**DOI**](http://dx.doi.org/10.22038/ijorl.2016.8062); [**PDF**](http://ijorl.mums.ac.ir/article_8062_91de932cebc87ec9227990d4e62323e9.pdf)\].
 
-Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017): _Synthesis process of a compliant fluidmechanical actuator for use as an adaptive electrode carrier for cochlear implants_. Mechanism and Machine Theory 112:155-171. \[[**DOI**](https://doi.org/10.1016/j.mechmachtheory.2017.02.001); IF: 1.689\].
+Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017a): _Synthesis process of a compliant fluidmechanical actuator for use as an adaptive electrode carrier for cochlear implants_. Mechanism and Machine Theory 112:155-171. \[[**DOI**](https://doi.org/10.1016/j.mechmachtheory.2017.02.001); IF: 1.689\].
 
 
 
 ### Conference Papers
 
-van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017): _Investigation of intracochlear dual actuator stimulation in a scaled test rig_. In Current Directions in Biomedical Engineering  3(2):119-122. \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0024); IF: 1.650\].
+van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017c): _Investigation of intracochlear dual actuator stimulation in a scaled test rig_. In Current Directions in Biomedical Engineering  3(2):119-122. \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0024); IF: 1.650\].
 
-Griebel S., Hügl S., Rau Th. S., Majdani O., Zentner L. (2017): _Nachgiebiger fluidmechanischer Aktuator für eine schonende Implantation am Beispiel eines vorgekrümmten Cochlea-Implantat-Elektrodenträgers_. In Tagungsband 12. Kolloquium Getriebetechnik, 20.-22.09.2017 Dresden, TUDpress, S.235-254 \[ISBN: 978-3-95908-111-5].
+Griebel S., Hügl S., Rau Th. S., Majdani O., Zentner L. (2017a): _Nachgiebiger fluidmechanischer Aktuator für eine schonende Implantation am Beispiel eines vorgekrümmten Cochlea-Implantat-Elektrodenträgers_. In Tagungsband 12. Kolloquium Getriebetechnik, 20.-22.09.2017 Dresden, TUDpress, S.235-254 \[ISBN: 978-3-95908-111-5].
 
-Hügl S., Zentner L., Griebel S., Majdani O., Rau Th. S. (2017): _Analysis of the customized implantation process of a compliant mechanism with fluidic actuation used for cochlear implant electrode carriers_. In Engineering for a Changing World, Vol 59, 11.-15.09. 2017 Ilmenau, ilmedia \[[**URN**](http://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2017iwk-111:0)\].
+Hügl S., Zentner L., Griebel S., Majdani O., Rau Th. S. (2017e): _Analysis of the customized implantation process of a compliant mechanism with fluidic actuation used for cochlear implant electrode carriers_. In Engineering for a Changing World, Vol 59, 11.-15.09. 2017 Ilmenau, ilmedia \[[**URN**](http://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2017iwk-111:0)\].
 
-Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101352N. \[[**DOI**](http://dx.doi.org/10.1117/12.2254381)\].
+Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017a): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101352N. \[[**DOI**](http://dx.doi.org/10.1117/12.2254381)\].
 
-Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101350P. \[[**DOI**](http://dx.doi.org/10.1117/12.2254304)\].
+Rau Th. S., Hügl S., Lenarz Th., Majdani O. (2017d): _Toward steerable electrodes : an overview of concepts and current research_. In Current Directions in Biomedical Engineering  3(2):765-769.  \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0161); IF: 1.650\].
 
-Rau Th. S., Hügl S., Lenarz Th., Majdani O. (2017): _Toward steerable electrodes : an overview of concepts and current research_. In Current Directions in Biomedical Engineering  3(2):765-769.  \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0161); IF: 1.650\].
+Rau Th. S., Hügl S., Salcher R., Lenarz Th., Majdani O. (2017c): _Hydraulisch automatisierte Elektrodeninsertion_. In: Tagungsband der 16. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 05.-07.10.2017, Hannover.
 
-Rau Th. S., Hügl S., Salcher R., Lenarz Th., Majdani O. (2017): _Hydraulisch automatisierte Elektrodeninsertion_. In: Tagungsband der 16. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 05.-07.10.2017, Hannover.
+Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017a): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101350P. \[[**DOI**](http://dx.doi.org/10.1117/12.2254304)\].
 
 
 ### Abstracts
 
-van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017): _Experimental investigation of the performance of piezoelectric actuators in a cochlea test rig_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno426.shtml); [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001647.pdf)\].
+van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017b): _Experimental investigation of the performance of piezoelectric actuators in a cochlea test rig_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno426.shtml); [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001647.pdf)\].
 
-Hügl S., Rülander K., Lenarz Th., Majdani O., Rau Th. S. (2017): _Impact of insertion velocity on insertion forces in cochlear implantation surgery_. In: Biomedical Engineering : joint journal of the German Society for Biomedical Engineering in VDE and the Austrian and Swiss Societies for Biomedical Engineering. Bd. 62 (2017), S1, Seite S167, 10.-13.09., Dresden \[[**Poster**](https://www.researchgate.net/publication/319686748_Impact_of_insertion_velocity_on_insertion_forces_in_cochlear_implantation_surgery)\].
+Hügl S., Rülander K., Lenarz Th., Majdani O., Rau Th. S. (2017d): _Impact of insertion velocity on insertion forces in cochlear implantation surgery_. In: Biomedical Engineering : joint journal of the German Society for Biomedical Engineering in VDE and the Austrian and Swiss Societies for Biomedical Engineering. Bd. 62 (2017), S1, Seite S167, 10.-13.09., Dresden \[[**Poster**](https://www.researchgate.net/publication/319686748_Impact_of_insertion_velocity_on_insertion_forces_in_cochlear_implantation_surgery)\].
 
-Hügl S., Lexow G. J., Majdani O., Lenarz Th., Rau Th. S. (2017): _Untersuchung der anatomischen Variabilität perimodiolarer Scala Tympani Pfade als Grundlage individueller Cochlea-Implantat Elektrodenträger_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno299.shtml)\].
+Hügl S., Lexow G. J., Majdani O., Lenarz Th., Rau Th. S. (2017c): _Untersuchung der anatomischen Variabilität perimodiolarer Scala Tympani Pfade als Grundlage individueller Cochlea-Implantat Elektrodenträger_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno299.shtml)\].
 
-Hügl S., Zentner L., Griebel S., Majdani O., Lenarz Th., Rau Th. S. (2017): _Individualized design of fluidically actuated cochlear implants_. In: Biomedical Engineering : joint journal of the German Society for Biomedical Engineering in VDE and the Austrian and Swiss Societies for Biomedical Engineering. Bd. 62 (2017), S1, Seite S280, 10.-13.09., Dresden.
+Hügl S., Zentner L., Griebel S., Majdani O., Lenarz Th., Rau Th. S. (2017b): _Individualized design of fluidically actuated cochlear implants_. In: Biomedical Engineering : joint journal of the German Society for Biomedical Engineering in VDE and the Austrian and Swiss Societies for Biomedical Engineering. Bd. 62 (2017), S1, Seite S280, 10.-13.09., Dresden.
 
-Kluge M., Rau Th. S., Lexow J., Kahrs L. A., Kobler J.-P., Ortmaier T., Lenarz Th., Majdani O. (2017): _Eine iterative Entwicklung eines Mini-Stereotaxiesystems für die laterale Schädelbasis_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno315.shtml), [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001699.pdf)\].
+Kluge M., Rau Th. S., Lexow J., Kahrs L. A., Kobler J.-P., Ortmaier T., Lenarz Th., Majdani O. (2017a): _Eine iterative Entwicklung eines Mini-Stereotaxiesystems für die laterale Schädelbasis_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno315.shtml), [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001699.pdf)\].
 
-Majdani O., Kluge M., Lexow G. J., John S., Kahrs L. A., Ortmaier T., Müller S., Lenarz Th., Rau, Th. S. (2017): _Minimally invasive, mini-stereotactic approach for Cochlear Implant Surgery: RoboJIG_. In: Tagungsband Festival della Scienza Medica, Bologna, 20-23 April 2017. 
+Majdani O., Kluge M., Lexow G. J., John S., Kahrs L. A., Ortmaier T., Müller S., Lenarz Th., Rau, Th. S. (2017a): _Minimally invasive, mini-stereotactic approach for Cochlear Implant Surgery: RoboJIG_. In: Tagungsband Festival della Scienza Medica, Bologna, 20-23 April 2017. 
 
-Majdani O., Lexow J., Lenarz Th., Rau Th. S. (2017): _COMET: Anwenderfreundliche Vermessung der Cochlea-Länge auf präoperativen Bilddaten_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno343.shtml); [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001689.pdf)\].
+Majdani O., Lexow J., Lenarz Th., Rau Th. S. (2017a): _COMET: Anwenderfreundliche Vermessung der Cochlea-Länge auf präoperativen Bilddaten_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno343.shtml); [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001689.pdf)\].
 
-Rau Th. S., Heil M., Lexow G. J., Lenarz Th., Majdani O. (2017): _Hydraulisches Insertionstool für langsames und gleichmäßiges Einführen von Cochlea-Implantat-Elektroden_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno372.shtml); [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001674.pdf)\].
+Rau Th. S., Heil M., Lexow G. J., Lenarz Th., Majdani O. (2017b): _Hydraulisches Insertionstool für langsames und gleichmäßiges Einführen von Cochlea-Implantat-Elektroden_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno372.shtml); [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001674.pdf)\].
 
 
 
