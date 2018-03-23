@@ -4,7 +4,7 @@ title: Computer-Assisted Surgery (CAS-hno)
 
 ## Research
 
-![cash-logo](majdani/cas-h.png){style="width:350px; float:right; margin-left:1em"}
+![cash-logo](majdani/cas-h.png){style="width:400px; float:right; margin-left:1em"}
 
 The group "Computer-Assisted Surgery and Electrode Development" (CAS-hno) is an [interdisciplinary research group](majdani/staff.html "Staff") of engineers, physicians, and natural scientist at the Department of Otolaryngology whose common focus is the development of technologies and methods for surgical rehabilitation of the inner ear (cochlea). 
 
