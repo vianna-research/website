@@ -26,7 +26,6 @@ title:Staff
 |![Portrait](staff/lena.jpg)	| Lena Geiger								| Student Assistant, Hannover Medical School		| 
 |![Portrait](staff/soon.png) 	| Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/max.png)		| Maximilian Henke							| Master Thesis, Leibniz University Hannover   		|
-|![Portrait](staff/soon.png) 	| Diana Kreul								| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/soon.png) 	| Christian Menke							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/soon.png) 	| Evelyn Semke								| Medical Doctoral Thesis, Hannover Medical School	|
@@ -51,5 +50,6 @@ title:Staff
 | Alumni                                                                                            |
 |:------------------------------|:-------------------------------------------|--------------------------------------:|
 |![Portrait](staff/alexander.jpg)| M. Sc. Alexander Becker 					 | jetzt [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/mitarbeiter.html)|
+|![Portrait](staff/soon.png) 	  | Diana Kreul								| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/katharina.jpg) | M. Sc. Katharina Rülander				 | 											   |
 |![Portrait](staff/henrik.png)	| M. Sc. Henrik Schädlich					 | jetzt Physik- & Mathematiklehrer			   |
