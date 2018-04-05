@@ -4,6 +4,7 @@ title: staff
 
 Dr. med. vet. Verena Scheper, Veterinarian| scheper.verena(at)mh-hannover.de
 
+
 ---------------------------
 **Research Team**
 
@@ -11,12 +12,13 @@ Dr. med vet. Jana Schwieger, Veterinarian | schwieger.jana(at)mh-hannover.de
 
 Jasmin Bohlmann, technician  | bohlmann.jasmin(at)mh-hannover.de
 
-Melanie Leifholz, B. Eng. | leifholz.melanie(at)mh-hannover.de
+Christoph Pannier, Dentist, PhD student | pannier.christoph(at)mh-hannover.de
 
-Christoph Pannier, Dentist, PhD Student | pannier.christoph(at)mh-hannover.de
+Noushin Kakuan, PhD Student, MD student | noushin.t.kakuan(at)stud.mh-hannover.de
 
-Tanja Schubert, FWJ | schubert.tanja(at)mh-hannover.de
+Katarina Klötzer, PhD Student, MD student 
 
-Alexandra Rangnau, Master student | rangnau.alexandra(at)mh-hannover.de
+Lennart Ryll, FWJ | ryll.lennart(at)mh-hannover.de
+
 
 -----------------------------
