@@ -3,6 +3,7 @@ title: Publications
 ## 2017
 * Berger C, Kühne D, **Scheper V**, Kral A. [Congenital deafness affects deep layers in primary and secondary auditory cortex.](https://www.ncbi.nlm.nih.gov/pubmed/28643417) J Comp Neurol. 2017 Oct 1;525(14):3110-3125. doi: 10.1002/cne.24267. Epub 2017 Jul 13.
 
+* **Scheper V**, Hessler R, Hütten M, Wilk M, Jolly C, Lenarz T, Paasche G. [Local inner ear application of dexamethasone in cochlear implant models is safe for auditory neurons and increases the neuroprotective effect of chronic electrical stimulation.](https://www.ncbi.nlm.nih.gov/pubmed/28859106)PLoS One. 2017 Aug 31;12(8):e0183820. doi: 10.1371/journal.pone.0183820. eCollection 2017
 
 * Konerding WS, Janssen H, Hubka P, Tornøe J, Mistrik P, Wahlberg L, Lenarz T, Kral A, **Scheper V**.  [Encapsulated cell device approach for combined electrical stimulation and neurotrophic treatment of the deaf cochlea.](http://www.sciencedirect.com/science/article/pii/S0378595516304129) Hear Res. 2017 Apr 25;350:110-121. 
 
