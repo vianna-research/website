@@ -8,7 +8,7 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018a
 
 
 
-### Abstracts
+### Poster & Abstracts
 
 |  | ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA. | 
 |:-|:------| 
