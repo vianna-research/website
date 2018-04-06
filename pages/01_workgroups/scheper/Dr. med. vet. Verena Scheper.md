@@ -12,8 +12,8 @@ title: Dr. med. vet. Verena Scheper
 
 
 **Links:**
-[ResearchGate](https://www.researchgate.net/profile/Verena Scheper)
-[DFG](http://gepris.dfg.de/gepris/person/116674265)
+[ResearchGate](https://www.researchgate.net/profile/Verena_Scheper)
+[DFG](http://gepris.dfg.de/gepris/person/118496388)
 [HNO - für Wissenschaftler](https://www.mh-hannover.de/18058.html)
 
 ***
