@@ -55,9 +55,9 @@ van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lena
 
 Rau Th. S., Hügl S., Salcher R., Lenarz Th., Majdani O. (2017c): _Hydraulisch automatisierte Elektrodeninsertion_. In: Tagungsband der 16. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 05.-07.10.2017, Hannover.
 
-Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017a): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101352N. \[[**DOI**](http://dx.doi.org/10.1117/12.2254381)\].
+Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017a): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling. 101352N. \[[**DOI**](http://dx.doi.org/10.1117/12.2254381)\].
 
-Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017a): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101350P. \[[**DOI**](http://dx.doi.org/10.1117/12.2254304)\].
+Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017a): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling. 101350P. \[[**DOI**](http://dx.doi.org/10.1117/12.2254304)\].
 
 
 ### Posters & Abstracts
