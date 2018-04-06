@@ -18,6 +18,7 @@ And the members of the lab can be found [**here**](scheper/staff.html).
 cell culture (neuronal survival and neuritogenesis in dissociated spiral ganglion cells and spiral ganglion explants, L929, SHY5Y-cells, PC12-cells)
 
 to in vivo pathology models (NIHL, aminoglycoside induced HL, ARHL, electrode insertion trauma)
+
 and clinical trial conduction (drug trial, medicinal product).
 
 
