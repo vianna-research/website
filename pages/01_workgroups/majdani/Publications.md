@@ -149,9 +149,6 @@ Kobler J.-P., Nuelle K., Lexow G. J., Rau Th. S., Majdani O., Kahrs L. A., Kotla
 
 Rau Th. S., Lenarz Th., Majdani O. (2015): _Individual Optimization of the Insertion of a Preformed Cochlear Implant Electrode Array_. International Journal of Otolaryngology. Vol. 2015, Article ID 724703:1-22. \[[**PDF**](http://downloads.hindawi.com/journals/ijoto/2015/724703.pdf); [**DOI**](http://dx.doi.org/10.1155/2015/724703)\].
 
-Rau Th. S., Granna J., Lenarz T., Majdani O., Burgner-Kahrs J. (2015): _Tubular manipulators: a new concept for intracochlear positioning of an auditory prosthesis_. Biomedical Engineering / Biomedizinische Technik 60(S1):367-401. (= Currrent Directions in Biomedical Engineering 1:515-518). (IF: 1.458)
-
-
 
 ### Conference Papers
 
@@ -161,6 +158,7 @@ Kluge M., Rau Th. S., Lexow G. J., Kobler J.-P., John S., Lenarz Th., Ortmaier T
 
 Lexow G. J., Rau Th. S., Gellrich N.-C., Lenarz Th., Majdani O. (2015):  _Längenmessung in rotierenden, midmodiolären Schichtansichten – Darstellung der Methode_. In: Tagungsband der 14. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 17.-19.09.2015, Bremen. Seiten 335-336.
 
+Rau Th. S., Granna J., Lenarz T., Majdani O., Burgner-Kahrs J. (2015): _Tubular manipulators: a new concept for intracochlear positioning of an auditory prosthesis_. In Current Directions in Biomedical Engineering 1:515-518). \[[**PDF**](https://www.degruyter.com/downloadpdf/j/cdbme.2015.1.issue-1/cdbme-2015-0123/cdbme-2015-0123.pdf); IF: 1.458\]
 
 
 ### Posters & Abstracts
