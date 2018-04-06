@@ -43,20 +43,19 @@ Mohebbi S., Mirsalehi M., Kahrs L. A., Ortmaier T., Lenarz T., Majdani O. (2017a
 Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017a): _Synthesis process of a compliant fluidmechanical actuator for use as an adaptive electrode carrier for cochlear implants_. Mechanism and Machine Theory 112:155-171. \[[**DOI**](https://doi.org/10.1016/j.mechmachtheory.2017.02.001); IF: 1.689\].
 
 
-
 ### Conference Papers
-
-van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017c): _Investigation of intracochlear dual actuator stimulation in a scaled test rig_. In Current Directions in Biomedical Engineering  3(2):119-122. \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0024); IF: 1.650\].
 
 Griebel S., Hügl S., Rau Th. S., Majdani O., Zentner L. (2017a): _Nachgiebiger fluidmechanischer Aktuator für eine schonende Implantation am Beispiel eines vorgekrümmten Cochlea-Implantat-Elektrodenträgers_. In Tagungsband 12. Kolloquium Getriebetechnik, 20.-22.09.2017 Dresden, TUDpress, S.235-254 \[ISBN: 978-3-95908-111-5].
 
 Hügl S., Zentner L., Griebel S., Majdani O., Rau Th. S. (2017e): _Analysis of the customized implantation process of a compliant mechanism with fluidic actuation used for cochlear implant electrode carriers_. In Engineering for a Changing World, Vol 59, 11.-15.09. 2017 Ilmenau, ilmedia \[[**URN**](http://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2017iwk-111:0)\].
 
-Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017a): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101352N. \[[**DOI**](http://dx.doi.org/10.1117/12.2254381)\].
+Rau Th. S., Hügl S., Lenarz Th., Majdani O. (2017d): _Toward steerable electrodes : an overview of concepts and current research_. In Current Directions in Biomedical Engineering  3(2):765-769.  \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0161)\].
 
-Rau Th. S., Hügl S., Lenarz Th., Majdani O. (2017d): _Toward steerable electrodes : an overview of concepts and current research_. In Current Directions in Biomedical Engineering  3(2):765-769.  \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0161); IF: 1.650\].
+van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017c): _Investigation of intracochlear dual actuator stimulation in a scaled test rig_. In Current Directions in Biomedical Engineering  3(2):119-122. \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0024)\].
 
 Rau Th. S., Hügl S., Salcher R., Lenarz Th., Majdani O. (2017c): _Hydraulisch automatisierte Elektrodeninsertion_. In: Tagungsband der 16. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 05.-07.10.2017, Hannover.
+
+Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017a): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101352N. \[[**DOI**](http://dx.doi.org/10.1117/12.2254381)\].
 
 Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017a): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101350P. \[[**DOI**](http://dx.doi.org/10.1117/12.2254304)\].
 
