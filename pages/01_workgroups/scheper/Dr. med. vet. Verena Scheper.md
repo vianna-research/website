@@ -20,7 +20,7 @@ title: Dr. med. vet. Verena Scheper
 
 My research focus is on optimizing the hearing outcome of patients. My treatment strategies are pharmacologically based and focus either on hearing preservation before trauma insult will damage the hearing or on therapeutic approaches in already traumatized ears. 
 
-During my doctoral thesis I was working on optimizing the cochlear implant outcome in experimentally deafened guinea pigs using growth factors, the glucocorticoid dexamethasone and/or chronic electrical stimulation. Here the drugs were applied using a pump based system ([**Scheper et al., 2009**](scheper/publications.html)). Additionally I worked on a locally deafened rat model and cell culture of primary auditory neurons ([**Wefstaedt et al., 2005**](scheper/publications.html)). 
+During my doctoral thesis I was working on optimizing the cochlear implant outcome in experimentally deafened guinea pigs using growth factors, the glucocorticoid dexamethasone and/or chronic electrical stimulation. Here the drugs were applied using a pump based system ([**Scheper et al., 2009**](scheper/publications.html)). Additionally I worked on a locally deafened rat model and cell culture of primary auditory neurons ([**Wefstaedt et al., 2005**](http://journals.lww.com/neuroreport/pages/articleviewer.aspxyear=2005&issue=12190&article=00008&type=abstract)). 
 
 Within my first years as Post-doc I was focused on nanoparticle based local drug delivery to the inner ear. In detail, lipidic nanocapsules, hyperbranched polylysines, micells, hydrogel and silica based particles were used to target inner ear cells and deliver growth factors or small molecules (BDNF, Rolipram, Dexamethasone) ([**Scheper et al., 2009, Meyer et al., 2012**](scheper/publications.html)). 
 
