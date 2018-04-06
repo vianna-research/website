@@ -8,7 +8,7 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018a
 
 
 
-### Poster & Abstracts
+### Posters & Abstracts
 
 |  | ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA. | 
 |:-|:------| 
@@ -61,7 +61,7 @@ Rau Th. S., Hügl S., Salcher R., Lenarz Th., Majdani O. (2017c): _Hydraulisch a
 Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017a): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101350P. \[[**DOI**](http://dx.doi.org/10.1117/12.2254304)\].
 
 
-### Abstracts
+### Posters & Abstracts
 
 van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017b): _Experimental investigation of the performance of piezoelectric actuators in a cochlea test rig_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno426.shtml); [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001647.pdf)\].
 
@@ -121,7 +121,7 @@ Lexow G. J., Rau Th. S., Kluge M., Majdani O. (2106): _Kostengünstige Methoden 
 Rau Th. S., Lexow G. J., Kluge M., Lenarz Th., Majdani O. (2016): _An alternative concept for template-guided minimally-invasive cochlear implantation surgery_. In: Ansó J. et. al (Hrsg.): Tagungsband der 15. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 29.09.-01.10.2016, Bern. Seiten 149-154.
 
 
-### Abstracts
+### Posters & Abstracts
 
 Hügl S., Rau Th. S., Griebel S., Zentner L., Lenarz T., Majdani O. (2016): _Sensitivity Analysis on Cochlear Implants with fluid Actuation_. "Dreiländertagung" - Swiss, Austrian and German Societies of Biomedical Engineering, 04.-06.10., Basel, Schweiz.
 
@@ -164,7 +164,7 @@ Lexow G. J., Rau Th. S., Gellrich N.-C., Lenarz Th., Majdani O. (2015):  _Länge
 
 
 
-### Abstracts
+### Posters & Abstracts
 
 Hügl S., Griebel S., Issa M., Wystup C., Zentner L., Lenarz Th., Majdani O., Rau Th. S. (2015): _Simulation used for Feasibility Study of fluid-actuated Cochlear Implant Electrodes_. In: Proc of. 49th Annual Conference of the German Society for Biomedical Engineering (DGBMT), Lübeck.
 
