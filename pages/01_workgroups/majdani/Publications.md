@@ -49,9 +49,9 @@ Griebel S., Hügl S., Rau Th. S., Majdani O., Zentner L. (2017a): _Nachgiebiger 
 
 Hügl S., Zentner L., Griebel S., Majdani O., Rau Th. S. (2017e): _Analysis of the customized implantation process of a compliant mechanism with fluidic actuation used for cochlear implant electrode carriers_. In Engineering for a Changing World, Vol 59, 11.-15.09. 2017 Ilmenau, ilmedia \[[**URN**](http://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2017iwk-111:0)\].
 
-Rau Th. S., Hügl S., Lenarz Th., Majdani O. (2017d): _Toward steerable electrodes : an overview of concepts and current research_. In Current Directions in Biomedical Engineering  3(2):765-769.  \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0161)\].
+Rau Th. S., Hügl S., Lenarz Th., Majdani O. (2017d): _Toward steerable electrodes : an overview of concepts and current research_. In Current Directions in Biomedical Engineering  3(2):765-769.  \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0161); [**PDF**](https://www.degruyter.com/downloadpdf/j/cdbme.2017.3.issue-2/cdbme-2017-0161/cdbme-2017-0161.pdf)\].
 
-van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017c): _Investigation of intracochlear dual actuator stimulation in a scaled test rig_. In Current Directions in Biomedical Engineering  3(2):119-122. \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0024)\].
+van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017c): _Investigation of intracochlear dual actuator stimulation in a scaled test rig_. In Current Directions in Biomedical Engineering  3(2):119-122. \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0024); [**PDF**](https://www.degruyter.com/downloadpdf/j/cdbme.2017.3.issue-2/cdbme-2017-0024/cdbme-2017-0024.pdf)\].
 
 Rau Th. S., Hügl S., Salcher R., Lenarz Th., Majdani O. (2017c): _Hydraulisch automatisierte Elektrodeninsertion_. In: Tagungsband der 16. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 05.-07.10.2017, Hannover.
 
