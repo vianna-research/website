@@ -12,6 +12,8 @@ This includes research activities dedicated to the design and development of **s
 
 The second  research focus lies on the **improvement of the electrode array** of a cochlear implant (CI) including the insertion technique. In this field, our research group covers the complete design and development process. Starting with imaging and three-dimensional (3D) modelling of the human inner ear, the methods used include: development of improved electrode designs using computer aided design (CAD) software and finite element analysis (FEA); the simulation and optimization of the insertion process; experimental characterization of the electrode arrays by manual and/or automated insertion in artificial cochlear models and/or temporal bone specimens. Of special interest is the **functionalization of the electrode array** by integrating of actuators (e.g. using shape memory materials, fluid mechanical actuators, and tubular manipulators) for an individual adaption of the shape of the implant to the helical shaped inner ear in order to improve hearing preservation.  
 
+A more detailed list of our research activities can be found [here](majdani/methods.html).
+
 - - - 
 ![Figure](majdani/Banner_L1040200Trifix.jpg)
 - - - 
