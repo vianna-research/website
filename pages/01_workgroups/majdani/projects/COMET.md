@@ -2,6 +2,6 @@
 
 - - - 
 
-# Cochlear Measurement Tool
+# A COchlear MEasurement Tool
 
 Coming soon...
