@@ -11,7 +11,7 @@ The developed system allows the patient specific individualization of a drill gu
 
 
 - - - 
-![Figure](../majdani/Banner_GluingJigV01.png)
+![Figure](../Banner_GluingJigV01.png)
 - - - 
 
 ### Contact:
