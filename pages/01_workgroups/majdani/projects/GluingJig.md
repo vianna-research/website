@@ -10,7 +10,6 @@ Minimally-invasive cochlear implantation surgery requires appropiate surgical to
 The developed system allows the patient specific individualization of a drill guide under sterile conditions. It does not require expensive equipment or technical personal. The whole process can be performed by OR staff in few minutes. These are advantages compared to previously developed systems and might facilitate its integration into clinical routine.
 
 ![Pictures showing an early prototype of the GluingJig](../Banner_GluingJigV01.png "An early prototype")
-- - - 
 
 ### Contact:
 If your are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
