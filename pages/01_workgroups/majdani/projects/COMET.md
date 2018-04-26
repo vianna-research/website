@@ -4,7 +4,7 @@
 
 # A COchlear MEasurement Tool
 
-Coming soon...
+![German Flyer](Flyer_dt_v2_1000px.jpg)
 
 
 ### Contact:
