@@ -61,7 +61,7 @@ title:Staff
 
 | Alumni                                                                                            |
 |:------------------------------|:-------------------------------------------|--------------------------------------:|
-|![Portrait](staff/alexander.jpg)| M. Sc. Alexander Becker 					 | jetzt [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/mitarbeiter.html)|
+|![Portrait](staff/alexbecker.jpg)| M. Sc. Alexander Becker 				| jetzt [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/11.html?&no_cache=1&tx_tkinstpersonen_pi1%5Balias%5D=Becker1)|
 |![Portrait](staff/soon.png) 	  | Diana Kreul								| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/katharina.jpg) | M. Sc. Katharina Rülander				 | 											   |
 |![Portrait](staff/henrik.png)	| M. Sc. Henrik Schädlich					 | jetzt Physik- & Mathematiklehrer			   |
