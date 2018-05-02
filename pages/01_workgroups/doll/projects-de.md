@@ -2,12 +2,9 @@ status: draft
 Publikationen zu diesen Projekten finden Sie [hier](publications-de.html)
 
 ##Laufende Projekte
-
-* **Feedback loop and fluid flow electrode - FLOWTRODE** (BMBF: KMU Innovativ Medizintechnik)   
-Kontakt: [Prof. Doll](staff.html)
-
-* **Flexible Individualized Active Medical Implants – 3D Printing of Silicone Rubber Connectors and Electrodes - FINAMI** (BMWi: ZIM KF-VP)   
-Kontakt: [Prof. Doll](staff.html)
+* **Translationale Fertigungsplattform Medizininnovation - TransPlaMed** (Innovation durch Hochschulen und Forschungseinrichtungen MWK)
+In Zusammenarbeit mit dem Institut für Mikrotechnik (IMT, Technische Universität Braunschweig), der Hochschule für Angewandte Wissenschaft und Kunst (HAWK) dem Fraunhofer Institut für Schicht- und Oberflächentechnik (IST) und dem Fraunhofer Institut für Toxikologie und Experimentelle Medizin (ITEM) soll im Rahmen des Förderprojektes „TransPlaMed“ (NBank) eine Fertigungsplattform für Medizininnovationen erarbeitet werden.
+Medizintechnische Innovationen von klein- und mittelständischen Unternehmen (KMU) scheitern häufig an der Umsetzung von Spezialprozessen, die für die Herstellung des Medizinproduktes nötig sind, und so den Transfer von der Grundlagenforschung in den Markt nicht schaffen. Hingegen sind teure Maschinen in den Universitäten nicht ausreichend ausgelastet. Deswegen soll durch die Plattform „TransPlaMed“ der Technologie- und Wissenstransfer von Spezialprozessen in der Medizintechnik optimiert werden. Das Vorhaben vereint Wirtschaftspädagogik, Wirtschafts- und Technikwissenschaften im Spannungsfeld von Forschungsfreiheit und Ressourceneffizienz mit dem Ziel des Senkens von Innovationshürden in der Medizintechnik.
 
 * **Carbon Nanotube Neurite Interface for CI and ECoG** (Hearing4All)
 Kontakt: [Prof. Doll](staff.html)
@@ -21,6 +18,12 @@ Kontakt: [Prof. Doll](staff.html)
 Das Hauptziel des Symposiums war die Erstellung einer Roadmap auf präkompetitiver Basis, welche notwendige Experimente, Meilensteine und Herausforderungen beschreibt. Außerdem sollte das Symposium die Initiierung neuer Kooperationen befördern und Möglichkeiten für gemeinsame Förderprogramme aufzeigen. Um diese anspruchsvollen Ziele zu erreichen, wurden ausgesuchte Experten aus vielfältigen Wissenschaftsbereichen (Anatomie, Signal Verarbeitung, Modellierung, Chirurgie, Systemintegration, Technologie, etc.) eingeladen. Neben Vertretern aus dem akademischen Bereich nahmen auch Repräsentanten aus der Industrie teil. Außerdem boten wir jungen Wissenschaftlern die Möglichkeit mit ihrem frischen Geist neuen, inspirierenden Input zu geben und sich zu vernetzen. 
 
 ##Projects completed
+
+* **Feedback loop and fluid flow electrode - FLOWTRODE** (BMBF: KMU Innovativ Medizintechnik)   
+Kontakt: [Prof. Doll](staff.html)
+
+* **Flexible Individualized Active Medical Implants – 3D Printing of Silicone Rubber Connectors and Electrodes - FINAMI** (BMWi: ZIM KF-VP)   
+Kontakt: [Prof. Doll](staff.html)
 
 * **Multizentren-Produktionslogistik und Qualitätssicherung für Neurotechnologie** (Innovationsförderprogramm Forschung und Entwicklung, N-Bank) Es werden adaptierte, hochflexible ECoG Elektrodensysteme bis zu Prototypen entwickelt, die vom Endanwender getestet werden können. Die Elektrodenentwicklung findet auf Basis einer innovativen, ressourcenschonenden Multizentren-Fertigungslogistik statt.   
 Kontakt: [Prof. Doll](staff.html)

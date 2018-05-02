@@ -14,7 +14,6 @@ title:Staff
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
 |![Portrait](staff/Omid.jpg)    | Prof. Dr. Omid Majdani                     | Majdani.Omid@mh-hannover.de        |
 |![Portrait](staff/Silke.jpg)   | M. Sc. Silke Hügl							 | Huegl.Silke@mh-hannover.de         |
-|![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow                     | Lexow.Jakob@mh-hannover.de         |
 |![Portrait](staff/mathias_small.jpg)	| Dipl.-Phys. Mathias Müller		 | Mueller.Mathias@mh-hannover.de	  |
 |![Portrait](staff/nuha.jpg) 	| M. Sc. Nuha Suzaly			   			 | Suzaly.Nuha@mh-hannover.de          |
 
@@ -49,6 +48,7 @@ title:Staff
 
 | Former Staff																							|
 |:------------------------------|:------------------------------|--------------------------------------:|
+|![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow (11/2011 - 03/2018) |          |
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | jetzt [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
 |![Portrait](staff/Samuel.jpg)  | Dipl.-Inform. Samuel John                  | jetzt [HörSys GmbH](http://www.hoersys.de)  |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge					 | jetzt [HörSys GmbH](http://www.hoersys.de)  |
