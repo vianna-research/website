@@ -12,6 +12,15 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018)
 
 ### Posters & Abstracts
 
+|  | 89. Jahresversammlung der Deutschen Gesellschaft für Hals-Nasen-Ohren-Heilkunde, Kopf- und Hals-Chirurgie e.V.; 9.-12. Mai 2018, Lübeck, Germany | 
+|:-|:------| 
+| | Kluge M., Rau Th., Lexow J., Lenarz Th., Majdani O. (2018): _Untersuchung der Genauigkeit des RoboJig für die minimal-invasive Cochlea-Implantat-Chirurgie_. |
+| | Majdani O., Kluge M., Kreul D., Lexow J., Lenarz Th., Rau Th. (2018): _Klinische Beurteilung der Positioniergenauigkeit des RoboJig-Systems durch Vergleich mit anatomischen und chirurgischen Randbedingungen_. |
+| | Müller M., Salcher R., Prenzler N., Lenarz Th., Maier H. (2018): _Der Hannover Coupler 2.0: Optimierung der Ankopplung zwischen Floating Mass Transducer und dem runden Fenster_. |
+| | Rau Th., Hügl S., Lenarz Th., Majdani O. (2018): _Über den Vorteil sehr langsamer Insertionsgeschwindigkeit: niedrigere Insertionskräfte bei Cochlea-Implantaten_. | 
+| | Schwieger J., Hügl S., Hamm A., Lenarz Th., Hoffmann A., Rau Th., Scheper V. (2018): _BDNF-produzierende humane mesenchymale Stammzellen in Alginat-Matrix: Neuroprotektion und Stabilität einer Cochlea-Implantat-Beschichtung in vitro_. |
+
+
 |  | ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA. | 
 |:-|:------| 
 | | John S., Kluge M., Erfurt P., Müller S., Lexow J., Kahrs L. A., Rau Th., Ortmaier T., Majdani O., Lenarz Th. (2018a): _Feasibility of a Simple, Safe, and High-Precision Approach to Minimally Invasive Cochlear Implantation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236-237. |
