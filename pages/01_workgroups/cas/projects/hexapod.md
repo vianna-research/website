@@ -12,7 +12,7 @@
 ### Approach considered here
 -  A bone-attached, passive, parallel kinematic device
 
-![Gough-Stewart platform (Hexapod) on the skull](hexapod_v01.png){.img-center}
+![Gough-Stewart platform (Hexapod) on the skull](hexapod_v01.png){.center}
 
 
 ### Project Partners: 
