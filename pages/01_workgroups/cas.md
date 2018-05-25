@@ -1,4 +1,4 @@
-title: Computer-Assisted Surgery (CAS-hno)
+title: CAS Lab - Computer-Assisted Surgery
 
 - - - 
 
