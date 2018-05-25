@@ -4,7 +4,7 @@ title: Comet
 
 # A COchlear MEasurement Tool
 
-![Flyer](flyer_en_v2.jpg){style="display:block; margin-left:auto; margin-right:auto; width:90%"}
+![Flyer](flyer_en_v2.jpg){style="display:block; margin-left:auto; margin-right:auto; width:80%"}
 
 
 ### Contact:
