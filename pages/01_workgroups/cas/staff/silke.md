@@ -7,12 +7,12 @@ title: M. Sc. Silke Hügl
 
 |Specialisation	& current Projects|
 |-----------------------------------------|
-|-   Project: [Akva-Med](http://www.vianna.de/01_workgroups/majdani/projects/akvamed.html "Akva-Med")|
+|-   Project: [Akva-Med](http://www.vianna.de/01_workgroups/cas/projects/akvamed.html "Akva-Med")|
 | |
 |-   Development of Cochlear Implant (CI) Electrodes| 
 |-   Finite Element Analysis of CIs|
 |-   Navigated Insertion of Cochlear Implant Electrodes|
-|-   Manual and automated [Microgrinding](http://www.vianna.de/01_workgroups/majdani/methods/microgrinding.html "Microgrinding")|
+|-   Manual and automated [Microgrinding](http://www.vianna.de/01_workgroups/cas/methods/microgrinding.html "Microgrinding")|
 
 
 
