@@ -1,8 +1,8 @@
 title:Gentle-CI
 
-	
+
 ### Aims:
-![FE-Simulation of nitiol equipped cochlear implant](gentleci1.png){style="width:250px; float:right; margin-left:3em"}
+![FE-Simulation of nitiol equipped cochlear implant](gentleci/gentleci1.png){style="width:250px; float:right; margin-left:3em"}
 
 "Laserbasierte Generierung von NiTi-Mikroaktoren durch Laserstrahlsintern für die resthörerhaltende, minimal-traumatische Cochlea-Implantat-Versorgung (GentleCI)"
 	
@@ -11,11 +11,11 @@ title:Gentle-CI
 - embedding the actuator in the electrode carrier
 - characterization and testing of the functionalized implants
 
-![graded Nitinol-actuator](gentleci2.png){style="width:450px"}
+![graded Nitinol-actuator](gentleci/gentleci2.png){style="width:450px"}
 
 
 ### Project Partners: 
-	
+
 Leibniz Universität Hannover, [Institute of Mechatronic Systems](http://www.imes.uni-hannover.de/institut.html?&L=1 "Institute of Mechatronic Systems"),
 	
 [Laser Zentrum Hannover e.V.](http://www.lzh.de/en "LZH"),

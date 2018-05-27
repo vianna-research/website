@@ -1,4 +1,4 @@
-﻿title: Mini-Hexapod
+title: Mini-Hexapod
 
 
 ### Minimally invasive cochlear implant surgery
@@ -12,11 +12,11 @@
 ### Approach considered here
 -  A bone-attached, passive, parallel kinematic device
 
-![Gough-Stewart platform (Hexapod) on the skull](../hexapod_v01.png){.center}
+![Gough-Stewart platform (Hexapod) on the skull](hexapod/hexapod_v01.png){.center}
 
 
 ### Project Partners: 
-	
+
 Leibniz Universität Hannover, [Institute of Mechatronic Systems](https://www.imes.uni-hannover.de/104.html?&L=1)
 
 

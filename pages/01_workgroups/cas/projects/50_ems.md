@@ -1,7 +1,7 @@
 title: EMS
 
 
-![EMS](ems.png){style="width:600px"}
+![EMS](50_ems/ems.png){style="width:600px"}
 
 
 ### Aims:
