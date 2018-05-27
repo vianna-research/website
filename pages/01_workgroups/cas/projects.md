@@ -1,7 +1,7 @@
 title:Projects
 
 ---
-## [Hearing4all - EMS](http://www.vianna.de/01_workgroups/cas/projects/ems.html)
+## [Hearing4all - EMS](projects/50_ems.html)
 
 ### Electromechanical Stimulation of the Cochlea
 
@@ -12,7 +12,7 @@ title:Projects
 **Contact: Dipl.-Phys. Mathias Müller | Mueller.Mathias@mh-hannover.de**
 
 ---
-## [Mini-Hexapod](http://www.vianna.de/01_workgroups/cas/projects/hexapod.html)
+## [Mini-Hexapod](projects/99_finished/hexapod.html)
 
 ### Minimally invasive cochlear implant surgery
 
@@ -22,7 +22,7 @@ title:Projects
 **Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/cas/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
 
 ---
-## [Akva-Med](projects/akvamed.html)
+## [Akva-Med](projects/05_akvamed.html)
 
 ### Electrode Development: fluidically actuated implant
 
@@ -49,7 +49,7 @@ Overview of the RoboJig surgery vs. conventional approach.
 **Contact: Nuha Suzaly | Suzaly.Nuha@mh-hannover.de**
 
 ---
-## [GentleCI](http://www.vianna.de/01_workgroups/cas/projects/gentleci.html)
+## [GentleCI](projects/99_finished/gentleci.html)
 
 ### Electrode Development: nickel-titanium (nitinol) actuators for cochlear implants
 
