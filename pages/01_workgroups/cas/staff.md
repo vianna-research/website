@@ -50,7 +50,7 @@ title:Staff
 |:------------------------------|:------------------------------|--------------------------------------:|
 |![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow (11/2011 - 03/2018) |          |
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | jetzt [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
-|![Portrait](staff/Samuel.jpg)  | Dipl.-Inform. Samuel John                  | jetzt [OtoJig GmbH](http://www.otojig.com/)  |
+|![Portrait](staff/soon.png)  | Dipl.-Inform. Samuel John                  | jetzt [OtoJig GmbH](http://www.otojig.com/)  |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge (11/2014 - 07/2017)	| jetzt [OtoJig GmbH](http://www.otojig.com/)  |
 |![Portrait](staff/daniel.png)  | Dr.-Ing. Daniel Schurzig  (04/2014 - 08/2015) | jetzt [MED-EL Deutschland](www.medel.com) |
 |![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach  (12/2012 - 06/2014) |                           				|
