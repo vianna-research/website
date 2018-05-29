@@ -64,7 +64,13 @@ Rau Th. S., Hügl S., Lenarz Th., Majdani O. (2017d): _Toward steerable electrod
 
 van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017c): _Investigation of intracochlear dual actuator stimulation in a scaled test rig_. In Current Directions in Biomedical Engineering  3(2):119-122. \[[**DOI**](https://doi.org/10.1515/cdbme-2017-0024); [**PDF**](https://www.degruyter.com/downloadpdf/j/cdbme.2017.3.issue-2/cdbme-2017-0024/cdbme-2017-0024.pdf)\].
 
-Rau Th. S., Hügl S., Salcher R., Lenarz Th., Majdani O. (2017c): _Hydraulisch automatisierte Elektrodeninsertion_. In: Tagungsband der 16. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 05.-07.10.2017, Hannover.
+Majdani O., Kluge M., Lexow G., John S., Kahrs L. A., Ortmaier T., Müller S., Gaa J., Nülle K., Lenarz Th., Rau Th. S. (2017c): _Minimally invasive, mini-stereotactic approach for Cochlear Implant Surgery (CI): RoboJig_. In: Proc. of 16th Annual Meeting of the German Society for Computer and Robot Assisted Surgery (CURAC), 05.-07.10.2017, Hannover. Pages 37-38. ISBN 978-3-95900-158-8.
+
+John S., Schurzig D., Alcacer-Labrador D., Timm M. E., Rau Th. S., Lenarz Th. (2017): _Combining Surgical Expertise and Statistical Results for the Clinical Evaluation of the Cochlear Size and Shape_. In: Proc. of 16th Annual Meeting of the German Society for Computer and Robot Assisted Surgery (CURAC), 05.-07.10.2017, Hannover. Pages 101-105. ISBN 978-3-95900-158-8.
+
+Rau Th. S., Hügl S., Salcher R., Lenarz Th., Majdani O. (2017c): _Hydraulisch automatisierte Elektrodeninsertion_. In: Proc. of 16th Annual Meeting of the German Society for Computer and Robot Assisted Surgery (CURAC), 05.-07.10.2017, Hannover. Pages 131-135. ISBN 978-3-95900-158-8.
+
+Kluge M., Lexow G. J., Lenarz Th., Majdani O., Rau Th. S. (2017b): _Untersuchung zur Genauigkeit des intraoperativen Fertigungssystems für den RoboJig_. In: Proc. of 16th Annual Meeting of the German Society for Computer and Robot Assisted Surgery (CURAC), 05.-07.10.2017, Hannover. Pages 262-265. ISBN 978-3-95900-158-8.
 
 Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017a): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling. 101352N. \[[**DOI**](http://dx.doi.org/10.1117/12.2254381)\].
 
@@ -83,7 +89,7 @@ Hügl S., Zentner L., Griebel S., Majdani O., Lenarz Th., Rau Th. S. (2017b): _I
 
 Kluge M., Rau Th. S., Lexow J., Kahrs L. A., Kobler J.-P., Ortmaier T., Lenarz Th., Majdani O. (2017a): _Eine iterative Entwicklung eines Mini-Stereotaxiesystems für die laterale Schädelbasis_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno315.shtml), [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001699.pdf)\].
 
-Majdani O., Kluge M., Lexow G. J., John S., Kahrs L. A., Ortmaier T., Müller S., Lenarz Th., Rau, Th. S. (2017a): _Minimally invasive, mini-stereotactic approach for Cochlear Implant Surgery: RoboJIG_. In: Tagungsband Festival della Scienza Medica, Bologna, 20-23 April 2017. 
+Majdani O., Kluge M., Lexow G. J., John S., Kahrs L. A., Ortmaier T., Müller S., Lenarz Th., Rau, Th. S. (2017b): _Minimally invasive, mini-stereotactic approach for Cochlear Implant Surgery: RoboJIG_. In: Tagungsband Festival della Scienza Medica, Bologna, 20-23 April 2017. 
 
 Majdani O., Lexow J., Lenarz Th., Rau Th. S. (2017a): _COMET: Anwenderfreundliche Vermessung der Cochlea-Länge auf präoperativen Bilddaten_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[**DOI**](http://www.egms.de/static/en/meetings/hno2017/17hno343.shtml); [**Poster**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001689.pdf)\].
 
