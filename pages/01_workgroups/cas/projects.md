@@ -1,25 +1,5 @@
 title:Projects
 
----
-## [Hearing4all - EMS](projects/50_ems.html)
-
-### Electromechanical Stimulation of the Cochlea
-
-
-![EMS](projects/50_ems/ems.png){style="width:450px"}
-
-
-**Contact: Dipl.-Phys. Mathias Müller | Mueller.Mathias@mh-hannover.de**
-
----
-## [Mini-Hexapod](projects/99_finished/hexapod.html)
-
-### Minimally invasive cochlear implant surgery
-
-![Gough-Stewart platform (Hexapod) on the skull](projects/99_finished/hexapod/hexapod_v02.png)
-
-
-**Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/cas/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
 
 ---
 ## [Akva-Med](projects/05_akvamed.html)
@@ -41,12 +21,40 @@ title:Projects
 
 Overview of the RoboJig surgery vs. conventional approach.
 
+
 ---
 ## [MemoryCI](projects/40_memoryci.html)
 
 ### Electrode Development: Shape-Memory Alloys (SMA) for functionalisation of medical implants
 
 **Contact: Nuha Suzaly | Suzaly.Nuha@mh-hannover.de**
+
+
+---
+## [Hearing4all - EMS](projects/50_ems.html)
+
+### Electromechanical Stimulation of the Cochlea
+
+
+![EMS](projects/50_ems/ems.png){style="width:450px"}
+
+
+**Contact: Dipl.-Phys. Mathias Müller | Mueller.Mathias@mh-hannover.de**
+
+
+--- [Finished Projects](projects/99_finished.html)
+
+
+---
+## [Mini-Hexapod](projects/99_finished/hexapod.html)
+
+### Minimally invasive cochlear implant surgery
+
+![Gough-Stewart platform (Hexapod) on the skull](projects/99_finished/hexapod/hexapod_v02.png)
+
+
+**Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/cas/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
+
 
 ---
 ## [GentleCI](projects/99_finished/gentleci.html)

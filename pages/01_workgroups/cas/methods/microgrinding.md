@@ -2,6 +2,7 @@ title:Microgrinding
 ---
 ## manual Microgrinding
 Method for Imaging of histological/morphological samples:
+
 - embedded of the samples in epoxy
 - grinding in slices of 100µm (manual process)
 - post-processing for registration and stitching of an high resolution detail image
