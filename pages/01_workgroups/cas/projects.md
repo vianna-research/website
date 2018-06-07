@@ -45,12 +45,9 @@ Overview of the RoboJig surgery vs. conventional approach.
 --- 
 ## [Finished Projects](projects/99_finished.html)
 
-
-### [Mini-Hexapod](projects/99_finished/hexapod.html)
-
-#### Minimally invasive cochlear implant surgery
-
+- [Mini-Hexapod](projects/99_finished/hexapod.html)
+Minimally invasive cochlear implant surgery
 
 - [GentleCI](projects/99_finished/gentleci.html)
-(Electrode Development: nickel-titanium (nitinol) actuators for cochlear implants)
+Electrode Development: laser-sintering of nickel-titanium (nitinol) actuators for cochlear implants
 
