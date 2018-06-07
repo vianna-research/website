@@ -56,7 +56,7 @@ title: Research Areas & Methods
 
 - digital volume tomography (DVT)
 - micro-CT imaging
-- histological imaging ("3D histology") ([Microgrinding](http://www.vianna.de/01_workgroups/majdani/methods/microgrinding.html "Microgrinding"))
+- histological imaging ("3D histology" called Microgrinding)
 - Software Development (using Matlab, C++, VTK, ITK, Qt, Mathematica, LabView)
 - Finite-Element-Analysis (using ANSYS)
 - force measurement
