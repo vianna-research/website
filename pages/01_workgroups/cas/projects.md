@@ -8,14 +8,12 @@ title:Projects
 
 ![FE-Simulation of fluidically actuated implants](projects/05_akvamed/akvamed3.png){style="width:300px"}
 
-
-**Contact: [Silke Hügl](staff/silke.html) | Huegl.Silke@mh-hannover.de**
+**Contact: Silke Hügl | Huegl.Silke@mh-hannover.de**
 
 ---
 ## RoboJig
 
 ###Minimally-invasive CI-surgery
-
 
 ![Overview of RoboJig System](projects/10_robojig/robojig-overview-de.png)
 

@@ -8,7 +8,7 @@ Title: Finished Projects
 
 ![Gough-Stewart platform (Hexapod) on the skull](projects/99_finished/hexapod/hexapod_v02.png)
 
-**Contact: [Dr.-Ing. Thomas Rau](http://www.vianna.de/01_workgroups/cas/staff.html) | Rau.Thomas@mh-hannover.de**
+**Contact: Dr.-Ing. Thomas Rau | Rau.Thomas@mh-hannover.de**
 
 
 ---
@@ -18,4 +18,4 @@ Title: Finished Projects
 
 ![FE-Simulation of electrode carrier equipped with actuator from shape-memory-alloy](projects/99_finished/gentleci/gentleci1.png){style="width:300px"}
 
-**Contact: [Silke Hügl](staff/silke.html) | Huegl.Silke@mh-hannover.de**
+**Contact: Silke Hügl | Huegl.Silke@mh-hannover.de**
