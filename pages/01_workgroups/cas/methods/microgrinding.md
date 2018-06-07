@@ -1,3 +1,4 @@
+status:draft
 title:Microgrinding
 ---
 ## manual Microgrinding
