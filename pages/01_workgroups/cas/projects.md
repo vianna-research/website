@@ -51,7 +51,6 @@ Overview of the RoboJig surgery vs. conventional approach.
 #### Minimally invasive cochlear implant surgery
 
 
-### [GentleCI](projects/99_finished/gentleci.html)
-
-#### Electrode Development: nickel-titanium (nitinol) actuators for cochlear implants
+- [GentleCI](projects/99_finished/gentleci.html)
+(Electrode Development: nickel-titanium (nitinol) actuators for cochlear implants)
 
