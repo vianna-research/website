@@ -20,5 +20,5 @@ title: Mini-Hexapod
 Leibniz Universität Hannover, [Institute of Mechatronic Systems](https://www.imes.uni-hannover.de/104.html?&L=1)
 
 
-**Contact: [Marcel Kluge](http://www.vianna.de/01_workgroups/majdani/staff/marcel.html) | Kluge.Marcel@mh-hannover.de**
+**Contact: Thomas Rau | Rau.Thomas@mh-hannover.de**
 
