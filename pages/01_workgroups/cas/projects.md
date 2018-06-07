@@ -10,6 +10,7 @@ title:Projects
 
 **Contact: Silke Hügl | Huegl.Silke@mh-hannover.de**
 
+
 ---
 ## RoboJig
 
@@ -18,6 +19,24 @@ title:Projects
 ![Overview of RoboJig System](projects/10_robojig/robojig-overview-de.png)
 
 Overview of the RoboJig surgery vs. conventional approach.
+
+**Contact: Dr.-Ing. Thomas Rau | Rau.Thomas@mh-hannover.de**
+
+
+---
+## [GluingJig](projects/20_gluingjig.html)
+
+###Individually mouldable surgical targeting system
+
+**Contact: Dr.-Ing. Thomas Rau | Rau.Thomas@mh-hannover.de**
+
+
+---
+## [Comet](projects/30_comet.html)
+
+###A Cochlear Measurement Tool
+
+**Contact: Dr.-Ing. Thomas Rau | Rau.Thomas@mh-hannover.de**
 
 
 ---
@@ -33,9 +52,7 @@ Overview of the RoboJig surgery vs. conventional approach.
 
 ### Electromechanical Stimulation of the Cochlea
 
-
 ![EMS](projects/50_ems/ems.png){style="width:450px"}
-
 
 **Contact: Dipl.-Phys. Mathias Müller | Mueller.Mathias@mh-hannover.de**
 
@@ -44,7 +61,7 @@ Overview of the RoboJig surgery vs. conventional approach.
 ## [Finished Projects](projects/99_finished.html)
 
 - [Mini-Hexapod](projects/99_finished/hexapod.html)
-Minimally invasive cochlear implant surgery
+Surgical Approach: Minimally invasive Cochlear Implant Surgery
 
 - [GentleCI](projects/99_finished/gentleci.html)
 Electrode Development: laser-sintering of nickel-titanium (nitinol) actuators for cochlear implants
