@@ -23,12 +23,15 @@ The institute is a funding part of the DFG Cluster of Excellence "Hearing4All" w
 
 The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industrial partners (Cochlear Ltd., MED-EL, Advanced Bionics, Blackrock).
 
+<video><source src="https://wissen.hannover.de/xrowvideo/download/717292/18020920/4/6189f0465f46d31ce724dae7967c1d7d.720p.conv.mp4" type="video/mp4"></video> 
 
+Movie about the Institute (in German)
 
 <br>
 
 ## News: Press releases:
 
+- Prof. Andrej Kral elected member of the German National Academy of Science (Leopoldina)
 
 - [Gut gebrüllt Kätzchen – Pressemitteilung TiHo](http://www.tiho-hannover.de/aktuelles-presse/pressemitteilungen/pressemitteilungen-2016/pressemitteilungen-2016/article/gut-gebruellt-kaetzchen/)
 
