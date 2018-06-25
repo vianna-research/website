@@ -11,7 +11,7 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018)
 
 
 ### Posters & Abstracts
-| | CI 2018; 15th international conference on Cochlear Implants and other implantable auditory Technology, June 27-30, Antwerp, Belgium|
+| | CI 2018 - 15th international conference on Cochlear Implants and other implantable auditory Technology, June 27-30, Antwerp, Belgium|
 |:-|:------| 
 | | Majdani O. (2018): _Technical accuracy of the stereotactic minimally invasive “RoboJig” system for CI surgery _.|
 | | Salcher R. (2018): _Electrode insertion force measurements in porcine cochlea specimens_.|
