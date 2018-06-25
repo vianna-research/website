@@ -11,6 +11,18 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018)
 
 
 ### Posters & Abstracts
+| | CI 2018; 15th international conference on Cochlear Implants and other implantable auditory Technology, June 27-30, Antwerp, Belgium|
+|:-|:------| 
+| | Majdani O. (2018): _Technical accuracy of the stereotactic minimally invasive “RoboJig” system for CI surgery _.|
+| | Salcher R. (2018): _Electrode insertion force measurements in porcine cochlea specimens_.|
+| | Timm ME. (2018): _A data driven concept to choose the optimal CI electrode array_.|
+
+
+|  | CARS 2018 - computer assisted radiology and surgery; 32nd Congress, June 20-23, Berlin, Germany|
+|:-|:------| 
+| | Rau Th., Uhlenbusch L., Witte S., Lexow J., Kahrs LA, Lenarz Th., Ortmaier T., Majdani O. (2018): _Determination of error sources and values for an individually mouldable 
+surgical targeting system_.| 
+
 
 |  | 89. Jahresversammlung der Deutschen Gesellschaft für Hals-Nasen-Ohren-Heilkunde, Kopf- und Hals-Chirurgie e.V.; 9.-12. Mai 2018, Lübeck, Germany | 
 |:-|:------| 
