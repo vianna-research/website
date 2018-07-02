@@ -22,3 +22,5 @@ Lennart Ryll, FWJ | ryll.lennart(at)mh-hannover.de
 
 
 -----------------------------
+
+![Picture Zellkulturteam](Zellkulturteam.jpg)  
