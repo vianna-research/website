@@ -1,6 +1,6 @@
 title: Dr. med. vet. Verena Scheper
 
-![Picture Verena Scheper](Verena Scheper.jpg)  
+![Picture Verena Scheper](Verena.jpg)  
  
 **Head of Research Group**
 
