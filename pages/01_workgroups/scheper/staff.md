@@ -23,4 +23,6 @@ Lennart Ryll, FWJ | ryll.lennart(at)mh-hannover.de
 
 -----------------------------
 
+We close work together with the working groups of Prof. A. Warnecke and Dr. Paasche. In VIANNA in NIFE we optimise our research by combining our lab spaces and other recources. 
+**The team of all three working groups** 
 ![Picture Zellkulturteam](Zellkulturteam.jpg)  
