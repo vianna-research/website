@@ -2,7 +2,7 @@ title: Dr. med. vet. Verena Scheper
 
 ![Picture Verena Scheper](Verena.jpg)  
  
-**Head of Research Group**
+**Head of Research Group *Pharmacology of the Inner Ear***
 
 **Contact:**
 
