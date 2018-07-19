@@ -11,14 +11,14 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018)
 
 
 ### Posters & Abstracts
-| | CI 2018 - 15th international conference on Cochlear Implants and other implantable auditory Technology, June 27-30, Antwerp, Belgium|
+| | CI 2018 - 15th International Conference on Cochlear Implants and Other Implantable Auditory Technology, June 27-30, Antwerp, Belgium|
 |:-|:------| 
 | | Majdani O., Kluge M., Kreul D., Lexow J., Lenarz T., Rau Th. (2018): _Technical accuracy of the stereotactic minimally invasive “RoboJig” system for CI surgery _.|
 | | Salcher R., Nullmeier M., Lenarz T., Pawsey N., Cramer J., Majdani O., Rau Th. (2018): _Electrode insertion force measurements in porcine cochlea specimens_.|
 | | Timm ME., Weller T., Alcacer-Labrador D., Büchner A., Lenarz T., John S. (2018): _A data driven concept to choose the optimal CI electrode array_.|
 
 
-|  | CARS 2018 - computer assisted radiology and surgery; 32nd Congress, June 20-23, Berlin, Germany|
+|  | CARS 2018 - 32nd International Congress and Exhibition on Computer Assisted Radiology and Surgery, June 20-23, Berlin, Germany|
 |:-|:------| 
 | | Rau Th., Uhlenbusch L., Witte S., Lexow J., Kahrs LA, Lenarz Th., Ortmaier T., Majdani O. (2018): _Determination of error sources and values for an individually mouldable surgical targeting system_.| 
 
@@ -32,7 +32,7 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018)
 | | Schwieger J., Hügl S., Hamm A., Lenarz Th., Hoffmann A., Rau Th., Scheper V. (2018): _BDNF-produzierende humane mesenchymale Stammzellen in Alginat-Matrix: Neuroprotektion und Stabilität einer Cochlea-Implantat-Beschichtung in vitro_. |
 
 
-|  | ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA. | 
+|  | ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA| 
 |:-|:------| 
 | | John S., Kluge M., Erfurt P., Müller S., Lexow J., Kahrs L. A., Rau Th., Ortmaier T., Majdani O., Lenarz Th. (2018a): _Feasibility of a Simple, Safe, and High-Precision Approach to Minimally Invasive Cochlear Implantation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236-237. |
 |  | Salcher R., Nullmeier M., Lenarz Th., Pawsey N., Waldmann B., Majdani O., Rau Th. (2018a): _Electrode insertion force measurements in sheep temporal bones_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236. |
