@@ -20,7 +20,7 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018a
 
 |  | CARS 2018 - 32nd International Congress and Exhibition on Computer Assisted Radiology and Surgery, June 20-23, Berlin, Germany|
 |:-|:------| 
-| | Rau Th., Uhlenbusch L., Witte S., Lexow J., Kahrs LA, Lenarz Th., Ortmaier T., Majdani O. (2018b): _Determination of error sources and values for an individually mouldable surgical targeting system_.| 
+| \[[**PDF**](https://link.springer.com/content/pdf/10.1007%2Fs11548-018-1766-y.pdf)\] | Rau Th., Uhlenbusch L., Witte S., Lexow J., Kahrs LA, Lenarz Th., Ortmaier T., Majdani O. (2018b): _Determination of error sources and values for an individually mouldable surgical targeting system_. \[[**DOI**](https://link.springer.com/article/10.1007/s11548-018-1766-y)\]| 
 
 
 |  | 89th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 9-12, Lübeck, Germany| 
