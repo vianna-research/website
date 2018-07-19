@@ -27,9 +27,9 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018)
 |:-|:------| 
 | \[[**PDF**](https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0038-1639860.pdf)\] | Kluge M., Rau Th., Lexow J., Lenarz Th., Majdani O. (2018): _Evaluation of the positional accuracy of the RoboJig for minimally invasive cochlear implant surgery_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1639860)\]|
 | | Majdani O., Kluge M., Kreul D., Lexow J., Lenarz Th., Rau Th. (2018): _Clinical assessment of the positioning accuracy of the RoboJig system by comparison with anatomical and surgical constraints_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1639868)\] |
-| | Müller M., Salcher R., Prenzler N., Lenarz Th., Maier H. (2018): _Der Hannover Coupler 2.0: Optimierung der Ankopplung zwischen Floating Mass Transducer und dem runden Fenster_. |
+| | Müller M., Salcher R., Prenzler N., Lenarz Th., Maier H. (2018): _The Hannover Coupler 2.0: Optimization of Coupling between the Floating Mass Transducer and the Round Window_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1640493)\]|
 | \[[**PDF**](https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0038-1640541.pdf)\] | Rau Th., Hügl S., Lenarz Th., Majdani O. (2018): _On the benefit of ultra-slow insertion speed: reduced insertion forces in cochlear implantation surgery_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1640541)\]| 
-| | Schwieger J., Hügl S., Hamm A., Lenarz Th., Hoffmann A., Rau Th., Scheper V. (2018): _BDNF-produzierende humane mesenchymale Stammzellen in Alginat-Matrix: Neuroprotektion und Stabilität einer Cochlea-Implantat-Beschichtung in vitro_. |
+| \[[**PDF**]()\] | Schwieger J., Hügl S., Hamm A., Lenarz Th., Hoffmann A., Rau Th., Scheper V. (2018): _BDNF-producing human mesenchymal stem cells in an alginate-matrix: neuroprotection and cochlear implant coating stability in vitro_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1641059)\] |
 
 
 |  | ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA| 
