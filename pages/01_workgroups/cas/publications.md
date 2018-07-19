@@ -23,7 +23,7 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018)
 | | Rau Th., Uhlenbusch L., Witte S., Lexow J., Kahrs LA, Lenarz Th., Ortmaier T., Majdani O. (2018): _Determination of error sources and values for an individually mouldable surgical targeting system_.| 
 
 
-|  | 89. Jahresversammlung der Deutschen Gesellschaft für Hals-Nasen-Ohren-Heilkunde, Kopf- und Hals-Chirurgie e.V.; 9.-12. Mai 2018, Lübeck, Germany | 
+|  | 89th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 9-12, Lübeck, Germany| 
 |:-|:------| 
 | | Kluge M., Rau Th., Lexow J., Lenarz Th., Majdani O. (2018): _Untersuchung der Genauigkeit des RoboJig für die minimal-invasive Cochlea-Implantat-Chirurgie_. |
 | | Majdani O., Kluge M., Kreul D., Lexow J., Lenarz Th., Rau Th. (2018): _Klinische Beurteilung der Positioniergenauigkeit des RoboJig-Systems durch Vergleich mit anatomischen und chirurgischen Randbedingungen_. |
@@ -165,58 +165,4 @@ Mirsalehi M., Rau Th. S., Hügl S., Mohebbi S., Lenarz T., Majdani O. (2016) _Ev
 Majdani O., Mohebbi S., Andrade J., Warnecke A., Rau Th. S., Lenarz Th., Kahrs L., Tinne N., Antonopoulos G., Meyer H., Ripken T. (2016): _Scanning Laser Optical Tomography (SLOT) of the Decalcified Cochlea: An Imaging Technique for Visualization of the Human Intracochlear Soft Tissue_. In Proc.of Assoc. Res. Otolaryng. MidWinter Meeting (ARO). 19.-24.02., San Diego.
 
 Rau Th. S., Kluge, M., Dhanasingh A., Sieber D., Lenarz T., Majdani O. (2016): _Ein an den minimal-invasiven Zugang zum Innenohr angepasstes Insertionstool und zugehörige CI-Elektrode_. In: Tagungsband zur 87. Jahresversammlung der Dt. Gesell. für Hals-Nasen-Ohren-Heilkunde, Kopf- und Hals-Chirurgie e.V., 04.-07.05., Düsseldorf. doi:10.3205/16hnod079.
-
-- - -
-## 2015
-
-### Journal Papers
-	
-Kobler J.-P., Prielozny L., Lexow G. J., Rau Th. S., Majdani O., Ortmaier T. (2015): _Mechanical characterization of bone anchors used with a bone-attached, parallel robot for skull surgery_. Med Eng Phys. 2015 May;37(5):460-8. (IF: 1.825)
-
-Kobler J.-P., Nuelle K., Lexow G. J., Rau Th. S., Majdani O., Kahrs L. A., Kotlarski J., Ortmaier T. (2015): _Configuration optimization and experimental accuracy evaluation of a bone-attached, parallel robot for skull surgery_. Int J Comput Assist Radiol Surg. 11(3):421-36. doi:10.1007/s11548-015-1300-4. (IF: 1.707)
-
-Rau Th. S., Lenarz Th., Majdani O. (2015): _Individual Optimization of the Insertion of a Preformed Cochlear Implant Electrode Array_. International Journal of Otolaryngology. Vol. 2015, Article ID 724703:1-22. \[[**PDF**](http://downloads.hindawi.com/journals/ijoto/2015/724703.pdf); [**DOI**](http://dx.doi.org/10.1155/2015/724703)\].
-
-
-### Conference Papers
-
-Granna J., Rau Th. S., Majdani O., Burgner-Kahrs J. (2015): _Konzept für die Elektrodeninsertion von Cochlea-Implantaten mit tubulären Manipulatoren_. In: Tagungsband der 14. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 17.-19.09.2015, Bremen. 
-
-Kluge M., Rau Th. S., Lexow G. J., Kobler J.-P., John S., Lenarz Th., Ortmaier T., Kahrs L. A., Majdani O. (2015): _Anatomische Bauraumanalyse für knochenverankerte Mini-Stereotaxiesysteme der lateralen Schädelbasis_. In: Tagungsband der 14. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 17.-19.09.2015, Bremen. Seiten 337-342. 
-
-Lexow G. J., Rau Th. S., Gellrich N.-C., Lenarz Th., Majdani O. (2015):  _Längenmessung in rotierenden, midmodiolären Schichtansichten – Darstellung der Methode_. In: Tagungsband der 14. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 17.-19.09.2015, Bremen. Seiten 335-336.
-
-Rau Th. S., Granna J., Lenarz T., Majdani O., Burgner-Kahrs J. (2015): _Tubular manipulators: a new concept for intracochlear positioning of an auditory prosthesis_. In Current Directions in Biomedical Engineering 1:515-518). \[[**PDF**](https://www.degruyter.com/downloadpdf/j/cdbme.2015.1.issue-1/cdbme-2015-0123/cdbme-2015-0123.pdf); IF: 1.458\]
-
-
-### Posters & Abstracts
-
-Hügl S., Griebel S., Issa M., Wystup C., Zentner L., Lenarz Th., Majdani O., Rau Th. S. (2015): _Simulation used for Feasibility Study of fluid-actuated Cochlear Implant Electrodes_. In: Proc of. 49th Annual Conference of the German Society for Biomedical Engineering (DGBMT), Lübeck.
-
-Hügl S., Griebel S., Zentner L., Rau Th. S., Lenarz Th., Majdani O. (2015): _Simulation medizinischer Implantate – Analyse fluidisch aktuierter Cochlea-Implantat-Elektrodenträger_. In Proc. ANSYS Conference & 33. CADFEM Users’ Meeting (ACUM2015), 24.–26.06., Bremen.
-
-Hügl S., Weiss C., Rau Th. S., Lenarz Th., Majdani O. (2015): _Automatisierung der Schliffpräparation zur dreidimensionalen Rekonstruktion histologischer Proben_. In: Tagungsband zur 86. Jahresversammlung der Dt. Gesell. für Hals-Nasen-Ohren-Heilkunde, Kopf- und Hals-Chirurgie e.V., 13.05.-16.05. Berlin. doi:10.3205/15hnod371.
-
-John S., Kluge M., Kobler J.-K., Rau Th. S. Lexow J., Gaa J., Müller S., Kahrs L., Majdani O., Ortmaier T., Lenarz Th. (2015): _Towards minimally invasive cochlea implantation by individualized mini-stereotactic frames for children and adults_. 12th European Symposium Pediatric Cochlear Implant (ESPCI 2015), 18.-21.06., Toulouse. 
-
-John S., Kluge M., Kobler J. P., Lexow J., Rau Th. S., Gaa J., Müller S., Kahrs L., Majdani O., Ortmaier T., Lenarz T. (2015): _RoboJiG – Overview and Design Decisions for a New Integrated, Minimally Invasive CI Surgery Strategy_. 3rd Congress of European ORL-HNS, 07.-11.06., Prag.
-
-Lexow J., Rau Th. S., Lenarz Th., Majdani O. (2015): _Radialschnittvisualisierung der Cochlea auf tomografischen Bilddaten_. In: Tagungsband zur 86. Jahresversammlung der Dt. Gesell. für Hals-Nasen-Ohren-Heilkunde, Kopf- und Hals-Chirurgie e.V., 13.05.-16.05. Berlin. doi:10.3205/15hnod096.
-
-Majdani O., Gerking T., Lexow J., John S., Rau Th. S., Lenarz Th. (2015): _Realisierung einer Linearführung für die chirurgische Fräse für den minimal-invasiven Zugangsweg für die Cochlea Implantat Operation_. In: Tagungsband zur 86. Jahresversammlung der Dt. Gesell. für Hals-Nasen-Ohren-Heilkunde, Kopf- und Hals-Chirurgie e.V., 13.05.-16.05. Berlin. doi:10.3205/15hnod112.
-
-Mohebbi S., Fuchs A., Tauscher S., Ortmaier T., Kahrs L. A., Gaa J., Rau Th. S., Lenarz Th., Majdani O. (2015): _Optical Coherence Tomography Navigated Surgery for Different Internal Auditory Canal Tumor Approaches_. J Neurol Surg B 76(S1): A045. DOI:10.1055/s-0035-1546512.
-
-Rau Th. S., Lenarz Th., Majdani O. (2015): _Modelling of intracochlear electrodes arrays – toward individually improved insertion and virtual prototyping_. In: Proc. of 2nd Int. Conf. on Biomedical Technology (ICBT), 28.-30.10.2015, Hannover.
-
-Schurzig D., Kiewning M., Schwarzendahl S., Wallaschek J., Rau Th.S., Lenarz Th., Majdani O. (2015): _Feasibility Analysis of Piezoelectric Hearing Prostheses Implanted into the Inner Ear_. In Proc. ANSYS Conference & 33. CADFEM Users’ Meeting (ACUM2015), 24.–26.06., Bremen.
-
-Schurzig D., Leifeld G., Lexow J., Rau Th. S., Lenarz Th., Majdani O. (2015): _Erstellung von 3D-Cochleamodellen mit variabler geometrischer Vereinfachung_. In: Tagungsband zur 868. Jahresversammlung der Dt. Gesell. für Hals-Nasen-Ohren-Heilkunde, Kopf- und Hals-Chirurgie e.V., 13.05.-16.05. Berlin. doi:10.3205/15hnod478.
-
-Schurzig D., Rau Th.S., Wallaschek J., Lenarz T., Majdani O. (2015): _Determination of Optimal Excitation Patterns for Intracochlear Inner Ear Stimulation Using a Physiologically-Based Model_. In Proc. Engineering of Functional Interfaces Conf. (EnFI2015), 06.-07.07., Hannover, S. 70.
-
-Zentner L., Issa M., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2015): _Nachgiebiger fluidisch aktuierter Elektrodenträger für Cochlea-Implantate_. In: Proc. of First IFToMM D-A-CH Conference, 11. März, Dortmund.
-
-
-
 
