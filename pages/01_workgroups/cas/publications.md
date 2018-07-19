@@ -20,16 +20,16 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018a
 
 |  | CARS 2018 - 32nd International Congress and Exhibition on Computer Assisted Radiology and Surgery, June 20-23, Berlin, Germany|
 |:-|:------| 
-| \[[**PDF**](https://link.springer.com/content/pdf/10.1007%2Fs11548-018-1766-y.pdf)\] | Rau Th., Uhlenbusch L., Witte S., Lexow J., Kahrs LA, Lenarz Th., Ortmaier T., Majdani O. (2018b): _Determination of error sources and values for an individually mouldable surgical targeting system_. \[[**DOI**](https://link.springer.com/article/10.1007/s11548-018-1766-y)\]| 
+| \[[**PDF**](https://link.springer.com/content/pdf/10.1007%2Fs11548-018-1766-y.pdf)\] | Rau Th., Uhlenbusch L., Witte S., Lexow J., Kahrs LA, Lenarz Th., Ortmaier T., Majdani O. (2018b): _Determination of error sources and values for an individually mouldable surgical targeting system_. \[[**DOI**](https://link.springer.com/article/10.1007/s11548-018-1766-y)\].| 
 
 
 |  | 89th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 9-12, Lübeck, Germany| 
 |:-|:------| 
 | \[[**PDF**](https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0038-1639860.pdf)\] | Kluge M., Rau Th., Lexow J., Lenarz Th., Majdani O. (2018a): _Evaluation of the positional accuracy of the RoboJig for minimally invasive cochlear implant surgery_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1639860)\]|
-| | Majdani O., Kluge M., Kreul D., Lexow J., Lenarz Th., Rau Th. (2018a): _Clinical assessment of the positioning accuracy of the RoboJig system by comparison with anatomical and surgical constraints_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1639868)\] |
-| | Müller M., Salcher R., Prenzler N., Lenarz Th., Maier H. (2018a): _The Hannover Coupler 2.0: Optimization of Coupling between the Floating Mass Transducer and the Round Window_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1640493)\]|
-| \[[**PDF**](https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0038-1640541.pdf)\] | Rau Th., Hügl S., Lenarz Th., Majdani O. (2018a): _On the benefit of ultra-slow insertion speed: reduced insertion forces in cochlear implantation surgery_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1640541)\]| 
-| | Schwieger J., Hügl S., Hamm A., Lenarz Th., Hoffmann A., Rau Th., Scheper V. (2018b): _BDNF-producing human mesenchymal stem cells in an alginate-matrix: neuroprotection and cochlear implant coating stability in vitro_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1641059)\] |
+| | Majdani O., Kluge M., Kreul D., Lexow J., Lenarz Th., Rau Th. (2018a): _Clinical assessment of the positioning accuracy of the RoboJig system by comparison with anatomical and surgical constraints_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1639868)\]. |
+| | Müller M., Salcher R., Prenzler N., Lenarz Th., Maier H. (2018a): _The Hannover Coupler 2.0: Optimization of Coupling between the Floating Mass Transducer and the Round Window_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1640493)\].|
+| \[[**PDF**](https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0038-1640541.pdf)\] | Rau Th., Hügl S., Lenarz Th., Majdani O. (2018a): _On the benefit of ultra-slow insertion speed: reduced insertion forces in cochlear implantation surgery_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1640541)\].| 
+| | Schwieger J., Hügl S., Hamm A., Lenarz Th., Hoffmann A., Rau Th., Scheper V. (2018b): _BDNF-producing human mesenchymal stem cells in an alginate-matrix: neuroprotection and cochlear implant coating stability in vitro_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1641059)\]. |
 
 
 |  | ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA| 
@@ -50,11 +50,11 @@ Bergmeier J., Fitzpatrick J.M., Daentzer D., Majdani O., Ortmaier T., Kahrs L. A
 
 Hügl S., Eckardt, F., Lexow J., Majdani O., Lenarz Th., Rau Th. S. (2017a): _Increasing the resolution of morphological 3D image data sets through image stitching: application to the temporal bone._ Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization. 5(6):438-445. \[[**DOI**](https://doi.org/10.1080/21681163.2015.1137080)\].
 
-Büchner A., Illg A., Majdani O., Lenarz T. (2017a): _Investigation of the effect of cochlear implant electrode length on speech comprehension in quiet and noise compared with the results with users of electro-acoustic-stimulation, a retrospective analysis_. PLoS One. 12(5):e0174900. \[[**DOI**](https://doi.org/10.1371/journal.pone.0174900); [**PDF**](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174900&type=printable); IF: 3.057\]  
+Büchner A., Illg A., Majdani O., Lenarz T. (2017a): _Investigation of the effect of cochlear implant electrode length on speech comprehension in quiet and noise compared with the results with users of electro-acoustic-stimulation, a retrospective analysis_. PLoS One. 12(5):e0174900. \[[**DOI**](https://doi.org/10.1371/journal.pone.0174900); [**PDF**](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174900&type=printable); IF: 3.057\].  
 
-van Drunen W., Müller M., Glukhovskoy A., Salcher R., Wurz M., Lenarz T., Maier H. (2017a): _Feasibility of Round Window Stimulation by a Novel Electromagnetic Microactuator_. BioMed Research International 2017, Article ID: 6369247. \[[**DOI**](https://www.hindawi.com/journals/bmri/2017/6369247/); [**PDF**](http://downloads.hindawi.com/journals/bmri/2017/6369247.pdf); IF: 2.476\]
+van Drunen W., Müller M., Glukhovskoy A., Salcher R., Wurz M., Lenarz T., Maier H. (2017a): _Feasibility of Round Window Stimulation by a Novel Electromagnetic Microactuator_. BioMed Research International 2017, Article ID: 6369247. \[[**DOI**](https://www.hindawi.com/journals/bmri/2017/6369247/); [**PDF**](http://downloads.hindawi.com/journals/bmri/2017/6369247.pdf); IF: 2.476\].
 
-Lyutenski S., Götz F., Giourgas A., Majdani O., Bültmann E., Lanfermann H., Lenarz Th., Giesemann A. M. (2017a): _Does severity of cerebral MRI lesions in congenital CMV infection correlates with the outcome of cochlear implantation?_ Eur Arch Otorhinolaryngol. 274(3):1397–1403. \[[**DOI**](https://doi.org/10.1007/s00405-016-4408-4); IF: 1.660\]
+Lyutenski S., Götz F., Giourgas A., Majdani O., Bültmann E., Lanfermann H., Lenarz Th., Giesemann A. M. (2017a): _Does severity of cerebral MRI lesions in congenital CMV infection correlates with the outcome of cochlear implantation?_ Eur Arch Otorhinolaryngol. 274(3):1397–1403. \[[**DOI**](https://doi.org/10.1007/s00405-016-4408-4); IF: 1.660\].
 
 Mirsalehi M., Mohebbi S., Ghajarzadeh M., Lenarz Th., Majdani O. (2017b): _Impact of the round window membrane accessibility on hearing preservation in adult cochlear implantation._ Eur Arch Otorhinolaryngol. 274(8):3049–3056. \[[**DOI**](https://doi.org/10.1007/s00405-017-4628-2); IF: 1.660\].
 
