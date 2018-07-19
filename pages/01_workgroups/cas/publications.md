@@ -25,7 +25,7 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018)
 
 |  | 89th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 9-12, Lübeck, Germany| 
 |:-|:------| 
-| | Kluge M., Rau Th., Lexow J., Lenarz Th., Majdani O. (2018): _Untersuchung der Genauigkeit des RoboJig für die minimal-invasive Cochlea-Implantat-Chirurgie_. |
+| \[[**PDF**](https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0038-1639860.pdf)\] | Kluge M., Rau Th., Lexow J., Lenarz Th., Majdani O. (2018): _Evaluation of the positional accuracy of the RoboJig for minimally invasive cochlear implant surgery_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1639860)\]|
 | | Majdani O., Kluge M., Kreul D., Lexow J., Lenarz Th., Rau Th. (2018): _Clinical assessment of the positioning accuracy of the RoboJig system by comparison with anatomical and surgical constraints_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1639868)\] |
 | | Müller M., Salcher R., Prenzler N., Lenarz Th., Maier H. (2018): _Der Hannover Coupler 2.0: Optimierung der Ankopplung zwischen Floating Mass Transducer und dem runden Fenster_. |
 | \[[**PDF**](https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0038-1640541.pdf)\] | Rau Th., Hügl S., Lenarz Th., Majdani O. (2018): _On the benefit of ultra-slow insertion speed: reduced insertion forces in cochlear implantation surgery_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1640541)\]| 
