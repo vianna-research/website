@@ -13,7 +13,9 @@ If your are interested in this technology, want to join a collaboration for furt
     rau.thomas@mh-hannover.de
 
 - - -
-
+### Funding
+This project was funded by the Federal Ministry of Education and Research of Germany (BMBF, grand number 13GW0019E).
+- - - 
 
 ### Further Reading:
 
