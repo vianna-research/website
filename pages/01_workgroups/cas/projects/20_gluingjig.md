@@ -29,8 +29,8 @@ If your are interested in this technology, want to join a collaboration for furt
 
 ### Further Reading:
 
-|                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|   |                                                              |
+| - | ------------------------------------------------------------ |
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](20_gluingjig/Rau2017_SPIE_101350P_GluingJig.pdf "Fulltext") | Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling, 101350P. [doi <span class="glyphicon glyphicon-link" aria-hidden="true"></span>](http://dx.doi.org/10.1117/12.2254304). |
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](20_gluingjig/Rau2016b_CURAC_TemplateGuided-CI-Surgery.pdf "Fulltext") | Rau Th. S., Lexow G. J., Kluge M., Lenarz Th., Majdani O. (2016): _An alternative concept for template-guided minimally-invasive cochlear implantation surgery_. In: Ansó J. et. al (Hrsg.): Tagungsband der 15. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 29.09.-01.10.2016, Bern. Seiten 149-154. |
  
