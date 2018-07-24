@@ -19,4 +19,6 @@ This project was funded by the Federal Ministry of Education and Research of Ger
 
 ### Further Reading:
 
-
+|    |                                                              |
+| -- | ------------------------------------------------------------ |
+% | \[[**PDF**](link)\] | Reference \[[**DOI**](link)\] |
