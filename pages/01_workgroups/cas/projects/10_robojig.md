@@ -13,7 +13,7 @@ If your are interested in this technology, want to join a collaboration for furt
     rau.thomas@mh-hannover.de
 
 - - -
-### Funding
+### Funding:
 This project was funded by the Federal Ministry of Education and Research of Germany ([BMBF](https://www.bmbf.de/), grand number 13GW0019E). The official project profile can be found [here](https://medizintechnologie.de/fileadmin/pdfs/projektsteckbriefe/13GW0019_RoboJig-Projektsteckbrief.pdf) (in German). 
 - - - 
 
