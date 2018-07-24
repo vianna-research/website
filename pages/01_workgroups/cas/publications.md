@@ -25,7 +25,7 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018a
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://link.springer.com/content/pdf/10.1007%2Fs11548-018-1766-y.pdf) | Rau Th., Uhlenbusch L., Witte S., Lexow J., Kahrs LA, Lenarz Th., Ortmaier T., Majdani O. (2018b): _Determination of error sources and values for an individually mouldable surgical targeting system_. \[[**DOI**](https://link.springer.com/article/10.1007/s11548-018-1766-y)\].| 
 
 
-| . | 89th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 9-12, Lübeck, Germany| 
+| ![](publications/EmptyLogo50px.jpg){style="width:40px"} | 89th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 9-12, Lübeck, Germany| 
 |-:|:------| 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0038-1639860.pdf) | Kluge M., Rau Th., Lexow J., Lenarz Th., Majdani O. (2018a): _Evaluation of the positional accuracy of the RoboJig for minimally invasive cochlear implant surgery_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1639860)\]|
 | | Majdani O., Kluge M., Kreul D., Lexow J., Lenarz Th., Rau Th. (2018a): _Clinical assessment of the positioning accuracy of the RoboJig system by comparison with anatomical and surgical constraints_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1639868)\]. |
