@@ -14,19 +14,19 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018a
 
 ### Posters & Abstracts
 | ![CI2018 Logo](publications/CI2018logo100px.jpg){style="width:40px"}| CI 2018 - 15th International Conference on Cochlear Implants and Other Implantable Auditory Technology, June 27-30, Antwerp, Belgium|
-|:-|:------| 
+|-:|:------| 
 | | Majdani O., Kluge M., Kreul D., Lexow J., Lenarz T., Rau Th. (2018b): _Technical accuracy of the stereotactic minimally invasive “RoboJig” system for CI surgery _.|
 | | Salcher R., Nullmeier M., Lenarz T., Pawsey N., Cramer J., Majdani O., Rau Th. (2018b): _Electrode insertion force measurements in porcine cochlea specimens_.|
 | | Timm ME., Weller T., Alcacer-Labrador D., Büchner A., Lenarz T., John S. (2018b): _A data driven concept to choose the optimal CI electrode array_.|
 
 
 | ![CARS 2018 Logo](publications/CARS2018logo100px.jpg){style="width:40px"} | CARS 2018 - 32nd International Congress and Exhibition on Computer Assisted Radiology and Surgery, June 20-23, Berlin, Germany|
-|:-|:------| 
+|-:|:------| 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://link.springer.com/content/pdf/10.1007%2Fs11548-018-1766-y.pdf) | Rau Th., Uhlenbusch L., Witte S., Lexow J., Kahrs LA, Lenarz Th., Ortmaier T., Majdani O. (2018b): _Determination of error sources and values for an individually mouldable surgical targeting system_. \[[**DOI**](https://link.springer.com/article/10.1007/s11548-018-1766-y)\].| 
 
 
 |  | 89th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 9-12, Lübeck, Germany| 
-|:-|:------| 
+|-:|:------| 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0038-1639860.pdf) | Kluge M., Rau Th., Lexow J., Lenarz Th., Majdani O. (2018a): _Evaluation of the positional accuracy of the RoboJig for minimally invasive cochlear implant surgery_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1639860)\]|
 | | Majdani O., Kluge M., Kreul D., Lexow J., Lenarz Th., Rau Th. (2018a): _Clinical assessment of the positioning accuracy of the RoboJig system by comparison with anatomical and surgical constraints_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1639868)\]. |
 | | Müller M., Salcher R., Prenzler N., Lenarz Th., Maier H. (2018a): _The Hannover Coupler 2.0: Optimization of Coupling between the Floating Mass Transducer and the Round Window_. \[[**DOI**](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1640493)\].|
@@ -35,7 +35,7 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018a
 
 
 | ![ARO 2018 Logo](publications/ARO2018logo100px.jpg){style="width:40px"} | ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA| 
-|:-|:------| 
+|-:|:------| 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/John2018_AROposter_sm.pdf) | John S., Kluge M., Erfurt P., Müller S., Lexow J., Kahrs L. A., Rau Th., Ortmaier T., Majdani O., Lenarz Th. (2018a): _Feasibility of a Simple, Safe, and High-Precision Approach to Minimally Invasive Cochlear Implantation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236-237. |
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/Salcher2018_AROposter.pdf) | Salcher R., Nullmeier M., Lenarz Th., Pawsey N., Waldmann B., Majdani O., Rau Th. (2018a): _Electrode insertion force measurements in sheep temporal bones_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236. |
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/Schwieger2018_AROposter.pdf)  | Schwieger J., Hügl S., Hamm A., Lenarz Th., Hoffmann A., Rau Th., Scheper V (2018a): _A Stem Cell-Alginate Coated Cochlear Implant for Chronic BDNF-Delivery is Stable and Neuroprotective In Vitro_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:592-593. |
