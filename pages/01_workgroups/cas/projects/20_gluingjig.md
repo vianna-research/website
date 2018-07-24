@@ -35,3 +35,4 @@ If your are interested in this technology, want to join a collaboration for furt
 | \[[**PDF**](20_gluingjig/Rau2016b_CURAC_TemplateGuided-CI-Surgery.pdf "Fulltext")\] | Rau Th. S., Lexow G. J., Kluge M., Lenarz Th., Majdani O. (2016): _An alternative concept for template-guided minimally-invasive cochlear implantation surgery_. In: Ansó J. et. al (Hrsg.): Tagungsband der 15. Jahrestagung der Dt. Gesell. für Computer- und Roboterassistierte Chirurgie e.V. (CURAC), 29.09.-01.10.2016, Bern. Seiten 149-154. |
  
 <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+\[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](20_gluingjig/Rau2017_SPIE_101350P_GluingJig.pdf "Fulltext")\]
