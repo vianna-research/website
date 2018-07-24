@@ -120,5 +120,5 @@ Rau Th. S., Granna J., Majdani O., Burgner-Kahrs J.: _Elektrodenanordnung eines 
 
 Previous publications can be found here:
 
-* [**2016**](publications/2016.html)
-* [**2015**](publications/2015.html)
+* [**2016**](publications/y2016.html)
+* [**2015**](publications/z2015.html)
