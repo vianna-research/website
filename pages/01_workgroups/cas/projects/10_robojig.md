@@ -2,7 +2,7 @@ title: RoboJig
 
 - - -
 
-# Toward a fully minimally-invasive cochlear implantation surgery
+# Toward a fully minimally invasive cochlear implantation surgery
 ![RoboJig concept overview](10_robojig/robojig_overview.png)
 
 
