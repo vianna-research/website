@@ -94,7 +94,7 @@ Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017a): _Mi
 
 van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017b): _Experimental investigation of the performance of piezoelectric actuators in a cochlea test rig_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001647.pdf); [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](http://www.egms.de/static/en/meetings/hno2017/17hno426.shtml)\].
 
-Hügl S., Rülander K., Lenarz Th., Majdani O., Rau Th. S. (2017d): _Impact of insertion velocity on insertion forces in cochlear implantation surgery_. In: Biomedical Engineering : joint journal of the German Society for Biomedical Engineering in VDE and the Austrian and Swiss Societies for Biomedical Engineering. Bd. 62 (2017), S1, Seite S167, 10.-13.09., Dresden. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.researchgate.net/publication/319686748_Impact_of_insertion_velocity_on_insertion_forces_in_cochlear_implantation_surgery)\]
+Hügl S., Rülander K., Lenarz Th., Majdani O., Rau Th. S. (2017d): _Impact of insertion velocity on insertion forces in cochlear implantation surgery_. In: Biomedical Engineering : joint journal of the German Society for Biomedical Engineering in VDE and the Austrian and Swiss Societies for Biomedical Engineering. Bd. 62 (2017), S1, Seite S167, 10.-13.09., Dresden. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.researchgate.net/publication/319686748_Impact_of_insertion_velocity_on_insertion_forces_in_cochlear_implantation_surgery)\].
 
 Hügl S., Lexow G. J., Majdani O., Lenarz Th., Rau Th. S. (2017c): _Untersuchung der anatomischen Variabilität perimodiolarer Scala Tympani Pfade als Grundlage individueller Cochlea-Implantat Elektrodenträger_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](http://www.egms.de/static/en/meetings/hno2017/17hno299.shtml)\].
 
@@ -122,17 +122,17 @@ Rau Th. S., Granna J., Majdani O., Burgner-Kahrs J.: _Elektrodenanordnung eines 
 
 ### Journal Papers
 
-Lexow G. J., Schurzig D., Gellrich N. C., Lenarz T., Majdani O., Rau Th. S. (2016): _Visualization, measurement and modelling of the cochlea using rotating midmodiolar slice planes._ Int J Comput Assist Radiol Surg. 11(10):1855-69. (IF: 1.827).
+Lexow G. J., Schurzig D., Gellrich N. C., Lenarz T., Majdani O., Rau Th. S. (2016): _Visualization, measurement and modelling of the cochlea using rotating midmodiolar slice planes._ Int J Comput Assist Radiol Surg. 11(10):1855-69. [IF: 1.827].
 
-Rau Th. S., Harbach L., Pawsey N., Kluge M., Erfurt P., Lenarz T., Majdani O. (2016): _Insertion trauma of a cochlear implant electrode array with Nitinol inlay._ Eur Arch Otorhinolaryngol. 273(11):3573-3585. (IF: 1.627)
+Rau Th. S., Harbach L., Pawsey N., Kluge M., Erfurt P., Lenarz T., Majdani O. (2016): _Insertion trauma of a cochlear implant electrode array with Nitinol inlay._ Eur Arch Otorhinolaryngol. 273(11):3573-3585. [IF: 1.627].
 
 Roemer A., Köhl U., Majdani O., Klöß S., Falk C., Haumann S., Lenarz T., Kral A., Warnecke A. (2017): _Biohybrid cochlear implants in human neurosensory restoration_. Stem Cell Res Ther. 7(1):148. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](http://dx.doi.org/10.1186/s13287-016-0408-y); [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](http://stemcellres.biomedcentral.com/track/pdf/10.1186/s13287-016-0408-y?site=stemcellres.biomedcentral.com); IF: 4.504\].
 
-Schurzig D., Lexow G. J., Majdani O., Lenarz Th., Rau Th. S. (2016): _Three-dimensional modeling of the cochlea by use of an arc fitting approach_. Comput Methods Biomech Biomed Engin. 19(16):1785-1799. (IF: 1.850)
+Schurzig D., Lexow G. J., Majdani O., Lenarz Th., Rau Th. S. (2016): _Three-dimensional modeling of the cochlea by use of an arc fitting approach_. Comput Methods Biomech Biomed Engin. 19(16):1785-1799. [IF: 1.850].
 
-Schurzig D., Rau Th. S., Wallaschek J., Lenarz T., Majdani O. (2016): _Determination of optimal excitation patterns for local mechanical inner ear stimulation using a physiologically-based model._ Biomed Microdevices. 18(2):36. (IF: 2.227).
+Schurzig D., Rau Th. S., Wallaschek J., Lenarz T., Majdani O. (2016): _Determination of optimal excitation patterns for local mechanical inner ear stimulation using a physiologically-based model._ Biomed Microdevices. 18(2):36. [IF: 2.227].
 
-Zentner L., Hügl S., Wystup C., Griebel S., Issa M., Rau Th. S., Majdani O. (2016): _Compliant electrode carrier for cochlear implant with fluidic actuation._ Forsch Ingenieurwes 2016;80(1):57-69. (IF: 0.250)
+Zentner L., Hügl S., Wystup C., Griebel S., Issa M., Rau Th. S., Majdani O. (2016): _Compliant electrode carrier for cochlear implant with fluidic actuation._ Forsch Ingenieurwes 2016;80(1):57-69. [IF: 0.250].
 
 
 ### Conference Papers
