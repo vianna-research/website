@@ -25,6 +25,3 @@ If your are interested in this technology, want to join a collaboration for furt
 | \[[**PDF**](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001689.pdf)\] | Majdani O., Lexow G. J., Lenarz T., Rau Th. S. (2017): COMET: Anwenderfreundliche Vermessung der Cochlea-Länge auf präoperativen Bilddaten. GMS Curr Posters Otorhinolaryngol Head Neck Surg 2017;13:Doc135. \[[**DOI**](http://www.egms.de/static/en/journals/cpo/2017-13/cpo001689.shtml)\] |
 | \[[**PDF**](30_comet/HNO_2015_Poster_Lexow.pdf "Poster")\]   | Lexow G. J., Rau Th. S., Lenarz Th., Majdani O. (2015): Radialschnittvisualisierung der Cochlea auf tomografischen Bilddaten. In Proc. of 86th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery. 13.05. - 16.05.2015, Berlin. \[[**DOI**](http://www.egms.de/static/en/meetings/hnod2015/15hnod096.shtml)\] |
 | \[[**PDF**](http://www.egms.de/static/pdf/journals/cpo/2015-11/cpo001045.pdf)\] | Schurzig D., Leifeld G., Lexow G. J., Rau Th. S., Lenarz Th., Majdani O. (2015): Erstellung von 3D-Cochleamodellen mit variabler geometrischer Vereinfachung. GMS Curr Posters Otorhinolaryngol Head Neck Surg 2015;11:Doc080. \[[**DOI**](http://www.egms.de/static/en/journals/cpo/2015-11/cpo001045.shtml)\] |
-
-
-​      
