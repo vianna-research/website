@@ -41,7 +41,8 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018a
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/Schwieger2018_AROposter.pdf)  | Schwieger J., Hügl S., Hamm A., Lenarz Th., Hoffmann A., Rau Th., Scheper V (2018a): _A Stem Cell-Alginate Coated Cochlear Implant for Chronic BDNF-Delivery is Stable and Neuroprotective In Vitro_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:592-593. |
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/Timm2018_AROposter.pdf)  | Timm M. E., Schurzig D., Assadi M., Lenarz Th. (2018a): _A Novel Approach for Clinical Cochlear Duct Length Estimation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:614. |
 
-
+### Patents
+Rau Th. S., Majdani O., Lenarz T., Kahrs L. A.: _Surgical guidance device and method for its preparation_. US patent application US 2018/0008367 A1. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> PAP](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=US020180008367A1&famSearchFromHitlist=1)\]. 
 
 - - -
 ## 2017
@@ -111,6 +112,8 @@ Rau Th. S., Heil M., Lexow G. J., Lenarz Th., Majdani O. (2017b): _Hydraulisches
 
 
 ### Patents
+
+Rau Th. S., Majdani O., Lenarz T., Kahrs L. A.: _Surgical guidance device and method for its preparation_. EP 3 058 890 B1.  \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Patent](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=EP000003058890B1&famSearchFromHitlist=1)\].
 
 Griebel S., Hügl S., Rau Th. S., Majdani O., Wystup C., Lenarz T., Zentner L.: _Adaptiver Elektrodenträger, seine Verwendung und Verfahren zur Insertion eines Cochlea-Implantat-Elektrodenträgers._ DE 10 2016 003 295 B3. Erteilt am 23.03.2017. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=DE102016003295B3)\].
 
