@@ -48,20 +48,23 @@ title:Staff
 
 | Former Staff																							|
 |:------------------------------|:------------------------------|--------------------------------------:|
-|![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow (11/2011 - 03/2018) |          |
-|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | jetzt [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
-|![Portrait](staff/soon.png)  | Dipl.-Inform. Samuel John                  | jetzt [OtoJig GmbH](http://www.otojig.com/)  |
-|![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge (11/2014 - 07/2017)	| jetzt [OtoJig GmbH](http://www.otojig.com/)  |
-|![Portrait](staff/daniel.png)  | Dr.-Ing. Daniel Schurzig  (04/2014 - 08/2015) | jetzt [MED-EL Deutschland](www.medel.com) |
+|![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow (11/2011 - 03/2018) | now [Part Time Scientists (Berlin, Germany)](https://ptscientists.com/)         |
+|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | now [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
+|![Portrait](staff/soon.png)  | Dipl.-Inform. Samuel John                  | now [OtoJig GmbH](http://www.otojig.com/)  |
+|![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge (11/2014 - 07/2017)	| now [OtoJig GmbH](http://www.otojig.com/)  |
+|![Portrait](staff/daniel.png)  | Dr.-Ing. Daniel Schurzig  (04/2014 - 08/2015) | now [MED-EL Deutschland](www.medel.com) |
 |![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach  (12/2012 - 06/2014) |                           				|
 |![Portrait](staff/soon.png)    | Dipl.-Ing. (FH) Franziska Eckhardt  (09/2010 - 12/2012)|                           		|
-|![Portrait](staff/soon.png)    | M. Sc. Priyant Mane  (05/2010 - 05/2012)   | jetzt [Achtung Technik](http://www.achtung.in) |
+|![Portrait](staff/soon.png)    | M. Sc. Priyant Mane  (05/2010 - 05/2012)   | now [Achtung Technik](http://www.achtung.in) |
 
 
 
 | Alumni                                                                                            |
 |:------------------------------|:-------------------------------------------|--------------------------------------:|
+|![Portrait](staff/soon.png) 	  | Claas Baier								| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/alexbecker.jpg)| M. Sc. Alexander Becker 				| jetzt [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/11.html?&no_cache=1&tx_tkinstpersonen_pi1%5Balias%5D=Becker1)|
+|![Portrait](staff/soon.png) 	  | Mehran Heidel 						| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/soon.png) 	  | Diana Kreul								| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/katharina.jpg) | M. Sc. Katharina Rülander				| 											   |
 |![Portrait](staff/henrik.png)	  | M. Sc. Henrik Schädlich				 	| Student Assistant, Master Thesis   |
+|![Portrait](staff/soon.png) 	  | Waldemar Würfel								| Medical Doctoral Thesis, Hannover Medical School	|
