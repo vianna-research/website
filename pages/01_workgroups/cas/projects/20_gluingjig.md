@@ -18,7 +18,10 @@ If your are interested in this technology, want to join a collaboration for furt
     rau.thomas@mh-hannover.de
 
 - - -
+### Funding:
+This work was supported by the start-up grant for young researches '[HiLF](https://www.mh-hannover.de/hilf.html)' of Hannover Medical School. 
 
+- - - 
 ### Patents:
 
 -   European patent granted in 2017 and validated in DE, FR, GB, CH, NL: 
