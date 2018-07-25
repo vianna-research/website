@@ -113,7 +113,7 @@ Rau Th. S., Heil M., Lexow G. J., Lenarz Th., Majdani O. (2017b): _Hydraulisches
 
 ### Patents
 
-Rau Th. S., Majdani O., Lenarz T., Kahrs L. A.: _Surgical guidance device and method for its preparation_. EP 3 058 890 B1.  \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Patent](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=EP000003058890B1&famSearchFromHitlist=1)\].
+Rau Th. S., Majdani O., Lenarz T., Kahrs L. A.: _Surgical guidance device and method for its preparation_. EP 3 058 890 B1.  \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span>](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=EP000003058890B1&famSearchFromHitlist=1)\].
 
 Griebel S., Hügl S., Rau Th. S., Majdani O., Wystup C., Lenarz T., Zentner L.: _Adaptiver Elektrodenträger, seine Verwendung und Verfahren zur Insertion eines Cochlea-Implantat-Elektrodenträgers._ DE 10 2016 003 295 B3. Erteilt am 23.03.2017. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=DE102016003295B3)\].
 
