@@ -48,14 +48,14 @@ title:Staff
 
 | Former Staff																							|
 |:------------------------------|:------------------------------|--------------------------------------:|
-|![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow (11/2011 - 03/2018) | now [Part Time Scientists (Berlin, Germany)](https://ptscientists.com/)         |
-|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | now [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
-|![Portrait](staff/soon.png)  | Dipl.-Inform. Samuel John                  | now [OtoJig GmbH](http://www.otojig.com/)  |
-|![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge (11/2014 - 07/2017)	| now [OtoJig GmbH](http://www.otojig.com/)  |
-|![Portrait](staff/daniel.png)  | Dr.-Ing. Daniel Schurzig  (04/2014 - 08/2015) | now [MED-EL Deutschland](www.medel.com) |
+|![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow (11/2011 - 03/2018) | now: [Part Time Scientists (Berlin)](https://ptscientists.com/)         |
+|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | now: [Implandata Ophthalmic Products GmbH (Hannover)](http://www.implandata.com) |
+|![Portrait](staff/soon.png)  | Dipl.-Inform. Samuel John                  | now: [OtoJig GmbH (Hannover)](http://www.otojig.com/)  |
+|![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge (11/2014 - 07/2017)	| now: [OtoJig GmbH (Hannover)](http://www.otojig.com/)  |
+|![Portrait](staff/daniel.png)  | Dr.-Ing. Daniel Schurzig  (04/2014 - 08/2015) | now: [MED-EL Deutschland (Hannover)](www.medel.com) |
 |![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach  (12/2012 - 06/2014) |                           				|
 |![Portrait](staff/soon.png)    | Dipl.-Ing. (FH) Franziska Eckhardt  (09/2010 - 12/2012)|                           		|
-|![Portrait](staff/soon.png)    | M. Sc. Priyant Mane  (05/2010 - 05/2012)   | now [Achtung Technik](http://www.achtung.in) |
+|![Portrait](staff/soon.png)    | M. Sc. Priyant Mane  (05/2010 - 05/2012)   |  |
 
 
 
