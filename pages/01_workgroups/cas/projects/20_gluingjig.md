@@ -39,7 +39,7 @@ This work was supported by the start-up grant for young researches '[HiLF](https
 
 |    |                                                               |
 | -: | :------------------------------------------------------------ |
-| <span class="glyphicon glyphicon-education" aria-hidden="true"></span>    | Uhlenbusch L. (2017): _Investigation of accuracy and error sources of a surgical template made of bone cement_. Unpublished Bachelor Thesis. Department of Otolaryngology (MHH) and Institute of Mechatronic Systems (LUH). |
+| <span class="glyphicon glyphicon-search" aria-hidden="true"></span>    | Uhlenbusch L. (2017): _Investigation of accuracy and error sources of a surgical template made of bone cement_. Unpublished Bachelor Thesis. Department of Otolaryngology (MHH) and Institute of Mechatronic Systems (LUH). |
 
 <span class="glyphicon glyphicon-education" aria-hidden="true"></span>
 
