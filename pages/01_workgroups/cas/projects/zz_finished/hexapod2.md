@@ -12,7 +12,7 @@ title: Mini-Hexapod
 ### Approach considered here
 -  A bone-attached, passive, parallel kinematic device
 
-![Gough-Stewart platform (Hexapod) on the skull](hexapod/hexapod_v01.png){.center}
+![Gough-Stewart platform (Hexapod) on the skull](hexapod2/hexapod_v01.png){.center}
 
 
 ### Project Partners: 
