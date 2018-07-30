@@ -24,7 +24,7 @@ Overview of the RoboJig surgery vs. conventional approach.
 
 
 ---
-## [GluingJig](projects/20_gluingjig.html)
+## [GluingJig](projects/gluingjig.html)
 
 ###Individually mouldable surgical targeting system
 
@@ -58,11 +58,11 @@ Overview of the RoboJig surgery vs. conventional approach.
 
 
 --- 
-## [Finished Projects](projects/99_finished.html)
+## [Finished Projects](projects/zz_finished.html)
 
-- [Mini-Hexapod](projects/99_finished/hexapod.html)
+- [Mini-Hexapod](projects/zz_finished/hexapod2.html)
 Surgical Approach: Minimally invasive Cochlear Implant Surgery
 
-- [GentleCI](projects/99_finished/gentleci.html)
+- [GentleCI](projects/zz_finished/gentleci.html)
 Electrode Development: laser-sintering of nickel-titanium (nitinol) actuators for cochlear implants
 
