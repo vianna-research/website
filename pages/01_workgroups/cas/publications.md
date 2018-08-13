@@ -2,6 +2,8 @@ title: Publications
 - - -
 ## 2018
 
+![2018](publications/BannerPaper2018.jpg)
+
 ### Journal Papers
 
 Schurzig D., Schwarzendahl S., Wallaschek J., van Drunen W. J., Rau Th. S., Lenarz Th., Majdani O. (2018b): _Numerical analysis of intracochlear mechanical auditory stimulation using piezoelectric bending actuators_. Med Biol Eng Comput 56(5):733-747. \[[**DOI**](https://doi.org/10.1007/s11517-017-1720-0); IF: 1.971\].
