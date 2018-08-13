@@ -1,6 +1,5 @@
 title: Publications
 - - -
-## 2018
 
 ![2018](publications/BannerPaper2018.jpg)
 
