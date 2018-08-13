@@ -126,3 +126,6 @@ Previous publications can be found here:
 
 * [**2016**](publications/y2016.html)
 * [**2015**](publications/z2015.html)
+
+Sources:
+Photo by rawpixel.com from Pexels [Link](https://www.pexels.com/photo/woman-uses-black-typewriter-917476)
