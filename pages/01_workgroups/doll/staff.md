@@ -21,23 +21,22 @@ title: Staff
 |Research Team  |    |  |
 |---------|:------|------|
 |   | Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|
-|![Image Jan Stieghorst ](Jan.png) |  Dipl.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
-|![Image Katharina Foremny](Katharina.png)  | Katharina Foremny (ehemals Tegtmeier), M.Sc. 	|	foremny.katharina(at)mh-hannover.de | 
+|![Image Jan Stieghorst ](Jan.png) |  Dr.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
+|![Image Katharina Foremny](Katharina.png)  | Katharina Foremny (ehemals Tegtmeier), M.Sc. 	|	foremny.katharina(at)mh-hannover.de |
+|  |Filip Jakomovski, M.Sc.| jakomovski.filip(at)mh-hannover.de|
 
 
 
 |  Students   ||
 |-----------|-------------|
-|Ailke Behrens| Student Assistant|
-|Fabian Borrmann, B. Sc. | Student Assistent|
+|Ailke Behrens, B.Sc. | Student Assistant|
+|Fabian Borrmann, B. Sc. | Master Thesis|
 |Hazel Börgmann | Student Assistant|
 |Lennart Guntenhöner |Medical Doctorate Thesis |
 |Steffen Hadeler|Student Assistent|
-|Filip Jakimovski, B. Sc.| Master Thesis|
 |Fabian Müller|Student Assistent|
 |Michael Kaiser|Student Assistent|
-|Magnus Schwieters|Student Assistent|
-|Madleen Danho|Master Thesis|
-|Alexander Clement|Master Thesis|
+|Deike Ihnen| Student Assisten|
+
 
 
