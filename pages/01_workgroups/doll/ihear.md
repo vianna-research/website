@@ -1,8 +1,8 @@
 
-title: Grants and Projects
+title: IHear
 status: draft
 
-Publications regarding these projects can be found [here](publications.html)
+
 
 
 
