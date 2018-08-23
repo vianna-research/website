@@ -11,6 +11,7 @@ title: Dr. med. vet. Verena Scheper
 	Klinik für Hals-Nasen-Ohrenheilkunde
 	Stadtfelddamm 35
 	30625 Hannover
+	0049 (0) 511 532 4369
 	scheper.verena@mh-hannover.de
 
 

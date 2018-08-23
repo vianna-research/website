@@ -1,6 +1,7 @@
 title: Publications
 - - -
-## 2018
+
+![2018](publications/BannerPaper2018.jpg)
 
 ### Journal Papers
 
@@ -125,3 +126,7 @@ Previous publications can be found here:
 
 * [**2016**](publications/y2016.html)
 * [**2015**](publications/z2015.html)
+
+- - - 
+Sources:
+[Photo](https://www.pexels.com/photo/woman-uses-black-typewriter-917476) by rawpixel.com from Pexels.
