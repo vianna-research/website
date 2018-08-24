@@ -34,7 +34,7 @@ title:Staff
 |![Portrait](staff/tobias.png) 	| Tobias Blum 								| Bachelor Thesis, Leibniz University Hannover      |Link
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Bachelor Thesis, Technische Universität Berlin    |
 |![Portrait](staff/lena.jpg)	| Lena Geiger								| Student Assistant, Hannover Medical School		| 
-|![Portrait](staff/soon.png) 	| Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/till.jpg) 	| Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/max.png)		| Maximilian Henke							| Master Thesis, Leibniz University Hannover   		|
 |![Portrait](staff/christianm.png)| Christian Menke							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral Thesis, Hannover Medical School	|
