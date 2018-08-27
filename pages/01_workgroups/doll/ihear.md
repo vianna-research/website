@@ -1,10 +1,10 @@
 status: hidden
 
-title: IHear
+title: International Hearing Research - IHeaR 
 
 ##About
  What is IHear?/ Photo ![...](....jpg)
- **The next IHear meeting will be held on April 2019 in Buenos Aires** 
+ **The next IHeaR meeting will be held on April 2019 in Buenos Aires** 
 
 
 ##Common Publications
@@ -17,9 +17,10 @@ title: IHear
 
 
 ##Partner
-* Mariela Claudia Torrente Avendaño, Prof. Asociado (Santiago) ([Universidad de Chile](http://www.uchile.cl/))
-* Paul H. Délano, MD, PhD (Santiago) ([Laboratorio Neurobiología de la Audición Departamento Neurociencia](http://www.audicion.cl/))
+* Prof. Dr. Mariela Claudia Torrente Avendaño (Santiago) ([Universidad de Chile](http://www.uchile.cl/))
+* Prof. Dr. Paul H. Délano (Santiago) ([Laboratorio Neurobiología de la Audición Departamento Neurociencia](http://www.audicion.cl/))
+* Prof. Dr. Ana Belén Elgoyhen (Buenos Aires) ([Instituto de Investigaciones en Ingenieria Genetica y Biologia Molecular (INGEBI)](http://ingebi-conicet.gov.ar/es_fisiologia-y-genetica-de-la-audicion/))
 * Auditory and cognition center ([AUCO](http://www.auco.cl/))
-* Cluster of Excellence Hearing4all ([Hearing4All](http://hearing4all.eu/EN/))
-* Fraunhofer Institut für Toxikologie und Experimentelle Medizin ([Translationale Medizintechnik](https://www.item.fraunhofer.de/de/angebot/medizintechnik.html/))
+* Prof. Prof. Dr. Thomas Lenarz, Cluster of Excellence Hearing4all ([Hearing4All](http://hearing4all.eu/EN/))
+* Prof. Dr. Theodor Doll, Fraunhofer Institut für Toxikologie und Experimentelle Medizin ([Translationale Medizintechnik](https://www.item.fraunhofer.de/de/angebot/medizintechnik.html/))
 
