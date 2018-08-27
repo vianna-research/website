@@ -3,7 +3,7 @@ status: hidden
 title: International Hearing Research - IHeaR 
 
 ##About
-* .. inhaltlich worum es geht 
+* The project IHeaR aims for international hearing research between the Hannover Medical School and the Hearing4all Cluster of Excellence ....
 
 
 ##Conferences
