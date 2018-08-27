@@ -21,6 +21,6 @@ title: IHear
 * ([Paul H. Délano, MD, PhD (Santiago)])(http://www.audicion.cl/)
 * ([Belen el Goyhein (Buenos Aires)])(http://  )
 * ([Audicory and cognition center])(http://www.auco.cl/)
-* ([Hearing4All](http://hearing4all.eu/EN/))
-* ([Translationale Medizintechnik](https://www.item.fraunhofer.de/de/angebot/medizintechnik.html/))
+* [Hearing4All](http://hearing4all.eu/EN/)
+* [Translationale Medizintechnik](https://www.item.fraunhofer.de/de/angebot/medizintechnik.html/)
 
