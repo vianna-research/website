@@ -4,7 +4,7 @@ title: International Hearing Research - IHeaR
 
 ##About
 * 
-* The next IHeaR meeting as a parto of a scientific workshop will be held on **April 2019 in Buenos Aires**. The 3-day conference will facilitate an update on the current state of CI research.
+* The next IHeaR meeting will be held on **April 2019 in Buenos Aires** as a part of a scientific workshop. The three-day conference will facilitate an update on the current state of CI research.
 
 
 
