@@ -17,8 +17,8 @@ title: IHear
 
 
 ##Partner
-* Mariela Claudia Torrente Avendaño, Prof. Asociado (Santiago)(http://www.uchile.cl/)
-* Paul H. Délano, MD, PhD (Santiago)(http://www.audicion.cl/)
+* Mariela Claudia Torrente Avendaño, Prof. Asociado (Santiago) ([Universidad de Chile](http://www.uchile.cl/))
+* Paul H. Délano, MD, PhD (Santiago) ([Laboratorio Neurobiología de la Audición Departamento Neurociencia](http://www.audicion.cl/))
 * Auditory and cognition center ([AUCO](http://www.auco.cl/))
 * Cluster of Excellence Hearing4all ([Hearing4All](http://hearing4all.eu/EN/))
 * Fraunhofer Institut für Toxikologie und Experimentelle Medizin ([Translationale Medizintechnik](https://www.item.fraunhofer.de/de/angebot/medizintechnik.html/))
