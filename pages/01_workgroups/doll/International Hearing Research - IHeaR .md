@@ -1,7 +1,6 @@
 status: hidden
 
 
-
 ##About
 The project IHeaR achieves the international hearing research between Germany - Hanover, Chile - Santiago and Argentines - Buenos Aires. The aim is to build the research structure of the cluster of excellence [Hearing4All (H4A)](http://hearing4all.eu/EN/), which is the world's largest center for the restoration of hearing by implants and subsequent patient care, in the innovation locations Santiago and Valparaiso in Chile as well as Buenos Aires in Argentina. In Chile - Santiago, there is even the [Auditory and cognition center (AUCO)](http://www.auco.cl/), which is composed of interdisciplinary research groups. The H4A and AUCO, together with IHeaR, want to see results come faster from basic and clinical research into medical care and thus to patients in Germany as well as in South America.
 
@@ -9,13 +8,7 @@ The project IHeaR achieves the international hearing research between Germany - 
 ##Conferences
 The next IHeaR meeting will be held on **April 2019** in Buenos Aires as a part of a scientific workshop. The three-day conference will facilitate an update on the current state of CI research. Following this, in **November 2019** the kick-off of the consolidation phase will be implemented to manifestate prepared political decisions at ministerial level. In 2020, doctors and hearing researchers will be invited to Santiago for the two-day dissemination meeting. Subsequently, scientists and experts from South America will be invited to Hanover for the 2020 Symposium "Workshop Medicine and Engineering in Hearing Restoration". Thereafter,  the Scientific Meeting will take place in Buenos Aires in 2021. Finally 2022 the last Scientific meeting will take place in Santiago and a Wrap up Meeting in Buenos Aires will complete the IHeaR project.
 
-##Common Publications
-
-...
-
-##Common Projects
-
-...
+##Common publications and projects can be found [here](xyz.html)
 
 
 ##Partner
