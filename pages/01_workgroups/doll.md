@@ -65,6 +65,6 @@ Adress:
 Contact Information:
 
     Phone: +49 (0)511 5350 247
-    Mail: biomaterialengineering(@)mh-hannover.de
+    
 
 A list of the staff can be found [here](doll/staff.html).
