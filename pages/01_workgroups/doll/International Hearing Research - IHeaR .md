@@ -1,6 +1,6 @@
 status: hidden
 
-![Group photo from the last IHeaR meeting](simposio_hear.jpg)
+![ihearmeeting.png ](01_workgroups)
 
 
 ##About
