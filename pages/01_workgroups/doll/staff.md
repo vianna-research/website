@@ -33,17 +33,17 @@ title: Staff
 |Fabian Borrmann, B.Sc. | Master Thesis|
 |Hazel Börgmann, B.Sc. | Student Assistant|
 |Lennart Guntenhöner | Medical Doctorate Thesis|
-|Steffen Hadeler | Student Assistent|
-|Fabian Müller | Student Assistent|
-|Michael Kaiser | Student Assistent|
-|Deike Ihnen | Student Assistent|
-|Johanna Diekhoff | Student Assistent|
-|Anna Lena Weichaus | Student Assistent|
+|Steffen Hadeler | Student Assistant|
+|Fabian Müller | Student Assistant|
+|Michael Kaiser | Student Assistant|
+|Deike Ihnen | Student Assistant|
+|Johanna Diekhoff | Student Assistant|
+|Anna Lena Weichaus | Student Assistant|
 |Adrian Onken| Bachelor Thesis|
-|Heinke Brosig | Student Assistent|
-|Xiangyu Chen | Student Assistent|
-|Hannah Lemper | Student Assistent| 
-|Andre Niebur | Student Assistent|
+|Heinke Brosig | Student Assistant|
+|Xiangyu Chen | Student Assistant|
+|Hannah Lemper | Student Assistant| 
+|Andre Niebur | Student Assistant|
 
 
 
