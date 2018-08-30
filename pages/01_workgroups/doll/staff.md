@@ -30,13 +30,21 @@ title: Staff
 |  Students   ||
 |-----------|-------------|
 |Ailke Behrens, B.Sc. | Student Assistant|
-|Fabian Borrmann, B. Sc. | Master Thesis|
-|Hazel Börgmann | Student Assistant|
-|Lennart Guntenhöner |Medical Doctorate Thesis |
-|Steffen Hadeler|Student Assistent|
-|Fabian Müller|Student Assistent|
-|Michael Kaiser|Student Assistent|
-|Deike Ihnen| Student Assisten|
+|Fabian Borrmann, B.Sc. | Master Thesis|
+|Hazel Börgmann, B.Sc. | Student Assistant|
+|Lennart Guntenhöner | Medical Doctorate Thesis|
+|Steffen Hadeler | Student Assistent|
+|Fabian Müller | Student Assistent|
+|Michael Kaiser | Student Assistent|
+|Deike Ihnen | Student Assistent|
+|Johanna Diekhoff | Student Assistent|
+|Anna Lena Weichaus | Student Assistent|
+|Adrian Onken| Bachelor Thesis|
+|Heinke Brosig | Student Assistent|
+|Xiangyu Chen | Student Assistent|
+|Hannah Lemper | Student Assistent| 
+|Andre Niebur | Student Assistent|
+
 
 
 
