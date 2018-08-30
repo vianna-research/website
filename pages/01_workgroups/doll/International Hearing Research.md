@@ -9,7 +9,7 @@ This project achieves the international hearing research (IHeaR) between Germany
 ##Conferences
 The next IHeaR meeting will be held on **April 2019** in Buenos Aires as a part of a scientific workshop. The three-day conference will facilitate an update on the current state of CI research. Following this, in **November 2019** the kick-off of the consolidation phase will be implemented to manifestate prepared political decisions at ministerial level. In 2020, doctors and hearing researchers will be invited to Santiago for the two-day dissemination meeting. Subsequently, scientists and experts from South America will be invited to Hanover for the 2020 Symposium "Workshop Medicine and Engineering in Hearing Restoration". Thereafter,  the Scientific Meeting will take place in Buenos Aires in 2021. Finally 2022 the last Scientific meeting will take place in Santiago and a Wrap up Meeting in Buenos Aires will complete the IHeaR project.
 
-##Common publications and projects can be found [here](IHeaR_publications.html)
+Common publications can be found [here](IHeaR_publications.html)
 
 
 ##Partner
