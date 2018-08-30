@@ -1,4 +1,4 @@
-status: hidden
+
 
 ![meetingphoto](ihearmeeting.png)
 
