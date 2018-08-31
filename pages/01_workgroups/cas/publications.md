@@ -94,11 +94,11 @@ Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017a): _Mi
 
 ### Posters & Abstracts
 
-Hügl S., Rülander K., Lenarz Th., Majdani O., Rau Th. S. (2017d): _Impact of insertion velocity on insertion forces in cochlear implantation surgery_. In: Biomedical Engineering : joint journal of the German Society for Biomedical Engineering in VDE and the Austrian and Swiss Societies for Biomedical Engineering. Bd. 62 (2017), S1, Seite S167, 10.-13.09., Dresden. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.researchgate.net/publication/319686748_Impact_of_insertion_velocity_on_insertion_forces_in_cochlear_implantation_surgery)\].
+| ![](publications/EmptyLogo50px.jpg){style="width:40px"} | 51th Annual Conference of German Society for Biomedical Engineering (BMT), Sept 10-13, Dresden, Germany | 
+|-:|:------| 
+| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.researchgate.net/publication/319686748_Impact_of_insertion_velocity_on_insertion_forces_in_cochlear_implantation_surgery)\] | Hügl S., Rülander K., Lenarz Th., Majdani O., Rau Th. S. (2017d): _Impact of insertion velocity on insertion forces in cochlear implantation surgery_. In: Biomedical Engineering / Biomedizinische Technik 62(S1):S167. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.degruyter.com/view/supplement/s1862278X_BMTMedPhys_2017_Abstracts.pdf)\] |
+|  | Hügl S., Zentner L., Griebel S., Majdani O., Lenarz Th., Rau Th. S. (2017b): _Individualized design of fluidically actuated cochlear implants_. In: Biomedical Engineering / Biomedizinische Technik 62(S1):S280. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.degruyter.com/view/supplement/s1862278X_BMTMedPhys_2017_Abstracts.pdf)\] |
 
-Hügl S., Zentner L., Griebel S., Majdani O., Lenarz Th., Rau Th. S. (2017b): _Individualized design of fluidically actuated cochlear implants_. In: Biomedical Engineering : joint journal of the German Society for Biomedical Engineering in VDE and the Austrian and Swiss Societies for Biomedical Engineering. Bd. 62 (2017), S1, Seite S280, 10.-13.09., Dresden.
-
-Majdani O., Kluge M., Lexow G. J., John S., Kahrs L. A., Ortmaier T., Müller S., Lenarz Th., Rau, Th. S. (2017b): _Minimally invasive, mini-stereotactic approach for Cochlear Implant Surgery: RoboJIG_. In: Tagungsband Festival della Scienza Medica, Bologna, 20-23 April 2017. 
 
 | ![](publications/EmptyLogo50px.jpg){style="width:40px"} | 88th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 24-27, Erfurt, Germany| 
 |-:|:------| 
@@ -109,6 +109,7 @@ Majdani O., Kluge M., Lexow G. J., John S., Kahrs L. A., Ortmaier T., Müller S.
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001699.pdf) | Kluge M., Rau Th. S., Lexow J., Kahrs L. A., Kobler J.-P., Ortmaier T., Lenarz Th., Majdani O. (2017a): _Eine iterative Entwicklung eines Mini-Stereotaxiesystems für die laterale Schädelbasis_.  \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](http://www.egms.de/static/en/meetings/hno2017/17hno315.shtml)\]. |
 
 
+Majdani O., Kluge M., Lexow G. J., John S., Kahrs L. A., Ortmaier T., Müller S., Lenarz Th., Rau, Th. S. (2017b): _Minimally invasive, mini-stereotactic approach for Cochlear Implant Surgery: RoboJIG_. In: Tagungsband Festival della Scienza Medica, Bologna, 20-23 April 2017. 
 
 
 
