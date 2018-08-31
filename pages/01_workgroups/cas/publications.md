@@ -106,9 +106,10 @@ Kluge M., Rau Th. S., Lexow J., Kahrs L. A., Kobler J.-P., Ortmaier T., Lenarz T
 
 Majdani O., Kluge M., Lexow G. J., John S., Kahrs L. A., Ortmaier T., Müller S., Lenarz Th., Rau, Th. S. (2017b): _Minimally invasive, mini-stereotactic approach for Cochlear Implant Surgery: RoboJIG_. In: Tagungsband Festival della Scienza Medica, Bologna, 20-23 April 2017. 
 
-Majdani O., Lexow J., Lenarz Th., Rau Th. S. (2017a): _COMET: Anwenderfreundliche Vermessung der Cochlea-Länge auf präoperativen Bilddaten_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001689.pdf); [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](http://www.egms.de/static/en/meetings/hno2017/17hno343.shtml)\].
-
-Rau Th. S., Heil M., Lexow G. J., Lenarz Th., Majdani O. (2017b): _Hydraulisches Insertionstool für langsames und gleichmäßiges Einführen von Cochlea-Implantat-Elektroden_. In: Proc. 88th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, 24.-27.05., Erfurt. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001674.pdf); [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](http://www.egms.de/static/en/meetings/hno2017/17hno372.shtml)\].
+| ![](publications/EmptyLogo50px.jpg){style="width:40px"} | 88th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 24-27, Erfurt, Germany| 
+|-:|:------| 
+| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001689.pdf)  | Majdani O., Lexow J., Lenarz Th., Rau Th. S. (2017a): _COMET: Anwenderfreundliche Vermessung der Cochlea-Länge auf präoperativen Bilddaten_. [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](http://www.egms.de/static/en/meetings/hno2017/17hno343.shtml). |
+| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](http://www.egms.de/static/pdf/journals/cpo/2017-13/cpo001674.pdf) | Rau Th. S., Heil M., Lexow G. J., Lenarz Th., Majdani O. (2017b): _Hydraulisches Insertionstool für langsames und gleichmäßiges Einführen von Cochlea-Implantat-Elektroden_. [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](http://www.egms.de/static/en/meetings/hno2017/17hno372.shtml). |
 
 
 
