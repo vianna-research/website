@@ -98,6 +98,7 @@ Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017a): _Mi
 |-:|:------| 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.researchgate.net/publication/319686748_Impact_of_insertion_velocity_on_insertion_forces_in_cochlear_implantation_surgery) | Hügl S., Rülander K., Lenarz Th., Majdani O., Rau Th. S. (2017d): _Impact of insertion velocity on insertion forces in cochlear implantation surgery_. In: Biomedical Engineering / Biomedizinische Technik 62(S1):S167. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.degruyter.com/view/supplement/s1862278X_BMTMedPhys_2017_Abstracts.pdf)\] |
 |  | Hügl S., Zentner L., Griebel S., Majdani O., Lenarz Th., Rau Th. S. (2017b): _Individualized design of fluidically actuated cochlear implants_. In: Biomedical Engineering / Biomedizinische Technik 62(S1):S280. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.degruyter.com/view/supplement/s1862278X_BMTMedPhys_2017_Abstracts.pdf)\] |
+|  | Rau Th. S., Majdani O., Lenarz Th. (2017e): _Bildgebung des Innenohres bei der experimentellen Evaluierung von CI-Elektrodenträgern_. |
 
 
 | ![](publications/EmptyLogo50px.jpg){style="width:40px"} | 88th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 24-27, Erfurt, Germany| 
