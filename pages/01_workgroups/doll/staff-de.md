@@ -29,15 +29,24 @@ title: Mitarbeiter
 
 |Studenten|             |
 |-----------|-------------|
-|Ailke Behrens, B.Sc.| HiWi|
-|Fabian Borrmann, B.Sc. | HiWi|
-|Hazel Börgmann, B.Sc.| HiWi|
-|Lennart Guntenhöner |Promotion Dr. med. |
-|Steffen Hadeler, B.Sc. | HiWi|
-|Filip Jakimovski, B. Sc.| Masterarbeit|
-|Fabian Müller|HiWi|
-|Michael Kaiser|HiWi|
-|Magnus Schwieters|HiWi|
-|Madleen Danho|Masterarbeit|
-|Alexander Clement|Masterarbeit|
+|-----------|-------------|
+
+|Ailke Behrens, B.Sc. | HiWi|
+|Fabian Borrmann, B.Sc. | Masterarbeit|
+|Hazel Börgmann, B.Sc. | HiWi|
+|Lennart Guntenhöner | Medizinische Doktorarbeit|
+|Steffen Hadeler | HiWi|
+|Fabian Müller | HiWi|
+|Michael Kaiser | Studienarbeit|
+|Deike Ihnen | Bachelorarbeit|
+|Johanna Diekhoff | HiWi|
+|Anna Lena Weichaus | Studienarbeit|
+|Adrian Onken| Bachelorarbeit|
+|Heinke Brosig| HiWi|
+|Xiangyu Chen | HiWi|
+|Hannah Lemper | HiWi| 
+|Andre Niebur | HiWi|
+
+
+
 
