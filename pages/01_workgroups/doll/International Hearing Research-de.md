@@ -1,7 +1,7 @@
 
 ![meetingphoto](ihearmeeting.png)
 
-##Die Internationale Hörforschung (IHeaR
+##Die Internationale Hörforschung (IHeaR)
 Das IHeaR Projekt erzielt soll eine internationale Hörforschung zwischen Deutschland - Hannover, Chile - Santiago und Argentinien - Buenos Aires verschaffen. Das Ziel ist es, die Forschungsstruktur des Exzellenzclusters Hearing4All (H4A) - Hannover, welches weltweit das größte Zentrum für die Wiederherstellung des Gehörs durch Implantate und anschließende Patientenversorgung ist, in den Innovationsstandorten Santiago und Valparaiso in Chile, sowie Buenos Aires in Argentinien aufzubauen. In Chile - Santiago gibt es bereits das auditorische und kognitive Zentrum (AUCO), das sich aus interdisziplinären Forschungsgruppen zusammensetzt. Die H4A und AUCO wollen zusammen mit IHeaR in naher Zukunft Ergebnisse aus der Grundlagen- und klinischen Forschung in der medizinischen Versorgung in Deutschland und Südamerika erzielen.
 
 
