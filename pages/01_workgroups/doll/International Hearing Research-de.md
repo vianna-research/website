@@ -1,4 +1,5 @@
-status: hidden
+
+![meetingphoto](ihearmeeting.png)
 
 ##Die Internationale Hörforschung (IHeaR
 Das IHeaR Projekt erzielt soll eine internationale Hörforschung zwischen Deutschland - Hannover, Chile - Santiago und Argentinien - Buenos Aires verschaffen. Das Ziel ist es, die Forschungsstruktur des Exzellenzclusters Hearing4All (H4A) - Hannover, welches weltweit das größte Zentrum für die Wiederherstellung des Gehörs durch Implantate und anschließende Patientenversorgung ist, in den Innovationsstandorten Santiago und Valparaiso in Chile, sowie Buenos Aires in Argentinien aufzubauen. In Chile - Santiago gibt es bereits das auditorische und kognitive Zentrum (AUCO), das sich aus interdisziplinären Forschungsgruppen zusammensetzt. Die H4A und AUCO wollen zusammen mit IHeaR in naher Zukunft Ergebnisse aus der Grundlagen- und klinischen Forschung in der medizinischen Versorgung in Deutschland und Südamerika erzielen.
@@ -15,6 +16,6 @@ Prof. Dr. Mariela Claudia Torrente Avendaño - Santiago (Universidad de Chile)
 Prof. Dr. Paul H. Délano - Santiago (Laboratorio Neurobiología de la Audición Departamento Neurociencia)
 Prof. Dr. Ana Belén Elgoyhen - Buenos Aires (Instituto de Investigaciones en Ingenieria Genetica y Biologia Molecular - INGEBI)
 The Auditory and Cognition Center -Interdisciplinary research groups - Santiago (AUCO)
-Prof. Prof. Dr. Thomas Lenarz, Cluster of Excellence Hearing4all - Hannover (Hearing4All)
+Prof. Prof. Dr. Thomas Lenarz, Exzellenzcluster Hearing4all - Hannover (Hearing4All)
 Prof. Dr. Theodor Doll, Fraunhofer Institut für Toxikologie und Experimentelle Medizin - Hannover 
  (Translationale Medizintechnik)
