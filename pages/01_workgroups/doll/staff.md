@@ -36,10 +36,10 @@ title: Staff
 |Lennart Guntenhöner | Medical Doctorate Thesis|
 |Steffen Hadeler | Student Assistant|
 |Fabian Müller | Student Assistant|
-|Michael Kaiser | Student Assistant|
-|Deike Ihnen | Student Assistant|
+|Michael Kaiser | Seminar paper|
+|Deike Ihnen | Bachelor Thesis|
 |Johanna Diekhoff | Student Assistant|
-|Anna Lena Weichaus | Student Assistant|
+|Anna Lena Weichaus | Seminar paper|
 |Adrian Onken| Bachelor Thesis|
 |Heinke Brosig | Student Assistant|
 |Xiangyu Chen | Student Assistant|
