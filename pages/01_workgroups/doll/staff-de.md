@@ -27,10 +27,8 @@ title: Mitarbeiter
 ||Suheda Yilmaz-Bayraktar, M. Sc. | yilmaz-bayraktar.suheda(at)mh-hannover.de|
 
 
-|Studenten|             |
+|Studenten||
 |-----------|-------------|
-|-----------|-------------|
-
 |Ailke Behrens, B.Sc. | HiWi|
 |Fabian Borrmann, B.Sc. | Masterarbeit|
 |Hazel Börgmann, B.Sc. | HiWi|
