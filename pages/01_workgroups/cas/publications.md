@@ -1,7 +1,7 @@
 title: Publications
 - - -
 
-![2018](publications/BannerPaper2018.jpg)
+![2018](publications/BannerPaper2018b.jpg)
 
 ### Journal Papers
 
