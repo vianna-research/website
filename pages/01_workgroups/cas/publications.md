@@ -35,7 +35,7 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018)
 | | Schwieger J., Hügl S., Hamm A., Lenarz Th., Hoffmann A., Rau Th., Scheper V. (2018b): _BDNF-producing human mesenchymal stem cells in an alginate-matrix: neuroprotection and cochlear implant coating stability in vitro_. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0038-1641059)\]. |
 
 
-| ![ARO 2018 Logo](publications/ARO2018logo100px.jpg){style="width:40px"} | ARO 41st Annual MidWinter Meeting, February 9-14, 2018, San Diego, CA, USA| 
+| ![ARO 2018 Logo](publications/ARO2018logo100px.jpg){style="width:40px"} | ARO 41st Annual MidWinter Meeting, February 9-14, San Diego, CA, USA| 
 |-:|:------| 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/John2018_AROposter_sm.pdf) | John S., Kluge M., Erfurt P., Müller S., Lexow J., Kahrs L. A., Rau Th., Ortmaier T., Majdani O., Lenarz Th. (2018a): _Feasibility of a Simple, Safe, and High-Precision Approach to Minimally Invasive Cochlear Implantation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236-237. |
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/Salcher2018_AROposter.pdf) | Salcher R., Nullmeier M., Lenarz Th., Pawsey N., Waldmann B., Majdani O., Rau Th. (2018a): _Electrode insertion force measurements in sheep temporal bones_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236. |
@@ -86,9 +86,10 @@ van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lena
 |  | Rau Th. S., Hügl S., Salcher R., Lenarz Th., Majdani O. (2017c): _Hydraulisch automatisierte Elektrodeninsertion_. Pages 131-135. |
 |  | Kluge M., Lexow G. J., Lenarz Th., Majdani O., Rau Th. S. (2017b): _Untersuchung zur Genauigkeit des intraoperativen Fertigungssystems für den RoboJig_. Pages 262-265. |
 
-Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017a): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling. 101352N. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](http://dx.doi.org/10.1117/12.2254381)\].
-
-Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017a): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017: Image-Guided Procedures, Robotic Interventions, and Modeling. 101350P. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](http://dx.doi.org/10.1117/12.2254304)\].
+| ![](publications/EmptyLogo50px.jpg){style="width:40px"} | SPIE Medical Imaging 2017. Image-Guided Procedures, Robotic Interventions, and Modeling. February 11–16, Orlando, FL, USA | 
+|-:|:------|
+|  | Lexow G. J., Kluge M., Majdani O., Lenarz Th., Rau Th. S. (2017a): _Phantom-based evaluation method for surgical assistance devices in minimally-invasive cochlear implantation_. In Proc. SPIE Medical Imaging 2017. 101352N. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](http://dx.doi.org/10.1117/12.2254381)\]. |
+|  | Rau Th. S., Lexow G. J., Blume D., Kluge M., Lenarz Th., Majdani O. (2017a): _Micro-stereotactic frame utilizing bone cement for individual fabrication. An initial investigation of its accuracy_. In Proc. SPIE Medical Imaging 2017. 101350P. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](http://dx.doi.org/10.1117/12.2254304)\].
 
 
 ### Posters & Abstracts
