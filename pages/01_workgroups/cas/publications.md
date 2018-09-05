@@ -9,21 +9,21 @@ Schurzig D., Schwarzendahl S., Wallaschek J., van Drunen W. J., Rau Th. S., Lena
 
 Schurzig D., Timm M. E., Lexow G. J., Majdani O., Lenarz Th., Rau Th. S. (2018a): _Cochlear helix and duct length identification - Evaluation of different curve fitting techniques_. Cochlear Implants International. 19(5):268-283. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1080/14670100.2018.1460025)\].
 
-Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018a): _On the accuracy of cochlear duct length measurement in computed tomographic images_. Eur Arch Otorhinolaryngol. 275(5):1077-1085. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s00405-018-4930-7); IF: 1.660\].
+Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018): _On the accuracy of cochlear duct length measurement in computed tomographic images_. Eur Arch Otorhinolaryngol. 275(5):1077-1085. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s00405-018-4930-7); IF: 1.660\].
 
 
 
 ### Posters & Abstracts
 | ![CI2018 Logo](publications/CI2018logo100px.jpg){style="width:40px"}| CI 2018 - 15th International Conference on Cochlear Implants and Other Implantable Auditory Technology, June 27-30, Antwerp, Belgium|
 |-:|:------| 
-| | Majdani O., Kluge M., Kreul D., Lexow J., Lenarz T., Rau Th. (2018b): _Technical accuracy of the stereotactic minimally invasive 'RoboJig' system for CI surgery_.|
-| | Salcher R., Nullmeier M., Lenarz T., Pawsey N., Cramer J., Majdani O., Rau Th. (2018b): _Electrode insertion force measurements in porcine cochlea specimens_.|
-| | Timm ME., Weller T., Alcacer-Labrador D., Büchner A., Lenarz T., John S. (2018b): _A data driven concept to choose the optimal CI electrode array_.|
+| | Majdani O., Kluge M., Kreul D., Lexow J., Lenarz T., Rau Th. S. (2018b): _Technical accuracy of the stereotactic minimally invasive 'RoboJig' system for CI surgery_.|
+| | Salcher R., Nullmeier M., Lenarz T., Pawsey N., Cramer J., Majdani O., Rau Th. S. (2018b): _Electrode insertion force measurements in porcine cochlea specimens_.|
+| | Timm M. E., Weller T., Alcacer-Labrador D., Büchner A., Lenarz T., John S. (2018b): _A data driven concept to choose the optimal CI electrode array_.|
 
 
 | ![CARS 2018 Logo](publications/CARS2018logo100px.jpg){style="width:40px"} | CARS 2018 - 32nd International Congress and Exhibition on Computer Assisted Radiology and Surgery, June 20-23, Berlin, Germany|
 |-:|:------| 
-| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://link.springer.com/content/pdf/10.1007%2Fs11548-018-1766-y.pdf) | Rau Th., Uhlenbusch L., Witte S., Lexow J., Kahrs LA, Lenarz Th., Ortmaier T., Majdani O. (2018b): _Determination of error sources and values for an individually mouldable surgical targeting system_. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://link.springer.com/article/10.1007/s11548-018-1766-y)\].| 
+| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://link.springer.com/content/pdf/10.1007%2Fs11548-018-1766-y.pdf) | Rau Th. S., Uhlenbusch L., Witte S., Lexow J., Kahrs L. A., Lenarz Th., Ortmaier T., Majdani O. (2018b): _Determination of error sources and values for an individually mouldable surgical targeting system_. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://link.springer.com/article/10.1007/s11548-018-1766-y)\].| 
 
 
 | ![](publications/EmptyLogo50px.jpg){style="width:40px"} | 89th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 9-12, Lübeck, Germany| 
