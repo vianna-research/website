@@ -3,7 +3,7 @@
 ![meetingphoto](ihearmeeting.png)
 
 ##About
-This project achieves the international hearing research (IHeaR) between Germany - Hanover, Chile - Santiago and Argentines - Buenos Aires. Participating in this collaboration and exchange of research will be the cluster of exellence-[Hearing4All(H4A)(http://hearing4all.eu/EN/)], which is the world's largest center for restoration of hearing with implants and subsequent patient care, the [Auditory and cognition center (AUCO)](http://www.auco.cl/) in Santiago, Chile which is composed of interdisciplinary research groups as well as research groups from Buenos Aires, Argentinia. The H4A and AUCO, together with IHeaR, want to advance the international hearing research by exchanging knowledge and working together and thereby improve and accelerate the reach of basic and clinical research into medical care and ultimately to patients. 
+This project achieves the international hearing research (IHeaR) between Germany - Hanover, Chile - Santiago and Argentines - Buenos Aires. Participating in this collaboration and exchange of research will be the cluster of exellence-[Hearing4All(H4A)](http://hearing4all.eu/EN/), which is the world's largest center for restoration of hearing with implants and subsequent patient care, the [Auditory and cognition center (AUCO)](http://www.auco.cl/) in Santiago, Chile which is composed of interdisciplinary research groups as well as research groups from Buenos Aires, Argentinia. The H4A and AUCO, together with IHeaR, want to advance the international hearing research by exchanging knowledge and working together and thereby improve and accelerate the reach of basic and clinical research into medical care and ultimately to patients. 
 
 
 ##Conferences
