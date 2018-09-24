@@ -14,6 +14,13 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018)
 
 
 ### Posters & Abstracts
+| ![BMT2018 Logo](publications/CI2018.png){style="width:50px"}| BMT 2018 - 52nd Annual Conference of the German Society for Biomedical Engineering (DGBMT within VDE), September 26-28, Aachen, Germany|
+|-:|:------| 
+| <span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.degruyter.com/downloadpdf/j/cdbme.2018.4.issue-1/cdbme-2018-0122/cdbme-2018-0122.pdf)| Hügl S., Blum T., Lenarz T., Majdani O., Rau Th.S. (2018): _Impact of anatomical variations on insertion forces - An investigation using artificial cochlear models -_.|
+| | John S., Kluge M., Stieghorst J., Rau Th. S., Majdani O., Lenarz T. (2018): _Toward minimal-invasive cochlear implantation: A study on the accuracy and repeatability of a single drill tunnel approach_.|
+| | Rau Th.S., Suzaly N., Pawsey N., Hügl S., Lenarz T., Majdani O. (2018): _Histological evaluation of a cochlear implant electrode array with electrically activated shape change for perimodiolar positioning_.|
+| | Rau Th.S., Witte S., Uhlenbusch L., Lexow J., Hügl S., Kahrs L. A., Majdani O., Lenarz T. (2018): _Minimally invasive mastoidectomy approach using a mouldable surgical targeting system_.|
+
 | ![CI2018 Logo](publications/CI2018logo100px.jpg){style="width:50px"}| CI 2018 - 15th International Conference on Cochlear Implants and Other Implantable Auditory Technology, June 27-30, Antwerp, Belgium|
 |-:|:------| 
 | | Majdani O., Kluge M., Kreul D., Lexow J., Lenarz T., Rau Th. S. (2018b): _Technical accuracy of the stereotactic minimally invasive 'RoboJig' system for CI surgery_.|
