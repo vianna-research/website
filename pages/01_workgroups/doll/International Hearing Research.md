@@ -20,5 +20,5 @@ Víctor Fuenzalida, Theodor Doll, Katharina Tegtmeier, Achim Walter Hassel, "Mat
 * The Auditory and Cognition Center -Interdisciplinary research groups - Santiago ([AUCO](http://www.auco.cl/))
 * Prof. Prof. Dr. Thomas Lenarz, Cluster of Excellence Hearing4all - Hanover ([Hearing4All](http://hearing4all.eu/EN/))
 * Prof. Dr. Theodor Doll, Fraunhofer Institut für Toxikologie und Experimentelle Medizin - Hanover 
-([Translationale Medizintechnik](https://www.item.fraunhofer.de/de/angebot/medizintechnik.html/))
+([Translationale Medizintechnik](https://www.item.fraunhofer.de/de/angebot/medizintechnik.html/)) 
 
