@@ -14,7 +14,7 @@ Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018)
 
 
 ### Posters & Abstracts
-| ![BMT2018 Logo](publications/bmt2018.png){style="width:50px"}| BMT 2018 - 52nd Annual Conference of the German Society for Biomedical Engineering (DGBMT within VDE), September 26-28, Aachen, Germany|
+| ![BMT2018 Logo](publications/bmt2018.jpg){style="width:50px"}| BMT 2018 - 52nd Annual Conference of the German Society for Biomedical Engineering (DGBMT within VDE), September 26-28, Aachen, Germany|
 |-:|:------| 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.degruyter.com/downloadpdf/j/cdbme.2018.4.issue-1/cdbme-2018-0122/cdbme-2018-0122.pdf)| Hügl S., Blum T., Lenarz T., Majdani O., Rau Th.S. (2018): _Impact of anatomical variations on insertion forces - An investigation using artificial cochlear models -_.|
 | | John S., Kluge M., Stieghorst J., Rau Th. S., Majdani O., Lenarz T. (2018): _Toward minimal-invasive cochlear implantation: A study on the accuracy and repeatability of a single drill tunnel approach_.|
