@@ -1,4 +1,5 @@
 
+title: IHeaR- The International Hearing Research 
 
 ![meetingphoto](ihearmeeting.png)
 
