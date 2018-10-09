@@ -64,11 +64,11 @@ Rau Th. S., Majdani O., Lenarz T., Kahrs L. A.: _Surgical guidance device and me
 
 Bergmeier J., Fitzpatrick J.M., Daentzer D., Majdani O., Ortmaier T., Kahrs L. A. (2017a): _Workflow and simulation of image-to-physical registration of holes inside spongy bone_. Int J Comput Assist Radiol Surg. 12(8):1425–1437. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](http://dx.doi.org/10.1007/s11548-017-1594-5); IF: 1.827\].
 
-Hügl S., Eckardt, F., Lexow J., Majdani O., Lenarz Th., Rau Th. S. (2017a): _Increasing the resolution of morphological 3D image data sets through image stitching: application to the temporal bone._ Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization. 5(6):438-445. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1080/21681163.2015.1137080)\].
-
 Büchner A., Illg A., Majdani O., Lenarz T. (2017a): _Investigation of the effect of cochlear implant electrode length on speech comprehension in quiet and noise compared with the results with users of electro-acoustic-stimulation, a retrospective analysis_. PLoS One. 12(5):e0174900. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174900&type=printable); [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1371/journal.pone.0174900); IF: 3.057\].  
 
 van Drunen W., Müller M., Glukhovskoy A., Salcher R., Wurz M., Lenarz T., Maier H. (2017a): _Feasibility of Round Window Stimulation by a Novel Electromagnetic Microactuator_. BioMed Research International 2017, Article ID: 6369247. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](http://downloads.hindawi.com/journals/bmri/2017/6369247.pdf); [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.hindawi.com/journals/bmri/2017/6369247/); IF: 2.476\].
+
+Hügl S., Eckardt, F., Lexow J., Majdani O., Lenarz Th., Rau Th. S. (2017a): _Increasing the resolution of morphological 3D image data sets through image stitching: application to the temporal bone._ Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization. 5(6):438-445. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1080/21681163.2015.1137080)\].
 
 Lyutenski S., Götz F., Giourgas A., Majdani O., Bültmann E., Lanfermann H., Lenarz Th., Giesemann A. M. (2017a): _Does severity of cerebral MRI lesions in congenital CMV infection correlates with the outcome of cochlear implantation?_ Eur Arch Otorhinolaryngol. 274(3):1397–1403. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s00405-016-4408-4); IF: 1.660\].
 
@@ -83,13 +83,13 @@ Zentner L., Griebel S., Wystup C., Hügl S., Rau Th. S., Majdani O. (2017a): _Sy
 
 ### Conference Papers
 
+van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017c): _Investigation of intracochlear dual actuator stimulation in a scaled test rig_. In Current Directions in Biomedical Engineering  3(2):119-122. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.degruyter.com/downloadpdf/j/cdbme.2017.3.issue-2/cdbme-2017-0024/cdbme-2017-0024.pdf); [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1515/cdbme-2017-0024)\].
+
 Griebel S., Hügl S., Rau Th. S., Majdani O., Zentner L. (2017a): _Nachgiebiger fluidmechanischer Aktuator für eine schonende Implantation am Beispiel eines vorgekrümmten Cochlea-Implantat-Elektrodenträgers_. In Tagungsband 12. Kolloquium Getriebetechnik, 20.-22.09.2017 Dresden, TUDpress, S.235-254 \[ISBN: 978-3-95908-111-5].
 
 Hügl S., Zentner L., Griebel S., Majdani O., Rau Th. S. (2017e): _Analysis of the customized implantation process of a compliant mechanism with fluidic actuation used for cochlear implant electrode carriers_. In Engineering for a Changing World, Vol 59, 11.-15.09. 2017 Ilmenau, ilmedia \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> urn](http://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2017iwk-111:0)\].
 
 Rau Th. S., Hügl S., Lenarz Th., Majdani O. (2017d): _Toward steerable electrodes : an overview of concepts and current research_. In Current Directions in Biomedical Engineering  3(2):765-769.  \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.degruyter.com/downloadpdf/j/cdbme.2017.3.issue-2/cdbme-2017-0161/cdbme-2017-0161.pdf); [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1515/cdbme-2017-0161)\].
-
-van Drunen W. J., Kacha Lachheb S., Glukhovskoy A., Twiefel J., Wurz M. C., Lenarz Th., Rau Th. S., Majdani O. (2017c): _Investigation of intracochlear dual actuator stimulation in a scaled test rig_. In Current Directions in Biomedical Engineering  3(2):119-122. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.degruyter.com/downloadpdf/j/cdbme.2017.3.issue-2/cdbme-2017-0024/cdbme-2017-0024.pdf); [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1515/cdbme-2017-0024)\].
 
 | ![](publications/EmptyLogo50px.jpg){style="width:50px"} | 16th Annual Meeting of the German Society for Computer and Robot Assisted Surgery (CURAC), 05.-07.10.2017, Hannover, Germany | 
 |-:|:------|
