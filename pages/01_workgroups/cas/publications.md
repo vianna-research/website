@@ -5,11 +5,15 @@ title: Publications
 
 ### Journal Papers
 
+Hügl S., Rülander K., Lenarz Th., Majdani O., Rau Th. S. (2018): _Investigation of ultra-low insertion speeds in an inelastic artificial cochlear model using custom-made cochlear implant electrodes_. Eur Arch Otorhinolaryngol. epub ahead of print 10/2018.  \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://link.springer.com/article/10.1007%2Fs00405-018-5159-1); IF: 1.660\].
+
+Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018): _On the accuracy of cochlear duct length measurement in computed tomographic images_. Eur Arch Otorhinolaryngol. 275(5):1077-1085. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s00405-018-4930-7); IF: 1.660\].
+
 Schurzig D., Schwarzendahl S., Wallaschek J., van Drunen W. J., Rau Th. S., Lenarz Th., Majdani O. (2018b): _Numerical analysis of intracochlear mechanical auditory stimulation using piezoelectric bending actuators_. Med Biol Eng Comput 56(5):733-747. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s11517-017-1720-0); IF: 1.971\].
 
 Schurzig D., Timm M. E., Lexow G. J., Majdani O., Lenarz Th., Rau Th. S. (2018a): _Cochlear helix and duct length identification - Evaluation of different curve fitting techniques_. Cochlear Implants International. 19(5):268-283. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1080/14670100.2018.1460025)\].
 
-Lexow G. J., Kluge M., Gellrich N.-C., Lenarz Th., Majdani O., Rau Th. S. (2018): _On the accuracy of cochlear duct length measurement in computed tomographic images_. Eur Arch Otorhinolaryngol. 275(5):1077-1085. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s00405-018-4930-7); IF: 1.660\].
+
 
 
 
