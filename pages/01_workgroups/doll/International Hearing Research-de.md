@@ -4,9 +4,9 @@
 
 
 Das IHeaR Projekt, bestehend aus einem Team rund um Prof. Prof. Dr. Thomas Lenarz und Prof. Dr. Theodor Doll, verbindet 
-die Hörforschung des Exzellenzclusters „Hearing 4 All“ ([Hearing4All (H4A)](http://hearing4all.eu/EN/)  in Hannover,
+die Hörforschung des Exzellenzclusters „Hearing 4 All“ [Hearing4All (H4A)](http://hearing4all.eu/EN/)  in Hannover,
 mit dem ebenfalls international ausgewiesenen Verbung „Audition and Cognition“ 
-([Auditory and cognition center (AUCO)](http://www.auco.cl/)in Chile und Argentinien. 
+[Auditory and cognition center (AUCO)](http://www.auco.cl/)in Chile und Argentinien. 
 Diese Zusammenarbeit wird vom deutschen Bundesministerium für Bildung und Forschung gefördert.
 Nach dem Vorbild des deutschen Hörzentrums in Hannover, zielt sie neben der Grundlagenforschung auch 
 auf die stetige Verbesserung der Patientenversorgung. Grundlagen des Projektes bildet vorerst der wissenschaftliche 
