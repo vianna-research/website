@@ -1,4 +1,4 @@
-##Die Internationale Hörforschung (IHeaR)
+
 
 ![bmbflogo](BMBF_gefördert vom_deutsch.png)
 
