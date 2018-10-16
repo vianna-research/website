@@ -1,6 +1,7 @@
 ##Die Internationale Hörforschung (IHeaR)
 
-![bmbf-logo](BMBF_gefördert vom_deutsch.png) 
+![bmbf-logo](BMBF_gefördert vom_deutsch.jpg)
+
 
 Das IHeaR Projekt, bestehend aus einem Team rund um Prof. Prof. Dr. Thomas Lenarz und Prof. Dr. Theodor Doll, verbindet 
 die Hörforschung des Exzellenzclusters „Hearing 4 All“ ([Hearing4All (H4A)](http://hearing4all.eu/EN/))  in Hannover,
