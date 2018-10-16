@@ -14,8 +14,7 @@ Ergebnisse aus der Grundlagen- und klinischen Forschung in der medizinischen Ver
 
 ##Konferenzen
 Um ein bilaterales Austauschprogramm für junge Forscher und Ärzte zu gewährleisten,
-wurden bereits drei junge Ärzte aus Chile an der medizinischen Hochschule Hannover (MHH) empfangen.
-Nach dem erfolgreichen Workshop in diesem Jahr und dem bisherigen regen Austausch freuen sich die Projektpartner auf das 
+wurden bereits drei junge Ärzte aus Chile an der [Medizinischen Hochschule Hannover (MHH)](https://www.mh-hannover.de/) empfangen. Nach dem erfolgreichen Workshop in diesem Jahr und dem bisherigen regen Austausch freuen sich die Projektpartner auf das 
 nächste Treffen. 
 
 ![meetingphoto](ihearmeeting.png)
