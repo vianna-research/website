@@ -1,6 +1,6 @@
 ##Die Internationale Hörforschung (IHeaR)
 
-![bmbflogo](BMBF_gefördert vom_deutsch.jpg)
+![bmbflogo](BMBF_gefördert vom_deutsch.png)
 
 
 Das IHeaR Projekt, bestehend aus einem Team rund um Prof. Prof. Dr. Thomas Lenarz und Prof. Dr. Theodor Doll, verbindet 
