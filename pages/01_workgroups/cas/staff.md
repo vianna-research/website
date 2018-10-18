@@ -14,7 +14,7 @@ title:Staff
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
 |![Portrait](staff/Omid.jpg)    | Prof. Dr. Omid Majdani                     | Majdani.Omid@mh-hannover.de        |
 |![Portrait](staff/Silke.jpg)   | M. Sc. Silke Hügl							 | Huegl.Silke@mh-hannover.de         |
-|![Portrait](staff/mathias_small.jpg)	| Dipl.-Phys. Mathias Müller		 | Mueller.Mathias@mh-hannover.de	  |
+|![Portrait](staff/mathias_small.jpg)	| Dr. rer. nat. Mathias Müller		 | Mueller.Mathias@mh-hannover.de	  |
 |![Portrait](staff/nuha.jpg) 	| M. Sc. Nuha Suzaly			   			 | Suzaly.Nuha@mh-hannover.de          |
 
 
