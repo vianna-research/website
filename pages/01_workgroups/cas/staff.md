@@ -30,8 +30,9 @@ title:Staff
 
 | Students                                                                                             |
 |:------------------------------|:------------------------------|-------------------------------------------------:|
+|![Portrait](staff/soon.png) 	| Nina Aldag								| Student Research Project, Leibniz University Hannover 	|
 |![Portrait](staff/soon.png) 	| Shari Barati								| Medical Doctoral Thesis, Hannover Medical School 	|
-|![Portrait](staff/tobias.png) 	| Tobias Blum 								| Bachelor Thesis, Leibniz University Hannover      |Link
+|![Portrait](staff/tobias.png) 	| Tobias Blum 								| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Bachelor Thesis, Technische Universität Berlin    |
 |![Portrait](staff/lena.jpg)	| Lena Geiger								| Student Assistant, Hannover Medical School		| 
 |![Portrait](staff/till.jpg) 	| Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
@@ -49,7 +50,7 @@ title:Staff
 |:------------------------------|:------------------------------|--------------------------------------:|
 |![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow (11/2011 - 03/2018) | now: [Part Time Scientists (Berlin)](https://ptscientists.com/)         |
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | now: [Implandata Ophthalmic Products GmbH (Hannover)](http://www.implandata.com) |
-|![Portrait](staff/soon.png)  | Dipl.-Inform. Samuel John                  | now: [OtoJig GmbH (Hannover)](http://www.otojig.com/)  |
+|![Portrait](staff/soon.png)  	| Dipl.-Inform. Samuel John                  | now: [OtoJig GmbH (Hannover)](http://www.otojig.com/)  |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge (11/2014 - 07/2017)	| now: [OtoJig GmbH (Hannover)](http://www.otojig.com/)  |
 |![Portrait](staff/daniel.png)  | Dr.-Ing. Daniel Schurzig  (04/2014 - 08/2015) | now: [MED-EL Deutschland (Hannover)](www.medel.com) |
 |![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach  (12/2012 - 06/2014) |                           				|
@@ -62,7 +63,7 @@ title:Staff
 |:------------------------------|:-------------------------------------------|--------------------------------------:|
 |![Portrait](staff/soon.png) 	  | Dr. med. Claas Baier					| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/alexbecker.jpg)| M. Sc. Alexander Becker 				| now: [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/11.html?&no_cache=1&tx_tkinstpersonen_pi1%5Balias%5D=Becker1)|
-|![Portrait](staff/deniseb.png) | Denise Blume 								| Bachelor Thesis, Leibniz University Hannover      |
+|![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/soon.png) 	  | Mehran Heidel 							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| now: Assistant Physician Radiology, [Kantonsspital Baden, Schweiz](https://www.kantonsspitalbaden.ch/Fachbereiche/Radiologie/index.html)	|
 |![Portrait](staff/katharina.jpg) | M. Sc. Katharina Rülander				| 											   |
