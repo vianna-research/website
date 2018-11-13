@@ -1,11 +1,11 @@
 title: Lectures
 
 
-##Polymerbased microfabrication techniques for implants
+## Polymerbased microfabrication techniques for implants
 
 Mikrokunstofffertigungstechnik für Implantate
 
-###Content
+### Content
 
 This lecture provides physico-chemical basics and overview of manufacturing components for biomedical use. Essentials for the succesfull integration of implants are their  assessment and biocompatibility. Materials and manufacturing processes are introduced. Each lectures includes one  material and correlationg finilazition techniques for  specific implants and medical products.
 By means of these examples, requirements for material selection and usability can be established and understood.
@@ -17,14 +17,14 @@ Tutorials include researching and exercises about biofunctionality which are dis
 
 **Contact:**
 [Marc Müller (IMP,LUH)](http://www.imp.uni-hannover.de/mitarbeiter.html)
-[Jan Stieghorst (MHH)](staff.html)
+[Jan Stieghorst (MHH)](20_staff.md)
 
 **Location:**  [LUH, Institute for Multiphase Processing, Callinstraße 36](http://www.imp.uni-hannover.de/wegbeschreibung.html)
 
 
-##Joint Lecture: Biomechanics - Inhalation - Neurorehabilitation
+## Joint Lecture: Biomechanics - Inhalation - Neurorehabilitation
 
-###Content: 
+### Content: 
 This lecture introduces into the field of the peripheral neural system. It starts with the mechanic requirements of the striated sceletal muscles, adds exemplarily the smooth muscles and disembogues into the requirements of the overlying neural loops of control. The lecture ends up with today's approaches to technically restore such functions in the disabled / severly injured.
 
 **Date:** 
@@ -34,9 +34,9 @@ This lecture introduces into the field of the peripheral neural system. It start
 **Contact:**
 [Prof. Dr.-Ing. Jürgen Legler (Jade Hochschule - Coordinator)](http://team.jade-hs.de/kontakt/index.php?id=41)
 
-[Jan Stieghorst (MHH - Contact for Biomechanics](staff.html)
+[Jan Stieghorst (MHH - Contact for Biomechanics](20_staff.md)
 [Dr. Gerhard Pohlmann (Fraunhofer ITEM - Contact for Inhalation)](https://www.item.fraunhofer.de/de/forschungsschwerpunkte/medizintechnik.html)
-[Prof. Dr.-Ing Theodor Doll (MHH - Contact for Neurorehabilitation)](http://www.vianna.de/01_workgroups/doll/pagedoll.html)
+[Prof. Dr.-Ing Theodor Doll (MHH - Contact for Neurorehabilitation)](http://www.vianna.de/01_workgroups/doll/01_pagedoll.md)
 
 **Location:** [Jade Hochschule Wilhelmshaven](https://www.jade-hs.de/)
 
@@ -63,6 +63,6 @@ Based on this, we want to develop tools and techniques for the assessment of "na
 **Language:** Englisch
 
 **Contact:**
-[Katharina Tegtmeier (MHH)](staff.html)
+[Katharina Tegtmeier (MHH)](20_staff.md)
 
 **Location:** MHH, Vianna,Feodor-Lynen-Str. 35, Conference Room
