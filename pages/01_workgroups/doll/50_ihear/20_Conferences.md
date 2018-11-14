@@ -7,7 +7,7 @@ In order to ensure a bilateral exchange program for young researchers and doctor
 
 
 
-|Dates||Location|
+|Dates|Location|
 |-----------|-------------|
 |Otorrinolaringología congress [(ORL 2018)](http://www.orl2018.cl/)on 21-24 November 2018| Santa Cruz|
 |Meeting on Novbember 2018| Santa Cruz |
