@@ -1,4 +1,4 @@
-title: International Hearing Research
+title: IHeaR
 
 ![bmbflogo](bmbfenglisch.png)
 
