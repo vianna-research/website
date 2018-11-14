@@ -5,7 +5,9 @@ In order to ensure a bilateral exchange program for young researchers and doctor
 
 ![meetingphoto](ihearmeeting.png)
 
+
 In the following, further dates are listed. **We are looking forward to welcoming you!**
+
 
 |Dates|Location|
 |-----------|-------------|
