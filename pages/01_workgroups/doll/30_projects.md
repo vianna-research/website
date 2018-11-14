@@ -1,4 +1,4 @@
-title: Grants and Projects
+title: Projects
 
 Publications regarding these projects can be found [here](70_publications.md)
 
