@@ -1,3 +1,5 @@
+title: Projekte 
+
 status: draft
 Publikationen zu diesen Projekten finden Sie [hier](70_publications.md)
 
