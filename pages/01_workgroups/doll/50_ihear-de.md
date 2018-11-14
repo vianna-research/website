@@ -1,5 +1,8 @@
 
-   ![bmbflogo](bmbflogodeutsch.png)
+  
+  title: IHeaR 
+  
+  ![bmbflogo](bmbflogodeutsch.png)
 
 ## Die Internationale Hörforschung (IHeaR)
 Das **IHeaR** Projekt, bestehend aus einem Team rund um Prof. Prof. Dr. Thomas Lenarz und Prof. Dr. Theodor Doll, verbindet die Hörforschung des Exzellenzclusters **[Hearing4All (H4A)](http://hearing4all.eu/EN/)** in Hannover, mit dem ebenfalls international ausgewiesenen Verbund **[Auditory and cognition center (AUCO)](http://www.auco.cl/)** in Chile und Argentinien. Diese Zusammenarbeit wird vom deutschen Bundesministerium für Bildung und Forschung gefördert. Nach dem Vorbild des deutschen Hörzentrums in Hannover, wird neben der Grundlagenforschung auch die stetige Verbesserung der Patientenversorgung erzielt. Grundlagen des Projektes bildet vorerst der wissenschaftliche Austausch zwischen den Projektpartnern in den Bereichen Hören, medizinisch ingenieurstechnischer Forschung und Brain-Computer-Interfaces für die Kognitionswissenschaft. Ein besonderes Anliegen des IHeaR Projektes ist das schnelle Gelangen von Ergebnissen aus der Grundlagen- und klinischen Forschung in der medizinischen Versorgung Deutschlands, sowie Südamerikas. 
