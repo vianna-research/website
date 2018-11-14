@@ -1,6 +1,6 @@
 title: Conferences 
 
-## Conferences- Workshops & Meetings 
+## Workshops & Meetings 
 In order to ensure a bilateral exchange program for young researchers and doctors, three young doctors from Chile have already been received at **[Hannover Medical School (MHH)](https://www.mh-hannover.de/) in Hannover**. Following the successful workshop on **March 2018** (see figure below), the project partners are looking forward to the next meeting.
 
 ![meetingphoto](ihearmeeting.png)
