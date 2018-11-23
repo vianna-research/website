@@ -1,42 +1,42 @@
-title: Büchner Lab - Signal Processing
+title: Büchner Lab - Signal Processing for Auditory Implants
 ***
 
 # Forschungsthemen: #
 
 ![Deutsches HörZentrum Logo](buechner/dhz_logo.png){style="float:right; margin-left:3em"}
 
-- Signalverarbeitung für Cochlea-Implantate
+- Signal processing for cochlear implants
 
-- Messung akustisch evozierter Potentiale mittels intracochleärer Messelektroden (Cochlear Microphonics, Summationspotential, Summenaktionspotential)
+- Measurement of auditory evoked potentials by intracochlear electrodes (Cochlear Microphonics, summating potential, compound action potential)
 
-- Messung elektrisch evozierter Potentiale (EEG)
+- Measurement of electrical evoked potentials (EEG)
 
-- Objektivierung des Hörens mittels objektiver Messverfahren
+- Objectification of hearing with objective measuring methods
 
-- Richtungshören und binaurale Verarbeitung, auditorische Psychophysik
+- Sound localization and binaural processing of auditory psychophysics 
 
 
 ----------
 
 
-Die Arbeitsgruppe beschäftigt sich mit der Entwicklung von Signalverarbeitungsstrategien für Cochlea-Implantate. Je nach Hersteller stimulieren 12 bis 22 intracochleäre Elektrodenkontakte des Cochlea-Implantats den Hörnerv elektrisch, um bei CI-Patienten einen Höreindruck hervorzurufen. Die Elektroden werden dabei in schneller Folge mehrere hundert bis tausend Mal in der Sekunde aktiviert. Die Komposition dieser intracochleären Stimulationsmuster, die mittels Signalverarbeitungsstrategienberechnet werden, bestimmt dabei den Höreindruck des CI-Patienten. Daraus ergeben sich die folgende Themenschwerpunkte:
+The group is working on the development of signal processing strategies for cochlear implants. Depending on the manufacturer, 12 to 22 intracochlear electrode contacts of the cochlear implant electrically stimulate the auditory nerve to cause a hearing sensation in CI patients. The electrodes are activated in rapid succession several hundred to a thousand times a second. The composition of these intracochlear stimulation patterns, which are calculated by signal processing strategies, determines the auditory impression of the CI patient. This results in the following main topics:
+
 
 ![Freifeldraum](buechner/freifeld.jpg){style="width:300px; float:right; margin-left:3em"}
 
-- **Entwicklung von Signalverarbeitungsstrategien für Cochlea-Implantate** unter Berücksichtigung der Wahrnehmungseigenschaften des menschlichen Hörsystems. Insbesondere die Berücksichtigung von Wahrnehmungsschwellen in Abhängigkeit des akustischen Signals wird erforscht zur besseren Nutzung der eingeschränkten Bandbreite der Elektrode-Nervschnittstelle. Um das Hören in der wachsenden Patientengruppe von EAS (Elektrisch-Akustische Stimulation) Patienten zu verbessern, werden neuerdings auch Interaktionen zwischen elektrischer und akustischer Stimulation bei Patienten mit akustischem Restgehör untersucht.
+- **Development of signal processing strategies for cochlear implants** taking into account the perception characteristics of the human hearing system. In particular, the consideration of perception thresholds as a function of the acoustic signal is being researched in order to make better use of the limited bandwidth of the electrode-nerve interface. In order to improve hearing in the growing group of EAS (Electric-Acoustic Stimulation) patients, interactions between electrical and acoustic stimulation in patients with residual acoustic hearing are also being investigated.
 
-- **Entwicklung von binauralen Stimulationsstrategien für Cochlea-Implantate** mit dem Ziel, das eingeschränkte Richtungshören bei bilateral implantierten Cochlea-Implantat Patienten zu verbessern. Evaluation der Strategien im reflexionsarmen Raum mit unterer Grenzfrequenz von 90 Hz unter Verwendung einer fest installierten Richtungshöranlage.
+- **Development of binaural stimulation strategies for cochlear implants** with the aim of improving limited directional hearing in bilateral cochlear implants patients. Evaluation of the strategies in an anechoic chamber with lower limit frequency of 90 Hz using a fixed localization sound system.
 
--  **Nutzung hochauflösender EEG Systeme** (128 Kanäle, Abtastrate 20.000 Hz) für die Objektivierung von Hörwahrnehmungen in CI-Patienten (Frequenz-, Lautstärke- und zeitliche Auflösung).
+- **Use of high-resolution EEG systems** (128 channels, sampling rate 20,000 Hz) for the objectification of auditory sensations in CI patients (frequency, volume and temporal resolution).
 
-- **Entwicklung automatisierter Anpassverfahren** auf der Basis von objektiven Messungen und Patientenfeedback.
+- **Development of automated fitting procedures** based on objective measurements and patient feedback.
 
-- **Entwicklung und Evaluation von Geräuschunterdrückungs- und Beamformer-Algorithmen** zur Verbesserung des Signal-Rauschabstands in unterschiedlichen Hörumgebungen zur Verbeserung des Hörens beim  CI-Patienten.
-
+- **Development and evaluation of noise cancellation and beamforming algorithms** to improve signal-to-noise ratio in different listening environments to improve hearing in CI patients.
 - - - 
 
 
-**Kontakt:**
+**Contact:**
 
 [DHZ-Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=1)
 
