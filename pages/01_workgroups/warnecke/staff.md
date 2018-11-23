@@ -8,11 +8,10 @@ PD. Dr. med. A. Warnecke 		| <Warnecke.Athanasia@mh-hannover.de>
 
 **Research Team**
 
-Ariane Römer, Ass.-Arzt Dr. med		 		| 	<Römer.Ariane@mh-hannover.de>		
 
 Jasmin Bohlmann, Biol.-Lab.			 		| 	<Bohlmann.Jasmin@mh-hannover.de>	
 
-Jennifer Schulze, M.Sc. Biol.				|  	<Schulze.Jennifer.HNO@mh-hannover.de> 	
+Jennifer Schulze, Dr. rer. nat.			|  	<Schulze.Jennifer.HNO@mh-hannover.de> 	
 
 Melanie Steffens, Dr. rer. nat. 			|  	<Steffens.Melanie@mh-hannover.de>
 
@@ -20,13 +19,17 @@ Darja Werner, TA 							|  	<Werner.Darja@mh-hannover.de>
 
 Kirsten Wissel, Dr. rer. nat.				|  	<Wissel.Kirsten@mh-hannover.de>
 
-Qing Yue									| 	<Yue.Qing@mh-hannover.de>
-
 Marvin Peter, M.Sc. Chem.					|  	<Peter.Marvin@mh-hannover.de>
 
+PhD Odett Kaiser (Tierärztin)				|  	<Kaiser.Odette@mh-hannover.de>
+
+Susanne Sasse (Tierärztin)							| 	<sasse.susanne@mh-hannover.de>
 -----------------------------
 
 **Alumni**
+
+
+Qing Yue	(Arzt)
 
 Dipl.-Biol. Dr. Katharina Kranz
 
@@ -36,4 +39,4 @@ Dipl.-Phys. PhD Alexander Rettenmaier
 
 Dr. med. vet. Antonina Wrzeszcz
 
-PhD Odett Kaiser (Tierärztin)
+Ariane Römer, Ass.-Arzt Dr. med
