@@ -68,7 +68,7 @@ title:Staff
 |![Portrait](staff/alexbecker.jpg)| M. Sc. Alexander Becker 				| now: [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/11.html?&no_cache=1&tx_tkinstpersonen_pi1%5Balias%5D=Becker1)|
 |![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/soon.png) 	  | Mehran Heidel 							| Medical Doctoral Thesis, Hannover Medical School	|
-|![Portrait](staff/max.png)		  | Maximilian Henke							| Master Thesis, Leibniz University Hannover   		|
+|![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis, Leibniz University Hannover   		|
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| now: Assistant Physician Radiology, [Kantonsspital Baden, Schweiz](https://www.kantonsspitalbaden.ch/Fachbereiche/Radiologie/index.html)	|
 |![Portrait](staff/katharina.jpg) | M. Sc. Katharina Rülander				| 											   |
 |![Portrait](staff/henrik.png)	  | M. Sc. Henrik Schädlich				 	| Student Assistant, Master Thesis   |
