@@ -36,14 +36,17 @@ title:Staff
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Bachelor Thesis, Technische Universität Berlin    |
 |![Portrait](staff/lena.jpg)	| Lena Geiger								| Student Assistant, Hannover Medical School		| 
 |![Portrait](staff/till.jpg) 	| Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
-|![Portrait](staff/max.png)		| Maximilian Henke							| Master Thesis, Leibniz University Hannover   		|
+|![Portrait](staff/soon.png) 	| Christina Keller				    		| Student Research Project, Leibniz University Hannover  |
+|![Portrait](staff/lena.jpg)	| Jan Mairose								| Student Assistant, Leibniz University Hannover 	| 
 |![Portrait](staff/christianm.png)| Christian Menke							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/evelynp.png) | Evelyn Pleger								| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/soon.png) 	| Katharina Spichal							| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/soon.png)	| Björn Spoida								| Master Thesis, Leibniz University Hannover   		|
 |![Portrait](staff/lea.png)		| Lea Uhlenbusch 							| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/soon.png) 	| Jan-Niklas Wellers						| Medical Doctoral Thesis, Hannover Medical School  |
 |![Portrait](staff/soon.png) 	| Sina Witte 				    			| Medical Doctoral Thesis, Hannover Medical School  |
+|![Portrait](staff/soon.png) 	| Jennifer Wozniak				    		| Student Research Project, Leibniz University Hannover  |
 
 
 | Former Staff																							|
@@ -65,6 +68,7 @@ title:Staff
 |![Portrait](staff/alexbecker.jpg)| M. Sc. Alexander Becker 				| now: [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/11.html?&no_cache=1&tx_tkinstpersonen_pi1%5Balias%5D=Becker1)|
 |![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/soon.png) 	  | Mehran Heidel 							| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/max.png)		  | Maximilian Henke							| Master Thesis, Leibniz University Hannover   		|
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| now: Assistant Physician Radiology, [Kantonsspital Baden, Schweiz](https://www.kantonsspitalbaden.ch/Fachbereiche/Radiologie/index.html)	|
 |![Portrait](staff/katharina.jpg) | M. Sc. Katharina Rülander				| 											   |
 |![Portrait](staff/henrik.png)	  | M. Sc. Henrik Schädlich				 	| Student Assistant, Master Thesis   |
