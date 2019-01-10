@@ -70,6 +70,6 @@ title:Staff
 |![Portrait](staff/soon.png) 	  | Mehran Heidel 							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis, Leibniz University Hannover   		|
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| now: Assistant Physician Radiology, [Kantonsspital Baden, Schweiz](https://www.kantonsspitalbaden.ch/Fachbereiche/Radiologie/index.html)	|
-|![Portrait](staff/katharina.jpg) | M. Sc. Katharina Rülander				| 											   |
+|![Portrait](staff/katharina.jpg) | M. Sc. Katharina Rülander				| Internship, Master Thesis							 |
 |![Portrait](staff/henrik.png)	  | M. Sc. Henrik Schädlich				 	| Student Assistant, Master Thesis   |
 |![Portrait](staff/soon.png) 	  | Dr. med. Waldemar Würfel				| Medical Doctoral Thesis, Hannover Medical School	|
