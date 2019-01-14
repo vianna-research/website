@@ -37,7 +37,7 @@ title:Staff
 |![Portrait](staff/lena.jpg)	| Lena Geiger								| Student Assistant, Hannover Medical School		| 
 |![Portrait](staff/till.jpg) 	| Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project, Leibniz University Hannover  |
-|![Portrait](staff/lena.jpg)	| Jan Mairose								| Student Assistant, Leibniz University Hannover 	| 
+|![Portrait](staff/soon.png)	| Jan Mairose								| Student Assistant, Leibniz University Hannover 	| 
 |![Portrait](staff/christianm.png)| Christian Menke							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/evelynp.png) | Evelyn Pleger								| Medical Doctoral Thesis, Hannover Medical School	|
