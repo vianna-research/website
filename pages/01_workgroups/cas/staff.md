@@ -46,7 +46,7 @@ title:Staff
 |![Portrait](staff/lea.png)		| Lea Uhlenbusch 							| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/soon.png) 	| Jan-Niklas Wellers						| Medical Doctoral Thesis, Hannover Medical School  |
 |![Portrait](staff/soon.png) 	| Sina Witte 				    			| Medical Doctoral Thesis, Hannover Medical School  |
-|![Portrait](staff/soon.png) 	| Jennifer Wozniak				    		| Student Research Project, Leibniz University Hannover  |
+|![Portrait](staff/jennifer.jpg) 	| Jennifer Wozniak				    		| Student Research Project, Leibniz University Hannover  |
 
 
 | Former Staff																							|
