@@ -11,19 +11,17 @@ title: Staff
 | | Lena Gebauer-Hoetzel	| Gebauer-Hoetzel.Lena(at)mh-hannover.de|
 |                                   |     Phone:            |+49 (0)511 5350 247 |
 
-|Technical Staff|                     |      |
-|--------------|---------------------|------|
-|![Michaela Kreienmeyer](Michaela2.png) | Michaela Kreienmeyer	|	kreienmeyer.michaela(at)mh-hannover.de     |
+|Technical Staff|                     |      |      |
+|--------------|---------------------|------|-----|
+|![Michaela Kreienmeyer](Michaela2.png) | Michaela Kreienmeyer	|	kreienmeyer.michaela(at)mh-hannover.de     |+49 (0)511 532 1525|
 
-|Research Team  |    |  |
-|---------|:------|------|
-|![Image Katharina Foremny](Katharina2.png)  | Katharina Foremny (née Tegtmeier), M.Sc. 	|	foremny.katharina(at)mh-hannover.de |
-|  |Filip Jakimovski, M.Sc. | jakimovski.filip(at)mh-hannover.de|
-|   | Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|
+|Research Team  |    |  |   |
+|---------|:------|------|-----|
+|![Image Katharina Foremny](Katharina2.png)  | Katharina Foremny (née Tegtmeier), M.Sc. 	|	foremny.katharina(at)mh-hannover.de |+49 (0)511 532 7231|
+|  |Filip Jakimovski, M.Sc. | jakimovski.filip(at)mh-hannover.de|+49 (0)511 532 7231|
+|   | Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|+49 (0)511 5350 287 |
 |![Image Jan Stieghorst ](Jan.png) |  Dr.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
-
-
-||Suheda Yilmaz-Bayraktar, M. Sc. | yilmaz-bayraktar.suheda(at)mh-hannover.de|
+||Suheda Yilmaz-Bayraktar, M. Sc. | yilmaz-bayraktar.suheda(at)mh-hannover.de|+49 (0)511 532 1525|
 
 
 
