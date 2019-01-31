@@ -1,8 +1,5 @@
 title: Staff
 
-![Image group](Gruppe.png)
-
-
 |Head of research group|        |   |
 |--------------|:---------------|----|
 |![Image Theo Doll](Doll2.png)|[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
@@ -31,20 +28,17 @@ title: Staff
 |  Students   ||
 |-----------|-------------|
 |Ailke Behrens, B.Sc. | Student Assistant|
-|Fabian Borrmann, B.Sc. | Master Thesis|
-|Hazel Börgmann, B.Sc. | Student Assistant|
 |Lennart Guntenhöner | Medical Doctorate Thesis|
-|Steffen Hadeler | Student Assistant|
-|Fabian Müller | Student Assistant|
-|Michael Kaiser | Seminar paper|
-|Deike Ihnen | Bachelor Thesis|
-|Johanna Diekhoff | Student Assistant|
-|Anna Lena Weichaus | Seminar paper|
+|Michael Kaiser | Student Assistant|
 |Adrian Onken| Bachelor Thesis|
 |Heinke Brosig | Student Assistant|
 |Xiangyu Chen | Student Assistant|
 |Hannah Lemper | Student Assistant| 
 |Andre Niebur | Student Assistant|
+|Duc Thanh Nguyen | Internship |
+|Alexander Schulze|Internship|
+
+
 
 
 
