@@ -23,7 +23,7 @@ title: Mitarbeiter
 |![Image Katharina Tegtmeier](Katharina2.png)  | Katharina Tegtmeier, M.Sc. 	|	tegtmeier.katharina(at)mh-hannover.de |532 7231|
 |  |Filip Jakimovski, M.Sc. | jakimovski.filip(at)mh-hannover.de|532 7231|
 |   |Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|5350 287|
-|![Image Jan Stieghorst ](Jan.png) |  Dipl.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
+|![Image Jan Stieghorst ](Jan.png) |  Dr.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
 ||Suheda Yilmaz-Bayraktar, M. Sc. | yilmaz-bayraktar.suheda(at)mh-hannover.de|532 1525|
 
 
