@@ -6,18 +6,18 @@ title: Staff
 
 
 
-|Team Assistant   |       |   |
-|--------------|:---------------------|------|
-| | Lena Gebauer-Hoetzel	| Gebauer-Hoetzel.Lena(at)mh-hannover.de|
-|                                   |     Phone:            |+49 (0)511 5350 247 |
+|Team Assistant   |       |   | +49 (0)511 -  |
+|--------------|:---------------------|------|---|
+|   |Name| EMail|Extension|
+| | Lena Gebauer-Hoetzel	| Gebauer-Hoetzel.Lena(at)mh-hannover.de|5350 247 |
+|                                   |     ||
 
 |Technical Staff|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
 |   |Name| EMail|Extension|
-|---------|:------|------|-----|
 |![Michaela Kreienmeyer](Michaela2.png) | Michaela Kreienmeyer	|	kreienmeyer.michaela(at)mh-hannover.de     | 532 1525|
 
-|Research Team  |    |  | +49 (0)511  |
+|Research Team  |    |  | +49 (0)511 - |
 |---------|:------|------|-----|
 |   |Name| EMail|Extension|
 |![Image Katharina Foremny](Katharina2.png)  | Katharina Foremny (née Tegtmeier), M.Sc. 	|	foremny.katharina(at)mh-hannover.de | 532 7231|
@@ -33,13 +33,13 @@ title: Staff
 |Ailke Behrens, B.Sc. | Student Assistant|
 |Lennart Guntenhöner | Medical Doctorate Thesis|
 |Michael Kaiser | Student Assistant|
-|Adrian Onken| Bachelor Thesis|
+|Adrian Onken| Student Assistant|
 |Heinke Brosig | Student Assistant|
 |Xiangyu Chen | Student Assistant|
 |Hannah Lemper | Student Assistant| 
 |Andre Niebur | Student Assistant|
-|Duc Thanh Nguyen | Internship |
-|Alexander Schulze|Internship|
+|Duc Thanh Nguyen | Intern |
+|Alexander Schulze|Intern|
 
 
 
