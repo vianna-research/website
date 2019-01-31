@@ -17,10 +17,12 @@ title: Staff
 
 |Research Team  |    |  |
 |---------|:------|------|
-|   | Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|
-|![Image Jan Stieghorst ](Jan.png) |  Dr.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
 |![Image Katharina Foremny](Katharina.png)  | Katharina Foremny (ehemals Tegtmeier), M.Sc. 	|	foremny.katharina(at)mh-hannover.de |
 |  |Filip Jakimovski, M.Sc. | jakimovski.filip(at)mh-hannover.de|
+|   | Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|
+|![Image Jan Stieghorst ](Jan.png) |  Dr.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
+
+
 ||Suheda Yilmaz-Bayraktar, M. Sc. | yilmaz-bayraktar.suheda(at)mh-hannover.de|
 
 
