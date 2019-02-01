@@ -4,15 +4,21 @@ status: draft
 Publikationen zu diesen Projekten finden Sie [hier](70_publications.md)
 
 ##Laufende Projekte
+* **MDOT - Medical Device Obligations Taskforce** (European Union, Horizon 2020-NMBP -HUBS-2018)
+
+* **Biodegradabler Inflammationssensor auf aktiven Stimulationselektroden** ([Hearing4All](http://hearing4all.eu/EN/))
+
+* **Hearing-Device Fertigungsplattform** ([Hearing4All](http://hearing4all.eu/EN/))
+Weiterentwicklung von additiven 3D Fertigungstechnologien und Integration von Bestückungstechnologien in einen Fertigungsprozess 
+
+* **IHeaR - International Hearing Research**
+
+* **Sketch - Selbstkrümmender Elektrodenträger für CI mit Hydrogel/LCST** (Zentrales Innovationsprogramm Mittelstand (ZIM))
+
 * **Translationale Fertigungsplattform Medizininnovation - TransPlaMed** (Innovation durch Hochschulen und Forschungseinrichtungen MWK)
 In Zusammenarbeit mit dem Institut für Mikrotechnik (IMT, Technische Universität Braunschweig), der Hochschule für Angewandte Wissenschaft und Kunst (HAWK) dem Fraunhofer Institut für Schicht- und Oberflächentechnik (IST) und dem Fraunhofer Institut für Toxikologie und Experimentelle Medizin (ITEM) soll im Rahmen des Förderprojektes „TransPlaMed“ (NBank) eine Fertigungsplattform für Medizininnovationen erarbeitet werden.
 Medizintechnische Innovationen von klein- und mittelständischen Unternehmen (KMU) scheitern häufig an der Umsetzung von Spezialprozessen, die für die Herstellung des Medizinproduktes nötig sind, und so den Transfer von der Grundlagenforschung in den Markt nicht schaffen. Hingegen sind teure Maschinen in den Universitäten nicht ausreichend ausgelastet. Deswegen soll durch die Plattform „TransPlaMed“ der Technologie- und Wissenstransfer von Spezialprozessen in der Medizintechnik optimiert werden. Das Vorhaben vereint Wirtschaftspädagogik, Wirtschafts- und Technikwissenschaften im Spannungsfeld von Forschungsfreiheit und Ressourceneffizienz mit dem Ziel des Senkens von Innovationshürden in der Medizintechnik.
 
-* **Carbon Nanotube Neurite Interface for CI and ECoG** (Hearing4All)
-Kontakt: [Prof. Doll](01_pagedoll.md)
-
-* **The future of hearing restoration** (NFB - Österreich)
-Kontakt: [Prof. Doll](01_pagedoll.md)
 
 ##Conferences
 * Im Juli 2015 waren wir Veranstalter der Konferenz **[Engineering of Functional Interfaces](03_enfi-2015.html)**.
@@ -20,6 +26,13 @@ Kontakt: [Prof. Doll](01_pagedoll.md)
 Das Hauptziel des Symposiums war die Erstellung einer Roadmap auf präkompetitiver Basis, welche notwendige Experimente, Meilensteine und Herausforderungen beschreibt. Außerdem sollte das Symposium die Initiierung neuer Kooperationen befördern und Möglichkeiten für gemeinsame Förderprogramme aufzeigen. Um diese anspruchsvollen Ziele zu erreichen, wurden ausgesuchte Experten aus vielfältigen Wissenschaftsbereichen (Anatomie, Signal Verarbeitung, Modellierung, Chirurgie, Systemintegration, Technologie, etc.) eingeladen. Neben Vertretern aus dem akademischen Bereich nahmen auch Repräsentanten aus der Industrie teil. Außerdem boten wir jungen Wissenschaftlern die Möglichkeit mit ihrem frischen Geist neuen, inspirierenden Input zu geben und sich zu vernetzen. 
 
 ##Projects completed
+
+* **Carbon Nanotube Neurite Interface for CI and ECoG** (Hearing4All)
+Kontakt: [Prof. Doll](01_pagedoll.md)
+
+* **The future of hearing restoration** (NFB - Österreich)
+Kontakt: [Prof. Doll](01_pagedoll.md)
+
 
 * **Feedback loop and fluid flow electrode - FLOWTRODE** (BMBF: KMU Innovativ Medizintechnik)   
 Kontakt: [Prof. Doll](01_pagedoll.md)
