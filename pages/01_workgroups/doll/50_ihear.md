@@ -1,7 +1,7 @@
 title: IHeaR
 
 
-![bmbflogo](bmbfenglisch.png)
+![bmbflogo](bmbfenglisch.png)  ![IHeaR Logo](IHeaR Logo.jpg) 
 
 
 
