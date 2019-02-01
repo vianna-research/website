@@ -5,6 +5,15 @@ Publications regarding these projects can be found [here](70_publications.md)
 
 
 ## Ongoing Projects
+* **MDOT - Medical Device Obligations Taskforce** (European Union, Horizon 2020-NMBP -HUBS-2018)
+
+* **Biodegradable Inflammation sensor on aktive stimulating electrode** ([Hearing4All](http://hearing4all.eu/EN/))
+
+* **Hearing -Device manufactoring platform** ([Hearing4All](http://hearing4all.eu/EN/))
+
+* **IHeaR - International Hearing Research**
+
+* **Sketch - Selfbending CI Electrode using Hydrogel/LCST** (Zentrales Innovationsprogramm Mittelstand (ZIM))
 
 * **Translationale Fertigungsplattform Medizininnovation - TransPlaMed** (Innovation durch Hochschulen und Forschungseinrichtungen MWK)
 In Zusammenarbeit mit dem Institut für Mikrotechnik (IMT, Technische Universität Braunschweig), der Hochschule für Angewandte Wissenschaft und Kunst (HAWK) dem Fraunhofer Institut für Schicht- und Oberflächentechnik (IST) und dem Fraunhofer Institut für Toxikologie und Experimentelle Medizin (ITEM) soll im Rahmen des Förderprojektes „TransPlaMed“ (NBank) eine Fertigungsplattform für Medizininnovationen erarbeitet werden.
@@ -15,13 +24,7 @@ Medizintechnische Innovationen von klein- und mittelständischen Unternehmen (KM
 This competence centre establishes a framework of non-standard compliant medical device manufacturing services especially for SME innovations. Its basis are quality and risk management supporting services developed for external processes. Also novel test procedures especially for accelerated life cycling are developed. 
 Please contact [Prof. Doll](01_pagedoll.md) for more information.
 
-* **Carbon Nanotube Neurite Interface for CI and ECoG** ([Hearing4All](http://hearing4all.eu/EN/))    
-This is a follow up project to the recently finished project *Flexible, selfbending multielectrode shafts*. 
-The optimization of highly flexible neural electrodes for both stimulating CI and recording BCI applications is the mayor goal of the Biomaterial engineering group in Hearing 4 All. Hence, parameters are high physiological limits of current density and signal to noise ratio, wide electrochemical windows, low chronic tissue corrosion and biocompatibility with low fibrotic overgrowth.
-Based on previous work, Carbon Nanotubes are further explored for these applications with the final goal of proving their suitability for chronic implantation and to review their performance with respect to the state of the art as well as towards ongoing other new material concepts.
 
-* **The future of hearing restoration** (NFB - Österreich)
-Please contact [Prof. Doll](01_pagedoll.md) for further information.
 
 ##Conferences
 * In July 2015 we hosted the Conference **[Engineering of Functional Interfaces](http://vianna.de/03_enfi-2015.html)**
@@ -30,6 +33,15 @@ The main goal of the Symposium was the creation of a roadmap that defines challe
 
 
 ##Closed Projects
+
+* **Carbon Nanotube Neurite Interface for CI and ECoG** ([Hearing4All](http://hearing4all.eu/EN/))    
+This is a follow up project to the recently finished project *Flexible, selfbending multielectrode shafts*. 
+The optimization of highly flexible neural electrodes for both stimulating CI and recording BCI applications is the mayor goal of the Biomaterial engineering group in Hearing 4 All. Hence, parameters are high physiological limits of current density and signal to noise ratio, wide electrochemical windows, low chronic tissue corrosion and biocompatibility with low fibrotic overgrowth.
+Based on previous work, Carbon Nanotubes are further explored for these applications with the final goal of proving their suitability for chronic implantation and to review their performance with respect to the state of the art as well as towards ongoing other new material concepts.
+
+* **The future of hearing restoration** (NFB - Österreich)
+Please contact [Prof. Doll](01_pagedoll.md) for further information.
+
 * **Feedback loop and fluid flow electrode - FLOWTRODE** (BMBF: KMU Innovativ Medizintechnik)  
 Combination of thin film ECoG array development incl. the development of a flexible electrode material with microdialysis and neurotransmitter sensing functions for neuropharmacological developments. The combination of methods leads to a drastical reduction of necessary studies.
 Please contact [Prof. Doll](01_pagedoll.md) for more information.
