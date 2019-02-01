@@ -52,12 +52,14 @@ The group cooperates with the following institutions:
 
 Adress:
 
-    BioMaterial Engineering
+    BioMaterial Engineering 
+    Prof. Doll
     Medizinische Hochschule Hannover
     Stadtfelddamm 34
     30625 Hannover
     
     Translationale Medizintechnik
+    Prof. Doll
     Fraunhofer ITEM
     Nikolai-Fuchs-Str. 1 (Haupteingang am Stadtfelddamm)
     30625 Hannover
