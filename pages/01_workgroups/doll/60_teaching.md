@@ -17,7 +17,7 @@ Tutorials include researching and exercises about biofunctionality which are dis
 
 **Contact:**
 [Marc Müller (IMP,LUH)](http://www.imp.uni-hannover.de/mitarbeiter.html)
-[Jan Stieghorst (MHH)](20_staff.md)
+[Katharina Foremny (MHH)](20_staff.md)
 
 **Location:**  [LUH, Institute for Multiphase Processing, Callinstraße 36](http://www.imp.uni-hannover.de/wegbeschreibung.html)
 
@@ -34,17 +34,17 @@ This lecture introduces into the field of the peripheral neural system. It start
 **Contact:**
 [Prof. Dr.-Ing. Jürgen Legler (Jade Hochschule - Coordinator)](http://team.jade-hs.de/kontakt/index.php?id=41)
 
-[Jan Stieghorst (MHH - Contact for Biomechanics](20_staff.md)
+[Katharina Foremny (MHH - General Information)] (20_staff.md)
 [Dr. Gerhard Pohlmann (Fraunhofer ITEM - Contact for Inhalation)](https://www.item.fraunhofer.de/de/forschungsschwerpunkte/medizintechnik.html)
 [Prof. Dr.-Ing Theodor Doll (MHH - Contact for Neurorehabilitation)](http://www.vianna.de/01_workgroups/doll/01_pagedoll.md)
 
 **Location:** [Jade Hochschule Wilhelmshaven](https://www.jade-hs.de/)
 
 
-##Nanotechnology in Medicine
+## Nanotechnology in Medicine
 Nanotechnologie in der Medizin
 
-###Content:
+### Content:
 
 
 "Nano" has been one of the most used buzz words in the last decade. Lots has been promised and many useful things habe been developed. Many ideas, however, that have already stimulated the "microsystem" decade, have been revived like Heuberger's submarine: This would remove plaque from the inner side of blood vessels and went "nano" - still promised by serious researchers.
@@ -58,11 +58,11 @@ The course "Nanotechnology in Medicine" wants to review all nano-developments th
 
 Based on this, we want to develop tools and techniques for the assessment of "nano" ideas in the terms of feasability. Techniques are learned for setting up research roadmaps with definition oc challenges and hurdles.
 
-**Date:** October 22nd-23rd, 2014
+**Date:** 
 
 **Language:** Englisch
 
 **Contact:**
-[Katharina Tegtmeier (MHH)](20_staff.md)
+[Katharina Foremny (MHH)](20_staff.md)
 
-**Location:** MHH, Vianna,Feodor-Lynen-Str. 35, Conference Room
+**Location:** 
