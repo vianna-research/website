@@ -1,8 +1,7 @@
 title: IHeaR
 
 
-![bmbflogo](bmbfenglisch.png)  
-
+![IHeaRbmbflogo](IHeaR_bmbf_Logo.png)  
 
 
 ## The International Hearing Research - I H e a R 
