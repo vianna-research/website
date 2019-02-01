@@ -12,7 +12,7 @@ Publikationen zu diesen Projekten finden Sie [hier](70_publications.md)
 Weiterentwicklung von additiven 3D Fertigungstechnologien und Integration von Bestückungstechnologien in einen Fertigungsprozess 
 
 * **IHeaR - International Hearing Research**
-
+Das IHeaR Projekt erzielt die Gründung eines deutsch-chilenischen Hörforschungszentrums, die Hörwiderherstellung sowie die internationale Hörforschung zwischen Deutschland und Südamerika. ([IHeaR](http://vianna.de/01_workgroups/doll/50_ihear.html))
 * **Sketch - Selbstkrümmender Elektrodenträger für CI mit Hydrogel/LCST** (Zentrales Innovationsprogramm Mittelstand (ZIM))
 
 * **Translationale Fertigungsplattform Medizininnovation - TransPlaMed** (Innovation durch Hochschulen und Forschungseinrichtungen MWK)
