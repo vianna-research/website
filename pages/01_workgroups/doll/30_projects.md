@@ -12,7 +12,7 @@ Publications regarding these projects can be found [here](70_publications.md)
 * **Hearing -Device manufactoring platform** ([Hearing4All](http://hearing4all.eu/EN/))
 
 * **IHeaR - International Hearing Research**
-
+The IHeaR project reaches the hearing research as well as the hearing restoration. The Cooperation partners are planning a long-term establishment of a “German-Chilean hearing research center”. ([IHeaR](http://vianna.de/01_workgroups/doll/50_ihear.html))
 * **Sketch - Selfbending CI Electrode using Hydrogel/LCST** (Zentrales Innovationsprogramm Mittelstand (ZIM))
 
 * **Translationale Fertigungsplattform Medizininnovation - TransPlaMed** (Innovation durch Hochschulen und Forschungseinrichtungen MWK)
