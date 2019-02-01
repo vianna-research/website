@@ -5,3 +5,4 @@ Belén Elgoyhen, Maria E. Gomez Casati, Paul Delano, Mariela Torrente, Matias Za
 
 **The 24-26th April in Buenos Aires** 
 
+![2ndSymposiumBUE](Invitation_BUE.png) 
