@@ -22,7 +22,7 @@ title: Staff
 |   |Name| EMail|Extension|
 |![Image Katharina Foremny](Katharina3.png)  | Katharina Foremny (née Tegtmeier), M.Sc. 	|	foremny.katharina(at)mh-hannover.de | 532 7231|
 |  |Filip Jakimovski, M.Sc. | jakimovski.filip(at)mh-hannover.de|532 7231|
-|  ![Image Juan Pablo Marcoleta](Juan1.png)  | Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|5350 287 |
+|  ![Image Juan Pablo Marcoleta](Juan2.png)  | Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|5350 287 |
 |![Image Jan Stieghorst ](Jan.png) |  Dr.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
 ||Suheda Yilmaz-Bayraktar, M. Sc. | yilmaz-bayraktar.suheda(at)mh-hannover.de| 532 1525|
 
