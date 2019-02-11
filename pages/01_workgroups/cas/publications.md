@@ -5,10 +5,8 @@ title: Publications
 ### Posters & Abstracts
 | ![ARO 2019 Logo](publications/aro2019logo.png){style="width:50px"} | ARO 42nd Annual MidWinter Meeting, February 9-13, Baltimore, MD, USA| 
 |-:|:------| 
-| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/John2018_AROposter_sm.pdf) | John S., Kluge M., Erfurt P., Müller S., Lexow J., Kahrs L. A., Rau Th., Ortmaier T., Majdani O., Lenarz Th. (2018a): _Feasibility of a Simple, Safe, and High-Precision Approach to Minimally Invasive Cochlear Implantation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236-237. |
-| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/Salcher2018_AROposter.pdf) | Salcher R., Nullmeier M., Lenarz Th., Pawsey N., Waldmann B., Majdani O., Rau Th. (2018a): _Electrode insertion force measurements in sheep temporal bones_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:236. |
-| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/Schwieger2018_AROposter.pdf)  | Schwieger J., Hügl S., Hamm A., Lenarz Th., Hoffmann A., Rau Th., Scheper V (2018a): _A Stem Cell-Alginate Coated Cochlear Implant for Chronic BDNF-Delivery is Stable and Neuroprotective In Vitro_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:592-593. |
-| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/Timm2018_AROposter.pdf)  | Timm M. E., Schurzig D., Assadi M., Lenarz Th. (2018a): _A Novel Approach for Clinical Cochlear Duct Length Estimation_. In Proc. Association for Research in Otolaryngology (ARO) Vol 41:614. |
+| | Rau Th., Nullmeier M., Cramer J., Hügl S., Pawsey N., Lenarz Th., Salcher R. (2019): _A Method for Building Individualized Two-Dimensional Artificial Cochlea Models_. In Proc. Association for Research in Otolaryngology (ARO) Vol 42:36. |
+| | Salcher R., Nullmeier M., Cramer J., Pawsey N., Lenarz Th., Rau Th. (2019): _Validation of PTFE Artificial Cochlea Model for Insertion Force Measurements_. In Proc. Association for Research in Otolaryngology (ARO) Vol 42:36. |
 
 - - -
 
