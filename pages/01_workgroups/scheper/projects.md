@@ -1,8 +1,8 @@
 
-
-
 ###Pharmacological prevention of noise induced hearing loss
+
 ![DFGlogo](DFGlogo.jpg){style="width:400px; float:right; margin-left:1em"}
+
 In this study, active substances are identified for the preventive treatment of noise induced temporary (TTS) and permanent (PTS) threshold shift. The selected growth factors glial cell line-derived neurotrophic factor, erythropoietin and insulin-like growth factor-1 are examined for their potential to protect the hearing from noise trauma.
 
 ###ACEMg-Supplement Mediated Hearing Preservation in Cochlear Implant Patients Receiving Different Electrode Lengths
