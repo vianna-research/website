@@ -13,7 +13,7 @@ title: Staff
 |Research Team  |    |  | +49 (0)511 - |
 |---------|:------|------|-----|
 |   |Name| EMail|Extension|
-|![Image Ziwen Gao](Ziwen Gao.jpg)  | Ziwen Gao, M.Sc. 	|	gao.ziwen(at)mh-hannover.de | 532 7262|
+|![Image Ziwen Gao](Ziwen.jpg)  | Ziwen Gao, M.Sc. 	|	gao.ziwen(at)mh-hannover.de | 532 7262|
 | ![Image Filip Jakimovski](Filip.png) |Filip Jakimovski, M.Sc. | jakimovski.filip(at)mh-hannover.de|532 7231|
 |  ![Image Juan Pablo Marcoleta](Juan2.png)  | Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|5350 287 |
 |![Image Jan Stieghorst ](Jan.png) |  Dr.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
