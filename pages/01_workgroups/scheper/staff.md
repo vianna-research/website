@@ -2,7 +2,7 @@ title: Staff
 
 |Head of research group|        |   |
 |--------------|:---------------|----|
-|![Image Theo Doll](Doll2.png)|[Dr. med. vet. Verena Scheper](Dr. med. vet. Verena Scheper.md)|	scheper.verena(at)mh-hannover.de|   
+|![Picture Verena Scheper](Verena.jpg) |[Dr. med. vet. Verena Scheper](Dr. med. vet. Verena Scheper.md)|	scheper.verena(at)mh-hannover.de|   
 
 
 
