@@ -1,4 +1,6 @@
+title: Projects Scheper lab - Pharmacology of the Inner Ear
 
+- - - 
 ###Pharmacological prevention of noise induced hearing loss
 
 ![DFGlogo](DFGlogo.jpg){style="width:400px; float:right; margin-left:1em"}
