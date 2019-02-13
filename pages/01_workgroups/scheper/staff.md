@@ -4,18 +4,11 @@ title: Staff
 |--------------|:---------------|----|
 |![Picture Verena Scheper](Verena.jpg) |[Dr. med. vet. Verena Scheper](Dr. med. vet. Verena Scheper.html)|	scheper.verena(at)mh-hannover.de|   
 
-|![Image Theo Doll](Doll2.png)|[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
-
-|Team Assistant   |       |   | +49 (0)511 -  |
-|--------------|:---------------------|------|---|
-|   |Name| EMail|Extension|
-| | Lena Gebauer-Hoetzel	| Gebauer-Hoetzel.Lena(at)mh-hannover.de|5350 247 |
-|                                   |     ||
 
 |Technical Staff|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
 |   |Name| EMail|Extension|
-|![Michaela Kreienmeyer](Michaela2.png) | Michaela Kreienmeyer	|	kreienmeyer.michaela(at)mh-hannover.de     | 532 1525|
+|![Armbrecht Nina](Nina.png) | Nina Armbrecht	|	armbrecht.nina(at)mh-hannover.de     | 532 1464|
 
 |Research Team  |    |  | +49 (0)511 - |
 |---------|:------|------|-----|
