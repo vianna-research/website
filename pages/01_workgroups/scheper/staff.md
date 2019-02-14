@@ -14,7 +14,7 @@ title: Staff
 |---------|:------|------|-----|
 |   |Name| EMail|Extension|
 |![Image Ziwen Gao](Ziwen.jpg)  | Ziwen Gao, M.Sc. 	|	gao.ziwen(at)mh-hannover.de | 532 7262|
-| ![Image Filip Jakimovski](Filip.png) |Filip Jakimovski, M.Sc. | jakimovski.filip(at)mh-hannover.de|532 7231|
+| ![Image Jana Schwieger](Schwieger.jpg) |Jana Schwieger, Dr. med. vet. | schwieger.jana(at)mh-hannover.de|532 7262|
 |  ![Image Juan Pablo Marcoleta](Juan2.png)  | Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|5350 287 |
 |![Image Jan Stieghorst ](Jan.png) |  Dr.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
 |![Image Suheda Yilmaz-Bayraktar](suheda.png) |Suheda Yilmaz-Bayraktar, M. Sc. | yilmaz-bayraktar.suheda(at)mh-hannover.de| 532 1525|
@@ -50,7 +50,6 @@ Dr. med. vet. Verena Scheper, Veterinarian| scheper.verena(at)mh-hannover.de
 
 Dr. med vet. Jana Schwieger, Veterinarian | schwieger.jana(at)mh-hannover.de
 
-Jasmin Bohlmann, technician  | bohlmann.jasmin(at)mh-hannover.de
 
 Christoph Pannier, Dentist, PhD student | pannier.christoph(at)mh-hannover.de
 
