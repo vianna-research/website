@@ -9,7 +9,7 @@ In this study, active substances are identified for the preventive treatment of 
 
 ###Additive Technologies for Individualized Implants
 Additive technologies such as 3D printing, inkjet printing, two-photon polymerization and micro-injection molding make it possible to adapt implants in shape to the individual anatomy of a patient while at the same time ensuring optimal drug loading. Within the scope of this project, precisely fitting implants to treat sudden sensory neural hearing loss and chronic sinusitis and customized for the patient will we developed in cooperation with project partners in Rostock, Greifswald, Leipzig and Hannover.
-  Funding: Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung, BMBF; Project: RESPONSE – Partnerschaft für Innovation in der Implantattechnologie (http://www.response.uni-rostock.de/?L=1).
+  Funding: Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung, BMBF; Project: RESPONSE – Partnerschaft für Innovation in der Implantattechnologie [http://www.response.uni-rostock.de/?L=1](http://www.response.uni-rostock.de/?L=1).
 
 
 ###ACEMg-Supplement Mediated Hearing Preservation in Cochlear Implant Patients Receiving Different Electrode Lengths
