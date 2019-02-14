@@ -30,12 +30,6 @@ title: Staff
 |Katarina-Sophie Jung, PhD Student, MD student|
 |Lennart Ryll, FWJ|ryll.lennart(at)mh-hannover.de|
 
-title: staff
-
-**Head of research group**
-
-Dr. med. vet. Verena Scheper, Veterinarian| scheper.verena(at)mh-hannover.de
-
 
 
 
