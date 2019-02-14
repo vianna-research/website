@@ -23,7 +23,7 @@ title: Staff
 
 |  Students   ||
 |-----------|-------------|
-|   |Name| EMail|
+|Name| EMail|
 |Christoph Pannier| Dentist, PhD student|pannier.christoph(at)mh-hannover.de|
 |Noushin Kakuan| PhD Student, MD student|noushin.t.kakuan(at)stud.mh-hannover.de|
 |Katarina Klötzer| PhD Student, MD student|noushin.t.kakuan(at)stud.mh-hannover.de|
