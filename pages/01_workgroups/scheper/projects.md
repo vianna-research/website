@@ -19,7 +19,7 @@ Funding: MHH Förderstiftung Plus
 
 ###Neuroprotective and –regenerative Effects of Cometin 
 The protective and regenerative effects of the neurotrophic growth factor cometin are investigated in in vitro studies using primary auditory neurons. Human versus murine protein in different concentrations are tested.
-Funding: Hoba Therapeutics, Denmark (http://hobatherapeutics.com/index.html)
+Funding: Hoba Therapeutics, Denmark [http://hobatherapeutics.com/index.html](http://hobatherapeutics.com/index.html)
 
 ###STED-based Automated Fibrosis and Neuron Quantification in Cochlear Implanted Inner Ears
 Bony tissue will be processed for clearing following modified established protocolls for soft tissue clearance. The cleared tissue will be imaged using STED and protocols for automated counting of neuronal cells as well as automated detection of fibrosis quantity will be implemented. The goal is to establish a clearing protocol with following automated tissue analysis using STED in an implanted bony structure, the inner ear.
