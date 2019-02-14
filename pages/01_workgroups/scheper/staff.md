@@ -24,11 +24,11 @@ title: Staff
 |  Students   ||
 |-----------|-------------|
 |Name| EMail|
-|Christoph Pannier| Dentist, PhD student|pannier.christoph(at)mh-hannover.de|
-|Noushin Kakuan| PhD Student, MD student|noushin.t.kakuan(at)stud.mh-hannover.de|
-|Katarina Klötzer| PhD Student, MD student|noushin.t.kakuan(at)stud.mh-hannover.de|
-
-
+|Christoph Pannier, Dentist, PhD student|pannier.christoph(at)mh-hannover.de|
+|Noushin Kakuan, PhD Student, MD student|noushin.t.kakuan(at)stud.mh-hannover.de|
+|Katarina Klötzer, PhD Student, MD student|
+|Katarina-Sophie Jung, PhD Student, MD student|
+|Lennart Ryll, FWJ|ryll.lennart(at)mh-hannover.de|
 
 title: staff
 
@@ -37,22 +37,7 @@ title: staff
 Dr. med. vet. Verena Scheper, Veterinarian| scheper.verena(at)mh-hannover.de
 
 
----------------------------
-**Research Team**
 
-Dr. med vet. Jana Schwieger, Veterinarian | schwieger.jana(at)mh-hannover.de
-
-
-Christoph Pannier, Dentist, PhD student | pannier.christoph(at)mh-hannover.de
-
-Noushin Kakuan, PhD Student, MD student | noushin.t.kakuan(at)stud.mh-hannover.de
-
-Katarina Klötzer, PhD Student, MD student 
-
-Lennart Ryll, FWJ | ryll.lennart(at)mh-hannover.de
-
-
------------------------------
 
 We closely work together with Prof. A. Warnecke and Dr. Paasche and their lab teams. In VIANNA in NIFE we optimise our research by combining our lab spaces and other recources. 
 
