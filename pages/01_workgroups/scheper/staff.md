@@ -28,12 +28,13 @@ title: Staff
 |Noushin Kakuan, PhD Student, MD student|Noushin.t.kakuan(at)stud.mh-hannover.de|
 |Katarina Klötzer, PhD Student, MD student|
 |Katarina-Sophie Jung, PhD Student, MD student|
+|Maciek Wilk, veterinarian, PhD Student|
 |Lennart Ryll, FWJ|Ryll.lennart(at)mh-hannover.de|
 
 
 
 
-We closely work together with Prof. A. Warnecke and Dr. Paasche and their lab teams. In VIANNA in NIFE we optimise our research by combining our lab spaces and other recources. 
+We closely work together with PD Dr. med. A. Warnecke and PD Dr. rer. nat. G. Paasche and their lab teams. In VIANNA in NIFE we optimise our research by combining our lab spaces and other recources. 
 
 **The team of all three working groups (not complete):** 
 ![Picture Zellkulturteam](Zellkulturteam.jpg)  
