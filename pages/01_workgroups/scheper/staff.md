@@ -16,7 +16,7 @@ title: Staff
 |![Image Ziwen Gao](Ziwen.jpg)  | Ziwen Gao, M.Sc. 	|	Gao.ziwen(at)mh-hannover.de | 532 7262|
 | ![Image Jana Schwieger](Schwieger.jpg) |Jana Schwieger, Dr. med. vet. | Schwieger.jana(at)mh-hannover.de|532 7262|
 |  ![Image Melanie Steffens](Steffens.jpg)  | Melanie Steffens, Dr. rer. nat. | Steffens.melanie(at)mh-hannover.de|532 9494 |
-|![Image Farnaz Matin ](Matin.jpg) |  Farnaz Matin, MD|	Matin.Farnaz(at)mh-hannover.de| 17 7443   
+|![Image Farnaz Matin ](Matin.JPG) |  Farnaz Matin, MD|	Matin.Farnaz(at)mh-hannover.de| 17 7443   
 
 
 
