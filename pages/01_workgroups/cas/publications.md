@@ -5,8 +5,8 @@ title: Publications
 ### Posters & Abstracts
 | ![ARO 2019 Logo](publications/aro2019logo120px.png){style="width:50px"} | ARO 42nd Annual MidWinter Meeting, February 9-13, Baltimore, MD, USA| 
 |-:|:------| 
-| | Rau Th., Nullmeier M., Cramer J., Hügl S., Pawsey N., Lenarz Th., Salcher R. (2019): _A Method for Building Individualized Two-Dimensional Artificial Cochlea Models_. In Proc. Association for Research in Otolaryngology (ARO) Vol 42:36. |
-| | Salcher R., Nullmeier M., Cramer J., Pawsey N., Lenarz Th., Rau Th. (2019): _Validation of PTFE Artificial Cochlea Model for Insertion Force Measurements_. In Proc. Association for Research in Otolaryngology (ARO) Vol 42:36. |
+| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/Rau2019_AROposter.pdf)  | Rau Th., Nullmeier M., Cramer J., Hügl S., Pawsey N., Lenarz Th., Salcher R. (2019): _A Method for Building Individualized Two-Dimensional Artificial Cochlea Models_. In Proc. Association for Research in Otolaryngology (ARO) Vol 42:36. |
+| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/Salcher2019_AROposter.pdf)  | Salcher R., Nullmeier M., Cramer J., Pawsey N., Lenarz Th., Rau Th. (2019): _Validation of PTFE Artificial Cochlea Model for Insertion Force Measurements_. In Proc. Association for Research in Otolaryngology (ARO) Vol 42:36. |
 
 - - -
 
