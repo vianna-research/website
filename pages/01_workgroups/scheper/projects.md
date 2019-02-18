@@ -10,7 +10,7 @@ Funding: German Research Foundation (DFG, SCHE 1663/3-1)
 
 ###Additive Technologies for Individualized Implants
 
-![BMBFlogo](BMBF.jpg){style="width:400px; float:right; margin-left:1em"}
+![BMBFlogo](BMBFkleiner.jpg){style="width:400px; float:right; margin-left:1em"}
 
 Additive technologies such as 3D printing, inkjet printing, two-photon polymerization and micro-injection molding make it possible to adapt implants in shape to the individual anatomy of a patient while at the same time ensuring optimal drug loading. Within the scope of this project, precisely fitting implants to treat sudden sensory neural hearing loss and chronic sinusitis and customized for the patient will we developed in cooperation with project partners in Rostock, Greifswald, Leipzig and Hannover.
   Funding: Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung, BMBF; Project: RESPONSE – Partnerschaft für Innovation in der Implantattechnologie [http://www.response.uni-rostock.de/?L=1](http://www.response.uni-rostock.de/?L=1).
