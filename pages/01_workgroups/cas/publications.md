@@ -1,6 +1,6 @@
 title: Publications
 - - -
-### 2019
+![2019](publications/BannerPaper2019.jpg)
 
 ### Posters & Abstracts
 | ![ARO 2019 Logo](publications/aro2019logo120px.png){style="width:50px"} | ARO 42nd Annual MidWinter Meeting, February 9-13, Baltimore, MD, USA| 
