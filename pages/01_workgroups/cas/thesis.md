@@ -1,4 +1,4 @@
-status:draft
+%status:draft
 title: Project / Bachelor / Master / Doctoral Thesis
 
 [general Topics](thesis/2019-03-04_stud-Arbeiten.pdf)
