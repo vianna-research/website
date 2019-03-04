@@ -1,7 +1,6 @@
-%status:draft
 title: Project / Bachelor / Master / Doctoral Thesis
 
-[general Topics](thesis/2019-03-04_stud-Arbeiten.pdf)
+[some general Topics](thesis/2019-03-04_stud-Arbeiten.pdf)
 
 ## Topics for Project / Bachelor / Master Thesis
 
