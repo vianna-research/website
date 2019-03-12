@@ -13,8 +13,8 @@ In the following, further dates are listed. **We are looking forward to welcomin
 |-----------|-------------|
 |Otorrinolaringología congress [(ORL 2018)](http://www.orl2018.cl/) on 21-24 November 2018| Santa Cruz|
 |Meeting on Novbember 2018| Santa Cruz |
-|Three-day Conference with workshops on April 2108 | Buenos Aires|
-|Kick-off of consolidation phase on November 2018 | Santiago de Chile|
+|Three-day Conference with workshops on April 2019 | Buenos Aires|
+|Kick-off of consolidation phase on November 2019 | Santiago de Chile|
 |Two-day dissemination meeting in 2020 | Santiago de Chile|
 |Symposium Workshop "Medicine and Engineering in Hearing Restoration" in 2020| Hannover|
 |Scientific Meeting in 2021 | Buenos Aires|
