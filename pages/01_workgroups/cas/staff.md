@@ -23,7 +23,7 @@ title:Staff
 |:------------------------------|:------------------------------|-------------------------------------------------:|
 |![Portrait](staff/soon.png) | Dr. Martina Nullmeier					| Research Engineer Implants, [Cochlear Deutschland](http://www.cochlear.de)|
 |![Portrait](staff/rolf.jpg) | Dr. Rolf Salcher                   		| Senior Physician, Hannover Medical School|
-|![Portrait](staff/maxt.png) | Max Eike Tim     						| Assistant Physician, Hannover Medical School|
+|![Portrait](staff/maxt.png) | Max Eike Timm     						| Assistant Physician, Hannover Medical School|
 
 
 
