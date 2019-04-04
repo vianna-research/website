@@ -5,10 +5,10 @@ Even if you can not identify with either one of the following topics but are int
 
 [**Listing of some general Topics**](thesis/2019-03-04_stud-Arbeiten.pdf)
 
-Please always include your CV and current overview of grades / performance report, within your inquiry email.
+Please always include your CV and a current overview of grades / performance report, within your inquiry email.
 
 ## Topics for Project / Bachelor / Master Thesis
-[Nitinol-Aktuators for Cochlea-Implant-Electrode-Carriers](thesis/2019-03-04_Thesis_MemoryCI.pdf)
+[Nitinol-Actuators for Cochlear-Implant-Electrode-Carriers](thesis/2019-03-04_Thesis_MemoryCI.pdf)
 
 ## Topics for Student Assistants
 
