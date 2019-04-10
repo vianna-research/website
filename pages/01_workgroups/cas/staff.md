@@ -13,7 +13,7 @@ title:Staff
 | Research Team                                                                                                      |
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
 |![Portrait](staff/Omid.jpg)    | Prof. Dr. Omid Majdani                     | Majdani.Omid@mh-hannover.de        |
-|![Portrait](staff/soon.png)	| Dr. M. Geraldine Zuniga					 | ZunigaManrique.Maria@mh-hannover.de	  |
+|![Portrait](staff/geraldine.jpg)	| Dr. M. Geraldine Zuniga					 | ZunigaManrique.Maria@mh-hannover.de	  |
 |![Portrait](staff/Silke.jpg)   | M. Sc. Silke Hügl							 | Huegl.Silke@mh-hannover.de         |
 |![Portrait](staff/nuha.jpg) 	| M. Sc. Nuha Suzaly			   			 | Suzaly.Nuha@mh-hannover.de          |
 
@@ -46,7 +46,7 @@ title:Staff
 |![Portrait](staff/lea.png)		| Lea Uhlenbusch 							| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/soon.png) 	| Jan-Niklas Wellers						| Medical Doctoral Thesis, Hannover Medical School  |
 |![Portrait](staff/soon.png) 	| Sina Witte 				    			| Medical Doctoral Thesis, Hannover Medical School  |
-|![Portrait](staff/jennifer.jpg) 	| Jennifer Wozniak				    		| Student Research Project, Leibniz University Hannover  |
+
 
 
 | Former Staff																							|
@@ -72,4 +72,5 @@ title:Staff
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| now: Assistant Physician Radiology, [Kantonsspital Baden, Schweiz](https://www.kantonsspitalbaden.ch/Fachbereiche/Radiologie/index.html)	|
 |![Portrait](staff/katharina.jpg) | M. Sc. Katharina Rülander				| Internship, Master Thesis							 |
 |![Portrait](staff/henrik.png)	  | M. Sc. Henrik Schädlich				 	| Student Assistant, Master Thesis   |
+|![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project, Leibniz University Hannover  |
 |![Portrait](staff/soon.png) 	  | Dr. med. Waldemar Würfel				| Medical Doctoral Thesis, Hannover Medical School	|
