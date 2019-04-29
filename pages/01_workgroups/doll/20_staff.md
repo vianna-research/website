@@ -10,7 +10,7 @@ title: Staff
 |--------------|:---------------------|------|---|
 |   |Name| EMail|Extension|
 | | Lena Gebauer-Hoetzel	| Gebauer-Hoetzel.Lena(at)mh-hannover.de|5350 247 |
-|   Hannah Vollmer          Vollmer.Hannah@mh-hannover.de         |5350 296 |
+| | Hannah Vollmer        |  Vollmer.Hannah@mh-hannover.de         5350 296 |
 
 |Technical Staff|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
