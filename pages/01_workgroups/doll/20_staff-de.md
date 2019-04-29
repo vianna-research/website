@@ -9,10 +9,10 @@ title: Mitarbeiter
 
 |Teamassistentin|                     |      |
 |--------------|---------------------|------|
-| | Lena Gebauer-Hoetzel	| Lena.Gebauer-Hoetzel(at)item.fraunhofer.de|
-|    |   Telefon:|  +49 (0)511 5350 247|
-| | Hannah Vollmer |Vollmer.Hannah(at)mh-hannover.de      
-|| Telefon:| +49 (0)511 5350-296|
+| | Hannah Vollmer	| Vollmer.Hannah(at)item.fraunhofer.de|
+|    |   Telefon:|  +49 (0)511 5350 296|
+| | Lena Gebauer-Hoetzel |Lena.Gebauer-Hoetzel(at)item.fraunhofer.de      
+|| Telefon:| +49 (0)511 5350-247|
 
 |Technische Mitarbeiter|                     |      | +49 (0)511 -|
 |--------------|---------------------|------|---|
