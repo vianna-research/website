@@ -22,7 +22,7 @@ title: Mitarbeiter
 
 |Wissenschaftliche Mitarbeiter|             |    |+49 (0)511 -|
 |---------|------|------|---|
-|![Image Katharina Foremny](Katharina3.png)  | Katharina Foremny, M.Sc. 	|	foremny.katharina(at)mh-hannover.de |532 7231|
+|![Image Katharina Foremny(geb. Tegtmeier)](Katharina3.png)  | Katharina Foremny, M.Sc. 	|	foremny.katharina(at)mh-hannover.de |532 7231|
 |  ![Image Filip Jakimovski](Filip.png)|Filip Jakimovski, M.Sc. | jakimovski.filip(at)mh-hannover.de|532 7231|
 |  ![Image Juan Pablo Marcoleta](Juan2.png)  |Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|5350 287|
 |![Image Jan Stieghorst ](Jan.png) |  Dr.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
