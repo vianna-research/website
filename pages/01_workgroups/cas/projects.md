@@ -52,7 +52,6 @@ Overview of the RoboJig surgery vs. conventional approach.
 
 ### Design & test of a tool for intraoperative measurement of insertion forces during insertion of a CI electrode array into the Cochlea
 
-
 **Contact: Silke Hügl | Huegl.Silke@mh-hannover.de**
 
 

@@ -1,5 +1,12 @@
 Title: Finished Projects
 
+## [Hearing4all 1.0 - EMS ](zz_finished/ems.html)
+
+### Electromechanical Stimulation of the Cochlea
+
+![EMS](50_ems/ems.png){style="width:600px"}
+
+**Contact: Dr.-Ing. Thomas Rau | Rau.Thomas@mh-hannover.de**
 
 ---
 ## [Mini-Hexapod](zz_finished/hexapod2.html)
