@@ -4,7 +4,7 @@ Title: Finished Projects
 
 ### Electromechanical Stimulation of the Cochlea
 
-![EMS](zz_finished/ems/ems.png){style="width:600px"}
+![EMS](zz_finished/ems/ems.png){style="width:400px"}
 
 **Contact: Dr.-Ing. Thomas Rau | Rau.Thomas@mh-hannover.de**
 
