@@ -1,6 +1,9 @@
 title: Publications
 - - -
 ![2019](publications/BannerPaper2019.jpg)
+### Journal Papers
+Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019): _Coating stability and insertion forces of an alginate-cell-based drug delivery implant system for the inner ear_. Journal of the Mechanical Behavior of Biomedical Materials. epub ahead of print 4 May 2019. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/pii/S1751616118317259); IF: 3.239\].
+
 
 ### Posters & Abstracts
 | ![ARO 2019 Logo](publications/aro2019logo120px.png){style="width:50px"} | ARO 42nd Annual MidWinter Meeting, February 9-13, Baltimore, MD, USA| 
