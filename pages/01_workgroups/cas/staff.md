@@ -42,8 +42,8 @@ title:Staff
 |![Portrait](staff/christianm.png)| Christian Menke							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/evelynp.png) | Evelyn Pleger								| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/soon.png) 	| Veronika Shmatko							| Bachelor Thesis, Leibniz University Hannover		|
 |![Portrait](staff/soon.png) 	| Katharina Spichal							| Medical Doctoral Thesis, Hannover Medical School	|
-|![Portrait](staff/soon.png) 	| Veronika Shmatko							| Bachelor Thesis, Leibniz University Hannover  |
 |![Portrait](staff/bjoern.jpg)	| Björn Spoida								| Master Thesis, Leibniz University Hannover   		|
 |![Portrait](staff/lea.png)		| Lea Uhlenbusch 							| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/soon.png) 	| Jan-Niklas Wellers						| Medical Doctoral Thesis, Hannover Medical School  |
