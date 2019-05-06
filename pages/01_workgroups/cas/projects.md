@@ -1,16 +1,5 @@
 title:Projects
 
-
----
-## [Akva-Med](projects/05_akvamed.html)
-
-### Electrode Development: fluidically actuated implant
-
-![FE-Simulation of fluidically actuated implants](projects/05_akvamed/akvamed3.png){style="width:300px"}
-
-**Contact: Silke Hügl | Huegl.Silke@mh-hannover.de**
-
-
 ---
 ## RoboJig
 
