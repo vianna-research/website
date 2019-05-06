@@ -48,7 +48,7 @@ Overview of the RoboJig surgery vs. conventional approach.
 
 
 ---
-## [Hearing4all 2.0 - Intraoperative Insertion Force Measurement]
+## Hearing4all 2.0 - Intraoperative Insertion Force Measurement
 
 ### Design & test of a tool for intraoperative measurement of insertion forces during insertion of a CI electrode array into the Cochlea
 
