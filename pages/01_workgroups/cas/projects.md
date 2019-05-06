@@ -48,17 +48,19 @@ Overview of the RoboJig surgery vs. conventional approach.
 
 
 ---
-## [Hearing4all - EMS](projects/50_ems.html)
+## [Hearing4all 2.0 - Intraoperative Insertion Force Measurement]
 
-### Electromechanical Stimulation of the Cochlea
+### Design & test of a tool for intraoperative measurement of insertion forces during insertion of a CI electrode array into the Cochlea
 
-![EMS](projects/50_ems/ems.png){style="width:450px"}
 
-**Contact: Dipl.-Phys. Mathias Müller | Mueller.Mathias@mh-hannover.de**
+**Contact: Silke Hügl | Huegl.Silke@mh-hannover.de**
 
 
 --- 
 ## [Finished Projects](projects/zz_finished.html)
+
+- [EMS @ Hearing4all 1.0](projects/zz_finished/ems.html)
+Electromechanical Stimulation of the Cochlea
 
 - [Mini-Hexapod](projects/zz_finished/hexapod2.html)
 Surgical Approach: Minimally invasive Cochlear Implant Surgery
