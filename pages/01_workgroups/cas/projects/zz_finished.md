@@ -9,6 +9,15 @@ Title: Finished Projects
 **Contact: Dr.-Ing. Thomas Rau | Rau.Thomas@mh-hannover.de**
 
 ---
+## [Akva-Med](zz_finished/akvamed.html)
+ 
+### Electrode Development: fluidically actuated implant
+
+![FE-Simulation of fluidically actuated implants](zz_finished/akvamed/akvamed3.png){style="width:300px"}
+
+**Contact: Silke Hügl | Huegl.Silke@mh-hannover.de**
+
+---
 ## [Mini-Hexapod](zz_finished/hexapod2.html)
 
 ### Minimally invasive cochlear implant surgery
