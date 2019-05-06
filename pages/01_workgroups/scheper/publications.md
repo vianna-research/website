@@ -1,5 +1,8 @@
 title: Publications
 
+## 2019
+* Hügl S, **Scheper V**, Gepp M M, Lenarz Th, Rau Th S, Schwieger J. [Coating stability and insertion forces of an alginate-cell-based drug delivery implant system for the inner ear](https://www.sciencedirect.com/science/article/pii/S1751616118317259) J Mech Behav Biomed Mater. doi: 10.1016/j.jmbbm.2019.05.007. Epub 2019 May 4.
+
 ## 2017
 * Berger C, Kühne D, **Scheper V**, Kral A. [Congenital deafness affects deep layers in primary and secondary auditory cortex.](https://www.ncbi.nlm.nih.gov/pubmed/28643417) J Comp Neurol. 2017 Oct 1;525(14):3110-3125. doi: 10.1002/cne.24267. Epub 2017 Jul 13.
 
