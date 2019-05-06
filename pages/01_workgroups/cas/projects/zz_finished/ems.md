@@ -1,7 +1,7 @@
-title: EMS @ Hearing4all
+title: EMS @ Hearing4all 1.0
 
 
-![EMS](50_ems/ems.png){style="width:600px"}
+![EMS](ems/ems.png){style="width:600px"}
 
 
 ### Aims:
