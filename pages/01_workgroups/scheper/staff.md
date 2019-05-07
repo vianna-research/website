@@ -8,7 +8,7 @@ title: Staff
 |Technical Staff|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
 |   |Name| EMail|Extension|
-|![Armbrecht Nina](Nina.png) | Nina Armbrecht	|	Armbrecht.nina(at)mh-hannover.de     | 532 1464|
+|![Armbrecht Nina](Nina.png) | Nina Armbrecht	|	Armbrecht.nina(at)mh-hannover.de     | 532 1529|
 
 |Research Team  |    |  | +49 (0)511 - |
 |---------|:------|------|-----|
@@ -16,7 +16,8 @@ title: Staff
 |![Image Ziwen Gao](Ziwen.jpg)  | Ziwen Gao, M.Sc. 	|	Gao.ziwen(at)mh-hannover.de | 532 7262|
 | ![Image Jana Schwieger](Schwieger.jpg) |Jana Schwieger, Dr. med. vet. | Schwieger.jana(at)mh-hannover.de|532 7262|
 |  ![Image Melanie Steffens](Steffens.jpg)  | Melanie Steffens, Dr. rer. nat. | Steffens.melanie(at)mh-hannover.de|532 9494 |
-|![Image Farnaz Matin ](Matin.JPG) |  Farnaz Matin, MD|	Matin.Farnaz(at)mh-hannover.de| 17 7443   
+|   ![Image Kathrin Anja Malfeld](Malfeld.jpg)  | Kathrin Anja Malfeld, veterinarian, PhD Student |  Malfeld.Kathrin@mh-hannover.de |532 1529 |
+|    ![Image Farnaz Matin ](Matin.JPG) |  Farnaz Matin, MD|	Matin.Farnaz(at)mh-hannover.de| 17 7443   
 
 
 
@@ -29,7 +30,7 @@ title: Staff
 |Katarina Klötzer, PhD Student, MD student|
 |Katarina-Sophie Jung, PhD Student, MD student|
 |Maciek Wilk, veterinarian, PhD Student|
-|Lennart Ryll, FWJ|Ryll.lennart(at)mh-hannover.de|
+
 
 
 
