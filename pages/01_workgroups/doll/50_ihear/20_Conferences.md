@@ -12,6 +12,7 @@ title: Conferences
 
 ## The second IHeaR Symposium & Workshop in Buenos Aires, Argentina, on April 2019 
 
+![BUEmeeting](BUEmeeting.jpg)
 
 
 In the following, further dates are listed. **We are looking forward to welcoming you!**
