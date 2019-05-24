@@ -5,15 +5,15 @@ In order to ensure a bilateral exchange program for young researchers and doctor
 
 ![meetingphoto](ihearmeeting.png)
 
+##Otorrinolaringología congress on 21-24 November 2018 in Santa Cruz
+
+##The three-day conference with workshops on April 2019 in Buenos Aires, Argentina
 
 In the following, further dates are listed. **We are looking forward to welcoming you!**
 
 
 |Dates|Location|
-|-----------|-------------|
-|Otorrinolaringología congress [(ORL 2018)](http://www.orl2018.cl/) on 21-24 November 2018| Santa Cruz|
-|Meeting on Novbember 2018| Santa Cruz |
-|Three-day Conference with workshops on April 2019 | Buenos Aires|
+
 |Kick-off of consolidation phase on November 2019 | Santiago de Chile|
 |Two-day dissemination meeting in 2020 | Santiago de Chile|
 |Symposium Workshop "Medicine and Engineering in Hearing Restoration" in 2020| Hannover|
