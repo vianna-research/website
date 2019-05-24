@@ -1,7 +1,8 @@
 title: Conferences 
 
 ## Workshops & Meetings 
-In order to ensure a bilateral exchange program for young researchers and doctors, three young doctors from Chile have already been received at **[Hannover Medical School (MHH)](https://www.mh-hannover.de/) in Hannover**. Following the successful workshop on **March 2018** (see figure below), the project partners are looking forward to the next meeting.
+
+## The first IHeaR Symposium & Workshop in Valparaíso, Chile, on March 2018
 
 ![meetingphoto](ihearmeeting.png)
 
@@ -9,7 +10,9 @@ In order to ensure a bilateral exchange program for young researchers and doctor
 
 ![ORL2018](Orl2018.png)
 
-## The three-day conference with workshops on April 2019 in Buenos Aires, Argentina
+## The second IHeaR Symposium & Workshop in Buenos Aires, Argentina, on April 2019 
+
+
 
 In the following, further dates are listed. **We are looking forward to welcoming you!**
 
