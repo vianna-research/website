@@ -7,7 +7,7 @@ title: IHeaR
 ## The International Hearing Research - I H e a R 
 The aim of the IHeaR project is the hearing research as well as the hearing restoration with the disciplines of health, biomedicine and biomedical engineering. Cooperation partners (see below) are planning a long-term establishment of a "German-Chilean hearing research center". This collaboration is sponsored by the German Federal Ministry of Education and Research.
 
-![Vertrag1](Vertrag1.png)
+![vertrag1](vertrag1.png)
 
 
 ## Partner
