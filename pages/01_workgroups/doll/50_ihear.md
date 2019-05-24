@@ -19,5 +19,16 @@ The aim of the IHeaR project is the hearing research as well as the hearing rest
 
 ## Publications
 
-Víctor Fuenzalida, Theodor Doll, Katharina Tegtmeier, Achim Walter Hassel, "Materials in Medicine: Interface between Implants and Body fluids", IHeaR 2018 Proceedings, Valparaiso, Chile, Mar 7-9, 2018
+* Víctor Fuenzalida, Theodor Doll, Katharina Tegtmeier, Achim Walter Hassel, "Materials in Medicine: Interface between Implants and Body fluids", IHeaR 2018 Proceedings, Valparaiso, Chile, Mar 7-9, 2018
+
+* Dragicevic C, Krüger B, Lopez-Poveda EA, Délano PH, Nogueira W: Frequency distribution of contralateral modulation of cochlear mechanics in single-sided deaf cochlear implant users, as revealed by otoacoustic emissions; IHeaR 2019 Symposium, Buenos Aires, Argentine, 24-26. April, 2019. 
+
+* Hassel AW, Fuenzalida V, Doll T: Routes towards corrosion-free implant materials; IHeaR 2019 Symposium, Buenos Aires, Argentine, 24-26. April, 2019.
+
+* Nogueira W, Lopez-Poveda EA, Délano PH, Dragicevic C: Contralateral suppression of human hearing sensitivity in single-sided deaf cochlear implant users; IHeaR 2019 Symposium, Buenos Aires, Argentine, 24-26. April, 2019. 
+
+* Yilmaz-Bayraktar S, Schwieger J, Scheper V, Lenarz T, Böer U, Kreienmeyer M, Torrente M, Doll T:  Decellularized equine carotid artery layers as matrix for regenerated neurites of spiral ganglion neurons 2019; submitted.
+
+* Knipper M, van Dijk P, Schulz H, Norena A, Mazurek B, Krauss P, Scheper V, Warnecke A, Schwabe K, Singer W, Braun C, Schulze J, Délano PH, Elgoyhen AB, Schlee W, Searchfield G, Rauschecker J, Langguth B, Fallgatter AJ, Ehlis AC, Munk MHJ, Baguley D, Rüttiger L: Tinnitus models all present and correct! Tinnitus in the context of deafness and cochlear implants 2019; in process.
+
 
