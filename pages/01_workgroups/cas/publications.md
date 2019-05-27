@@ -6,6 +6,15 @@ Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019): _
 
 
 ### Posters & Abstracts
+| ![](publications/EmptyLogo50px.jpg){style="width:50px"} | 90th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 30- June 1st, Berlin, Germany| 
+|-:|:------| 
+| | Hügl S., Henke M., Kahrs LA., Ortmaier T., Lenarz T., Rau TS (2019): _Entwicklung eines Versuchsstandes für die Insertionskraftmessung bei präziser Ausrichtung von Präparaten mittels stereooptischer Navigation_. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span>  (dt.)](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0039-1686177)\]
+\[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span>  (engl.)](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0039-1686402)\].|
+| | Suzaly N., Hügl S., Majdani O., Lenarz T., Rau TS. (2019): _Histologische Evaluierung des Elektrodenträgers eines Cochlea-Implantats mit einer für elektrische Erwärmung integrierten Formgedächtnislegierung_. 
+\[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi (dt.)](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0039-1686291)\] 
+\[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi (engl.)](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0039-1686520)\].|
+
+
 | ![ARO 2019 Logo](publications/aro2019logo120px.png){style="width:50px"} | ARO 42nd Annual MidWinter Meeting, February 9-13, Baltimore, MD, USA| 
 |-:|:------| 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/Rau2019_AROposter.pdf)  | Rau Th., Nullmeier M., Cramer J., Hügl S., Pawsey N., Lenarz Th., Salcher R. (2019): _A Method for Building Individualized Two-Dimensional Artificial Cochlea Models_. In Proc. Association for Research in Otolaryngology (ARO) Vol 42:36. |
