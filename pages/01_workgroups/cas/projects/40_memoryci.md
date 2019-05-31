@@ -24,5 +24,6 @@ If your are interested in this technology, want to join a collaboration for furt
  
 ### Further Reading:
 
+|  |       |
 |-:|:------| 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.degruyter.com/downloadpdf/j/cdbme.2018.4.issue-1/cdbme-2018-0036/cdbme-2018-0036.pdf)| Rau Th.S., Suzaly N., Pawsey N., Hügl S., Lenarz T., Majdani O. (2018): _Histological evaluation of a cochlear implant electrode array with electrically activated shape change for perimodiolar positioning_. In Proc. 52nd Annual Conference of the German Society for Biomedical Engineering (DGBMT within VDE), September 26-28, Aachen, Germany. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.degruyter.com/downloadpdf/j/cdbme.2018.4.issue-1/cdbme-2018-0036/cdbme-2018-0036.pdf)\].|
