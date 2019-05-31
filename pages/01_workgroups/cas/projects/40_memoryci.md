@@ -16,9 +16,12 @@ German Research Foundation (DFG, RA 2751/1-1)
 ### Contact:
 If your are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
 
-    M. Sc. Nuha Suzaly 	
-    Suzaly.Nuha@mh-hannover.de
+    M. Sc. Nuha Suzaly                      Dr.-Ing. Thomas Rau 	
+    Suzaly.Nuha@mh-hannover.de              rau.thomas@mh-hannover.de
 
 - - -
  
 ### Further Reading:
+
+|-:|:------| 
+| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.degruyter.com/downloadpdf/j/cdbme.2018.4.issue-1/cdbme-2018-0036/cdbme-2018-0036.pdf)| Rau Th.S., Suzaly N., Pawsey N., Hügl S., Lenarz T., Majdani O. (2018): _Histological evaluation of a cochlear implant electrode array with electrically activated shape change for perimodiolar positioning_. In Proc. 52nd Annual Conference of the German Society for Biomedical Engineering (DGBMT within VDE), September 26-28, Aachen, Germany. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.degruyter.com/downloadpdf/j/cdbme.2018.4.issue-1/cdbme-2018-0036/cdbme-2018-0036.pdf)\].|
