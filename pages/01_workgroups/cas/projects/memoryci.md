@@ -33,7 +33,7 @@ If your are interested in this technology, want to join a collaboration for furt
 
 For several years, we have been exploring the shape memory effect of Nitinol, which is a well-established shape memory allow (SMA) made from nickel and titanium with numerous biomedical applications, as a potential mechanism for perimodiolar placement of the electrode array of a cochlear implant. A first demonstrator of this concept was announced in 2013 \[[Majdani _et al._](https://www.degruyter.com/downloadpdf/j/bmte.2013.58.issue-s1-A/bmt-2013-4002/bmt-2013-4002.pdf)\]. Later we performed temporal bone studies to show that there ist no higher risk of insertion trauma due to the additional stiffness of the integrated Nitinol wire \[[Rau _et al._ 2016](../publications/Rau2016_Hybrid-M_InsTrauma_v4_Rev2_v1_clean.pdf)]\. 
 
-     ![Pictures showing no insertion trauma when using an electrode array equipped with an additional Nitinol wire.](memoryci/MemoryCI_Histo_Rau2016.jpg "Histological evaluation of an electrode array equipped with an additional Nitinol wire"){style="width:600px"}
+   ![Pictures showing no insertion trauma when using an electrode array equipped with an additional Nitinol wire.](memoryci/MemoryCI_Histo_Rau2016.jpg "Histological evaluation of an electrode array equipped with an additional Nitinol wire"){style="width:600px"}
 
 ![Picture showing experimental Setup](memoryci/MemoryCI_Rau2016_Setup.jpg "Setup for temporal bone experiments at simulated body temperature"){style="width:600px"}
 
