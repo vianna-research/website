@@ -31,6 +31,8 @@ If your are interested in this technology, want to join a collaboration for furt
 
 # Preliminary Work
 
+For several years, we have been exploring the shape memory effect of Nitinol, which is a well-established shape memory allow (SMA) made from nickel and titanium with numerous biomedical applications, as a potential mechanism for perimodiolar placement of the electrode array of a cochlear implant. A first demonstrator of this concept was announced in 2013 [Majdani et al.](https://www.degruyter.com/downloadpdf/j/bmte.2013.58.issue-s1-A/bmt-2013-4002/bmt-2013-4002.pdf) 
+
 ### List of Publications:
 
 |  |       |
@@ -40,5 +42,5 @@ If your are interested in this technology, want to join a collaboration for furt
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](../publications/Rau2016_Hybrid-M_InsTrauma_v4_Rev2_v1_clean.pdf)  | Rau Th. S., Harbach L., Pawsey N., Kluge M., Erfurt P., Lenarz T., Majdani O. (2016): _Insertion trauma of a cochlear implant electrode array with Nitinol inlay._ Eur Arch Otorhinolaryngol. 273(11):3573-3585. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s00405-016-3955-z)\].|
 |   | Majdani O., Lenarz T., Pawsey N., Nullmeier M., Sedlmayr G., Rau Th. S. (2016): _Development of a prototype of a new cochlear implant electrode (Hybrid-M) with shape memory effect_. In Proc.: 87th Annual Meeting of the German Society of Oto-Rhino-Laryngology, Head and Neck Surgery. Mai 4-7, Düsseldorf, Germany. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.egms.de/static/en/meetings/hnod2016/16hnod378.shtml)\].|
 |   | Majdani O., Lenarz T., Pawsey N., Risi F., Prielozny L., Rau Th. S. (2014): Insertion of a cochlear implant electrode with shape memory properties into the inner ear for nerve-close position. Biomedical Engineering / Biomedizinische Technik 59 (S1): 1077–1079. |
-|   | Majdani O.; Lenarz Th; Pawsey N.; Risi F.; Sedlmayr G.; Rau Th. S. (2013): First Results with a Prototype of a new Cochlear Implant Electrode featuring Shape Memory Effect. Biomed Tech (Berl) 58(SI-1).| 
+|   | Majdani O.; Lenarz Th; Pawsey N.; Risi F.; Sedlmayr G.; Rau Th. S. (2013): First Results with a Prototype of a new Cochlear Implant Electrode featuring Shape Memory Effect. Biomed Tech (Berl) 58(SI-1). \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.degruyter.com/downloadpdf/j/bmte.2013.58.issue-s1-A/bmt-2013-4002/bmt-2013-4002.pdf)\].| 
 
