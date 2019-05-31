@@ -29,7 +29,7 @@ Overview of the RoboJig surgery vs. conventional approach.
 
 
 ---
-## [MemoryCI](projects/40_memoryci.html)
+## [MemoryCI](projects/memoryci.html)
 
 ### Electrode Development: Shape-Memory Alloys (SMA) for functionalisation of medical implants
 
