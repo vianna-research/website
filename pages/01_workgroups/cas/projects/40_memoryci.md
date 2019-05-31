@@ -18,6 +18,7 @@ If your are interested in this technology, want to join a collaboration for furt
 
     M. Sc. Nuha Suzaly                      Dr.-Ing. Thomas Rau 	
     Suzaly.Nuha@mh-hannover.de              rau.thomas@mh-hannover.de
+    +49(0)511/532-7024                      +49(0)511/532-3025
 
 - - -
  
