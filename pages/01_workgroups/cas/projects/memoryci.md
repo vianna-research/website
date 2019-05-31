@@ -35,7 +35,7 @@ For several years, we have been exploring the shape memory effect of Nitinol, wh
 
 ![Pictures showing no insertion trauma when using an electrode array equipped with an additional Nitinol wire.](memoryci/MemoryCI_Histo_Rau2016.jpg "Histological evaluation of an electrode array equipped with an additional Nitinol wire"){style="width:600px"}
 
-![Picture showing experimental Setup](memoryci/MemoryCI_Rau2016_Setup.jpg "Setup for temporal bone experiments at simulated body temperature"){style="width:600px")
+![Picture showing experimental Setup](memoryci/MemoryCI_Rau2016_Setup.jpg "Setup for temporal bone experiments at simulated body temperature"){style="width:600px"}
 
 However, providing a functional EA for cochlear implantation surgery with shape memory effect is still an unsolved challenging issue due to the very narrow temperature range in which complete phase transformation has to take place. Fine tuning of the thermomechanical properties of the Nitinol wires requires further basic research in order to fulfil the application specific requirements.
 
