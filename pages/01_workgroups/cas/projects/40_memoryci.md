@@ -2,7 +2,7 @@ Title: MemoryCI
 
 - - - 
 
-# Functionalisation of implants by use of shape memory materials for temperature and force sensitive applications
+# Functionalisation of Cochlear Implants Electrode Arrays by Use of Shape Memory Alloys
 
 Shape memory materials, above all Nitinol, are of particular interest for minimally invasive applications in medicine. Their unique material properties allow a high degree of miniaturization and the realization of actuator functions. However, the design process of such shape memory actuators is complex and insufficiently controlled. Therefore, the use of Nitinol in medical engineering is up to now restricted to applications which do not require an accurate temperature-dependent behavior or for which the actuation movement can be generously and coarsely designed. This is the case when the transformation temperatures can be chosen considerably below or above body temperature or when the surrounding tissues are sufficiently robust (e.g. bone around compression staples).
 
@@ -11,7 +11,7 @@ The situation is different when functionalizing the electrode carrier of a cochl
 The proposed research project will address the special challenges of using thin Nitinol wires as actuator elements applied to the concrete example of the CI. The aim is to develop a sound knowledge for the dimensioning of wiry Nitinol shape memory actuators. Therefore, the influence of external forces on the thermal hysteresis will be quantified by a systematic thermo-mechanical characterization of different wire samples. This will be complemented by investigating the interdependence of the thermo-mechanical behaviour and the clinical preconditions (thermal: physiological threshold values, geometrical: anatomical boundaries, mechanical: maximum permissible contact forces). In addition, cooling methods suitable for the OR will be developed and active heating (externally controlled activation of the shape memory effect) will be experimentally investigated. Resulting surface temperatures will be quantified by use of thermography. This application-oriented basic research should support a broader utilization of miniaturized Nitinol shape memory actuators in medical technology.
 
 ### Funding:
-German Research Foundation (DFG, [RA 2751/1-1](https://gepris.dfg.de/gepris/projekt/316068314), since July 2017)
+German Research Foundation (DFG, [RA 2751/1-1](https://gepris.dfg.de/gepris/projekt/316068314), Title: "Functionalisation of implants by use of shape memory materials for temperature and force sensitive applications", since July 2017)
 
 ### Contact:
 If your are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
