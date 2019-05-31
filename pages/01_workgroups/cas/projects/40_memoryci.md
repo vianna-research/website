@@ -20,7 +20,6 @@ If your are interested in this technology, want to join a collaboration for furt
     Suzaly.Nuha@mh-hannover.de              rau.thomas@mh-hannover.de
     +49(0)511/532-7024                      +49(0)511/532-3025
 
-- - -
  
 ### Further Reading:
 
