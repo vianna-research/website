@@ -21,7 +21,7 @@ In 2018 we were able to demonstrates the feasibility of performing the minimally
 <center> ![](gluingjig/L1040405_b_800px.jpg){style="width:250px"}  ![](gluingjig/L1040426_800px.jpg){style="width:280px"} </center> 
 
 <center> 
-    <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span> <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span> <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>  
+    <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>   <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>   <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>  
 </center> 
 
 
