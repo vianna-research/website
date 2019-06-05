@@ -46,6 +46,8 @@ Overview of the RoboJig surgery vs. conventional approach.
 
 --- 
 ## [Finished Projects](projects/zz_finished.html)
+- [AkvaMed](projects/zz_finished/akvamed.html)
+Fluid-mechanical, compliant actuator for the active bending of an CI electrode carrier
 
 - [EMS @ Hearing4all 1.0](projects/zz_finished/ems.html)
 Electromechanical Stimulation of the Cochlea
