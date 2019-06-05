@@ -13,6 +13,8 @@ The developed system allows the patient specific individualization of a drill gu
 
 In 2018 we were able to demonstrates the feasibility of performing the minimally invasive access to the middle ear in a proof-of-concept study using the GluingJig surgical targeting system \[[Rau _et al_. 2018c](https://www.degruyter.com/downloadpdf/j/cdbme.2018.4.issue-1/cdbme-2018-0096/cdbme-2018-0096.pdf "External Link to full text")\]. In that study, the system was evaluated for the first time in a human cadaver trial. After screwing the reference frame ("Trifix") on one temporal bone specimen, a trajectory through the facial recess was planned after imaging. Using that plan the surgical template was composed utilizing bone cement and equipped with a linear guide for the surgical drill. After harding of the bone cement the template was mounted on top of the reference frame and used for drilling into the mastoid as previously planned. Facial nerve and chorda tympani could be preserved. The deviation between the actual drill hole and the planned trajectory was 0.17 mm at the level of the facial recess. The minimal distance of the drill hole to the facial nerve was 0.59 mm. 
 
+![](gluingjig/L1040405_b_800px.jpg)  ![](gluingjig/L1040426_800px.jpg)
+
 - - -
 ### Contact:
 If your are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
