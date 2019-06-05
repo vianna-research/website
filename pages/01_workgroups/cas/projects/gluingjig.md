@@ -11,6 +11,9 @@ The developed system allows the patient specific individualization of a drill gu
 
 ![Pictures showing an early prototype of the GluingJig](gluingjig/Banner_GluingJigV01.png "An early prototype")
 
+
+
+- - -
 ### Contact:
 If your are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
 
@@ -18,19 +21,15 @@ If your are interested in this technology, want to join a collaboration for furt
     rau.thomas@mh-hannover.de
     +49(0)511/532-3025
 
-- - -
 ### Funding:
 This work was supported by the start-up grant for young researches '[HiLF](https://www.mh-hannover.de/hilf.html)' of Hannover Medical School. 
 
-- - - 
 ### Patents:
-
 -   European patent granted in 2017 and validated in DE, FR, GB, CH, NL: Rau Th. S., Majdani O., Lenarz T., Kahrs L. A.: _Surgical guidance device and method for its preparation_. **EP 3 058 890 B1.** \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Patent](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=EP000003058890B1&famSearchFromHitlist=1)\].
 -   US patent application is pending. **US 2018/0008367 A1** \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> PAP](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=US020180008367A1&famSearchFromHitlist=1)\]. 
 
-- - - 
-### Further Reading:
 
+### Further Reading:
 |    |                                                               |
 | -: | :------------------------------------------------------------ |
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.degruyter.com/downloadpdf/j/cdbme.2018.4.issue-1/cdbme-2018-0096/cdbme-2018-0096.pdf)| Rau Th.S., Witte S., Uhlenbusch L., Lexow J., Hügl S., Kahrs L. A., Majdani O., Lenarz T. (2018): _Minimally invasive mastoidectomy approach using a mouldable surgical targeting system_. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.degruyter.com/downloadpdf/j/cdbme.2018.4.issue-1/cdbme-2018-0096/cdbme-2018-0096.pdf)\].|
