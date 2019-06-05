@@ -17,6 +17,8 @@ In 2018 we were able to demonstrates the feasibility of performing the minimally
 
 ![](gluingjig/L1040405_b_800px.jpg){style="width:250px"}  ![](gluingjig/L1040426_800px.jpg){style="width:260px"}
 
+![](gluingjig/L1040405_b_800px.jpg){style="width:50px; text-align:center"}
+
 - - -
 ### Contact:
 If your are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
