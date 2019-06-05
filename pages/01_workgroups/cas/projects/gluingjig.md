@@ -17,7 +17,8 @@ In 2018 we were able to demonstrates the feasibility of performing the minimally
 
 ![](gluingjig/L1040405_b_800px.jpg){style="width:250px"}  ![](gluingjig/L1040426_800px.jpg){style="width:280px"}
 
-<center> ![](gluingjig/L1040405_b_800px.jpg){style="width:50px; img-align:center"} </center>
+![](gluingjig/L1040405_b_800px.jpg){style="width:50px; img-align:center"} 
+<center> ![](gluingjig/L1040405_b_800px.jpg){style="width:50px"} </center> 
 
 - - -
 ### Contact:
