@@ -30,6 +30,12 @@ In 2018 we were able to demonstrates the feasibility of performing the minimally
 For more information about a first prototype of the GluingJig surgical targeting system please download the flyer provided [here](gluingjig/PosterGluingJig_engl.pdf). A German version of the flyer is available [here](gluingjig/PosterGluingJig_dt.pdf).
 
 
+
+
+
+
+
+
 - - -
 ### Contact:
 If your are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
