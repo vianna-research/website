@@ -11,7 +11,7 @@ The developed system allows the patient specific individualization of a drill gu
 
 ![Pictures showing an early prototype of the GluingJig](gluingjig/Banner_GluingJigV01.png "An early prototype")
 
-<center> <span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> </center> 
+<center> <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span> <i class="icon-pencil"></i> </center> 
 
 _
 
