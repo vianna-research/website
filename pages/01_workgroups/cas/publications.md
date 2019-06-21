@@ -9,6 +9,7 @@ Müller S., Kahrs L., Gaa J., Tauscher S., Kluge M., John S., Rau Th. S., Lenarz
 Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019): _Coating stability and insertion forces of an alginate-cell-based drug delivery implant system for the inner ear_. J Mech Behav Biomed Mater. 97: 90-98 \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/pii/S1751616118317259); IF: 3.239\]. (epub ahead of print 4 May 2019) 
 
 ### Conference Papers
+-
 
 ### Posters & Abstracts
 | ![](publications/EmptyLogo50px.jpg){style="width:50px"} | 90th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 30- June 1st, Berlin, Germany| 
@@ -23,10 +24,9 @@ Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019): _
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/Rau2019_AROposter.pdf)  | Rau Th., Nullmeier M., Cramer J., Hügl S., Pawsey N., Lenarz Th., Salcher R. (2019): _A Method for Building Individualized Two-Dimensional Artificial Cochlea Models_. In Proc. Association for Research in Otolaryngology (ARO) Vol 42:36. |
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications/Salcher2019_AROposter.pdf)  | Salcher R., Nullmeier M., Cramer J., Pawsey N., Lenarz Th., Rau Th. (2019): _Validation of PTFE Artificial Cochlea Model for Insertion Force Measurements_. In Proc. Association for Research in Otolaryngology (ARO) Vol 42:36. |
 
-- - -
 
 ### Patents
-
+-
 
 - - -
 
