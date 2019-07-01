@@ -1,7 +1,7 @@
 title: Publications
 
 ## 2019
-* **Scheper V**, Schwieger J, Hamm A,Lenarz T,  Hoffmann A. [BDNF-overexpressing human mesenchymal stem cells mediate increased neuronal protection in vitro.] J. Neurosci. Res., 30. June 2019 | https://onlinelibrary.wiley.com/doi/full/10.1002/jnr.24488
+* **Scheper V**, Schwieger J, Hamm A,Lenarz T,  Hoffmann A. [BDNF-overexpressing human mesenchymal stem cells mediate increased neuronal protection in vitro.](https://authorservices.wiley.com/api/pdf/fullArticle/16512369) J. Neurosci. Res., 30. June 2019
 
 * **Scheper V**, Hoffmann A, Gepp M M, Schulz A, Hamm A, Pannier C, Hubka P, Lenarz T, Schwieger J. [Stem Cell Based Drug Delivery for Protection of Auditory Neurons in a Guinea Pig Model of Cochlear Implantation.] Front. Cell. Neurosci., 14 May 2019 | https://doi.org/10.3389/fncel.2019.00177
 
