@@ -1,6 +1,8 @@
 title: Publications
 
 ## 2019
+* **Scheper V**, Schwieger J, Hamm A,Lenarz T,  Hoffmann A. [BDNF-overexpressing human mesenchymal stem cells mediate increased neuronal protection in vitro.] J. Neurosci. Res., 30. June 2019 | https://onlinelibrary.wiley.com/doi/full/10.1002/jnr.24488
+
 * **Scheper V**, Hoffmann A, Gepp M M, Schulz A, Hamm A, Pannier C, Hubka P, Lenarz T, Schwieger J. [Stem Cell Based Drug Delivery for Protection of Auditory Neurons in a Guinea Pig Model of Cochlear Implantation.] Front. Cell. Neurosci., 14 May 2019 | https://doi.org/10.3389/fncel.2019.00177
 
 * Hügl S, **Scheper V**, Gepp M M, Lenarz Th, Rau Th S, Schwieger J. [Coating stability and insertion forces of an alginate-cell-based drug delivery implant system for the inner ear.](https://www.sciencedirect.com/science/article/pii/S1751616118317259) J Mech Behav Biomed Mater. doi: 10.1016/j.jmbbm.2019.05.007. Epub 2019 May 4.
