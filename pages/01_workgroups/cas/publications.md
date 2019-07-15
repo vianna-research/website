@@ -20,10 +20,6 @@ Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019): _
 | | Scheper V., Hügl S., Hamm A., Gepp MM., Schulz A., Hubka P., Pannier C., Lenarz T., Rau TS., Hoffmann A., Schwieger J. (2019): _BDNF overexpressing human stem cells in alginate for cochlear implant optimization_.|
 | | Suzaly N., Hügl S., Rau TS., Lenarz T. (2019): _Designing shape memory alloy actuators tailored to the human cochlea geometry_.|
 
-| | Suzaly N., Hügl S., Majdani O., Lenarz T., Rau TS. (2019): _Histologische Evaluierung des Elektrodenträgers eines Cochlea-Implantats mit einer für elektrische Erwärmung integrierten Formgedächtnislegierung_. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi (dt.)](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0039-1686291)\] \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi (engl.)](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0039-1686520)\].|
-| | Timm M., Stieghorst J., Kluge M., John S., Rau TS., Lenarz T. (2019): _Auf dem Weg zur minimal-invasiven Cochlea Implantation: Erste Ergebnisse einer Kadaverstudie_. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi (dt.)](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0039-1686295)\] \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi (engl.)](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0039-1686524)\].|
-
-
 
 | ![](publications/EmptyLogo50px.jpg){style="width:50px"} | 90th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 30- June 1st, Berlin, Germany| 
 |-:|:------| 
