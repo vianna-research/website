@@ -27,20 +27,20 @@ title: Staff
 
 
 
-|Studenten||
+|Students||
 |-----------|-------------|
 |Sandra Ahlers| HiWi|
-|David Biegger| HiWi - Masterarbeit|
-|Heinke Brosig| Hiwi - Studienarbeit|
-|Johanna Diekhoff| Hiwi - Masterarbeit|
-|Lennart Guntenhöner | Medizinische Doktorarbeit|
-|Darine Helal| Praktikant|
+|David Biegger| HiWi - Masterthesis|
+|Heinke Brosig| Hiwi - Student project|
+|Johanna Diekhoff| Hiwi - Masterthesis|
+|Lennart Guntenhöner | Medical Doctorthesis|
+|Darine Helal| Trainee|
 |Deike Ihnen| HiWi|
 |Yuyang Mao| HiWi|
 |Fabian Müller| HiWi|
-|Jonas Oberröhrmann| Praktikant|
+|Jonas Oberröhrmann| Trainee|
 |Adrian Onken| HiWi|
-|Alexander Schulze-Finkenbrink|Praktikant|
+|Alexander Schulze-Finkenbrink|Trainee|
 |Jonathan Theilen| HiWi|
 
 
