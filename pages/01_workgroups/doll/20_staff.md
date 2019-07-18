@@ -21,25 +21,27 @@ title: Staff
 |---------|:------|------|-----|
 |   |Name| EMail|Extension|
 |![Image Katharina Foremny](Katharina3.png)  | Katharina Foremny (née Tegtmeier), M.Sc. 	|	foremny.katharina(at)mh-hannover.de | 532 7231|
-| ![Image Filip Jakimovski](Filip.png) |Filip Jakimovski, M.Sc. | jakimovski.filip(at)mh-hannover.de|532 7231|
 |  ![Image Juan Pablo Marcoleta](Juan2.png)  | Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|5350 287 |
 |![Image Jan Stieghorst ](Jan.png) |  Dr.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
 |![Image Suheda Yilmaz-Bayraktar](suheda.png) |Suheda Yilmaz-Bayraktar, M. Sc. | yilmaz-bayraktar.suheda(at)mh-hannover.de| 532 1525|
 
 
 
-|  Students   ||
+|Studenten||
 |-----------|-------------|
-|Ailke Behrens, B.Sc. | Student Assistant|
-|Lennart Guntenhöner | Medical Doctorate Thesis|
-|Michael Kaiser | Student Assistant|
-|Adrian Onken| Student Assistant|
-|Heinke Brosig | Student Assistant|
-|Xiangyu Chen | Student Assistant|
-|Hannah Lemper | Student Assistant| 
-|Andre Niebur | Student Assistant|
-|Duc Thanh Nguyen | Intern |
-|Alexander Schulze|Intern|
+|Sandra Ahlers| HiWi|
+|David Biegger| HiWi - Masterarbeit|
+|Heinke Brosig| Hiwi - Studienarbeit|
+|Johanna Diekhoff| Hiwi - Masterarbeit|
+|Lennart Guntenhöner | Medizinische Doktorarbeit|
+|Darine Helal| Praktikant|
+|Deike Ihnen| HiWi|
+|Yuyang Mao| HiWi|
+|Fabian Müller| HiWi|
+|Jonas Oberröhrmann| Praktikant|
+|Adrian Onken| HiWi|
+|Alexander Schulze-Finkenbrink|Praktikant|
+|Jonathan Theilen| HiWi|
 
 
 
