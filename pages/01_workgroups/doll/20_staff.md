@@ -34,13 +34,13 @@ title: Staff
 |Heinke Brosig| Hiwi - Student project|
 |Johanna Diekhoff| Hiwi - Masterthesis|
 |Lennart Guntenhöner | Medical Doctorthesis|
-|Darine Helal| Trainee|
+|Darine Helal| Intern|
 |Deike Ihnen| HiWi|
 |Yuyang Mao| HiWi|
 |Fabian Müller| HiWi|
-|Jonas Oberröhrmann| Trainee|
+|Jonas Oberröhrmann| Intern|
 |Adrian Onken| HiWi|
-|Alexander Schulze-Finkenbrink|Trainee|
+|Alexander Schulze-Finkenbrink|Intern|
 |Jonathan Theilen| HiWi|
 
 
