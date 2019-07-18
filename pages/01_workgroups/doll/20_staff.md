@@ -9,8 +9,8 @@ title: Staff
 |Team Assistant   |       |   | +49 (0)511 -  |
 |--------------|:---------------------|------|---|
 |   |Name| EMail|Extension|
-| | Lena Gebauer-Hötzel	| lena.gebauer-hoetzel(at)item.fraunhofer.de|5350 247 |
-| | Hannah Vollmer        |  vollmer.hannah(at)mh-hannover.de     |5350 296 |
+|![Lena Gebauer](Lena.JPG)  | Lena Gebauer-Hötzel	| lena.gebauer-hoetzel(at)item.fraunhofer.de|5350 247 |
+|![Hannah Vollmer](Hannah.JPG) | Hannah Vollmer        |  vollmer.hannah(at)mh-hannover.de     |5350 296 |
 
 |Technical Staff|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
