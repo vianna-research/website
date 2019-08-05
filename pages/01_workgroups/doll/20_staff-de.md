@@ -30,19 +30,11 @@ title: Mitarbeiter
 
 |Studenten||
 |-----------|-------------|
-|Sandra Ahlers| HiWi|
-|David Biegger| HiWi - Masterarbeit|
-|Heinke Brosig| Hiwi - Studienarbeit|
-|Johanna Diekhoff| Hiwi - Masterarbeit|
+
 |Lennart Guntenhöner | Medizinische Doktorarbeit|
-|Darine Helal| Praktikant|
-|Deike Ihnen| HiWi|
 |Yuyang Mao| HiWi|
-|Fabian Müller| HiWi|
-|Jonas Oberröhrmann| Praktikant|
-|Adrian Onken| HiWi|
 |Alexander Schulze-Finkenbrink|Praktikant|
-|Jonathan Theilen| HiWi|
+
 
 
 
