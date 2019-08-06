@@ -4,6 +4,9 @@ title: Publications
 
 ### Journal Papers
 
+%Zentner L., Griebel S., Hügl S. (2019): _Fluid-mechanical compliant actuator for the insertion of a cochlear implant
+%electrode carrier_. Mechanism and Machine Theory. (accepted 06 Aug 2019)
+
 Müller S., Kahrs L., Gaa J., Tauscher S., Kluge M., John S., Rau Th. S., Lenarz Th., Ortmaier T., Majdani O. (2019): _Workflow assessment as a preclinical development tool_. Int J CARS. (epub ahead of print 05 June 2019) \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s11548-019-02002-3)\].
 
 Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019): _Coating stability and insertion forces of an alginate-cell-based drug delivery implant system for the inner ear_. J Mech Behav Biomed Mater. 97: 90-98 \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/pii/S1751616118317259); IF: 3.239\]. (epub ahead of print 4 May 2019) 
