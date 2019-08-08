@@ -17,11 +17,11 @@ Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019): _
 ### Posters & Abstracts
 | ![](publications/EmptyLogo50px.jpg){style="width:50px"} | Conference on Implantable Auditory Prostheses (CIAP), July 14-19, Lake Tahoe, CA, US| 
 |-:|:------| 
-| | Rau TS., Blum T., Kluge M., John S., Kahrs LA., Ortmaier T., Fröhlich M., Majdani O., Lenarz T. (2019): _Accuracy of drill depth control of an image-guided micro-stereotactic targeting system dedicated to cochlear implantation surgery_.|
-| | Rau TS., Hügl S., Nullmeier M., Pawsey N., Majdani O., Lenarz T., Salcher R. (2019): _On the development of realistic artificial cochlea models_.|
-| | Salcher R., Nullmeier M., Cramer J., Pawsey N., Lenarz T., Rau TS. (2019): _Artificial cochlea model material validation for insertion force measurement_.|
+| | Rau TS., Blum T., Kluge M., John S., Kahrs LA., Ortmaier T., Fröhlich M., Majdani O., Lenarz T. (2019c): _Accuracy of drill depth control of an image-guided micro-stereotactic targeting system dedicated to cochlear implantation surgery_.|
+| | Rau TS., Hügl S., Nullmeier M., Pawsey N., Majdani O., Lenarz T., Salcher R. (2019b): _On the development of realistic artificial cochlea models_.|
+| | Salcher R., Nullmeier M., Cramer J., Pawsey N., Lenarz T., Rau TS. (2019b): _Artificial cochlea model material validation for insertion force measurement_.|
 | | Scheper V., Hügl S., Hamm A., Gepp MM., Schulz A., Hubka P., Pannier C., Lenarz T., Rau TS., Hoffmann A., Schwieger J. (2019): _BDNF overexpressing human stem cells in alginate for cochlear implant optimization_.|
-| | Suzaly N., Hügl S., Rau TS., Lenarz T. (2019): _Designing shape memory alloy actuators tailored to the human cochlea geometry_.|
+| | Suzaly N., Hügl S., Rau TS., Lenarz T. (2019b): _Designing shape memory alloy actuators tailored to the human cochlea geometry_.|
 
 
 | ![](publications/EmptyLogo50px.jpg){style="width:50px"} | 90th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 30- June 1st, Berlin, Germany| 
