@@ -35,7 +35,7 @@ For more information about a first prototype of the GluingJig surgical targeting
 
 - - -
 ### Contact:
-If your are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
+If you are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
 
     Dr.-Ing. Thomas Rau
     rau.thomas@mh-hannover.de
