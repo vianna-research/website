@@ -2,7 +2,7 @@ title: Staff
 
 |Head of research group|        |   |
 |--------------|:---------------|----|
-|![Image Theo Doll](Doll2.png)|[Prof. Dr.-Ing. Theodor Doll](pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
+|![Image Theo Doll](Doll2.png)|[Prof. Dr.-Ing. Theodor Doll](01_pagedoll.html)|	doll.theodor(at)mh-hannover.de|   
 
 
 
