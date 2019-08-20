@@ -5,7 +5,7 @@ title: Publications
 ### Journal Papers
 
 Zentner L., Griebel S., Hügl S. (2019): _Fluid-mechanical compliant actuator for the insertion of a cochlear implant
-electrode carrier_. Mechanism and Machine Theory. (accepted 06 Aug 2019) \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Journal](https://www.journals.elsevier.com/mechanism-and-machine-theory); IF: 3.535\]
+electrode carrier_. Mechanism and Machine Theory. 142. (epub ahead of print 16 Aug 2019) \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Journal](https://www.journals.elsevier.com/mechanism-and-machine-theory); IF: 3.535\]
 
 Müller S., Kahrs L., Gaa J., Tauscher S., Kluge M., John S., Rau Th. S., Lenarz Th., Ortmaier T., Majdani O. (2019): _Workflow assessment as a preclinical development tool_. Int J CARS. (epub ahead of print 05 June 2019) \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s11548-019-02002-3)\].
 
