@@ -50,7 +50,7 @@ OUTPUT_PATH = "../html"  # relative to the pelicanconf.py file
 
 
 # Always copy these to output, so they get uploaded.
-STATIC_PATHS = ['images', '__downloads', 'custom-css/VIANNA.css', '.htaccess']
+STATIC_PATHS = ['images', '__downloads', 'custom-css/vianna.css', '.htaccess']
 
 # The dir to process input files (relative to pelicanconf.py)
 PATH = '.'
@@ -65,9 +65,9 @@ RELATIVE_URLS = True  # Note: gets overwritten in production setup!
 
 # Tell Pelican to change the path to 'static/custom.css' in the output dir
 EXTRA_PATH_METADATA = {
-    'custom-css/VIANNA.css': {'path': 'static/VIANNA.css'}
+    'custom-css/vianna.css': {'path': 'static/vianna.css'}
 }
-CUSTOM_CSS = 'static/VIANNA.css'
+CUSTOM_CSS = 'static/vianna.css'
 
 SITELOGO = 'mhh.png'
 SITELOGO_SIZE = '75 em'
