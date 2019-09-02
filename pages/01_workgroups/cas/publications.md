@@ -17,6 +17,10 @@ Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019): _
 -
 
 ### Posters & Abstracts
+| ![](publications/esao.png){style="width:50px"} | Conference on  European Society for Artificial Organs (ESAO), September 3-7, Hannover, DE| 
+|-:|:------| 
+
+
 | ![](publications/EmptyLogo50px.jpg){style="width:50px"} | Conference on Implantable Auditory Prostheses (CIAP), July 14-19, Lake Tahoe, CA, US| 
 |-:|:------| 
 | | Rau TS., Blum T., Kluge M., John S., Kahrs LA., Ortmaier T., Fröhlich M., Majdani O., Lenarz T. (2019c): _Accuracy of drill depth control of an image-guided micro-stereotactic targeting system dedicated to cochlear implantation surgery_.|
