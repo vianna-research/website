@@ -19,6 +19,8 @@ Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019): _
 ### Posters & Abstracts
 | ![](publications/esao.png){style="width:50px"} | Conference on  European Society for Artificial Organs (ESAO), September 3-7, Hannover, DE| 
 |-:|:------| 
+| |Hügl S., Aldag N., Becker A., Lenarz T., Glasmacher B., Rau TS (2019): _Toward understanding the impact of cochlear model curvature, insertion speed, and implant stiffness for the prediction of insertion forces_.|
+| |Rau TS., Suzaly N., Hügl S., Lenarz T. (2019): _On the characterization of thermomechanical properties of curved NiTi shape memory wires intended for cochlear implant electrode arrays_.|
 
 
 | ![](publications/EmptyLogo50px.jpg){style="width:50px"} | Conference on Implantable Auditory Prostheses (CIAP), July 14-19, Lake Tahoe, CA, US| 
