@@ -36,7 +36,6 @@ title:Staff
 |![Portrait](staff/lena.jpg)	| Lena Geiger								| Student Assistant, Hannover Medical School		| 
 |![Portrait](staff/till.jpg) 	| Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/soon.png) 	| Clemens Griemsmann						| Bachelor Thesis, Leibniz University Hannover      |
-|![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project, Leibniz University Hannover  |
 |![Portrait](staff/soon.png) 	| Tobias Krail								| Master Thesis, Leibniz University Hannover      |
 |![Portrait](staff/soon.png)	| Jan Mairose								| Student Assistant, Leibniz University Hannover 	| 
 |![Portrait](staff/christianm.png)| Christian Menke							| Medical Doctoral Thesis, Hannover Medical School	|
@@ -72,6 +71,7 @@ title:Staff
 |![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/soon.png) 	  | Mehran Heidel 							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis, Leibniz University Hannover   		|
+|![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project, Leibniz University Hannover  |
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| now: Assistant Physician Radiology, [Kantonsspital Baden, Schweiz](https://www.kantonsspitalbaden.ch/Fachbereiche/Radiologie/index.html)	|
 |![Portrait](staff/katharina.jpg) | M. Sc. Katharina Rülander				| Internship, Master Thesis							 |
 |![Portrait](staff/henrik.png)	  | M. Sc. Henrik Schädlich				 	| Student Assistant, Master Thesis   |
