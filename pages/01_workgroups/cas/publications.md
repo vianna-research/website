@@ -17,7 +17,7 @@ Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019): _
 
 | ![](publications/ieb2019.png){style="width:50px"} | Inner Ear Biology Workshop, 7-10 September , Padua, Italy| 
 |-:|:------| 
-| |Schwieger J., Hügl S., Gepp M. M.,  Lrenarz Th., Rau Th. S., Scheper V. (2019): _Effect of alginate-cell based drug-delivery systems
+| |Schwieger J., Hügl S., Gepp M. M.,  Lenarz Th., Rau Th. S., Scheper V. (2019): _Effect of alginate-cell based drug-delivery systems
  on the insertion forces of CI-electrodes.|_
 
 | ![](publications/esao.png){style="width:50px"} | Conference on  European Society for Artificial Organs (ESAO), 3-7 September , Hannover, DE| 
