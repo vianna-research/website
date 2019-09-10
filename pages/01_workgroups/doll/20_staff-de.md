@@ -35,7 +35,7 @@ title: Mitarbeiter
 |Kaan Eren Paca| HiWi|
 |Marlene Schlüter| BA, HiWi|
 |Alexander Schulze-Finkenbrink|Praktikant|
-|Rajalakshmi Veeraraghavan| Ma,HiWi|
+|Rajalakshmi Veeraraghavan| MA, HiWi|
 |José André Waßmann| HiWi|
 |Hui Yu| Gaststudent|
 
