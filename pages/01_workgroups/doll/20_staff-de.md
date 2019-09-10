@@ -24,16 +24,23 @@ title: Mitarbeiter
 |---------|------|------|---|
 |![Image Katharina Foremny](Katharina3.png)  | Katharina Foremny (geb.Tegtmeier), M.Sc. 	|	foremny.katharina(at)mh-hannover.de       |532 7231|
 |  ![Image Juan Pablo Marcoleta](Juan2.png)  |Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|5350 287|
+|                                            |M. Eng. Ivan Pechenizkiy        | pechenizkiy.ivan(at)mh-hannover.de|532 7231
 |![Image Jan Stieghorst ](Jan.png.jpg) |  Dr.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
 |![Image Suheda Yilmaz-Bayraktar](suheda.png) |Suheda Yilmaz-Bayraktar, M. Sc. | yilmaz-bayraktar.suheda(at)mh-hannover.de|532 1525|
 
 
-|Studenten||
+|Studenten|
 |-----------|-------------|
 
 |Lennart Guntenhöner | Medizinische Doktorarbeit|
 |Yuyang Mao| HiWi|
+|Kaan Eren Paca| HiWi|
+|Marlene Schlüter| BA, HiWi|
 |Alexander Schulze-Finkenbrink|Praktikant|
+|Rajalakshmi Veeraraghavan| Ma,HiWi|
+|José André Waßmann| HiWi|
+|Hui Yu| Gaststudent|
+
 
 
 
