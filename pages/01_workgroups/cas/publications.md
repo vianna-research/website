@@ -4,9 +4,9 @@ title: Publications
 
 ### Journal Papers
 
-![GraficalAbstract](publications/Rau2019e_GraficalAbstract.jpg){style="width:300px; float:right; margin-left:1em"}
-
 Rau Th. S., Kreul D., Lexow J., Hügl S., Zuniga G. M., Lenarz Th., Majdani O. (2019e): _Characterizing the size of the target region for atraumatic opening of the cochlea through the facial recess_. Computerized Medical Imaging and Graphics. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/abs/pii/S0895611119300710); IF: 3.298\] (epub ahead of print 30 Aug 2019)
+
+![GraficalAbstract](publications/Rau2019e_GraficalAbstract.jpg){style="width:250px; float:right; margin-left:1em"}
 
 - *Highlights*
     - image-processing software for analysing the cochlear hook region was developed
@@ -19,7 +19,7 @@ Müller S., Kahrs L., Gaa J., Tauscher S., Kluge M., John S., Rau Th. S., Lenarz
 
 Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019b): _Coating stability and insertion forces of an alginate-cell-based drug delivery implant system for the inner ear_. J Mech Behav Biomed Mater. 97: 90-98 \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/pii/S1751616118317259); IF: 3.239\]. (epub ahead of print 4 May 2019) 
 
-![GraficalAbstract](publications/Huegl2019b_GraficalAbstract.jpg){style="width:250px; float:right; margin-left:1em"}
+![GraficalAbstract](publications/Huegl2019b_GraficalAbstract.jpg){style="width:200px; float:right; margin-left:1em"}
  	
 - *Highlights*
     - Application of alginate-cell solution to a cochlea model as lubricant is possible.
