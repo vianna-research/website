@@ -19,7 +19,7 @@ Müller S., Kahrs L., Gaa J., Tauscher S., Kluge M., John S., Rau Th. S., Lenarz
 
 Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019b): _Coating stability and insertion forces of an alginate-cell-based drug delivery implant system for the inner ear_. J Mech Behav Biomed Mater. 97: 90-98. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.sciencedirect.com/science/article/pii/S1751616118317259/pdfft?md5=e747450acdb13300028d9e38fc20d5da&pid=1-s2.0-S1751616118317259-main.pdf); [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/pii/S1751616118317259); IF: 3.239\]. (epub ahead of print 4 May 2019) 
 
-![GraficalAbstract](publications/Huegl2019b_GraficalAbstract.jpg){style="width:250px; float:right; margin-left:1em"}
+![GraficalAbstract](publications/Huegl2019b_GraficalAbstract.jpg){style="width:220px; float:right; margin-left:1em"}
  	
 - *Highlights*
     - Application of alginate-cell solution to a cochlea model as lubricant is possible.
