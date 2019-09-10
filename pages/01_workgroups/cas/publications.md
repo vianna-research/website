@@ -20,11 +20,11 @@ Müller S., Kahrs L., Gaa J., Tauscher S., Kluge M., John S., Rau Th. S., Lenarz
 Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019b): _Coating stability and insertion forces of an alginate-cell-based drug delivery implant system for the inner ear_. J Mech Behav Biomed Mater. 97: 90-98 \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/pii/S1751616118317259); IF: 3.239\]. (epub ahead of print 4 May 2019) 
 
 - *Highlights*
-        - Application of alginate-cell solution to a cochlea model as lubricant is possible.
-        - Alginate-cell solution slightly increased insertion forces in a cochlea model.
-        - Alginate-cell coating of an electrode array is possible.
-        - Coating is considerable resistant to handling and insertion into a cochlea model.
-        - Coated electrode arrays had a significant, 75% reduction of insertion forces.
+    - Application of alginate-cell solution to a cochlea model as lubricant is possible.
+    - Alginate-cell solution slightly increased insertion forces in a cochlea model.
+    - Alginate-cell coating of an electrode array is possible.
+    - Coating is considerable resistant to handling and insertion into a cochlea model.
+    - Coated electrode arrays had a significant, 75% reduction of insertion forces.
 
 ### Conference Papers
 -
