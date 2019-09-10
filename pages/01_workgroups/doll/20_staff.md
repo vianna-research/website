@@ -36,7 +36,8 @@ title: Staff
 |Marlene Schlüter| HiWi|
 |Alexander Schulze-Finkenbrink|Intern|
 |Rajalakshmi Veeraraghavan| HiWi|
-|José André Waßmann|HiWi|
+|José André Waßmann| HiWi|
+|Hui Yu| guest student| 
 
 
 
