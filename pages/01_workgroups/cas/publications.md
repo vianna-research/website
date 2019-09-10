@@ -8,7 +8,7 @@ Rau Th. S., Kreul D., Lexow J., Hügl S., Zuniga G. M., Lenarz Th., Majdani O. (
 
 ![GraficalAbstract](publications/Rau2019e_GraficalAbstract.jpg){style="width:200px; float:right; margin-left:1em"}
 
-- **Highlights**
+- *Highlights*
     - image-processing software for analysing the cochlear hook region was developed
     - first measure for the size of the valid target region using 3D histological data of multiple temporal bone specimens
     - cochlea opening is safely possible within a region of ∅ 1.56 mm ± 0.10 mm
@@ -18,6 +18,13 @@ Rau Th. S., Kreul D., Lexow J., Hügl S., Zuniga G. M., Lenarz Th., Majdani O. (
 Müller S., Kahrs L., Gaa J., Tauscher S., Kluge M., John S., Rau Th. S., Lenarz Th., Ortmaier T., Majdani O. (2019): _Workflow assessment as a preclinical development tool_. Int J Comput Assist Radiol Surg. 14(8):1389-1401. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s11548-019-02002-3)\].
 
 Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019b): _Coating stability and insertion forces of an alginate-cell-based drug delivery implant system for the inner ear_. J Mech Behav Biomed Mater. 97: 90-98 \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/pii/S1751616118317259); IF: 3.239\]. (epub ahead of print 4 May 2019) 
+
+- *Highlights*
+        - Application of alginate-cell solution to a cochlea model as lubricant is possible.
+        - Alginate-cell solution slightly increased insertion forces in a cochlea model.
+        - Alginate-cell coating of an electrode array is possible.
+        - Coating is considerable resistant to handling and insertion into a cochlea model.
+        - Coated electrode arrays had a significant, 75% reduction of insertion forces.
 
 ### Conference Papers
 -
