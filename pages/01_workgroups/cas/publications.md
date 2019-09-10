@@ -6,11 +6,12 @@ title: Publications
 
 Rau Th. S., Kreul D., Lexow J., Hügl S., Zuniga G. M., Lenarz Th., Majdani O. (2019): _Characterizing the size of the target region for atraumatic opening of the cochlea through the facial recess_. Computerized Medical Imaging and Graphics. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/abs/pii/S0895611119300710); IF: 3.298\] (epub ahead of print 30 Aug 2019)
 
-- image-processing software for analysing the cochlear hook region was developed
-- first measure for the size of the valid target region using 3D histological data of multiple temporal bone specimens
-- cochlea opening is safely possible within a region of ∅ 1.56 mm ± 0.10 mm
-- accuracy for hearing preservation surgery needs to be ≤ 0.3mm
-- anatomical 3D models depict the complexity of the cochlear hook region
+- **Highlights**
+  - image-processing software for analysing the cochlear hook region was developed
+  - first measure for the size of the valid target region using 3D histological data of multiple temporal bone specimens
+  - cochlea opening is safely possible within a region of ∅ 1.56 mm ± 0.10 mm
+  - accuracy for hearing preservation surgery needs to be ≤ 0.3mm
+  - anatomical 3D models depict the complexity of the cochlear hook region
 
 Müller S., Kahrs L., Gaa J., Tauscher S., Kluge M., John S., Rau Th. S., Lenarz Th., Ortmaier T., Majdani O. (2019): _Workflow assessment as a preclinical development tool_. Int J Comput Assist Radiol Surg. 14(8):1389-1401. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s11548-019-02002-3)\].
 
