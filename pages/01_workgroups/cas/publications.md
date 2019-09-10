@@ -6,7 +6,7 @@ title: Publications
 
 Rau Th. S., Kreul D., Lexow J., Hügl S., Zuniga G. M., Lenarz Th., Majdani O. (2019e): _Characterizing the size of the target region for atraumatic opening of the cochlea through the facial recess_. Computerized Medical Imaging and Graphics. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/abs/pii/S0895611119300710); IF: 3.298\] (epub ahead of print 30 Aug 2019)
 
-![GraficalAbstract](gluingjig/Fyler_GluingJig_engl.jpg){style="width:100px; float:right; margin-left:1em"}
+![GraficalAbstract](publications/Rau2019e_GraficalAbstract.jpg){style="width:100px; float:right; margin-left:1em"}
 - **Highlights**
     - image-processing software for analysing the cochlear hook region was developed
     - first measure for the size of the valid target region using 3D histological data of multiple temporal bone specimens
