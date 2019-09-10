@@ -4,9 +4,15 @@ title: Publications
 
 ### Journal Papers
 
-Rau Th. S., Kreul D., Lexow J., Hügl S., Zuniga G. M., Lenarz Th., Majdani O. (2019): _Characterizing the size of the target region for atraumatic opening of the cochlea through the facial recess_. Computerized Medical Imaging and Graphics. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doil](https://www.sciencedirect.com/science/article/abs/pii/S0895611119300710); IF: 3.298\] (epub ahead of print 30 Aug 2019)
+Rau Th. S., Kreul D., Lexow J., Hügl S., Zuniga G. M., Lenarz Th., Majdani O. (2019): _Characterizing the size of the target region for atraumatic opening of the cochlea through the facial recess_. Computerized Medical Imaging and Graphics. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/abs/pii/S0895611119300710); IF: 3.298\] (epub ahead of print 30 Aug 2019)
 
-Müller S., Kahrs L., Gaa J., Tauscher S., Kluge M., John S., Rau Th. S., Lenarz Th., Ortmaier T., Majdani O. (2019): _Workflow assessment as a preclinical development tool_. Int J CARS. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s11548-019-02002-3)\]. (epub ahead of print 05 June 2019) 
+- image-processing software for analysing the cochlear hook region was developed
+- first measure for the size of the valid target region using 3D histological data of multiple temporal bone specimens
+- cochlea opening is safely possible within a region of ∅ 1.56 mm ± 0.10 mm
+- accuracy for hearing preservation surgery needs to be ≤ 0.3mm
+- anatomical 3D models depict the complexity of the cochlear hook region
+
+Müller S., Kahrs L., Gaa J., Tauscher S., Kluge M., John S., Rau Th. S., Lenarz Th., Ortmaier T., Majdani O. (2019): _Workflow assessment as a preclinical development tool_. Int J Comput Assist Radiol Surg. 14(8):1389-1401. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s11548-019-02002-3)\].
 
 Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019): _Coating stability and insertion forces of an alginate-cell-based drug delivery implant system for the inner ear_. J Mech Behav Biomed Mater. 97: 90-98 \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/pii/S1751616118317259); IF: 3.239\]. (epub ahead of print 4 May 2019) 
 
