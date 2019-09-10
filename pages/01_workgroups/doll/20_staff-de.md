@@ -28,10 +28,8 @@ title: Mitarbeiter
 |![Image Jan Stieghorst ](Jan.png.jpg) |  Dr.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
 |![Image Suheda Yilmaz-Bayraktar](suheda.png) |Suheda Yilmaz-Bayraktar, M. Sc. | yilmaz-bayraktar.suheda(at)mh-hannover.de|532 1525|
 
-
-|Studenten|
+|Studenten||
 |-----------|-------------|
-
 |Lennart Guntenhöner | Medizinische Doktorarbeit|
 |Yuyang Mao| HiWi|
 |Kaan Eren Paca| HiWi|
