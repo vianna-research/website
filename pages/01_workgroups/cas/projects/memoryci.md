@@ -26,6 +26,9 @@ If your are interested in this technology, want to join a collaboration for furt
 |  |       |
 |-:|:------| 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.degruyter.com/downloadpdf/j/cdbme.2018.4.issue-1/cdbme-2018-0036/cdbme-2018-0036.pdf)| Rau Th.S., Suzaly N., Pawsey N., Hügl S., Lenarz T., Majdani O. (2018): _Histological evaluation of a cochlear implant electrode array with electrically activated shape change for perimodiolar positioning_. In Proc. 52nd Annual Conference of the German Society for Biomedical Engineering (DGBMT within VDE), September 26-28, Aachen, Germany. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.degruyter.com/downloadpdf/j/cdbme.2018.4.issue-1/cdbme-2018-0036/cdbme-2018-0036.pdf)\].|
+| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](../publications/Rau2019d_ESAOPoster_vfinal.pdf) | Rau Th. S., Suzaly N., Hügl S., Lenarz T. (2019d): _On the characterization of thermomechanical properties of curved NiTi shape memory wires intended for cochlear implant electrode arrays_. In Proc. XLVI. Congress of the European Society for Artificial Organs (ESAO), September 4-7, Hannover, Germany. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://journals.sagepub.com/doi/pdf/10.1177/0391398819860985)\]. |
+| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](../publications/Suzaly2019_CIAPPoster.pdf) | Suzaly N., Hügl S., Rau Th. S., Lenarz T. (2019b): _Designing shape memory alloy actuators tailored to the human cochlea geometry_. In Proc. Conference on Implantable Auditory Prostheses (CIAP), July 14-19, Lake Tahoe, CA, US. |
+
 
 - - - 
 
