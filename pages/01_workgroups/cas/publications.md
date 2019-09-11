@@ -45,11 +45,11 @@ Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019b): 
 
 | ![](publications/EmptyLogo50px.jpg){style="width:50px"} | Conference on Implantable Auditory Prostheses (CIAP), July 14-19, Lake Tahoe, CA, US| 
 |-:|:------| 
-| | Rau Th. S., Blum T., Kluge M., John S., Kahrs LA., Ortmaier T., Fröhlich M., Majdani O., Lenarz T. (2019c): _Accuracy of drill depth control of an image-guided micro-stereotactic targeting system dedicated to cochlear implantation surgery_.|
-| | Rau Th. S., Hügl S., Nullmeier M., Pawsey N., Majdani O., Lenarz T., Salcher R. (2019b): _On the development of realistic artificial cochlea models_.|
-| | Salcher R., Nullmeier M., Cramer J., Pawsey N., Lenarz T., Rau Th. S. (2019b): _Artificial cochlea model material validation for insertion force measurement_.|
+| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications\Rau2019c_CIAPPoster.pdf) | Rau Th. S., Blum T., Kluge M., John S., Kahrs LA., Ortmaier T., Fröhlich M., Majdani O., Lenarz T. (2019c): _Accuracy of drill depth control of an image-guided micro-stereotactic targeting system dedicated to cochlear implantation surgery_.|
+| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications\Rau2019b_CIAPPoster.pdf) | Rau Th. S., Hügl S., Nullmeier M., Pawsey N., Majdani O., Lenarz T., Salcher R. (2019b): _On the development of realistic artificial cochlea models_.|
+|  [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications\Salcher2019_CIAPPoster_vfinal.pdf) | Salcher R., Nullmeier M., Cramer J., Pawsey N., Lenarz T., Rau Th. S. (2019b): _Artificial cochlea model material validation for insertion force measurement_.|
 | | Scheper V., Hügl S., Hamm A., Gepp MM., Schulz A., Hubka P., Pannier C., Lenarz T., Rau Th. S., Hoffmann A., Schwieger J. (2019): _BDNF overexpressing human stem cells in alginate for cochlear implant optimization_.|
-| | Suzaly N., Hügl S., Rau TS., Lenarz T. (2019b): _Designing shape memory alloy actuators tailored to the human cochlea geometry_.|
+|  	[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications\Suzaly2019_CIAPPoster.pdf) | Suzaly N., Hügl S., Rau TS., Lenarz T. (2019b): _Designing shape memory alloy actuators tailored to the human cochlea geometry_.|
 
 
 | ![](publications/EmptyLogo50px.jpg){style="width:50px"} | 90th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 30- June 1st, Berlin, Germany| 
