@@ -37,6 +37,7 @@ Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019b): 
 |-:|:------| 
 | |Schwieger J., Hügl S., Gepp M. M.,  Lenarz Th., Rau Th. S., Scheper V. (2019): _Effect of alginate-cell based drug-delivery systems on the insertion forces of CI-electrodes._|
 
+
 | ![](publications/esao.png){style="width:50px"} | Conference on  European Society for Artificial Organs (ESAO), 3-7 September , Hannover, DE| 
 |-:|:------| 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications\Hügl2019_ESAO_Poster_InsStudie.pdf) | Hügl S., Aldag N., Becker A., Lenarz T., Glasmacher B., Rau Th. S. (2019c): _Toward understanding the impact of cochlear model curvature, insertion speed, and implant stiffness for the prediction of insertion forces_. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://journals.sagepub.com/doi/pdf/10.1177/0391398819860985)\] |
