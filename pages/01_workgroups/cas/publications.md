@@ -40,7 +40,7 @@ Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019b): 
 | ![](publications/esao.png){style="width:50px"} | Conference on  European Society for Artificial Organs (ESAO), 3-7 September , Hannover, DE| 
 |-:|:------| 
 | | Hügl S., Aldag N., Becker A., Lenarz T., Glasmacher B., Rau Th. S. (2019c): _Toward understanding the impact of cochlear model curvature, insertion speed, and implant stiffness for the prediction of insertion forces_. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://journals.sagepub.com/doi/pdf/10.1177/0391398819860985)\] |
-| | Rau Th. S., Suzaly N., Hügl S., Lenarz T. (2019d): _On the characterization of thermomechanical properties of curved NiTi shape memory wires intended for cochlear implant electrode arrays_. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://journals.sagepub.com/doi/pdf/10.1177/0391398819860985)\] |
+| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications\Rau2019d_ESAOPoster_vfinal.pdf) | Rau Th. S., Suzaly N., Hügl S., Lenarz T. (2019d): _On the characterization of thermomechanical properties of curved NiTi shape memory wires intended for cochlear implant electrode arrays_. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://journals.sagepub.com/doi/pdf/10.1177/0391398819860985)\] |
 
 
 | ![](publications/EmptyLogo50px.jpg){style="width:50px"} | Conference on Implantable Auditory Prostheses (CIAP), July 14-19, Lake Tahoe, CA, US| 
