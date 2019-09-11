@@ -4,7 +4,7 @@ title: Publications
 
 ### Journal Papers
 
-Rau Th. S., Kreul D., Lexow J., Hügl S., Zuniga G. M., Lenarz Th., Majdani O. (2019e): _Characterizing the size of the target region for atraumatic opening of the cochlea through the facial recess_. Computerized Medical Imaging and Graphics. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/abs/pii/S0895611119300710); IF: 3.298\] (epub ahead of print 30 Aug 2019)
+Rau Th. S., Kreul D., Lexow J., Hügl S., Zuniga G. M., Lenarz Th., Majdani O. (2019e): _Characterizing the size of the target region for atraumatic opening of the cochlea through the facial recess_. Computerized Medical Imaging and Graphics. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/abs/pii/S0895611119300710); IF: 3.298\]. (epub ahead of print 30 Aug 2019)
 
 ![GraficalAbstract](publications/Rau2019e_GraficalAbstract.jpg){style="width:280px; float:right; margin-left:1em"}
 
@@ -15,9 +15,9 @@ Rau Th. S., Kreul D., Lexow J., Hügl S., Zuniga G. M., Lenarz Th., Majdani O. (
     - accuracy for hearing preservation surgery needs to be ≤ 0.3mm
     - anatomical 3D models depict the complexity of the cochlear hook region
 
-Müller S., Kahrs L., Gaa J., Tauscher S., Kluge M., John S., Rau Th. S., Lenarz Th., Ortmaier T., Majdani O. (2019): _Workflow assessment as a preclinical development tool_. Int J Comput Assist Radiol Surg. 14(8):1389-1401. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s11548-019-02002-3)\].
+Müller S., Kahrs L., Gaa J., Tauscher S., Kluge M., John S., Rau Th. S., Lenarz Th., Ortmaier T., Majdani O. (2019): _Workflow assessment as a preclinical development tool_. Int J Comput Assist Radiol Surg. 14(8):1389-1401. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s11548-019-02002-3); IF: 2.155\].
 
-Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019b): _Coating stability and insertion forces of an alginate-cell-based drug delivery implant system for the inner ear_. J Mech Behav Biomed Mater. 97: 90-98. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.sciencedirect.com/science/article/pii/S1751616118317259/pdfft?md5=e747450acdb13300028d9e38fc20d5da&pid=1-s2.0-S1751616118317259-main.pdf); [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/pii/S1751616118317259); IF: 3.239\]. (epub ahead of print 4 May 2019) 
+Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019b): _Coating stability and insertion forces of an alginate-cell-based drug delivery implant system for the inner ear_. J Mech Behav Biomed Mater. 97: 90-98. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.sciencedirect.com/science/article/pii/S1751616118317259/pdfft?md5=e747450acdb13300028d9e38fc20d5da&pid=1-s2.0-S1751616118317259-main.pdf); [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.sciencedirect.com/science/article/pii/S1751616118317259); IF: 3.239\]. 
 
 ![GraficalAbstract](publications/Huegl2019b_GraficalAbstract.jpg){style="width:220px; float:right; margin-left:1em"}
  	
