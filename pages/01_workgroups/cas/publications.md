@@ -38,7 +38,7 @@ Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019b): 
 | |Schwieger J., Hügl S., Gepp M. M.,  Lenarz Th., Rau Th. S., Scheper V. (2019): _Effect of alginate-cell based drug-delivery systems on the insertion forces of CI-electrodes._|
 
 
-| ![](publications/esao.png){style="width:50px"} | Conference on  European Society for Artificial Organs (ESAO), 3-7 September , Hannover, DE| 
+| ![](publications/esao.png){style="width:50px"} | XLVI. Congress of the European Society for Artificial Organs (ESAO), September 3-7, Hannover, Germany| 
 |-:|:------| 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications\Hügl2019_ESAO_Poster_InsStudie.pdf) | Hügl S., Aldag N., Becker A., Lenarz T., Glasmacher B., Rau Th. S. (2019c): _Toward understanding the impact of cochlear model curvature, insertion speed, and implant stiffness for the prediction of insertion forces_. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://journals.sagepub.com/doi/pdf/10.1177/0391398819860985)\] |
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications\Rau2019d_ESAOPoster_vfinal.pdf) | Rau Th. S., Suzaly N., Hügl S., Lenarz T. (2019d): _On the characterization of thermomechanical properties of curved NiTi shape memory wires intended for cochlear implant electrode arrays_. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://journals.sagepub.com/doi/pdf/10.1177/0391398819860985)\] |
@@ -50,7 +50,7 @@ Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019b): 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications\Rau2019b_CIAPPoster.pdf) | Rau Th. S., Hügl S., Nullmeier M., Pawsey N., Majdani O., Lenarz T., Salcher R. (2019b): _On the development of realistic artificial cochlea models_.|
 |  [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications\Salcher2019_CIAPPoster_vfinal.pdf) | Salcher R., Nullmeier M., Cramer J., Pawsey N., Lenarz T., Rau Th. S. (2019b): _Artificial cochlea model material validation for insertion force measurement_.|
 | | Scheper V., Hügl S., Hamm A., Gepp MM., Schulz A., Hubka P., Pannier C., Lenarz T., Rau Th. S., Hoffmann A., Schwieger J. (2019): _BDNF overexpressing human stem cells in alginate for cochlear implant optimization_.|
-|  	[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications\Suzaly2019_CIAPPoster.pdf) | Suzaly N., Hügl S., Rau TS., Lenarz T. (2019b): _Designing shape memory alloy actuators tailored to the human cochlea geometry_.|
+|  	[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](publications\Suzaly2019_CIAPPoster.pdf) | Suzaly N., Hügl S., Rau Th. S., Lenarz T. (2019b): _Designing shape memory alloy actuators tailored to the human cochlea geometry_.|
 
 
 | ![](publications/EmptyLogo50px.jpg){style="width:50px"} | 90th Annual Meeting German Society of Oto-Rhino-Laryngology, Head and Neck Surgery, Mai 30- June 1st, Berlin, Germany| 
