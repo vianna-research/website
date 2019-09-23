@@ -31,7 +31,7 @@ Hügl S., Scheper V., Gepp M. M., Lenarz Th., Rau Th. S., Schwieger J. (2019b): 
     - Coated electrode arrays had a significant, 75% reduction of insertion forces.
 
 ### Conference Papers
-| ![BMT2019 Logo](bmt2019.jpg){style="width:50px"}| BMT 2019 - 53rd Annual Conference of the German Society for Biomedical Engineering (DGBMT within VDE), September 25-26, Frankfurt am Main, Germany|
+| ![BMT2019 Logo](bmt2019.png){style="width:50px"}| BMT 2019 - 53rd Annual Conference of the German Society for Biomedical Engineering (DGBMT within VDE), September 25-26, Frankfurt am Main, Germany|
 |-:|:------| 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.degruyter.com/downloadpdf/j/cdbme.2019.5.issue-1/cdbme-2019-0111/cdbme-2019-0111.pdf)| Hügl S., Aldag N., Becker A., Leanrz Th., Glasmacher B., Rau Th.S. (2019): _Identification of factors influencing insertion characteristics of cochlear implant electrode carriers_. Current Directions in Biomedical Engineering 5(1). \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.degruyter.com/downloadpdf/j/cdbme.2019.5.issue-1/cdbme-2019-0111/cdbme-2019-0111.pdf)\].|
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://www.degruyter.com/downloadpdf/j/cdbme.2019.5.issue-1/cdbme-2019-0049/cdbme-2019-0049.pdf)| Hügl S., Erfurt P., Lenarz Th., Majdani O., Rau Th.S. (2019): _Reconstruction accuracy of an automated serial cross-sectional preparation technique for morphological human temporal bone imaging_. Current Directions in Biomedical Engineering 5(1). \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://www.degruyter.com/downloadpdf/j/cdbme.2019.5.issue-1/cdbme-2019-0049/cdbme-2019-0049.pdf)\].|
