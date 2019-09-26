@@ -22,10 +22,7 @@ status: hidden
     E-Mail: pressestelle(at)mh-hannover.de
     Internet: www.mh-hannover.de
 
-Die Medizinische Hochschule Hannover ist eine Körperschaft des öffentlichen Rechts.
-
-Vertretungsberechtigter Vorstand (Präsidium). Weitere [Informationen zur zuständigen Aufsichtsbehörde, Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz und inhaltlich Verantwortlicher der MHH.](http://www.mh-hannover.de/impressum.html)
-
+Die Medizinische Hochschule Hannover ist eine Körperschaft des öffentlichen Rechts (Forschung und Lehre) und ein Landesbetrieb für staatliche Angelegenheiten (u.a. Krankenversorgung). Wir verweisen auf den vertretungsberechtigten Vorstand (Präsidium). Weitere [Informationen zum Datenschutz, Haftungsausschluss, zur zuständigen Aufsichtsbehörde, sowie Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz und inhaltlich Verantwortlicher siehe Impressum der MHH.](http://www.mh-hannover.de/impressum.html)
 
 ## Haftungsausschluss
 
