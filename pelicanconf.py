@@ -2,16 +2,16 @@ from __future__ import unicode_literals
 
 AUTHOR = 'The VIANNA research team'
 SITENAME = 'VIANNA'
-SITEURL = 'http://vianna.de'
+SITEURL = 'https://vianna.de'
 CC_LICENSE = 'CC-BY'
 AVATAR = 'images/vianna_globe.png'
 ABOUT_ME = " "
 
 LINKS = [['Impressum', "/impressum.html"],
-         ['MHH Homepage', "http://mh-hannover.de"],
-         ['NIFE', "http://nife-hannover.de"],
-         ['Hearing4all', "http://www.neuroprostheses.com/AK/Hearing4all.html"],
-         ['Hearing4all (official)', "http://hearing4all.eu"]]
+         ['MHH Homepage', "https://mh-hannover.de"],
+         ['NIFE', "https://nife-hannover.de"],
+         ['Hearing4all', "https://www.neuroprostheses.com/AK/Hearing4all.html"],
+         ['Hearing4all (official)', "https://hearing4all.eu"]]
 
 TIMEZONE = 'Europe/Berlin'
 
