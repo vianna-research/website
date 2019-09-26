@@ -15,7 +15,7 @@ In collaboration with several industrial partners we help to develop and test ne
 
 The institute was established in 2009, funded by the State of Lower Saxony. Prof. A. Kral was appointed Chaired Professor of Auditory Neuroscience and the scientific director of the Institute in August 2009, Prof. T. Lenarz, the chair of the Dept. of Otolaryngology, heads the translational activities of the institute. 
 
-The institute was officially opened by the Ministry of Education of Lower Saxony, Prof. J. Wanka, and the president of the MHH, Prof. D. Bitter-Suermann, on January 17, 2011. Since then the institute hosted many [scientists from all continents](http://www.neuroprostheses.com/AuditorySciences/Visitors.html), attracted funding from many prestigeous agencies and expanded both its research scope and its infrastracture. It moved to a newly-constructed building of the MHH (“NIFE”) in spring 2016. 
+The institute was officially opened by the Ministry of Education of Lower Saxony, Prof. J. Wanka, and the president of the MHH, Prof. D. Bitter-Suermann, on January 17, 2011. Since then the institute hosted many [scientists from all continents](https://www.neuroprostheses.com/AuditorySciences/Visitors.html), attracted funding from many prestigeous agencies and expanded both its research scope and its infrastracture. It moved to a newly-constructed building of the MHH (“NIFE”) in spring 2016. 
 
 From the initial group of ~20 researches the institute has grown substantially. Currently, 65 researchers from different disciplines collaborate on prosthetic devices and hearing loss. Their expertise includes medicine, physics, engineering, neurophysiology, neurology and chemistry. We work on topics of biomechanics, electrical engineering and signal processing, electrophysiology and human imaging, neuroscience, robotics, histology and molecular biology. 
 
@@ -35,11 +35,11 @@ Movie about the Institute (in German)
 
 - Prof. Andrej Kral elected member of the German National Academy of Science (Leopoldina)
 
-- [Gut gebrüllt Kätzchen – Pressemitteilung TiHo](http://www.tiho-hannover.de/aktuelles-presse/pressemitteilungen/pressemitteilungen-2016/pressemitteilungen-2016/article/gut-gebruellt-kaetzchen/)
+- [Gut gebrüllt Kätzchen – Pressemitteilung TiHo](https://www.tiho-hannover.de/aktuelles-presse/pressemitteilungen/pressemitteilungen-2016/pressemitteilungen-2016/article/gut-gebruellt-kaetzchen/)
 
 - [Lady cats are more tuned into kittens emotions than males are – Artikel in der Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/08/12/lady-cats-are-more-tuned-into-kittens-emotions-than-males-are/)
 
-- [Goldmedaille auf Erfindermesse erhalten - Pressemitteilung Technologie Region Ilmenau Arnstadt](http://www.tria-online.eu/Newseintrag.17.0.html?&tx_news_pi1[news]=4126&tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=74e24bb73bcb1c9249f1704b9c2b318f)
+- [Goldmedaille auf Erfindermesse erhalten - Pressemitteilung Technologie Region Ilmenau Arnstadt](https://www.tria-online.eu/Newseintrag.17.0.html?&tx_news_pi1[news]=4126&tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=74e24bb73bcb1c9249f1704b9c2b318f)
 
 - [Hearing and cognition are tighly related - paper in Lancet Neurology 2016](https://www.mh-hannover.de/46.html?&tx_ttnews%5Btt_news%5D=4495&cHash=9372250e91868167c310b0d3a8c1a088)
 
@@ -51,7 +51,7 @@ Movie about the Institute (in German)
 
 | Contact                 |                            |
 | ------------------------|--------------------------- |
-| Directors:<br>          | [Prof. Dr. Dr. med. A. Kral, science](http://www.neuroprostheses.com/) <br> [Prof. Prof. h. c. Dr. med. T. Lenarz, translation](http://www.mhh-hno.de) |
+| Directors:<br>          | [Prof. Dr. Dr. med. A. Kral, science](https://www.neuroprostheses.com/) <br> [Prof. Prof. h. c. Dr. med. T. Lenarz, translation](https://www.mhh-hno.de) |
 | Address: <br><br><br>   | VIANNA <br> Stadtfelddamm 34 <br> 30625 Hannover <br> Deutschland |
 | Phone:                  | +49 (0)511 532 7272 |
 | Fax:                    | +49 (0)511 532 7274 |
@@ -65,7 +65,7 @@ Movie about the Institute (in German)
 
 Name                                                                     | Logo
 -------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------
-[PhD Programm Auditory Sciences][auditorysciences]                       | ![Logo-auditorysciences](http://www.neuroprostheses.com/AuditorySciences/Main_files/2-logo%20phd%20programm%20auditory%20sciences.png)
+[PhD Programm Auditory Sciences][auditorysciences]                       | ![Logo-auditorysciences](https://www.neuroprostheses.com/AuditorySciences/Main_files/2-logo%20phd%20programm%20auditory%20sciences.png)
 [Zentrum für Systemische Neurowissenschaften Hannover, ZSN][ZSN]         | [![ZSN](zsn.gif)][ZSN]
 [Audiologie Initiative Niedersachsen - Auditory Valley][Auditory Valley] | [![Audiologie Initiative Niedersachsen - Auditory Valley (Logo)](auditory_valley.jpg)][Auditory Valley]
 
@@ -73,8 +73,8 @@ Name                                                                     | Logo
 
 <!-- Hier folgen nun die Definitionen der Links, die oben in der Tabelle benutzt werden. -->
 
-[auditorysciences]: http://www.neuroprostheses.com/AuditorySciences/Main.html
+[auditorysciences]: https://www.neuroprostheses.com/AuditorySciences/Main.html
 
-[ZSN]: http://www.tiho-hannover.de/studium-lehre/promotion-und-phd-programme/phd-systems-neuroscience/
+[ZSN]: https://www.tiho-hannover.de/studium-lehre/promotion-und-phd-programme/phd-systems-neuroscience/
 
-[Auditory Valley]: http://www.hoertech.de/ain/web/audiologie-initiative/index.shtml
+[Auditory Valley]: https://www.hoertech.de/ain/web/audiologie-initiative/index.shtml
