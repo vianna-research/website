@@ -15,5 +15,3 @@ title: Conferences
 ![BUEmeeting](BUEmeeting.jpg)
 
 
-In the following, further dates are listed. **We are looking forward to welcoming you!**
-
