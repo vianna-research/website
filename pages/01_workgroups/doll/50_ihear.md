@@ -29,8 +29,8 @@ The aim of the IHeaR project is the hearing research as well as the hearing rest
 
 * Nogueira W, Lopez-Poveda EA, Délano PH, Dragicevic C: Contralateral suppression of human hearing sensitivity in single-sided deaf cochlear implant users; IHeaR 2019 Symposium, Buenos Aires, Argentine, 24-26. April, 2019. 
 
-* Yilmaz-Bayraktar S, Schwieger J, Scheper V, Lenarz T, Böer U, Kreienmeyer M, Torrente M, Doll T:  Decellularized equine carotid artery layers as matrix for regenerated neurites of spiral ganglion neurons 2019; submitted.
+* Yilmaz-Bayraktar S, Schwieger J, Scheper V, Lenarz T, Böer U, Kreienmeyer M, Torrente M, Doll T:  Decellularized equine carotid artery layers as matrix for regenerated neurites of spiral ganglion neurons, 2019; Int J Artif Organs 00(0):1-11.
 
-* Knipper M, van Dijk P, Schulz H, Norena A, Mazurek B, Krauss P, Scheper V, Warnecke A, Schwabe K, Singer W, Braun C, Schulze J, Délano PH, Elgoyhen AB, Schlee W, Searchfield G, Rauschecker J, Langguth B, Fallgatter AJ, Ehlis AC, Munk MHJ, Baguley D, Rüttiger L: Tinnitus models all present and correct! Tinnitus in the context of deafness and cochlear implants 2019; in process.
+
 
 
