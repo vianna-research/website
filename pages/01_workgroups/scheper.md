@@ -35,8 +35,9 @@ We perform electrophysiological measurements such as AABR, EABR, eCAP, impedance
 
     Verena Scheper
     Pharmacology of the Inner Ear
-    VIANNA/Medizinische Hochschule Hannover
-    Feodor-Lynen-Straße 35
+    VIANNA im NIFE
+    Medizinische Hochschule Hannover
+    Stadtfelddamm 35
     30625 Hannover
 
 Contact
