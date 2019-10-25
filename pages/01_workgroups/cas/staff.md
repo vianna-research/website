@@ -21,7 +21,7 @@ title:Staff
 
 | Associated Staff																	|
 |:------------------------------|:------------------------------|-------------------------------------------------:|
-|![Portrait](staff/sempty.jpg) | Dr. Martina Nullmeier					| Research Engineer Implants, [Cochlear Deutschland](http://www.cochlear.de)|
+|![Portrait](staff/empty.jpg) | Dr. Martina Nullmeier					| Research Engineer Implants, [Cochlear Deutschland](http://www.cochlear.de)|
 |![Portrait](staff/rolf.jpg) | Dr. Rolf Salcher                   		| Senior Physician, Hannover Medical School|
 |![Portrait](staff/maxt.png) | Max Eike Timm     						| Assistant Physician, Hannover Medical School|
 
@@ -52,7 +52,7 @@ title:Staff
 |![Portrait](staff/nuha.jpg) 	| M. Sc. Nuha Suzaly			   			 |     	|
 |![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow (11/2011 - 03/2018) | now: [Part Time Scientists (Berlin)](https://ptscientists.com/)         |
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | now: [Implandata Ophthalmic Products GmbH (Hannover)](http://www.implandata.com) |
-|![Portrait](staff/soon.pngempty.jpgMarcel.jpg)  | Dipl.-Ing. Marcel Kluge (11/2014 - 07/2017)	| now: [OtoJig GmbH (Hannover)](http://www.otojig.com/)  |
+|![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge (11/2014 - 07/2017)	| now: [OtoJig GmbH (Hannover)](http://www.otojig.com/)  |
 |![Portrait](staff/daniel.png)  | Dr.-Ing. Daniel Schurzig  (04/2014 - 08/2015) | now: [MED-EL Deutschland (Hannover)](www.medel.com) |
 |![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach  (12/2012 - 06/2014) |                           				|
 |![Portrait](staff/empty.jpg)    | Dipl.-Ing. (FH) Franziska Eckhardt  (09/2010 - 12/2012)|                           		|
