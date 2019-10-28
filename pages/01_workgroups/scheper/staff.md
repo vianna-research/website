@@ -38,4 +38,4 @@ title: Staff
 We closely work together with PD Dr. med. A. Warnecke and PD Dr. rer. nat. G. Paasche and their lab teams. In VIANNA in NIFE we optimise our research by combining our lab spaces and other recources. 
 
 **The team of all three working groups (not complete):** 
-![Picture Zellkulturteam](Zellkulturteam.jpg)  
+![Picture Zellkulturteam](Zellkulturteam2019.jpg)  
