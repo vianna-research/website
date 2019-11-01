@@ -25,12 +25,12 @@ title: Publications
 *	Toward 3D printing of medical implants: Reduced lateral droplet spreading of silicone rubber under intense IR curing; Jan Stieghorst, Daniel Majaura, Henning Wevering and Theodor Doll,  ACS Appl. Mater. Interfaces; DOI: 10.1021/acsami.5b12728 
 * Residual Rubber Shielded Multi Wall Carbon Nanotube Electrodes for Neural Interfacing in Active Medical Implants; Katharina Tegtmeier, Pooyan Aliuos, Thomas Lenarz and Theodor Doll; Physics in Medicine, DOI: 10.1016/j.phmed.2016.04.001
 
-##2015##
+**2015**
 ---
 * 3D silicone rubber interfaces for individually tailored implants; Jan Stieghorst, Alexandra Bondarenkova, Niklas Burblies, Peter Behrens and Theodor Doll; Biomed Microdevices; DOI 10.1007/s10544-015-9960-y 
 
 
-##2015##
+**2015**
 ---
 * Aligned carbon nanotube-liquid silicone rubber conductors and electrode surfaces for stimulating medical implants; Katharina Tegtmeier, Pooyan Aliuos, Jan Stieghorst, Malte Schickedanz, Felix Golly, Holger Zernetsch, Birgit Glasmacher and [T. Doll](01_pagedoll.md); Phys. Status Solidi A 211, No. 6, 1439–1447 (2014); DOI 10.1002/pssa.201330405
 * Self-bending hydrogel actuation for electrode shafts in cochlear implants; Jan Stieghorst, Katharina Tegtmeier, Pooyan Aliuos, Holger Zernetsch, Birgit Glasmacher and [T. Doll](01_pagedoll.md); Phys. Status Solidi A 211, No. 6, 1455–1461 (2014); DOI 10.1002/pssa.201330404
@@ -38,7 +38,7 @@ title: Publications
 
 
 
-##2014##
+**2014**
 ---
 * P. Marek, J.J. Velasco-Velez, T. Haas, [T. Doll](01_pagedoll.md), G. Sadowski, Time-monitoring sensor based on oxygen diffusion in an indicator/ polymer matrix, Sensors & Actuators B. Chemical 2013, 178, 254-262
 * [T. Doll](01_pagedoll.md), J. Velasco-Velez, D. Rosenthal, J. Avila and V. Fuenzalida, Direct Observation of the Electroadsorptive Effect on Ultra Thin Films for Microsensor and Catalytic Surface Control, ChemPhysChem, 2013, 14, 11 (2505 -2510)
@@ -55,7 +55,7 @@ title: Publications
 
 
 
-#Conferences
+Conferences
 **2016**
 ---
 **EnFI 2016** - Engineering of Functional Interfaces
