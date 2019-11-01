@@ -1,10 +1,10 @@
 title: Publications
 
 
-##2019##
+**2019**
 * Yilmaz-Bayraktar S, Schwieger J, Scheper V, Lenarz T, Böer U, Kreienmeyer M, Torrente M, Doll T: Decellularized Equine Carotid Artery Layers as as Matrix for regenerated neurites of Spiral Ganlion Neurons, 2019; Int J Artif Organs 00(0):1-11. 
 
-##Conferences##
+**Conference**
 * Foremny K, Molinnus D, Schoening M, Doll T: 3D printing of silicone rubber-based sensors for the application in the field of biomedicine, 2019 September, 53rd Annual Conference of German Society for Biomedical Engineering, Frankfurt.
 * Foremny K, Wagner A, Rittinghausen S, Tillmann T, Doll T, Lenarz T: Investigation of CNT-Silicone rubber compound as a suitable interface material for neuronal impplants; 2019 September, 53rd Annual Conference of German Society for Biomedical Engineering, Frankfurt.
 * Foremny K and Stieghorst J, Jakimovski F, Doll T: Contacting and Embedding of Multiplexing Systems using Additive Manufacturing; 2019 September, 53rd Annual Conference of German Society for Biomedical Engineering, Frankfurt. 
@@ -12,11 +12,11 @@ title: Publications
 * Yilmaz-Bayraktar, Foremny K, Marcoleta JP, Doll T: Biocybernetical considerations towards BCI-assisted binaural Hearing restauration, 2019; H4All Summerschool August, Visselhövede.  
 * Doll T, Yilmaz-Bayraktar S, Foremny K, Stieghorst J, Lenarz T: Future CI fabrication and beyond - a roadmap full of construction sites; 2019 H4All Symposium, Hannover. 
 
-##2018##
+**2018**
 * Marcoleta JP, Nogueira W, Froriep UP, Doll T: Flexible high density active neural implants combining a distributed multiplexing transceiver architecture with biocompatible technology, 2018; Phys Status Solid A, 215(15) pp.1700134:1-10.
 * Stieghorst J and Doll T: Rheological behavior of PDMS silicone rubber for 3D printing of medical implants, 2018; Additive Manufacturing, 24:271-223.
 
-##2016##
+**2016**
 ---
 * Hydrogel-Based Actuation for Modiolar Hugging Cochlear Implant Electrode Arrays; J. Stieghorst, B.N. Tran, S. Hadeler, D. Beckmann, T. Doll; Procedia Engineering; DOI: 10.1016/j.proeng.2016.11.453
 * Wet-etch Induced Changes in Impedance of Carbon Nanotube – Silicone Rubber Electrode Materials for Active Implants; K. Tegtmeier, F. Borrmann, T. Doll; Procedia Engineering; DOI: 10.1016/j.proeng.2016.11.393
@@ -43,7 +43,7 @@ title: Publications
 * P. Marek, J.J. Velasco-Velez, T. Haas, [T. Doll](01_pagedoll.md), G. Sadowski, Time-monitoring sensor based on oxygen diffusion in an indicator/ polymer matrix, Sensors & Actuators B. Chemical 2013, 178, 254-262
 * [T. Doll](01_pagedoll.md), J. Velasco-Velez, D. Rosenthal, J. Avila and V. Fuenzalida, Direct Observation of the Electroadsorptive Effect on Ultra Thin Films for Microsensor and Catalytic Surface Control, ChemPhysChem, 2013, 14, 11 (2505 -2510)
 
-##2015##
+**2015**
 ---
 * J. Velez, A. Chaiyboun, C. Wilbertz, S. Scheinert,[T. Doll](01_pagedoll.md), Drift Modelling of Electrically Controlled Nanoscale Metal Oxide Gas Sensors, IEEE Electron Device Letters, 29, 7 (2008), 677-680
 * S. Ahlers, G. Müller, [T. Doll](01_pagedoll.md), Factors Influencing the Gas sensitivity of Metal Oxide Materials, in C.A. Grimes, E.C. Dickey, M.V. Pisko (Eds), Encyclopedia of Sensors, 2007, vol. 3, 413-447
