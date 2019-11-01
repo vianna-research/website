@@ -17,7 +17,7 @@ Tutorials include researching and exercises about biofunctionality which are dis
 
 **Contact:**
 [Marc Müller (IMP,LUH)](http://www.imp.uni-hannover.de/mitarbeiter.html)
-[Katharina Foremny (MHH)](20_staff.md)
+[Suheda Yilmaz-Bayraktar (MHH)](20_staff.md)
 
 **Location:**  [LUH, Institute for Multiphase Processing, Callinstraße 36](http://www.imp.uni-hannover.de/wegbeschreibung.html)
 
