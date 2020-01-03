@@ -1,6 +1,8 @@
 title: Publications
 
 ## 2019
+* Förster CY, **Scheper V**, Lenarz T. [Hearing loss and strial microvascular pathology-towards unravelling the functional contribution of the blood-labyrinth barrier.](https://www.oatext.com/hearing-loss-and-strial-microvascular-pathology-towards-unravelling-the-functional-contribution-of-the-blood-labyrinth-barrier.php#Article) Otorhinolaryngol Head Neck Surg, 25 November 2019
+
 * Yilmaz-Bayraktar S, Schwieger J, **Scheper V**, Lenarz T, Böer U, Kreienmeyer M, Torrente M, Doll T. [Decellularized equine carotid artery layers as matrix for regenerated neurites of spiral ganglion neurons.](https://doi.org/10.1177%2F0391398819868481) Int. J. Art. Organs, 22 August 2019
 
 * **Scheper V**, Schwieger J, Hamm A, Lenarz T,  Hoffmann A. [BDNF-overexpressing human mesenchymal stem cells mediate increased neuronal protection in vitro.](https://authorservices.wiley.com/api/pdf/fullArticle/16512369) J. Neurosci. Res., 30. June 2019
