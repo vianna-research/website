@@ -30,16 +30,18 @@ title: Mitarbeiter
 
 |Studenten||
 |-----------|-------------|
-|Lennart Guntenhöner | Medizinische Doktorarbeit|
+
+|Hammad Ayman Akl |Hiwi|
 |Yuyang Mao| HiWi|
 |Kaan Eren Paca| HiWi|
-|Marlene Schlüter| BA, HiWi|
-|Alexander Schulze-Finkenbrink|Praktikant|
-|Rajalakshmi Veeraraghavan| MA, HiWi|
-|José André Waßmann| HiWi|
-|Hui Yu| Gaststudent|
-
-
+|Florian Schröder | Hiwi|
+|Hui Yu| Student research project|
+|Svenja Schudak| Student research project|
+|Alexander Schulze-Finkenbrink|Bachelor Thesis|
+|Adrian Onken| Master Thesis|
+|Rajalakshmi Veeraraghavan|Master Thesis|
+|Lucia Badde| Master Thesis|
+|Lennart Guntenhöner | Medical Doctoral Thesis|
 
 
 
