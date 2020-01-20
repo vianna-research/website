@@ -30,10 +30,10 @@ title: Mitarbeiter
 
 |Studenten||
 |-----------|-------------|
-|Hammad Ayman Akl |Hiwi|
+|Hammad Ayman Akl |HiWi|
 |Yuyang Mao| HiWi|
 |Kaan Eren Paca| HiWi|
-|Florian Schröder | Hiwi|
+|Florian Schröder | HiWi|
 |Hui Yu| Studienarbeit|
 |Svenja Schudak| Studienarbeit|
 |Alexander Schulze-Finkenbrink|Bachelorarbeit|
