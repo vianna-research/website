@@ -30,7 +30,6 @@ title: Mitarbeiter
 
 |Studenten||
 |-----------|-------------|
-
 |Hammad Ayman Akl |Hiwi|
 |Yuyang Mao| HiWi|
 |Kaan Eren Paca| HiWi|
