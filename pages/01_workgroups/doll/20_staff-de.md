@@ -34,13 +34,13 @@ title: Mitarbeiter
 |Yuyang Mao| HiWi|
 |Kaan Eren Paca| HiWi|
 |Florian Schröder | Hiwi|
-|Hui Yu| Student research project|
-|Svenja Schudak| Student research project|
+|Hui Yu| Studienarbeit|
+|Svenja Schudak| Studienarbeit|
 |Alexander Schulze-Finkenbrink|Bachelor Thesis|
 |Adrian Onken| Master Thesis|
 |Rajalakshmi Veeraraghavan|Master Thesis|
 |Lucia Badde| Master Thesis|
-|Lennart Guntenhöner | Medical Doctoral Thesis|
+|Lennart Guntenhöner | Medizinische Doktorthesis|
 
 
 
