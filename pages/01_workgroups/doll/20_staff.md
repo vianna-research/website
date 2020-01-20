@@ -30,10 +30,10 @@ title: Staff
 
 |Students||
 |-----------|-------------|
-|Hammad Ayman Akl |Hiwi|
+|Hammad Ayman Akl |HiWi|
 |Yuyang Mao| HiWi|
 |Kaan Eren Paca| HiWi|
-|Florian Schröder | Hiwi|
+|Florian Schröder | HiWi|
 |Hui Yu| Student research project|
 |Svenja Schudak| Student research project|
 |Alexander Schulze-Finkenbrink|Bachelor Thesis|
