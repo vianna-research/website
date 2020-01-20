@@ -36,11 +36,11 @@ title: Mitarbeiter
 |Florian Schröder | Hiwi|
 |Hui Yu| Studienarbeit|
 |Svenja Schudak| Studienarbeit|
-|Alexander Schulze-Finkenbrink|Bachelor Thesis|
-|Adrian Onken| Master Thesis|
-|Rajalakshmi Veeraraghavan|Master Thesis|
-|Lucia Badde| Master Thesis|
-|Lennart Guntenhöner | Medizinische Doktorthesis|
+|Alexander Schulze-Finkenbrink|Bachelorarbeit|
+|Adrian Onken| Masterarbeit|
+|Rajalakshmi Veeraraghavan|Masterarbeit|
+|Lucia Badde| Masterarbeit|
+|Lennart Guntenhöner | Medizinische Doktorarbeit|
 
 
 
