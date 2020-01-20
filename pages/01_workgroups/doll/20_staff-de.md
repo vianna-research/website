@@ -30,17 +30,17 @@ title: Mitarbeiter
 
 |Studenten||
 |-----------|-------------|
-|Hammad Ayman Akl |Hiwi|
+|Hammad Ayman Akl |HiWi|
 |Yuyang Mao| HiWi|
 |Kaan Eren Paca| HiWi|
-|Florian Schröder | Hiwi|
+|Florian Schröder | HiWi|
 |Hui Yu| Studienarbeit|
 |Svenja Schudak| Studienarbeit|
-|Alexander Schulze-Finkenbrink|Bachelor Thesis|
-|Adrian Onken| Master Thesis|
-|Rajalakshmi Veeraraghavan|Master Thesis|
-|Lucia Badde| Master Thesis|
-|Lennart Guntenhöner | Medizinische Doktorthesis|
+|Alexander Schulze-Finkenbrink|Bachelorarbeit|
+|Adrian Onken| Masterarbeit|
+|Rajalakshmi Veeraraghavan|Masterarbeit|
+|Lucia Badde| Masterarbeit|
+|Lennart Guntenhöner | Medizinische Doktorarbeit|
 
 
 
