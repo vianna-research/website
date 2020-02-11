@@ -21,7 +21,7 @@ Lena Rosenbusch, MUC.,
 Madeleine Goblet,
 Sophia Mayr,
 Katharina Schmitt,
-Niels Oppel,
+Niels Oppel
 
 <!--
 
