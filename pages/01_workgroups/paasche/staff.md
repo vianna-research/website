@@ -9,15 +9,19 @@ PD Dr. Gerrit Paasche | <paasche.gerrit@mh-hannover.de>
 **Research Team**
 Friederike Pohl, PhD.
 Robert Schuon, MD.
-Tamara Wilfling, MD.
+Malena Ezzat, MD.
 Jasmin Bohlmann
 Simon Konrad, MUC.
-Sinja Möller, MUC.
+Lukas Lübbersmeyer, MUC.
 Henrike Senker, MUC.
 Jannis-Fiete Riedemann, MUC.
 Halina Ebel, MUC.
 Ida Janzen-Senn, MUC.
-Susanne Genzel, MUC.
+Lena Rosenbusch, MUC.
+Madeleine Goblet
+Sophia Mayr
+Katharina Schmitt
+Niels Oppel
 
 <!--
 
