@@ -2,7 +2,7 @@ title: Staff
 
 **Head of Work Group**
 
-Dr. Gerrit Paasche | <paasche.gerrit@mh-hannover.de>
+PD Dr. Gerrit Paasche | <paasche.gerrit@mh-hannover.de>
 
 ---------------------------
 
