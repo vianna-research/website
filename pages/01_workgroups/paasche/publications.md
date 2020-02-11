@@ -1,15 +1,15 @@
 title: Publications
 
 ## 2019
-* Schuon R, Mrevlje B, Vollmar B, Lenarz T, **Paasche G**. [Intraluminal three-dimensional optical coherence tomography - a tool for imaging of the Eustachian tube?]. J Laryngol Otol. 2019 Feb;133(2):87-94. doi: 10.1017/S002221511800230X. Epub 2019 Feb 18.
+* Schuon R, Mrevlje B, Vollmar B, Lenarz T, **Paasche G**. Intraluminal three-dimensional optical coherence tomography - a tool for imaging of the Eustachian tube?. J Laryngol Otol. 2019 Feb;133(2):87-94. doi: 10.1017/S002221511800230X. Epub 2019 Feb 18.
 
-* Peter MN, Warnecke A, Reich U, Olze H, Szczepek AJ, Lenarz T, **Paasche G**. [Influence of In Vitro Electrical Stimulation on Survival of Spiral Ganglion Neurons]. Neurotox Res. 2019 Jul;36(1):204-216. doi: 10.1007/s12640-019-00017-x. Epub 2019 Mar 7. Erratum in: Neurotox Res. 2019 Apr 4;:. 
+* Peter MN, Warnecke A, Reich U, Olze H, Szczepek AJ, Lenarz T, **Paasche G**. Influence of In Vitro Electrical Stimulation on Survival of Spiral Ganglion Neurons. Neurotox Res. 2019 Jul;36(1):204-216. doi: 10.1007/s12640-019-00017-x. Epub 2019 Mar 7. Erratum in: Neurotox Res. 2019 Apr 4;:. 
 
 * Peter MN, **Paasche G**, Reich U, Lenarz T, Warnecke A. [Reactions in the organ of Corti to electrical stimulation : StED technology for detecting changes]. HNO. 2019 Apr;67(4):251-257. doi: 10.1007/s00106-019-0641-7. Review. German. 
 
 
 ## 2018
-* Pohl F, Schuon RA, Miller F, Kampmann A, Bültmann E, Hartmann C, Lenarz T, **Paasche G**. [Stenting the Eustachian tube to treat chronic otitis media - a feasibility study in sheep]. Head Face Med. 2018 May 4;14(1):8. doi: 10.1186/s13005-018-0165-5.
+* Pohl F, Schuon RA, Miller F, Kampmann A, Bültmann E, Hartmann C, Lenarz T, **Paasche G**. Stenting the Eustachian tube to treat chronic otitis media - a feasibility study in sheep. Head Face Med. 2018 May 4;14(1):8. doi: 10.1186/s13005-018-0165-5.
 
 
 ## 2017
@@ -17,11 +17,11 @@ title: Publications
 
 * Dencker F, Dreyer L, Müller D, Zernetsch H, **Paasche G**, Sindelar R, Glasmacher B. [A silicone fiber coating as approach for the reduction of fibroblast growth on implant electrodes](http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.33798/abstract). J Biomed Mater Res B Appl Biomater. 2017 Nov;105(8):2574-2580. doi: 10.1002/jbm.b.33798. 
 
-* Miller F, Hinze U, Chichkov B, Leibold W, Lenarz T, **Paasche G**. [Validation of eGFP fluorescence intensity for testing in vitro cytotoxicity according to ISO 10993-5]. J Biomed Mater Res B Appl Biomater. 2017 May;105(4):715-722. doi: 10.1002/jbm.b.33602. 
+* Miller F, Hinze U, Chichkov B, Leibold W, Lenarz T, **Paasche G**. Validation of eGFP fluorescence intensity for testing in vitro cytotoxicity according to ISO 10993-5. J Biomed Mater Res B Appl Biomater. 2017 May;105(4):715-722. doi: 10.1002/jbm.b.33602. 
 
-* Schulze J, Kaiser O, **Paasche G**, Lamm H, Pich A, Hoffmann A, Lenarz T, Warnecke A. [Effect of hyperbaric oxygen on BDNF-release and neuroprotection: Investigations with human mesenchymal stem cells and genetically modified NIH3T3 fibroblasts as putative cell therapeutics] PLoS One. 2017 May 23;12(5):e0178182. doi: 10.1371/journal.pone.0178182. eCollection 2017.
+* Schulze J, Kaiser O, **Paasche G**, Lamm H, Pich A, Hoffmann A, Lenarz T, Warnecke A. Effect of hyperbaric oxygen on BDNF-release and neuroprotection: Investigations with human mesenchymal stem cells and genetically modified NIH3T3 fibroblasts as putative cell therapeutics. PLoS One. 2017 May 23;12(5):e0178182. doi: 10.1371/journal.pone.0178182. eCollection 2017.
 
-* Scheper V, Hessler R, Hütten M, Wilk M, Jolly C, Lenarz T, **Paasche G**. [Local inner ear application of dexamethasone in cochlear implant models is safe for auditory neurons and increases the neuroprotective effect of chronic electrical stimulation.] PLoS One. 2017 Aug 31;12(8):e0183820. doi: 10.1371/journal.pone.0183820. eCollection 2017.
+* Scheper V, Hessler R, Hütten M, Wilk M, Jolly C, Lenarz T, **Paasche G**. Local inner ear application of dexamethasone in cochlear implant models is safe for auditory neurons and increases the neuroprotective effect of chronic electrical stimulation. PLoS One. 2017 Aug 31;12(8):e0183820. doi: 10.1371/journal.pone.0183820. eCollection 2017.
 
 
 ## 2016
