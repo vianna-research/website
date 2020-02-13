@@ -2,7 +2,7 @@ title: Staff
 
 **Head of Work Group**
 
-PD. Dr. med. A. Warnecke 		| <Warnecke.Athanasia@mh-hannover.de>
+Prof. Dr. med. A. Warnecke 		| <Warnecke.Athanasia@mh-hannover.de>
 
 ---------------------------
 
@@ -21,9 +21,11 @@ Kirsten Wissel, Dr. rer. nat.				|  	<Wissel.Kirsten@mh-hannover.de>
 
 Marvin Peter, M.Sc. Chem.					|  	<Peter.Marvin@mh-hannover.de>
 
-PhD Odett Kaiser (Tierärztin)				|  	<Kaiser.Odette@mh-hannover.de>
+PhD Odett Kaiser (Tierärztin)				|  	<Kaiser.Odett@mh-hannover.de>
 
-Susanne Sasse (Tierärztin)							| 	<sasse.susanne@mh-hannover.de>
+Dr. med. vet. Susanne Sasse (Tierärztin) |  	<Sasse.Susanne@mh-hannover.de>
+
+
 -----------------------------
 
 **Alumni**
