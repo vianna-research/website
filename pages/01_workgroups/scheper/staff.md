@@ -2,7 +2,7 @@ title: Staff
 
 |Head of research group|        |   |
 |--------------|:---------------|----|
-|![Picture Verena Scheper](Verena.jpg) |[Privatdozentin Dr. med. vet. Verena Scheper](Dr. med. vet. Verena Scheper.html)|	Scheper.verena(at)mh-hannover.de|   
+|![Picture Verena Scheper](Verena.jpg) |[Privatdozentin Dr. med. vet. Verena Scheper](Dr. med. vet. Verena Scheper.md)|	Scheper.verena(at)mh-hannover.de|   
 
 
 |Technical Staff|                     |      |    +49 (0)511 -  |
