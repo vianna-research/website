@@ -17,7 +17,7 @@ title: Staff
 | ![Image Jana Schwieger](Schwieger.jpg) |Jana Schwieger, Dr. med. vet. | Schwieger.jana(at)mh-hannover.de|532 7262|
 | ![Image Kathrin Anja Malfeld](Malfeld.jpg)  | Kathrin Anja Malfeld, veterinarian, PhD Student |  Malfeld.Kathrin@mh-hannover.de |532 1529 |
 |    ![Image Farnaz Matin](Matin.JPG) |  Farnaz Matin, MD|	Matin.Farnaz(at)mh-hannover.de| 17 7443|   
-|    ![Image Claas-Tido Peck](Claas.JPG) |  Claas-Tido Peck, M.Sc.|	Peck.Claas-Tido(at)mh-hannover.de| 1538| 
+|    ![Image Claas-Tido Peck](Claas.jpg) |  Claas-Tido Peck, M.Sc.|	Peck.Claas-Tido(at)mh-hannover.de| 1538| 
 
 
 
