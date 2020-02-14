@@ -6,7 +6,7 @@ title: Dr. med. vet. Verena Scheper
 
 **Contact:**
 
-  Verena Scheper
+  Verena Scheper, Privatdozentin
 	Medizinische Hochschule Hannover
 	Klinik für Hals-Nasen-Ohrenheilkunde
 	Stadtfelddamm 35
