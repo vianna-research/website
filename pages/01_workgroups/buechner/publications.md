@@ -2,26 +2,26 @@ title: Publications
 
 ## 2020
 
-* **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)**<br/>
-Imsiecke M, **Büchner A**, Lenarz T, Nogueira W.<br/>
+* **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)**\
+Imsiecke M, **Büchner A**, Lenarz T, Nogueira W.\
 Hear Res. 2020 Feb;386:107873. doi: 10.1016/j.heares.2019.107873. Epub 2019 Dec 18.
 
-* **[Speech understanding and listening effort in cochlear implant users - microphone beamformers lead to significant improvements in noisy environments.](https://www.tandfonline.com/doi/full/10.1080/14670100.2019.1661567)**<br/>
-**Büchner A**, Schwebs M, Lenarz T.<br/>
+* **[Speech understanding and listening effort in cochlear implant users - microphone beamformers lead to significant improvements in noisy environments.](https://www.tandfonline.com/doi/full/10.1080/14670100.2019.1661567)**\
+**Büchner A**, Schwebs M, Lenarz T.\
 Cochlear Implants Int. 2020 Jan;21(1):1-8. doi: 10.1080/14670100.2019.1661567. Epub 2019 Oct 7.
 
-* **[Toward Decoding Selective Attention From Single-Trial EEG Data in Cochlear Implant Users.](https://ieeexplore.ieee.org/document/8674613)**<br/>
-Nogueira W, Cosatti G, Schierholz I, Egger M, Mirkovic B, **Büchner A**.<br/>
+* **[Toward Decoding Selective Attention From Single-Trial EEG Data in Cochlear Implant Users.](https://ieeexplore.ieee.org/document/8674613)**\
+Nogueira W, Cosatti G, Schierholz I, Egger M, Mirkovic B, **Büchner A**.\
 IEEE Trans Biomed Eng. 2020 Jan;67(1):38-49. doi: 10.1109/TBME.2019.2907638. Epub 2019 Mar 26.
 
-* **[Electric-acoustic interaction measurements in cochlear-implant users with ipsilateral residual hearing using electrocochleography.](https://asa.scitation.org/doi/10.1121/10.0000577)**<br/>
-Krüger B, **Büchner A**, Lenarz T, Nogueira W.<br/>
+* **[Electric-acoustic interaction measurements in cochlear-implant users with ipsilateral residual hearing using electrocochleography.](https://asa.scitation.org/doi/10.1121/10.0000577)**\
+Krüger B, **Büchner A**, Lenarz T, Nogueira W.\
 J Acoust Soc Am. 2020 Jan;147(1):350. doi: 10.1121/10.0000577.
 
 ## 2019
 
-* **[Interaction Between Electric and Acoustic Stimulation Influences Speech Perception in Ipsilateral EAS Users.](https://journals.lww.com/ear-hearing/Abstract/publishahead/Interaction_Between_Electric_and_Acoustic.98733.aspx)**<br/>
-Imsiecke M, Krüger B, **Büchner A**, Lenarz T, Nogueira W.<br/>
+* **[Interaction Between Electric and Acoustic Stimulation Influences Speech Perception in Ipsilateral EAS Users.](https://journals.lww.com/ear-hearing/Abstract/publishahead/Interaction_Between_Electric_and_Acoustic.98733.aspx)**\
+Imsiecke M, Krüger B, **Büchner A**, Lenarz T, Nogueira W.\
 Ear Hear. 2019 Oct 7. doi: 10.1097/AUD.0000000000000807. [Epub ahead of print]
 
 * **[Decoding Selective Attention in Normal Hearing Listeners and Bilateral Cochlear Implant Users With Concealed Ear EEG.](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)**<br/>
