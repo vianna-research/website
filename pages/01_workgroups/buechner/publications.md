@@ -320,7 +320,8 @@ Eur J Pain. 2011 Sep;15(8):880-4. doi: 10.1016/j.ejpain.2011.01.013.
 
 
 * **[Clinical use of a system for the automated recording and analysis of electrically evoked compound action potentials (ECAPs) in cochlear implant patients.](http://www.tandfonline.com/doi/full/10.3109/00016480903380539)**
-Gärtner L, Lenarz T, Joseph G, **Büchner A**. Acta Otolaryngol. 2010 Jun;130(6):724-32. doi: 10.3109/00016480903380539.
+Gärtner L, Lenarz T, Joseph G, **Büchner A**.
+Acta Otolaryngol. 2010 Jun;130(6):724-32. doi: 10.3109/00016480903380539.
 
 
 * **[European adult multi-centre HiRes® 120 study--an update on 65 subjects.](http://www.tandfonline.com/doi/abs/10.1179/146701010X12671177204183)**
