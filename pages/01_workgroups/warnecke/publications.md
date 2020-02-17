@@ -2,41 +2,41 @@ title: Publications
 
 
 ## 2019
-* Wang H, Stahl F, Scheper T, Steffens M, Warnecke A, Zeilinger C. **[Microarray-Based Screening System Identifies Temperature-Controlled Activity of Connexin 26 That Is Distorted by Mutations.] (https://www.nature.com/articles/s41598-019-49423-3)** Scientific Reports 9, no. 1 (December 19, 2019): 13543. doi:10.1038/s41598-019-49423-3.
+* Wang H, Stahl F, Scheper T, Steffens M, Warnecke A, Zeilinger C. **[Microarray-Based Screening System Identifies Temperature-Controlled Activity of Connexin 26 That Is Distorted by Mutations.](https://www.nature.com/articles/s41598-019-49423-3)** Scientific Reports 9, no. 1 (December 19, 2019): 13543. doi:10.1038/s41598-019-49423-3.
 
-* Warnecke A, Prenzler NK, Schmitt H, Daemen K, Keil J, Dursin M, Lenarz T, Falk CS. **[Defining the Inflammatory Microenvironment in the Human Cochlea by Perilymph  Analysis: Toward Liquid Biopsy of the Cochlea.] (https://doi.org/10.3389/fneur.2019.00665)** Front Neurol. 2019 Jun 25;10:665.  doi: 10.3389/fneur.2019.00665.
+* Warnecke A, Prenzler NK, Schmitt H, Daemen K, Keil J, Dursin M, Lenarz T, Falk CS. **[Defining the Inflammatory Microenvironment in the Human Cochlea by Perilymph  Analysis: Toward Liquid Biopsy of the Cochlea.](https://doi.org/10.3389/fneur.2019.00665)** Front Neurol. 2019 Jun 25;10:665.  doi: 10.3389/fneur.2019.00665.
 
-* Schilder AGM, Su MP, Blackshaw H, Lustig L, Staecker H, Lenarz T, Safieddine S, Gomes-Santos CS, Holme R, Warnecke A. **[Hearing Protection, Restoration, and Regeneration: An Overview of Emerging Therapeutics for Inner Ear and Central Hearing Disorders.] (https://europepmc.org/article/med/31083073)** Otol Neurotol. 2019 Jun;40(5):559-570. doi: 10.1097/MAO.0000000000002194.
+* Schilder AGM, Su MP, Blackshaw H, Lustig L, Staecker H, Lenarz T, Safieddine S, Gomes-Santos CS, Holme R, Warnecke A. **[Hearing Protection, Restoration, and Regeneration: An Overview of Emerging Therapeutics for Inner Ear and Central Hearing Disorders.](https://europepmc.org/article/med/31083073)** Otol Neurotol. 2019 Jun;40(5):559-570. doi: 10.1097/MAO.0000000000002194.
 
-* de Vries I, Schmitt H, Lenarz T, Prenzler N, Alvi S, Staecker H, Durisin M, Warnecke A. **[Detection of BDNF-Related Proteins in Human Perilymph in Patients With Hearing Loss.] (https://doi.org/10.3389/fnins.2019.00214)** Front Neurosci. 2019 Mar 26;13:214. doi: 10.3389/fnins.2019.00214. 
+* de Vries I, Schmitt H, Lenarz T, Prenzler N, Alvi S, Staecker H, Durisin M, Warnecke A. **[Detection of BDNF-Related Proteins in Human Perilymph in Patients With Hearing Loss.](https://doi.org/10.3389/fnins.2019.00214)** Front Neurosci. 2019 Mar 26;13:214. doi: 10.3389/fnins.2019.00214. 
 
-* Peter MN, Warnecke A, Reich U, Olze H, Szczepek AJ, Lenarz T, Paasche G. **[Influence of In Vitro Electrical Stimulation on Survival of Spiral Ganglion Neurons.] (https://link.springer.com/article/10.1007/s12640-019-00017-x)** Neurotox Res. 2019 Jul;36(1):204-216. doi: 10.1007/s12640-019-00017-x.
+* Peter MN, Warnecke A, Reich U, Olze H, Szczepek AJ, Lenarz T, Paasche G. **[Influence of In Vitro Electrical Stimulation on Survival of Spiral Ganglion Neurons.](https://link.springer.com/article/10.1007/s12640-019-00017-x)** Neurotox Res. 2019 Jul;36(1):204-216. doi: 10.1007/s12640-019-00017-x.
 
 ## 2018
-* Schulze J, Sasse S, Prenzler N, Staecker H, Mellott AJ, Roemer A, Durisin M, Lenarz T, Warnecke A. **[Microenvironmental support for cell delivery to the inner ear.] (https://doi.org/10.1016/j.heares.2018.06.015)** Hear Res. 2018 Oct;368:109-122. doi: 10.1016/j.heares.2018.06.015.
+* Schulze J, Sasse S, Prenzler N, Staecker H, Mellott AJ, Roemer A, Durisin M, Lenarz T, Warnecke A. **[Microenvironmental support for cell delivery to the inner ear.](https://doi.org/10.1016/j.heares.2018.06.015)** Hear Res. 2018 Oct;368:109-122. doi: 10.1016/j.heares.2018.06.015.
 
-* Shew M, Warnecke A, Lenarz T, Schmitt H, Gunewardena S, Staecker H. **[Feasibility of microRNA profiling in human inner ear perilymph.] (https://journals.lww.com/neuroreport/Fulltext/2018/08010/Feasibility_of_microRNA_profiling_in_human_inner.4.aspx)** Neuroreport. 2018 Aug 1;29(11):894-901. doi: 10.1097/WNR.0000000000001049.
+* Shew M, Warnecke A, Lenarz T, Schmitt H, Gunewardena S, Staecker H. **[Feasibility of microRNA profiling in human inner ear perilymph.](https://journals.lww.com/neuroreport/Fulltext/2018/08010/Feasibility_of_microRNA_profiling_in_human_inner.4.aspx)** Neuroreport. 2018 Aug 1;29(11):894-901. doi: 10.1097/WNR.0000000000001049.
 
-* Schilder AGM, Blackshaw H, Lenarz T, Warnecke A, Lustig LR, Staecker H. **[Biological Therapies of the Inner Ear: What Otologists Need to Consider. Otol Neurotol.] (https://insights.ovid.com/crossref?an=00129492-201802000-00001)** 2018 Feb;39(2):135-137. doi: 10.1097/MAO.0000000000001689.
+* Schilder AGM, Blackshaw H, Lenarz T, Warnecke A, Lustig LR, Staecker H. **[Biological Therapies of the Inner Ear: What Otologists Need to Consider. Otol Neurotol.](https://insights.ovid.com/crossref?an=00129492-201802000-00001)** 2018 Feb;39(2):135-137. doi: 10.1097/MAO.0000000000001689.
 
-* Prenzler NK, Salcher R, Timm M, Gaertner L, Lenarz T, Warnecke A. **[Intracochlear administration of steroids with a catheter during human cochlear implantation: a safety and feasibility study.] (https://link.springer.com/article/10.1007%2Fs13346-018-0539-z)** Drug Deliv Transl Res. 2018 May 14. doi: 10.1007/s13346-018-0539-z.
+* Prenzler NK, Salcher R, Timm M, Gaertner L, Lenarz T, Warnecke A. **[Intracochlear administration of steroids with a catheter during human cochlear implantation: a safety and feasibility study.](https://link.springer.com/article/10.1007%2Fs13346-018-0539-z)** Drug Deliv Transl Res. 2018 May 14. doi: 10.1007/s13346-018-0539-z.
 
-* Yue Q, Stahl F, Plettenburg O, Kirschning A, Warnecke A, Zeilinger C. **[Non-competitive effect of gambogic acid displaces fluorescence labelled ATP but requires ATP for binding to Hsp90/HtpG.] (https://doi.org/10.1021/acs.biochem.8b00155)** Biochemistry. 2018 Apr 17. doi:10.1021/acs.biochem.8b00155. 
+* Yue Q, Stahl F, Plettenburg O, Kirschning A, Warnecke A, Zeilinger C. **[Non-competitive effect of gambogic acid displaces fluorescence labelled ATP but requires ATP for binding to Hsp90/HtpG.](https://doi.org/10.1021/acs.biochem.8b00155)** Biochemistry. 2018 Apr 17. doi:10.1021/acs.biochem.8b00155. 
 
-* Schmidt N, Schulze J, Warwas DP, Ehlert N, Lenarz T, Warnecke A, Behrens P. **[Long-term delivery of brain-derived neurotrophic factor (BDNF) from nanoporous silica nanoparticles improves the survival of spiral ganglion neurons in vitro.]** (https://doi.org/10.1371/journal.pone.0194778) PLoS One. 2018 Mar 27;13(3). doi: e0194778.
+* Schmidt N, Schulze J, Warwas DP, Ehlert N, Lenarz T, Warnecke A, Behrens P. **[Long-term delivery of brain-derived neurotrophic factor (BDNF) from nanoporous silica nanoparticles improves the survival of spiral ganglion neurons in vitro.](https://doi.org/10.1371/journal.pone.0194778)** PLoS One. 2018 Mar 27;13(3). doi: e0194778.
 
-* Schmitt H, Roemer A, Zeilinger C, Salcher R, Durisin M, Staecker H, Lenarz T, Warnecke A. **[Heat Shock Proteins in Human Perilymph: Implications for Cochlear Implantation.] (https://insights.ovid.com/crossref?an=00129492-201801000-00007)** Otol Neurotol. 2018 Jan;39(1):37-44.
+* Schmitt H, Roemer A, Zeilinger C, Salcher R, Durisin M, Staecker H, Lenarz T, Warnecke A. **[Heat Shock Proteins in Human Perilymph: Implications for Cochlear Implantation.](https://insights.ovid.com/crossref?an=00129492-201801000-00007)** Otol Neurotol. 2018 Jan;39(1):37-44.
 
-* Stolle M, Schulze J, Roemer A, Lenarz T, Durisin M, Warnecke A. **[Human Plasma Rich in Growth Factors Improves Survival and Neurite Outgrowth of Spiral Ganglion Neurons In Vitro.] (https://doi.org/10.1089/ten.tea.2017.0120Tissue)** Eng Part A. 2018 Mar;24(5-6):493-501.
+* Stolle M, Schulze J, Roemer A, Lenarz T, Durisin M, Warnecke A. **[Human Plasma Rich in Growth Factors Improves Survival and Neurite Outgrowth of Spiral Ganglion Neurons In Vitro.](https://doi.org/10.1089/ten.tea.2017.0120Tissue)** Eng Part A. 2018 Mar;24(5-6):493-501.
 
 ## 2017
-* Roemer A, Warnecke A, Lenarz T, Stolle SRO. **[Successful Treatment of Intractable Facial Osteomyelitis with Autologous PRP and Gentamicin.] (https://www.semanticscholar.org/paper/Successful-Treatment-of-Intractable-Facial-with-PRP-Roemer-Warnecke/62a50b9bacd6128d499a92bd8a7bb1da25759ca5)** Clin Otorlyryngol (2017)1:1 011. 
+* Roemer A, Warnecke A, Lenarz T, Stolle SRO. **[Successful Treatment of Intractable Facial Osteomyelitis with Autologous PRP and Gentamicin.](https://www.semanticscholar.org/paper/Successful-Treatment-of-Intractable-Facial-with-PRP-Roemer-Warnecke/62a50b9bacd6128d499a92bd8a7bb1da25759ca5)** Clin Otorlyryngol (2017)1:1 011. 
 
-* Schulze J, Kaiser O, Paasche G, Lamm H, Pich A, Hoffmann A, Lenarz T, Warnecke A. **[Effect of hyperbaric oxygen on BDNF-release and neuroprotection: Investigations with human mesenchymal stem cells and genetically modified NIH3T3 fibroblasts as putative cell therapeutics.] (https://doi.org/10.1371/journal.pone.0178182)** PLoS One. 2017 May 23;12(5).doi: e0178182.
+* Schulze J, Kaiser O, Paasche G, Lamm H, Pich A, Hoffmann A, Lenarz T, Warnecke A. **[Effect of hyperbaric oxygen on BDNF-release and neuroprotection: Investigations with human mesenchymal stem cells and genetically modified NIH3T3 fibroblasts as putative cell therapeutics.](https://doi.org/10.1371/journal.pone.0178182)** PLoS One. 2017 May 23;12(5).doi: e0178182.
 
-* Trebesch S, Koch T, Warnecke A, Lenarz T, Stolle S. **[Objective and subjective assessment of outcomes after sinus surgery in sixty patients.] (https://doi.org/10.1111/coa.12897)** Clin Otolaryngol. 2017 May 02;42(6):1400-1403. doi: 10.1111/coa.12897.
+* Trebesch S, Koch T, Warnecke A, Lenarz T, Stolle S. **[Objective and subjective assessment of outcomes after sinus surgery in sixty patients.](https://doi.org/10.1111/coa.12897)** Clin Otolaryngol. 2017 May 02;42(6):1400-1403. doi: 10.1111/coa.12897.
 
-* Nolte L, Tinne N, Schulze J, Heinemann D, Antonopoulos GC, Meyer H, Nothwang HG, Lenarz T, Heisterkamp A, Warnecke A, Ripken T. **[Scanning laser optical tomography for in toto imaging of the murine cochlea.] (https://doi.org/10.1371/journal.pone.0175431)** PLOS One. 2017Apr 7. doi: e0175431.
+* Nolte L, Tinne N, Schulze J, Heinemann D, Antonopoulos GC, Meyer H, Nothwang HG, Lenarz T, Heisterkamp A, Warnecke A, Ripken T. **[Scanning laser optical tomography for in toto imaging of the murine cochlea.](https://doi.org/10.1371/journal.pone.0175431)** PLOS One. 2017Apr 7. doi: e0175431.
 
 * Roemer A, Staecker H, Sasse S, Lenarz T, Warnecke A. **[Biologische Therapien in der Otologie.](https://link.springer.com/article/10.1007%2Fs00106-016-0304-x)** HNO. 2017 Feb 15. doi: 10.1007/s00106-016-0304-x.
 
