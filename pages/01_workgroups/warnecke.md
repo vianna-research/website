@@ -16,7 +16,7 @@ In this context, genetic modification as well as structuring of the implant surf
 
 **Contact Information:**
 
-    PD. Dr. med. A. Warnecke
+    Prof. Dr. med. A. Warnecke
     Medizinische Hochschule Hannover
     Carl-Neuberg-Str. 1
     30625 Hannover
