@@ -24,16 +24,16 @@ J Acoust Soc Am. 2020 Jan;147(1):350. doi: 10.1121/10.0000577.
 Imsiecke M, Krüger B, **Büchner A**, Lenarz T, Nogueira W.\
 Ear Hear. 2019 Oct 7. doi: 10.1097/AUD.0000000000000807. [Epub ahead of print]
 
-* **[Decoding Selective Attention in Normal Hearing Listeners and Bilateral Cochlear Implant Users With Concealed Ear EEG.](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)**<br/>
-Nogueira W, Dolhopiatenko H, Schierholz I, **Büchner A**, Mirkovic B, Bleichner MG, Debener S.<br/>
+* **[Decoding Selective Attention in Normal Hearing Listeners and Bilateral Cochlear Implant Users With Concealed Ear EEG.](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)**\
+Nogueira W, Dolhopiatenko H, Schierholz I, **Büchner A**, Mirkovic B, Bleichner MG, Debener S.\
 Front Neurosci. 2019 Jul 18;13:720. doi: 10.3389/fnins.2019.00720. eCollection 2019.
 
-* **[Introducing real-life listening features into the clinical test environment: Part II: Measuring the hearing performance and evaluating the listening effort of individuals with a hearing implant.](https://www.tandfonline.com/doi/full/10.1080/14670100.2019.1579980)**<br/>
-Bräcker T, Hellmiss S, Batsoulis C, Petzold T, Gabel L, Möltner A, Stöver T, Mlynski R, Lenarz T, **Büchner A**.<br/>
+* **[Introducing real-life listening features into the clinical test environment: Part II: Measuring the hearing performance and evaluating the listening effort of individuals with a hearing implant.](https://www.tandfonline.com/doi/full/10.1080/14670100.2019.1579980)**
+Bräcker T, Hellmiss S, Batsoulis C, Petzold T, Gabel L, Möltner A, Stöver T, Mlynski R, Lenarz T, **Büchner A**.
 Cochlear Implants Int. 2019 Jul;20(4):165-175. doi: 10.1080/14670100.2019.1579980. Epub 2019 Mar 17.
 
-* **[Contralateral suppression of human hearing sensitivity in single-sided deaf cochlear implant users.](https://www.sciencedirect.com/science/article/pii/S0378595517305671?via%3Dihub)**<br/>
-Nogueira W, Krüger B, **Büchner A**, Lopez-Poveda E.<br/>
+* **[Contralateral suppression of human hearing sensitivity in single-sided deaf cochlear implant users.](https://www.sciencedirect.com/science/article/pii/S0378595517305671?via%3Dihub)**
+Nogueira W, Krüger B, **Büchner A**, Lopez-Poveda E.\
 Hear Res. 2019 Mar 1;373:121-129. doi: 10.1016/j.heares.2018.06.001. Epub 2018 Jun 15.
 
 * **[Individual Hearing Preservation Cochlear Implantation Using the Concept of Partial Insertion.](https://insights.ovid.com/crossref?an=00129492-201903000-00046)**<br/>
