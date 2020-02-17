@@ -1,8 +1,6 @@
 title: Publications
 
-```diff
-+ Büchner
-```
+
 ## 2019
 
 ## 2018
