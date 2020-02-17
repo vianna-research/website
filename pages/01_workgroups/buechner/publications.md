@@ -4,6 +4,16 @@ title: Publications
 
 ## 2018
 
+* **[Patient specific selection of lateral wall cochlear implant electrodes based on anatomical indication ranges.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206435)** Timm ME, Majdani O, Weller T, Windeler M, Lenarz T, Büchner A, Salcher RB. PLoS One. 2018 Oct 26;13(10):e0206435. doi: 10.1371/journal.pone.0206435. eCollection 2018.
+
+* **[Fine-grain recordings of the electrically evoked compound action potential amplitude growth function in cochlear implant recipients.](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-018-0588-z)** Gärtner L, Lenarz T, Büchner A. Biomed Eng Online. 2018 Oct 19;17(1):140. doi: 10.1186/s12938-018-0588-z.
+
+* **[Electric-acoustic forward masking in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595517305026?via%3Dihub)** Imsiecke M, Krüger B, Büchner A, Lenarz T, Nogueira W. Hear Res. 2018 Jul;364:25-37. doi: 10.1016/j.heares.2018.04.003. Epub 2018 Apr 9.
+
+* **[The effects of electrical field spatial spread and some cognitive factors on speech-in-noise performance of individual cochlear implant users-A computer model study.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193842)** Jürgens T, Hohmann V, Büchner A, Nogueira W. Hear Res. 2018 Mar;359:64-75. doi: 10.1016/j.heares.2017.12.019. Epub 2017 Dec 28.
+
+* **[Perceptual changes with monopolar and phantom electrode stimulation.](https://www.sciencedirect.com/science/article/pii/S0378595517303076?via%3Dihub)** Klawitter S, Landsberger DM, Büchner A, Nogueira W. PLoS One. 2018 Apr 13;13(4):e0193842. doi: 10.1371/journal.pone.0193842. eCollection 2018.
+
 * **[Feasibility of <sup>15</sup>O-water PET studies of auditory system activation during general anesthesia in children.](https://ejnmmires.springeropen.com/articles/10.1186/s13550-018-0362-z)** Mamach M, Wilke F, Durisin M, Beger FA, Finke M, Büchner A, Schultz B, Schultz A, Geworski L, Bengel FM, Lenarz T, Lesinski-Schiedat A, Berding G. EJNMMI Res. 2018 Feb 5;8(1):11. doi: 10.1186/s13550-018-0362-z.
 
 * **[Event-related neuronal responses to acoustic novelty in single-sided deaf cochlear implant users: Initial findings.](https://www.sciencedirect.com/science/article/abs/pii/S1388245717311203?via%3Dihub)** Bönitz H, Kopp B, Büchner A, Lunner T, Lyxell B, Finke M. Clin Neurophysiol. 2018 Jan;129(1):133-142. doi: 10.1016/j.clinph.2017.10.025. Epub 2017 Nov 7.
