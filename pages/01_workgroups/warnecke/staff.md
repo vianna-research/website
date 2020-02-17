@@ -19,8 +19,6 @@ Darja Werner, TA 							|  	<Werner.Darja@mh-hannover.de>
 
 Kirsten Wissel, Dr. rer. nat.				|  	<Wissel.Kirsten@mh-hannover.de>
 
-Marvin Peter, M.Sc. Chem.					|  	<Peter.Marvin@mh-hannover.de>
-
 PhD Odett Kaiser (Tierärztin)				|  	<Kaiser.Odett@mh-hannover.de>
 
 Dr. med. vet. Susanne Sasse (Tierärztin) |  	<Sasse.Susanne@mh-hannover.de>
@@ -30,6 +28,10 @@ Dr. med. vet. Susanne Sasse (Tierärztin) |  	<Sasse.Susanne@mh-hannover.de>
 
 **Alumni**
 
+
+Marvin Peter, M.Sc. Chem.
+
+Hongling Wang (Ärztin)
 
 Qing Yue	(Arzt)
 
