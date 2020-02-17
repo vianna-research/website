@@ -4,7 +4,7 @@ title: Publications
 
 ## 2018
 
-* **[Feasibility of 15O-water PET studies of auditory system activation during general anesthesia in children.](https://ejnmmires.springeropen.com/articles/10.1186/s13550-018-0362-z)** Mamach M, Wilke F, Durisin M, Beger FA, Finke M, Büchner A, Schultz B, Schultz A, Geworski L, Bengel FM, Lenarz T, Lesinski-Schiedat A, Berding G. EJNMMI Res. 2018 Feb 5;8(1):11. doi: 10.1186/s13550-018-0362-z.
+* **[Feasibility of <sup>15</sup>O-water PET studies of auditory system activation during general anesthesia in children.](https://ejnmmires.springeropen.com/articles/10.1186/s13550-018-0362-z)** Mamach M, Wilke F, Durisin M, Beger FA, Finke M, Büchner A, Schultz B, Schultz A, Geworski L, Bengel FM, Lenarz T, Lesinski-Schiedat A, Berding G. EJNMMI Res. 2018 Feb 5;8(1):11. doi: 10.1186/s13550-018-0362-z.
 
 * **[Event-related neuronal responses to acoustic novelty in single-sided deaf cochlear implant users: Initial findings.](https://www.sciencedirect.com/science/article/abs/pii/S1388245717311203?via%3Dihub)** Bönitz H, Kopp B, Büchner A, Lunner T, Lyxell B, Finke M. Clin Neurophysiol. 2018 Jan;129(1):133-142. doi: 10.1016/j.clinph.2017.10.025. Epub 2017 Nov 7.
 
