@@ -2,39 +2,40 @@ title: Publications
 
 ## 2020
 
-* **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)** Imsiecke M, **Büchner A**, Lenarz T, Nogueira W.
-Hear Res. 2020 Feb;386:107873. doi: 10.1016/j.heares.2019.107873. Epub 2019 Dec 18.
+* **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)**
+Imsiecke M, **Büchner A**, Lenarz T, Nogueira W. Hear Res. 2020 Feb;386:107873. doi: 10.1016/j.heares.2019.107873. Epub 2019 Dec 18.
 
-* **[Speech understanding and listening effort in cochlear implant users - microphone beamformers lead to significant improvements in noisy environments.](https://www.tandfonline.com/doi/full/10.1080/14670100.2019.1661567)** **Büchner A**, Schwebs M, Lenarz T.
-Cochlear Implants Int. 2020 Jan;21(1):1-8. doi: 10.1080/14670100.2019.1661567. Epub 2019 Oct 7.
+* **[Speech understanding and listening effort in cochlear implant users - microphone beamformers lead to significant improvements in noisy environments.](https://www.tandfonline.com/doi/full/10.1080/14670100.2019.1661567)**
+**Büchner A**, Schwebs M, Lenarz T. Cochlear Implants Int. 2020 Jan;21(1):1-8. doi: 10.1080/14670100.2019.1661567. Epub 2019 Oct 7.
 
-* **[Toward Decoding Selective Attention From Single-Trial EEG Data in Cochlear Implant Users.](https://ieeexplore.ieee.org/document/8674613)** Nogueira W, Cosatti G, Schierholz I, Egger M, Mirkovic B, **Büchner A**.
-IEEE Trans Biomed Eng. 2020 Jan;67(1):38-49. doi: 10.1109/TBME.2019.2907638. Epub 2019 Mar 26.
+* **[Toward Decoding Selective Attention From Single-Trial EEG Data in Cochlear Implant Users.](https://ieeexplore.ieee.org/document/8674613)**
+Nogueira W, Cosatti G, Schierholz I, Egger M, Mirkovic B, **Büchner A**. IEEE Trans Biomed Eng. 2020 Jan;67(1):38-49. doi: 10.1109/TBME.2019.2907638. Epub 2019 Mar 26.
 
 * **[Electric-acoustic interaction measurements in cochlear-implant users with ipsilateral residual hearing using electrocochleography.](https://asa.scitation.org/doi/10.1121/10.0000577)** Krüger B, **Büchner A**, Lenarz T, Nogueira W.
 J Acoust Soc Am. 2020 Jan;147(1):350. doi: 10.1121/10.0000577.
 
 ## 2019
 
-* **[Interaction Between Electric and Acoustic Stimulation Influences Speech Perception in Ipsilateral EAS Users.](https://journals.lww.com/ear-hearing/Abstract/publishahead/Interaction_Between_Electric_and_Acoustic.98733.aspx)** Imsiecke M, Krüger B, **Büchner A**, Lenarz T, Nogueira W.
-Ear Hear. 2019 Oct 7. doi: 10.1097/AUD.0000000000000807. [Epub ahead of print]
+* **[Interaction Between Electric and Acoustic Stimulation Influences Speech Perception in Ipsilateral EAS Users.](https://journals.lww.com/ear-hearing/Abstract/publishahead/Interaction_Between_Electric_and_Acoustic.98733.aspx)**
+Imsiecke M, Krüger B, **Büchner A**, Lenarz T, Nogueira W. Ear Hear. 2019 Oct 7. doi: 10.1097/AUD.0000000000000807. [Epub ahead of print]
 
-* **[Decoding Selective Attention in Normal Hearing Listeners and Bilateral Cochlear Implant Users With Concealed Ear EEG.](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)** Nogueira W, Dolhopiatenko H, Schierholz I, **Büchner A**, Mirkovic B, Bleichner MG, Debener S.
-Front Neurosci. 2019 Jul 18;13:720. doi: 10.3389/fnins.2019.00720. eCollection 2019.
+* **[Decoding Selective Attention in Normal Hearing Listeners and Bilateral Cochlear Implant Users With Concealed Ear EEG.](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)**
+Nogueira W, Dolhopiatenko H, Schierholz I, **Büchner A**, Mirkovic B, Bleichner MG, Debener S. Front Neurosci. 2019 Jul 18;13:720. doi: 10.3389/fnins.2019.00720. eCollection 2019.
 
-* **[Introducing real-life listening features into the clinical test environment: Part II: Measuring the hearing performance and evaluating the listening effort of individuals with a hearing implant.](https://www.tandfonline.com/doi/full/10.1080/14670100.2019.1579980)** Bräcker T, Hellmiss S, Batsoulis C, Petzold T, Gabel L, Möltner A, Stöver T, Mlynski R, Lenarz T, **Büchner A**.
-Cochlear Implants Int. 2019 Jul;20(4):165-175. doi: 10.1080/14670100.2019.1579980. Epub 2019 Mar 17.
+* **[Introducing real-life listening features into the clinical test environment: Part II: Measuring the hearing performance and evaluating the listening effort of individuals with a hearing implant.](https://www.tandfonline.com/doi/full/10.1080/14670100.2019.1579980)**
+Bräcker T, Hellmiss S, Batsoulis C, Petzold T, Gabel L, Möltner A, Stöver T, Mlynski R, Lenarz T, **Büchner A**. Cochlear Implants Int. 2019 Jul;20(4):165-175. doi: 10.1080/14670100.2019.1579980. Epub 2019 Mar 17.
 
-* **[Contralateral suppression of human hearing sensitivity in single-sided deaf cochlear implant users.](https://www.sciencedirect.com/science/article/pii/S0378595517305671?via%3Dihub)** Nogueira W, Krüger B, **Büchner A**, Lopez-Poveda E.
-Hear Res. 2019 Mar 1;373:121-129. doi: 10.1016/j.heares.2018.06.001. Epub 2018 Jun 15.
+* **[Contralateral suppression of human hearing sensitivity in single-sided deaf cochlear implant users.](https://www.sciencedirect.com/science/article/pii/S0378595517305671?via%3Dihub)**
+Nogueira W, Krüger B, **Büchner A**, Lopez-Poveda E. Hear Res. 2019 Mar 1;373:121-129. doi: 10.1016/j.heares.2018.06.001. Epub 2018 Jun 15.
 
-* **[Individual Hearing Preservation Cochlear Implantation Using the Concept of Partial Insertion.](https://insights.ovid.com/crossref?an=00129492-201903000-00046)** Lenarz T, Timm ME, Salcher R, **Büchner A**.
-Otol Neurotol. 2019 Mar;40(3):e326-e335. doi: 10.1097/MAO.0000000000002127.
+* **[Individual Hearing Preservation Cochlear Implantation Using the Concept of Partial Insertion.](https://insights.ovid.com/crossref?an=00129492-201903000-00046)**
+Lenarz T, Timm ME, Salcher R, **Büchner A**. Otol Neurotol. 2019 Mar;40(3):e326-e335. doi: 10.1097/MAO.0000000000002127.
 
-* **[The Optimal inter-implant interval in pediatric sequential bilateral implantation.](https://www.sciencedirect.com/science/article/pii/S0378595517302745?via%3Dihub)** Illg A, Sandner C, **Büchner A**, Lenarz T, Kral A, Lesinski-Schiedat A. Hear Res. 2019 Feb;372:80-87. doi: 10.1016/j.heares.2017.10.010. Epub 2017 Oct 31.
+* **[The Optimal inter-implant interval in pediatric sequential bilateral implantation.](https://www.sciencedirect.com/science/article/pii/S0378595517302745?via%3Dihub)**
+Illg A, Sandner C, **Büchner A**, Lenarz T, Kral A, Lesinski-Schiedat A. Hear Res. 2019 Feb;372:80-87. doi: 10.1016/j.heares.2017.10.010. Epub 2017 Oct 31.
 
-* **[Monitoring of the Inner Ear Function During and After Cochlear Implant Insertion Using Electrocochleography.](https://journals.sagepub.com/doi/full/10.1177/2331216519833567?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed)** Haumann S, Imsiecke M, Bauernfeind G, **Büchner A**, Helmstaedter V, Lenarz T, Salcher RB.
-Trends Hear. 2019 Jan-Dec;23:2331216519833567. doi: 10.1177/2331216519833567.
+* **[Monitoring of the Inner Ear Function During and After Cochlear Implant Insertion Using Electrocochleography.](https://journals.sagepub.com/doi/full/10.1177/2331216519833567?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed)**
+Haumann S, Imsiecke M, Bauernfeind G, **Büchner A**, Helmstaedter V, Lenarz T, Salcher RB. Trends Hear. 2019 Jan-Dec;23:2331216519833567. doi: 10.1177/2331216519833567.
 
 ## 2018
 
