@@ -1,6 +1,16 @@
 title: Publications
 
+## 2019
+
+## 2018
+
+* **[Feasibility of 15O-water PET studies of auditory system activation during general anesthesia in children.](https://ejnmmires.springeropen.com/articles/10.1186/s13550-018-0362-z)** Mamach M, Wilke F, Durisin M, Beger FA, Finke M, Büchner A, Schultz B, Schultz A, Geworski L, Bengel FM, Lenarz T, Lesinski-Schiedat A, Berding G. EJNMMI Res. 2018 Feb 5;8(1):11. doi: 10.1186/s13550-018-0362-z.
+
+* **[Event-related neuronal responses to acoustic novelty in single-sided deaf cochlear implant users: Initial findings.](https://www.sciencedirect.com/science/article/abs/pii/S1388245717311203?via%3Dihub)** Bönitz H, Kopp B, Büchner A, Lunner T, Lyxell B, Finke M. Clin Neurophysiol. 2018 Jan;129(1):133-142. doi: 10.1016/j.clinph.2017.10.025. Epub 2017 Nov 7.
+
 ## 2017
+
+* **[Multisensory emotion perception in congenitally, early, and late deaf CI users.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185821)** Fengler I, Nava E, Villwock AK, Büchner A, Lenarz T, Röder B. PLoS ONE. 2017 Oct;12(10):e0185821.  doi: 10.1371/journal.pone.0185821.
 
 * **[Long-Term Outcomes, Education, and Occupational Level in Cochlear Implant Recipients Who Were Implanted in Childhood.](http://journals.lww.com/ear-hearing/Abstract/2017/09000/Long_Term_Outcomes,_Education,_and_Occupational.5.aspx)** Illg A, Haack M, Lesinski-Schiedat A, Büchner A, Lenarz T. Ear Hear. 2017 Sep/Oct;38(5):577-587. doi: 10.1097/AUD.0000000000000423.
 
