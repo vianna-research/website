@@ -4,7 +4,7 @@ title: Publications
 
 ## 2018
 
-* **[Patient specific selection of lateral wall cochlear implant electrodes based on anatomical indication ranges.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206435)** Timm ME, Majdani O, Weller T, Windeler M, Lenarz T, Büchner A, Salcher RB. PLoS One. 2018 Oct 26;13(10):e0206435. doi: 10.1371/journal.pone.0206435. eCollection 2018.
+* **[Patient specific selection of lateral wall cochlear implant electrodes based on anatomical indication ranges.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206435)** Timm ME, Majdani O, Weller T, Windeler M, Lenarz T, ```Büchner A```, Salcher RB. PLoS One. 2018 Oct 26;13(10):e0206435. doi: 10.1371/journal.pone.0206435. eCollection 2018.
 
 * **[Fine-grain recordings of the electrically evoked compound action potential amplitude growth function in cochlear implant recipients.](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-018-0588-z)** Gärtner L, Lenarz T, Büchner A. Biomed Eng Online. 2018 Oct 19;17(1):140. doi: 10.1186/s12938-018-0588-z.
 
