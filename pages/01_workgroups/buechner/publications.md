@@ -206,7 +206,8 @@ Hear Res. 2015 Oct;328:133-47. doi: 10.1016/j.heares.2015.08.009. Epub 2015 Aug 
 ## 2015
 
 * **[Effect of Channel Envelope Synchrony on Interaural Time Difference Sensitivity in Bilateral Cochlear Implant Listeners.](http://journals.lww.com/ear-hearing/Abstract/2015/07000/Effect_of_Channel_Envelope_Synchrony_on_Interaural.21.aspx)**
-Francart T, Lenssen A, **Büchner A**, Lenarz T, Wouters J. Ear Hear. 2015 Jul-Aug;36(4):e199-206. doi: 10.1097/AUD.0000000000000152.
+Francart T, Lenssen A, **Büchner A**, Lenarz T, Wouters J. 
+Ear Hear. 2015 Jul-Aug;36(4):e199-206. doi: 10.1097/AUD.0000000000000152.
 
 
 * **[Evaluation of a Transient Noise Reduction Algorithm in Cochlear Implant Users.](http://www.audiologyresearch.org/index.php/audio/article/view/116/174)**
@@ -215,7 +216,8 @@ Audiol Res. 2015 Jun 11;5(2):116. doi: 10.4081/audiores.2015.116. eCollection 20
 
 
 * **[Stimulating on multiple electrodes can improve temporal pitch perception.](http://www.tandfonline.com/doi/full/10.3109/14992027.2014.997313)**
-Penninger RT, Kludt E, **Büchner A**, Nogueira W. Int J Audiol. 2015 Jun;54(6):376-83. doi: 10.3109/14992027.2014.997313. Epub 2015 Jan 29.
+Penninger RT, Kludt E, **Büchner A**, Nogueira W. 
+Int J Audiol. 2015 Jun;54(6):376-83. doi: 10.3109/14992027.2014.997313. Epub 2015 Jan 29.
 
 
 * **[Cochlear implantation in children with bacterial meningitic deafness: The influence of the degree of ossification and obliteration on impedance and charge of the implant.](http://www.tandfonline.com/doi/full/10.1179/1754762814Y.0000000094)**
