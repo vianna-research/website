@@ -9,6 +9,12 @@ title: Staff
 
  
 
+| Research Team                                                                                                      |
+|:------------------------------|:----------------------------------------------|--------------------------------------:|
+|![Portrait](staff/empty.jpg)    | Michael Bardt                     | Bardt.Michael(at)mh-hannover.de        |
+|![Portrait](staff/empty.jpg)	| Hanna Bönitz 					 | Boenitz.Hanna(at)mh-hannover.de	  |
+
+
 ---------------------------
 
 **Research Team**
