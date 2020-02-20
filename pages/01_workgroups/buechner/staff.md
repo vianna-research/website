@@ -13,30 +13,15 @@ title: Staff
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
 |![Portrait](staff/empty.jpg)    | Michael Bardt                     | Bardt.Michael(at)mh-hannover.de        |
 |![Portrait](staff/empty.jpg)	| Hanna Bönitz 					 | Boenitz.Hanna(at)mh-hannover.de	  |
-
+|![Portrait](staff/empty.jpg)	| Karl-Heinz Dyballa, Dr. rer. biol. hum. 					 | Dyballa.Karl-Heinz(at)mh-hannover.de	  |
+|![Portrait](staff/empty.jpg)	| Annette Günther 					 | Guenther.Annette(at)mh-hannover.de	  |
+|![Portrait](staff/empty.jpg)	| Sven Kliesch 					 | Kliesch.Sven(at)mh-hannover.de	  |
+|![Portrait](staff/empty.jpg)	| Eugen Kludt, Dr. rer. nat. 					 | Kludt.Eugen(at)mh-hannover.de	  |
+|![Portrait](staff/empty.jpg)	| Timo Leinemann, Dr. 					 | Leinemann.Timo(at)mh-hannover.de	  |
+|![Portrait](staff/empty.jpg)	| Mark Schüssler 					 | Schuessler.Mark(at)mh-hannover.de	  |
+|![Portrait](staff/empty.jpg)	| Tobias Weller 					 | Weller.Tobias(at)mh-hannover.de	  |
 
 ---------------------------
-
-**Research Team**
-
-Michael Bardt 			 		| 	Bardt.Michael(at)mh-hannover.de 
-
-Hanna Bönitz 			 		| 	Boenitz.Hanna(at)mh-hannover.de
-
-Karl-Heinz Dyballa, Dr. rer. biol. hum. | 	Dyballa.Karl-Heinz(at)mh-hannover.de
-
-Annette Günther 			 		| 	Guenther.Annette(at)mh-hannover.de
-
-Sven Kliesch 			 		| 	Kliesch.Sven(at)mh-hannover.de
-
-Eugen Kludt, Dr. rer. nat.  			 		| 	Kludt.Eugen(at)mh-hannover.de 
-
-Timo Leinemann, Dr.  			 		| 	Leinemann.Timo(at)mh-hannover.de 
-
-Mark Schüssler 			 		| 	Schuessler.Mark(at)mh-hannover.de
-
-Tobias Weller 			 		| 	Weller.Tobias(at)mh-hannover.de
-
 
 
 
