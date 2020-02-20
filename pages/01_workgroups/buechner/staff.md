@@ -24,10 +24,8 @@ title: Staff
 
 | Cooperating Workgroups                                                                                                      |
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
-|![Portrait](staff/Nogueira.jpg)     Waldo Nogueira, Prof. Dr.-Ing.|
-Professor for Auditory Prosthesis   |NogueiraVazquez.Waldo(at)mh-hannover.de        |
-|![Portrait](staff/Maier.jpg)	 Hannes Maier, Prof. Dr. phil. nat.|
-Director MEI-Team
+|![Portrait](staff/Nogueira.jpg)     Waldo Nogueira, Prof. Dr.-Ing.| Professor for Auditory Prosthesis   |NogueiraVazquez.Waldo(at)mh-hannover.de        |
+|![Portrait](staff/Maier.jpg)	 Hannes Maier, Prof. Dr. phil. nat.| Director MEI-Team
 Professor for „Experimental Audiological Diagnostic“ 	 |  Maier.Hannes(at)mh-hannover.de 	  |
 
 
