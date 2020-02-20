@@ -11,7 +11,7 @@ The following workgroups are located at the VIANNA:
 
 |              Name              |                                            Lab                                             |
 |--------------------------------|--------------------------------------------------------------------------------------------|
-| Prof. Dr. Dipl.-Inform. Andreas Büchner          | [Signal Processing for Auditory Implants](01_workgroups/büchner.html)               
+| Prof. Dr. Dipl.-Inform. Andreas Büchner          | [Signal Processing for Auditory Implants](01_workgroups/buechner.html)               
 | Prof. Dr. Theodor Doll         | [BioMaterial Engineering](01_workgroups/doll.html)                                         |
 | Prof. Dr. Hannes Maier         | [Implantable Middle Ear Hearing Devices](01_workgroups/maier.html)                         |
 | Prof. Dr. Andrea Hoffmann      | [Regenerative Strategies](01_workgroups/hoffmann.html)                                     |
