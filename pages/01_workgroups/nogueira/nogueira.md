@@ -10,7 +10,29 @@ title: Prof. Dr.-Ing. Waldo Nogueira
 
 Professor for Auditory Prosthesis 	
 
+* Since 2013 Junior Professor and head of APG
+* 2011-2013 Post-Doc Music Technology Group, University Pompeu Fabra, Barcelona, Spain
+* 2009-2011 Principal Research Engineer – Signal Processing, Advanced Bionics, Hannover, Germany
+* 2008-2009 Research Engineer – Signal Processing, Advanced Bionics, Antwerp, Belgium
+* 2003-2008 Ph. D. (Dr.-Ing) Student Leibniz University Hannover, Hannover
+  (Ph. D. Thesis: Design and Evaluation of Signal Processing Strategies for Cochlear Implants 
+  based on Psychoacoustic Masking and Current Steering)
+* 1997-2003 (Dipl.-Ing) Universitat Politecnica de Catalunya, Barcelona, Spain
+  (Master Thesis: Envelope estimation for audio signals based on predictive techniques in the frequency domain)
+* Master of Science at the Gottfried Wilhelm Leibniz University Hannover
+  (Thesis: Conception and implementing of a RICT-based, mobile hardware platform for real-time capable movement sonification, Institute     of Microelectronic Systems (IMS), Hannover)
+* Bachelor of Engineering at the University of Applied Sciences and Arts, Hannover
+  (Thesis: Integration of a reverberation algorithm into SAOC-Binaural, Fraunhofer Institute for Integrated Circuits IIS)
 
+
+**Research and Interests**
+
+* Audio and speech signal processing, neural processing, computational models of electric acoustic hearing,
+electrophysiology in humans, binaural hearing
+* Teaching
+* Audio 3D, Audio and Speech Signal Processing
+* Development of CI sound coding strategies for combined electric and acoustic stimulation
+* Psychoacoustics and electrophysiology
 
 **Contact:**
 
