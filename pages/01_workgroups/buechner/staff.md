@@ -1,8 +1,13 @@
 title: Staff
 
 **Head of Work Group**
+- - - 
 
-Prof. Dr. Dipl.-Inform. A. Büchner 		|  Buechner(at)hoerzentrum-hannover.de  
+| Head of Research Group                                   |                                      |
+|:------------------------------|:-----------------------|-------------------------------:|
+|![Portrait](staff/buechner.jpg)         | Prof. Dr. Dipl.-Inform. A. Büchner | Buechner(at)hoerzentrum-hannover.de   |
+
+ 
 
 ---------------------------
 
