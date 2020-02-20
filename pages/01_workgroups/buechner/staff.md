@@ -8,23 +8,23 @@ Prof. Dr. Dipl.-Inform. A. Büchner 		|  Buechner(at)hoerzentrum-hannover.de
 
 **Research Team**
 
-Michael Bardt  Bardt.Michael(at)mh-hannover.de 
+Michael Bardt 			 		| 	Bardt.Michael(at)mh-hannover.de 
 
-Hanna Bönitz Boenitz.Hanna(at)mh-hannover.de
+Hanna Bönitz 			 		| 	Boenitz.Hanna(at)mh-hannover.de
 
-Dr. rer. biol. hum. Karl-Heinz Dyballa
+Karl-Heinz Dyballa, Dr. rer. biol. hum. | 	Dyballa.Karl-Heinz(at)mh-hannover.de
 
-Annette Günther Guenther.Annette(at)mh-hannover.de
+Annette Günther 			 		| 	Guenther.Annette(at)mh-hannover.de
 
-Sven Kliesch Kliesch.Sven(at)mh-hannover.de
+Sven Kliesch 			 		| 	Kliesch.Sven(at)mh-hannover.de
 
-Dr. rer. nat. Eugen Kludt  Kludt.Eugen(at)mh-hannover.de 
+Eugen Kludt, Dr. rer. nat.  			 		| 	Kludt.Eugen(at)mh-hannover.de 
 
-Dr. Timo Leinemann  Leinemann.Timo(at)mh-hannover.de 
+Timo Leinemann, Dr.  			 		| 	Leinemann.Timo(at)mh-hannover.de 
 
-Mark Schüssler Schuessler.Mark(at)mh-hannover.de
+Mark Schüssler 			 		| 	Schuessler.Mark(at)mh-hannover.de
 
-Tobias Weller Weller.Tobias(at)mh-hannover.de
+Tobias Weller 			 		| 	Weller.Tobias(at)mh-hannover.de
 
 
 
