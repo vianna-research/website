@@ -18,7 +18,7 @@ title: Prof. Dr. med. Athanasia Warnecke
 [Immunologisches Zentrum Hannover](https://www.mh-hannover.de/30458.html)
 [ResearchGate](https://www.researchgate.net/profile/Athanasia_Warnecke)
 [DFG](http://gepris.dfg.de/gepris/person/116674265)
-[Hearing4all](http://hearing4all.eu/DE/Organisation/Projektleiter.php)
+[Hearing4all](https://hearing4all.eu/EN/Organisation/Principal-Investigators-H4A2.php)
 [HNO - für Wissenschaftler](https://www.mh-hannover.de/18058.html)
 
 ***
