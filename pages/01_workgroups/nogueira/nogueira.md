@@ -18,7 +18,7 @@ Professor for Auditory Prosthesis
 	Deutsches HörZentrum Hannover
 	Karl-Wiechert-Allee 3
 	30625 Hannover
-	Nogueira(at)mh-hannover.de
+	nogueiravazquez.waldo(at)mh-hannover.de
 
 
 
