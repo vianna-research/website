@@ -1,6 +1,5 @@
 title: Staff
 
-**Head of Work Group**
 - - - 
 
 | Head of Research Group                                   |                                      |
@@ -25,11 +24,11 @@ title: Staff
 
 
 
-**Links**
+***Links***
 
-[Team Forschung DHZ](https://www.hoerzentrum-hannover.de/wir-ueber-uns/team/forschung/)
+**[Team Forschung DHZ](https://www.hoerzentrum-hannover.de/wir-ueber-uns/team/forschung/)**
 
-[Team Ingenieure DHZ](https://www.hoerzentrum-hannover.de/wir-ueber-uns/team/ingenieure/)
+**[Team Ingenieure DHZ](https://www.hoerzentrum-hannover.de/wir-ueber-uns/team/ingenieure/)**
 
 -----------------------------
 
