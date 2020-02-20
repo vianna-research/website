@@ -35,7 +35,7 @@ Since 2003, Prof. Büchner has been the scientific director of the German Hearin
 * **[Initiative Wissenschaften Hannover](https://wissen.hannover.de/Einrichtungen/Medizinische-%C2%ADHochschule-%C2%ADHannover/H%C3%B6ren-f%C3%BCr-alle-Hearing4all)**
 Hearing4all - Exzellente Hörforschung - Im Interview: Prof. Dr. Andreas Büchner, Jun. Prof. Dr. Waldo Nogueira (Quelle: Madsack Medienagentur) 
 
-**[DFG](https://gepris.dfg.de/gepris/person/215993710)**
+* **[DFG](https://gepris.dfg.de/gepris/person/215993710)**
 
 ***
 
