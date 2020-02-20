@@ -3,10 +3,9 @@ title: Prof. Dr.-Ing. Waldo Nogueira
 
 
 
-**Head of Research of the German Hearing Centre Hannover (DHZ)**
 
 
-![](staff/.jpg)
+![Waldo Nogueira](staff/nogueira.jpg)
 
 
 Professor for Auditory Prosthesis 	
