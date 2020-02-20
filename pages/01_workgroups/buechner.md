@@ -1,7 +1,7 @@
 title: Büchner Lab - Signal Processing for Auditory Implants
 ***
 
-# Forschungsthemen: #
+# Research Areas #
 
 ![Deutsches HörZentrum Logo](buechner/dhz_logo.png){style="float:right; margin-left:3em"}
 
