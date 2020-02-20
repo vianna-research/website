@@ -4,7 +4,7 @@ title: Staff
 
 | Head of Research Group                                   |                                      |
 |:------------------------------|:-----------------------|-------------------------------:|
-|![Portrait](staff/buechnerklein.jpg)         | Prof. Dr. Dipl.-Inform. A. Büchner | Buechner(at)hoerzentrum-hannover.de   |
+|![Portrait](staff/buechnerklein.jpg) | Prof. Dr. Dipl.-Inform. A. Büchner | Buechner(at)hoerzentrum-hannover.de   |
 
  
 
@@ -24,9 +24,10 @@ title: Staff
 
 | Cooperating Workgroups                                                                                                      |
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
-|![Portrait](staff/Nogueira.jpg)     Waldo Nogueira, Prof. Dr.-Ing.| Professor for Auditory Prosthesis   |NogueiraVazquez.Waldo(at)mh-hannover.de        |
-|![Portrait](staff/Maier.jpg)	 Hannes Maier, Prof. Dr. phil. nat.| Director MEI-Team
-Professor for „Experimental Audiological Diagnostic“ 	 |  Maier.Hannes(at)mh-hannover.de 	  |
+|![Portrait](staff/Nogueira.jpg)     Waldo Nogueira, Prof. Dr.-Ing.| Professor for Auditory Prosthesis   | 
+NogueiraVazquez.Waldo(at)mh-hannover.de        |
+|![Portrait](staff/Maier.jpg)	 Hannes Maier, Prof. Dr. phil. nat.| Director MEI-Team Professor for „Experimental Audiological Diagnostic“ 	 | 
+Maier.Hannes(at)mh-hannover.de 	  |
 
 
 
