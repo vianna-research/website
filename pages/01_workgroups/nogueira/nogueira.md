@@ -5,7 +5,7 @@ title: Prof. Dr.-Ing. Waldo Nogueira
 
 
 
-![Waldo Nogueira](staff/nogueira.jpg)
+![Waldo Nogueira](staff/Nogueira.jpg)
 
 
 Professor for Auditory Prosthesis 	
