@@ -4,7 +4,7 @@ title: Nogueira Lab - Auditory Prosthetic
 # Research Areas #
 
 ----------
-![Auditory Prosthetic Group](Nogueira/APG_Group_HNO.png){style="float:right; margin-left:3em"}
+![Auditory Prosthetic Group](nogueira/APG_Group_HNO.png){style="float:right; margin-left:3em"}
 
 The Auditory Prosthetic Group of the German Hearing Center, part of the Medical University Hannover conducts research in signal processing and auditory modelling applied to implantable hearing prostheses including cochlear implants and hybrid electroacoustic stimulation devices. The group is very interdisciplinary covering fields of acoustics, signal processing, auditory models and psychophysics.
 
