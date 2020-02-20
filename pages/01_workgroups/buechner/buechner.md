@@ -18,6 +18,7 @@ Since 2003, Prof. Büchner has been the scientific director of the German Hearin
 	Karl-Wiechert-Allee 3
 	30625 Hannover
 	Buechner(at)hoerzentrum-hannover.de
+	Buechner(at)mh-hannover.de
 
 
 
