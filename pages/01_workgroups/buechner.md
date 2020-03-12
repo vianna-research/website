@@ -45,4 +45,4 @@ The group is working on the development of signal processing strategies for coch
     30625 Hannover
     
 
-Buechner(at)hoerzentrum-hannover.de
+Buechner(at)mh-hannover.de
