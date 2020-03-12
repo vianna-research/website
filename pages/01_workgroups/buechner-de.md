@@ -45,4 +45,4 @@ Die Arbeitsgruppe beschäftigt sich mit der Entwicklung von Signalverarbeitungss
     30625 Hannover
     
 
-Buechner(at)hoerzentrum-hannover.de
+Buechner(at)mh-hannover.de
