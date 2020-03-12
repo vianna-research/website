@@ -4,7 +4,7 @@ title: Staff
 
 | Head of Research Group                                   |                                      |
 |:------------------------------|:-----------------------|-------------------------------:|
-|![Portrait](staff/buechnerklein.jpg) | Prof. Dr. Dipl.-Inform. A. Büchner | Buechner(at)hoerzentrum-hannover.de   |
+|![Portrait](staff/buechnerklein.jpg) | Prof. Dr. Dipl.-Inform. A. Büchner | Buechner(at)mh-hannover.de   |
 
  
 
