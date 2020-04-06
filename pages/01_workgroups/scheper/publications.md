@@ -5,7 +5,7 @@ title: Publications
 
 * Yilmaz-Bayraktar S, Schwieger J, **Scheper V**, Lenarz T, Böer U, Kreienmeyer M, Torrente M, Doll T. [Decellularized equine carotid artery layers as matrix for regenerated neurites of spiral ganglion neurons.](https://doi.org/10.1177%2F0391398819868481) Int. J. Art. Organs, 22 August 2019
 
-* **Scheper V**, Schwieger J, Hamm A, Lenarz T,  Hoffmann A. [BDNF-overexpressing human mesenchymal stem cells mediate increased neuronal protection in vitro.](https://authorservices.wiley.com/api/pdf/fullArticle/16512369) J. Neurosci. Res., 30. June 2019
+* **Scheper V**, Schwieger J, Hamm A, Lenarz T,  Hoffmann A. [BDNF-overexpressing human mesenchymal stem cells mediate increased neuronal protection in vitro.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6772136) J. Neurosci. Res., 30. June 2019
 
 * **Scheper V**, Hoffmann A, Gepp M M, Schulz A, Hamm A, Pannier C, Hubka P, Lenarz T, Schwieger J. [Stem Cell Based Drug Delivery for Protection of Auditory Neurons in a Guinea Pig Model of Cochlear Implantation.](https://doi.org/10.3389/fncel.2019.00177) Front. Cell. Neurosci., 14 May 2019
 
