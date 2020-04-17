@@ -42,8 +42,7 @@ If you are interested in this technology, want to join a collaboration for furth
     +49(0)511/532-3025
 
 ### Funding:
-German Research Foundation (DFG, RA 2751/4-1, Title: "Investigation of methods and materials for individually mouldable
-micro-stereotactic frame", since March 1st 2020).
+German Research Foundation (DFG, RA 2751/4-1, Title: "Investigation of methods and materials for individually mouldable micro-stereotactic frame", since March 1st 2020).
 
 Preliminary work was supported by the start-up grant for young researches '[HiLF](https://www.mh-hannover.de/hilf.html)' of Hannover Medical School. 
 
