@@ -17,7 +17,7 @@ Minimally invasive cochlear implant surgery (minCIS) requires appropiate surgica
 
 ![](gluingjig/L1040426_800px.jpg){style="width:220px; float:right; margin-left:1em"} The proposed system should enable the patient specific fabrication of the instrument guide under sterile conditions. It does not require expensive equipment or technical personal. The whole process can be performed by OR staff in few minutes. These are advantages compared to previously developed systems and might facilitate its integration into clinical routine.
 
-<center> ![](gluingjig/L1040405_b_800px.jpg){style="width:250px"}  ![](gluingjig/L1040426_800px.jpg){style="width:280px"} </center> 
+% <center> ![](gluingjig/L1040405_b_800px.jpg){style="width:250px"}  ![](gluingjig/L1040426_800px.jpg){style="width:280px"} </center> 
 
 <center> 
     <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>   <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>   <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>  
