@@ -49,7 +49,7 @@ Preliminary work was supported by the start-up grant for young researches '[HiLF
 
 ### Patents:
 -   European patent granted in 2017 and validated in DE, FR, GB, CH, NL: Rau Th. S., Majdani O., Lenarz T., Kahrs L. A.: _Surgical guidance device and method for its preparation_. **EP 3 058 890 B1.** \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Patent](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=EP000003058890B1&famSearchFromHitlist=1)\].
--   US patent granted in 2019. **US 10,441,377 B2** \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> PAP](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=US000010441377B2&xxxfull=1&famSearchFromHitlist=1)\]. 
+-   US patent granted in 2019. **US 10,441,377 B2** \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Patent](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=US000010441377B2&xxxfull=1&famSearchFromHitlist=1)\]. 
 
 
 ### Further Reading:
