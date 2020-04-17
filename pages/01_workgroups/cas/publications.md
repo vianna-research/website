@@ -1,22 +1,17 @@
 title: Publications
 - - -
-![2020](publications/BannerPaper20209.jpg)
+![2020](publications/BannerPaper2020.jpg)
 
-Previous publications can be found here:
 
-* [**2019**](publications/v2019.html)
-* [**2018**](publications/w2018.html)
-* [**2017**](publications/x2017.html)
-* [**2016**](publications/y2016.html)
-* [**2015**](publications/z2015.html)
+
 
 ### Journal Papers
 
-Coming soon...
+Coming soon... However, most recent publications can be found here: [**2019**](publications/v2019.html)
 
 
 ### Conference Papers
-
+--
 
 ### Posters & Abstracts
 
@@ -26,7 +21,7 @@ Coming soon...
 
 
 ### Patents
-
+--
 
 - - -
 
