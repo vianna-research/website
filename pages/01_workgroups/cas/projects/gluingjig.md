@@ -17,11 +17,7 @@ Minimally invasive cochlear implant surgery (minCIS) requires appropiate surgica
 
 ![](gluingjig/L1040426_800px.jpg){style="width:220px; float:right; margin-left:1em"} The proposed system should enable the patient specific fabrication of the instrument guide under sterile conditions. It does not require expensive equipment or technical personal. The whole process can be performed by OR staff in few minutes. These are advantages compared to previously developed systems and might facilitate its integration into clinical routine.
 
-<center> 
-    <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>   <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>   <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>  
-</center> 
-
-For more information about a first prototype of the GluingJig surgical targeting system please download the flyer provided [here](gluingjig/PosterGluingJig_engl.pdf). A German version of the flyer is available [here](gluingjig/PosterGluingJig_dt.pdf).
+For more information about a first prototype of the GluingJig surgical targeting system please download the [**Flyer**](gluingjig/PosterGluingJig_engl.pdf). A German version of the flyer is available [here](gluingjig/PosterGluingJig_dt.pdf).
 
 - - -
 ### Contact:
