@@ -39,7 +39,7 @@ If you are interested in this technology, want to join a collaboration for furth
 
     Dr.-Ing. Thomas Rau
     rau.thomas@mh-hannover.de
-    +49(0)511/532-3025
+    ++49(0)511/532-3025
 
 ### Funding:
 German Research Foundation (DFG, RA 2751/4-1, Title: "Investigation of methods and materials for individually mouldable micro-stereotactic frame", since March 1st 2020).
