@@ -16,9 +16,9 @@ German Research Foundation (DFG, [RA 2751/1-1](https://gepris.dfg.de/gepris/proj
 ### Contact:
 If your are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
 
-    M. Sc. Nuha Suzaly                      Dr.-Ing. Thomas Rau 	
-    Suzaly.Nuha@mh-hannover.de              rau.thomas@mh-hannover.de
-    +49(0)511/532-7024                      +49(0)511/532-3025
+    Dr.-Ing. Thomas Rau 	
+    rau.thomas@mh-hannover.de
+    ++49(0)511/532-3025
 
  
 ### Further Reading:
