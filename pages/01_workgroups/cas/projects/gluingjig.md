@@ -17,20 +17,11 @@ Minimally invasive cochlear implant surgery (minCIS) requires appropiate surgica
 
 ![](gluingjig/L1040426_800px.jpg){style="width:220px; float:right; margin-left:1em"} The proposed system should enable the patient specific fabrication of the instrument guide under sterile conditions. It does not require expensive equipment or technical personal. The whole process can be performed by OR staff in few minutes. These are advantages compared to previously developed systems and might facilitate its integration into clinical routine.
 
-% <center> ![](gluingjig/L1040405_b_800px.jpg){style="width:250px"}  ![](gluingjig/L1040426_800px.jpg){style="width:280px"} </center> 
-
 <center> 
     <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>   <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>   <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>  
 </center> 
 
-
-![Flyer GluingJig](gluingjig/Fyler_GluingJig_engl.jpg){style="width:100px; float:left; margin-right:1em"}
-
 For more information about a first prototype of the GluingJig surgical targeting system please download the flyer provided [here](gluingjig/PosterGluingJig_engl.pdf). A German version of the flyer is available [here](gluingjig/PosterGluingJig_dt.pdf).
-.
-.
-.
-.
 
 - - -
 ### Contact:
@@ -43,7 +34,7 @@ If you are interested in this technology, want to join a collaboration for furth
 ### Funding:
 German Research Foundation (DFG, RA 2751/4-1, Title: "Investigation of methods and materials for individually mouldable micro-stereotactic frame", since March 1st 2020).
 
-Preliminary work was supported by the start-up grant for young researches '[HiLF](https://www.mh-hannover.de/hilf.html)' of Hannover Medical School. 
+Preliminary work was supported by the start-up grant for young researches '[HiLF](https://www.mh-hannover.de/hilf.html)' of Hannover Medical School (2016-2018). 
 
 ### Patents:
 -   European patent granted in 2017 and validated in DE, FR, GB, CH, NL: Rau Th. S., Majdani O., Lenarz T., Kahrs L. A.: _Surgical guidance device and method for its preparation_. **EP 3 058 890 B1.** \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Patent](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=EP000003058890B1&famSearchFromHitlist=1)\].
