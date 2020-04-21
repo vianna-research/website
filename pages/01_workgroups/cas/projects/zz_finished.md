@@ -6,7 +6,7 @@ Title: Finished Projects
 
 ![EMS](zz_finished/ems/ems.png){style="width:300px"}
 
-**Contact: Dr.-Ing. Thomas Rau | Rau.Thomas@mh-hannover.de**
+
 
 ---
 ## [Akva-Med](zz_finished/akvamed.html)
@@ -15,7 +15,7 @@ Title: Finished Projects
 
 ![FE-Simulation of fluidically actuated implants](zz_finished/akvamed/akvamed3.png){style="width:300px"}
 
-**Contact: Silke Hügl | Huegl.Silke@mh-hannover.de**
+
 
 ---
 ## [Mini-Hexapod](zz_finished/hexapod2.html)
@@ -24,7 +24,7 @@ Title: Finished Projects
 
 ![Gough-Stewart platform (Hexapod) on the skull](zz_finished/hexapod2/hexapod_v02.png)
 
-**Contact: Dr.-Ing. Thomas Rau | Rau.Thomas@mh-hannover.de**
+
 
 
 ---
@@ -34,4 +34,4 @@ Title: Finished Projects
 
 ![FE-Simulation of electrode carrier equipped with actuator from shape-memory-alloy](zz_finished/gentleci/gentleci1.png){style="width:300px"}
 
-**Contact: Silke Hügl | Huegl.Silke@mh-hannover.de**
+
