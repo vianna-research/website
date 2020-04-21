@@ -16,8 +16,8 @@ Coming soon... However, most recent publications can be found here: [**2019**](p
 ### Posters & Abstracts
 
 | ![](publications/EmptyLogo50px.jpg){style="width:50px"} | CI 2020 - 16th International Conference on Cochlear Implants and Other Implantable Auditory Technology, March 18-21, Orlando, CA, US| 
-|   |  CI2020 has been cancelled due to the COVID-19 outbreak. However, we would like to share the poster prepared for the conference with you. | 
 |-:|:------| 
+|   |  _CI2020 has been cancelled due to the COVID-19 outbreak. However, we would like to share the poster prepared for the conference with you._ | 
 | [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](Rau2020_CI2020_Poster.pdf) | Rau Th. S., Hügl S., Spoida B., Scheper V., Ortmaier T., Schwieger J., Lenarz Th. (2020): _A Prototype Setup for 4D Micro-Computed Tomography Imaging of the Intracochlear Movement of Cochlear Implant Electrode Carriers_. |
 
 
