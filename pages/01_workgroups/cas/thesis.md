@@ -1,4 +1,4 @@
-draft
+status: draft
 
 title: Thesis and Internships 
 
