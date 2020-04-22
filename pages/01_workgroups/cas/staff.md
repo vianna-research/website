@@ -7,13 +7,13 @@ title:Staff
 
 | Members																							|||
 |:--|:------------------|:--------------------------------------|
-|| ***Head of Research Group*** ||
+| ***Head of Research Group*** |||
 |![Portrait](staff/Thomas.jpg) | Dr.-Ing. Thomas S. Rau         | rau.thomas@mh-hannover.de   |
-|| ***Research Team*** ||
+| ***Research Team*** |||
 |![Portrait](staff/empty.jpg)  | M. Sc. Julia Kilian             | kilian.julia@mh-hannover.de |
 |![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/geraldine.jpg) | M. Geraldine Zuniga, MD			| zunigaManrique.maria@mh-hannover.de	  |
-|| ***Associated Staff***  ||																	
+| ***Associated Staff***  |||																	
 |![Portrait](staff/empty.jpg) | Dr. Martina Nullmeier	<br> Senior Scientist <br> Cochlear Deutschland GmbH & Co. KG | 
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Physician ENT     		| salcher.rolf@mh-hannover.de|
 |![Portrait](staff/maxt.png) | Max Eike Timm  <br> Assistant Physician ENT    | timm.max@mh-hannover.de |
@@ -53,7 +53,7 @@ title:Staff
 |	                              | Nina Aldag								| Student Research Project, Leibniz University Hannover 	|
 |                          	    | Dr. med. Claas Baier					| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Student Assistant, Leibniz University Hannover     |
-|![Portrait](staff/alexbecker.jpg)| M. Sc. Alexander Becker 				| now: [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/11.html?&no_cache=1&tx_tkinstpersonen_pi1%5Balias%5D=Becker1)|
+|![Portrait](staff/alexbecker.jpg)| Alexander Becker 				| now: [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/11.html?&no_cache=1&tx_tkinstpersonen_pi1%5Balias%5D=Becker1)|
 |![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis, Leibniz University Hannover      |
 |![Portrait](staff/till.jpg) 	    | Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/empty.jpg) 	  | Mehran Heidel 							| Medical Doctoral Thesis, Hannover Medical School	|
@@ -63,8 +63,8 @@ title:Staff
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| now: Assistant Physician Radiology, [Kantonsspital Baden, Schweiz](https://www.kantonsspitalbaden.ch/Fachbereiche/Radiologie/index.html)	|
 |![Portrait](staff/evelynp.png)   | Evelyn Pleger							   	| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral Thesis, Hannover Medical School	|
-|![Portrait](staff/katharina.jpg) | M. Sc. Katharina Rülander				| Internship, Master Thesis							 |
-|![Portrait](staff/henrik.png)	  | M. Sc. Henrik Schädlich				 	| Student Assistant, Master Thesis   |
+|![Portrait](staff/katharina.jpg) | Katharina Rülander				| Internship, Master Thesis							 |
+|![Portrait](staff/henrik.png)	  | Henrik Schädlich				 	| Student Assistant, Master Thesis   |
 |![Portrait](staff/empty.jpg) 	  | Veronika Shmatko						| Bachelor Thesis, Leibniz University Hannover		|
 |![Portrait](staff/empty.jpg) 	  | Katharina Spichal							| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis, Leibniz University Hannover   		|
