@@ -82,6 +82,10 @@ title:Staff
 |![Portrait](staff/empty.jpg) 	| Jan-Niklas Wellers						| Medical Doctoral Thesis, Hannover Medical School  |
 |![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project, Leibniz University Hannover  |
 |![Portrait](staff/empty.jpg) 	  | Dr. med. Waldemar Würfel				| Medical Doctoral Thesis, Hannover Medical School	|
+
+
+| Members																							|
+|:------------------------------|:------------------------------|--------------------------------------:|
 | ***Head of Research Group*** |||
 |![Portrait](staff/empty.jpg)         | Dr.-Ing. Thomas S. Rau | Rau.Thomas@mh-hannover.de   |
 | ***Research Team*** |||
