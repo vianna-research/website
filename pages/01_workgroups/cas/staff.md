@@ -13,7 +13,7 @@ title:Staff
 |![Portrait](staff/empty.jpg)  | M. Sc. Julia Kilian             | kilian.julia@mh-hannover.de |
 |![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/geraldine.jpg) | M. Geraldine Zuniga, MD			| zunigaManrique.maria@mh-hannover.de	  |
-|| ***Associated Staff***  ||																	|
+|| ***Associated Staff***  ||																	
 |![Portrait](staff/empty.jpg) | Dr. Martina Nullmeier					| Research Engineer Implants |
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Physician ENT     		| salcher.rolf@mh-hannover.de|
 |![Portrait](staff/maxt.png) | Max Eike Timm  <br> Assistant Physician ENT    | timm.max@mh-hannover.de |
