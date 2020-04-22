@@ -43,30 +43,29 @@ title:Staff
 |![Portrait](staff/nuha.jpg) 	  | M. Sc. Nuha Suzaly			   			        |     	|
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | now: [Implandata Ophthalmic Products GmbH (Hannover)](http://www.implandata.com) |
 
-
-| Alumni                                                                                            |
-|:------------------------------|:-------------------------------------------|--------------------------------------:|
-|	                              | Nina Aldag								| Student Research Project, Leibniz University Hannover 	|
-|                          	    | Dr. med. Claas Baier					| Medical Doctorate  Thesis, Hannover Medical School	|
-|![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Student Assistant, Leibniz University Hannover     |
-|![Portrait](staff/alexbecker.jpg)| Alexander Becker 				| now: [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/11.html?&no_cache=1&tx_tkinstpersonen_pi1%5Balias%5D=Becker1)|
-|![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis, Leibniz University Hannover      |
-|![Portrait](staff/till.jpg) 	    | Till Gerking								| Medical Doctorate  Thesis, Hannover Medical School	|
-|![Portrait](staff/empty.jpg) 	  | Mehran Heidel 							| Medical Doctorate  Thesis, Hannover Medical School	|
-|![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis, Leibniz University Hannover   		|
-|![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project, Leibniz University Hannover  |
-|![Portrait](staff/empty.jpg) 	  | Tobias Krail								| Master Thesis, Leibniz University Hannover      |
-|![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| now: Assistant Physician Radiology, [Kantonsspital Baden, Schweiz](https://www.kantonsspitalbaden.ch/Fachbereiche/Radiologie/index.html)	|
-|![Portrait](staff/evelynp.png)   | Evelyn Pleger							   	| Medical Doctorate  Thesis, Hannover Medical School	|
-|![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctorate  Thesis, Hannover Medical School	|
+| Alumni |||
+|:--|:------------------|:--------------------------------------|     
+|	                              | Nina Aldag								| Student Research Project |
+|                          	    | Dr. med. Claas Baier					| Medical Doctorate Thesis |
+|![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Student Assistant  |
+|![Portrait](staff/alexbecker.jpg)| Alexander Becker 				|  Master Thesis|
+|![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis    |
+|![Portrait](staff/till.jpg) 	    | Till Gerking								| Medical Doctorate Thesis|
+|                              	  | Mehran Heidel 							| Medical Doctorate Thesis	|
+|![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis	|
+|![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project |
+|                             	  | Tobias Krail								| Master Thesis    |
+|![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| Medical Doctorate Thesis	|
+|![Portrait](staff/evelynp.png)   | Evelyn Pleger							   	| Medical Doctorate  Thesis|
+|![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctorate  Thesis	|
 |![Portrait](staff/katharina.jpg) | Katharina Rülander				| Internship, Master Thesis							 |
 |![Portrait](staff/henrik.png)	  | Henrik Schädlich				 	| Student Assistant, Master Thesis   |
-|![Portrait](staff/empty.jpg) 	  | Veronika Shmatko						| Bachelor Thesis, Leibniz University Hannover		|
-|![Portrait](staff/empty.jpg) 	  | Katharina Spichal							| Medical Doctorate  Thesis, Hannover Medical School	|
-|![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis, Leibniz University Hannover   		|
-|![Portrait](staff/lea.png)		    | Lea Uhlenbusch 							| Bachelor Thesis, Leibniz University Hannover      |
-|![Portrait](staff/empty.jpg) 	| Jan-Niklas Wellers						| Medical Doctorate  Thesis, Hannover Medical School  |
-|![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project, Leibniz University Hannover  |
-|![Portrait](staff/empty.jpg) 	  | Dr. med. Waldemar Würfel				| Medical Doctorate  Thesis, Hannover Medical School	|
+|                             	  | Veronika Shmatko						| Bachelor Thesis, 	|
+|                             	  | Katharina Spichal							| Medical Doctorate Thesis	|
+|![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis 		|
+|![Portrait](staff/lea.png)		    | Lea Uhlenbusch 							| Bachelor Thesis |
+|                               	| Jan-Niklas Wellers						| Medical Doctorate Thesis |
+|![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project  |
+|![Portrait](staff/empty.jpg) 	  | Dr. med. Waldemar Würfel				| Medical Doctorate  Thesis	|
 
 
