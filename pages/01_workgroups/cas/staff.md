@@ -5,26 +5,18 @@ title:Staff
 - - - 
 
 
-| Head of Research Group                                   |                                      |
-|:------------------------------|:-----------------------|-------------------------------:|
-|![Portrait](staff/Thomas.jpg)         | Dr.-Ing. Thomas S. Rau | Rau.Thomas@mh-hannover.de   |
-
-
-| Research Team                                                                                                      |
-|:------------------------------|:----------------------------------------------|--------------------------------------:|
-|![Portrait](staff/empty.jpg)  | M. Sc. Julia Kilian                       | Kilian.Julia@mh-hannover.de |
-|![Portrait](staff/Omid.jpg)    | Prof. Dr. Omid Majdani                     | Majdani.Omid@mh-hannover.de        |
-|![Portrait](staff/geraldine.jpg)	| Dr. M. Geraldine Zuniga					 | ZunigaManrique.Maria@mh-hannover.de	  |
-
-
-
-
-
-| Associated Staff																	|
-|:------------------------------|:------------------------------|-------------------------------------------------:|
-|![Portrait](staff/empty.jpg) | Dr. Martina Nullmeier					| Research Engineer Implants, [Cochlear Deutschland](http://www.cochlear.de)|
-|![Portrait](staff/rolf.jpg) | Dr. Rolf Salcher                   		| Senior Physician, Hannover Medical School|
-|![Portrait](staff/maxt.png) | Max Eike Timm     						| Assistant Physician, Hannover Medical School|
+| Members of Research Group																							||
+|:------------------------|:--------------------------------------|
+|***Head of Research Group*** |  |
+|![Portrait](staff/Thomas.jpg) Dr.-Ing. Thomas S. Rau         | Rau.Thomas@mh-hannover.de   |
+|***Research Team*** ||
+|![Portrait](staff/empty.jpg) M. Sc. Julia Kilian             | Kilian.Julia@mh-hannover.de |
+|![Portrait](staff/Omid.jpg) Prof. Dr. Omid Majdani           | Majdani.Omid@mh-hannover.de        |
+|![Portrait](staff/geraldine.jpg) M. Geraldine Zuniga, MD			| ZunigaManrique.Maria@mh-hannover.de	  |
+| ***Associated Staff*** ||																	|
+|![Portrait](staff/empty.jpg) Dr. Martina Nullmeier					| Research Engineer Implants, [Cochlear Deutschland](http://www.cochlear.de)|
+|![Portrait](staff/rolf.jpg) Dr. med. Rolf Salcher                   		| Senior Physician, Hannover Medical School|
+|![Portrait](staff/maxt.png) Max Eike Timm     						| Assistant Physician, Hannover Medical School|
 
 
 
@@ -84,11 +76,3 @@ title:Staff
 |![Portrait](staff/empty.jpg) 	  | Dr. med. Waldemar Würfel				| Medical Doctoral Thesis, Hannover Medical School	|
 
 
-| Members of Research Group																							||
-|:------------------------|:--------------------------------------|
-|***Head of Research Group*** |  |
-|![Portrait](staff/Thomas.jpg) Dr.-Ing. Thomas S. Rau         | Rau.Thomas@mh-hannover.de   |
-|***Research Team*** |||
-|![Portrait](staff/empty.jpg) M. Sc. Julia Kilian             | Kilian.Julia@mh-hannover.de |
-|![Portrait](staff/Omid.jpg) Prof. Dr. Omid Majdani           | Majdani.Omid@mh-hannover.de        |
-|![Portrait](staff/geraldine.jpg) M. Geraldine Zuniga, MD			| ZunigaManrique.Maria@mh-hannover.de	  |
