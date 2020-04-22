@@ -17,7 +17,7 @@ title:Staff
 |![Portrait](staff/empty.jpg) | Dr. Martina Nullmeier	<br> Senior Scientist <br> Cochlear Deutschland GmbH & Co. KG | mnullmeier@cochlear.com |
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Physician ENT     		| salcher.rolf@mh-hannover.de|
 |![Portrait](staff/maxt.png) | Max Eike Timm  <br> Assistant Physician ENT    | timm.max@mh-hannover.de |
-| ***Students*** |||                                                                                             |
+| ***Students*** | - - - ||                                                                                             |
 |![Portrait](staff/empty.jpg) 	| Shari Barati								| Medical Doctorate Thesis |
 |![Portrait](staff/tobias.png) 	| Tobias Blum 								| Student Assistant |
 |![Portrait](staff/empty.jpg) 	| Tim Ehmann                  | Master Thesis |
@@ -31,18 +31,17 @@ title:Staff
 
 
 
-| Former Staff																							|
-|:------------------------------|:------------------------------|--------------------------------------:|
-|![Portrait](staff/empty.jpg)  	| M. Sc. Silke Hügl                			 | now: [Vector Informatik GmbH](https://www.vector.com/de/de/) 	|
-|![Portrait](staff/nuha.jpg) 	  | M. Sc. Nuha Suzaly			   			 |     	|
-|![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow (11/2011 - 03/2018) | now: [Part Time Scientists (Berlin)](https://ptscientists.com/)         |
-|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                   | now: [Implandata Ophthalmic Products GmbH (Hannover)](http://www.implandata.com) |
-|![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge (11/2014 - 07/2017)	| now: [OtoJig GmbH (Hannover)](http://www.otojig.com/)  |
-|![Portrait](staff/daniel.png)  | Dr.-Ing. Daniel Schurzig  (04/2014 - 08/2015) | now: [MED-EL Deutschland (Hannover)](www.medel.com) |
-|![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach  (12/2012 - 06/2014) | now: [Bertrandt AG](https://www.bertrandt.com/)                          				|
-|![Portrait](staff/empty.jpg)    | Dipl.-Ing. (FH) Franziska Eckhardt  (09/2010 - 12/2012)|                           		|
-|![Portrait](staff/empty.jpg)    | M. Sc. Priyant Mane  (05/2010 - 05/2012)   |  |
-
+| Former Staff |||
+|:--|:------------------|:--------------------------------------|               				
+|![Portrait](staff/empty.jpg)    | Dipl.-Ing. (FH) Franziska Eckhardt     |  |
+|![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | now: [Bertrandt AG](https://www.bertrandt.com/) |
+|![Portrait](staff/empty.jpg)  	| M. Sc. Silke Hügl                			  | now: [Vector Informatik GmbH](https://www.vector.com/de/de/) 	|
+|![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH (Hannover)](http://www.otojig.com/)  |
+|![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow                  | now: [Part Time Scientists (Berlin)](https://ptscientists.com/)         |
+|![Portrait](staff/empty.jpg)    | M. Sc. Priyant Mane                    |  |
+|![Portrait](staff/daniel.png)  | Dr.-Ing. Daniel Schurzig                | now: [MED-EL Deutschland (Hannover)](www.medel.com) |
+|![Portrait](staff/nuha.jpg) 	  | M. Sc. Nuha Suzaly			   			        |     	|
+|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | now: [Implandata Ophthalmic Products GmbH (Hannover)](http://www.implandata.com) |
 
 
 | Alumni                                                                                            |
