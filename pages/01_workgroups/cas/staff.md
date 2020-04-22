@@ -86,11 +86,11 @@ title:Staff
 
 
 
-| Members of the Research Group                                       |||
-|:------------------------------|:-----------------------|-------------------------------:|
-| Head of Research Group |||
+| Members of the Research Group                                    |||
+|:---------|:-----------------------|:-------------------------------|
+| ***Head of Research Group*** |||
 |![Portrait](staff/Thomas.jpg)         | Dr.-Ing. Thomas S. Rau | Rau.Thomas@mh-hannover.de   |
-| Research Team |||
+| ***Research Team*** |||
 |![Portrait](staff/empty.jpg)  | M. Sc. Julia Kilian                       | Kilian.Julia@mh-hannover.de |
 |![Portrait](staff/Omid.jpg)    | Prof. Dr. Omid Majdani                     | Majdani.Omid@mh-hannover.de        |
 |![Portrait](staff/geraldine.jpg)	| Dr. M. Geraldine Zuniga					 | ZunigaManrique.Maria@mh-hannover.de	  |
