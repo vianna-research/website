@@ -12,7 +12,7 @@ title:Staff
 | ***Research Team*** |
 |![Portrait](staff/empty.jpg)  | M. Sc. Julia Kilian             | kilian.julia@mh-hannover.de |
 |![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
-|![Portrait](staff/geraldine.jpg) | M. Geraldine Zuniga, MD			| zunigaManrique.maria@mh-hannover.de	  |
+|![Portrait](staff/geraldine.jpg) | M. Geraldine Zuniga, MD			| zunigamanrique.maria@mh-hannover.de	  |
 | ***Associated Staff***  |																
 |![Portrait](staff/empty.jpg) | Dr. Martina Nullmeier	<br> Senior Scientist <br> Cochlear Deutschland GmbH & Co. KG | 
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Physician ENT     		| salcher.rolf@mh-hannover.de|
