@@ -6,7 +6,7 @@ title:Staff
 
 
 | Members |||
-|:--|:------------------|:--------------------------------------|
+|:--|:----------------------|:--------------------------------------|
 | ***Head of Research Group*** |||
 |![Portrait](staff/Thomas.jpg) | Dr.-Ing. Thomas S. Rau         | rau.thomas@mh-hannover.de   |
 | ***Research Team*** |||
@@ -17,7 +17,7 @@ title:Staff
 |![Portrait](staff/empty.jpg) | Dr. Martina Nullmeier	<br> Senior Scientist <br> Cochlear Deutschland GmbH & Co. KG | mnullmeier@cochlear.com |
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Physician ENT     		| salcher.rolf@mh-hannover.de|
 |![Portrait](staff/maxt.png) | Max Eike Timm  <br> Assistant Physician ENT    | timm.max@mh-hannover.de |
-| ***Students*** | - - - ||                                                                                             |
+| ***Students*** |||                                                                                             |
 |![Portrait](staff/empty.jpg) 	| Shari Barati								| Medical Doctorate Thesis |
 |![Portrait](staff/tobias.png) 	| Tobias Blum 								| Student Assistant |
 |![Portrait](staff/empty.jpg) 	| Tim Ehmann                  | Master Thesis |
@@ -66,6 +66,6 @@ title:Staff
 |![Portrait](staff/lea.png)		    | Lea Uhlenbusch 							| Bachelor Thesis |
 |                               	| Jan-Niklas Wellers						| Medical Doctorate Thesis |
 |![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project  |
-|![Portrait](staff/empty.jpg) 	  | Dr. med. Waldemar Würfel				| Medical Doctorate  Thesis	|
+|                             	  | Dr. med. Waldemar Würfel				| Medical Doctorate  Thesis	|
 
 
