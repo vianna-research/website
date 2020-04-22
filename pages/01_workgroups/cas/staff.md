@@ -17,20 +17,17 @@ title:Staff
 |![Portrait](staff/empty.jpg) | Dr. Martina Nullmeier	<br> Senior Scientist <br> Cochlear Deutschland GmbH & Co. KG | mnullmeier@cochlear.com |
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Physician ENT     		| salcher.rolf@mh-hannover.de|
 |![Portrait](staff/maxt.png) | Max Eike Timm  <br> Assistant Physician ENT    | timm.max@mh-hannover.de |
-
-
-| Students                                                                                             |
-|:------------------------------|:------------------------------|-------------------------------------------------:|
-|![Portrait](staff/empty.jpg) 	| Shari Barati								| Medical Doctoral Thesis, Hannover Medical School 	|
-|![Portrait](staff/tobias.png) 	| Tobias Blum 								| Student Assistant, Leibniz University Hannover      |
-|![Portrait](staff/empty.jpg) 	| Tim Ehmann                  | Master Thesis, Leibniz University Hannover |
+| ***Students*** |||                                                                                             |
+|![Portrait](staff/empty.jpg) 	| Shari Barati								| Medical Doctorate Thesis |
+|![Portrait](staff/tobias.png) 	| Tobias Blum 								| Student Assistant |
+|![Portrait](staff/empty.jpg) 	| Tim Ehmann                  | Master Thesis |
 |![Portrait](staff/empty.jpg) 	| Malte Freiknecht            | Student Research Project |
-|![Portrait](staff/lena.jpg)	| Lena Geiger								| Student Assistant, Hannover Medical School		| 
-|![Portrait](staff/empty.jpg) 	| Clemens Griemsmann						| Student Assistant, Leibniz University Hannover      |
-|![Portrait](staff/empty.jpg)	| Jan Mairose								| Student Assistant, Leibniz University Hannover 	| 
-|![Portrait](staff/christianm.png)| Christian Menke							| Medical Doctoral Thesis, Hannover Medical School	|
-|![Portrait](staff/empty.jpg)   | Timo Stauß                  | Bachelor Thesis, Leibniz University Hannover | 
-|![Portrait](staff/empty.jpg) 	| Sina Witte 				    			| Medical Doctoral Thesis, Hannover Medical School  |
+|![Portrait](staff/lena.jpg)	  | Lena Geiger								  | Student Assistant | 
+|![Portrait](staff/empty.jpg) 	| Clemens Griemsmann					| Student Assistant |
+|![Portrait](staff/empty.jpg)	  | Jan Mairose								  | Student Assistant	| 
+|![Portrait](staff/christianm.png)| Christian Menke						| Medical Doctorate Thesis |
+|![Portrait](staff/empty.jpg)   | Timo Stauß                  | Bachelor Thesis | 
+|![Portrait](staff/empty.jpg) 	| Sina Witte 				    			| Medical Doctorate Thesis |
 
 
 
@@ -51,26 +48,26 @@ title:Staff
 | Alumni                                                                                            |
 |:------------------------------|:-------------------------------------------|--------------------------------------:|
 |	                              | Nina Aldag								| Student Research Project, Leibniz University Hannover 	|
-|                          	    | Dr. med. Claas Baier					| Medical Doctoral Thesis, Hannover Medical School	|
+|                          	    | Dr. med. Claas Baier					| Medical Doctorate  Thesis, Hannover Medical School	|
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Student Assistant, Leibniz University Hannover     |
 |![Portrait](staff/alexbecker.jpg)| Alexander Becker 				| now: [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/11.html?&no_cache=1&tx_tkinstpersonen_pi1%5Balias%5D=Becker1)|
 |![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis, Leibniz University Hannover      |
-|![Portrait](staff/till.jpg) 	    | Till Gerking								| Medical Doctoral Thesis, Hannover Medical School	|
-|![Portrait](staff/empty.jpg) 	  | Mehran Heidel 							| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/till.jpg) 	    | Till Gerking								| Medical Doctorate  Thesis, Hannover Medical School	|
+|![Portrait](staff/empty.jpg) 	  | Mehran Heidel 							| Medical Doctorate  Thesis, Hannover Medical School	|
 |![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis, Leibniz University Hannover   		|
 |![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project, Leibniz University Hannover  |
 |![Portrait](staff/empty.jpg) 	  | Tobias Krail								| Master Thesis, Leibniz University Hannover      |
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| now: Assistant Physician Radiology, [Kantonsspital Baden, Schweiz](https://www.kantonsspitalbaden.ch/Fachbereiche/Radiologie/index.html)	|
-|![Portrait](staff/evelynp.png)   | Evelyn Pleger							   	| Medical Doctoral Thesis, Hannover Medical School	|
-|![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/evelynp.png)   | Evelyn Pleger							   	| Medical Doctorate  Thesis, Hannover Medical School	|
+|![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctorate  Thesis, Hannover Medical School	|
 |![Portrait](staff/katharina.jpg) | Katharina Rülander				| Internship, Master Thesis							 |
 |![Portrait](staff/henrik.png)	  | Henrik Schädlich				 	| Student Assistant, Master Thesis   |
 |![Portrait](staff/empty.jpg) 	  | Veronika Shmatko						| Bachelor Thesis, Leibniz University Hannover		|
-|![Portrait](staff/empty.jpg) 	  | Katharina Spichal							| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/empty.jpg) 	  | Katharina Spichal							| Medical Doctorate  Thesis, Hannover Medical School	|
 |![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis, Leibniz University Hannover   		|
 |![Portrait](staff/lea.png)		    | Lea Uhlenbusch 							| Bachelor Thesis, Leibniz University Hannover      |
-|![Portrait](staff/empty.jpg) 	| Jan-Niklas Wellers						| Medical Doctoral Thesis, Hannover Medical School  |
+|![Portrait](staff/empty.jpg) 	| Jan-Niklas Wellers						| Medical Doctorate  Thesis, Hannover Medical School  |
 |![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project, Leibniz University Hannover  |
-|![Portrait](staff/empty.jpg) 	  | Dr. med. Waldemar Würfel				| Medical Doctoral Thesis, Hannover Medical School	|
+|![Portrait](staff/empty.jpg) 	  | Dr. med. Waldemar Würfel				| Medical Doctorate  Thesis, Hannover Medical School	|
 
 
