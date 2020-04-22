@@ -60,8 +60,8 @@ title:Staff
 
 | Alumni                                                                                            |
 |:------------------------------|:-------------------------------------------|--------------------------------------:|
-|![Portrait](staff/empty.jpg) 	| Nina Aldag								| Student Research Project, Leibniz University Hannover 	|
-|![Portrait](staff/empty.jpg) 	  | Dr. med. Claas Baier					| Medical Doctoral Thesis, Hannover Medical School	|
+|	                              | Nina Aldag								| Student Research Project, Leibniz University Hannover 	|
+|                          	    | Dr. med. Claas Baier					| Medical Doctoral Thesis, Hannover Medical School	|
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Student Assistant, Leibniz University Hannover     |
 |![Portrait](staff/alexbecker.jpg)| M. Sc. Alexander Becker 				| now: [Institut für Mehrphasenprozesse (IMP), LUH](https://www.imp.uni-hannover.de/11.html?&no_cache=1&tx_tkinstpersonen_pi1%5Balias%5D=Becker1)|
 |![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis, Leibniz University Hannover      |
