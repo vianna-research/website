@@ -84,7 +84,7 @@ title:Staff
 |![Portrait](staff/empty.jpg) 	  | Dr. med. Waldemar Würfel				| Medical Doctoral Thesis, Hannover Medical School	|
 
 
-| Members of Research Group																							|||
+| Members of Research Group																							|
 |:------------------------------|:------------------------------|:--------------------------------------|
 |![Portrait](staff/empty.jpg)         | Dr.-Ing. Thomas S. Rau | Rau.Thomas@mh-hannover.de   |
 |![Portrait](staff/empty.jpg)  | M. Sc. Julia Kilian                       | Kilian.Julia@mh-hannover.de |
