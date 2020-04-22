@@ -5,7 +5,7 @@ title:Staff
 - - - 
 
 
-| Members																							|||
+| Members |||
 |:--|:------------------|:--------------------------------------|
 | ***Head of Research Group*** |||
 |![Portrait](staff/Thomas.jpg) | Dr.-Ing. Thomas S. Rau         | rau.thomas@mh-hannover.de   |
