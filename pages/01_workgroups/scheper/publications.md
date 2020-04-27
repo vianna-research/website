@@ -1,5 +1,8 @@
 title: Publications
 
+## 2020
+* Schwieger J, Hamm A,Gepp M M, Schulz A, Hoffmann A, Lenarz T. **Scheper V** [Alginate-encapsulated brain-derived neurotrophic factor–overexpressing mesenchymal stem cells are a promising drug delivery system for protection of auditory neurons] (https://journals.sagepub.com/doi/10.1177/2041731420911313) J. of Tissue Engineering, 17 April 2020
+
 ## 2019
 * Förster CY, **Scheper V**, Lenarz T. [Hearing loss and strial microvascular pathology-towards unravelling the functional contribution of the blood-labyrinth barrier.](https://www.oatext.com/hearing-loss-and-strial-microvascular-pathology-towards-unravelling-the-functional-contribution-of-the-blood-labyrinth-barrier.php#Article) Otorhinolaryngol Head Neck Surg, 25 November 2019
 
