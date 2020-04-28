@@ -1,16 +1,16 @@
 title: Publications
 
 ## 2020
-* Schwieger J, Hamm A,Gepp M M, Schulz A, Hoffmann A, Lenarz T. **Scheper V** [Alginate-encapsulated brain-derived neurotrophic factor–overexpressing mesenchymal stem cells are a promising drug delivery system for protection of auditory neurons .](https://journals.sagepub.com/doi/10.1177/2041731420911313) J. Tissue Eng. 11, 17 April 2020
+* Schwieger J, Hamm A,Gepp M M, Schulz A, Hoffmann A, Lenarz T. **Scheper V** [Alginate-encapsulated brain-derived neurotrophic factor–overexpressing mesenchymal stem cells are a promising drug delivery system for protection of auditory neurons .](https://journals.sagepub.com/doi/10.1177/2041731420911313) J. Tissue Eng. 11, 2020 April 17.
 
 ## 2019
-* Förster CY, **Scheper V**, Lenarz T. [Hearing loss and strial microvascular pathology-towards unravelling the functional contribution of the blood-labyrinth barrier.](https://www.oatext.com/hearing-loss-and-strial-microvascular-pathology-towards-unravelling-the-functional-contribution-of-the-blood-labyrinth-barrier.php#Article) Otorhinolaryngol Head Neck Surg, 25 November 2019
+* Förster CY, **Scheper V**, Lenarz T. [Hearing loss and strial microvascular pathology-towards unravelling the functional contribution of the blood-labyrinth barrier.](https://www.oatext.com/hearing-loss-and-strial-microvascular-pathology-towards-unravelling-the-functional-contribution-of-the-blood-labyrinth-barrier.php#Article) Otorhinolaryngol Head Neck Surg, 2019 November 25.
 
-* Yilmaz-Bayraktar S, Schwieger J, **Scheper V**, Lenarz T, Böer U, Kreienmeyer M, Torrente M, Doll T. [Decellularized equine carotid artery layers as matrix for regenerated neurites of spiral ganglion neurons.](https://doi.org/10.1177%2F0391398819868481) Int. J. Art. Organs, 22 August 2019
+* Yilmaz-Bayraktar S, Schwieger J, **Scheper V**, Lenarz T, Böer U, Kreienmeyer M, Torrente M, Doll T. [Decellularized equine carotid artery layers as matrix for regenerated neurites of spiral ganglion neurons.](https://doi.org/10.1177%2F0391398819868481) Int. J. Art. Organs, 2019 August 22.
 
-* **Scheper V**, Schwieger J, Hamm A, Lenarz T,  Hoffmann A. [BDNF-overexpressing human mesenchymal stem cells mediate increased neuronal protection in vitro.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6772136) J. Neurosci. Res., 30. June 2019
+* **Scheper V**, Schwieger J, Hamm A, Lenarz T,  Hoffmann A. [BDNF-overexpressing human mesenchymal stem cells mediate increased neuronal protection in vitro.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6772136) J. Neurosci. Res., 2019 June 30.
 
-* **Scheper V**, Hoffmann A, Gepp M M, Schulz A, Hamm A, Pannier C, Hubka P, Lenarz T, Schwieger J. [Stem Cell Based Drug Delivery for Protection of Auditory Neurons in a Guinea Pig Model of Cochlear Implantation.](https://doi.org/10.3389/fncel.2019.00177) Front. Cell. Neurosci., 14 May 2019
+* **Scheper V**, Hoffmann A, Gepp M M, Schulz A, Hamm A, Pannier C, Hubka P, Lenarz T, Schwieger J. [Stem Cell Based Drug Delivery for Protection of Auditory Neurons in a Guinea Pig Model of Cochlear Implantation.](https://doi.org/10.3389/fncel.2019.00177) Front. Cell. Neurosci., 2019 May 14.
 
 * Hügl S, **Scheper V**, Gepp M M, Lenarz Th, Rau Th S, Schwieger J. [Coating stability and insertion forces of an alginate-cell-based drug delivery implant system for the inner ear.](https://www.sciencedirect.com/science/article/pii/S1751616118317259) J Mech Behav Biomed Mater. doi: 10.1016/j.jmbbm.2019.05.007. Epub 2019 May 4.
 
