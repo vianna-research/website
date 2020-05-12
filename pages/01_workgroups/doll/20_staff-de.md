@@ -32,19 +32,15 @@ title: Mitarbeiter
 |Studenten||
 |-----------|-------------|
 |Hammad Ayman Akl | HiWi|
-|Yuyang Mao | Masterarbeit|
-|Hui Yu| Studienarbeit|
-|Svenja Schudak| Studienarbeit|
-|Alexander Schulze-Finkenbrink| Bachelorarbeit|
-|Adrian Onken| Masterarbeit|
 |Lucia Badde| Masterarbeit|
 |Lennart Guntenhöner | Medizinische Doktorarbeit|
 |Wai-Lun Hui| Masterarbeit|
 |Malte Kluth| Masterarbeit|
 |Shuang Liang| Studienarbeit|
+|Yuyang Mao | Masterarbeit|
+|Adrian Onken| Masterarbeit|
 |Henry Rake| Bachelorarbeit|
+|Svenja Schudak| Studienarbeit|
+|Alexander Schulze-Finkenbrink| Bachelorarbeit|
 |Michelle Wirsum| Bachelorarbeit|
-
-
-
-
+|Hui Yu| Studienarbeit|
