@@ -30,17 +30,20 @@ title: Staff
 
 |Students||
 |-----------|-------------|
-|Hammad Ayman Akl |HiWi|
-|Yuyang Mao| HiWi|
-|Kaan Eren Paca| HiWi|
-|Florian Schröder | HiWi|
-|Hui Yu| Student research project|
-|Svenja Schudak| Student research project|
-|Alexander Schulze-Finkenbrink|Bachelor Thesis|
-|Adrian Onken| Master Thesis|
-|Rajalakshmi Veeraraghavan|Master Thesis|
+|Hammad Ayman Akl | HiWi|
 |Lucia Badde| Master Thesis|
 |Lennart Guntenhöner | Medical Doctoral Thesis|
+|Wai-Lun Hui| Master Thesis|
+|Malte Kluth| Master Thesis|
+|Shuang Liang| Student research project|
+|Yuyang Mao | Master Thesis|
+|Adrian Onken| Master Thesis|
+|Henry Rake| Bachelor Thesis|
+|Svenja Schudak| Student research project|
+|Alexander Schulze-Finkenbrink| Bachelor Thesis|
+|Michelle Wirsum| Bachelor Thesis|
+|Hui Yu| Student research project|
+
 
 
 
