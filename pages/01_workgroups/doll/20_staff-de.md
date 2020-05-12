@@ -33,11 +33,11 @@ title: Mitarbeiter
 
 |Studenten||
 |-----------|-------------|
-|Hammad Ayman Akl |HiWi|
+|Hammad Ayman Akl | HiWi|
 |Yuyang Mao | Masterarbeit|
 |Hui Yu| Studienarbeit|
 |Svenja Schudak| Studienarbeit|
-|Alexander Schulze-Finkenbrink|Bachelorarbeit|
+|Alexander Schulze-Finkenbrink| Bachelorarbeit|
 |Adrian Onken| Masterarbeit|
 |Lucia Badde| Masterarbeit|
 |Lennart Guntenhöner | Medizinische Doktorarbeit|
