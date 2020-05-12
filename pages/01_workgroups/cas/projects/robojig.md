@@ -1,5 +1,4 @@
-Title: RoboJig
-status: draft
+Title: RoboJig2
 
 - - -
 
