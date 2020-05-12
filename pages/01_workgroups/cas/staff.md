@@ -22,7 +22,7 @@ title:Staff
 |![Portrait](staff/tobias.png) 	| Tobias Blum 								| Student Assistant |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis |
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
-|![Portrait](staff/lena.jpg)	  | Lena Geiger								  | Student Assistant | 
+|![Portrait](staff/lena.jpg)	  | Lena Geiger								  | Medical Doctorate Thesis  | 
 |![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
 |![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	  | Jan Mairose								  | Student Assistant	| 
 |![Portrait](staff/christianm.png)| Christian Menke						| Medical Doctorate Thesis |
