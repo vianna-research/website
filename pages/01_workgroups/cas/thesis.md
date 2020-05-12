@@ -21,7 +21,7 @@ Please always include your CV and a current overview of grades / performance rep
 <div class="row">
   <div class="col-xs-6 col-md-3">
     <a href="#" class="thumbnail">
-      <img src="..." alt="...">
+      <img src="staff/IMG_3601_Kopie.jpg">
     </a>
   </div>
   ...
