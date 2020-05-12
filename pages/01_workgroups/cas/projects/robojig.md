@@ -32,7 +32,7 @@ If your are interested in RoboJig/OtoJig technology, want to join a collaboratio
 
 ### Patents:
 -   European patent granted in 2018: Lenarz Th., Rau Th. S., Majdani O., Ortmaier T., Kobler J.-P., Kluge M., John S.: _Positioning Aid for Surgical Interventions_. **EP 3 128 942 B1** \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Patent](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=EP000003128942B1&xxxfull=1)\].
-- also: **AU 2015398417 B2** \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Patent](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=AU002015398417B2&xxxfull=1&famSearchFromHitlist=1)\], **WO 2016/198032 A1** \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Patent](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=WO002016198032A1&xxxfull=1&famSearchFromHitlist=1)\]; **US 2018/0110568 A1**, **DE 11 2015 000 447 A5**
+- also: **AU 2015398417 B2** \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Patent](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=AU002015398417B2&xxxfull=1&famSearchFromHitlist=1)\], **WO 2016/198032 A1** \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span>](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=WO002016198032A1&xxxfull=1&famSearchFromHitlist=1)\]; **US 2018/0110568 A1**, **DE 11 2015 000 447 A5**
 
 
 - - -
