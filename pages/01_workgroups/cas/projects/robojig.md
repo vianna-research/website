@@ -5,22 +5,22 @@ Title: RoboJig2
 # Toward fully minimally invasive cochlear implant surgery
 
 ### Summary
-Several years ago we came up with the idea of a new micro-stereotactic targeting system to enable image-guided, minimally-invasive cochlear implant surgery. The development was driven by the aim to enable patient-specific fabrication during the surgery uder sterile conditions. Therefore we had to simplify the customization procedure in comparison to previously introduced concepts (e.g. StarFix, Microtable). The proposed system consists of a reusable, bone-anchored frame and a customized drilling jig. Only one single counterbored hole need to be drilled into a blank in order to finish intra-operatively the patient-individual jig. 
+Few years ago we came up with the idea of a new micro-stereotactic targeting system to enable image-guided, minimally-invasive cochlear implant surgery. The development was driven by the aim to enable patient-specific fabrication of the instrument guide during the surgery uder sterile conditions. Therefore we had to simplify the customization procedure in comparison to previously introduced concepts (e.g. StarFix, Microtable). The proposed system consists of a reusable, bone-anchored frame and a customized jig which guides the surgical instruments along a previously planned trajectory. Only one single counterbored hole need to be drilled into a blank in order to finish intra-operatively the patient-individual jig.
+
+![RoboJig concept overview](10_robojig/robojig_overview.png)
 
 From 2004 to 2008, funded by the Federal Ministry of Education and Research of Germany ([BMBF](https://www.bmbf.de/), grand number 13GW0019E), we developed first prototypes of the micro-stereotactic targeting system, referred to as "RoboJig". It was a joint research project with contribution of several academic and industrial partners:
 
-- Hannover Medical School, Hannover
-- Leibniz Universität Hannover
+- CAS Lab, Department of Otorhinolaryngology, Hannover Medical School, Hannover
+- Institut for Mechatronic Systems, Leibniz Universität Hannover
 - HörSys GmbH, Hannover
 - A.R.C. Laser GmbH, Nürnberg
 - Fiagon GmbH, Hennigsdorf
-- MED-EL Deutschland GmbH.
-
-including preliminary evaluation of its drilling accuracy.  
+- MED-EL Deutschland GmbH, Starnberg
 
 In the meantime the "RoboJig" concept was patented and transferred to the OtoJig GmbH, a German start-up company that owns and further develops the mentioned technology - now referred to as "OtoJig". 
 
-![RoboJig concept overview](10_robojig/robojig_overview.png)
+
 
 
 ### Contact:
