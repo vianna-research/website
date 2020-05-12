@@ -1,6 +1,6 @@
 title:Staff
 
-![Members of the group in front of the International Neuroscience Institute (INI) Hannover in December 2016](staff/IMG_3688_cut.jpg "Members of the group in front of the International Neuroscience Institute (INI) Hannover in December 2016")
+![Members of the group in December 2016](staff/IMG_3601_Kopie.jpg "Members of the group in December 2016")
 
 - - - 
 
