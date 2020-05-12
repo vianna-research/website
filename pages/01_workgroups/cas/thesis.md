@@ -16,3 +16,13 @@ Please always include your CV and a current overview of grades / performance rep
 
 ## Topics for Medical Doctoral Thesis
 
+# Test Image Galery
+
+<div class="row">
+  <div class="col-xs-6 col-md-3">
+    <a href="#" class="thumbnail">
+      <img src="..." alt="...">
+    </a>
+  </div>
+  ...
+</div>
