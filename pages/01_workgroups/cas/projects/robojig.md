@@ -29,7 +29,12 @@ If your are interested in RoboJig/OtoJig technology, want to join a collaboratio
     Dr.-Ing. Thomas Rau
     rau.thomas@mh-hannover.de
 
-- - - 
+
+### Patents:
+-   European patent granted in 2018: Lenarz Th., Rau Th. S., Majdani O., Ortmaier T., Kobler J.-P., Kluge M., John S.: _Positioning Aid for Surgical Interventions_. **EP 3 128 942 B1.** \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Patent](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=EP000003128942B1&xxxfull=1)\].
+
+
+- - -
 
 ### Further Reading:
 
