@@ -22,6 +22,7 @@ title: Mitarbeiter
 
 |Wissenschaftliche Mitarbeiter|             |    |+49 (0)511 -|
 |---------|------|------|---|
+                                             | Ailke Behrens, M.Sc.  |behrens.ailke(at)mh-hannover.de|532 7231 
 |![Image Katharina Foremny](Katharina3.png)  | Katharina Foremny (geb.Tegtmeier), M.Sc. 	|	foremny.katharina(at)mh-hannover.de       |532 7231|
 |  ![Image Juan Pablo Marcoleta](Juan2.png)  |Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|5350 287|
 |                                            |M. Eng. Ivan Pechenizkiy        | pechenizkiy.ivan(at)mh-hannover.de|532 7231
@@ -31,16 +32,19 @@ title: Mitarbeiter
 |Studenten||
 |-----------|-------------|
 |Hammad Ayman Akl |HiWi|
-|Yuyang Mao| HiWi|
-|Kaan Eren Paca| HiWi|
-|Florian Schröder | HiWi|
+|Yuyang Mao | Masterarbeit|
 |Hui Yu| Studienarbeit|
 |Svenja Schudak| Studienarbeit|
 |Alexander Schulze-Finkenbrink|Bachelorarbeit|
 |Adrian Onken| Masterarbeit|
-|Rajalakshmi Veeraraghavan|Masterarbeit|
 |Lucia Badde| Masterarbeit|
 |Lennart Guntenhöner | Medizinische Doktorarbeit|
+|Wai-Lun Hui| Masterarbeit|
+|Malte Kluth| Masterarbeit|
+|Shuang Liang| Studienarbeit|
+|Henry Rake| Bachelorarbeit|
+|Michelle Wirsum| Bachelorarbeit|
+
 
 
 
