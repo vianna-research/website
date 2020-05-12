@@ -25,7 +25,7 @@ title: Staff
 |  ![Image Juan Pablo Marcoleta](Juan2.png)  | Dipl.-Ing. Juan Pablo Marcoleta | marcoleta.juan(at)mh-hannover.de|5350 287 |
 |                                            | M.Eng. Ivan Pechenizkiy         | pechenizkiy.ivan(at)mh-hannover.de|532 7231|
 |![Image Jan Stieghorst ](Jan.png.jpg) |  Dr.-Ing. Jan Stieghorst|	stieghorst.jan(at)mh-hannover.de|    
-|![Image Suheda Yilmaz-Bayraktar](suheda.png) |Suheda Yilmaz-Bayraktar, M. Sc. | yilmaz-bayraktar.suheda(at)mh-hannover.de| 532 1525|
+|![Image Suheda Yilmaz-Bayraktar](suheda.png) |Suheda Yilmaz-Bayraktar, M.Sc. | yilmaz-bayraktar.suheda(at)mh-hannover.de| 532 1525|
 
 
 
@@ -44,10 +44,3 @@ title: Staff
 |Alexander Schulze-Finkenbrink| Bachelor Thesis|
 |Michelle Wirsum| Bachelor Thesis|
 |Hui Yu| Student research project|
-
-
-
-
-
-
-
