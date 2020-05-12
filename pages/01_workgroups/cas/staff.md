@@ -10,7 +10,7 @@ title:Staff
 | ***Head of Research Group*** |||
 |![Portrait](staff/Thomas.jpg) | Dr.-Ing. Thomas S. Rau         | rau.thomas@mh-hannover.de   |
 | ***Research Team*** |||
-|![Portrait](staff/Portrait_JK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             | kilian.julia@mh-hannover.de |
+|![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             | kilian.julia@mh-hannover.de |
 |![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/geraldine.jpg) | M. Geraldine Zuniga, MD			| zunigamanrique.maria@mh-hannover.de	  |
 | ***Associated Staff***  |||																
@@ -20,25 +20,25 @@ title:Staff
 | ***Students*** |||                                                                                             |
 |![Portrait](staff/empty.jpg) 	| Shari Barati								| Medical Doctorate Thesis |
 |![Portrait](staff/tobias.png) 	| Tobias Blum 								| Student Assistant |
-|![Portrait](staff/empty.jpg) 	| Tim Ehmann                  | Master Thesis |
-|![Portrait](staff/empty.jpg) 	| Malte Freiknecht            | Student Research Project |
+|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis |
+|![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
 |![Portrait](staff/lena.jpg)	  | Lena Geiger								  | Student Assistant | 
-|![Portrait](staff/empty.jpg) 	| Clemens Griemsmann					| Student Assistant |
-|![Portrait](staff/empty.jpg)	  | Jan Mairose								  | Student Assistant	| 
+|![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
+|![Portrait](staff/Portrait_JanMK.jpg){style="width:68px"}	  | Jan Mairose								  | Student Assistant	| 
 |![Portrait](staff/christianm.png)| Christian Menke						| Medical Doctorate Thesis |
-|![Portrait](staff/empty.jpg)   | Timo Stauß                  | Bachelor Thesis | 
+|![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis | 
 |![Portrait](staff/empty.jpg) 	| Sina Witte 				    			| Medical Doctorate Thesis |
 
 
 
 | Former Staff |||
 |:--|:------------------|:--------------------------------------|               				
-|![Portrait](staff/empty.jpg)    | Dipl.-Ing. (FH) Franziska Eckhardt     |  |
+|                               | Dipl.-Ing. (FH) Franziska Eckhardt     |  |
 |![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | now: [Bertrandt AG](https://www.bertrandt.com/) |
-|![Portrait](staff/empty.jpg)  	| M. Sc. Silke Hügl                			  | now: [Vector Informatik GmbH](https://www.vector.com/de/de/) 	|
+|                             	| M. Sc. Silke Hügl                			  | now: [Vector Informatik GmbH](https://www.vector.com/de/de/) 	|
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH (Hannover)](http://www.otojig.com/)  |
 |![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow                  | now: [Part Time Scientists (Berlin)](https://ptscientists.com/)         |
-|![Portrait](staff/empty.jpg)    | M. Sc. Priyant Mane                    |  |
+|                               | M. Sc. Priyant Mane                    |  |
 |![Portrait](staff/daniel.png)  | Dr.-Ing. Daniel Schurzig                | now: [MED-EL Deutschland (Hannover)](www.medel.com) |
 |![Portrait](staff/nuha.jpg) 	  | M. Sc. Nuha Suzaly			   			        |     	|
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | now: [Implandata Ophthalmic Products GmbH (Hannover)](http://www.implandata.com) |
