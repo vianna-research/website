@@ -24,7 +24,7 @@ title:Staff
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
 |![Portrait](staff/lena.jpg)	  | Lena Geiger								  | Student Assistant | 
 |![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
-|![Portrait](staff/Portrait_JanMK.jpg){style="width:68px"}	  | Jan Mairose								  | Student Assistant	| 
+|![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	  | Jan Mairose								  | Student Assistant	| 
 |![Portrait](staff/christianm.png)| Christian Menke						| Medical Doctorate Thesis |
 |![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis | 
 |![Portrait](staff/empty.jpg) 	| Sina Witte 				    			| Medical Doctorate Thesis |
