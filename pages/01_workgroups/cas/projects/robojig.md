@@ -22,16 +22,13 @@ Parallel to the research project the "RoboJig" concept was patented and later tr
 
 In the mean time, our research group goes on with research on the optimization of the general concept, especially regarding drilling accuracy, atraumatic opening of the inner ear and gentle electrode insertion. Recently, we obtained public funding for an additional research project in this field provided by the BMBF. The aim of the joint research project "OtoTrak" is the development of new algorithm for improved trajectory planning with special focus on hearing preservation as well as the development of new surgical tools with integrated force sensing capability.
 
-
+- - -
 ### Contact:
 If your are interested in RoboJig/OtoJig technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
 
     Dr.-Ing. Thomas Rau
     rau.thomas@mh-hannover.de
 
-- - -
-### Funding:
-This project was funded by the Federal Ministry of Education and Research of Germany ([BMBF](https://www.bmbf.de/), grand number 13GW0019E). The official project profile can be found [here](https://medizintechnologie.de/fileadmin/pdfs/projektsteckbriefe/13GW0019_RoboJig-Projektsteckbrief.pdf) (in German). 
 - - - 
 
 ### Further Reading:
