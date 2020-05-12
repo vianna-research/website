@@ -11,20 +11,20 @@ Few years ago we came up with the idea of a new micro-stereotactic targeting sys
 
 From 2004 to 2008, funded by the Federal Ministry of Education and Research of Germany ([BMBF](https://www.bmbf.de/), grand number 13GW0019E), we developed first prototypes of the micro-stereotactic targeting system, referred to as "RoboJig". It was a joint research project with contribution of several academic and industrial partners:
 
-- CAS Lab, Department of Otorhinolaryngology, Hannover Medical School, Hannover
+- CAS Lab, Department of Otorhinolaryngology, Hannover Medical School
 - Institut for Mechatronic Systems, Leibniz Universität Hannover
-- HörSys GmbH, Hannover
-- A.R.C. Laser GmbH, Nürnberg
-- Fiagon GmbH, Hennigsdorf
-- MED-EL Deutschland GmbH, Starnberg
+- [HörSys GmbH](https://hoersys.de/de/projects/), Hannover
+- [A.R.C. Laser GmbH](https://www.arclaser.de/de/), Nürnberg
+- [Fiagon GmbH](https://www.fiagon.com/ous/de/), Hennigsdorf
+- [MED-EL Deutschland GmbH](https://www.medel.com/de), Starnberg
 
-In the meantime the "RoboJig" concept was patented and transferred to the OtoJig GmbH, a German start-up company that owns and further develops the mentioned technology - now referred to as "OtoJig". 
+Parallel to the research project the "RoboJig" concept was patented and later transferred to the [OtoJig GmbH](https://otojig.com/). It is a German start-up company that now owns and further develops the mentioned technology under the brand name "OtoJig" in order to provide a commercial solution for minimally invasive CI surgery of tomorrow.
 
-
+In the mean time, our research group goes on with research on the optimization of the general concept, especially regarding drilling accuracy, atraumatic opening of the inner ear and gentle electrode insertion. Recently, we obtained public funding for an additional research project in this field provided by the BMBF. The aim of the joint research project "OtoTrak" is the development of new algorithm for improved trajectory planning with special focus on hearing preservation as well as the development of new surgical tools with integrated force sensing capability.
 
 
 ### Contact:
-If your are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
+If your are interested in RoboJig/OtoJig technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
 
     Dr.-Ing. Thomas Rau
     rau.thomas@mh-hannover.de
