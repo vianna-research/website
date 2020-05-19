@@ -26,6 +26,9 @@ title: Publications
 
 * de Vries I, Schmitt H, Lenarz T, Prenzler N, Alvi S, Staecker H, Durisin M, Warnecke A. **[Detection of BDNF-Related Proteins in Human Perilymph in Patients With Hearing Loss.](https://doi.org/10.3389/fnins.2019.00214)** Front Neurosci. 2019 Mar 26;13:214. doi: 10.3389/fnins.2019.00214. 
 
+
+* Peter MN, Paasche G, Reich U, Lenarz T, Warnecke A. **[Reactions in the organ of Corti to electrical stimulation : StED technology for detecting changes.](https://link.springer.com/article/10.1007%2Fs00106-019-0641-7)** HNO. 2019 Apr;67(4):251-257. doi: 10.1007/s00106-019-0641-7. German.
+
 * Peter MN, Warnecke A, Reich U, Olze H, Szczepek AJ, Lenarz T, Paasche G. **[Influence of In Vitro Electrical Stimulation on Survival of Spiral Ganglion Neurons.](https://link.springer.com/article/10.1007/s12640-019-00017-x)** Neurotox Res. 2019 Jul;36(1):204-216. doi: 10.1007/s12640-019-00017-x.
 
 ## 2018
