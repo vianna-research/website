@@ -1,6 +1,6 @@
 title: Publications
 
-##2020
+## 2020
 * Prenzler NK, Salcher R, Lenarz T, Gaertner L, Warnecke A. **[Dose-Dependent Transient Decrease of Impedances by Deep Intracochlear Injection of Triamcinolone With a Cochlear Catheter Prior to Cochlear Implantation-1 Year Data.] (https://doi.org/10.3389/fneur.2020.00258)** Front Neurol. 2020 Apr 15;11:258. doi:10.3389/fneur.2020.00258. eCollection 2020. 
 
 * El-Saied S, Schmitt H, Durisin M, Joshua BZ, Abu Tailakh M, Prenzler N, Lenarz T, Kaplan DM, Lewis EC, Warnecke A. **[Endogenous α1-antitrypsin levels in the perilymphatic fluid correlates with severity of hearing loss.] (https://doi.org/10.1111/coa.13541)** Clin Otolaryngol. 2020 Apr 4. doi: 10.1111/coa.13541. 
