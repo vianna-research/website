@@ -1,8 +1,24 @@
 title: Publications
 
+##2020
+* Prenzler NK, Salcher R, Lenarz T, Gaertner L, Warnecke A. **[Dose-Dependent Transient Decrease of Impedances by Deep Intracochlear Injection of Triamcinolone With a Cochlear Catheter Prior to Cochlear Implantation-1 Year Data.] (https://doi.org/10.3389/fneur.2020.00258)** Front Neurol. 2020 Apr 15;11:258. doi:10.3389/fneur.2020.00258. eCollection 2020. 
 
+* El-Saied S, Schmitt H, Durisin M, Joshua BZ, Abu Tailakh M, Prenzler N, Lenarz T, Kaplan DM, Lewis EC, Warnecke A. **[Endogenous α1-antitrypsin levels in the perilymphatic fluid correlates with severity of hearing loss.] (https://doi.org/10.1111/coa.13541)** Clin Otolaryngol. 2020 Apr 4. doi: 10.1111/coa.13541. 
+ 
+* Zelener F, Majdani O, Roemer A, Lexow GJ, Giesemann A, Lenarz T, Warnecke A. **[Relations Between Scalar Shift and Insertion Depth in Human Cochlear Implantation.] (https://journals.lww.com/otology-neurotology/FullText/2020/02000/Relations_Between_Scalar_Shift_and_Insertion_Depth.10.aspx)** Otol Neurotol. 2020 Feb;41(2):178-185. doi: 10.1097/MAO.0000000000002460.  
+ 
+* Claußen M, Schulze J, Nothwang HG. **[Loss of inner hair cell ribbon synapses and auditory nerve fiber regression in Cldn14 knockout mice.] (https://doi.org/10.1016/j.heares.2020.107950)** Hear Res 2020;391:107950. doi: 10.1016/j.heares.2020.107950.
+ 
 ## 2019
+* Weininger O, Warnecke A, Lesinski-Schiedat A, Lenarz T, Stolle S. **[Computational analysis based on audioprofiles: A new possibility for patient stratification in office-based otology.] (https://doi.org/10.4081/audiores.2019.230)** Audiol Res. 2019 Nov 5;9(2):230. doi: 10.4081/audiores.2019.230. eCollection 2019 Sep 2.  
+
+* Majdani E, Majdani O, Steffens M, Warnecke A, Lesinski-Schiedat A, Lenarz T, Götz F. **[Dimensions of artefacts caused by cochlear and auditory brainstem implants in magnetic resonance imaging.] (https://doi.org/10.1080/14670100.2019.1668617)** Cochlear Implants Int. 2020 Mar;21(2):67-74. doi: 10.1080/14670100.2019.1668617. Epub 2019 Sep 25.
+
 * Wang H, Stahl F, Scheper T, Steffens M, Warnecke A, Zeilinger C. **[Microarray-Based Screening System Identifies Temperature-Controlled Activity of Connexin 26 That Is Distorted by Mutations.](https://www.nature.com/articles/s41598-019-49423-3)** Scientific Reports 9, no. 1 (December 19, 2019): 13543. doi:10.1038/s41598-019-49423-3.
+
+* Schulze J, Nolte L, Lyutenski S, Tinne N, Heinemann D, Ripken T, Willaredt MA, Nothwang HG, Lenarz T, Warnecke A. **[Scanning laser optical tomography in a neuropathic mouse model : Visualization of structural changes.] (https://doi.org/10.1007/s00106-019-0654-2)** HNO. 2019 Aug;67(8):590-599. doi: 10.1007/s00106-019-0652-4.
+
+* Schulze J, Nolte L, Lyutenski S, Tinne N, Heinemann D, Ripken T, Willaredt MA, Nothwang HG, Lenarz T, Warnecke A. **[Scannende laseroptische Tomographie in einem neuropathischen Mausmodell.] (https://doi.org/10.1007/s00106-019-0652-4)** HNO. 2019 Aug;67(8):590-599. doi: 10.1007/s00106-019-0652-4.
 
 * Warnecke A, Prenzler NK, Schmitt H, Daemen K, Keil J, Dursin M, Lenarz T, Falk CS. **[Defining the Inflammatory Microenvironment in the Human Cochlea by Perilymph  Analysis: Toward Liquid Biopsy of the Cochlea.](https://doi.org/10.3389/fneur.2019.00665)** Front Neurol. 2019 Jun 25;10:665.  doi: 10.3389/fneur.2019.00665.
 
