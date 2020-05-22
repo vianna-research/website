@@ -18,6 +18,7 @@ title: Staff
 | ![Image Kathrin Anja Malfeld](malfeld.jpg)  | Kathrin Anja Malfeld, veterinarian, PhD Student |  Malfeld.Kathrin@mh-hannover.de |532 1529 |
 |    ![Image Farnaz Matin](Matin.JPG) |  Farnaz Matin, MD|	Matin.Farnaz(at)mh-hannover.de| 17 7443|   
 |    ![Image Claas-Tido Peck](Claas.jpg) |  Claas-Tido Peck, M.Sc.|	Peck.Claas-Tido(at)mh-hannover.de| 532 1538| 
+|    ![Image Marleen Grzybowski](Grzybowski.jpg) | Marleen Grzybowski, M.Sc.| Grzybowski.Marleen(at)mh-hannover.de | 532 4192|
 
 |FWJ|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
