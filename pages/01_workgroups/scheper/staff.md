@@ -23,7 +23,7 @@ title: Staff
 |--------------|:---------------------|------|-----|
 |   |Name| EMail|Extension|
 |![Image Sebestyén Ronja Lea Marie](Sebestyen.jpg) | Ronja Lea Marie Sebestyén	|	 Sebestyen.Ronja@mh-hannover| 532 1529|
-|![Image Albrecht Sonja](Albrecht.png) | Sonja Albrecht|	 Albrecht.Sonja@mh-hannover.de | 532 1529|
+|![Image Albrecht Sonja](Albrecht.jpg) | Sonja Albrecht|	 Albrecht.Sonja@mh-hannover.de | 532 1529|
 
 
 |  Students   ||
