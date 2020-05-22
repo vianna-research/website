@@ -19,7 +19,11 @@ title: Staff
 |    ![Image Farnaz Matin](Matin.JPG) |  Farnaz Matin, MD|	Matin.Farnaz(at)mh-hannover.de| 17 7443|   
 |    ![Image Claas-Tido Peck](Claas.jpg) |  Claas-Tido Peck, M.Sc.|	Peck.Claas-Tido(at)mh-hannover.de| 532 1538| 
 
-
+|FWJ|                     |      |    +49 (0)511 -  |
+|--------------|:---------------------|------|-----|
+|   |Name| EMail|Extension|
+|![Image Sebestyén Ronja Lea Marie](Sebestyen.jpg) | Ronja Lea Marie Sebestyén	|	 Sebestyen.Ronja@mh-hannover| 532 1529|
+|![Image Albrecht Sonja](Albrecht.png) | Sonja Albrecht|	 Albrecht.Sonja@mh-hannover.de | 532 1529|
 
 
 |  Students   ||
