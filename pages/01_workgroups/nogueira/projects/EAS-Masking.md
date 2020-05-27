@@ -33,10 +33,9 @@ DHZ-Deutsches HörZentrum Hannover:
 
 |  |       |
 |-:|:------| 
-| W. Nogueira, B. Krüger, A. Büchner, E. Lopez-Poveda (2018), Contralateral Suppression of Human Hearing Sensitivity in Single-sided Deaf Cochlear Implant Users, Hearing Research, (In Press).|
+| | W. Nogueira, B. Krüger, A. Büchner, E. Lopez-Poveda (2018), Contralateral Suppression of Human Hearing Sensitivity in Single-sided Deaf Cochlear Implant Users, Hearing Research, (In Press).|
+|   | M. Imsiecke, B. Krüger, A. Büchner, T. Lenarz, W. Nogueira (2018), Electric-Acoustic Forward Masking in Cochlear Implant Users with Ipsilateral Residual Hearing, Hearing Research, Hear Res. 2018 Jul;364:25-37. doi: 10.1016/j.heares.2018.04.003. Epub 2018 Apr 9.|
  
-| M. Imsiecke, B. Krüger, A. Büchner, T. Lenarz, W. Nogueira (2018), Electric-Acoustic Forward Masking in Cochlear Implant Users with Ipsilateral Residual Hearing, Hearing Research, Hear Res. 2018 Jul;364:25-37. doi: 10.1016/j.heares.2018.04.003. Epub 2018 Apr 9.|
- 
-| B. Krüger, A. Büchner, W. Nogueira (2017), Simultaneous Masking between Electric and Acoustic Stimulation in Cochlear Implant Users with Low Frequency Hearing, Hearing Research, https://doi.org/10.1016/j.heares.2017.06.014.||
+|   | B. Krüger, A. Büchner, W. Nogueira (2017), Simultaneous Masking between Electric and Acoustic Stimulation in Cochlear Implant Users with Low Frequency Hearing, Hearing Research, https://doi.org/10.1016/j.heares.2017.06.014.|
 
 
