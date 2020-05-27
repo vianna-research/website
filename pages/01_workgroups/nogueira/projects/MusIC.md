@@ -14,17 +14,18 @@ The main goal of this project is to enhance the signing voice of music as previo
 The new technologies are considered to perform in real-time and to be evaluated under a controlled virtual reality environment and also under a real sound scenario. This allows characterizing the individual CI user from the periphery to the central auditory system. 
 
 - - - 
-# Music Source Separation Using Deep Neural Networks:
+## Music Source Separation Using Deep Neural Networks:
 
 Music Samples of the Real-time Music Source Separation experiment. In this Experminet s multilayer perceptron has been used to separate the singing voice from the intruments accompaniment. 
 
 <details>
   <summary>Samples</summary>
-   * 1
-   * 2
-   * 3
-   * 4
-   * 5
+  
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
    
   </details>
 
