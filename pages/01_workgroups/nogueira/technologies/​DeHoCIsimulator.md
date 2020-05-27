@@ -1,5 +1,6 @@
 titel:  DeHoCI Simulator
 
+---
 
 DeHoCI Simulator ver 0.0 is a software tool that can be used by any professional in the field of Cochlear Implants to understand how a cochlear implant works.
 DeHoCI  offers the possibility to simulate the sound a cochlear implant user perceives. Sound is synthesized from the electrical patterns delivered by a Cochlear Implant device.
