@@ -8,6 +8,7 @@ title: Technologies
   
   </details>
   
+  <details>
   <summary>MusIC4allApp2.0</summary>
   
   ## Heading
@@ -16,5 +17,5 @@ title: Technologies
      * With some
      * Sub bullets
 
-
+ </details>
 - - - 
