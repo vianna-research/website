@@ -2,7 +2,7 @@ title: Technologies
 
 - - - 
 
-| Prof. Dr.-Ing. Waldo Nogueira  | [DeHoCI simulator](nogueira/DeHoCI Simulator.html)    
+| Prof. Dr.-Ing. Waldo Nogueira  | [DeHoCI Simulator](nogueira/DeHoCI Simulator.html)    
 
 
 | Prof. Dr.-Ing. Waldo Nogueira  | [MusIC4allApp1.0](nogueira/MusIC4allApp1.0.html)         
