@@ -13,7 +13,7 @@ The main goal of this project is to enhance the signing voice of music as previo
 
 The new technologies are considered to perform in real-time and to be evaluated under a controlled virtual reality environment and also under a real sound scenario. This allows characterizing the individual CI user from the periphery to the central auditory system. 
 
-
+- - - 
 
 ### Funding:
 
@@ -25,4 +25,19 @@ DHZ-Deutsches HörZentrum Hannover:
     Karl-Wiechert-Allee 3 
     30625 Hannover
 
-- - - 
+
+
+### Publications:
+
+|  |       |
+|-:|:------| 
+| | W. Nogueira, B. Krüger, A. Büchner, E. Lopez-Poveda (2018), Contralateral Suppression of Human Hearing Sensitivity in Single-sided Deaf Cochlear Implant Users, Hearing Research, (In Press).|
+|   | * **[Design and Evaluation of a Real-Time Audio Source Separation Algorithm to Remix Music for Cochlear Implant Users.](https://www.frontiersin.org/articles/10.3389/fnins.2020.00434/full)**
+Tahmasebi S, Gajȩcki T, **Nogueira W**.
+Frontiers in Neuroscience. 14, 434. doi: 110.3389/fnins.2020.00434. Epub 2020 May 14.
+<br/>|
+
+
+
+
+
