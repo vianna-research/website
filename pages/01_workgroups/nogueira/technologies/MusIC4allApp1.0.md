@@ -12,4 +12,4 @@ The App offers an original method to listen and interact with new music composit
 
 
 ![]("MusIC4all.png")
-<img src="DeHoCIsimulator.png" >
+
