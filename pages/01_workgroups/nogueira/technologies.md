@@ -2,9 +2,9 @@ title: Technologies
 
 - - - 
 
-# MusIC4allApp
+# MobileApp
 <details>
-  <summary>MusIC4allApp!</summary>
+  <summary>MusIC4allApp</summary>
   
   ## Heading
   1. A numbered
