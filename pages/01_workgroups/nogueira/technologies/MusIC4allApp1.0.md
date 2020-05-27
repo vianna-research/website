@@ -9,4 +9,4 @@ The App offers an original method to listen and interact with new music composit
 # Research Areas #
 
 ----------
-![Auditory Prosthetic Group](technologies/MusIC4all1.0.png){style="float:right; margin-left:3em"}
+(technologies/MusIC4all1.0.png){style="float:right; margin-left:3em"}
