@@ -14,9 +14,18 @@ This project therefore is about designing a new data reduction method that allow
  
 The planed project is a collaborative project between the Auditory Prosthetic Group of the German Hearing Center that is part of the Medical University Hannover (MHH) and the Institut für Informationsverarbeitung (TNT) of the Leibniz Universität Hannover. In the course of the project both project partners will make significant progress in their field of research in particular data reduction for audio applications (TNT) and binaural signal enhancement for CIs (MHH). In addition this cooperation is a great opportunity to exchange knowledge between an engineering department and a medical school. Doing so, engineering methods and medical expertise can be combined to ensure the success of the project.
 
+- - - 
 
 ### Funding:
 This project is funded by the German Research Foundation (DFG) - Project number: 381895691
 
+
+
+### Contact:
+DHZ-Deutsches HörZentrum Hannover:
+
+    Prof. Dr.-Ing. Waldo Nogueira
+    Karl-Wiechert-Allee 3 
+    30625 Hannover
 
 
