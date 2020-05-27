@@ -10,6 +10,4 @@ The App offers an original method to listen and interact with new music composit
 
 ----------
 
-
-![]("MusIC4all1.0.png")
-
+<img src="MusIC4all1.png" >
