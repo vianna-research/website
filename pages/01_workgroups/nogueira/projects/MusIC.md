@@ -31,8 +31,7 @@ DHZ-Deutsches HörZentrum Hannover:
 
 |  |       |
 |-:|:------| 
-| | W. Nogueira, B. Krüger, A. Büchner, E. Lopez-Poveda (2018), Contralateral Suppression of Human Hearing Sensitivity in Single-sided Deaf Cochlear Implant Users, Hearing Research, (In Press).|
-|   | * **[Design and Evaluation of a Real-Time Audio Source Separation Algorithm to Remix Music for Cochlear Implant Users.](https://www.frontiersin.org/articles/10.3389/fnins.2020.00434/full)**
+| |* **[Design and Evaluation of a Real-Time Audio Source Separation Algorithm to Remix Music for Cochlear Implant Users.](https://www.frontiersin.org/articles/10.3389/fnins.2020.00434/full)**
 Tahmasebi S, Gajȩcki T, **Nogueira W**.
 Frontiers in Neuroscience. 14, 434. doi: 110.3389/fnins.2020.00434. Epub 2020 May 14.
 <br/>|
