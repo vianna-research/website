@@ -7,7 +7,7 @@ DeHoCI  offers the possibility to simulate the sound a cochlear implant user per
 
 Additionally DeHoCI incorporates a simulator of the electrical field and the auditory nerve in the cochlea  that allows the visualization of stimulation patterns.
 
-This software tool has been implemented in Matlab and can be run as a standalone application. 
+This software tool has been implemented in MATLAB and can be run as a standalone application. 
 
 
 <img src="DeHoCIsimulator.png" >
