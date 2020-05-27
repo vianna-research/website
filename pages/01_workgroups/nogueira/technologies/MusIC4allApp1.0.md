@@ -11,5 +11,5 @@ The App offers an original method to listen and interact with new music composit
 ----------
 
 
-![]("MusIC4all.png")
+![]("MusIC4all1.0.png")
 
