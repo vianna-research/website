@@ -4,7 +4,7 @@ title: Technologies
 
 # MobileApp
 <details>
-  <summary>MusIC4allApp1.o</summary>
+  <summary>MusIC4allApp1.0</summary>
   
   </details>
   
