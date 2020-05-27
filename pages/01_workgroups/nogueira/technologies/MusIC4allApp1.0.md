@@ -10,4 +10,4 @@ The App offers an original method to listen and interact with new music composit
 
 ----------
 
-(pages/01_workgroups/nogueira/technologies/MusIC4all.png){style="float:right; margin-left:3em"}
+(pages/01_workgroups/nogueira/technologies/MusIC4all.png)
