@@ -3,7 +3,7 @@ Title: MusIC
 
 - - - 
 
-# Making music more accessible for cochlear implant users
+# Making Music More Accessible for Cochlear Implant Users
 
 Listening to music is an important and enjoyable part of many people’s lives that can improve quality of life through its recreational and rehabilitative function. For example, music involvement is important for the development of the brain, particularly during childhood and can mitigate symptoms of Alzheimer’s disease in older. Yet, people with hearing impairment have severe limitations to perceive and appreciate music. 
 
