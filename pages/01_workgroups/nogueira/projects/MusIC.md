@@ -14,6 +14,9 @@ The main goal of this project is to enhance the signing voice of music as previo
 The new technologies are considered to perform in real-time and to be evaluated under a controlled virtual reality environment and also under a real sound scenario. This allows characterizing the individual CI user from the periphery to the central auditory system. 
 
 - - - 
+# Music Source Separation experiment;
+
+- - -
 
 ### Funding:
 
