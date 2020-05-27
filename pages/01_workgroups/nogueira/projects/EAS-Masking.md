@@ -5,7 +5,7 @@ Title: EAS-Masking
 
 # EAS-Masking
 
-<img src="pages/01_workgroups/nogueira/projects/EAS-Masking/logo-eas-masking-orig_orig.png" > 
+<img src="EAS-Masking/logo-eas-masking-orig_orig.png" > 
 
 veryday more people with residual hearing receive cochlear implants (CIs) to obtain electroacoustic stimulation (EAS), i.e. combined auditory stimulation delivered electrically from CI electrodes and acoustically through a hearing aid (HA). For EAS users low frequency acoustic hearing produces almost no recognition for speech in noise, but the performance is significantly enhanced when combined with the electric hearing delivered by the CI. However, it is still unknown how the acoustic and electric stimulation modalities interact with each other. Clinical experience has found that some EAS users do not use the HA at all and rely solely on electric stimulation. Moreover, it has been observed that EAS users require more time to achieve their maximum performance with the CI alone than regular CI users. These limitations may have influence in defining the implantation criteria of EAS. Possible explanations for these limitations are interactions between acoustic and electric stimulation. These interactions become more and more important for people with large residual hearing because the overlap between electric and acoustic stimulation is larger. For example, it has been shown that the range of hearing loss for which EAS devices are prescribed is getting closer to the range of age related hearing loss. Age related hearing loss, as EAS, is characterized by lost of audibility in the high frequencies.
  
