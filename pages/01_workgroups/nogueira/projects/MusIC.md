@@ -31,7 +31,7 @@ DHZ-Deutsches HörZentrum Hannover:
 
 |  |       |
 |-:|:------| 
-| | **[Design and Evaluation of a Real-Time Audio Source Separation Algorithm to Remix Music for Cochlear Implant Users.](https://www.frontiersin.org/articles/10.3389/fnins.2020.00434/full)** |Tahmasebi S, Gajȩcki T, Nogueira W. Frontiers in Neuroscience. 14, 434. doi: 110.3389/fnins.2020.00434. Epub 2020 May 14.|
+| | **[Design and Evaluation of a Real-Time Audio Source Separation Algorithm to Remix Music for Cochlear Implant Users.](https://www.frontiersin.org/articles/10.3389/fnins.2020.00434/full)** Tahmasebi S, Gajȩcki T, Nogueira W. Frontiers in Neuroscience. 14, 434. doi: 110.3389/fnins.2020.00434. Epub 2020 May 14.|
 
 
 
