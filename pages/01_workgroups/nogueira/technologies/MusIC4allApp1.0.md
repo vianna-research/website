@@ -10,4 +10,4 @@ The App offers an original method to listen and interact with new music composit
 
 ----------
 
-![Logo BioMaterial Engineering](pages/01_workgroups/nogueira/technologies/MusIC4all.png)
+![Logo Technologies](pages/01_workgroups/nogueira/technologies/MusIC4all.png)
