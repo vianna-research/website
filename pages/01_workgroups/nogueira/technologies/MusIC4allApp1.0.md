@@ -11,4 +11,4 @@ The App offers an original method to listen and interact with new music composit
 ----------
 (technologies/MusIC4all1.png){style="float:right; margin-left:3em"}
 
-![Auditory Prosthetic Group](technologies/MusIC4all1.png){style="float:right; margin-left:3em"}
+![Auditory Prosthetic Group](technologies/MusIC4all.png){style="float:right; margin-left:3em"}
