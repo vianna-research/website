@@ -2,20 +2,7 @@ title: Technologies
 
 - - - 
 
-# MobileApp
-<details>
-  <summary>MusIC4allApp1.0</summary>
-  
-  </details>
-  
-  <details>
-  <summary>MusIC4allApp2.0</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+| Prof. Dr.-Ing. Waldo Nogueira  | [MusIC4allApp1.0](nogueira/MusIC4allApp.html)         
 
- </details>
-- - - 
+
+
