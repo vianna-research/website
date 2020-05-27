@@ -18,6 +18,15 @@ The new technologies are considered to perform in real-time and to be evaluated 
 
 Music Samples of the Real-time Music Source Separation experiment. In this Experminet s multilayer perceptron has been used to separate the singing voice from the intruments accompaniment. 
 
+<details>
+  <summary>Samples</summary>
+   * 1
+   * 2
+   * 3
+   * 4
+   * 5
+   
+  </details>
 
 - - -
 
