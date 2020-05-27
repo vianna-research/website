@@ -1,9 +1,10 @@
 title: Technologies
 
+- - - 
 
 # MusIC4allApp
 <details>
-  <summary>Click to expand!</summary>
+  <summary>MusIC4allApp!</summary>
   
   ## Heading
   1. A numbered
