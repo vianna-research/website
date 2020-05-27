@@ -11,4 +11,5 @@ The App offers an original method to listen and interact with new music composit
 ----------
 
 
-![](pages/01_workgroups/nogueira/technologies/MusIC4all.png)
+![]("MusIC4all.png")
+<img src="DeHoCIsimulator.png" >
