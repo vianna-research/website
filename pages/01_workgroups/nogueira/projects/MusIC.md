@@ -20,11 +20,9 @@ Music Samples of the Real-time Music Source Separation experiment. In this Exper
 <details>
   <summary>Samples</summary>
   
-       1
+       1![](SpeechFullyConnectedR2.wav)
        2
        3
-       4
-       5
    
   </details>
 
