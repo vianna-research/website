@@ -10,4 +10,4 @@ The App offers an original method to listen and interact with new music composit
 
 ----------
 
-<img src=" MusIC4all1.png " >
+<img src=" MusIC4all1.png" >
