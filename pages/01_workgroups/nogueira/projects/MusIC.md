@@ -18,12 +18,9 @@ The new technologies are considered to perform in real-time and to be evaluated 
 Music Samples of the Real-time Music Source Separation experiment. In this Experminet s multilayer perceptron has been used to separate the singing voice from the intruments accompaniment. 
 
   ![](pages/01_workgroups/nogueira/projects/MusIC/Example1/SpeechFullyConnectedR2.wav)
+  
   ![](pages/01_workgroups/nogueira/projects/MusIC/Example1/"SpeechFullyConnectedR2.wav")  
- <audio controls=true src="pages/01_workgroups/nogueira/projects/MusIC/Example1/SpeechFullyConnectedR2.wav"/>    
 
-  ![](MusIC/Example1/SpeechFullyConnectedR2.wav)
-  ![]("MusIC/Example1/SpeechFullyConnectedR2.wav")  
- <audio controls=true src="MusIC/Example1/SpeechFullyConnectedR2.wav"/>    
 
 
 
@@ -47,7 +44,6 @@ DHZ-Deutsches HörZentrum Hannover:
     Prof. Dr.-Ing. Waldo Nogueira
     Karl-Wiechert-Allee 3 
     30625 Hannover
-
 
 
 ### Publications:
