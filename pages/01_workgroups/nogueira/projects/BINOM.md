@@ -22,6 +22,13 @@ The planed project is a collaborative project between the Auditory Prosthetic Gr
 </audio>
 
 
+<audio controls=true src="MusIC/Example1/SpeechFullyConnectedR2.wav" controls autoplay loop> </audio>
+
+
+
+<audio controls=true  src="pages/01_workgroups/nogueira/projects/MusIC/Example1/SpeechFullyConnectedR2.wav" controls></audio>
+
+
 - - - 
 
 ### Funding:
