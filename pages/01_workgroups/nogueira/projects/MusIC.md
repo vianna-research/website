@@ -21,14 +21,9 @@ Music Samples of the Real-time Music Source Separation experiment. In this Exper
 
 <audio controls=true  src="pages/01_workgroups/nogueira/projects/MusIC/Example1/SpeechFullyConnectedR2.wav"/>    
 
-<details>
-  <summary>Samples</summary>
+<audio controls=true src="MusIC/Example1/SpeechFullyConnectedR2.wav"/>  
 
-       1  <audio controls=true src="MusIC/Example1/SpeechFullyConnectedR2.wav"/>  
-       2 
-       3
-   
-  </details>
+
 
 - - -
 
