@@ -21,7 +21,7 @@ Music Samples of the Real-time Music Source Separation experiment. In this Exper
   ![](MusIC/Example1/SpeechFullyConnectedR2.wav)
 
   ![]("MusIC/Example1/SpeechFullyConnectedR2.wav")  
-
+ <audio controls=true src="MusIC/Example1/SpeechFullyConnectedR2.wav"/>  
 
 
 <details>
