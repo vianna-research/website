@@ -23,12 +23,6 @@ Music Samples of the Real-time Music Source Separation experiment. In this Exper
 
 <audio controls=true src="MusIC/Example1/SpeechFullyConnectedR2.wav" controls autoplay loop> </audio>
 
-
-<audio controls>
-  <source src="pages/01_workgroups/nogueira/projects/MusIC/Example1/SpeechFullyConnectedR2.wav" type="audio/wav">
-</audio>
-
-
 - - -
 
 ### Funding:
