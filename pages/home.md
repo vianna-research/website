@@ -21,7 +21,7 @@ From the initial group of ~20 researches the institute has grown substantially. 
 
 The institute is a funding part of the DFG Cluster of Excellence "Hearing4All" with PIs T. Doll, A. Kral, Th. Lenarz, H. Maier, O. Majdani and A. Warnecke. We are part of several structured graduation programms, including the PhD Programm Auditory Sciences of the HBRS.
 
-The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industrial partners (Cochlear Ltd., MED-EL, Advanced Bionics, Blackrock).
+The institute receives funding from DFG, NIH (USA), BMBF, EU, DAAD and industrial partners (Cochlear Ltd., MED-EL, Advanced Bionics).
 
 
 <video src="/__downloads/h4all.360p.mp4" controls="true" type="video/mp4"></video> 
