@@ -12,6 +12,12 @@ Additionally DeHoCI incorporates a simulator of the electrical field and the aud
 
 This software tool has been implemented in MATLAB unfortunately, but still can be run as a standalone application.
 
+
+
+<!-- for mp3 please use type="audio/mpeg" -->
+
+<audio controls><source src="/__downloads/test.wav" type="audio/wav"> Your browser does not support the audio element. </audio>
+
 ## MusIC4allApp1.0
 
 ![music4all1.0](technologies/music4all1.0.png){style="float:right; margin-left:3em; width:200px;"}
