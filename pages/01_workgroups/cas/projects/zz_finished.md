@@ -6,7 +6,7 @@ Title: Finished Projects
 
 ### Toward fully minimally invasive cochlear implantation surgery.
 
-![RoboJig concept overview](zz_finished/10_robojig/robojig_overview.png){style="width:400px;"}
+![RoboJig concept overview](zz_finished/10_robojig/robojig_overview.png){style="width:600px;"}
 
 
 
