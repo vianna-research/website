@@ -1,4 +1,4 @@
-Title: GluingJig
+title: GluingJig
 
 - - -
 
@@ -7,15 +7,15 @@ Title: GluingJig
 ### Summary:
 Minimally invasive cochlear implant surgery (minCIS) requires appropiate surgical tools to drill a single bore hole from outside the skull directly down to the basal turn of the cochea. Recently, we introduced a new concept for providing a customized surgical targeting system, also known as "micro-stereotactic frame" (MSF) or surgical template. Main idea is to utilize bone cement to fix the individual pose of the template according to a previosly planned trajectory using individual images (e.g. CT or CBCT). 
 
-![Pictures showing an early prototype of the GluingJig](gluingjig/Banner_GluingJigV01.png "An early prototype")
+![Pictures showing an early prototype of the GluingJig](50_gluingjig/Banner_GluingJigV01.png "An early prototype")
 
 In a preliminary study, 18 samples of the surgical template were fabricated and evaluated regarding positioning accuracy. The mean positioning error at the target point (located in a depth of approx. 70 mm) was 0.30 mm with a standard deviation of 0.25mm \[[Rau _et al_. 2017](../publications/Rau2017_spie.pdf "External Link to full text")\]. 
 
-![](gluingjig/L1040405_b_800px.jpg){style="width:220px; float:left; margin-right:1em"} In 2018 we were able to demonstrates the feasibility of performing the minimally invasive access to the middle ear in a proof-of-concept study using the GluingJig surgical targeting system \[[Rau _et al_. 2018c](https://www.degruyter.com/downloadpdf/j/cdbme.2018.4.issue-1/cdbme-2018-0096/cdbme-2018-0096.pdf "External Link to full text")\]. In that study, the system was evaluated for the first time in a human cadaver trial. After screwing the reference frame ("Trifix") on one temporal bone specimen, a trajectory through the facial recess was planned after imaging. Using that plan the surgical template was composed utilizing bone cement and equipped with a linear guide for the surgical drill. After harding of the bone cement the template was mounted on top of the reference frame and used for drilling into the mastoid as previously planned. Facial nerve and chorda tympani could be preserved. The deviation between the actual drill hole and the planned trajectory was 0.17 mm at the level of the facial recess. The minimal distance of the drill hole to the facial nerve was 0.59 mm. 
+![](50_gluingjig/L1040405_b_800px.jpg){style="width:220px; float:left; margin-right:1em"} In 2018 we were able to demonstrates the feasibility of performing the minimally invasive access to the middle ear in a proof-of-concept study using the GluingJig surgical targeting system \[[Rau _et al_. 2018c](https://www.degruyter.com/downloadpdf/j/cdbme.2018.4.issue-1/cdbme-2018-0096/cdbme-2018-0096.pdf "External Link to full text")\]. In that study, the system was evaluated for the first time in a human cadaver trial. After screwing the reference frame ("Trifix") on one temporal bone specimen, a trajectory through the facial recess was planned after imaging. Using that plan the surgical template was composed utilizing bone cement and equipped with a linear guide for the surgical drill. After harding of the bone cement the template was mounted on top of the reference frame and used for drilling into the mastoid as previously planned. Facial nerve and chorda tympani could be preserved. The deviation between the actual drill hole and the planned trajectory was 0.17 mm at the level of the facial recess. The minimal distance of the drill hole to the facial nerve was 0.59 mm. 
 
-![](gluingjig/L1040426_800px.jpg){style="width:220px; float:right; margin-left:1em"} The proposed system should enable the patient specific fabrication of the instrument guide under sterile conditions. It does not require expensive equipment or technical personal. The whole process can be performed by OR staff in few minutes. These are advantages compared to previously developed systems and might facilitate its integration into clinical routine.
+![](50_gluingjig/L1040426_800px.jpg){style="width:220px; float:right; margin-left:1em"} The proposed system should enable the patient specific fabrication of the instrument guide under sterile conditions. It does not require expensive equipment or technical personal. The whole process can be performed by OR staff in few minutes. These are advantages compared to previously developed systems and might facilitate its integration into clinical routine.
 
-For more information about a first prototype of the GluingJig surgical targeting system please download the [**Flyer**](gluingjig/PosterGluingJig_engl.pdf). A German version of the flyer is available [here](gluingjig/PosterGluingJig_dt.pdf).
+For more information about a first prototype of the GluingJig surgical targeting system please download the [**Flyer**](50_gluingjig/PosterGluingJig_engl.pdf). A German version of the flyer is available [here](50_gluingjig/PosterGluingJig_dt.pdf).
 
 - - -
 ### Contact:
