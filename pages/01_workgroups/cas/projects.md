@@ -2,11 +2,6 @@ title: Projects
 
 
 
-Overview of the RoboJig surgery vs. conventional approach.
-
-**Contact: Dr.-Ing. Thomas Rau | Rau.Thomas@mh-hannover.de**
-
----
 ## [GluingJig](projects/50_gluingjig.md)
 
 ### Individually mouldable surgical targeting system
@@ -36,9 +31,9 @@ Overview of the RoboJig surgery vs. conventional approach.
 
 ---
 ## [Finished Projects](projects/zz_finished.html)
-- [RoboJig](projects/zz_finished/10_robojig.md)
 
-  Minimally-invasive CI-surgery
+- [RoboJig](projects/zz_finished/10_robojig.md)
+Minimally-invasive CI-surgery
 
 - [AkvaMed](projects/zz_finished/akvamed.md)
 Fluid-mechanical, compliant actuator for the active bending of an CI electrode carrier
