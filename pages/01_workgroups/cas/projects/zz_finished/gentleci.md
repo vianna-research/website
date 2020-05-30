@@ -1,5 +1,3 @@
-status: hide
-
 title:Gentle-CI
 
 
@@ -13,7 +11,7 @@ title:Gentle-CI
 - embedding the actuator in the electrode carrier
 - characterization and testing of the functionalized implants
 
-![graded Nitinol-actuator](gentleci/gentleci2.png){style="width:450px"}
+
 
 
 ### Project Partners: 
