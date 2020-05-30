@@ -1,6 +1,16 @@
 Title: Finished Projects
 
-## [Hearing4all 1.0 - EMS ](zz_finished/ems.html)
+
+
+## [RoboJig](zz_finished/10_robojig.md)
+
+### Toward fully minimally invasive cochlear implantation surgery.
+
+![RoboJig concept overview](zz_finished/10_robojig/robojig_overview.png)
+
+
+
+## [Hearing4all 1.0 - EMS ](zz_finished/ems.md)
 
 ### Electromechanical Stimulation of the Cochlea
 
@@ -9,8 +19,8 @@ Title: Finished Projects
 
 
 ---
-## [Akva-Med](zz_finished/akvamed.html)
- 
+## [Akva-Med](zz_finished/akvamed.md)
+
 ### Electrode Development: fluidically actuated implant
 
 ![FE-Simulation of fluidically actuated implants](zz_finished/akvamed/akvamed3.png){style="width:300px"}
@@ -18,7 +28,7 @@ Title: Finished Projects
 
 
 ---
-## [Mini-Hexapod](zz_finished/hexapod2.html)
+## [Mini-Hexapod](zz_finished/hexapod2.md)
 
 ### Minimally invasive cochlear implant surgery
 
@@ -26,9 +36,8 @@ Title: Finished Projects
 
 
 
-
 ---
-## [GentleCI](zz_finished/gentleci.html)
+## [GentleCI](zz_finished/gentleci.md)
 
 ### Electrode Development: laser-sintering of nickel-titanium (nitinol) actuators for cochlear implants
 
