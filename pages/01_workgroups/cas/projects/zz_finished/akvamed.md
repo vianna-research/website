@@ -4,7 +4,6 @@ title: AkvaMed
 ### Aims:
 
 "Aktiv-verformbare, hydraulisch-aktuierte, nachgiebige Mechanismen für schonende Implantate und Instrumentarien" (Akva-Med)
-	
 - Using compliant mechanisms for actuation of medical implants and instruments
 - Planning, testing, analytical synthesis and fabrication of CI electrode carrier with fludically actuation 
 
@@ -31,7 +30,7 @@ Expected benefit of such mechanisms:
  Adaptiver Elektrodenträger, seine Verwendung und Verfahren zu seiner Insertion
  file number: DE 10 2016 003 295 B3, patent granted 23.03.2017, [[**PDF**](https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&docid=DE102016003295B3)\] 
 
-![](05_akvamed/2015auszeichnung.jpg){style="width:526px"} ![](05_akvamed/iena.png){style="width:248px"}
+![](akvamed/2015auszeichnung.jpg){style="width:526px"} ![](akvamed/iena.png){style="width:248px"}
 
 The research team from Medical School Hannover and Ilmenau University of Technology, represented by Silke Hügl (MHH) and Stefan Griebel (TUI), receive the gold medal from Henning Könicke (iENA manager, left). *Image: Andreas Heckel*
 
