@@ -79,7 +79,6 @@ The main goal of this project is to enhance the signing voice of music as previo
 
 The new technologies are considered to perform in real-time and to be evaluated under a controlled virtual reality environment and also under a real sound scenario. This allows characterizing the individual CI user from the periphery to the central auditory system. 
 
-- - - 
 ### Music Source Separation Using Deep Neural Networks:
 
 Music Samples of the Real-time Music Source Separation experiment. In this Experminet s multilayer perceptron has been used to separate the singing voice from the intruments accompaniment...
@@ -88,6 +87,7 @@ Music Samples of the Real-time Music Source Separation experiment. In this Exper
 <audio controls><source src="/pages/01_workgroups/nogueira/projects/speech.mp3" type="audio/mpeg"> </audio>
 <audio controls><source src="/pages/01_workgroups/nogueira/projects/instruments.mp3" type="audio/mpeg"> </audio>
 <audio controls><source src="/pages/01_workgroups/nogueira/projects/enhanced.mp3" type="audio/mpeg"> </audio>
+
  ### Publications:
     
 - S. Tahmasebi, T. Gajȩcki, W. Nogueira. Design and Evaluation of a Real-Time Audio Source Separation Algorithm to Remix Music for Cochlear Implant Users. Frontiers in Neuroscience. 14, 434. doi: 110.3389/fnins.2020.00434. Epub 2020 May 14.  
