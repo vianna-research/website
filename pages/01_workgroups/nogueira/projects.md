@@ -61,6 +61,7 @@ DHZ-Deutsches HörZentrum Hannover:
     
     
  ### Publications:
+ 
 - R. Hinrichs, T. Gajecki, J. Ostermann, W. Nogueira. Coding of Elec-trical Stimulation Patterns for Binaural Sound Coding Strategies for Cochlear Implants. IEEE EMBC, 2019
     
 - T. Gajecki, W. Nogueira.A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bi-lateral Cochlear Implant Users.  ITG Speech Communication, 2018    
