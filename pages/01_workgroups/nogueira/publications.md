@@ -39,6 +39,9 @@ Front Neurosci. 2019 Jul 18;13:720. doi: 10.3389/fnins.2019.00720. eCollection 2
 **Nogueira W**, Krüger B, Büchner A, Lopez-Poveda E.
 Hear Res. 2019 Mar 1;373:121-129. doi: 10.1016/j.heares.2018.06.001. Epub 2018 Jun 15.
 
+* **[Coding of Elec-trical Stimulation Patterns for Binaural Sound Coding Strategies for Cochlear Implants.](https://www.tnt.uni-hannover.de/papers/data/1347/IEEE_EMBC_2019.pdf)**
+Hinrichs R, Gajecki T, Ostermann J, **Nogueira W**.
+IEEE EMBC, 2019
 
 ## 2018
 
@@ -53,6 +56,11 @@ Hear Res. 2018 Mar;359:64-75. doi: 10.1016/j.heares.2017.12.019. Epub 2017 Dec 2
 * **[Perceptual changes with monopolar and phantom electrode stimulation.](https://www.sciencedirect.com/science/article/pii/S0378595517303076?via%3Dihub)**
 Klawitter S, Landsberger DM, Büchner A, **Nogueira W**.
 PLoS One. 2018 Apr 13;13(4):e0193842. doi: 10.1371/journal.pone.0193842. eCollection 2018.
+
+
+* **[A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bi-lateral Cochlear Implant Users.]**
+T. Gajecki, **Nogueira W**.
+ITG Speech Communication, 2018.
 
 
 ## 2017
