@@ -61,7 +61,7 @@ DHZ-Deutsches HörZentrum Hannover:
     
     
  ### Publications:
- - R. Hinrichs, T. Gajecki, J. Ostermann, W. Nogueira. Coding of Elec-trical Stimulation Patterns for Binaural Sound Coding Strategies for Cochlear Implants. IEEE EMBC, 2019
+- R. Hinrichs, T. Gajecki, J. Ostermann, W. Nogueira. Coding of Elec-trical Stimulation Patterns for Binaural Sound Coding Strategies for Cochlear Implants. IEEE EMBC, 2019
     
 - T. Gajecki, W. Nogueira.A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bi-lateral Cochlear Implant Users.  ITG Speech Communication, 2018    
     
@@ -88,7 +88,7 @@ Music Samples of the Real-time Music Source Separation experiment. In this Exper
 <audio controls><source src="/pages/01_workgroups/nogueira/projects/instruments.mp3" type="audio/mpeg"> </audio>
 <audio controls><source src="/pages/01_workgroups/nogueira/projects/enhanced.mp3" type="audio/mpeg"> </audio>
 
- ### Publications:
+### Publications:
     
 - S. Tahmasebi, T. Gajȩcki, W. Nogueira. Design and Evaluation of a Real-Time Audio Source Separation Algorithm to Remix Music for Cochlear Implant Users. Frontiers in Neuroscience. 14, 434. doi: 110.3389/fnins.2020.00434. Epub 2020 May 14.  
        
