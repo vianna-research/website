@@ -58,3 +58,11 @@ DHZ-Deutsches HörZentrum Hannover:
     Prof. Dr.-Ing. Waldo Nogueira
     Karl-Wiechert-Allee 3 
     30625 Hannover
+    
+    
+ ### Publications:
+ - R. Hinrichs, T. Gajecki, Jörn Ostermann, W. Nogueira. Coding of Elec-trical Stimulation Patterns for Binaural Sound Coding Strategies for Cochlear Implants. IEEE EMBC, 2019
+    
+- T. Gajecki, W. Nogueira.A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bi-lateral Cochlear Implant Users.  ITG Speech Communication, 2018    
+    
+    
