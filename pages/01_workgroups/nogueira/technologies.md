@@ -16,9 +16,6 @@ This software tool has been implemented in MATLAB unfortunately, but still can b
 
 <!-- for mp3 please use type="audio/mpeg" -->
 
-<audio controls><source src="/pages/01_workgroups/nogueira/projects/original.mp3" type="audio/mpeg"> </audio>
-
-
 <audio controls><source src="/__downloads/test.wav" type="audio/wav"> Your browser does not support the audio element. </audio>
 
 ## MusIC4allApp1.0
