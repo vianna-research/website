@@ -90,7 +90,12 @@ Music Samples of the Real-time Music Source Separation experiment. In this Exper
 
 <audio controls><source src="../nogueira/speech.wav" type="audio/wav"> Your browser does not support the audio element. </audio>
 
-<audio controls><source src="../speech.wav" type="audio/wav"> Your browser does not support the audio element. </audio>
+<audio controls> <source src="../speech.wav" type="audio/wav"> </audio>
+
+<audio controls><source src="/pages/01_workgroups/nogueira/speech.wav" type="audio/wav"> Your browser. </audio>
+
+<audio controls><source src="../pages/01_workgroups/nogueira/speech.wav" type="audio/wav"> Your browser.</audio>
+
 
 ### Publications:
     
