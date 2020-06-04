@@ -11,7 +11,6 @@ Given that the population in Europe is becoming older with increased hearing los
 
 The characterization will consist of psychophysical, electrophysiological, imaging and backward telemetry measures in EAS users. Psychophysically, the acoustic and electric interaction will be measured by means of simultaneous or forward masking experiments. Cone beam computer tomography (CBCT) for each study participant will be used to assess the insertion depth and electrode positions. Electrical field imaging (EFI) from the backward telemetry of the implant will be used to characterize the electrode neuron interface, and finally electrocochleography (eChochG) measures will be used to assess the overlap between acoustic and electric stimulation at the neural level. The outcomes of this project are datasets, fitting procedures and a model characterizing the interaction between acoustic and electric stimulation of each EAS user. These outcomes have application to optimize the configuration of EAS devices and to assess whether the indication for EAS implantation can be potentially extended to people with age related hearing loss.
 
-- - -
 
 ### Funding:
 
