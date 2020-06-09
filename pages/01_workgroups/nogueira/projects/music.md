@@ -19,9 +19,9 @@ Music Samples of the Real-time Music Source Separation experiment. In this Exper
 
 
 ### This is an example
-<audio controls><source src="/speech.wav" type="audio/wav"> Your browser.</audio>
-<audio controls><source src="speech.mp3" type="audio/mp3"> Your browser.</audio>
-<audio controls><source src="/speech.mp3" type="audio/mp3"> Your browser.</audio>
+
+<audio controls><source src="/pages/01_workgroups/nogueira/projects/speech.wav" type="audio/wav"> Your browser.</audio>
+<audio controls><source src="/projects/speech.wav" type="audio/wav"> Your browser.</audio>
 
 
 ### Publications:
