@@ -17,10 +17,10 @@ Music Samples of the Real-time Music Source Separation experiment. In this Exper
 
 Here is a demo of the music pieces used in this experiment.
 
-Original Mixture <audio controls><source src="/__downloads/apg/original.mp3" type="audio/mpeg"> Your browser.</audio>
-Enhanced Mixture<audio controls><source src="/__downloads/apg/enhanced.mp3" type="audio/mpeg"> Your browser.</audio>
-Vocals Signal<audio controls><source src="/__downloads/apg/speech.mp3" type="audio/mpeg"> Your browser.</audio>
-Instruments Signal<audio controls><source src="/__downloads/apg/instruments.mp3" type="audio/mpeg"> Your browser.</audio>
+|Original Mixture| <audio controls><source src="/__downloads/apg/original.mp3" type="audio/mpeg"> Your browser.</audio>
+|Enhanced Mixture| <audio controls><source src="/__downloads/apg/enhanced.mp3" type="audio/mpeg"> Your browser.</audio>
+|Vocals Signal| <audio controls><source src="/__downloads/apg/speech.mp3" type="audio/mpeg"> Your browser.</audio>
+|Instruments Signal| <audio controls><source src="/__downloads/apg/instruments.mp3" type="audio/mpeg"> Your browser.</audio>
 
 
 ### Publications:
