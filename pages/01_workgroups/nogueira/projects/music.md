@@ -15,12 +15,17 @@ Music Samples of the Real-time Music Source Separation experiment. In this Exper
 
 <audio controls><source src="/__downloads/test.wav" type="audio/wav"> Your browser does not support the audio element. </audio>
 
+<audio controls><source src="/__downloads/speech.wav" type="audio/wav"> Your browser does not support the audio element. </audio>
+
+
+
 
 
 ### This is an example
 
 <audio controls><source src="/pages/01_workgroups/nogueira/projects/speech.wav" type="audio/wav"> Your browser.</audio>
 <audio controls><source src="/projects/speech.wav" type="audio/wav"> Your browser.</audio>
+<audio controls><source src="/__downloads/APG/instruments.mp3" type="audio/mpeg"> Your browser.</audio>
 
 
 ### Publications:
