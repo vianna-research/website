@@ -11,13 +11,13 @@ The new technologies are considered to perform in real-time and to be evaluated 
 
 ## Music Source Separation Using Deep Neural Networks:
 
-Music Samples of the Real-time Music Source Separation experiment. In this Experminet a multilayer perceptron has been used to separate the singing voice from the intruments accompaniment to remix the music. It has been schown that CI users enjoy music better when the singing voice is ehnaced with the respect to the back ground instruments.
+Music Samples of the Real-time Music Source Separation experiment. In this Experminet a multilayer perceptron has been used to separate the singing voice from the intruments accompaniment to remix the music track. It has been schown that CI users enjoy music better when the singing voice is ehnaced with the respect to the back ground instruments. Our results indicate that CI users enjoy music better when the singing voice is 8 dB enhanced with the respect to the background accompaniment.
 
 ### Audio Example: 
 
-Here is a demo of the music tracks used in this experiment.
+Bellow is a demo of the music tracks used in this experiment.
 
-| Example 1                       |
+| Example 1    |
 |:---|---:|
 |Original Mixture | <audio controls><source src="/__downloads/apg/original.mp3" type="audio/mpeg"> Your browser.</audio>|
 |Enhanced Mixture | <audio controls><source src="/__downloads/apg/enhanced.mp3" type="audio/mpeg"> Your browser.</audio>|
