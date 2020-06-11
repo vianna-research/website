@@ -15,12 +15,12 @@ title: Projects
 
 - ### **[DSA-CI](https://www.vianna.de/01_workgroups/nogueira/projects/dsaci.html)**    
 
+---
 
 
+- ### **[EAS-Masking: Electroacoustic Stimulation](https://www.vianna.de/01_workgroups/nogueira/projects/eas.html)**
 
-- ### **[EAS-Masking](https://www.vianna.de/01_workgroups/nogueira/projects/eas.html)**![Schematic drawing of an CI electrode array and some nearby hair cells.](projects/eas.logo-small.png){style="float:right; margin-left:3em"}
-
-- ### **[BINOM](https://www.vianna.de/01_workgroups/nogueira/projects/binom.html)**![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](projects/binom-small.png){style="float:right; margin-left:3em"}
+- ### **[BINOM: Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants](https://www.vianna.de/01_workgroups/nogueira/projects/binom.html)**
 
 - ### **[MusIC](https://www.vianna.de/01_workgroups/nogueira/projects/music.html)**
 
