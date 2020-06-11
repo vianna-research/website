@@ -7,10 +7,9 @@ title: Projects
 
 - - -
 
-- ## BINOM: Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants
+- ## BINOM
 
-
-![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](projects/binomlogo_1.png){style="float:right; margin-left:3em"}
+![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](projects/binomlogo_1.png)
 
 - - -
 
