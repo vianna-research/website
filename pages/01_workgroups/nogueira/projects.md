@@ -1,7 +1,8 @@
 title: Projects
 
 
-- ## [EAS-Masking] (https://www.vianna.de/01_workgroups/nogueira/projects/eas.html)
+- ## **[EAS-Masking](https://www.vianna.de/01_workgroups/nogueira/projects/eas.html)**
+
 
 ![Schematic drawing of an CI electrode array and some nearby hair cells.](projects/eas.logo-small.png)
 
