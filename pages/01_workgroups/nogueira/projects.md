@@ -9,7 +9,7 @@ title: Projects
 
 - ## BINOM
 
-![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](projects/binomlogo_1.png)
+![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](projects/binomlogo_1.png =250x)
 
 - - -
 
