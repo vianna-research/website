@@ -11,12 +11,15 @@ title: Staff
 | Research Team                                                                                                      |
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
 |![Portrait](staff/Krueger.jpg) | Benjamin Krüger        | Krueger.Benjamin (at)mh-hannover.de |
-|![Portrait](staff/Langner.jpg)	| Florian Langner        | Langner.Florian (at)mh-hannover.de	 |
-|![Portrait](staff/Imsiecke.jpg)	| Marina Imsiecke 			 | Imsiecke.Marina(at)mh-hannover.de	 |
 |![Portrait](staff/Gajecki.jpg)	| Tomas Gajecki 				 | Gajecki.Tomas(at)mh-hannover.de	   |
 |![Portrait](staff/Alrutz.jpg)	| Daniel Alrutz 				 | Kipping.Daniel(at)mh-hannover.de	   |
 |![Portrait](staff/Tahmasebi.jpg)	| Sina Tahmasebi 				 | Tahmasebi.Sina(at)mh-hannover.de	   |
 
+
+| Former Staff                                                                                                      |
+|:------------------------------|:----------------------------------------------|--------------------------------------:|
+|![Portrait](staff/Langner.jpg)	| Florian Langner        | Langner.Florian (at)mh-hannover.de	 |
+|![Portrait](staff/Imsiecke.jpg)	| Marina Imsiecke 			 | Imsiecke.Marina(at)mh-hannover.de	 |
 
 
 
