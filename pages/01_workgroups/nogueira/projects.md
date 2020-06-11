@@ -18,9 +18,9 @@ title: Projects
 ---
 
 
-- ### **[EAS-Masking: Electroacoustic Stimulation](https://www.vianna.de/01_workgroups/nogueira/projects/eas.html)**
+- ### **[EAS-Masking](https://www.vianna.de/01_workgroups/nogueira/projects/eas.html)**
 
-- ### **[BINOM: Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants](https://www.vianna.de/01_workgroups/nogueira/projects/binom.html)**
+- ### **[BINOM](https://www.vianna.de/01_workgroups/nogueira/projects/binom.html)**
 
 - ### **[MusIC](https://www.vianna.de/01_workgroups/nogueira/projects/music.html)**
 
