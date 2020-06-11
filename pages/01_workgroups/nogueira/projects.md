@@ -5,93 +5,18 @@ title: Projects
 
 ![Schematic drawing of an CI electrode array and some nearby hair cells.](projects/logo-eas-masking-orig_orig.png)
 
-veryday more people with residual hearing receive cochlear implants (CIs) to obtain electroacoustic stimulation (EAS), i.e. combined auditory stimulation delivered electrically from CI electrodes and acoustically through a hearing aid (HA). For EAS users low frequency acoustic hearing produces almost no recognition for speech in noise, but the performance is significantly enhanced when combined with the electric hearing delivered by the CI. However, it is still unknown how the acoustic and electric stimulation modalities interact with each other. Clinical experience has found that some EAS users do not use the HA at all and rely solely on electric stimulation. Moreover, it has been observed that EAS users require more time to achieve their maximum performance with the CI alone than regular CI users. These limitations may have influence in defining the implantation criteria of EAS. Possible explanations for these limitations are interactions between acoustic and electric stimulation. These interactions become more and more important for people with large residual hearing because the overlap between electric and acoustic stimulation is larger. For example, it has been shown that the range of hearing loss for which EAS devices are prescribed is getting closer to the range of age related hearing loss. Age related hearing loss, as EAS, is characterized by lost of audibility in the high frequencies.
-
-Given that the population in Europe is becoming older with increased hearing loss related problems new treatments are required to rehabilitate people with age related hearing loss. Cognitive decline and hearing loss seem to be related and new treatments such as EAS are very promising to improve quality of life of the elderly population. This work is about characterizing the interaction between acoustic and electric stimulation.
-
-The characterization will consist of psychophysical, electrophysiological, imaging and backward telemetry measures in EAS users. Psychophysically, the acoustic and electric interaction will be measured by means of simultaneous or forward masking experiments. Cone beam computer tomography (CBCT) for each study participant will be used to assess the insertion depth and electrode positions. Electrical field imaging (EFI) from the backward telemetry of the implant will be used to characterize the electrode neuron interface, and finally electrocochleography (eChochG) measures will be used to assess the overlap between acoustic and electric stimulation at the neural level. The outcomes of this project are datasets, fitting procedures and a model characterizing the interaction between acoustic and electric stimulation of each EAS user. These outcomes have application to optimize the configuration of EAS devices and to assess whether the indication for EAS implantation can be potentially extended to people with age related hearing loss.
-
-
-### Funding:
-
-This project is funded by the German Research Foundation (Deutsche Forschungsgemeinschaft (DFG)) - Project number: 396932747 
-
-### Contact:
-
-DHZ-Deutsches HörZentrum Hannover:
-
-    Prof. Dr.-Ing. Waldo Nogueira
-    Karl-Wiechert-Allee 3 
-    30625 Hannover
-
-### Publications:
-
-- W. Nogueira, B. Krüger, A. Büchner, E. Lopez-Poveda (2018), Contralateral Suppression of Human Hearing Sensitivity in Single-sided Deaf Cochlear Implant Users, Hearing Research, (In Press).
-- M. Imsiecke, B. Krüger, A. Büchner, T. Lenarz, W. Nogueira (2018), Electric-Acoustic Forward Masking in Cochlear Implant Users with Ipsilateral Residual Hearing, Hearing Research, Hear Res. 2018 Jul;364:25-37. doi: 10.1016/j.heares.2018.04.003. Epub 2018 Apr 9.
-- B. Krüger, A. Büchner, W. Nogueira (2017), Simultaneous Masking between Electric and Acoustic Stimulation in Cochlear Implant Users with Low Frequency Hearing, Hearing Research, https://doi.org/10.1016/j.heares.2017.06.014.
-
-
 - - -
-
 
 ## BINOM: Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants
 
 
 ![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](projects/binomlogo_1.png){style="float:right; margin-left:3em"}
 
+---
 
-A cochlear implant (CI) is a small electronic device that is surgically implanted in the inner ear and can restore the sense of hearing of a profoundly deaf person by electrical stimulation of the auditory nerve. Although nowadays speech intelligibility in quiet environments and even speech over the telephone represents no major problem for most CI users, speech intelligibility in noisy environments is still a major challenge. CI users need significantly higher Signal-to-Noise Ratios (SNRs) to achieve the same speech intelligibility as normal-hearing listeners.
-
-For this reason, binaural speech enhancement techniques have emerged to improve the SNR in noisy acoustic conditions by making use of the information captured by the microphones on both the left and the right ear in a combined signal processing. However, the transmission of the audio signals from one ear to the other needs to be done with low latency, low bitrate and very high quality such that the binaural algorithms can improve speech performance in noise without unnecessarily decreasing the battery life of the devices.
-
-This project therefore is about designing a new data reduction method that allows for such a transmission of signals and therefore enables a binaural signal processing in CIs. It is based on an efficient custom-taylored transmission of electrical stimulation patterns for meeting the requirements mentioned while providing the highest possible gains in speech perception and fidelity. It will be combined with enhanced algorithms for binaural signal processing and evaluated regarding its influence on speech intelligibility, audio quality and localization in several subjective tests.
-
-The planed project is a collaborative project between the Auditory Prosthetic Group of the German Hearing Center that is part of the Medical University Hannover (MHH) and the Institut für Informationsverarbeitung (TNT) of the Leibniz Universität Hannover. In the course of the project both project partners will make significant progress in their field of research in particular data reduction for audio applications (TNT) and binaural signal enhancement for CIs (MHH). In addition this cooperation is a great opportunity to exchange knowledge between an engineering department and a medical school. Doing so, engineering methods and medical expertise can be combined to ensure the success of the project.
-
-### Funding:
-This project is funded by the German Research Foundation (DFG) - Project number: 381895691
-
-### Contact:
-DHZ-Deutsches HörZentrum Hannover:
-
-    Prof. Dr.-Ing. Waldo Nogueira
-    Karl-Wiechert-Allee 3 
-    30625 Hannover
-    
-    
-### Publications:
- 
-- R. Hinrichs, T. Gajecki, J. Ostermann, W. Nogueira. Coding of Elec-trical Stimulation Patterns for Binaural Sound Coding Strategies for Cochlear Implants. IEEE EMBC, 2019
-    
-- T. Gajecki, W. Nogueira.A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bi-lateral Cochlear Implant Users.  ITG Speech Communication, 2018    
-    
-    
-
-- - - 
+## MusIC
 
 
-## MusIC: Making Music More Accessible for Cochlear Implant Users
-Listening to music is an important and enjoyable part of many people’s lives that can improve quality of life through its recreational and rehabilitative function. For example, music involvement is important for the development of the brain, particularly during childhood and can mitigate symptoms of Alzheimer’s disease in older. Yet, people with hearing impairment have severe limitations to perceive and appreciate music. 
-
-This project focuses on increasing music appreciation for cochlear implant (CI) users.  Moreover, it focuses on individually adjustable settings to improve the perception and appreciation of music. 
-
-The main goal of this project is to enhance the signing voice of music as previous studies have shown that this enhancement improves music appreciation for CI users. In contrast to state-of-the-art hearing devices which are designed to fit everybody (one size fits all) this proposal takes into consideration the individual user. For this purpose, deep neural network will be used to apply the desired user preference such that music can be enhanced according to the individual’s needs. 
-
-The new technologies are considered to perform in real-time and to be evaluated under a controlled virtual reality environment and also under a real sound scenario. This allows characterizing the individual CI user from the periphery to the central auditory system. 
-
-### Music Source Separation Using Deep Neural Networks:
-
-Music Samples of the Real-time Music Source Separation experiment. In this Experminet s multilayer perceptron has been used to separate the singing voice from the intruments accompaniment...
-
-<audio controls><source src="/__downloads/test.wav" type="audio/wav"> Your browser does not support the audio element. </audio>
-
-<audio controls><source src="/pages/01_workgroups/nogueira/speech.wav" type="audio/wav"> Your browser.</audio>
-
-
-### Publications:
-    
-- S. Tahmasebi, T. Gajȩcki, W. Nogueira. Design and Evaluation of a Real-Time Audio Source Separation Algorithm to Remix Music for Cochlear Implant Users. Frontiers in Neuroscience. 14, 434. doi: 110.3389/fnins.2020.00434. Epub 2020 May 14.  
-       
     
 ### Contact:
 DHZ-Deutsches HörZentrum Hannover:
