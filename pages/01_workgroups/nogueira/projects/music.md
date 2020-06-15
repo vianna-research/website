@@ -22,7 +22,6 @@ Bellow is a demo of the music tracks used in this experiment.
 |Original Mixture | <audio controls><source src="/__downloads/apg/original.mp3" type="audio/mpeg"> Your browser.</audio>| <audio controls><source src="/__downloads/apg/originalsec.mp3" type="audio/mpeg"> Your browser.</audio>| 
 |Enhanced Mixture | <audio controls><source src="/__downloads/apg/enhanced.mp3" type="audio/mpeg"> Your browser.</audio>| <audio controls><source src="/__downloads/apg/enhancedsec.mp3" type="audio/mpeg"> Your browser.</audio>|
 |Vocals Signal | <audio controls><source src="/__downloads/apg/speech.mp3" type="audio/mpeg"> Your browser.</audio>| <audio controls><source src="/__downloads/apg/speechsec.mp3" type="audio/mpeg"> Your browser.</audio>|
-
 |Instruments Signal | <audio controls><source src="/__downloads/apg/instruments.mp3" type="audio/mpeg"> Your browser.</audio>| <audio controls><source src="/__downloads/apg/instrumentsec.mp3" type="audio/mpeg"> Your browser.</audio>|
 
 
