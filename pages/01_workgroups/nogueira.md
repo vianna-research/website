@@ -1,4 +1,4 @@
-title: Nogueira Lab - Auditory Prosthetic
+title: APG Lab - Auditory Prosthetic Group
 
 
 ![Auditory Prosthetic Group](nogueira/APG_Group_HNO.png){style="float:right; margin-left:1em"}
