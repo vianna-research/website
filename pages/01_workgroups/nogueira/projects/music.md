@@ -34,6 +34,15 @@ Bellow is a demo of the music tracks used in this experiment.
     
 - S. Tahmasebi, T. Gajȩcki, W. Nogueira. **[Design and Evaluation of a Real-Time Audio Source Separation Algorithm to Remix Music for Cochlear Implant Users.](https://www.frontiersin.org/articles/10.3389/fnins.2020.00434/full)** Frontiers in Neuroscience. 14, 434. doi: 110.3389/fnins.2020.00434. Epub 2020 May 14.  
 
+- W. Nogueira, A.  Nagathi, R. Martin. "Making Music More Accessible for Cochlear Implant Listeners: Recent Developments," in IEEE Signal Processing Magazine, vol. 36, no. 1, pp. 115-127, Jan. 2019, doi: 10.1109/MSP.2018.2874059.
+
+- T. Gajęcki, W. Nogueira. Deep learning models to remix music for cochlear implant users. The Journal of the Acoustical Society of America, 143(6), 3602-3615. June 2018.
+
+- J. Pons, J. Janer, T. Rode, W. Nogueira. . Remixing music using source separation algorithms to improve the musical experience of cochlear implant users. The Journal of the Acoustical Society of America, 140(6), 4338-4349. December 2016.
+
+
+
+
  
     
 ### Contact:
