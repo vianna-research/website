@@ -17,7 +17,8 @@ Music Samples of the Real-time Music Source Separation experiment. In this Exper
 
 Bellow is a demo of the music tracks used in this experiment.
 
-| Msuic Track | Example 1 | Example 2 |  
+
+| Music Track |       Example 1 |       Example 2 |  
 |:---|:---|---:|
 |Original Mixture | <audio controls><source src="/__downloads/apg/original.mp3" type="audio/mpeg"> Your browser.</audio>| <audio controls><source src="/__downloads/apg/originalsec.mp3" type="audio/mpeg"> Your browser.</audio>| 
 |Enhanced Mixture | <audio controls><source src="/__downloads/apg/enhanced.mp3" type="audio/mpeg"> Your browser.</audio>| <audio controls><source src="/__downloads/apg/enhancedsec.mp3" type="audio/mpeg"> Your browser.</audio>|
