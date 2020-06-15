@@ -8,8 +8,7 @@ In the summer term we offer the lecture "3D-Audio - Grundlagen räumlicher Audio
 
 ## Audio and Speech Signal Processing
 
-In this Lecture the students will develop a methodology to analyze code, recognize and synthesize audio signals using signal 
-processing techniques. More concrete the student should acquire the theoretical and practical competences related to:
+In this Lecture the students will develop a methodology to analyze code, recognize and synthesize audio signals using signal processing techniques. More concrete the student should acquire the theoretical and practical competences related to:
 - Fundamentals of acoustics, physiological and perception of sound
 - Fundamentals of digital signal processing of audio signals
 - Methods for modeling and processing audio and speech signals
