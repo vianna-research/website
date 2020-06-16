@@ -6,28 +6,29 @@ title:Staff
 
 
 | Members |||
-|:--|:---------------------------------------|:--------------------------------------|
+|:--|:-------------------------------------------------|:--------------------------------------|
 | ***Head of Research Group*** |||
 |![Portrait](staff/Thomas.jpg) | Dr.-Ing. Thomas S. Rau         | rau.thomas@mh-hannover.de   |
 | ***Research Team*** |||
 |![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             | kilian.julia@mh-hannover.de |
-|![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/geraldine.jpg) | M. Geraldine Zuniga, MD			| zunigamanrique.maria@mh-hannover.de	  |
-| ***Associated Staff***  |||																
+| ***Associated Staff***  |||	
+|![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/empty.jpg)  | Dr. Martina Nullmeier	<br> Senior Scientist <br> Cochlear Deutschland GmbH & Co. KG | mnullmeier@cochlear.com |
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Physician ENT     		| salcher.rolf@mh-hannover.de|
 |![Portrait](staff/maxt.png) | Max Eike Timm  <br> Assistant Physician ENT    | timm.max@mh-hannover.de |
 | ***Students*** |||                                                                                             |
-|![Portrait](staff/empty.jpg) 	| Shari Barati								| Medical Doctorate Thesis |
-|![Portrait](staff/tobias.png) 	| Tobias Blum 								| Student Assistant |
+|![Portrait](staff/empty.jpg) 	                            | Shari Barati								| Medical Doctorate Thesis |
+|                                                           | Leon Budde                  | Master Thesis |
+|![Portrait](staff/tobias.png) 	                            | Tobias Blum 								| Student Assistant |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis |
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
-|![Portrait](staff/lena.jpg)	  | Lena Geiger								  | Medical Doctorate Thesis  | 
+|![Portrait](staff/lena.jpg)	                                | Lena Geiger								  | Medical Doctorate Thesis  | 
 |![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
 |![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	  | Jan Mairose								  | Student Assistant	| 
-|![Portrait](staff/christianm.png)| Christian Menke						| Medical Doctorate Thesis |
+|![Portrait](staff/christianm.png)                            | Christian Menke						| Medical Doctorate Thesis |
 |![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis | 
-|![Portrait](staff/empty.jpg) 	| Sina Witte 				    			| Medical Doctorate Thesis |
+|![Portrait](staff/empty.jpg) 	                              | Sina Witte 				    			| Medical Doctorate Thesis |
 
 
 
