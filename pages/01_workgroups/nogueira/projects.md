@@ -8,8 +8,7 @@ title: Projects
 
 - ### **[MusIC](https://www.vianna.de/01_workgroups/nogueira/projects/music.html)**
 
-- ### **[DSA-CI](https://www.vianna.de/01_workgroups/nogueira/projects/dsaci.html)**    
-
+- ### **[SA-Decoding](https://www.vianna.de/01_workgroups/nogueira/projects/dsaci.html)**    
 
 
 
