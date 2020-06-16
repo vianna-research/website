@@ -27,6 +27,10 @@ DHZ-Deutsches HörZentrum Hannover:
 - Nogueira, W., Dolhopiatenko, H., Schierholz, I., Büchner, A., Mirkovic, B., Bleichner, M. G., & Debener, S. (2019).  **[Decoding selective attention in normal hearing listeners and bilateral cochlear implant users with concealed ear EEG. Frontiers in Neuroscience.](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)** Frontiers in Neuroscience, 13(JUL), 1–15. https://doi.org/10.3389/fnins.2019.00720
 
 
+- W. Nogueira, G. Cosatti, I. Schierholz, M. Egger, B. Mirkovic and A. Büchner.  **[Toward Decoding Selective Attention From Single-Trial EEG Data in Cochlear Implant Users.](https://ieeexplore.ieee.org/document/8674613)** IEEE Transactions on Biomedical Engineering, vol. 67, no. 1, pp. 38-49, Jan. 2020, doi: 10.1109/TBME.2019.2907638.
+
+
+- W. Nogueira and H. Dolhopiatenko. **[Towards Decoding Selective Attention from Single-Trial EEG Data in Cochlear Implant users based on Deep Neural Networks," ICASSP 2020 - 2020 IEEE International Conference on Acoustics.](https://ieeexplore.ieee.org/document/9054021)** Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 8708-8712, doi: 10.1109/ICASSP40776.2020.9054021.
 
 
 
