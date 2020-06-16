@@ -19,7 +19,7 @@ title:Staff
 |![Portrait](staff/maxt.png) | Max Eike Timm  <br> Assistant Physician ENT    | timm.max@mh-hannover.de |
 | ***Students*** |||                                                                                             |
 |![Portrait](staff/empty.jpg) 	                            | Shari Barati								| Medical Doctorate Thesis |
-|                                                           | Leon Budde                  | Master Thesis |
+| <span class="glyphicon glyphicon-user" aria-hidden="true"></span>                                                           | Leon Budde                  | Master Thesis |
 |![Portrait](staff/tobias.png) 	                            | Tobias Blum 								| Student Assistant |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis: "Characterization of the electrical current heating process of CI electrode carriers using infrared thermography."  |
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
