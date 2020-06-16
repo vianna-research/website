@@ -8,20 +8,13 @@ This project investigates the possibilities of decoding selective attention in N
 
 
 
-
 - - -
 
 ### Funding:
 
 This project is funded by ... - Project number: ... 
 
-### Contact:
 
-DHZ-Deutsches HörZentrum Hannover:
-
-    Prof. Dr.-Ing. Waldo Nogueira
-    Karl-Wiechert-Allee 3 
-    30625 Hannover
 
 ### Publications:
 - Nogueira, W., Dolhopiatenko, H., Schierholz, I., Büchner, A., Mirkovic, B., Bleichner, M. G., & Debener, S. (2019).  **[Decoding selective attention in normal hearing listeners and bilateral cochlear implant users with concealed ear EEG. Frontiers in Neuroscience.](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)** Frontiers in Neuroscience, 13(JUL), 1–15. https://doi.org/10.3389/fnins.2019.00720
@@ -35,5 +28,11 @@ DHZ-Deutsches HörZentrum Hannover:
 
 
 
+### Contact:
 
+DHZ-Deutsches HörZentrum Hannover:
+
+    Prof. Dr.-Ing. Waldo Nogueira
+    Karl-Wiechert-Allee 3 
+    30625 Hannover
 
