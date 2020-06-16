@@ -18,16 +18,17 @@ title:Staff
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Physician ENT     		| salcher.rolf@mh-hannover.de|
 |![Portrait](staff/maxt.png) | Max Eike Timm  <br> Assistant Physician ENT    | timm.max@mh-hannover.de |
 | ***Students*** |||                                                                                             |
-|![Portrait](staff/empty.jpg) 	| Shari Barati								| Medical Doctorate Thesis |
-|![Portrait](staff/tobias.png) 	| Tobias Blum 								| Student Assistant |
-|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis |
+|![Portrait](staff/empty.jpg) 	                            | Shari Barati								| Medical Doctorate Thesis |
+|                                                           | Leon Budde                  | Master Thesis |
+|![Portrait](staff/tobias.png) 	                            | Tobias Blum 								| Student Assistant |
+|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis: "Characterization of the electrical current heating process of CI electrode carriers using infrared thermography."  |
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
-|![Portrait](staff/lena.jpg)	  | Lena Geiger								  | Medical Doctorate Thesis  | 
+|![Portrait](staff/lena.jpg)	                                | Lena Geiger								  | Medical Doctorate Thesis  | 
 |![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
 |![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	  | Jan Mairose								  | Student Assistant	| 
-|![Portrait](staff/christianm.png)| Christian Menke						| Medical Doctorate Thesis |
+|![Portrait](staff/christianm.png)                            | Christian Menke						| Medical Doctorate Thesis |
 |![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis | 
-|![Portrait](staff/empty.jpg) 	| Sina Witte 				    			| Medical Doctorate Thesis |
+|![Portrait](staff/empty.jpg) 	                              | Sina Witte 				    			| Medical Doctorate Thesis |
 
 
 
