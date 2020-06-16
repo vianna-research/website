@@ -21,7 +21,7 @@ title:Staff
 |![Portrait](staff/empty.jpg) 	                            | Shari Barati								| Medical Doctorate Thesis |
 | <span class="glyphicon glyphicon-user" aria-hidden="true"></span>                                                           | Leon Budde                  | Master Thesis |
 |![Portrait](staff/tobias.png) 	                            | Tobias Blum 								| Student Assistant |
-|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis: "Characterization of the electrical current heating process of CI electrode carriers using infrared thermography."  |
+|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis |
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
 |![Portrait](staff/lena.jpg)	                                | Lena Geiger								  | Medical Doctorate Thesis  | 
 |![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
