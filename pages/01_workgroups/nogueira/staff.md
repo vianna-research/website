@@ -22,9 +22,4 @@ title: Staff
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
 | | **[Team Forschung DHZ](https://www.hoerzentrum-hannover.de/wir-ueber-uns/team/forschung/)**    |      |
 |	| **[Team Ingenieure DHZ](https://www.hoerzentrum-hannover.de/wir-ueber-uns/team/ingenieure/)** 	|  	   |
-| Alumni                                                                                                     |
-|:------------------------------|:----------------------------------------------|--------------------------------------:|
-| |   |      |
-|	|  	|  	   |
 
----------------------------
