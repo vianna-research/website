@@ -44,7 +44,7 @@ Bellow is a demo of the music tracks used in this experiment.
 
 | Contact                 |                            |
 | ------------------------|--------------------------- |
-| Directors:<br>          | [Prof. Dr.-Ing. Waldo Nogueira](https://www.neuroprostheses.com/) |
+| Directors:<br>          | [Prof. Dr.-Ing. Waldo Nogueira] |
 | Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
 | Phone:                  | +49 (0)511 532 8025 |
 | Fax:                    | +49 (0)511 532 6833 |
