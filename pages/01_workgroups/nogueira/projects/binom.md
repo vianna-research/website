@@ -31,7 +31,7 @@ This project is funded by the German Research Foundation (DFG) - Project number:
 
 ---
     
- ### Publications:
+### Publications:
  
 - R. Hinrichs, T. Gajecki, J. Ostermann, W. Nogueira. **[Coding of Elec-trical Stimulation Patterns for Binaural Sound Coding Strategies for Cochlear Implants.](https://www.tnt.uni-hannover.de/papers/data/1347/IEEE_EMBC_2019.pdf)**. IEEE EMBC, 2019
     
