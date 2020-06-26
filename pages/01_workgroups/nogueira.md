@@ -21,6 +21,9 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 - ### **[SA-Decoding](https://www.vianna.de/01_workgroups/nogueira/projects/dsaci.html)** 
 
+---
+
+
 ## Technologies
 
 [Some of our work is described here in more detail.](nogueira/technologies.md)
@@ -35,10 +38,30 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 ## Contact
 
-[DHZ-Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=1)
+<!--- [DHZ-Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=1)
 
     Prof. Dr.-Ing. Waldo Nogueira
     Karl-Wiechert-Allee 3 
-    30625 Hannover
+    30625 Hannover --->
+    
+<!--- nogueiravazquez.waldo(at)mh-hannover.de --->
 
-nogueiravazquez.waldo(at)mh-hannover.de
+
+
+| Contact                 |                            |
+| ------------------------|--------------------------- |
+| Directors:<br>          | [Prof. Dr.-Ing. Waldo Nogueira](https://www.neuroprostheses.com/) |
+| Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover <br> Deutschland |
+| Phone:                  | +49 (0)511 532 8025 |
+| Fax:                    | +49 (0)511 532 --- |
+| E-Mail:                 |: <nogueiravazquez.waldo(at)mh-hannover.de> |
+
+
+
+
+
+
+
+
+
+
