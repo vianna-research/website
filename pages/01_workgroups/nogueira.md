@@ -36,8 +36,6 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 ---
 
-## Contact
-
 <!--- [DHZ-Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=1)
 
     Prof. Dr.-Ing. Waldo Nogueira
@@ -45,7 +43,6 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
     30625 Hannover --->
     
 <!--- nogueiravazquez.waldo(at)mh-hannover.de --->
-
 
 
 | Contact                 |                            |
