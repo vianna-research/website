@@ -24,14 +24,14 @@ This project is funded by the German Research Foundation (DFG) - Project number:
 | Contact                 |                            |
 | ------------------------|--------------------------- |
 | Directors:<br>          | [Prof. Dr.-Ing. Waldo Nogueira](https://www.neuroprostheses.com/) |
-| Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover <br> Deutschland |
+| Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
 | Phone:                  | +49 (0)511 532 8025 |
 | Fax:                    | +49 (0)511 532 -- |
 | E-Mail:                 |<nogueiravazquez.waldo@mh-hannover.de>|
 
 ---
     
-### Publications:
+- ### Publications:
  
 - R. Hinrichs, T. Gajecki, J. Ostermann, W. Nogueira. **[Coding of Elec-trical Stimulation Patterns for Binaural Sound Coding Strategies for Cochlear Implants.](https://www.tnt.uni-hannover.de/papers/data/1347/IEEE_EMBC_2019.pdf)**. IEEE EMBC, 2019
     
@@ -39,7 +39,7 @@ This project is funded by the German Research Foundation (DFG) - Project number:
 
 ---
 
-### Patents: 
+### - Patents: 
 more information will follow soon ...
 
 
