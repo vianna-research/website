@@ -13,6 +13,8 @@ The new technologies are considered to perform in real-time and to be evaluated 
 
 Music Samples of the Real-time Music Source Separation experiment. In this Experminet a multilayer perceptron has been used to separate the singing voice from the intruments accompaniment to remix the music track. It has been schown that CI users enjoy music better when the singing voice is ehnaced with the respect to the back ground instruments. Our results indicate that CI users enjoy music better when the singing voice is 8 dB enhanced with the respect to the background accompaniment.
 
+---
+
 ### Audio Example: 
 
 Bellow is a demo of the music tracks used in this experiment.
@@ -40,16 +42,18 @@ Bellow is a demo of the music tracks used in this experiment.
 
 - J. Pons, J. Janer, T. Rode, W. Nogueira. . Remixing music using source separation algorithms to improve the musical experience of cochlear implant users. The Journal of the Acoustical Society of America, 140(6), 4338-4349. December 2016.
 
-
-
-
- 
     
-### Contact:
-DHZ-Deutsches HörZentrum Hannover:
+---
 
-    Prof. Dr.-Ing. Waldo Nogueira
-    Karl-Wiechert-Allee 3 
-    30625 Hannover    
+| Contact                 |                            |
+| ------------------------|--------------------------- |
+| Directors:<br>          | [Prof. Dr.-Ing. Waldo Nogueira](https://www.neuroprostheses.com/) |
+| Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
+| Phone:                  | +49 (0)511 532 8025 |
+| Fax:                    | +49 (0)511 532 -- |
+| E-Mail:                 |<nogueiravazquez.waldo@mh-hannover.de>|
+
+---
+    
     
 
