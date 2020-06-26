@@ -50,7 +50,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 | Directors:<br>          | [Prof. Dr.-Ing. Waldo Nogueira](https://www.neuroprostheses.com/) |
 | Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover <br> Deutschland |
 | Phone:                  | +49 (0)511 532 8025 |
-| Fax:                    | +49 (0)511 532 -- |
+| Fax:                    | +49 (0)511 532 6833 |
 | E-Mail:                 |<nogueiravazquez.waldo@mh-hannover.de>|
 
 
