@@ -14,21 +14,39 @@ This project therefore is about designing a new data reduction method that allow
 
 The planed project is a collaborative project between the Auditory Prosthetic Group of the German Hearing Center that is part of the Medical University Hannover (MHH) and the Institut für Informationsverarbeitung (TNT) of the Leibniz Universität Hannover. In the course of the project both project partners will make significant progress in their field of research in particular data reduction for audio applications (TNT) and binaural signal enhancement for CIs (MHH). In addition this cooperation is a great opportunity to exchange knowledge between an engineering department and a medical school. Doing so, engineering methods and medical expertise can be combined to ensure the success of the project.
 
+---
+
 ### Funding:
 This project is funded by the German Research Foundation (DFG) - Project number: 381895691
 
-### Contact:
-DHZ-Deutsches HörZentrum Hannover:
+---
 
-    Prof. Dr.-Ing. Waldo Nogueira
-    Karl-Wiechert-Allee 3 
-    30625 Hannover
-    
+| Contact                 |                            |
+| ------------------------|--------------------------- |
+| Head of Research Group:<br>  | [Prof. Dr.-Ing. Waldo Nogueira]|
+| Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
+| Phone:                  | +49 (0)511 532 8025 |
+| Fax:                    | +49 (0)511 532 6833 |
+| E-Mail:                 |<nogueiravazquez.waldo@mh-hannover.de>|
+
+---
     
 ### Publications:
  
 - R. Hinrichs, T. Gajecki, J. Ostermann, W. Nogueira. **[Coding of Elec-trical Stimulation Patterns for Binaural Sound Coding Strategies for Cochlear Implants.](https://www.tnt.uni-hannover.de/papers/data/1347/IEEE_EMBC_2019.pdf)**. IEEE EMBC, 2019
     
 - T. Gajecki, W. Nogueira.A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bi-lateral Cochlear Implant Users.  ITG Speech Communication, 2018    
+
+---
+
+### Patents: 
+more information will follow soon ...
+
+
+
+
+
+
+
     
     
