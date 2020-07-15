@@ -1,6 +1,8 @@
 title: Publications
 
 ## 2020
+* **Verena Scheper**, Melanie Schmidtheisler, Florian Lasch, Heiko von der Leyen, Armin Koch, Jana Schwieger, Andreas Büchner, Anke Lesinski-Schiedat, Thomas Lenarz [Randomized placebo-controlled clinical trial investigating the effect of antioxidants and a vasodilator on overall safety and residual hearing preservation in cochlear implant patients .](https://doi.org/10.1186/s13063-020-04522-9) Trials, 2020 July 15.
+
 * Schwieger J, Hamm A,Gepp M M, Schulz A, Hoffmann A, Lenarz T. **Scheper V** [Alginate-encapsulated brain-derived neurotrophic factor–overexpressing mesenchymal stem cells are a promising drug delivery system for protection of auditory neurons .](https://journals.sagepub.com/doi/10.1177/2041731420911313) J. Tissue Eng. 11, 2020 April 17.
 
 ## 2019
