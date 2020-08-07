@@ -21,7 +21,7 @@ This project is funded by the German Research Foundation (Deutsche Forschungsgem
 
 | Contact                 |                            |
 | ------------------------|--------------------------- |
-| Directors:<br>          | [Prof. Dr.-Ing. Waldo Nogueira](https://www.neuroprostheses.com/) |
+| Head of Research Group:<br>  | [Prof. Dr.-Ing. Waldo Nogueira]|
 | Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
 | Phone:                  | +49 (0)511 532 8025 |
 | Fax:                    | +49 (0)511 532 6833 |
