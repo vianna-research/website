@@ -7,7 +7,14 @@ title: Publications
 
 ### Journal Papers
 
-Coming soon... However, most recent publications can be found here: [**2019**](publications/v2019.html)
+![GraficalAbstract](Rau2020_CHD.jpg){style="width:300px; float:right; margin-left:1em"} Rau Th. S., Zuniga M. G., Salcher R., Lenarz Th. (2020): _A simple tool to automate the insertion process in cochlear implant surgery_.  Int J CARS. epub ahead of print. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://link.springer.com/content/pdf/10.1007/s11548-020-02243-7.pdf); [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s11548-020-02243-7); IF: 2.473\]. 
+ 	
+- *Highlights*
+    - concept of a new simple tool for automated electrode insertion introduced
+    - insertion tool facilitates automated forward motion by repurosing a disposable syringe as hydraulic actuator
+    - electrode insertion at ultra-low velocity of 0.03 mm/s revealed smooth force profile
+    - alignment of the tool along a patient-specific insertion trajectory without additional invasive procedure
+    - device positioning with an appropriate insertion axis was deemed feasibale and easy to achieve
 
 
 ### Conference Papers
