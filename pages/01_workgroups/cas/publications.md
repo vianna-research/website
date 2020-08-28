@@ -18,7 +18,8 @@ title: Publications
 
 
 ### Conference Papers
---
+
+All relevant conferences have been cancelled in 2020 due to the COVID-19 outbreak. Therefore, there were also no options to publish corresponding conference papers.
 
 ### Posters & Abstracts
 
