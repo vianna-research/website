@@ -1,4 +1,4 @@
-title: SA-Decoding
+title: EEG SA-Decoding
 
 ## Selective Attention Decoding for CI Users
 
@@ -11,7 +11,7 @@ This project investigates the possibilities of decoding selective attention in N
 
 ### Funding:
 
-This project is funded by ... - Project number: ... 
+This project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy - EXC 2177/1 - Project number 390895286.
 
 ---
 
