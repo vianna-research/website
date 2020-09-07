@@ -12,8 +12,8 @@ title:Staff
 | ***Research Team*** |||
 |![Portrait](staff/Portrait_GeorgB.jpg){style="width:68px"}  | M. Sc. Georg Böttcher | Boettcher.Georg@mh-hannover.de |
 |![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             | kilian.julia@mh-hannover.de |
-|![Portrait](staff/Portrait_ViktorS.jpg)  | M. Sc. Viktor Schell | schell.viktor@mh-hannover.de |
-|![Portrait](staff/Portrait_GeraldineZ.jpg) | M. Geraldine Zuniga, MD			| zunigamanrique.maria@mh-hannover.de	  |
+|![Portrait](staff/Portrait_ViktorS.jpg){style="width:68px"}   | M. Sc. Viktor Schell | schell.viktor@mh-hannover.de |
+|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD			| zunigamanrique.maria@mh-hannover.de	  |
 | ***Associated Staff***  |||	
 |![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/empty.jpg)  | Dr. Martina Nullmeier	<br> Senior Scientist <br> Cochlear Deutschland GmbH & Co. KG | mnullmeier@cochlear.com |
@@ -25,7 +25,7 @@ title:Staff
 |![Portrait](staff/tobias.png) 	                            | Tobias Blum 								| Student Assistant |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis |
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
-|![Portrait](staff/lena.jpg)	                                | Lena Geiger								  | Medical Doctorate Thesis  | 
+|![Portrait](staff/lena.jpg){style="width:68px"}            | Lena Geiger								  | Medical Doctorate Thesis  | 
 |![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
 |![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	  | Jan Mairose								  | Student Assistant	| 
 |![Portrait](staff/christianm.png)                            | Christian Menke						| Medical Doctorate Thesis |
