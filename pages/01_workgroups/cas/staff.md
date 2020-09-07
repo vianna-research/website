@@ -8,7 +8,7 @@ title:Staff
 | Members |||
 |:--|:-------------------------------------------------|:--------------------------------------|
 | ***Head of Research Group*** |||
-|![Portrait](staff/Thomas.jpg) | Dr.-Ing. Thomas S. Rau         | rau.thomas@mh-hannover.de   |
+|![Portrait](staff/Thomas.jpg) | Dr.-Ing. Thomas S. Rau <br> Head of Research Group <br>         | rau.thomas@mh-hannover.de   |
 | ***Research Team*** |||
 |![Portrait](staff/Portrait_GeorgB.jpg){style="width:68px"}  | M. Sc. Georg Böttcher | Boettcher.Georg@mh-hannover.de |
 |![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             | kilian.julia@mh-hannover.de |
