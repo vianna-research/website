@@ -10,9 +10,10 @@ title:Staff
 | ***Head of Research Group*** |||
 |![Portrait](staff/Thomas.jpg) | Dr.-Ing. Thomas S. Rau         | rau.thomas@mh-hannover.de   |
 | ***Research Team*** |||
+|![Portrait](staff/Portrait_GeorgB.jpg){style="width:68px"}  | M. Sc. Georg Böttcher | Boettcher.Georg@mh-hannover.de |
 |![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             | kilian.julia@mh-hannover.de |
-|![Portrait](staff/empty.jpg)  | M. Sc. Viktor Schell | schell.viktor@mh-hannover.de |
-|![Portrait](staff/geraldine.jpg) | M. Geraldine Zuniga, MD			| zunigamanrique.maria@mh-hannover.de	  |
+|![Portrait](staff/Portrait_ViktorS.jpg)  | M. Sc. Viktor Schell | schell.viktor@mh-hannover.de |
+|![Portrait](staff/Portrait_GeraldineZ.jpg) | M. Geraldine Zuniga, MD			| zunigamanrique.maria@mh-hannover.de	  |
 | ***Associated Staff***  |||	
 |![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/empty.jpg)  | Dr. Martina Nullmeier	<br> Senior Scientist <br> Cochlear Deutschland GmbH & Co. KG | mnullmeier@cochlear.com |
