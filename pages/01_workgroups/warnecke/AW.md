@@ -11,9 +11,12 @@ title: Prof. Dr. med. Athanasia Warnecke
 	30625 Hannover
 	Warnecke.Athanasia@mh-hannover.de
 
+***
 [**Publications**](publications.html) 
 
 [**Staff**](staff.html) 
+
+***
 
 ![Athanasia Warnecke](warnecke_CI_labor.jpg)
 
