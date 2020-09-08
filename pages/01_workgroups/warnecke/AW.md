@@ -1,7 +1,7 @@
 title: Prof. Dr. med. Athanasia Warnecke
 
  
-**Head of Research Group**
+**Head of Research Group Protection and Regeneration of the inner ear**
 **Contact:**
 
 	Athanasia Warnecke
