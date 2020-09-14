@@ -9,25 +9,21 @@ Prof. Dr. med. A. Warnecke 		| <Warnecke.Athanasia@mh-hannover.de>
 **Research Team**
 
 
-Jasmin Bohlmann, Biol.-Lab.			 		| 	<Bohlmann.Jasmin@mh-hannover.de>	
-
-Jennifer Schulze, Dr. rer. nat.			|  	<Schulze.Jennifer.HNO@mh-hannover.de> 	
-
-Melanie Steffens, Dr. rer. nat. 			|  	<Steffens.Melanie@mh-hannover.de>
-
-Darja Werner, TA 							|  	<Werner.Darja@mh-hannover.de>
-
-Kirsten Wissel, Dr. rer. nat.				|  	<Wissel.Kirsten@mh-hannover.de>
+Dr. rer. nat. Jennifer Harre (Biologin)			|  	<Harre.Jennifer@mh-hannover.de> 	
 
 PhD Odett Kaiser (Tierärztin)				|  	<Kaiser.Odett@mh-hannover.de>
 
 Dr. med. vet. Susanne Sasse (Tierärztin) |  	<Sasse.Susanne@mh-hannover.de>
+
+Dr. rer. nat. Melanie Steffens |  	<Steffens.Melanie@mh-hannover.de>
 
 
 -----------------------------
 
 **Alumni**
 
+
+Darja Werner, TA
 
 Marvin Peter, M.Sc. Chem.
 

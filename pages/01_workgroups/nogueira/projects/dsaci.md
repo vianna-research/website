@@ -1,6 +1,6 @@
-title: SA-Decoding
+title: EEG SA-Decoding
 
-## Selective Attention Decoding for CI Users
+## EEG Selective Attention Decoding for CI Users
 
 
 The cochlear implant (CI) acts as a kind of artificial cochlea, transforming the acoustic signals, captured by a microphone into electric pulses, thereby bypassing the damaged structures of the ear and directly stimulating the auditory nerve. Most CI users obtain good speech understanding in the absence of background noise. However, CI users still face difficulties in understanding speech in more challenging listening environments with multiple speakers, background noise and reverberation (i.e., the cocktail party problem). In such situations, normal-hearing (NH) listeners can focus on one target speaker and effectively suppress other present speakers. This effect is called selective attention. The ability to selectively attend is probably impaired in CI users and may be one of the reasons for the limitations in speech understanding in challenging listening environments. 
@@ -11,7 +11,7 @@ This project investigates the possibilities of decoding selective attention in N
 
 ### Funding:
 
-This project is funded by ... - Project number: ... 
+This project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy - EXC 2177/1 - Project number 390895286.
 
 ---
 
