@@ -26,7 +26,9 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 ## Technologies
 
-- [Some of our work is described here in more detail.](nogueira/technologies.md)
+- [DeHoCI Simulator](nogueira/technologies.md)
+- [MusIC4allApp1.0](nogueira/technologies.md)
+- [MusIC4allApp2.0](nogueira/technologies.md)
 
 ---
 
