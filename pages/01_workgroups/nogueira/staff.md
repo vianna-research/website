@@ -10,6 +10,8 @@ title: Staff
 |![Portrait](staff/Gajecki.jpg)	| Tomas Gajecki 				 | Gajecki.Tomas(at)mh-hannover.de	   |
 |![Portrait](staff/Alrutz.jpg)	| Daniel Kipping  				 | Kipping.Daniel(at)mh-hannover.de	   |
 |![Portrait](staff/Tahmasebi.jpg)	| Sina Tahmasebi 				 | Tahmasebi.Sina(at)mh-hannover.de	   |
+|![Portrait](staff/blank.jpg)	| Nina Aldag 				 | Aldag.Nina(at)mh-hannover.de	   |
+|![Portrait](staff/blank.jpg)	| Hanna Dolhopiatenko 				 | Dolhopiatenko.Hanna(at)mh-hannover.de	   |
 
 | Former Staff                                                                                                      |
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
