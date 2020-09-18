@@ -32,21 +32,18 @@ This project is funded by the German Research Foundation (DFG) - Project number:
 ---
     
 ### Publications:
+
+- T. Gajecki, W. Nogueira.Effect of Synchronized Linked Band Selection on Speech Intelligibility of Bilateral Cochlear Implant Users.  ITG Speech Communication, 2018    
+
  
 - R. Hinrichs, T. Gajecki, J. Ostermann, W. Nogueira. **[Coding of Elec-trical Stimulation Patterns for Binaural Sound Coding Strategies for Cochlear Implants.](https://www.tnt.uni-hannover.de/papers/data/1347/IEEE_EMBC_2019.pdf)**. IEEE EMBC, 2019
     
-- T. Gajecki, W. Nogueira.A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bi-lateral Cochlear Implant Users.  ITG Speech Communication, 2018    
+- T. Gajecki, W. Nogueira. A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bi-lateral Cochlear Implant Users.  ITG Speech Communication, 2018    
 
 ---
 
 ### Patents: 
-more information will follow soon ...
-
-
-
-
-
-
+More information will follow soon ...
 
     
     
