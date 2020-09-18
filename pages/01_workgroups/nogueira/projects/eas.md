@@ -31,7 +31,7 @@ This project is funded by the German Research Foundation (Deutsche Forschungsgem
     
 ### Publications:
 
-- D. Kipping, B. Krüger, W. Nogueira (2020), **[The role of electroneural versus electrophonic stimulation on psychoacoustic electric-acoustic masking in cochlear implant users with residual hearing]**(https://www.sciencedirect.com/science/article/pii/S0378595520303075?via%3Dihub).  Hearing Research 395, 108036. 
+- D. Kipping, B. Krüger, W. Nogueira (2020), **[The role of electroneural versus electrophonic stimulation on psychoacoustic electric-acoustic masking in cochlear implant users with residual hearing](https://www.sciencedirect.com/science/article/pii/S0378595520303075?via%3Dihub)**.  Hearing Research 395, 108036. 
 
 - W. Nogueira, B. Krüger, A. Büchner, E. Lopez-Poveda (2018),**[Contralateral suppression of human hearing sensitivity in single-sided deaf cochlear implant users.](https://www.sciencedirect.com/science/article/pii/S0378595517305671?via%3Dihub)**. Hearing Research 2019 Mar 1;373:121-129. doi: 10.1016/j.heares.2018.06.001. Epub 2018 Jun 15.
 - M. Imsiecke, B. Krüger, A. Büchner, T. Lenarz, W. Nogueira (2018), **[Electric-acoustic forward masking in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595517305026?via%3Dihub)**. Hearing Research, Hear Res. 2018 Jul;364:25-37. doi: 10.1016/j.heares.2018.04.003. Epub 2018 Apr 9.
