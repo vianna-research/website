@@ -13,7 +13,7 @@ Research employee
 * Non-invasive and invasive electroencephalography (EEG)
 * Computational models (e.g. deep neural networks) to decode neural activity (e.g. neural tracking, selective attention)
 
-
+---
 
 ### Funding:
 
