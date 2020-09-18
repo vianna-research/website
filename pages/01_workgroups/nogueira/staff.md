@@ -13,6 +13,15 @@ title: Staff
 |![Portrait](staff/blank.jpg)	| Nina Aldag 				 | Aldag.Nina(at)mh-hannover.de	   |
 |![Portrait](staff/blank.jpg)	| Hanna Dolhopiatenko 				 | Dolhopiatenko.Hanna(at)mh-hannover.de	   |
 
+
+| Students                                                                                                      |
+|:------------------------------|:----------------------------------------------|--------------------------------------:|
+|![Portrait](staff/blank.jpg)	| Bruni Costanza        | Bruni.Costanza(at)mh-hannover.de	 |
+|![Portrait](staff/blank.jpg)	| Betül Bayatid 			 | 	 |
+|![Portrait](staff/blank.jpg)	| Nur  Nur			 | 	 |
+
+
+
 | Former Staff                                                                                                      |
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
 |![Portrait](staff/Langner.jpg)	| Florian Langner        | Langner.Florian(at)mh-hannover.de	 |
