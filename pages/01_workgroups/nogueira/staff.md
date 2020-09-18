@@ -8,7 +8,7 @@ title: Staff
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
 |![Portrait](staff/Krueger.jpg) | Benjamin Krüger        | Krueger.Benjamin(at)mh-hannover.de |
 |![Portrait](staff/Gajecki.jpg)	| Tomas Gajecki 				 | Gajecki.Tomas(at)mh-hannover.de	   |
-|![Portrait](staff/Alrutz.jpg)	| Daniel Alrutz 				 | Kipping.Daniel(at)mh-hannover.de	   |
+|![Portrait](staff/Alrutz.jpg)	| Daniel Kipping  				 | Kipping.Daniel(at)mh-hannover.de	   |
 |![Portrait](staff/Tahmasebi.jpg)	| Sina Tahmasebi 				 | Tahmasebi.Sina(at)mh-hannover.de	   |
 
 | Former Staff                                                                                                      |
