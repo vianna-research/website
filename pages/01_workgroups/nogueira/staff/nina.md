@@ -9,7 +9,9 @@ Research employee
 
 **Research and Interests**
 
-
+* central auditory processing
+* non-invasive and invasive electroencephalography (EEG)
+* computational models (e.g. deep neural networks) to decode neural activity (e.g. neural tracking, selective attention)
 
 ---
 
