@@ -2,7 +2,7 @@ title: Daniel Kipping
 
 
 
-![Daniel Kipping ](staff/Alrutz.jpg)
+![Daniel Kipping ](Alrutz.jpg)
 
 
 Research employee	
