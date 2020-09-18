@@ -3,6 +3,8 @@ title: Projects
 
 
 - ### **[EAS-Masking](https://www.vianna.de/01_workgroups/nogueira/projects/eas.html)**
+- ### **[EAS-Modeling](https://www.vianna.de/01_workgroups/nogueira/projects/easmodeling.html)**
+
 
 - ### **[BINOM](https://www.vianna.de/01_workgroups/nogueira/projects/binom.html)**
 
