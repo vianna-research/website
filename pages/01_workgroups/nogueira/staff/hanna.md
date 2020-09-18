@@ -1,7 +1,6 @@
 title: Hanna Dolhopiatenko
 
-
-
+![Hanna Dolhopiatenko](blank.jpg)
 
 Research employee	
 
