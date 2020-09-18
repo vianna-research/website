@@ -17,6 +17,14 @@ Research employee
 * models of the auditory periphery
 
 
+    
+### Publications:
+
+-D. Kipping, B. Krüger, W. Nogueira (2020), **[The role of electroneural versus electrophonic stimulation on psychoacoustic electric-acoustic masking in cochlear implant users with residual hearing]**(https://www.sciencedirect.com/science/article/pii/S0378595520303075?via%3Dihub).  Hearing Research 395, 108036. https://doi.org/10.1016/j.heares.2020.108036
+
+
+
+
 ---
 
 | Contact                 |                            |
