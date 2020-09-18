@@ -1,10 +1,10 @@
 title: Nina Aldag 
 
 
+![Nina Aldag](blank.jpg)
 
 
 Research employee	
-
 
 
 **Research and Interests**
