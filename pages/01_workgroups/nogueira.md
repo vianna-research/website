@@ -34,7 +34,8 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 ## Teaching
 
-- [Information about offerd Lectures.](nogueira/teaching.md)
+- [Audio and Speech Signal Processing](nogueira/teaching.md)
+- [3D-Audio - Grundlagen räumlicher Audioreproduktionssysteme](nogueira/teaching.md)
 
 ---
 
