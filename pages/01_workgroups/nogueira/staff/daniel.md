@@ -17,6 +17,11 @@ Research employee
 * models of the auditory periphery
 
 
+### Funding:
+
+German Research Foundation (DFG), Project number: 396932747, PI: Waldo Nogueira
+
+
     
 ### Publications:
 
