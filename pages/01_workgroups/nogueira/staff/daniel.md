@@ -16,12 +16,12 @@ Research employee
 * auditory nerve fiber discharges driven by acoustic or electric stimulation
 * models of the auditory periphery
 
-
+---
 ### Funding:
 
 German Research Foundation (DFG), Project number: 396932747, PI: Waldo Nogueira
 
-
+---
     
 ### Publications:
 
