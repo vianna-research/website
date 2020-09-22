@@ -25,7 +25,7 @@ German Research Foundation (DFG), Project number: 396932747, PI: Waldo Nogueira
     
 ### Publications:
 
-- D. Kipping, B. Krüger, W. Nogueira (2020), **[The role of electroneural versus electrophonic stimulation on psychoacoustic electric-acoustic masking in cochlear implant users with residual hearing]**(https://www.sciencedirect.com/science/article/pii/S0378595520303075?via%3Dihub).  Hearing Research 395, 108036.
+- D. Kipping, B. Krüger, W. Nogueira (2020), **[The role of electroneural versus electrophonic stimulation on psychoacoustic electric-acoustic masking in cochlear implant users with residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595520303075?via%3Dihub)** Hearing Research 395, 108036.
 
 
 
