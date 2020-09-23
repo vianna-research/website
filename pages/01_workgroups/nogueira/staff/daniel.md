@@ -12,9 +12,9 @@ Research employee
 **Research and Interests**
 
 * Electric-acoustic stimulation (EAS)
-* auditory masking, computational modeling
-* auditory nerve fiber discharges driven by acoustic or electric stimulation
-* models of the auditory periphery
+* Auditory masking, computational modeling
+* Auditory nerve fiber discharges driven by acoustic or electric stimulation
+* Models of the auditory periphery
 
 ---
 ### Funding:
