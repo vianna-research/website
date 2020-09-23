@@ -2,6 +2,9 @@ title: Publications
 
 ## 2020
 
+* **[The role of electroneural versus electrophonic stimulation on psychoacoustic electric-acoustic masking in cochlear implant users with residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595520303075?via%3Dihub)**
+Kipping D, Krüger B, **Nogueira W**. Hearing Research 395, 108036. Epub 2020 Sep 15.
+
 * **[Design and Evaluation of a Real-Time Audio Source Separation Algorithm to Remix Music for Cochlear Implant Users.](https://www.frontiersin.org/articles/10.3389/fnins.2020.00434/full)**
 Tahmasebi S, Gajȩcki T, **Nogueira W**.
 Frontiers in Neuroscience. 14, 434. doi: 110.3389/fnins.2020.00434. Epub 2020 May 14.
