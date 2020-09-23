@@ -1,6 +1,8 @@
 title: Publications
 
 ## 2020
+* Knipper M, van Dijk P,Schulze H, Mazurek B, Krauss P, **Scheper V**, Warnecke A, Schlee W, Schwabe K, Singer W, Braun C, Delano PH, Fallgatter AJ, Ehlis A, Searchfield GD, Munk MHJ, Baguley DM, Rüttiger L. [The Neural Bases of Tinnitus: Lessons from Deafness and Cochlear Implants](https://www.jneurosci.org/content/jneuro/40/38/7190.full.pdf) J. Neurosci. Res., 2020 September 16.
+
 * **Scheper V**, Seidel-Effenberg I, Lenarz T,Stöver T, Paasche G. [Consecutive Treatment with Brain-Derived Neurotrophic Factor and Electrical Stimulation Has a Protective Effect on Primary Auditory Neurons.](https://doi.org/10.3390/brainsci10080559) Brain Sci.2020, 10(8), 559
 
 * **Scheper V**, Schmidtheisler M, Lasch F, von der Leyen H, Koch A, Schwieger J, Büchner A, Lesinski-Schiedat A, Lenarz T. [Randomized placebo-controlled clinical trial investigating the effect of antioxidants and a vasodilator on overall safety and residual hearing preservation in cochlear implant patients .](https://doi.org/10.1186/s13063-020-04522-9) Trials, 2020 July 15.
