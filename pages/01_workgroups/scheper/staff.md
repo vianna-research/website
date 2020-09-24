@@ -2,19 +2,19 @@ title: Staff
 
 |Head of research group|        |   |
 |--------------|:---------------|----|
-|![Picture Verena Scheper](Verena.jpg) |[Privatdozentin Dr. med. vet. Verena Scheper](scheper/Dr. med. vet. Verena Scheper.html)|	Scheper.verena(at)mh-hannover.de| +49 (0)511 532 4369 |
+|![Picture Verena Scheper](Verena.jpg) |[Privatdozentin Dr. med. vet. Verena Scheper](scheper/Dr. med. vet. Verena Scheper.html)|	Scheper.verena@mh-hannover.de| +49 (0)511 532 4369 |
 
 
 |Technical Staff|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
 |   |Name| EMail|Extension|
-|![Armbrecht Nina](Nina.png) | Nina Armbrecht	|	Armbrecht.nina(at)mh-hannover.de     | 532 1529|
+|![Armbrecht Nina](Nina.png) | Nina Armbrecht	|	Armbrecht.nina@mh-hannover.de     | 532 1529|
 
 |Research Team  |    |  | +49 (0)511 - |
 |---------|:------|------|-----|
 |   |Name| EMail|Extension|
-|![Image Ziwen Gao](Ziwen.jpg)  | Ziwen Gao, M.Sc., PhD Student  	|	Gao.ziwen(at)mh-hannover.de | 532 7262|
-| ![Image Jana Schwieger](Schwieger.jpg) |Jana Schwieger, Dr. med. vet. | Schwieger.jana(at)mh-hannover.de|532 7262|
+|![Image Ziwen Gao](Ziwen.jpg)  | Ziwen Gao, M.Sc., PhD Student  	|	Gao.ziwen@mh-hannover.de | 532 7262|
+| ![Image Jana Schwieger](Schwieger.jpg) |Jana Schwieger, Dr. med. vet. | Schwieger.jana@mh-hannover.de|532 7262|
 | ![Image Kathrin Anja Malfeld](malfeld.jpg)  | Kathrin Anja Malfeld, veterinarian, PhD Student |  Malfeld.Kathrin@mh-hannover.de |532 1529 |
 |    ![Image Farnaz Matin](Matin.JPG) |  Farnaz Matin, MD|	Matin.Farnaz(at)mh-hannover.de| 17 7443|   
 |    ![Image Claas-Tido Peck](Claas.jpg) |  Claas-Tido Peck, M.Sc.|	Peck.Claas-Tido(at)mh-hannover.de| 532 1538| 
@@ -23,8 +23,7 @@ title: Staff
 |FWJ|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
 |   |Name| EMail|Extension|
-|![Image Sebestyén Ronja Lea Marie](Sebestyen.jpg) | Ronja Lea Marie Sebestyén	|	 Sebestyen.Ronja@mh-hannover| 532 1529|
-|![Image Albrecht Sonja](Albrecht.jpg) | Sonja Albrecht|	 Albrecht.Sonja@mh-hannover.de | 532 1529|
+|![Image Tom Oltrogge](Tom.jpg) | Tom Oltrogge	|	 Oltrogge.Tom@mh-hannover| 532 1529|
 
 
 |  Students   ||
