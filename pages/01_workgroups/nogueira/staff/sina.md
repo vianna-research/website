@@ -13,6 +13,7 @@ Research employee
 * Audio signal processing
 * Deep neural networks
 * Music perception and music appreciation in cochlear implant users
+* Music perception and music appreciation in cochlear implant users
 
 
 
