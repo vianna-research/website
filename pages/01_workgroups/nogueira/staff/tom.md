@@ -1,8 +1,8 @@
-title: Tomas Gajecki 
+title: Tom Gajecki 
 
 
 
-![Daniel Kipping ](Gajecki.jpg)
+![Tom Gajecki](Gajecki.jpg)
 
 
 Research employee	
@@ -17,7 +17,7 @@ Research employee
 
 | Contact                 |                            |
 | ------------------------|--------------------------- |
-| Research employee:<br>          | [Tomas Gajecki] |
+| Research employee:<br>          | [Tom Gajecki] |
 | Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
 | Phone:                  | +49 (0)511 532 8397 |
 | Fax:                    | +49 (0)511 532 6833 |
