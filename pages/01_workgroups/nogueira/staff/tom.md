@@ -8,25 +8,19 @@ title: Tom Gajecki
 Research employee	
 
 
-
 **Research and Interests**
 
-
-
----
-
-| Contact                 |                            |
-| ------------------------|--------------------------- |
-| Research employee:<br>          | [Tom Gajecki] |
-| Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
-| Phone:                  | +49 (0)511 532 8397 |
-| Fax:                    | +49 (0)511 532 6833 |
-| E-Mail:                 |Gajecki.Tomas(at)mh-hannover.de|
++ Binaural hearing
+* Audio signal processing
+* Deep learning
+* Music perception
 
 ---
-    
+### Funding:
 
-    
+German Research Foundation (DFG), Project number: 390895286 (PIs: Waldo Nogueira and Jörn Ostermann)
+
+---
 ### Publications:
 
 - R. Hinrichs, T. Gajecki, J. Ostermann, W. Nogueira. A Subjective and Objective Evaluation of a Codec for the Electrical Stimulation Patterns of Cochlear Implants. The Journal of the Acoustical Societ yof America, 2020. (Submitted)
@@ -47,6 +41,23 @@ Research employee
  
 
 ---
-
 ### Patents: 
 More information will follow soon ...
+
+---
+
+---
+
+| Contact                 |                            |
+| ------------------------|--------------------------- |
+| Research employee:<br>          | [Tom Gajecki] |
+| Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
+| Phone:                  | +49 (0)511 532 8397 |
+| Fax:                    | +49 (0)511 532 6833 |
+| E-Mail:                 |Gajecki.Tomas(at)mh-hannover.de|
+
+---
+    
+
+    
+
