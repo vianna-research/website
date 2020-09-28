@@ -33,7 +33,7 @@ This project is funded by the German Research Foundation (DFG) - Project number:
     
 ### Publications:
 
-- R. Hinrichs, T. Gajecki, Jörn Ostermann, W. Nogueira. A Subjectiveand Objective Evaluation of a Codec for the Electrical Stimulation Patterns of Cochlear Implants. The Journal of the Acoustical Societyof America, 2020. (Submitted)
+- R. Hinrichs, T. Gajecki, J. Ostermann, W. Nogueira. A Subjectiveand Objective Evaluation of a Codec for the Electrical Stimulation Patterns of Cochlear Implants. The Journal of the Acoustical Societyof America, 2020. (Submitted)
 
 - T. Gajecki, W. Nogueira. Enhancement of Interaural Level Differences for Bilateral Cochlear Implant Users. The Journal of the Acoustical Society of America, 2020. (Submitted)
 
@@ -45,7 +45,7 @@ This project is funded by the German Research Foundation (DFG) - Project number:
 
 - T. Gajecki, W. Nogueira. A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bilateral Cochlear Implant Users. ITG Speech Communication, 2018.
 
-- T. Gajecki, W. Nogueira. Deep Learning Models to Remix Music for Cochlear Implant Users. The Journal of the Acoustical Society ofAmerica, 2018.
+- T. Gajecki, W. Nogueira. Deep Learning Models to Remix Music for Cochlear Implant Users. The Journal of the Acoustical Society of America, 2018.
 
 - W. Nogueira, T. Gajecki, B. Krüger, J. Janer, A. Büchner. Developmentof a Sound Coding Strategy based on a Deep Recurrent Neural Network for Monaural Source Separation in Cochlear Implants. ITG Speech Communication. Padeborn, Germany, 2016.
  
