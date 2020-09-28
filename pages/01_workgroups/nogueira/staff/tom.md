@@ -10,7 +10,7 @@ Research employee
 
 **Research and Interests**
 
-+ Binaural hearing
+* Binaural hearing
 * Audio signal processing
 * Deep learning
 * Music perception
