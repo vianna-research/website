@@ -2,6 +2,8 @@ title: Publications
 
 ## 2020
 
+* **[The Effect of Synchronized Linked Band Selection on Speech Intelligibility of Bilateral Cochlear Implant Users](https://www.sciencedirect.com/science/article/pii/S0378595520303221)** Gajecki T, **Nogueira W**. Hearing Research, 2020.
+
 * **[The role of electroneural versus electrophonic stimulation on psychoacoustic electric-acoustic masking in cochlear implant users with residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595520303075?via%3Dihub)**
 Kipping D, Krüger B, **Nogueira W**. Hearing Research 395, 108036. Epub 2020 Sep 15.
 
@@ -12,7 +14,7 @@ Frontiers in Neuroscience. 14, 434. doi: 110.3389/fnins.2020.00434. Epub 2020 Ma
 
 * **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)**
 Imsiecke M, Büchner A, Lenarz T, **Nogueira W**.
-Hear Res. 2020 Feb;386:107873. doi: 10.1016/j.heares.2019.107873. Epub 2019 Dec 18.
+Hear Res. 2020 Feb; 386:107873. doi: 10.1016/j.heares.2019.107873. Epub 2019 Dec 18.
 
 
 * **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)**
@@ -60,10 +62,7 @@ Hear Res. 2018 Mar;359:64-75. doi: 10.1016/j.heares.2017.12.019. Epub 2017 Dec 2
 Klawitter S, Landsberger DM, Büchner A, **Nogueira W**.
 PLoS One. 2018 Apr 13;13(4):e0193842. doi: 10.1371/journal.pone.0193842. eCollection 2018.
 
-
-* **[A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bi-lateral Cochlear Implant Users.]**
-T. Gajecki, **Nogueira W**.
-ITG Speech Communication, 2018.
+* **[A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bilateral Cochlear Implant Users](https://ieeexplore.ieee.org/document/8578042)** Gajecki T, **Nogueira W**. ITG Speech Communication, 2018.
 
 
 ## 2017

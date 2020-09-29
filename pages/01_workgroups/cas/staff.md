@@ -8,19 +8,19 @@ title:Staff
 | Members |||
 |:--|:-------------------------------------------------|:--------------------------------------|
 | ***Research Team***     |||
-|![Portrait](staff/Thomas.jpg) | Dr.-Ing. Thomas S. Rau <br> Head of Research Group <br>         | rau.thomas@mh-hannover.de   |
+|![Portrait](staff/Portrait_ThomasR.jpg){style="width:68px"} | Dr.-Ing. Thomas S. Rau <br> Head of Research Group <br>         | rau.thomas@mh-hannover.de   |
 |![Portrait](staff/Portrait_GeorgB.jpg){style="width:68px"}  | M. Sc. Georg Böttcher <br> Research Engineer <br>  | Boettcher.Georg@mh-hannover.de |
 |![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian <br> Research Engineer <br>            | kilian.julia@mh-hannover.de |
 |![Portrait](staff/Portrait_ViktorS.jpg){style="width:68px"}   | M. Sc. Viktor Schell <br> Research Engineer <br> | schell.viktor@mh-hannover.de |
-|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD			| zunigamanrique.maria@mh-hannover.de	  |
+|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD <br>	Otolaryngology-Head and Neck Surgeon 		| zunigamanrique.maria@mh-hannover.de	  |
 | ***Associated Staff***  |||	
 |![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/empty.jpg)  | Dr. Martina Nullmeier	<br> Senior Scientist <br> Cochlear Deutschland GmbH & Co. KG | mnullmeier@cochlear.com |
-|![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Physician ENT     		| salcher.rolf@mh-hannover.de|
-|![Portrait](staff/maxt.png) | Max Eike Timm  <br> Assistant Physician ENT    | timm.max@mh-hannover.de |
+|![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
+|![Portrait](staff/maxt.png) | Max Eike Timm  <br> ENT Resident    | timm.max@mh-hannover.de |
 | ***Students*** |||                                                                                             |
 |![Portrait](staff/empty.jpg) 	                            | Shari Barati								| Medical Doctorate Thesis |
-|                                                           | Leon Budde                  | Master Thesis |
+|![Portrait](staff/Portrait_LeonB.jpg){style="width:68px"}  | Leon Budde                  | Master Thesis |
 |![Portrait](staff/tobias.png) 	                            | Tobias Blum 								| Student Assistant |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis |
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
