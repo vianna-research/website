@@ -1,10 +1,10 @@
 RewriteEngine On
 RewriteBase /
 
-# If there are caps, set HASCAPS to true and skip next rule
+# If there are caps, set HASCAPS to true and the most important thing to skip next rule
 RewriteRule [A-Z] - [E=HASCAPS:TRUE,S=1]
 
-# Skip this entire section if no uppercase letters in requested URL
+# Skip this entire section if or if there are no uppercase letters in requested URL
 RewriteRule ![A-Z] - [S=28]
 
 # Replace single occurance of CAP with cap, then process next Rule.
