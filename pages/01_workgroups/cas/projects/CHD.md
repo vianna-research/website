@@ -20,3 +20,5 @@ If your are interested in this technology, want to join a collaboration for furt
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://link.springer.com/content/pdf/10.1007/s11548-020-02243-7.pdf)  | Rau Th. S., Zuniga M. G., Salcher R., Lenarz Th. (2020c): _A simple tool to automate the insertion process in cochlear implant surgery_.  Int J CARS. epub ahead of print. \[[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://doi.org/10.1007/s11548-020-02243-7)\]. |
+
