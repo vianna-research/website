@@ -4,7 +4,7 @@ title: Cochlea Hydro Drive
 
 # Toward Automated Electrode Insertion
 
-![Flyer](../Publications/Rau2020b_CARS_Poster_CHD_v01_A3.pdf){style="display:block; margin-left:auto; margin-right:auto; width:80%"}
+![Flyer](../publications/Rau2020b_CARS_Poster_CHD_v01_A3.pdf){style="display:block; margin-left:auto; margin-right:auto; width:80%"}
 
 
 ### Contact:
