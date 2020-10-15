@@ -25,7 +25,6 @@ title:Staff
 |![Portrait](staff/tobias.png) 	                            | Tobias Blum 								| Student Assistant |
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
 |![Portrait](staff/lena.jpg){style="width:68px"}            | Lena Geiger								  | Medical Doctorate Thesis  | 
-|![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
 |![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	  | Jan Mairose								  | Student Assistant	| 
 |![Portrait](staff/christianm.png)                            | Christian Menke						| Medical Doctorate Thesis |
 |![Portrait](staff/empty.jpg) 	                              | Sina Witte 				    			| Medical Doctorate Thesis |
@@ -53,6 +52,7 @@ title:Staff
 |![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis    |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis |
 |![Portrait](staff/till.jpg) 	    | Till Gerking								| Medical Doctorate Thesis|
+|![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
 |                              	  | Mehran Heidel 							| Medical Doctorate Thesis	|
 |![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis	|
 |![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project |
