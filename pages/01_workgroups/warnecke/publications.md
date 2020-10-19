@@ -2,6 +2,16 @@ title: Publications
 
 ## 2020
 
+* Salcher R, Boruchov A, Timm M, Steffens M, Giesemann A, Lenarz T, Warnecke A. **[On the Intracochlear Location of Straight Electrode Arrays After Cochlear Implantation: How Lateral Are Lateral Wall Electrodes?](https://journals.lww.com/otology-neurotology/Abstract/9000/On_the_Intracochlear_Location_of_Straight.95971.aspx)** Otol Neurotol. 2020 Sep 22. doi:  10.1097/MAO.0000000000002880
+
+* Knipper M, van Dijk P, Schulze H, Mazurek B, Krauss P, Scheper V, Warnecke A, Schlee W, Schwabe K, Singer W, Braun C, Delano PH, Fallgatter AJ, Ehlis AC, Searchfield GD, Munk MHJ, Baguley DM, Rüttiger L. **[The Neural Bases of Tinnitus: Lessons from Deafness and Cochlear Implants.](https://www.jneurosci.org/content/40/38/7190/tab-article-info)** J Neurosci. 2020 Sep 16;40(38):7190-7202. doi: 10.1523/JNEUROSCI.1314-19.2020.
+
+* Shew M, Wichova H, Bur A, Koestler DC, St Peter M, Warnecke A, Staecker H. **[MicroRNA Profiling as a Methodology to Diagnose Ménière's Disease: Potential Application of Machine Learning.](https://journals.sagepub.com/doi/10.1177/0194599820940649)** Otolaryngol Head Neck Surg. 2020 Jul 14:194599820940649. doi: 10.1177/0194599820940649.
+
+* Prenzler NK, Weller T, Steffens M, Lesinski-Schiedat A, Büchner A, Lenarz T, Warnecke A. **[Impedance Values Do Not Correlate With Speech Understanding in Cochlear Implant Recipients.](https://www.x-mol.com/paper/1294385303076347904)** Otol Neurotol. 2020 Jul 14. doi: 10.1097/MAO.0000000000002743. 
+
+* Heilen S, Lang CP, Warnecke A, Lenarz T, Durisin M. **[Exploratory tympanotomy in sudden sensorineural hearing loss for the identification of a perilymphatic fistula - retrospective analysis and review of the literature.](https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/exploratory-tympanotomy-in-sudden-sensorineural-hearing-loss-for-the-identification-of-a-perilymphatic-fistula-retrospective-analysis-and-review-of-the-literature/9BD2C2A02F50183A6C52DDB8DF41DFE8)** J Laryngol Otol. 2020 Jun;134(6):501-508. doi: 10.1017/S0022215120000948.
+
 * Peter MN, Paasche G, Reich U , Lenarz T , Warnecke A.  **[Differential Effects of Low- And High-Dose Dexamethasone on Electrically Induced Damage of the Cultured Organ of Corti.](https://link.springer.com/article/10.1007%2Fs12640-020-00228-7)** Neurotox. 03 June 2020. doi: 10.1007/s12640-020-00228-7. 
 
 * Prenzler NK, Salcher R, Lenarz T, Gaertner L, Warnecke A. **[Dose-Dependent Transient Decrease of Impedances by Deep Intracochlear Injection of Triamcinolone With a Cochlear Catheter Prior to Cochlear Implantation-1 Year Data.](https://doi.org/10.3389/fneur.2020.00258)** Front Neurol. 2020 Apr 15;11:258. doi:10.3389/fneur.2020.00258. eCollection 2020. 
