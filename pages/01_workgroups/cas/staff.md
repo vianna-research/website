@@ -9,7 +9,8 @@ title:Staff
 |:--|:-------------------------------------------------|:--------------------------------------|
 | ***Research Team***     |||
 |![Portrait](staff/Portrait_ThomasR.jpg){style="width:68px"} | Dr.-Ing. Thomas S. Rau <br> Head of Research Group <br>         | rau.thomas@mh-hannover.de   |
-|![Portrait](staff/Portrait_GeorgB.jpg){style="width:68px"}  | M. Sc. Georg Böttcher <br> Research Engineer <br>  | Boettcher.Georg@mh-hannover.de |
+|![Portrait](staff/Portrait_GeorgB.jpg){style="width:68px"}  | M. Sc. Georg Böttcher <br> Research Engineer <br>  | boettcher.georg@mh-hannover.de |
+|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| M. Sc. Tim Ehmann <br> Research Engineer                 | ehmann.tim@mh-hannover.de |
 |![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian <br> Research Engineer <br>            | kilian.julia@mh-hannover.de |
 |![Portrait](staff/Portrait_ViktorS.jpg){style="width:68px"}   | M. Sc. Viktor Schell <br> Research Engineer <br> | schell.viktor@mh-hannover.de |
 |![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD <br>	Otolaryngology-Head and Neck Surgeon 		| zunigamanrique.maria@mh-hannover.de	  |
@@ -22,13 +23,10 @@ title:Staff
 |![Portrait](staff/empty.jpg) 	                            | Shari Barati								| Medical Doctorate Thesis |
 |![Portrait](staff/Portrait_LeonB.jpg){style="width:68px"}  | Leon Budde                  | Master Thesis |
 |![Portrait](staff/tobias.png) 	                            | Tobias Blum 								| Student Assistant |
-|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis |
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
 |![Portrait](staff/lena.jpg){style="width:68px"}            | Lena Geiger								  | Medical Doctorate Thesis  | 
-|![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
 |![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	  | Jan Mairose								  | Student Assistant	| 
 |![Portrait](staff/christianm.png)                            | Christian Menke						| Medical Doctorate Thesis |
-|![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis | 
 |![Portrait](staff/empty.jpg) 	                              | Sina Witte 				    			| Medical Doctorate Thesis |
 
 
@@ -52,7 +50,9 @@ title:Staff
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Student Assistant  |
 |![Portrait](staff/alexbecker.jpg)| Alexander Becker 				|  Master Thesis|
 |![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis    |
+|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis |
 |![Portrait](staff/till.jpg) 	    | Till Gerking								| Medical Doctorate Thesis|
+|![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
 |                              	  | Mehran Heidel 							| Medical Doctorate Thesis	|
 |![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis	|
 |![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project |
@@ -65,6 +65,7 @@ title:Staff
 |                             	  | Veronika Shmatko						| Bachelor Thesis, 	|
 |                             	  | Katharina Spichal							| Medical Doctorate Thesis	|
 |![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis 		|
+|![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis | 
 |![Portrait](staff/lea.png)		    | Lea Uhlenbusch 							| Bachelor Thesis |
 |                               	| Jan-Niklas Wellers						| Medical Doctorate Thesis |
 |![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project  |
