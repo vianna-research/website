@@ -1,8 +1,8 @@
-title: Sina Tahamsebi 
+title: Sina Tahmasebi 
 
 
 
-![Sina Tahamsebi](Tahmasebi.jpg)
+![Sina Tahmasebi](Tahmasebi.jpg)
 
 
 Research employee	
