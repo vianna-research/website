@@ -18,8 +18,8 @@ title: Staff
 | Students                                                                                                      |
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
 |![Portrait](staff/blank.jpg)	| Bruni Costanza        | Bruni.Costanza(at)mh-hannover.de	 |
-|![Portrait](staff/blank.jpg)	| Betül Bayatid 			 | (at)mh-hannover.de	 |
-|![Portrait](staff/blank.jpg)	| Nourhan Bahgat			 | 	(at)mh-hannover.de |
+|![Portrait](staff/blank.jpg)	| Betül Bayatid 			 |   (at)mh-hannover.de	 |
+|![Portrait](staff/blank.jpg)	| Nourhan Bahgat			 | 	 (at)mh-hannover.de |
 
 
 
