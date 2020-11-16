@@ -29,5 +29,5 @@ The App offers an original method to listen and interact with new music composit
 
 [Prof. Dr.-Ing. Waldo Nogueira](nogueira.md)
 
-This sounds like the second version of the app.
+This version of the App is under development. 
 
