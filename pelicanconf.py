@@ -79,12 +79,7 @@ FAVICON = "images/favicon.png"  # small icon, shown in adress bar of browsers
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['hierarchy']
 
-MD_EXTENSIONS = ['markdown.extensions.extra',
-                 'markdown.extensions.sane_lists',
-                 'markdown.extensions.toc',
-                 'markdown.extensions.headerid',
-                 'markdown.extensions.nl2br',
-                 'markdown.extensions.smarty']
+MD_EXTENSIONS = ['extra', 'md_in_html', 'sane_lists', 'toc', 'headerid', 'nl2br']
 
 # Needed for inclusion of IPython notebooks
 # See <https://github.com/getpelican/pelican-plugins/tree/master/liquid_tags>
