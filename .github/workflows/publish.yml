@@ -57,5 +57,5 @@ jobs:
         path: html/
         remote_path: /var/www/virtual/vianna/html/
         remote_host: vianna.uber.space
-        remote_user: medvets
+        remote_user: vianna
         remote_key: ${{ secrets.DEPLOY_KEY }}
