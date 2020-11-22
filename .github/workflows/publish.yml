@@ -40,16 +40,18 @@ jobs:
       id: build
       run: |
         ls
-        pelican -s website/publishconf.py -v -D 
+        pelican -s website/pelicanconf.py -v -D 
         ls -la html/
     - name: Sync files to web server
       id: deploy
       uses: Burnett01/rsync-deployments@4.1
-      # Generate key pair like so:
+      # Generate key pair for deployment on a server like so:
+      # SSH in to the website server
       # ssh-keygen -f ~/.ssh/deploy_key_rsa -q -P "" 
       # cat ~/.ssh/deploy_key_rsa.pub
+      # and copy it
       # Add pub key to ~/.ssh/authorized_hosts
-      # Add private deploy_key_rsa to Github as a secret on the website
+      # Add private deploy_key_rsa to Github as a secret on the repository for the website
       with:
         switches: -avzr --delete
         path: html/
