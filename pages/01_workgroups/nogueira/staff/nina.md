@@ -1,7 +1,7 @@
 title: Nina Aldag 
 
 
-![Nina Aldag](blank.jpg)
+![Nina Aldag](Nina.jpeg)
 
 
 Research employee	
