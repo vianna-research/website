@@ -12,15 +12,11 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 ## Research Projects
 
 <!--- [Our reseach projects](nogueira/projects.md) --->
-- **[BINOM](https://www.vianna.de/01_workgroups/nogueira/projects/binom.html)**
-
-- **[EAS-Masking](https://www.vianna.de/01_workgroups/nogueira/projects/eas.html)**
-
-- **[EAS-Modeling](https://www.vianna.de/01_workgroups/nogueira/projects/easmodeling.html)**
-
+- **[BINOM](https://vianna.uber.space/01_workgroups/nogueira/projects/binom.html)**
+- **[EAS-Masking](https://vianna.uber.space/01_workgroups/nogueira/projects/eas.html)**
+- **[EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)**
 - **[MusIC](https://vianna.uber.space/01_workgroups/nogueira/projects/music.html)**
-
-- **[SA-Decoding](https://www.vianna.de/01_workgroups/nogueira/projects/dsaci.html)** 
+- **[SA-Decoding](https://vianna.uber.space/01_workgroups/nogueira/projects/dsaci.html)** 
 
 ---
 
