@@ -17,7 +17,7 @@ Music Samples of the Real-time Music Source Separation experiment. In this Exper
 
 ### Audio Example: 
 
-Bellow is a demo of the music tracks used in this experiment.
+Below is a demo of the music tracks used in this experiment.
 
 
 | Music Track |       Example 1 |  Example 2 |  
