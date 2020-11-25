@@ -18,7 +18,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 - **[EAS-Modeling](https://www.vianna.de/01_workgroups/nogueira/projects/easmodeling.html)**
 
-- **[MusIC](https://www.vianna.de/01_workgroups/nogueira/projects/music.html)**
+- **[MusIC](https://vianna.uber.space/01_workgroups/nogueira/projects/music.html)**
 
 - **[SA-Decoding](https://www.vianna.de/01_workgroups/nogueira/projects/dsaci.html)** 
 
