@@ -5,25 +5,25 @@ title: Staff
 
 | Head of Research Group              |                               |                                           |
 |:------------------------------------|:------------------------------|------------------------------------------:|
-|![Portrait](staff/Nogueiraklein.jpg) | Prof. Dr.-Ing. Waldo Nogueira | nogueiravazquez.waldo(at)mh-hannover.de   |
+|![Portrait](staff/Nogueiraklein.jpg) | Prof. Dr.-Ing. Waldo Nogueira | <nogueiravazquez.waldo@mh-hannover.de>    |
 
 
 | Research Team                   |                                                                                 |                                       |
 |:--------------------------------|:--------------------------------------------------------------------------------|--------------------------------------:|
-|![Portrait](staff/Krueger.jpg)   | Benjamin Krüger                                                                 | Krueger.Benjamin(at)mh-hannover.de    |
-|![Portrait](staff/Gajecki.jpg)  	| [Tom Gajecki](https://www.vianna.de/01_workgroups/nogueira/projects/binom.html)	| Gajecki.Tomas(at)mh-hannover.de	      |
-|![Portrait](staff/Alrutz.jpg)	   | Daniel Kipping				                                                              | Kipping.Daniel(at)mh-hannover.de	     |
-|![Portrait](staff/Tahmasebi.jpg)	| Sina Tahmasebi 				                                                             | Tahmasebi.Sina(at)mh-hannover.de	     |
-|![Portrait](staff/Nina.jpeg)	    | Nina Aldag 				                                                                 | Aldag.Nina(at)mh-hannover.de	         |
-|![Portrait](staff/Hanna.jpeg)	   | Hanna Dolhopiatenko 				                                                        | Dolhopiatenko.Hanna(at)mh-hannover.de	|
+|![Portrait](staff/Krueger.jpg)   | [Benjamin Krüger](https://vianna.uber.space/01_workgroups/nogueira/staff/benjamin.html) | <Krueger.Benjamin@mh-hannover.de>     
+|![Portrait](staff/Gajecki.jpg)  	| [Tom Gajecki](https://www.vianna.de/01_workgroups/nogueira/projects/binom.html)	| <Gajecki.Tomas@mh-hannover.de>      |
+|![Portrait](staff/Alrutz.jpg)	   | [Daniel Kipping](https://vianna.uber.space/01_workgroups/nogueira/staff/daniel.html) | <Kipping.Daniel@mh-hannover.de>	     |
+|![Portrait](staff/Tahmasebi.jpg)	| [Sina Tahmasebi](https://vianna.uber.space/01_workgroups/nogueira/staff/sina.html) | <Tahmasebi.Sina@mh-hannover.de>  |
+|![Portrait](staff/Nina.jpeg)	    | [Nina Aldag](https://vianna.uber.space/01_workgroups/nogueira/staff/nina.html)| <Aldag.Nina@mh-hannover.de>         |
+|![Portrait](staff/Hanna.jpeg)	   | [Hanna Dolhopiatenko](https://vianna.uber.space/01_workgroups/nogueira/staff/hanna.html)| <Dolhopiatenko.Hanna@mh-hannover.de>	|
 
 
 
 | Students                    |                     |                                   |
 |:----------------------------|:--------------------|----------------------------------:|
-|![Portrait](staff/blank.jpg)	| Costanza Bruni      | Bruni.Costanza(at)mh-hannover.de	 |
-|![Portrait](staff/blank.jpg)	| Betül Bayatid 			   |   (at)mh-hannover.de	             |
-|![Portrait](staff/blank.jpg)	| NourhanBahgat		     | 	 (at)mh-hannover.de              |
+|![Portrait](staff/costi.jpg)	| Costanza Bruni      | <Bruni.Costanza@mh-hannover.de>  |
+|![Portrait](staff/blank.jpg)	| Betül Bayatid 			| <derbeder_oldum@hotmail.de>	     |
+|![Portrait](staff/nour.jpg)	| Nourhan Bahgat		  | <nourhanbahgat88@gmail.com>      |
 
 
 
