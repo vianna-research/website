@@ -1,5 +1,5 @@
 title: Sina Tahmasebi 
-publications_src: sina.bib
+publications_src:sina.bib
 
 
 ![Sina Tahmasebi](Tahmasebi.jpg)
