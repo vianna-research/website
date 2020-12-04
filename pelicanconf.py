@@ -77,7 +77,7 @@ FAVICON = "images/favicon.png"  # small icon, shown in adress bar of browsers
 # The plugins to load
 # Note, `hierarchy` is our own plugin for hierachic static pages.
 PLUGIN_PATHS = ['../pelican-plugins', '../pelican-cite-plugins']
-PLUGINS = ['hierarchy', 'pelican-cite]
+PLUGINS = ['hierarchy', 'pelican-cite']
 
 MD_EXTENSIONS = ['extra', 'md_in_html', 'sane_lists', 'toc', 'headerid', 'nl2br']
 
