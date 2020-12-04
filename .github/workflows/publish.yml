@@ -36,6 +36,12 @@ jobs:
         repository: 'samueljohn/pelican-plugins'
         path: 'pelican-plugins'
         
+    - name: Checkout pelican-cite plugin (for bibliography)
+      uses: actions/checkout@v2
+      with:
+        repository: 'vianna-research/pelican-cite'
+        path: 'pelican-cite-plugin/pelican-cite'
+        
     - name: Build website
       id: build
       run: |
