@@ -81,6 +81,10 @@ PLUGINS = ['hierarchy', 'pelican-cite']
 
 MD_EXTENSIONS = ['extra', 'md_in_html', 'sane_lists', 'toc', 'headerid', 'nl2br']
 
+# BIBLIOGRAPHY (pelican-cite plugin) settings
+
+
+
 # Needed for inclusion of IPython notebooks
 # See <https://github.com/getpelican/pelican-plugins/tree/master/liquid_tags>
 # if os.path.exists('_nb_header.html'):
