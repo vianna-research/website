@@ -30,6 +30,6 @@ Research employee
 ---
     
 
-[@@sina2020]
+[@@10.3389/fnins.2020.00434]
 
 
