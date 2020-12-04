@@ -41,7 +41,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         repository: 'vianna-research/pelican-cite'
-        path: 'pelican-cite'
+        path: 'pelican-cite-plugin/pelican-cite'
         
     - name: Build website
       id: build
