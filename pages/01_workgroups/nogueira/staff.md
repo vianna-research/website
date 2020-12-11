@@ -24,6 +24,9 @@ title: Staff
 |![Portrait](staff/costi.jpg)	| Costanza Bruni      | <Bruni.Costanza@mh-hannover.de>  |
 |![Portrait](staff/blank.jpg)	| Betül Bayatid 			| <derbeder_oldum@hotmail.de>	     |
 |![Portrait](staff/nour.jpg)	| Nourhan Bahgat		  | <nourhanbahgat88@gmail.com>      |
+|![Portrait](staff/jonas.jpg)	| Jonas Althoff		  | <Althoff.Jonas@mh-hannover.de>      |
+
+
 
 
 
