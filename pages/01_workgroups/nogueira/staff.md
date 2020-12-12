@@ -10,7 +10,7 @@ title: Staff
 
 | Research Team                   |                                                                                 |                                       |
 |:--------------------------------|:--------------------------------------------------------------------------------|--------------------------------------:|
-|![Portrait](staff/Krueger.jpg)   | [Benjamin Krüger](https://vianna.uber.space/01_workgroups/nogueira/staff/benjamin.html) | <Krueger.Benjamin@mh-hannover.de>     
+|![Portrait](staff/Krueger.jpg)   | [Benjamin Krüger](https://vianna.uber.space/01_workgroups/nogueira/staff/Krueger.html) | <Krueger.Benjamin@mh-hannover.de>     
 |![Portrait](staff/Gajecki.jpg)  	| [Tom Gajecki](https://www.vianna.de/01_workgroups/nogueira/projects/binom.html)	| <Gajecki.Tomas@mh-hannover.de>      |
 |![Portrait](staff/Alrutz.jpg)	   | [Daniel Kipping](https://vianna.uber.space/01_workgroups/nogueira/staff/daniel.html) | <Kipping.Daniel@mh-hannover.de>	     |
 |![Portrait](staff/Tahmasebi.jpg)	| [Sina Tahmasebi](https://vianna.uber.space/01_workgroups/nogueira/staff/sina.html) | <Tahmasebi.Sina@mh-hannover.de>  |
