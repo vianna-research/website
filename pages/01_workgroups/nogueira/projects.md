@@ -3,7 +3,7 @@ title: Projects
 
 -**[Binaural Sound Coding Strategies for Cochlear Implants (BINOM)](https://www.vianna.de/01_workgroups/nogueira/projects/binom.html)**
 
--**[Electric Acoustic Interaction EAS-Masking.](https://www.vianna.de/01_workgroups/nogueira/projects/eas.html)**
+-**[Electric Acoustic Interaction EAS-Masking](https://www.vianna.de/01_workgroups/nogueira/projects/eas.html)**
 
 -**[Electric Acoustic Interaction EAS-Modeling](https://www.vianna.de/01_workgroups/nogueira/projects/easmodeling.html)**
 
