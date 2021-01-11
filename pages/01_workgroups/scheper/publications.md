@@ -1,9 +1,13 @@
 title: Publications
 
 ## 2020
+* Gao Z, Matin F, Weber C, John S, Lenarz T, **Scheper V**. [High Variability of Postsurgical Anatomy Supports the Need for Individualized Drug-Eluting Implants to Treat Chronic Rhinosinusitis](https://www.mdpi.com/2075-1729/10/12/353) Life (Basel). 2020 Dec 17.
+
+* Nagai M, **Scheper V**, Lenarz T, Förster CY. [The insular cortex as a vestibular area in relation to autonomic function](https://link.springer.com/article/10.1007%2Fs10286-020-00744-8) Clin Auton Res. 2020 Dec 1.
+
 * Knipper M, van Dijk P,Schulze H, Mazurek B, Krauss P, **Scheper V**, Warnecke A, Schlee W, Schwabe K, Singer W, Braun C, Delano PH, Fallgatter AJ, Ehlis A, Searchfield GD, Munk MHJ, Baguley DM, Rüttiger L. [The Neural Bases of Tinnitus: Lessons from Deafness and Cochlear Implants](https://www.jneurosci.org/content/jneuro/40/38/7190.full.pdf) J. Neurosci. Res., 2020 September 16.
 
-* **Scheper V**, Seidel-Effenberg I, Lenarz T,Stöver T, Paasche G. [Consecutive Treatment with Brain-Derived Neurotrophic Factor and Electrical Stimulation Has a Protective Effect on Primary Auditory Neurons.](https://doi.org/10.3390/brainsci10080559) Brain Sci.2020, 10(8), 559
+* **Scheper V**, Seidel-Effenberg I, Lenarz T, Stöver T, Paasche G. [Consecutive Treatment with Brain-Derived Neurotrophic Factor and Electrical Stimulation Has a Protective Effect on Primary Auditory Neurons.](https://doi.org/10.3390/brainsci10080559) Brain Sci.2020, 10(8), 559
 
 * **Scheper V**, Schmidtheisler M, Lasch F, von der Leyen H, Koch A, Schwieger J, Büchner A, Lesinski-Schiedat A, Lenarz T. [Randomized placebo-controlled clinical trial investigating the effect of antioxidants and a vasodilator on overall safety and residual hearing preservation in cochlear implant patients .](https://doi.org/10.1186/s13063-020-04522-9) Trials, 2020 July 15.
 
