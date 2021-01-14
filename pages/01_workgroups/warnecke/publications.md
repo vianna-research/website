@@ -24,7 +24,7 @@ title: Publications
 
 * El-Saied S, Schmitt H, Durisin M, Joshua BZ, Abu Tailakh M, Prenzler N, Lenarz T, Kaplan DM, Lewis EC, Warnecke A. **[Endogenous α1-antitrypsin levels in the perilymphatic fluid correlates with severity of hearing loss.](https://doi.org/10.1111/coa.13541)** Clin Otolaryngol. 2020 Apr 4. doi: 10.1111/coa.13541. 
 
-* Majdani E, Majdani O, Steffens M, Warnecke A, Lesinski-Schiedat A, Lenarz T, Götz F. **[Dimensions of artefacts caused by cochlear and auditory brainstem implants in magnetic resonance imaging.](https://doi.org/10.1080/14670100.2019.1668617)** Cochlear Implants Int. 2020 Mar;21(2):67-74. doi: 10.1080/14670100.2019.1668617. Epub 2019 Sep 25.
+* Majdani E, Majdani O, Steffens M, Warnecke A, Lesinski-Schiedat A, Lenarz T, Götz F. **[Dimensions of artefacts caused by cochlear and auditory brainstem implants in magnetic resonance imaging.](https://doi.org/10.1080/14670100.2019.1668617)** Cochlear Implants Int. 2020 Mar;21(2):67-74. doi: 10.1080/14670100.2019.1668617.
  
 * Zelener F, Majdani O, Roemer A, Lexow GJ, Giesemann A, Lenarz T, Warnecke A. **[Relations Between Scalar Shift and Insertion Depth in Human Cochlear Implantation.](https://journals.lww.com/otology-neurotology/FullText/2020/02000/Relations_Between_Scalar_Shift_and_Insertion_Depth.10.aspx)** Otol Neurotol. 2020 Feb;41(2):178-185. doi: 10.1097/MAO.0000000000002460.  
  
