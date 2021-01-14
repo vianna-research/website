@@ -65,7 +65,7 @@ title: Publications
 
 * Schmitt H, Roemer A, Zeilinger C, Salcher R, Durisin M, Staecker H, Lenarz T, Warnecke A. **[Heat Shock Proteins in Human Perilymph: Implications for Cochlear Implantation.](https://insights.ovid.com/crossref?an=00129492-201801000-00007)** Otol Neurotol. 2018 Jan;39(1):37-44.
 
-* Stolle M, Schulze J, Roemer A, Lenarz T, Durisin M, Warnecke A. **[Human Plasma Rich in Growth Factors Improves Survival and Neurite Outgrowth of Spiral Ganglion Neurons In Vitro.](https://doi.org/10.1089/ten.tea.2017.0120Tissue)** Eng Part A. 2018 Mar;24(5-6):493-501.
+* Stolle M, Schulze J, Roemer A, Lenarz T, Durisin M, Warnecke A. **[Human Plasma Rich in Growth Factors Improves Survival and Neurite Outgrowth of Spiral Ganglion Neurons In Vitro.](https://www.liebertpub.com/doi/10.1089/ten.TEA.2017.0120?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&)** Eng Part A. 2018 Mar;24(5-6):493-501.doi: 10.1089/ten.TEA.2017.0120.
 
 ## 2017
 * Roemer A, Warnecke A, Lenarz T, Stolle SRO. **[Successful Treatment of Intractable Facial Osteomyelitis with Autologous PRP and Gentamicin.](https://www.semanticscholar.org/paper/Successful-Treatment-of-Intractable-Facial-with-PRP-Roemer-Warnecke/62a50b9bacd6128d499a92bd8a7bb1da25759ca5)** Clin Otorlyryngol (2017)1:1 011. 
