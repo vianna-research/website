@@ -8,7 +8,7 @@ title: Publications
 
 * Schulze J, Staecker H, Wedekind D, Lenarz T, Warnecke A. **[Expression pattern of brain-derived neurotrophic factor and its associated receptors: Implications for exogenous neurotrophin application.](https://www.sciencedirect.com/science/article/pii/S0378595520303695?via%3Dihub)** Hear Res 2020. doi:10.1016/j.heares.2020.108098
 
-* Salcher R, Boruchov A, Timm M, Steffens M, Giesemann A, Lenarz T, Warnecke A. **[On the Intracochlear Location of Straight Electrode Arrays After Cochlear Implantation: How Lateral Are Lateral Wall Electrodes?](https://journals.lww.com/otology-neurotology/Abstract/9000/On_the_Intracochlear_Location_of_Straight.95971.aspx)** Otol Neurotol. 2020 Sep 22. doi:  10.1097/MAO.0000000000002880
+* Salcher R, Boruchov A, Timm M, Steffens M, Giesemann A, Lenarz T, Warnecke A. **[On the Intracochlear Location of Straight Electrode Arrays After Cochlear Implantation: How Lateral Are Lateral Wall Electrodes?](https://journals.lww.com/otology-neurotology/Fulltext/2021/02000/On_the_Intracochlear_Location_of_Straight.8.aspx)** Otol Neurotol. 2020 Sep 22. doi:  10.1097/MAO.0000000000002880
 
 * Knipper M, van Dijk P, Schulze H, Mazurek B, Krauss P, Scheper V, Warnecke A, Schlee W, Schwabe K, Singer W, Braun C, Delano PH, Fallgatter AJ, Ehlis AC, Searchfield GD, Munk MHJ, Baguley DM, Rüttiger L. **[The Neural Bases of Tinnitus: Lessons from Deafness and Cochlear Implants.](https://www.jneurosci.org/content/40/38/7190/tab-article-info)** J Neurosci. 2020 Sep 16;40(38):7190-7202. doi: 10.1523/JNEUROSCI.1314-19.2020.
 
@@ -65,7 +65,7 @@ title: Publications
 
 * Schmitt H, Roemer A, Zeilinger C, Salcher R, Durisin M, Staecker H, Lenarz T, Warnecke A. **[Heat Shock Proteins in Human Perilymph: Implications for Cochlear Implantation.](https://insights.ovid.com/crossref?an=00129492-201801000-00007)** Otol Neurotol. 2018 Jan;39(1):37-44.
 
-* Stolle M, Schulze J, Roemer A, Lenarz T, Durisin M, Warnecke A. **[Human Plasma Rich in Growth Factors Improves Survival and Neurite Outgrowth of Spiral Ganglion Neurons In Vitro.](https://doi.org/10.1089/ten.tea.2017.0120Tissue)** Eng Part A. 2018 Mar;24(5-6):493-501.
+* Stolle M, Schulze J, Roemer A, Lenarz T, Durisin M, Warnecke A. **[Human Plasma Rich in Growth Factors Improves Survival and Neurite Outgrowth of Spiral Ganglion Neurons In Vitro.](https://www.liebertpub.com/doi/10.1089/ten.TEA.2017.0120?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&)** Eng Part A. 2018 Mar;24(5-6):493-501.doi: 10.1089/ten.TEA.2017.0120.
 
 ## 2017
 * Roemer A, Warnecke A, Lenarz T, Stolle SRO. **[Successful Treatment of Intractable Facial Osteomyelitis with Autologous PRP and Gentamicin.](https://www.semanticscholar.org/paper/Successful-Treatment-of-Intractable-Facial-with-PRP-Roemer-Warnecke/62a50b9bacd6128d499a92bd8a7bb1da25759ca5)** Clin Otorlyryngol (2017)1:1 011. 
