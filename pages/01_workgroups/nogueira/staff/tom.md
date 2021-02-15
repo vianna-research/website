@@ -25,7 +25,7 @@ German Research Foundation (DFG), Project number: 390895286 (PIs: Waldo Nogueira
 
 - R. Hinrichs, T. Gajecki, J. Ostermann, W. Nogueira. A Subjective and Objective Evaluation of a Codec for the Electrical Stimulation Patterns of Cochlear Implants. The Journal of the Acoustical Societ yof America, 2020. (Submitted)
 
-- T. Gajecki, W. Nogueira. Enhancement of Interaural Level Differences for Bilateral Cochlear Implant Users. The Journal of the Acoustical Society of America, 2020. (Submitted)
+- T. Gajecki, W. Nogueira. Enhancement of Interaural Level Differences for Bilateral Cochlear Implant Users. Hearing Research, 2021. (Submitted)
 
 - T. Gajecki, W. Nogueira. [The Effect of Synchronized Linked Band Selection on Speech Intelligibility of Bilateral Cochlear Implant Users](https://www.sciencedirect.com/science/article/pii/S0378595520303221). Hearing Research, 2020.
 
