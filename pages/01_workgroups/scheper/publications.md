@@ -1,5 +1,8 @@
 title: Publications
 
+## 2021
+* Gärtner L, Klötzer K, Lenarz T, **Scheper V**. [Correlation of Electrically Evoked Compound Action Potential Amplitude Growth Function Slope and Anamnestic Parameters in Cochlear Implant Patients—Identification of Predictors for the Neuronal Health Status](https://doi.org/10.3390/life11030203) Life 2021 March 05
+
 ## 2020
 * Gao Z, Matin F, Weber C, John S, Lenarz T, **Scheper V**. [High Variability of Postsurgical Anatomy Supports the Need for Individualized Drug-Eluting Implants to Treat Chronic Rhinosinusitis](https://www.mdpi.com/2075-1729/10/12/353) Life (Basel). 2020 Dec 17.
 
