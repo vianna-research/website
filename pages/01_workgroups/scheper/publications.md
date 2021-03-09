@@ -1,23 +1,23 @@
 title: Publications
 
 ## 2021
-* Gärtner L, Klötzer K, Lenarz T, **Scheper V**. [Correlation of Electrically Evoked Compound Action Potential Amplitude Growth Function Slope and Anamnestic Parameters in Cochlear Implant Patients—Identification of Predictors for the Neuronal Health Status](https://doi.org/10.3390/life11030203) Life 2021 March 05
+* Gärtner L, Klötzer K, Lenarz T, **Scheper V**. [Correlation of Electrically Evoked Compound Action Potential Amplitude Growth Function Slope and Anamnestic Parameters in Cochlear Implant Patients—Identification of Predictors for the Neuronal Health Status](https://doi.org/10.3390/life11030203) Life, 2021 March 05.
 
 ## 2020
-* Gao Z, Matin F, Weber C, John S, Lenarz T, **Scheper V**. [High Variability of Postsurgical Anatomy Supports the Need for Individualized Drug-Eluting Implants to Treat Chronic Rhinosinusitis](https://www.mdpi.com/2075-1729/10/12/353) Life (Basel). 2020 Dec 17.
+* Gao Z, Matin F, Weber C, John S, Lenarz T, **Scheper V**. [High Variability of Postsurgical Anatomy Supports the Need for Individualized Drug-Eluting Implants to Treat Chronic Rhinosinusitis](https://www.mdpi.com/2075-1729/10/12/353) Life (Basel), 2020 Dec 17.
 
 * Nagai M, **Scheper V**, Lenarz T, Förster CY. [The insular cortex as a vestibular area in relation to autonomic function](https://link.springer.com/article/10.1007%2Fs10286-020-00744-8) Clin Auton Res. 2020 Dec 1.
 
 * Knipper M, van Dijk P,Schulze H, Mazurek B, Krauss P, **Scheper V**, Warnecke A, Schlee W, Schwabe K, Singer W, Braun C, Delano PH, Fallgatter AJ, Ehlis A, Searchfield GD, Munk MHJ, Baguley DM, Rüttiger L. [The Neural Bases of Tinnitus: Lessons from Deafness and Cochlear Implants](https://www.jneurosci.org/content/jneuro/40/38/7190.full.pdf) J. Neurosci. Res., 2020 September 16.
 
-* **Scheper V**, Seidel-Effenberg I, Lenarz T, Stöver T, Paasche G. [Consecutive Treatment with Brain-Derived Neurotrophic Factor and Electrical Stimulation Has a Protective Effect on Primary Auditory Neurons.](https://doi.org/10.3390/brainsci10080559) Brain Sci.2020, 10(8), 559
+* **Scheper V**, Seidel-Effenberg I, Lenarz T, Stöver T, Paasche G. [Consecutive Treatment with Brain-Derived Neurotrophic Factor and Electrical Stimulation Has a Protective Effect on Primary Auditory Neurons.](https://doi.org/10.3390/brainsci10080559) Brain Sci.2020, August 15.
 
 * **Scheper V**, Schmidtheisler M, Lasch F, von der Leyen H, Koch A, Schwieger J, Büchner A, Lesinski-Schiedat A, Lenarz T. [Randomized placebo-controlled clinical trial investigating the effect of antioxidants and a vasodilator on overall safety and residual hearing preservation in cochlear implant patients .](https://doi.org/10.1186/s13063-020-04522-9) Trials, 2020 July 15.
 
 * Schwieger J, Hamm A, Gepp M M, Schulz A, Hoffmann A, Lenarz T, **Scheper V** [Alginate-encapsulated brain-derived neurotrophic factor–overexpressing mesenchymal stem cells are a promising drug delivery system for protection of auditory neurons .](https://journals.sagepub.com/doi/10.1177/2041731420911313) J. Tissue Eng. 11, 2020 April 17.
 
 ## 2019
-* Förster CY, **Scheper V**, Lenarz T. [Hearing loss and strial microvascular pathology-towards unravelling the functional contribution of the blood-labyrinth barrier.](https://www.oatext.com/hearing-loss-and-strial-microvascular-pathology-towards-unravelling-the-functional-contribution-of-the-blood-labyrinth-barrier.php#Article) Otorhinolaryngol Head Neck Surg, 2019 November 25.
+* Förster CY, **Scheper V**, Lenarz T. [Hearing loss and strial microvascular pathology-towards unravelling the functional contribution of the blood-labyrinth barrier.](https://www.oatext.com/hearing-loss-and-strial-microvascular-pathology-towards-unravelling-the-functional-contribution-of-the-blood-labyrinth-barrier.php#Article) Otorhinolaryngol Head Neck Surg., 2019 November 25.
 
 * Yilmaz-Bayraktar S, Schwieger J, **Scheper V**, Lenarz T, Böer U, Kreienmeyer M, Torrente M, Doll T. [Decellularized equine carotid artery layers as matrix for regenerated neurites of spiral ganglion neurons.](https://doi.org/10.1177%2F0391398819868481) Int. J. Art. Organs, 2019 August 22.
 
