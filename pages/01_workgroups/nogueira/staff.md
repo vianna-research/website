@@ -5,7 +5,7 @@ title: Staff
 
 | Head of Research Group              |                               |                                           |
 |:------------------------------------|:------------------------------|------------------------------------------:|
-|![Portrait](staff/Nogueiraklein.jpg) | Waldo Nogueira | <nogueiravazquez.waldo@mh-hannover.de>    |
+|![Portrait](staff/Nogueiraklein.jpg) |Dr.-Ing. Waldo Nogueira | <nogueiravazquez.waldo@mh-hannover.de>    |
 
 
 | Research Team                   |                                                                                 |                                       |
