@@ -10,6 +10,7 @@ title: Staff
 
 | Research Team                   |                                                                                 |                                       |
 |:--------------------------------|:--------------------------------------------------------------------------------|--------------------------------------:|
+|![Portrait](staff/Krueger.jpg)   | [Waldo Nogueira](https://vianna.uber.space/01_workgroups/nogueira/staff/nogueira.html) | <NogueiraVazquez.Waldo@mh-hannover.de>   
 |![Portrait](staff/Krueger.jpg)   | [Benjamin Krüger](https://vianna.uber.space/01_workgroups/nogueira/staff/Krueger.html) | <Krueger.Benjamin@mh-hannover.de>     
 |![Portrait](staff/Alrutz.jpg)	   | [Daniel Kipping](https://vianna.uber.space/01_workgroups/nogueira/staff/daniel.html) | <Kipping.Daniel@mh-hannover.de>	     |
 |![Portrait](staff/Hanna.jpeg)	   | [Hanna Dolhopiatenko](https://vianna.uber.space/01_workgroups/nogueira/staff/hanna.html)| <Dolhopiatenko.Hanna@mh-hannover.de>	|
