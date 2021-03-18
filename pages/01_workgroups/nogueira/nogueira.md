@@ -1,4 +1,4 @@
-title:  Prof. Dr.-Ing. Waldo Nogueira
+title: Dr.-Ing. Waldo Nogueira
 
 
 
