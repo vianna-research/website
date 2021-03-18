@@ -1,4 +1,4 @@
-title: Electric Acoustic Interaction EAS-Masking & Modeling
+title: Electric Acoustic Interaction
 
 
 
