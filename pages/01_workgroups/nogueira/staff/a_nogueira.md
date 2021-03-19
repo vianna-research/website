@@ -2,7 +2,6 @@ title: Waldo Nogueira
 
 
 
-
 ![Waldo Nogueira](Nogueira.jpg)
 
 
