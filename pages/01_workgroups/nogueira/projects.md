@@ -7,9 +7,9 @@ title: Projects
 
 -**[Electric Acoustic Interaction EAS-Modeling](https://www.vianna.de/01_workgroups/nogueira/projects/easmodeling.html)**
 
--**[Music Signal Processing for Cochlear Implant Users (MusIC)](https://www.vianna.de/01_workgroups/nogueira/projects/music.html)**
+-**[EEG Neural Tracking/Selective Attention Decoding for Cochlear Implant Users (SA-Decoding)](https://www.vianna.de/01_workgroups/nogueira/projects/dsaci.html)**
 
--**[EEG Neural Tracking/Selective Attention Decoding for Cochlear Implant Users (SA-Decoding)](https://www.vianna.de/01_workgroups/nogueira/projects/dsaci.html)**    
+-**[Music Signal Processing for Cochlear Implant Users (MusIC)](https://www.vianna.de/01_workgroups/nogueira/projects/music.html)**
 
 
 
