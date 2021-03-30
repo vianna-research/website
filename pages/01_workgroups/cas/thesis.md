@@ -1,4 +1,4 @@
-status: draft
+status: hidden
 
 title: Thesis and Internships 
 
