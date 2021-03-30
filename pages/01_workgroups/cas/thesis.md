@@ -1,6 +1,5 @@
-status: hidden
-
 title: Thesis and Internships 
+status: hidden
 
 We have always some topics for your Internship or your Project, Bachelor or Master Thesis. 
 Even if you can not identify with either one of the following topics but are interested in medical implants / cochlear implants in general, you can just write an email to find out whether there are more open topics.
