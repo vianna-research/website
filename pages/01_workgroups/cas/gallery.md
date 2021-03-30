@@ -1,3 +1,1 @@
-status: hidden
-
-title: Gallery
+title: Gallery status: hidden
