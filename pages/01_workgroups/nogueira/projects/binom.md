@@ -3,7 +3,7 @@ title: BiNoM
 ## BINOM: Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants
 
 
-![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](binomlogo_1.png){.img-rounded}
+![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](binomlogo_1.png){.img-rounded; .float:center}
 
 This projects investigates different binaural sound coding schemes to improve hearing in bilateral cochlear implant users.
 
