@@ -20,11 +20,11 @@ Research employee
 <details>
   <summary>Click to expand!</summary>
   
-  ## Test
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+## Test
+1. A numbered
+2. list
+* With some
+* Sub bullets
 </details>
 
 
