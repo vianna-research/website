@@ -16,7 +16,6 @@ Research employee
 * Music perception and music appreciation in cochlear implant users
 
 
-
 ---
 
 | Contact                 |                            |
