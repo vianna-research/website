@@ -1,5 +1,36 @@
 title: Publications
 
+
+## 2021
+
+
+* **[A sound coding strategy based on a temporal masking model for cochlear i, PloseOne. (Accepted).](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244433)** Kludt E., **Nogueira W**.  T. Lenarz, A. Büchner (2021). 
+
+
+* **[ Assessing the relationship between neural health measures and speech performance with parallel electrical stimulation in Cochlear Implant listeners]()** F. Langner, J. G. Arenberg, A. Büchner, **Nogueira W** (2021). 
+
+
+* **[Effect of Channel Interaction on Vocal Cue Perception in cochlear implant users.]()** W. Nogueira(1), El Boghdady(1), E. Gaudrain, D. Baskent (2021). Ear and Hearing (Under Review).
+
+
+* **[Amplitude growth functions of auditory nerve responses to electric pulse stimulation with varied inter-phase gaps in cochlear implant users with ipsilateral residual hearing]()** M. Imsiecke, A. Büchner, T. Lenarz, W. Nogueira (2021).  Trends in Hearing (Under Review).
+
+
+* **[Localization of Cochlear Implant Electrode Contacts using Particle Belief Propagation on Cone Beam Computer Tomography Data-Sets]()** H. Hachmann, B. Krüger, B. Rosenhahn, W. Nogueira (2021). IEEE ISBI 2021 (Under Review).
+* 
+
+* **[Phantom Stimulation for Cochlear Implant Users with Residual Low-Frequency Hearing, Ear and Hearing, ]()** B. Krüger, A. Büchner, W. Nogueira (2021). Ear and Hearing, (Under Review).
+
+
+* **[The Effect of Synchronized Linked Band Selection on Speech Intelligibility of Bilateral Cochlear Implant UsersJournal of the Acoustical Society of America]()** T. Gajecki, W. Nogueira (2021). Journal of the Acoustical Society of America, 2021 (Under Review).
+
+
+* **[A subjective and objective evaluation of a codec for the electrical stimulation patterns of cochlear implants]()** R. Hinrichs, T. Gajecki, J. Ostermann, W. Nogueira (2021). . The Journal of the Acoustical Society of America. (Under Review)
+
+* **[Amount of frequency compression in bimodal cochlear implant users is a poor predictor for audibility and spatial hearing, Journal of Speech, Language, and Hearing Research.]()S. Sharma, M. M. van Wanrooij1, A. J. van Opstal, J. Chalupper, L. H. M. Mens, W. Nogueira (2021). Journal of Speech, Language, and Hearing Research. (Under Review).
+
+
+
 ## 2020
 
 * **[The Effect of Synchronized Linked Band Selection on Speech Intelligibility of Bilateral Cochlear Implant Users](https://www.sciencedirect.com/science/article/pii/S0378595520303221)** Gajecki T, **Nogueira W**. Hearing Research, 2020.
