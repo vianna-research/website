@@ -1,8 +1,8 @@
-title: CHD: Cochlea Hydro Drive
+title: CHD
 
 - - -
 
-# Toward Automated Electrode Insertion
+# The Cochlea Hydro Drive: Toward Automated Electrode Insertion
 
 
 ### Contact:
