@@ -1,5 +1,5 @@
 title: Publications
-- - -
+
 - - -
 ![2020](publications/BannerPaper2020.jpg)
 
