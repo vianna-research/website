@@ -9,7 +9,7 @@ Research employee
 **Research and Interests**
 
 * Auditory Selective Attention decoding with linear and non-linear (e.g. Deep Neural Networks) models
-* Non-invasive electroencephalography
+* Non-invasive electroencephalography (EEG)
 
 
 ---
