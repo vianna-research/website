@@ -120,7 +120,7 @@ title: Publications
 
 * Aliuos P, Sen A, Reich U, Dempwolf W, Warnecke A, Hadler C, Lenarz T, Menzel H, Reuter G. **[Inhibition of fibroblast adhesion by covalently immobilized protein repellent polymer coatings studied by single cell force spectroscopy.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34686/abstract)** J Biomed Mater Res A. 2013 Apr 18. doi: 10.1002/jbm.a.34686. [Epub ahead of print]
 
-* Alious P, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U, Reuter G. **E[valuation of single-cell force spectroscopy and microscopy to determine cell interactions with femtosecond-laser microstructured titanium surfaces.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34401/abstract)** J Biomed Res Part A 2013;101(4):981-990. 
+* Alious P, Fadeeva E, Badar M, Winkel A, Mueller PP, Warnecke A, Chichkov B, Lenarz T, Reich U, Reuter G. **[Evaluation of single-cell force spectroscopy and microscopy to determine cell interactions with femtosecond-laser microstructured titanium surfaces.](http://onlinelibrary.wiley.com/doi/10.1002/jbm.a.34401/abstract)** J Biomed Res Part A 2013;101(4):981-990. 
 
 ## Before 2013
 * Warnecke A, Sasse S, Wenzel GI, Hoffmann A, Gross G, Paasche G, Scheper V, Reich U, Esser K-H, Lenarz T, Stöver T, Wissel K. **[Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone elastomers enhances survival of spiral ganglion cells in vitro and in vivo](http://www.sciencedirect.com/science/article/pii/S0378595512000937).** Hear Res. 2012 Jul;289(1-2):86-97. 
