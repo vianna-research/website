@@ -2,6 +2,34 @@ title: Publications
 
 ## 2020
 
+How Do We Allocate Our Resources When Listening and Memorizing Speech in Noise? A Pupillometry Study
+
+Amplitude growth of intracochlear electrocochleography in cochlear implant users with residual hearing
+
+Case report of the first patient with electro-mechanical stimulation of the inner ear: The Vibrant Soundbridge combined with a FLEX20 cochlear implant
+
+Causes of congenital hearing loss and cochlear implant outcome
+
+Combined Brain-Perfusion SPECT and EEG Measurements Suggest Distinct Strategies for Speech Comprehension in CI Users With Higher and Lower Performance
+
+Do Impedance Changes Correlate With a Delayed Hearing Loss After Hybrid L24 Implantation?
+
+Effect of Electrode to Modiolus Distance on Electrophysiological and Psychophysical Parameters in CI Patients With Perimodiolar and Lateral Electrode Arrays
+
+Evaluation of an Adaptive Dynamic Compensation System in Cochlear Implant Listeners
+
+Randomized placebo-controlled clinical trial investigating the effect of antioxidants and a vasodilator on overall safety and residual hearing preservation in cochlear implant patients
+
+Hearing Preservation With a New Atraumatic Lateral Wall Electrode
+
+Hidden Electrode Failure in a Cochlear Implant User
+
+Impedance Values Do Not Correlate With Speech Understanding in Cochlear Implant Recipients
+
+Interaction Between Electric and Acoustic Stimulation Influences Speech Perception in Ipsilateral EAS Users
+
+Perception and prediction of loudness in sound coding strategies using simultaneous electric stimulation
+
 * **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)**
 Imsiecke M, **Büchner A**, Lenarz T, Nogueira W.
 Hear Res. 2020 Feb;386:107873. doi: 10.1016/j.heares.2019.107873. Epub 2019 Dec 18.
