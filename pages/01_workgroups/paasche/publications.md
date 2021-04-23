@@ -1,4 +1,13 @@
 title: Publications
+## 2020
+* Scheper V, Seidel-Effenberg I, Lenarz T, Stöver T, **Paasche G**. Consecutive Treatment with Brain-Derived Neurotrophic Factor and Electrical Stimulation Has a Protective Effect on Primary Auditory Neurons. Brain Sci. 2020 Aug 15;10(8):559. doi: 10.3390/brainsci10080559.
+
+* Konrad S, Framke T, Kludt E, Büchner A, Lenarz T, **Paasche G**. Do Impedance Changes Correlate With a Delayed Hearing Loss After Hybrid L24 Implantation? Ear Hear. 2020 Aug 3;42(1):163-172. doi: 10.1097/AUD.0000000000000914.
+
+* Peter MN, **Paasche G**, Reich U, Lenarz T, Warnecke A. Differential Effects of Low- and High-Dose Dexamethasone on Electrically Induced Damage of the Cultured Organ of Corti. Neurotox Res. 2020 Aug;38(2):487-497. doi: 10.1007/s12640-020-00228-7. Epub 2020 Jun 3.
+
+*  Janzen-Senn I, Schuon RA, Tavassol F, Lenarz T, **Paasche G**. Dimensions and position of the Eustachian tube in Humans. PLoS One. 2020 May 4;15(5):e0232655. doi: 10.1371/journal.pone.0232655. eCollection 2020.
+
 
 ## 2019
 * Schuon R, Mrevlje B, Vollmar B, Lenarz T, **Paasche G**. Intraluminal three-dimensional optical coherence tomography - a tool for imaging of the Eustachian tube?. J Laryngol Otol. 2019 Feb;133(2):87-94. doi: 10.1017/S002221511800230X. Epub 2019 Feb 18.
