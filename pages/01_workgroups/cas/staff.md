@@ -20,14 +20,14 @@ title:Staff
 |![Portrait](staff/empty.jpg)  | Dr. Martina Nullmeier	<br> Senior Scientist <br> Cochlear Deutschland GmbH & Co. KG | mnullmeier@cochlear.com |
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
 | ***Students*** |||                                                                                             |
-|                                                             | Thorben Engel               | Master Thesis |
+|![Portrait](staff/Portrait_ThorbenE.jpg){style="width:68px"} | Thorben Engel               | Master Thesis |
 |                                                             | Kevin Fandio                | Student Research Project |
 |                                                             | Erik Tzschoppe              | Bachelor Thesis |
 |![Portrait](staff/lena.jpg){style="width:68px"}              | Lena Geiger								  | Medical Doctorate Thesis  | 
 |                                                             | Patrik Haas                 | Bachelor Thesis |
 |                                                             | Julian Heuer                | Master Thesis |
 |![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	    | Jan Mairose								  | Student Assistant	| 
-|![Portrait](staff/christianm.png)                            | Christian Menke						| Medical Doctorate Thesis |
+|![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctorate Thesis |
 |![Portrait](staff/empty.jpg) 	                              | Sina Witte 				    			| Medical Doctorate Thesis |
 
 
