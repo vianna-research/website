@@ -2,14 +2,14 @@ title: Staff
 
 - - - 
 
-| Head of Research Group                                   |                                      |
-|:------------------------------|:-----------------------|-------------------------------:|
+|Head of research group|        |   |
+|--------------|:---------------|----|
 |![Portrait](staff/buechnerklein.jpg) | Prof. Dr. Dipl.-Inform. A. Büchner | Buechner(at)mh-hannover.de   |
 
  
 
-| Research Team                                                                                                      |
-|:------------------------------|:----------------------------------------------|--------------------------------------:|
+| ***Research Team***     |||
+|:--|:-------------------------------------------------|:--------------------------------------|
 |![Portrait](staff/Bardt.jpg)    | Michael Bardt                     | Bardt.Michael(at)mh-hannover.de        |
 |![Portrait](staff/Boenitz.jpg)	| Hanna Bönitz                       | Boenitz.Hanna(at)mh-hannover.de	  |
 |![Portrait](staff/Dyballa.jpg)	| Karl-Heinz Dyballa, Dr. rer. biol. hum. 					 | Dyballa.Karl-Heinz(at)mh-hannover.de	  |
@@ -22,14 +22,14 @@ title: Staff
 
 
 
-| Links                                                                                                      |
+| Links     |||
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
 | | **[Team Forschung DHZ](https://www.hoerzentrum-hannover.de/wir-ueber-uns/team/forschung/)**    |      |
 |	| **[Team Ingenieure DHZ](https://www.hoerzentrum-hannover.de/wir-ueber-uns/team/ingenieure/)** 	|  	   |
 
 
 
-| Alumni                                                                                                     |
+| Alumni     |||
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
 | |   |      |
 |	|  	|  	   |

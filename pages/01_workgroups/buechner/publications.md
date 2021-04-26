@@ -1,6 +1,66 @@
 title: Publications
 
+## 2021
+
+* **[How Do We Allocate Our Resources When Listening and Memorizing Speech in Noise? A Pupillometry Study](https://journals.lww.com/ear-hearing/Abstract/9000/How_Do_We_Allocate_Our_Resources_When_Listening.98560.aspx)**
+Bönitz H, Lunner T, Finke M, Fiedler L, Lyxell B, Riis SK, Ng E, Valdes AL, **Büchner A**, Wendt D.
+Ear Hear. 2021 Jan 22. doi: 10.1097/AUD.0000000000001002. Online ahead of print.
+
+
 ## 2020
+
+* **[Amplitude growth of intracochlear electrocochleography in cochlear implant users with residual hearing](https://asa.scitation.org/doi/10.1121/10.0000744)**
+Krüger B, **Büchner A**, Lenarz T,Nogueira W.
+J Acoust Soc Am. 2020 Feb;147(2):1147. doi: 10.1121/10.0000744.
+
+* **[Case report of the first patient with electro-mechanical stimulation of the inner ear: The Vibrant Soundbridge combined with a FLEX20 cochlear implant](https://www.sciencedirect.com/science/article/pii/S2468548820300278)**
+Salcher RB, Schmidtheisler M, **Büchner A**, Giere T, Zimmermann D, Busch S, Timm ME, Maier H, Lenarz T.
+Otolaryngology Case Reports Volume 16, September 2020, 100182, doi.org/10.1016/j.xocr.2020.100182
+
+
+* **[Causes of congenital hearing loss and cochlear implant outcome](https://www.nature.com/articles/s41431-020-00739-z)**
+Landgraf C, von Hardenberg S, Lesinski-Schiedat A, **Büchner A**, Schlegelberger B, Auber B.
+European Journal of Human Genetics volume 28, pages141–797(2020)
+
+* **[Combined Brain-Perfusion SPECT and EEG Measurements Suggest Distinct Strategies for Speech Comprehension in CI Users With Higher and Lower Performance](https://www.frontiersin.org/articles/10.3389/fnins.2020.00787/full)**
+Kessler M, Schierholz I, Mamach M, Wilke F, Hahne A, **Büchner A** Geworski L, Bengel FM, Sandmann P, Berding G.
+Front Neurosci. 2020 Aug 11;14:787. doi: 10.3389/fnins.2020.00787. eCollection 2020.
+
+* **[Do Impedance Changes Correlate With a Delayed Hearing Loss After Hybrid L24 Implantation?](https://journals.lww.com/ear-hearing/Fulltext/2021/01000/Do_Impedance_Changes_Correlate_With_a_Delayed.14.aspx)**
+Konrad S, Framke T, Kludt E, **Büchner A**, Lenarz T, Paasche G.
+Ear Hear. 2020 Aug 3;42(1):163-172. doi: 10.1097/AUD.0000000000000914.
+
+* **[Effect of Electrode to Modiolus Distance on Electrophysiological and Psychophysical Parameters in CI Patients With Perimodiolar and Lateral Electrode Arrays](https://journals.lww.com/otology-neurotology/Fulltext/2020/10000/Effect_of_Electrode_to_Modiolus_Distance_on.15.aspx)**
+Krüger B, **Büchner A**, Lenarz T, Nogueira W.
+Otol Neurotol. 2020 Oct;41(9):e1091-e1097. doi: 10.1097/MAO.0000000000002751.
+
+* **[Evaluation of an Adaptive Dynamic Compensation System in Cochlear Implant Listeners](https://journals.sagepub.com/doi/10.1177/2331216520970349?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&)**
+Langner F, **Büchner A**, Nogueira, W.
+Trends Hear. Jan-Dec 2020;24:2331216520970349. doi: 10.1177/2331216520970349.
+
+* **[Randomized placebo-controlled clinical trial investigating the effect of antioxidants and a vasodilator on overall safety and residual hearing preservation in cochlear implant patients](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04522-9)**
+Scheper V, Schmidtheisler M, Lasch F, von der Leyen H, Koch A, Schwieger J, **Büchner A**, Lesinski-Schiedat A, Lenarz T.
+Trials. 2020 Jul 14;21(1):643. doi: 10.1186/s13063-020-04522-9.
+
+* **[Hearing Preservation With a New Atraumatic Lateral Wall Electrode](https://journals.lww.com/otology-neurotology/Fulltext/2020/09000/Hearing_Preservation_With_a_New_Atraumatic_Lateral.14.aspx)**
+Lenarz T, **Büchner A**, Lesinski-Schiedat A, Timm M, Salcher R.
+Otol Neurotol. 2020 Sep;41(8):e993-e1003. doi: 10.1097/MAO.0000000000002714.
+
+* **[Hidden Electrode Failure in a Cochlear Implant User](https://onlinelibrary.wiley.com/doi/10.1002/lary.29023)**
+Gärtner L, **Büchner A**, Illg A, Lenarz, T.
+Laryngoscope. 2021 Apr;131(4):E1275-E1278. doi: 10.1002/lary.29023. Epub 2020 Aug 15.
+
+* **[Impedance Values Do Not Correlate With Speech Understanding in Cochlear Implant Recipients](https://journals.lww.com/otology-neurotology/Fulltext/2020/09000/Impedance_Values_Do_Not_Correlate_With_Speech.18.aspx)**
+Prenzler NK, Weller T, Steffens M, Lesinski-Schiedat A, **Büchner A**, Lenarz, T, Warnecke A.
+Otol Neurotol. 2020 Sep;41(8):e1029-e1034. doi: 10.1097/MAO.0000000000002743.
+
+* **[Interaction Between Electric and Acoustic Stimulation Influences Speech Perception in Ipsilateral EAS Users](https://journals.lww.com/ear-hearing/Fulltext/2020/07000/Interaction_Between_Electric_and_Acoustic.16.aspx)**
+Imsiecke M, Krüger B, **Büchner A**, Lenarz T, Nogueira W.
+Ear Hear. Jul/Aug 2020;41(4):868-882. doi: 10.1097/AUD.0000000000000807.
+
+* **[Perception and prediction of loudness in sound coding strategies using simultaneous electric stimulation](https://www.sciencedirect.com/science/article/pii/S0378595520303622)**
+Langner F, McKay  CM, **Büchner, A.**, Nogueira, W.
+Hear Res. 2020 Dec;398:108091. doi: 10.1016/j.heares.2020.108091. Epub 2020 Oct 2.
 
 * **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)**
 Imsiecke M, **Büchner A**, Lenarz T, Nogueira W.

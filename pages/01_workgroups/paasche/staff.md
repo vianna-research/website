@@ -19,9 +19,11 @@ Halina Ebel, MUC.,
 Ida Janzen-Senn, MUC.,
 Lena Rosenbusch, MUC.,
 Madeleine Goblet,
-Sophia Mayr,
+Alexandra Napp,
 Katharina Schmitt,
-Niels Oppel
+Niels Oppel,
+Wiebke Behrends,
+Lisa Kötter
 
 <!--
 
