@@ -1,7 +1,10 @@
 title: Publications
 
 ## 2021
-* Schurzig D, Fröhlich M, Raggl S, **Scheper V**, Lenarz T, Rau T.S. [Uncoiling the Human Cochlea—Physical Scala Tympani Models to Study Pharmacokinetics Inside the Inner Ear](https://www.mdpi.com/2075-1729/11/5/373) Life, 2021 April 21.
+* Schurzig D, Fröhlich M, Raggl S, **Scheper V**, Lenarz T, Rau TS. [Uncoiling the Human Cochlea—Physical Scala Tympani Models to Study Pharmacokinetics Inside the Inner Ear](https://www.mdpi.com/2075-1729/11/5/373) Life, 2021 April 21.
+
+* Malfeld K, Armbrecht N, Volk HA, Lenarz T, **Scheper V**.
+ [In Situ 3D-Imaging of the Inner Ear Synapses with a Cochlear Implant ](https://www.mdpi.com/2075-1729/11/4/301) Life, 2021 April 01.
 
 * Gärtner L, Klötzer K, Lenarz T, **Scheper V**. [Correlation of Electrically Evoked Compound Action Potential Amplitude Growth Function Slope and Anamnestic Parameters in Cochlear Implant Patients—Identification of Predictors for the Neuronal Health Status](https://doi.org/10.3390/life11030203) Life, 2021 March 05.
 
