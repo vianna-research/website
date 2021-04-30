@@ -2,9 +2,15 @@ title: CHD
 
 - - -
 
-# The Cochlea Hydro Drive
-## Toward Automated Electrode Insertion
+# The Cochlea Hydro Drive. Toward Automated Electrode Insertion
 
+A crucial element of cochlear implant soft surgery for hearing preservation is the velocity at which the electrode array is inserted. It has been previously described that insertion forces and subsequently intracochlear trauma can be reduced with lower insertion velocities. However, it is also recognized that there is a human limitation as to how slow an electrode array (EA) can be manually inserted. While several investigations have performed automated EA insertions in laboratory settings, such technologies have not been widely transferred to clinical settings. Therefore, our research group developed a novel insertion tool called Cochlea Hydro Drive (CHD), which is characterized by its simplicity given that it uses a standard syringe as hydraulic actuator to deliver an EA into a cochlea model. The present investigation sought to evaluate the use of the CHD in achieving EA insertions into a cochlea model with continuous velocities lower than humanly feasible (0.9mm/s).
+
+The key feature is its simplicity and theoretical low cost, as it takes advantage of already existing medical supplies. The automation component is provided by hydraulic actuation using a sterile, disposable, commercially available syringe. The plunger of the syringe serves as a piston converting the pressure inside the barrel into a continuous and steady movement. The CHD is then run by an infusion pump. Using a few more sterile adaptors, the EA can be connected to the syringe plunger allowing its assembly directly in the operating room. The prototype is designed to be connected to a standard surgical retractor with a flexible arm for positioning of the CHD. 
+
+The CHD can reliably deliver and insert an EA at velocities lower than humanly feasible and could be a relevant tool to optimize some of the technical aspects of soft surgery in the future, as it eliminates human tremor during insertion and allows for very low, continuous insertion velocities. In addition, the simple design of the device promises an easy translation into clinical practice. Further testing of different slow and ultra-slow insertion velocities is needed and ongoing.
+
+- - -
 
 ### Contact:
 If your are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
