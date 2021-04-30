@@ -21,10 +21,9 @@ title: Staff
 
 | Students                    |                     |                                   |
 |:----------------------------|:--------------------|----------------------------------:|
-|![Portrait](staff/blank.jpg)	| Betül Bayatid 			| <derbeder_oldum@hotmail.de>	     |
-|![Portrait](staff/costi.jpg)	| Costanza Bruni      | <Bruni.Costanza@mh-hannover.de>  |
 |![Portrait](staff/jonas.jpg)	| Jonas Althoff		  | <Althoff.Jonas@mh-hannover.de>      |
-|![Portrait](staff/nour.jpg)	| Nourhan Bahgat		  | <nourhanbahgat88@gmail.com>      |
+|![Portrait](staff/nour.jpg)	| Nourhan Bahgat		  |      |
+|![Portrait](staff/blank.jpg)	| Jasmin Thormaehlen		  |      |
 
 
 
@@ -33,6 +32,14 @@ title: Staff
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
 |![Portrait](staff/Langner.jpg)	| Florian Langner        | Langner.Florian(at)mh-hannover.de	 |
 |![Portrait](staff/Imsiecke.jpg)	| Marina Imsiecke 			 | Imsiecke.Marina(at)mh-hannover.de	 |
+
+
+
+
+| Former Students                  |                                               |                                     |
+|:------------------------------|:----------------------------------------------|--------------------------------------:|
+|![Portrait](staff/blank.jpg)	| Betül Bayatid 			| <derbeder_oldum@hotmail.de>	     |
+|![Portrait](staff/costi.jpg)	| Costanza Bruni      | <Bruni.Costanza@mh-hannover.de>  |
 
 
 
