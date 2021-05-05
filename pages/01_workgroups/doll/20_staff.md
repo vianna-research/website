@@ -31,7 +31,6 @@ title: Staff
 
 |Students||
 |-----------|-------------|
-|Hammad Ayman Akl | HiWi|
 |Lucia Badde| Master Thesis|
 |Lennart Guntenhöner | Medical Doctoral Thesis|
 |Wai-Lun Hui| Master Thesis|
