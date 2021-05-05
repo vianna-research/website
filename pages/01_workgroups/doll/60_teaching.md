@@ -34,7 +34,7 @@ This lecture introduces into the field of the peripheral neural system. It start
 **Contact:**
 [Prof. Dr.-Ing. Jürgen Legler (Jade Hochschule - Coordinator)](http://team.jade-hs.de/kontakt/index.php?id=41)
 
-[Katharina Foremny (MHH - General Information)] (20_staff.md)
+[Katharina Foremny (MHH - General Information)](20_staff.md)
 [Dr. Gerhard Pohlmann (Fraunhofer ITEM - Contact for Inhalation)](https://www.item.fraunhofer.de/de/forschungsschwerpunkte/medizintechnik.html)
 [Prof. Dr.-Ing Theodor Doll (MHH - Contact for Neurorehabilitation)](http://www.vianna.de/01_workgroups/doll/01_pagedoll.md)
 
