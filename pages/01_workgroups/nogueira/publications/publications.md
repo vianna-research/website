@@ -1,4 +1,4 @@
-title: Peer Reviewed Journal Pulbications
+title: Peer Reviewed Journal Publications
 
 
 ## 2021
