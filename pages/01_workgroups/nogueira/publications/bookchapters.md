@@ -16,7 +16,7 @@ Biomedical Technology, Pages: 349- 362, Springer International, Biomedical Techn
 Nogueira W, Würfel W, Penninger RT, Büchner A
 Biomedical Technology, Pages 145-161, Publisher: Springer International Publishing.
 
-* **[Optimization  of  a  Spectral  Contrast   Enhancement  Algorithm  for  Cochlear   Implants  based  on  a  Vowel  Identification   Model](https://core.ac.uk/reader/190078371?utm_source=linkout)
+* **[Optimization  of  a  Spectral  Contrast   Enhancement  Algorithm  for  Cochlear   Implants  based  on  a  Vowel  Identification   Model](https://core.ac.uk/reader/190078371?utm_source=linkout)**
 Nogueira W, Rode T, Büchner A, International Symposium of Hearing (ISH) Conference Proceedings (book chapter by Springer). 
 
 
