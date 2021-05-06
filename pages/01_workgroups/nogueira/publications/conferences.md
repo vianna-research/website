@@ -1,4 +1,4 @@
-title: Peer Reviwed Conference Contributions
+title: Peer Reviewed Conference Contributions
 
 
 ## 2021
@@ -12,6 +12,9 @@ title: Peer Reviwed Conference Contributions
 ## 2019
 * **W. Nogueira (2019),**. Evaluation of New Compositions in Live Concerts by Cochlear Implant Users and Normal Hearing Listeners, 14th International Symposium on Computer Music Multidisciplinary Research (CMMR), Marseille, October, 2019.
 * **M. Imsiecke, T. Lenarz, A. Büchner, W. Nogueira (2019). Neural health in cochlear implant users with ipsilateral residual hearing, International Symposium on Auditory and Audiological Reseayrch (ISAAR), Nyborg, Denmark, August  21, 23.
+* **[Coding of Elec-trical Stimulation Patterns for Binaural Sound Coding Strategies for Cochlear Implants.](https://www.tnt.uni-hannover.de/papers/data/1347/IEEE_EMBC_2019.pdf)**
+Hinrichs R, Gajecki T, Ostermann J, **Nogueira W**.
+IEEE EMBC, 2019
 
 ## 2018
 * **T. Gajeki, W. Nogueira (2018),** A Synchronized Binaural N-of-M Sound Coding Strategy for Bilateral Cochlear Implant Users, ITG Speech Communication, Oldenburg, Germany, 2018.
