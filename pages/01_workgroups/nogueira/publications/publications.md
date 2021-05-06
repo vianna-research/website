@@ -26,23 +26,24 @@ title: Peer Reviewed Journal Pulbications
 
 ## 2020
 
-* **[The Effect of Synchronized Linked Band Selection on Speech Intelligibility of Bilateral Cochlear Implant Users](https://www.sciencedirect.com/science/article/pii/S0378595520303221)** Gajecki T, **Nogueira W**. Hearing Research, 2020.
+* **[The Effect of Synchronized Linked Band Selection on Speech Intelligibility of Bilateral Cochlear Implant Users](https://www.sciencedirect.com/science/article/pii/S0378595520303221)** 
+Gajecki T, Nogueira W. Hearing Research, 2020.
 
 * **[The role of electroneural versus electrophonic stimulation on psychoacoustic electric-acoustic masking in cochlear implant users with residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595520303075?via%3Dihub)**
-Kipping D, Krüger B, **Nogueira W**. Hearing Research 395, 108036. Epub 2020 Sep 15.
+Kipping D, Krüger B, Nogueira W. Hearing Research 395, 108036. Epub 2020 Sep 15.
 
 * **[Design and Evaluation of a Real-Time Audio Source Separation Algorithm to Remix Music for Cochlear Implant Users.](https://www.frontiersin.org/articles/10.3389/fnins.2020.00434/full)**
-Tahmasebi S, Gajȩcki T, **Nogueira W**.
+Tahmasebi S, Gajȩcki T, Nogueira W.
 Frontiers in Neuroscience. 14, 434. doi: 110.3389/fnins.2020.00434. Epub 2020 May 14.
 
 
 * **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)**
-Imsiecke M, Büchner A, Lenarz T, **Nogueira W**.
+Imsiecke M, Büchner A, Lenarz T, Nogueira W.
 Hear Res. 2020 Feb; 386:107873. doi: 10.1016/j.heares.2019.107873. Epub 2019 Dec 18.
 
 
 * **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)**
-Imsiecke M, Büchner A, Lenarz T, **Nogueira W**.
+Imsiecke M, Büchner A, Lenarz T, Nogueira W.
 Hear Res. 2020 Feb;386:107873. doi: 10.1016/j.heares.2019.107873. Epub 2019 Dec 18.
 
 * **[Toward Decoding Selective Attention From Single-Trial EEG Data in Cochlear Implant Users.](https://ieeexplore.ieee.org/document/8674613)**
@@ -65,41 +66,41 @@ El Boghdady, W. Nogueira, E. Gaudrain, D. Baskent (2020).
 Ear and Hearing, doi: 10.1097/AUD.0000000000000936.
 
 
-* **[Amplitude growth of intracochlear electrocochleography in cochlear implant users with residual hearing](https://asa.scitation.org/doi/10.1121/10.0000744)
+* **[Amplitude growth of intracochlear electrocochleography in cochlear implant users with residual hearing](https://asa.scitation.org/doi/10.1121/10.0000744)**
 B. Krüger, A. Büchner, T. Lenarz, W. Nogueira
 The Journal of the Acoustical Society of America, 147,  1147, https://doi.org/10.1121/10.0000744.
 
-* **[Implantable Neuroamplifer for ECoG using Flexible and Biocompatible Technology](https://onlinelibrary.wiley.com/doi/full/10.1002/pssa.201900830)
+* **[Implantable Neuroamplifer for ECoG using Flexible and Biocompatible Technology](https://onlinelibrary.wiley.com/doi/full/10.1002/pssa.201900830)**
 Marcoleta JP, Nogueira W, Becerra Yoma N, Wuth J,  Jakimovski F., Fuenzalida VM, Doll T.
 Physica Status Solidi A: Applications and Materials Science, https://doi.org/10.1002/pssa.201900830.
 
-* **[Distributed mixed signal demultiplexer for electrocorticography electrodes](iopscience.iop.org/article/10.1088/2057-1976/ab9fed/pdf)
+* **[Distributed mixed signal demultiplexer for electrocorticography electrodes](iopscience.iop.org/article/10.1088/2057-1976/ab9fed/pdf)**
 Marcoleta JP, Nogueira W, Doll T 
 Biomedical Physics & Engineering Express, 6, 055006.
 
 ## 2019
 
 * **[Interaction Between Electric and Acoustic Stimulation Influences Speech Perception in Ipsilateral EAS Users.](https://journals.lww.com/ear-hearing/Abstract/publishahead/Interaction_Between_Electric_and_Acoustic.98733.aspx)**
-Imsiecke M, Krüger B, Büchner A, Lenarz T,**Nogueira W**. 
+Imsiecke M, Krüger B, Büchner A, Lenarz T,Nogueira W. 
 Ear Hear. 2019 Oct 7. doi: 10.1097/AUD.0000000000000807. [Epub ahead of print]
 
 * **[Towards Decoding Selective Attention in Normal Hearing Listeners and Bilateral Cochlear Implant Users With Concealed Ear EEG.](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)**
-**Nogueira W**, Dolhopiatenko H, Schierholz I, Büchner A, Mirkovic B, Bleichner MG, Debener S.
+Nogueira W, Dolhopiatenko H, Schierholz I, Büchner A, Mirkovic B, Bleichner MG, Debener S.
 Front Neurosci. 2019 Jul 18;13:720. doi: 10.3389/fnins.2019.00720. eCollection 2019.
 
 * **[Making Music More Accessible for Cochlear Implant Listeners: Recent Developments](https://ieeexplore.ieee.org/document/8588408)
-**Nogueira W**, A. Nagathil and R. Martin
+Nogueira W, A. Nagathil and R. Martin
 IEEE Signal Processing Magazine, 36,  1,  115-127.
 
 * **[Decoding Selective Attention in Normal Hearing Listeners and Bilateral Cochlear Implant Users with Concealed Ear EEG](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)
-**Nogueira W**, **Dolhopiatenko H**, Schierholz I, Buechner A, Mirkovic B, Bleichner MG , Debener S
+Nogueira W, **Dolhopiatenko H**, Schierholz I, Buechner A, Mirkovic B, Bleichner MG , Debener S
 Frontiers in Neuroscience, 13:720.
 
 * **[Artificial Speech Bandwidth Extension Improves Telephone Speech Intelligibility](https://pubmed.ncbi.nlm.nih.gov/31067961/)
-**Nogueira W**, Abel J, Fingscheidt T
+Nogueira W, Abel J, Fingscheidt T
 Journal of the Acoustical Society of America, 145,3, 1640-1649.
 
-* **[Psychoacoustic and Electrophysiological Electric-Acoustic Interaction Effects in Cochlear Implant Users with Ipsilateral Residual Hearing](https://www.sciencedirect.com/science/article/abs/pii/S0378595519304319)
+* **[Psychoacoustic and Electrophysiological Electric-Acoustic Interaction Effects in Cochlear Implant Users with Ipsilateral Residual Hearing](https://www.sciencedirect.com/science/article/abs/pii/S0378595519304319)**
 Imsiecke M, Büchner A, Lenarz T, Nogueira W
 Hearing Research, 386, https://doi.org/10.1016/j.heares.2019.107873..
 
@@ -118,7 +119,7 @@ Hear Res. 2018 Mar;359:64-75. doi: 10.1016/j.heares.2017.12.019. Epub 2017 Dec 2
 Klawitter S, Landsberger DM, Büchner A, **Nogueira W**.
 PLoS One. 2018 Apr 13;13(4):e0193842. doi: 10.1371/journal.pone.0193842. eCollection 2018.
 
-* **[A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bilateral Cochlear Implant Users (https://ieeexplore.ieee.org/document/8578042)
+* **[A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bilateral Cochlear Implant Users](https://ieeexplore.ieee.org/document/8578042)
 ** Gajecki T, **Nogueira W**. ITG Speech Communication, 2018.
 
 * **[Flexible High Density Active Neural Implants combining a Distributed Multiplexing Transceiver Architecture with Biocompatible Technology](https://onlinelibrary.wiley.com/doi/abs/10.1002/pssa.201700134)
@@ -140,7 +141,9 @@ eNeuro 27 August 2018, ENEURO.0112-18.2018; DOI: https://doi.org/10.1523/ENEURO.
 
 ## 2017
 
-G. Roma, P. Herrera, W. Nogueira (2017), Environmental sound recognition using short-time feature aggregation, Journal of Intelligent Information Systems, pp 1-19, doi:10.1007/s10844-017-0481-4.
+* **[Environmental sound recognition using short-time feature aggregation](https://link.springer.com/article/10.1007/s10844-017-0481-4)
+G. Roma, P. Herrera, W. Nogueira
+Journal of Intelligent Information Systems, 1-19, doi:10.1007/s10844-017-0481-4.
 
 * **[Simultaneous masking between electric and acoustic stimulation in cochlear implant users with residual low-frequency hearing.](http://www.sciencedirect.com/science/article/pii/S0378595517300424?via%3Dihub)**
 Krüger B, Büchner A, **Nogueira W**.
@@ -208,19 +211,20 @@ International Journal of Pediatric Otorhinolaryngology, 75, issue (May, 2011): 9
 Cochlear Implant International, 11, 1: 449-453.
 
 ## 2009
-* **[Signal Processing Strategies based on Current Steering for Cochlear Implants](https://asp-eurasipjournals.springeropen.com/articles/10.1155/2009/531213) #
-**Nogueira W**, Litvak L, Edler B, Ostermann J, Buechner A (2009).  EURASIP Journal on Applied Signal Processing, Special Issue on Hearing Instrumentation, 531213.
+* **[Signal Processing Strategies based on Current Steering for Cochlear Implants](https://asp-eurasipjournals.springeropen.com/articles/10.1155/2009/531213)
+Nogueira W, Litvak L, Edler B, Ostermann J, Buechner A (2009).  EURASIP Journal on Applied Signal Processing, Special Issue on Hearing Instrumentation, 531213.
 
 
 ## 2007
-* **[Results from a Psychoacoustic Model-based Strategy for the N-24 and Freedom Cochlear Implants] (https://journals.lww.com/otology-neurotology/Fulltext/2008/02000/Results_from_a_Psychoacoustic_Model_Based_Strategy.17.aspx)** Buechner A, **Nogueira W**, Edler B, Battmer R. D. , Lenarz Th.  (2007). Otology and Neurotology, 29, 2:189-92.
+* **[Results from a Psychoacoustic Model-based Strategy for the N-24 and Freedom Cochlear Implants](https://journals.lww.com/otology-neurotology/Fulltext/2008/02000/Results_from_a_Psychoacoustic_Model_Based_Strategy.17.aspx)**
+Buechner A, Nogueira W, Edler B, Battmer R. D. , Lenarz Th.  (2007). Otology and Neurotology, 29, 2:189-92.
 
 A. Buechner, M. Brendel, B. Krüeger, C. Frohne-Büchner, W. Nogueira, B. Edler, T. Lenarz (2008), Current Steering and Results From Novel Speech Coding Strategies, Otol Neurotol., 29, 2:203-207.
 
 
 ## 2005
 * **[A Psychoacoustic "NofM"-type Speech Coding Strategy for Cochlear Implants.](https://asp-eurasipjournals.springeropen.com/articles/10.1155/ASP.2005.3044)**
-**Nogueira W**, Buechner A, Lenarz T, Edler B. Journal on Applied Signal Processing, Special Issue on DSP in Hearing Aids and Cochlear Implants, 127, 18, 3044-3059.
+Nogueira W, Buechner A, Lenarz T, Edler B. Journal on Applied Signal Processing, Special Issue on DSP in Hearing Aids and Cochlear Implants, 127, 18, 3044-3059.
 
 
 
