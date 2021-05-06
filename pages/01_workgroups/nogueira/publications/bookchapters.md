@@ -2,8 +2,8 @@ title: Book Chapters
 
 
 ## 2021
-Nogueira W
 * **[Ein Konzert für Cochlea-Implantat-Träger*innen und Normalhörende]()** (in German) (Under Review)
+Nogueira W
 
 ## 2018
 * **[Development of a Parametric Model of the Electrically Stimulated Auditory Nerve](https://link.springer.com/chapter/10.1007/978-3-319-59548-1_19)**
