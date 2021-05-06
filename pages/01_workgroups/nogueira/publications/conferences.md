@@ -4,13 +4,13 @@ title: Peer Reviewed Conference Contributions
 ## 2021
 
 * **[Localization of Cochlear Implant Electrode Contacts using Particle Belief Propagation on Cone Beam Computer Tomography Data-Sets.](https://arxiv.org/abs/2103.10434)**
-H. Hachmann, B. Krüger, B. Rosenhahn, **W. Nogueira**
-* IEEE ISBI 2021.
+H. Hachmann, **B. Krüger**, B. Rosenhahn, **W. Nogueira**
+* IEEE International Symposium on Biomedical Imaging (ISBI).
 
 
 ## 2020
 * **[Towards decoding selective attention from single-trial EEG data in cochlear implant users based on Deep Neural Networks.**](https://www.researchgate.net/publication/332009883_Toward_Decoding_Selective_Attention_From_Single-Trial_EEG_Data_in_Cochlear_Implant_Users)
-**W. Nogueira**, **H. Dolohopiatenko**, (2020). , 45th International Conference on Acoustics, Speech, and Signal Processing, IEEE ICASSP, Barcelona, May, 2020. [Code]
+**W. Nogueira**, **H. Dolohopiatenko**, (2020). , 45th International Conference on Acoustics, Speech, and Signal Processing, IEEE ICASSP, Barcelona, May, 2020. [Code](https://github.com/APGDHZ/SelectiveAttentionDNN)
 
 ## 2019
 * **[Evaluation of New Compositions in Live Concerts by Cochlear Implant Users and Normal Hearing Listeners**](https://cmmr2019.prism.cnrs.fr/Docs/Proceedings_CMMR2019.pdf)
