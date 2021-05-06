@@ -137,6 +137,10 @@ PLoS One. 2015 Mar 25;10(3):e0120148. doi: 10.1371/journal.pone.0120148. eCollec
 ## 2014
 
 ## before 2013
+2005
+* **[A Psychoacoustic "NofM"-type Speech Coding Strategy for Cochlear Implants.](https://asp-eurasipjournals.springeropen.com/articles/10.1155/ASP.2005.3044)**
+**Nogueira W**, Buechner A, Lenarz T, Edler B. Journal on Applied Signal Processing, Special Issue on DSP in Hearing Aids and Cochlear Implants, 127, 18, 3044-3059.
+
 
 
 
