@@ -137,6 +137,10 @@ PLoS One. 2015 Mar 25;10(3):e0120148. doi: 10.1371/journal.pone.0120148. eCollec
 ## 2014
 
 ## before 2013
+## 2009
+2009 
+* **[Signal Processing Strategies based on Current Steering for Cochlear Implants](https://asp-eurasipjournals.springeropen.com/articles/10.1155/2009/531213) **Nogueira W, Litvak L, Edler B, Ostermann J, Buechner A (2009).  EURASIP Journal on Applied Signal Processing, Special Issue on Hearing Instrumentation, 531213.
+
 
 ## 2007
 2007 
