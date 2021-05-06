@@ -119,10 +119,10 @@ Hear Res. 2018 Mar;359:64-75. doi: 10.1016/j.heares.2017.12.019. Epub 2017 Dec 2
 Klawitter S, Landsberger DM, Büchner A, **Nogueira W**.
 PLoS One. 2018 Apr 13;13(4):e0193842. doi: 10.1371/journal.pone.0193842. eCollection 2018.
 
-* **[A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bilateral Cochlear Implant Users](https://ieeexplore.ieee.org/document/8578042)
+* **[A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bilateral Cochlear Implant Users](https://ieeexplore.ieee.org/document/8578042)**
 ** Gajecki T, **Nogueira W**. ITG Speech Communication, 2018.
 
-* **[Flexible High Density Active Neural Implants combining a Distributed Multiplexing Transceiver Architecture with Biocompatible Technology](https://onlinelibrary.wiley.com/doi/abs/10.1002/pssa.201700134)
+* **[Flexible High Density Active Neural Implants combining a Distributed Multiplexing Transceiver Architecture with Biocompatible Technology](https://onlinelibrary.wiley.com/doi/abs/10.1002/pssa.201700134)**
 J. P. Marcoleta, W. Nogueira, U. Floriep, T. Doll 
 Physica Status Solidi A: Applications and Materials Science, 215, 15,  https://doi.org/10.1002/pssa.201700134.
 
