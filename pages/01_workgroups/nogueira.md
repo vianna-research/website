@@ -35,7 +35,7 @@ Please the links below to go directly to the project sub-page.
 - **[EEG Neural Tracking/Selective Attention Decoding for Cochlear Implant Users (SA-Decoding)](https://vianna.uber.space/01_workgroups/nogueira/projects/dsaci.html)** 
 <!----**[Electric Acoustic Interaction EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)** ---> 
 
-![Auditory Prosthetic Group](nogueira/allprojects.jpg){.img-rounded .align-center}
+<!--- ![Auditory Prosthetic Group](nogueira/allprojects.jpg){.img-rounded .align-center} --->
 
 
 
