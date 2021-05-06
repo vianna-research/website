@@ -68,9 +68,7 @@ Front Neurosci. 2019 Jul 18;13:720. doi: 10.3389/fnins.2019.00720. eCollection 2
 **Nogueira W**, Krüger B, Büchner A, Lopez-Poveda E.
 Hear Res. 2019 Mar 1;373:121-129. doi: 10.1016/j.heares.2018.06.001. Epub 2018 Jun 15.
 
-* **[Coding of Elec-trical Stimulation Patterns for Binaural Sound Coding Strategies for Cochlear Implants.](https://www.tnt.uni-hannover.de/papers/data/1347/IEEE_EMBC_2019.pdf)**
-Hinrichs R, Gajecki T, Ostermann J, **Nogueira W**.
-IEEE EMBC, 2019
+
 
 ## 2018
 
@@ -86,10 +84,29 @@ Hear Res. 2018 Mar;359:64-75. doi: 10.1016/j.heares.2017.12.019. Epub 2017 Dec 2
 Klawitter S, Landsberger DM, Büchner A, **Nogueira W**.
 PLoS One. 2018 Apr 13;13(4):e0193842. doi: 10.1371/journal.pone.0193842. eCollection 2018.
 
-* **[A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bilateral Cochlear Implant Users](https://ieeexplore.ieee.org/document/8578042)** Gajecki T, **Nogueira W**. ITG Speech Communication, 2018.
+* **[A Synchronized Binaural N-of-M Sound Coding Strategy to Improve Speech Intelligibility in Noise of Bilateral Cochlear Implant Users (https://ieeexplore.ieee.org/document/8578042)
+** Gajecki T, **Nogueira W**. ITG Speech Communication, 2018.
+
+* **[Flexible High Density Active Neural Implants combining a Distributed Multiplexing Transceiver Architecture with Biocompatible Technology](https://onlinelibrary.wiley.com/doi/abs/10.1002/pssa.201700134)
+J. P. Marcoleta, W. Nogueira, U. Floriep, T. Doll 
+Physica Status Solidi A: Applications and Materials Science, 215, 15,  https://doi.org/10.1002/pssa.201700134.
+
+* **[Deep Learning Models to Remix Music for Cochlear Implant Users](https://asa.scitation.org/doi/10.1121/1.5042056)
+T. Gajecki and W. Nogueira
+Journal of the Acoustical Society of America, 143, 3602.
+
+* **[Contralateral Suppression of Human Hearing Sensitivity in Single-sided Deaf Cochlear Implant Users](https://www.sciencedirect.com/science/article/abs/pii/S0378595517305671)
+W. Nogueira, B. Krüger, A. Büchner, E. Lopez-Poveda
+Hearing Research,373, 121-129. https://doi.org/10.1016/j.heares.2018.06.001
+
+* **[Spike-conducting integrate-and-fire model](https://www.eneuro.org/content/5/4/ENEURO.0112-18.2018)
+G. Ashida, W. Nogueira
+eNeuro 27 August 2018, ENEURO.0112-18.2018; DOI: https://doi.org/10.1523/ENEURO.0112-18.2018.
 
 
 ## 2017
+
+G. Roma, P. Herrera, W. Nogueira (2017), Environmental sound recognition using short-time feature aggregation, Journal of Intelligent Information Systems, pp 1-19, doi:10.1007/s10844-017-0481-4.
 
 * **[Simultaneous masking between electric and acoustic stimulation in cochlear implant users with residual low-frequency hearing.](http://www.sciencedirect.com/science/article/pii/S0378595517300424?via%3Dihub)**
 Krüger B, Büchner A, **Nogueira W**.
@@ -102,6 +119,10 @@ Hear Res. 2017 Mar;345:96-107. doi: 10.1016/j.heares.2017.01.010. Epub 2017 Jan 
 * **[Loudness and pitch perception using Dynamically Compensated Virtual Channels.](http://www.sciencedirect.com/science/article/pii/S0378595516302374)**
 **Nogueira W**, Litvak LM, Landsberger DM, Büchner A.
 Hear Res. 2017 Feb;344:223-234. doi: 10.1016/j.heares.2016.11.017. Epub 2016 Dec 7.
+
+* **[Development of a parametric model of the electrically stimulated auditory nerve](https://link.springer.com/chapter/10.1007/978-3-319-59548-1_19)**
+**Nogueira W, Ashida G.
+Lecture Notes in Applied and Computational Mechanics,  Springer Verlag, 84: 349-362.
 
 
 ## 2016
@@ -117,6 +138,14 @@ J Acoust Soc Am. 2016 Feb;139(2):728-39. doi: 10.1121/1.4939896.
 * **[Optimization of a Spectral Contrast Enhancement Algorithm for Cochlear Implants Based on a Vowel Identification Model.](https://link.springer.com/chapter/10.1007%2F978-3-319-25474-6_11)**
 **Nogueira W**, Rode T, Büchner A.
 Adv Exp Med Biol. 2016;894:93-104. doi: 10.1007/978-3-319-25474-6_11.
+
+* **[Remixing music using source separation algorithms to improve the musical experience of cochlear implant users](https://asa.scitation.org/doi/abs/10.1121/1.4971424?journalCode=jas)**
+Pons J, Rode T, Janer J, **Nogueira W.**
+Journal of the Acoustical Society of America, 140, 6:4338.
+
+* **[Effects of age on long term memory for degraded speech](https://www.frontiersin.org/articles/10.3389/fnhum.2016.00473/full) 
+C. Thiel, J. Özyurt, **W. Nogueira**, S. Puschmann
+Front. Hum. Neuroscience, 10.
 
 
 ## 2015
@@ -134,17 +163,23 @@ Int J Audiol. 2015 Jun;54(6):376-83. doi: 10.3109/14992027.2014.997313. Epub 201
 PLoS One. 2015 Mar 25;10(3):e0120148. doi: 10.1371/journal.pone.0120148. eCollection 2015.
 
 
-## 2014
+## 2011 
+* **Use of hearing aid preprocessing techniques with cochlear implant users** 
+**W. Nogueira**, L. Hoepner, V. Hamacher, Th. Lenarz, A. Buechner
+International Journal of Pediatric Otorhinolaryngology, 75, issue (May, 2011): 94. ISSN: 0165-5876 DOI: 10.1016/S0165-5876(11)70482-7, Elsevier Science.
 
-## before 2013
+## 2010
+* **[Speech Recognition Technology in CI Rehabilitation](https://www.tandfonline.com/doi/abs/10.1179/146701010X12671177204507)**
+**Nogueira W**, Vanpoucke F, Dykmans P, De Raeve L, Van Hamme H, Roelens J (2010). 
+Cochlear Implant International, 11, 1: 449-453.
+
 ## 2009
-2009 
-* **[Signal Processing Strategies based on Current Steering for Cochlear Implants](https://asp-eurasipjournals.springeropen.com/articles/10.1155/2009/531213) **Nogueira W, Litvak L, Edler B, Ostermann J, Buechner A (2009).  EURASIP Journal on Applied Signal Processing, Special Issue on Hearing Instrumentation, 531213.
+* **[Signal Processing Strategies based on Current Steering for Cochlear Implants](https://asp-eurasipjournals.springeropen.com/articles/10.1155/2009/531213) #
+**Nogueira W**, Litvak L, Edler B, Ostermann J, Buechner A (2009).  EURASIP Journal on Applied Signal Processing, Special Issue on Hearing Instrumentation, 531213.
 
 
 ## 2007
-2007 
-* **[Results from a Psychoacoustic Model-based Strategy for the N-24 and Freedom Cochlear Implants] (https://journals.lww.com/otology-neurotology/Fulltext/2008/02000/Results_from_a_Psychoacoustic_Model_Based_Strategy.17.aspx)** **Buechner A, Nogueira W, Edler B, Battmer R. D. , Lenarz Th.  (2007). Otology and Neurotology, 29, 2:189-92.
+* **[Results from a Psychoacoustic Model-based Strategy for the N-24 and Freedom Cochlear Implants] (https://journals.lww.com/otology-neurotology/Fulltext/2008/02000/Results_from_a_Psychoacoustic_Model_Based_Strategy.17.aspx)** Buechner A, **Nogueira W**, Edler B, Battmer R. D. , Lenarz Th.  (2007). Otology and Neurotology, 29, 2:189-92.
 
 A. Buechner, M. Brendel, B. Krüeger, C. Frohne-Büchner, W. Nogueira, B. Edler, T. Lenarz (2008), Current Steering and Results From Novel Speech Coding Strategies, Otol Neurotol., 29, 2:203-207.
 
