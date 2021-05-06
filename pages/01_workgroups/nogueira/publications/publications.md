@@ -125,15 +125,15 @@ PLoS One. 2018 Apr 13;13(4):e0193842. doi: 10.1371/journal.pone.0193842. eCollec
 J. P. Marcoleta, W. Nogueira, U. Floriep, T. Doll 
 Physica Status Solidi A: Applications and Materials Science, 215, 15,  https://doi.org/10.1002/pssa.201700134.
 
-* **[Deep Learning Models to Remix Music for Cochlear Implant Users](https://asa.scitation.org/doi/10.1121/1.5042056)
+* **[Deep Learning Models to Remix Music for Cochlear Implant Users](https://asa.scitation.org/doi/10.1121/1.5042056)**
 T. Gajecki and W. Nogueira
 Journal of the Acoustical Society of America, 143, 3602.
 
-* **[Contralateral Suppression of Human Hearing Sensitivity in Single-sided Deaf Cochlear Implant Users](https://www.sciencedirect.com/science/article/abs/pii/S0378595517305671)
+* **[Contralateral Suppression of Human Hearing Sensitivity in Single-sided Deaf Cochlear Implant Users](https://www.sciencedirect.com/science/article/abs/pii/S0378595517305671)**
 W. Nogueira, B. Krüger, A. Büchner, E. Lopez-Poveda
 Hearing Research,373, 121-129. https://doi.org/10.1016/j.heares.2018.06.001
 
-* **[Spike-conducting integrate-and-fire model](https://www.eneuro.org/content/5/4/ENEURO.0112-18.2018)
+* **[Spike-conducting integrate-and-fire model](https://www.eneuro.org/content/5/4/ENEURO.0112-18.2018)**
 G. Ashida, W. Nogueira
 eNeuro 27 August 2018, ENEURO.0112-18.2018; DOI: https://doi.org/10.1523/ENEURO.0112-18.2018.
 
