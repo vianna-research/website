@@ -1,4 +1,4 @@
-title: Projects
+title: Research Interests
 ---
 
 -**[Binaural Sound Coding Strategies for Cochlear Implants (BINOM)](https://www.vianna.de/01_workgroups/nogueira/projects/binom.html)**
