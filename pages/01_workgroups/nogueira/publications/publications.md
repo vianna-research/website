@@ -53,6 +53,29 @@ IEEE Trans Biomed Eng. 2020 Jan;67(1):38-49. doi: 10.1109/TBME.2019.2907638. Epu
 Krüger B, Büchner A, Lenarz T, **Nogueira W**.
 J Acoust Soc Am. 2020 Jan;147(1):350. doi: 10.1121/10.0000577.
 
+* **[Perception and prediction of loudness in sound coding strategies using simultaneous electric stimulation](https://www.sciencedirect.com/science/article/pii/S0378595520303622)
+F. Langner, C. M. McKay, A. Büchner, W. Nogueira (2020)., Hearing Research, 398, https://doi.org/10.1016/j.heares.2020.108091.[Code](https://github.com/APGDHZ/LoudnessModel).
+
+* **[Evaluation of an adaptive dynamic compensation system in Cochlear Implant listeners](https://journals.sagepub.com/doi/full/10.1177/2331216520970349)
+F. Langner, A. Büchner, W. Nogueira (2020).
+Trends in Hearing, doi:10.1177/2331216520970349.
+
+* **[Effect of spectral contrast enhancement on speech-on-speech intelligibility and voice cue sensitivity in cochlear implant users](https://journals.lww.com/ear-hearing/Fulltext/2021/03000/Effect_of_Spectral_Contrast_Enhancement_on.4.aspx)
+El Boghdady, W. Nogueira, E. Gaudrain, D. Baskent (2020).
+Ear and Hearing, doi: 10.1097/AUD.0000000000000936.
+
+
+* **[Amplitude growth of intracochlear electrocochleography in cochlear implant users with residual hearing](https://asa.scitation.org/doi/10.1121/10.0000744)
+B. Krüger, A. Büchner, T. Lenarz, W. Nogueira
+The Journal of the Acoustical Society of America, 147,  1147, https://doi.org/10.1121/10.0000744.
+
+* **[Implantable Neuroamplifer for ECoG using Flexible and Biocompatible Technology](https://onlinelibrary.wiley.com/doi/full/10.1002/pssa.201900830)
+Marcoleta JP, Nogueira W, Becerra Yoma N, Wuth J,  Jakimovski F., Fuenzalida VM, Doll T.
+Physica Status Solidi A: Applications and Materials Science, https://doi.org/10.1002/pssa.201900830.
+
+* **[Distributed mixed signal demultiplexer for electrocorticography electrodes](iopscience.iop.org/article/10.1088/2057-1976/ab9fed/pdf)
+Marcoleta JP, Nogueira W, Doll T 
+Biomedical Physics & Engineering Express, 6, 055006.
 
 ## 2019
 
@@ -60,14 +83,25 @@ J Acoust Soc Am. 2020 Jan;147(1):350. doi: 10.1121/10.0000577.
 Imsiecke M, Krüger B, Büchner A, Lenarz T,**Nogueira W**. 
 Ear Hear. 2019 Oct 7. doi: 10.1097/AUD.0000000000000807. [Epub ahead of print]
 
-* **[Decoding Selective Attention in Normal Hearing Listeners and Bilateral Cochlear Implant Users With Concealed Ear EEG.](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)**
+* **[Towards Decoding Selective Attention in Normal Hearing Listeners and Bilateral Cochlear Implant Users With Concealed Ear EEG.](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)**
 **Nogueira W**, Dolhopiatenko H, Schierholz I, Büchner A, Mirkovic B, Bleichner MG, Debener S.
 Front Neurosci. 2019 Jul 18;13:720. doi: 10.3389/fnins.2019.00720. eCollection 2019.
 
-* **[Contralateral suppression of human hearing sensitivity in single-sided deaf cochlear implant users.](https://www.sciencedirect.com/science/article/pii/S0378595517305671?via%3Dihub)**
-**Nogueira W**, Krüger B, Büchner A, Lopez-Poveda E.
-Hear Res. 2019 Mar 1;373:121-129. doi: 10.1016/j.heares.2018.06.001. Epub 2018 Jun 15.
+* **[Making Music More Accessible for Cochlear Implant Listeners: Recent Developments](https://ieeexplore.ieee.org/document/8588408)
+**Nogueira W**, A. Nagathil and R. Martin
+IEEE Signal Processing Magazine, 36,  1,  115-127.
 
+* **[Decoding Selective Attention in Normal Hearing Listeners and Bilateral Cochlear Implant Users with Concealed Ear EEG](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)
+**Nogueira W**, **Dolhopiatenko H**, Schierholz I, Buechner A, Mirkovic B, Bleichner MG , Debener S
+Frontiers in Neuroscience, 13:720.
+
+* **[Artificial Speech Bandwidth Extension Improves Telephone Speech Intelligibility](https://pubmed.ncbi.nlm.nih.gov/31067961/)
+**Nogueira W**, Abel J, Fingscheidt T
+Journal of the Acoustical Society of America, 145,3, 1640-1649.
+
+* **[Psychoacoustic and Electrophysiological Electric-Acoustic Interaction Effects in Cochlear Implant Users with Ipsilateral Residual Hearing](https://www.sciencedirect.com/science/article/abs/pii/S0378595519304319)
+Imsiecke M, Büchner A, Lenarz T, Nogueira W
+Hearing Research, 386, https://doi.org/10.1016/j.heares.2019.107873..
 
 
 ## 2018
