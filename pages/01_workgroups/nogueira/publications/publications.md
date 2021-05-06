@@ -1,4 +1,4 @@
-title: Publications
+title: Peer Reviewed Journal Pulbications
 
 
 ## 2021
@@ -137,6 +137,14 @@ PLoS One. 2015 Mar 25;10(3):e0120148. doi: 10.1371/journal.pone.0120148. eCollec
 ## 2014
 
 ## before 2013
+
+## 2007
+2007 
+* **[Results from a Psychoacoustic Model-based Strategy for the N-24 and Freedom Cochlear Implants] (https://journals.lww.com/otology-neurotology/Fulltext/2008/02000/Results_from_a_Psychoacoustic_Model_Based_Strategy.17.aspx)** **Buechner A, Nogueira W, Edler B, Battmer R. D. , Lenarz Th.  (2007). Otology and Neurotology, 29, 2:189-92.
+
+A. Buechner, M. Brendel, B. Krüeger, C. Frohne-Büchner, W. Nogueira, B. Edler, T. Lenarz (2008), Current Steering and Results From Novel Speech Coding Strategies, Otol Neurotol., 29, 2:203-207.
+
+
 ## 2005
 * **[A Psychoacoustic "NofM"-type Speech Coding Strategy for Cochlear Implants.](https://asp-eurasipjournals.springeropen.com/articles/10.1155/ASP.2005.3044)**
 **Nogueira W**, Buechner A, Lenarz T, Edler B. Journal on Applied Signal Processing, Special Issue on DSP in Hearing Aids and Cochlear Implants, 127, 18, 3044-3059.
