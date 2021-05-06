@@ -5,7 +5,7 @@ title: Peer Reviwed Conference Contributions
 
 ## 2021
 
-* **Localization of Cochlear Implant Electrode Contacts using Particle Belief Propagation on Cone Beam Computer Tomography Data-Sets.** H. Hachmann, B. Krüger, B. Rosenhahn, W. Nogueira (2021), IEEE ISBI 2021.
+* Localization of Cochlear Implant Electrode Contacts using Particle Belief Propagation on Cone Beam Computer Tomography Data-Sets.** H. Hachmann, B. Krüger, B. Rosenhahn, W. Nogueira (2021), IEEE ISBI 2021.
 
 
 ## 2020
