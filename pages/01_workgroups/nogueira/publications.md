@@ -10,9 +10,9 @@ Please use the links below to go directly to the sub-pages.
 
 -**[Peer reviewed conference papers](https://vianna.de/01_workgroups/nogueira/publications/conferences.html)**
 
--**[Book Chapters]()**
+-**[Book Chapters](https://vianna.de/01_workgroups/nogueira/publications/bookchapters.html)**
 
--**[Patents]()**
+-**[Patents](https://vianna.de/01_workgroups/nogueira/publications/patents.html)**
 
 
 
