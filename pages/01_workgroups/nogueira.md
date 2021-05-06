@@ -10,7 +10,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 ---
 
 
-## Research Areas
+## Research Interests
 <!--- [Our reseach projects](nogueira/projects.md) --->
 - **[Binaural Sound Coding Strategies for Cochlear Implants (BINOM)](https://vianna.uber.space/01_workgroups/nogueira/projects/binom.html)**
 - **[Electric Acoustic Interaction EAS-Masking & Modeling](https://vianna.de/01_workgroups/nogueira/projects/easprojects.html)**
