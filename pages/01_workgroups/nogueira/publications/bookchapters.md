@@ -2,7 +2,7 @@ title: Book Chapters
 
 
 ## 2021
-* **[Ein Konzert für Cochlea-Implantat-Träger*innen und Normalhörende]**
+* **[Ein Konzert für Cochlea-Implantat-Träger*innen und Normalhörende]()**
 (in German) (Under Review)
 Nogueira W
 
