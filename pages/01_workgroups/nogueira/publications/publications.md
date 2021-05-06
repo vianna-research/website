@@ -220,7 +220,7 @@ Nogueira W, Litvak L, Edler B, Ostermann J, Buechner A (2009).  EURASIP Journal 
 Buechner A, Nogueira W, Edler B, Battmer R. D. , Lenarz Th.
 Otology and Neurotology, 29, 2:189-92.
 
-* **[Current Steering and Results From Novel Speech Coding Strategies](https://journals.lww.com/otology-neurotology/Fulltext/2008/02000/Current_Steering_and_Results_From_Novel_Speech.20.aspx)
+* **[Current Steering and Results From Novel Speech Coding Strategies](https://journals.lww.com/otology-neurotology/Fulltext/2008/02000/Current_Steering_and_Results_From_Novel_Speech.20.aspx)**
 Buechner A, Brendel M, Krüeger B, Frohne-Büchner C, Nogueira W, Edler B, Lenarz T
 Otol Neurotol., 29, 2:203-207.
 
