@@ -217,14 +217,18 @@ Nogueira W, Litvak L, Edler B, Ostermann J, Buechner A (2009).  EURASIP Journal 
 
 ## 2007
 * **[Results from a Psychoacoustic Model-based Strategy for the N-24 and Freedom Cochlear Implants](https://journals.lww.com/otology-neurotology/Fulltext/2008/02000/Results_from_a_Psychoacoustic_Model_Based_Strategy.17.aspx)**
-Buechner A, Nogueira W, Edler B, Battmer R. D. , Lenarz Th.  (2007). Otology and Neurotology, 29, 2:189-92.
+Buechner A, Nogueira W, Edler B, Battmer R. D. , Lenarz Th.
+Otology and Neurotology, 29, 2:189-92.
 
-A. Buechner, M. Brendel, B. Krüeger, C. Frohne-Büchner, W. Nogueira, B. Edler, T. Lenarz (2008), Current Steering and Results From Novel Speech Coding Strategies, Otol Neurotol., 29, 2:203-207.
+* **[Current Steering and Results From Novel Speech Coding Strategies](https://journals.lww.com/otology-neurotology/Fulltext/2008/02000/Current_Steering_and_Results_From_Novel_Speech.20.aspx)
+Buechner A, Brendel M, Krüeger B, Frohne-Büchner C, Nogueira W, Edler B, Lenarz T
+Otol Neurotol., 29, 2:203-207.
 
 
 ## 2005
 * **[A Psychoacoustic "NofM"-type Speech Coding Strategy for Cochlear Implants.](https://asp-eurasipjournals.springeropen.com/articles/10.1155/ASP.2005.3044)**
-Nogueira W, Buechner A, Lenarz T, Edler B. Journal on Applied Signal Processing, Special Issue on DSP in Hearing Aids and Cochlear Implants, 127, 18, 3044-3059.
+Nogueira W, Buechner A, Lenarz T, Edler B. 
+Journal on Applied Signal Processing, Special Issue on DSP in Hearing Aids and Cochlear Implants, 127, 18, 3044-3059.
 
 
 
