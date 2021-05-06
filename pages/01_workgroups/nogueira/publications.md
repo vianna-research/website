@@ -1,7 +1,22 @@
 title: Publications
 ---
 
-Please use the menu on the right side to go directly to the sub-pages.
+
+Please use the links below to go directly to the sub-pages.
+
+
+
+-**[Journal Publications](https://vianna.de/01_workgroups/nogueira/publications/publications.html)**
+
+-**[Peer reviewed conference papers](https://vianna.de/01_workgroups/nogueira/publications/conferences.html)**
+
+-**[Book Chapters]()**
+
+-**[Patents]()**
+
+
+
+
 
 
 
