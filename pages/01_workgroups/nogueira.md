@@ -25,6 +25,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 ![Auditory Prosthetic Group](nogueira/allprojects.jpg){.img-rounded .align-center}
 
+---
 
 ## Technologies
 
