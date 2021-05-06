@@ -2,8 +2,7 @@ title: Patents
 
 ## 2021
 * **[Verfahren zum Verbessern der Hoerqulitaet eines Menschen, Cochlea-Implantat sowie Cochlea-Implantatsystem](https://data.epo.org/publication-server/document?iDocId=6478509&iFormat=0)**
-
-Nogueira, Hinrisch R, Ostermann J, Preihs S.
+Nogueira, Hinrich R, Ostermann J, Preihs S.
 20187393.2
  
 ## 2019
