@@ -15,21 +15,21 @@ The Journal of the Acoustical Society of America. 149, 1324.
 * **[Amplitude growth functions of auditory nerve responses to electric pulse stimulation with varied inter-phase gaps in cochlear implant users with ipsilateral residual hearing]()** Imsiecke, A. Büchner, T. Lenarz, W. Nogueira (2021).  Trends in Hearing (Accepted).
 
 * **[ Assessing the relationship between neural health measures and speech performance with parallel electrical stimulation in Cochlear Implant listeners]()** 
-* Langner F, Arenberg JG, Büchner A, Nogueira W (Unde Review). 
+Langner F, Arenberg JG, Büchner A, Nogueira W (Unde Review). 
 
 * **[Effect of Channel Interaction on Vocal Cue Perception in cochlear implant users.]()** 
-* Nogueira W, El Boghdady N, Gaudrain E, Baskent D
-* Ear and Hearing (Under Review).
+Nogueira W, El Boghdady N, Gaudrain E, Baskent D
+Ear and Hearing (Under Review).
 
 * **[Localization of Cochlear Implant Electrode Contacts using Particle Belief Propagation on Cone Beam Computer Tomography Data-Sets]()** 
 Hachmann H, Krüger B, Rosenhahn B, Nogueira W
-IEEE ISBI 2021 (Accepted). 
+IEE ISBI 2021 (Accepted). 
+ 
+**[Phantom Stimulation for Cochlear Implant Users with Residual Low-Frequency Hearing, Ear and Hearing, ]()**
+Krüger B, Büchner A, Nogueira W
+Ear and Hearing, (Under Review).
 
-* **[Phantom Stimulation for Cochlear Implant Users with Residual Low-Frequency Hearing, Ear and Hearing, ]()**
-* Krüger B, Büchner A, Nogueira W
-* Ear and Hearing, (Under Review).
-
-* **[The Effect of Synchronized Linked Band Selection on Speech Intelligibility of Bilateral Cochlear Implant UsersJournal of the Acoustical Society of America]()** 
+* **[The Effect of Synchronized Linked Band Selection on Speech Intelligibility of Bilateral Cochlear Implant Users]()** 
 Gajecki T, Nogueira W 
 Hearing Research (Under Review).
 
