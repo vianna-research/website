@@ -25,7 +25,7 @@ Ear and Hearing (Under Review).
 Hachmann H, Krüger B, Rosenhahn B, Nogueira W
 IEE ISBI 2021 (Accepted). 
  
-**[Phantom Stimulation for Cochlear Implant Users with Residual Low-Frequency Hearing, Ear and Hearing, ]()**
+* **[Phantom Stimulation for Cochlear Implant Users with Residual Low-Frequency Hearing, Ear and Hearing, ]()**
 Krüger B, Büchner A, Nogueira W
 Ear and Hearing, (Under Review).
 
