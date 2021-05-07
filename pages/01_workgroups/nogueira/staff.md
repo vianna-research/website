@@ -25,7 +25,7 @@ title: Staff
 |:----------------------------|:--------------------|----------------------------------:|
 |![Portrait](staff/jonas.jpg)	| Jonas Althoff		  | <Althoff.Jonas@mh-hannover.de>      |
 |![Portrait](staff/nour.jpg)	| Nourhan Bahgat		  |      |
-|![Portrait](staff/Jasmin.jpg)	| Jasmin Thormählen		  | Thormaehlen.Jasmin@mh-hannover.de     |
+|![Portrait](staff/Jasmin.jpg)	| Jasmin Thormählen		  | Thormaehlen.Jasmin@mh-hannover.de    |
 |![Portrait](staff/zhang.jpg)	| Yixuan  Zhang 		  |      |
 
 
