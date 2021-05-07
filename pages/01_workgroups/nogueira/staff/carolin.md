@@ -1,5 +1,4 @@
 title: Carolin Evalim 
-publications_src:sina.bib
 
 
 ![Carolin Evalim](caroline.jpg)
