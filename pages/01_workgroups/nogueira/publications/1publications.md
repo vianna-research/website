@@ -114,7 +114,7 @@ Journal of the Acoustical Society of America, 145,3, 1640-1649.
 
 * **[Psychoacoustic and Electrophysiological Electric-Acoustic Interaction Effects in Cochlear Implant Users with Ipsilateral Residual Hearing](https://www.sciencedirect.com/science/article/abs/pii/S0378595519304319)**
 Imsiecke M, Büchner A, Lenarz T, Nogueira W
-Hearing Research, 386, https://doi.org/10.1016/j.heares.2019.107873..
+Hearing Research, 386, https://doi.org/10.1016/j.heares.2019.107873.
 
 ## 2018
 
