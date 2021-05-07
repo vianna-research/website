@@ -51,11 +51,9 @@ Kipping D, Krüger B, Nogueira W. Hearing Research 395, 108036. Epub 2020 Sep 15
 Tahmasebi S, Gajȩcki T, Nogueira W.
 Frontiers in Neuroscience. 14, 434. doi: 110.3389/fnins.2020.00434. Epub 2020 May 14.
 
-
 * **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)**
 Imsiecke M, Büchner A, Lenarz T, Nogueira W.
 Hear Res. 2020 Feb; 386:107873. doi: 10.1016/j.heares.2019.107873. Epub 2019 Dec 18.
-
 
 * **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)**
 Imsiecke M, Büchner A, Lenarz T, Nogueira W.
@@ -102,22 +100,21 @@ Ear Hear. 2019 Oct 7. doi: 10.1097/AUD.0000000000000807. [Epub ahead of print]
 Nogueira W, Dolhopiatenko H, Schierholz I, Büchner A, Mirkovic B, Bleichner MG, Debener S.
 Front Neurosci. 2019 Jul 18;13:720. doi: 10.3389/fnins.2019.00720. eCollection 2019.
 
-* **[Making Music More Accessible for Cochlear Implant Listeners: Recent Developments](https://ieeexplore.ieee.org/document/8588408)
+* **[Making Music More Accessible for Cochlear Implant Listeners: Recent Developments](https://ieeexplore.ieee.org/document/8588408)**
 Nogueira W, A. Nagathil and R. Martin
 IEEE Signal Processing Magazine, 36,  1,  115-127.
 
-* **[Decoding Selective Attention in Normal Hearing Listeners and Bilateral Cochlear Implant Users with Concealed Ear EEG](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)
+* **[Decoding Selective Attention in Normal Hearing Listeners and Bilateral Cochlear Implant Users with Concealed Ear EEG](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)**
 Nogueira W, **Dolhopiatenko H**, Schierholz I, Buechner A, Mirkovic B, Bleichner MG , Debener S
 Frontiers in Neuroscience, 13:720.
 
-* **[Artificial Speech Bandwidth Extension Improves Telephone Speech Intelligibility](https://pubmed.ncbi.nlm.nih.gov/31067961/)
+* **[Artificial Speech Bandwidth Extension Improves Telephone Speech Intelligibility](https://pubmed.ncbi.nlm.nih.gov/31067961/)**
 Nogueira W, Abel J, Fingscheidt T
 Journal of the Acoustical Society of America, 145,3, 1640-1649.
 
 * **[Psychoacoustic and Electrophysiological Electric-Acoustic Interaction Effects in Cochlear Implant Users with Ipsilateral Residual Hearing](https://www.sciencedirect.com/science/article/abs/pii/S0378595519304319)**
 Imsiecke M, Büchner A, Lenarz T, Nogueira W
 Hearing Research, 386, https://doi.org/10.1016/j.heares.2019.107873..
-
 
 ## 2018
 
