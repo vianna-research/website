@@ -2,13 +2,18 @@ title: Carolin Evalim
 publications_src:sina.bib
 
 
-![Carolin Evalim](blank.jpg)
+![Carolin Evalim](caroline.jpg)
 
 
 Research employee	
 
 
 **Research and Interests**
+
+- Neurophysiology of Cochlear Implants (CIs)
+- Objective measurements to assess and predict speech performance in CI users
+- Programming CIs
+
 
 
 
