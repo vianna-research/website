@@ -69,17 +69,16 @@ IEEE Trans Biomed Eng. 2020 Jan;67(1):38-49. doi: 10.1109/TBME.2019.2907638. Epu
 Krüger B, Büchner A, Lenarz T, **Nogueira W**.
 J Acoust Soc Am. 2020 Jan;147(1):350. doi: 10.1121/10.0000577.
 
-* **[Perception and prediction of loudness in sound coding strategies using simultaneous electric stimulation](https://www.sciencedirect.com/science/article/pii/S0378595520303622)
+* **[Perception and prediction of loudness in sound coding strategies using simultaneous electric stimulation](https://www.sciencedirect.com/science/article/pii/S0378595520303622)**
 F. Langner, C. M. McKay, A. Büchner, W. Nogueira (2020)., Hearing Research, 398, https://doi.org/10.1016/j.heares.2020.108091.[Code](https://github.com/APGDHZ/LoudnessModel).
 
-* **[Evaluation of an adaptive dynamic compensation system in Cochlear Implant listeners](https://journals.sagepub.com/doi/full/10.1177/2331216520970349)
+* **[Evaluation of an adaptive dynamic compensation system in Cochlear Implant listeners](https://journals.sagepub.com/doi/full/10.1177/2331216520970349)**
 F. Langner, A. Büchner, W. Nogueira (2020).
 Trends in Hearing, doi:10.1177/2331216520970349.
 
-* **[Effect of spectral contrast enhancement on speech-on-speech intelligibility and voice cue sensitivity in cochlear implant users](https://journals.lww.com/ear-hearing/Fulltext/2021/03000/Effect_of_Spectral_Contrast_Enhancement_on.4.aspx)
+* **[Effect of spectral contrast enhancement on speech-on-speech intelligibility and voice cue sensitivity in cochlear implant users](https://journals.lww.com/ear-hearing/Fulltext/2021/03000/Effect_of_Spectral_Contrast_Enhancement_on.4.aspx)**
 El Boghdady, W. Nogueira, E. Gaudrain, D. Baskent (2020).
 Ear and Hearing, doi: 10.1097/AUD.0000000000000936.
-
 
 * **[Amplitude growth of intracochlear electrocochleography in cochlear implant users with residual hearing](https://asa.scitation.org/doi/10.1121/10.0000744)**
 B. Krüger, A. Büchner, T. Lenarz, W. Nogueira
