@@ -1,4 +1,4 @@
-title: Peer Reviewed Journal Publications
+title: Conference Contributions
 
 ## 2021
 * **[Towards Decoding Selective Attention  in Single Sided Deafened Subjects using Cochlear Implant Electrodes]()**
