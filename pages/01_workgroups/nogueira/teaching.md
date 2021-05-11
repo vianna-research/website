@@ -8,7 +8,7 @@ In the summer term we offer the lecture "3D-Audio - Grundlagen räumlicher Audio
 
 * **[3D-Audio - Fundamentals of Spatial Audio Reproduction Systems](https://vianna.de/01_workgroups/nogueira/teaching/3daudio.html)**
 
-* **[Bachelor- and Mastertheses Proposal](https://vianna.de/01_workgroups/nogueira/teaching/masterbachelortheses.html)**
+* **[Bachelor and Master Theses Proposals](https://vianna.de/01_workgroups/nogueira/teaching/masterbachelortheses.html)**
 
 
 

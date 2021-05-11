@@ -1,5 +1,4 @@
-
-title: 3D-Audio - Grundlagen räumlicher Audioreproduktionssysteme
+title: 3D-Audio - Fundamentals of Spatial Audio Reproduction Systems
 ---
 
 
