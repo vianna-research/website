@@ -11,7 +11,7 @@ title: Staff
 | Research Team                   |                                                                                 |                                       |
 |:--------------------------------|:--------------------------------------------------------------------------------|--------------------------------------:|
 |![Portrait](staff/Krueger.jpg)   | [Benjamin Krüger](https://vianna.uber.space/01_workgroups/nogueira/staff/Krueger.html) | <Krueger.Benjamin@mh-hannover.de>  |
-|![Portrait](staff/caroline.jpg)  	| [Carolin Evalim](https://vianna.de/01_workgroups/nogueira/staff/carolin.html)	|   <Valim.Caroline@mh-hannover.de>    |
+|![Portrait](staff/caroline.jpg)  	| [Carolin Valim](https://vianna.de/01_workgroups/nogueira/staff/carolin.html)	|   <Valim.Caroline@mh-hannover.de>    |
 |![Portrait](staff/Alrutz.jpg)	   | [Daniel Kipping](https://vianna.uber.space/01_workgroups/nogueira/staff/daniel.html) | <Kipping.Daniel@mh-hannover.de>	     |
 |![Portrait](staff/Hanna.jpeg)	   | [Hanna Dolhopiatenko](https://vianna.uber.space/01_workgroups/nogueira/staff/hanna.html)| <Dolhopiatenko.Hanna@mh-hannover.de>	|
 |![Portrait](staff/Nina.jpeg)	    | [Nina Aldag](https://vianna.uber.space/01_workgroups/nogueira/staff/nina.html)| <Aldag.Nina@mh-hannover.de>         |
