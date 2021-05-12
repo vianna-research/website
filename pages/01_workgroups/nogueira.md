@@ -18,7 +18,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 - ![Auditory Prosthetic Group](nogueira/binom2.png){.img-rounded .align-center}
 - **[Music Signal Processing for Cochlear Implant Users (MusIC)](https://vianna.uber.space/01_workgroups/nogueira/projects/music.html)**
 - ![Auditory Prosthetic Group](nogueira/binom2.png){.img-rounded .align-center}
-- **[EEG Neural Tracking/Selective Attention Decoding for Cochlear Implant Users (SA-Decoding)(https://vianna.uber.space/01_workgroups/nogueira/projects/dsaci.html)** 
+- **[EEG Neural Tracking/Selective Attention Decoding for Cochlear Implant Users (SA-Decoding(https://vianna.uber.space/01_workgroups/nogueira/projects/dsaci.html)** 
 - ![Auditory Prosthetic Group](nogueira/binom2.png){.img-rounded .align-center}
 <!----**[Electric Acoustic Interaction EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)** ---> 
 
