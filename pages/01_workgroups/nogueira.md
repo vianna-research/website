@@ -23,6 +23,10 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 - ![Auditory Prosthetic Group](nogueira/music.png){.img-rounded}
 <!----**[Electric Acoustic Interaction EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)** ---> 
 
+![Auditory Prosthetic Group](nogueira/modelling.png){.img-rounded}
+![Auditory Prosthetic Group](nogueira/modelling.png){.img-rounded}
+![Auditory Prosthetic Group](nogueira/modelling.png){.img-rounded}
+![Auditory Prosthetic Group](nogueira/modelling.png){.img-rounded}
 <!--- ![Auditory Prosthetic Group](nogueira/allprojects.jpg){.img-rounded .align-center} --->
 
 <!----**[Electric Acoustic Interaction EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)** ---> 
