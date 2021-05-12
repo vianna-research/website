@@ -29,7 +29,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 ---
 
-title: List of Funded Projects
+# List of Funded Projects
 ---
 
 ## Ongoing Projects
