@@ -10,7 +10,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 ---
 
 
-## Research Interests
+# Research Interests
 <!--- [Our reseach projects](nogueira/projects.md) --->
 - **[Binaural Sound Coding Strategies for Cochlear Implants](https://vianna.uber.space/01_workgroups/nogueira/projects/binom.html)**
 - ![BINOM](nogueira/binom2.png){.img-rounded}
@@ -30,7 +30,6 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 ---
 
 # List of Funded Projects
----
 
 ## Ongoing Projects
 ### 2021
@@ -50,7 +49,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 ---
 
-## Technologies
+# Technologies
 
 - **[DeHoCI Simulator](https://vianna.uber.space/01_workgroups/nogueira/technologies.html)**
 - **[MusIC4allApp1.0](https://vianna.uber.space/01_workgroups/nogueira/technologies.html)**
@@ -58,7 +57,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 ---
 
-## Teaching
+# Teaching
 
 - **[Audio and Speech Signal Processing](https://vianna.uber.space/01_workgroups/nogueira/teaching.html)**
 - **[3D-Audio - Grundlagen räumlicher Audioreproduktionssysteme](https://vianna.uber.space/01_workgroups/nogueira/teaching.html)**
