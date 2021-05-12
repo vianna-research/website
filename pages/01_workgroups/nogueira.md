@@ -19,10 +19,10 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 - **[Music Signal Processing for Cochlear Implant Users](https://vianna.uber.space/01_workgroups/nogueira/projects/music.html)**
 <!----**[Electric Acoustic Interaction EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)** ---> 
 
-![EAS](nogueira/modelling.png){.img-rounded; .float:center}(https://vianna.de/01_workgroups/nogueira/projects/easprojects.html)
+![EAS](nogueira/modelling.png){.img-rounded; .float:left}(https://vianna.de/01_workgroups/nogueira/projects/easprojects.html)
 ![EEG](nogueira/eeg.png){.img-rounded; .float:center}
 ![BINOM](nogueira/binom2.png){.img-rounded; .float:center}
-![MUSIC](nogueira/music.png){.img-rounded; .float:center}
+![MUSIC](nogueira/music.png){.img-rounded; .float:right}
 <!--- ![Auditory Prosthetic Group](nogueira/allprojects.jpg){.img-rounded .align-center} --->
 
 <!----**[Electric Acoustic Interaction EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)** ---> 
