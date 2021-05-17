@@ -10,24 +10,46 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 ---
 
 
-## Research Interests
+# Research Interests
 <!--- [Our reseach projects](nogueira/projects.md) --->
-- **[Binaural Sound Coding Strategies for Cochlear Implants (BINOM)](https://vianna.uber.space/01_workgroups/nogueira/projects/binom.html)**
+
 - **[Electric Acoustic Interaction EAS-Masking & Modeling](https://vianna.de/01_workgroups/nogueira/projects/easprojects.html)**
-- **[Music Signal Processing for Cochlear Implant Users (MusIC)](https://vianna.uber.space/01_workgroups/nogueira/projects/music.html)**
-- **[EEG Neural Tracking/Selective Attention Decoding for Cochlear Implant Users (SA-Decoding)](https://vianna.uber.space/01_workgroups/nogueira/projects/dsaci.html)** 
+- **[EEG Neural Tracking/Selective Attention Decoding for Cochlear Implant Users](https://vianna.uber.space/01_workgroups/nogueira/projects/dsaci.html)** 
+- **[Binaural Sound Coding Strategies for Cochlear Implants](https://vianna.uber.space/01_workgroups/nogueira/projects/binom.html)**
+- **[Music Signal Processing for Cochlear Implant Users](https://vianna.uber.space/01_workgroups/nogueira/projects/music.html)**
 <!----**[Electric Acoustic Interaction EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)** ---> 
 
+![EAS](nogueira/modelling.png){.img-rounded; .float:left}
+![EEG](nogueira/eeg.png){.img-rounded; .float:center}
+![BINOM](nogueira/binom2.png){.img-rounded; .float:center}
+![MUSIC](nogueira/music.png){.img-rounded; .float:right}
 <!--- ![Auditory Prosthetic Group](nogueira/allprojects.jpg){.img-rounded .align-center} --->
 
-
 <!----**[Electric Acoustic Interaction EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)** ---> 
-
-![Auditory Prosthetic Group](nogueira/allprojects.jpg){.img-rounded .align-center}
 
 ---
 
-## Technologies
+# List of Funded Projects
+
+## Ongoing Projects
+### 2021
+- **music4u**: Funding source: DFG Individual Grant
+- **music4all** Funding source: DFG Cluster of Excellence Hering4all
+- **MTALK** Funding source: Oticon Medical
+- **BiMoFuse** Funding source: William Demant Fundation
+
+## Finalized Projects
+### 2018
+- **Coding of Excitation Patterns** Funding source: DFG Individual Grant
+ 
+### 2017
+- **Electrode Nerve Interface** Funding source: DFG Individual Grant
+- **Electric Acoustic Stimulation** Funding source: MED-EL
+
+
+---
+
+# Technologies
 
 - **[DeHoCI Simulator](https://vianna.uber.space/01_workgroups/nogueira/technologies.html)**
 - **[MusIC4allApp1.0](https://vianna.uber.space/01_workgroups/nogueira/technologies.html)**
@@ -35,7 +57,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 ---
 
-## Teaching
+# Teaching
 
 - **[Audio and Speech Signal Processing](https://vianna.uber.space/01_workgroups/nogueira/teaching.html)**
 - **[3D-Audio - Grundlagen räumlicher Audioreproduktionssysteme](https://vianna.uber.space/01_workgroups/nogueira/teaching.html)**
