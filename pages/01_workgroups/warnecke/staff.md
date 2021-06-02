@@ -15,7 +15,11 @@ PhD Odett Kaiser (Tierärztin)				|  	<Kaiser.Odett@mh-hannover.de>
 
 Dr. med. vet. Susanne Sasse (Tierärztin) |  	<Sasse.Susanne@mh-hannover.de>
 
-Dr. rer. nat. Melanie Steffens |  	<Steffens.Melanie@mh-hannover.de>
+Dr. rer. nat. Heike Schmitt (Biochemikerin) |  	<Schmitt.Heike@mh-hannover.de>
+
+Dr. rer. nat. Melanie Steffens (Physikerin) |  	<Steffens.Melanie@mh-hannover.de>
+
+Dahua Wang (Arzt)
 
 
 -----------------------------
