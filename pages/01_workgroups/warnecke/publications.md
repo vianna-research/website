@@ -1,5 +1,13 @@
 title: Publications
 
+## 2021
+
+* Shew M, Wichova H, Warnecke A, Lenarz T, Staecker H. **[Evaluating Neurotrophin Signaling Using MicroRNA Perilymph Profiling in Cochlear Implant Patients With and Without Residual Hearing.](https://journals.lww.com/otology-neurotology/Abstract/9000/Evaluating_Neurotrophin_Signaling_Using_MicroRNA.95672.aspx)** Otol Neurotol. 2021 May 10. doi: 10.1097/MAO.0000000000003182.
+
+* Harre J, Heinkele L, Steffens M, Warnecke A, Lenarz T, Just I, Rohrbeck A. **[Potentiation of Brain-Derived Neurotrophic Factor-Induced Protection of Spiral Ganglion Neurons by C3 Exoenzyme/Rho Inhibitor.](https://www.frontiersin.org/articles/10.3389/fncel.2021.602897/full)** Front Cell Neurosci. 2021 Mar 11;15:602897. doi: 10.3389/fncel.2021.602897. eCollection 2021.
+
+* McLean WJ, Hinton AS, Herby JTJ, Salt AN, Hartsock JJ, Wilson S, Lucchino DL, Lenarz T, Warnecke A, Prenzler N, Schmitt H, King S, Jackson LE, Rosenbloom J, Atiee G, Bear M, Runge CL, Gifford RH, Rauch SD, Lee DJ, Langer R, Karp JM, Loose C, LeBel C. **[Improved speech intelligibility in subjects with stable sensorineural hearing loss following intratympanic dosing of FX-322 in a Phase 1b study.](https://journals.lww.com/otology-neurotology/Abstract/9000/Improved_Speech_Intelligibility_in_Subjects_With.95768.aspx)** Otol Neurotol. 2021 Feb 22. doi: 10.1097/MAO.0000000000003120. Online ahead of print.
+
 ## 2020
 
 * Warnecke A, Harre J, Staecker H, Prenzler N, Strunk D, Couillard-Despres S, Romanelli P, Hollerweger J, Lassacher T, Auer D, Pachler K, Wietzorrek G, Köhl U, Lenarz T, Schallmoser K, Laner-Plamberger S, Falk CS, Rohde E, Gimona M. **[Extracellular vesicles from human multipotent stromal cells protect against hearing loss after noise trauma in vivo.](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.262)** Clin Transl Med. 2020 Dec;10(8):e262. doi: 10.1002/ctm2.262.
