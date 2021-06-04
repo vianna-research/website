@@ -8,7 +8,7 @@ Title: Binaural Sound Coding Strategies for Bilateral Cochlear Implants
 ---
 
 ### Projects
-## 2018
+#### 2018
 - **[Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants.](https://vianna.uber.space/01_workgroups/nogueira/projects/binom.md)** Funding source : DFG Individual Grant
 
 ---
