@@ -14,7 +14,7 @@ This project is funded by the William Demant Fundation.
 ---
 
 ### Budget:
-228,086.1  €
+228,086  €
 
 ---
 
