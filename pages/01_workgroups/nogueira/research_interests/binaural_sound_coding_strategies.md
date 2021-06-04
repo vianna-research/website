@@ -10,19 +10,6 @@ Title: Binaural Sound Coding Strategies for Bilateral Cochlear Implants
 ### Projects
 #### 2018
 - **[Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants.](https://vianna.uber.space/01_workgroups/nogueira/projects/binom.md)** Funding source : DFG Individual Grant
-
----
-
-
-| Contact                 |                            |
-| ------------------------|--------------------------- |
-| Head of Research Group:<br>  |Prof. Dr.-Ing. Waldo Nogueira|
-| Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
-| Phone:                  | +49 (0)511 532 8025 |
-| Fax:                    | +49 (0)511 532 6833 |
-| E-Mail:                 |<nogueiravazquez.waldo@mh-hannover.de>|
-
----
     
 ### Publications:
 
