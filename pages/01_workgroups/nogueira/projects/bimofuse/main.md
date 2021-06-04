@@ -1,5 +1,4 @@
-
-title: BiMoFuse: Binaural Fusion between Electric and Acoustic Stimulation in Bimodal CI subjects
+Title: BiMoFuse: Binaural Fusion between Electric and Acoustic Stimulation in Bimodal CI subjects
 
 ![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](bimofuse_logo.png){.img-rounded; .float:center}
 
