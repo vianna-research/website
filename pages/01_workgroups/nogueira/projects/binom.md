@@ -1,5 +1,3 @@
-title: BiNoM
-
 ## Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants
 
 
