@@ -40,7 +40,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 ## Finalized Projects
 ### 2018
-- **Coding of Excitation Patterns** Funding source: DFG Individual Grant
+- **[Coding of Excitation Patterns** Funding source](https://vianna.uber.space/01_workgroups/nogueira/technologies.html)**: DFG Individual Grant
  
 ### 2017
 - **Electrode Nerve Interface** Funding source: DFG Individual Grant
