@@ -16,7 +16,7 @@ This project is funded by the German Research Foundation (DFG) - Project number:
 ---
 
 ### Budget:
-445800 Euro
+445800 €
 
 ---
 
