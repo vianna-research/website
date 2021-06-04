@@ -8,7 +8,9 @@ Bimodal stimulation consisting of electric stimulation with a cochlear implant (
 ---
 
 ### Funding:
+
 This project is funded by the William Demant Fundation.
+
 ---
 
 ### Budget:
