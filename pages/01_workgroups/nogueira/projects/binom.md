@@ -30,7 +30,7 @@ This project is funded by the German Research Foundation (DFG) - Project number:
     
 ### Publications:
 
-- T. Gajecki, W. Nogueira. Enhancement of Interaural Level Differences for Bilateral Cochlear Implant Users. THearing Research, 2021. (Submitted)
+- T. Gajecki, W. Nogueira. Enhancement of Interaural Level Differences for Bilateral Cochlear Implant Users. Hearing Research, 2021. (Submitted)
 
 - R. Hinrichs, T. Gajecki, J. Ostermann, W. Nogueira. A Subjective and Objective Evaluation of a Codec for the Electrical Stimulation Patterns of Cochlear Implants. The Journal of the Acoustical Societ yof America, 2020. (Submitted)
 
