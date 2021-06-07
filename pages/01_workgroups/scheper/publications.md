@@ -1,6 +1,8 @@
 title: Publications
 
 ## 2021
+* Matin F, Gao Z, Repp F, John S, Lenarz T, **Scheper V**. [Determination of the Round Window Niche Anatomy Using Cone Beam Computed Tomography Imaging as Preparatory Work for Individualized Drug-Releasing Implants](https://doi.org/10.3390/jimaging7050079) Journal of Imaging, 2021 April 23.
+
 * Schurzig D, Fröhlich M, Raggl S, **Scheper V**, Lenarz T, Rau TS. [Uncoiling the Human Cochlea—Physical Scala Tympani Models to Study Pharmacokinetics Inside the Inner Ear](https://www.mdpi.com/2075-1729/11/5/373) Life, 2021 April 21.
 
 * Malfeld K, Armbrecht N, Volk HA, Lenarz T, **Scheper V**.
