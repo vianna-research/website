@@ -15,7 +15,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 - **[Electric Acoustic Interaction EAS-Masking & Modeling](https://vianna.de/01_workgroups/nogueira/projects/easprojects.html)**
 - **[EEG Neural Tracking/Selective Attention Decoding for Cochlear Implant Users](https://vianna.uber.space/01_workgroups/nogueira/projects/dsaci.html)** 
-- **[Binaural Sound Coding Strategies for Cochlear Implants](https://vianna.uber.space/01_workgroups/nogueira/projects/binom.html)**
+- **[Binaural Sound Coding Strategies for Bilateral Cochlear Implants](https://vianna.uber.space/01_workgroups/nogueira/research_interests/binaural_sound_coding_strategies.md)**
 - **[Music Signal Processing for Cochlear Implant Users](https://vianna.uber.space/01_workgroups/nogueira/projects/music.html)**
 <!----**[Electric Acoustic Interaction EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)** ---> 
 
@@ -36,11 +36,13 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 - **music4u**: Funding source: DFG Individual Grant
 - **music4all** Funding source: DFG Cluster of Excellence Hering4all
 - **MTALK** Funding source: Oticon Medical
-- **BiMoFuse** Funding source: William Demant Fundation
+- **[BiMoFuse: Binaural Fusion between Electric and Acoustic Stimulation in Bimodal CI subjects.](https://vianna.uber.space/01_workgroups/nogueira/projects/bimofuse/main.md)** Funding source: William Demant Fundation
+
+
 
 ## Finalized Projects
 ### 2018
-- **Coding of Excitation Patterns** Funding source: DFG Individual Grant
+- **[Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants.](https://vianna.uber.space/01_workgroups/nogueira/projects/binom.md)** Funding source : DFG Individual Grant
  
 ### 2017
 - **Electrode Nerve Interface** Funding source: DFG Individual Grant
