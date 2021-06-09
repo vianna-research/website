@@ -2,6 +2,8 @@ title: Publications
 
 ## 2021
 
+* Warnecke A., Prenzler N., Harre J., Köhl U., Gärtner L., Lenarz T., Laner-Plamberger S., Wietzorrek G., Staecker H., Lassacher T., Hollerweger J., Gimona M., Rohde E. **[First-in-human intracochlear application of 1 extracellular vesicle-enriched secretome from umbilical cord mesenchymal stromal cells in a patient with Menière’s disease during cochlear implantation.](https://onlinelibrary.wiley.com/doi/10.1002/jev2.12094)** J Extracell Vesicles. 2021 Jun 04; 10:e12094. doi: 10.1002/jev2.12094.
+
 * Shew M, Wichova H, Warnecke A, Lenarz T, Staecker H. **[Evaluating Neurotrophin Signaling Using MicroRNA Perilymph Profiling in Cochlear Implant Patients With and Without Residual Hearing.](https://journals.lww.com/otology-neurotology/Abstract/9000/Evaluating_Neurotrophin_Signaling_Using_MicroRNA.95672.aspx)** Otol Neurotol. 2021 May 10. doi: 10.1097/MAO.0000000000003182.
 
 * Harre J, Heinkele L, Steffens M, Warnecke A, Lenarz T, Just I, Rohrbeck A. **[Potentiation of Brain-Derived Neurotrophic Factor-Induced Protection of Spiral Ganglion Neurons by C3 Exoenzyme/Rho Inhibitor.](https://www.frontiersin.org/articles/10.3389/fncel.2021.602897/full)** Front Cell Neurosci. 2021 Mar 11;15:602897. doi: 10.3389/fncel.2021.602897. eCollection 2021.
