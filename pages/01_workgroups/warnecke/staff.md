@@ -17,7 +17,7 @@ Dr. med. vet. Susanne Sasse (Tierärztin) |  	<Sasse.Susanne@mh-hannover.de>
 
 Dr. rer. nat. Heike Schmitt (Biochemikerin) |  	<Schmitt.Heike@mh-hannover.de>
 
-Dr. rer. nat. Melanie Steffens (Physikerin) |  	<Steffens.Melanie@mh-hannover.de>
+Dr. rer. nat. Melanie Steffens (Biophysikerin) |  	<Steffens.Melanie@mh-hannover.de>
 
 Dahua Wang (Arzt)
 
