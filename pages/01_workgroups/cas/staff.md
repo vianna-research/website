@@ -60,9 +60,10 @@ title:Staff
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
 |![Portrait](staff/till.jpg) 	    | Till Gerking								| Medical Doctorate Thesis|
 |![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
+|                                                             | Patrik Haas                 | Bachelor Thesis <br> _Design and evaluation of a digitized hexapod leg with integrated length measurement for a passive hexapod._ |
 |                              	  | Mehran Heidel 							| Medical Doctorate Thesis	|
 |![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis	|
-|![Portrait](staff/Portrait_JulianH.jpg){style="width:68px"}  | Julian Heuer                | Master Thesis <br> Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study. |
+|![Portrait](staff/Portrait_JulianH.jpg){style="width:68px"}  | Julian Heuer                | Master Thesis <br> _Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study._ |
 |![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project |
 |                             	  | Tobias Krail								| Master Thesis    |
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| Medical Doctorate Thesis	|
