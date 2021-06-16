@@ -27,7 +27,7 @@ title:Staff
 |![Portrait](staff/lena.jpg){style="width:68px"}              | Lena Geiger								  | Medical Doctorate Thesis  | 
 |![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	    | Jan Mairose								  | Student Assistant	| 
 |![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctorate Thesis |
-|![Portrait](staff/empty.jpg) 	                              | Sina Witte 				    			| Medical Doctorate Thesis |
+|                              	                              | Sina Witte 				    			| Medical Doctorate Thesis |
 
 
 
@@ -48,7 +48,7 @@ title:Staff
 |:--|:------------------|:--------------------------------------|     
 |	                              | Nina Aldag								| Student Research Project |
 |                          	    | Dr. med. Claas Baier					| Medical Doctorate Thesis |
-|![Portrait](staff/empty.jpg) 	| Shari Barati								| Medical Doctorate Thesis |
+|                              	| Shari Barati								| Medical Doctorate Thesis |
 |![Portrait](staff/Portrait_LeonB.jpg){style="width:68px"}  | Leon Budde                  | Master Thesis |
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Student Assistant  |
 |![Portrait](staff/alexbecker.jpg)| Alexander Becker 				|  Master Thesis|
