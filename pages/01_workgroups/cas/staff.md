@@ -62,6 +62,7 @@ title:Staff
 |![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
 |                              	  | Mehran Heidel 							| Medical Doctorate Thesis	|
 |![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis	|
+|![Portrait](staff/Portrait_JulianH.jpg){style="width:68px"}  | Julian Heuer                | Master Thesis <br> Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study. |
 |![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project |
 |                             	  | Tobias Krail								| Master Thesis    |
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| Medical Doctorate Thesis	|
