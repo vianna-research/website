@@ -25,8 +25,6 @@ title:Staff
 |![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Student Research Project |
 |![Portrait](staff/Portrait_ErikT.jpg){style="width:68px"}    | Erik Tzschoppe              | Bachelor Thesis |
 |![Portrait](staff/lena.jpg){style="width:68px"}              | Lena Geiger								  | Medical Doctorate Thesis  | 
-|                                                             | Patrik Haas                 | Bachelor Thesis |
-|![Portrait](staff/Portrait_JulianH.jpg){style="width:68px"}  | Julian Heuer                | Master Thesis |
 |![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	    | Jan Mairose								  | Student Assistant	| 
 |![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctorate Thesis |
 |![Portrait](staff/empty.jpg) 	                              | Sina Witte 				    			| Medical Doctorate Thesis |
