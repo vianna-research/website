@@ -2,7 +2,7 @@ title: Research Topics
 
 - - - 
 
-## Main Research Topics of our Group
+## Main Research Topics
 
 ### Image acquisition
 
