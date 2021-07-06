@@ -4,6 +4,10 @@ title: RoboJig
 
 ### Toward fully minimally invasive cochlear implantation surgery
 
+In the future, cochlear implantation surgery will require significant simplification in order to handle the strongly growing numbers of patients who could benefit from a cochlear implant (CI). The increasing demand is caused eg.g. by a continouosly extension of indication criteria due to improved implant design, an increasingly ageing population, as well as the vision to establishing cochlear implantation as a treatment modality for hearing loss also in developing world.
+
+
+
 Few years ago we came up with the idea of a new micro-stereotactic targeting system to enable image-guided, minimally-invasive cochlear implant surgery. The development was driven by the aim to enable patient-specific fabrication of the instrument guide during the surgery uder sterile conditions. Therefore we had to simplify the customization procedure in comparison to previously introduced concepts (e.g. StarFix, Microtable). The proposed system consists of a reusable, bone-anchored frame and a customized jig which guides the surgical instruments along a previously planned trajectory. Only one single counterbored hole need to be drilled into a blank in order to intra-operatively finish the patient-individual jig.
 
 ![RoboJig concept overview](10_robojig/robojig_overview.png)
