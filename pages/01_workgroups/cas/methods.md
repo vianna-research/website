@@ -1,8 +1,8 @@
-title: Research Areas & Methods
+title: Research Topics
 
 - - - 
 
-## Research Areas and Main Topics of our Group
+## Main Research Topics of our Group
 
 ### Image acquisition
 
