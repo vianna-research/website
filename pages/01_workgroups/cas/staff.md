@@ -8,13 +8,13 @@ title:Staff
 | Members |||
 |:--|:-------------------------------------------------|:--------------------------------------|
 | ***Research Team***     |||
-|![Portrait](staff/Portrait_ThomasR.jpg){style="width:68px"} | Dr.-Ing. Thomas S. Rau <br> Head of Research Group <br>         | rau.thomas@mh-hannover.de   |
-|![Portrait](staff/Portrait_GeorgB.jpg){style="width:68px"}  | M. Sc. Georg Böttcher <br> Research Engineer <br>  | boettcher.georg@mh-hannover.de |
-|![Portrait](staff/Portrait_JakobC.jpg){style="width:68px"}    | M. Sc. Jakob Cramer <br> Research Engineer <br> | cramer.jakob@mh-hannover.de |
-|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| M. Sc. Tim Ehmann <br> Research Engineer                 | ehmann.tim@mh-hannover.de |
-|![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian <br> Research Engineer <br>            | kilian.julia@mh-hannover.de |
-|![Portrait](staff/Portrait_ViktorS.jpg){style="width:68px"}   | M. Sc. Viktor Schell <br> Research Engineer <br> | schell.viktor@mh-hannover.de |
-|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD <br>	Otolaryngology-Head and Neck Surgeon 		| zunigamanrique.maria@mh-hannover.de	  |
+|![Portrait](staff/Portrait_ThomasR.jpg){style="width:68px"} | Dr.-Ing. Thomas S. Rau <br> Head of Research Group <br>         | rau.thomas@mh-hannover.de <br> +49(0)511/532-3025  |
+|![Portrait](staff/Portrait_GeorgB.jpg){style="width:68px"}  | M. Sc. Georg Böttcher <br> Research Engineer <br>  | boettcher.georg@mh-hannover.de <br> +49(0)511/532-7264 |
+|![Portrait](staff/Portrait_JakobC.jpg){style="width:68px"}    | M. Sc. Jakob Cramer <br> Research Engineer <br> | cramer.jakob@mh-hannover.de <br> +49(0)511/532-7264 |
+|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| M. Sc. Tim Ehmann <br> Research Engineer                 | ehmann.tim@mh-hannover.de <br> +49(0)511/532-7264 |
+|![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian <br> Research Engineer <br>            | kilian.julia@mh-hannover.de <br> +49(0)511/532-7263 |
+|![Portrait](staff/Portrait_ViktorS.jpg){style="width:68px"}   | M. Sc. Viktor Schell <br> Research Engineer <br> | schell.viktor@mh-hannover.de <br> +49(0)511/532-7263 |
+|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD <br>	Otolaryngology-Head and Neck Surgeon 		| zunigamanrique.maria@mh-hannover.de	 <br> +49(0)511/532-7263 |
 | ***Associated Staff***  |||	
 |![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/empty.jpg)  | Dr. Martina Nullmeier	<br> Senior Scientist <br> Cochlear Deutschland GmbH & Co. KG | mnullmeier@cochlear.com |
