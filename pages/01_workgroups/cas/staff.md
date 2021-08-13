@@ -9,6 +9,7 @@ title:Staff
 |:--|:-------------------------------------------------|:--------------------------------------|
 | ***Research Team***     |||
 |![Portrait](staff/Portrait_ThomasR.jpg){style="width:68px"} | Dr.-Ing. Thomas S. Rau <br> Head of Research Group <br>         | rau.thomas@mh-hannover.de <br> +49(0)511/532-3025  |
+|![Portrait](staff/Portrait_EralpA.jpg){style="width:68px"}  | Eralp Artukarslan | Artukarslan.Eralp-Niyazi@mh-hannover.de |
 |![Portrait](staff/Portrait_GeorgB.jpg){style="width:68px"}  | M. Sc. Georg Böttcher <br> Research Engineer <br>  | boettcher.georg@mh-hannover.de <br> +49(0)511/532-7264 |
 |![Portrait](staff/Portrait_JakobC.jpg){style="width:68px"}    | M. Sc. Jakob Cramer <br> Research Engineer <br> | cramer.jakob@mh-hannover.de <br> +49(0)511/532-7264 |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| M. Sc. Tim Ehmann <br> Research Engineer                 | ehmann.tim@mh-hannover.de <br> +49(0)511/532-7264 |
