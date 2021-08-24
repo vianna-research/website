@@ -41,12 +41,6 @@ German Research Foundation (DFG), Project number: 390895286 (PIs: Waldo Nogueira
  
 
 ---
-### Patents: 
-More information will follow soon ...
-
----
-
----
 
 | Contact                 |                            |
 | ------------------------|--------------------------- |
@@ -59,5 +53,4 @@ More information will follow soon ...
 ---
     
 
-    
-
+   
