@@ -18,7 +18,7 @@ Research employee
 ---
 ### Funding:
 
-German Research Foundation (DFG), Project number: 390895286 (PIs: Waldo Nogueira and Jörn Ostermann)
+Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy EXC 2177/1 'Hearing4all'
 
 ---
 ### Publications:
