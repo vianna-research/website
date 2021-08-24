@@ -36,7 +36,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 - **music4u**: Funding source: DFG Individual Grant
 - **music4all** Funding source: DFG Cluster of Excellence Hering4all
 - **MTALK** Funding source: Oticon Medical
-- **[BiMoFuse: Binaural Fusion between Electric and Acoustic Stimulation in Bimodal CI subjects.](https://vianna.uber.space/01_workgroups/nogueira/fundedProjects/bimofuse.html)** Funding source: William Demant Fundation
+- **[BiMoFuse: Binaural Fusion between Electric and Acoustic Stimulation in Bimodal CI subjects.](https://vianna.uber.space/01_workgroups/nogueira/projects/bimofuse.html)** Funding source: William Demant Fundation
 
 
 
