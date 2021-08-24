@@ -1,7 +1,7 @@
 Title: Binaural Sound Coding Strategies for Bilateral Cochlear Implants
 
 
-![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](nologo.png){.img-rounded; .float:center}
+![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](binomlogo_1.png){.img-rounded; .float:center}
 
 
 
