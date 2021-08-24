@@ -13,7 +13,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 # Research Interests
 <!--- [Our reseach projects](nogueira/projects.md) --->
 
-- **[Binaural Sound Coding Strategies for Bilateral Cochlear Implants](https://vianna.uber.space/01_workgroups/nogueira/research_interests/binaural_sound_coding_strategies.md)**
+- **[Binaural Sound Coding Strategies for Bilateral Cochlear Implants](https://vianna.uber.space/01_workgroups/nogueira/projects/binaural_sound_coding_strategies.md)**
 - **[Electric Acoustic Interaction EAS-Masking & Modeling](https://vianna.de/01_workgroups/nogueira/projects/easprojects.html)**
 - **[EEG Neural Tracking/Selective Attention Decoding for Cochlear Implant Users](https://vianna.uber.space/01_workgroups/nogueira/projects/dsaci.html)** 
 - **[Music Signal Processing for Cochlear Implant Users](https://vianna.uber.space/01_workgroups/nogueira/projects/music.html)**
