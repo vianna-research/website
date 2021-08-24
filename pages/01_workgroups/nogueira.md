@@ -36,13 +36,13 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 - **music4u**: Funding source: DFG Individual Grant
 - **music4all** Funding source: DFG Cluster of Excellence Hering4all
 - **MTALK** Funding source: Oticon Medical
-- **[BiMoFuse: Binaural Fusion between Electric and Acoustic Stimulation in Bimodal CI subjects.](https://vianna.uber.space/01_workgroups/nogueira/projects/bimofuse/main.md)** Funding source: William Demant Fundation
+- **[BiMoFuse: Binaural Fusion between Electric and Acoustic Stimulation in Bimodal CI subjects.](https://vianna.uber.space/01_workgroups/nogueira/fundedProjects/bimofuse/bimofuse.md)** Funding source: William Demant Fundation
 
 
 
 ## Finalized Projects
 ### 2018
-- **[Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants.](https://vianna.uber.space/01_workgroups/nogueira/pundedProjects/binom.md)** Funding source : DFG Individual Grant
+- **[Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants.](https://vianna.uber.space/01_workgroups/nogueira/fundedProjects/binom.md)** Funding source : DFG Individual Grant
  
 ### 2017
 - **Electrode Nerve Interface** Funding source: DFG Individual Grant
