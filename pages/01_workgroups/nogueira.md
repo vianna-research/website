@@ -13,7 +13,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 # Research Interests
 <!--- [Our reseach projects](nogueira/projects.md) --->
 
-- **[Binaural Sound Coding Strategies for Bilateral Cochlear Implants](https://vianna.uber.space/01_workgroups/nogueira/research_interests/binaural_sound_coding_strategies.md)**
+- **[Binaural Sound Coding Strategies for Bilateral Cochlear Implants](https://vianna.uber.space/01_workgroups/nogueira/projects/binaural_sound_coding_strategies.html)**
 - **[Electric Acoustic Interaction EAS-Masking & Modeling](https://vianna.de/01_workgroups/nogueira/projects/easprojects.html)**
 - **[EEG Neural Tracking/Selective Attention Decoding for Cochlear Implant Users](https://vianna.uber.space/01_workgroups/nogueira/projects/dsaci.html)** 
 - **[Music Signal Processing for Cochlear Implant Users](https://vianna.uber.space/01_workgroups/nogueira/projects/music.html)**
@@ -36,13 +36,13 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 - **music4u**: Funding source: DFG Individual Grant
 - **music4all** Funding source: DFG Cluster of Excellence Hering4all
 - **MTALK** Funding source: Oticon Medical
-- **[BiMoFuse: Binaural Fusion between Electric and Acoustic Stimulation in Bimodal CI subjects.](https://vianna.uber.space/01_workgroups/nogueira/projects/bimofuse/main.md)** Funding source: William Demant Fundation
+- **[BiMoFuse: Binaural Fusion between Electric and Acoustic Stimulation in Bimodal CI subjects.](https://vianna.uber.space/01_workgroups/nogueira/projects/bimofuse.html)** Funding source: William Demant Fundation
 
 
 
 ## Finalized Projects
 ### 2018
-- **[Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants.](https://vianna.uber.space/01_workgroups/nogueira/projects/binom.md)** Funding source : DFG Individual Grant
+- **[Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants.](https://vianna.uber.space/01_workgroups/nogueira/projects/binom.html)** Funding source : DFG Individual Grant
  
 ### 2017
 - **Electrode Nerve Interface** Funding source: DFG Individual Grant
