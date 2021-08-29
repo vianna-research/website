@@ -3,6 +3,10 @@ title: Peer Reviewed Journal Publications
 
 ## 2021
 
+* **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing](https://www.biorxiv.org/content/10.1101/2021.08.26.457751v1)** 
+Aldag N, Büchner B,  Lenarz T, Nogueira W
+(Under Review). Submitted to Journal of Neural Engineering. 10.1101/2021.08.26.457751.
+
 * **[A sound coding strategy based on a temporal masking model for cochlear implants](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244433)** 
 Kludt E, Nogueira W,  Lenarz T, Büchner A
 PlosOne 8;16(1):e0244433. 
