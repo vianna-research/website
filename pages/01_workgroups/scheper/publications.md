@@ -1,6 +1,8 @@
 title: Publications
 
 ## 2021
+* Usevitch DE, Park A, **Scheper V**, Abbott JJ. [Estimating the Pose of a Guinea-pig Cochlea Without Medical Imaging](https://journals.lww.com/otology-neurotology/Fulltext/2021/10000/Estimating_the_Pose_of_a_Guinea_pig_Cochlea.15.aspx) Otology & Neurotology, October 2021
+ 
 * Shityakov S, Hayashi K, Störk S, **Scheper V**, Lenarz T, Förster CY [The Conspicuous Link between Ear, Brain and Heart–Could Neurotrophin-Treatment of Age-Related Hearing Loss Help Prevent Alzheimer’s Disease and Associated Amyloid Cardiomyopathy?](https://www.mdpi.com/2218-273X/11/6/900) Biomolecules, 2021 ; 11(6):900
 
 * Matin F, Gao Z, Repp F, John S, Lenarz T, **Scheper V**. [Determination of the Round Window Niche Anatomy Using Cone Beam Computed Tomography Imaging as Preparatory Work for Individualized Drug-Releasing Implants](https://doi.org/10.3390/jimaging7050079) Journal of Imaging, 2021 April 23.
