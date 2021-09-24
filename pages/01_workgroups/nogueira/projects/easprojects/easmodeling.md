@@ -35,4 +35,6 @@ This project is funded by the German Research Foundation (Deutsche Forschungsgem
     
 ### Publications:
 
-Comming soon
+* **[A computational model of a single auditory nerve fiber for electric-acoustic stimulation]()** 
+ D. Kipping, W. Nogueira (Under Review). 
+Submitted to the Journal of the Association for Research in Otolaryngology (JARO) in 9/2021.
