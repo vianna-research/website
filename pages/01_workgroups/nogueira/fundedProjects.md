@@ -3,8 +3,8 @@ title: List of Funded Projects
 
 ## Ongoing Projects
 ### 2021
-* **music4u**: Funding source: DFG Individual Grant
-* **music4all** Funding source: DFG Cluster of Excellence Hering4all
+* **Music4u**: Funding source: DFG Individual Grant
+* **Music4all** Funding source: DFG Cluster of Excellence Hering4all
 * **MTALK** Funding source: Oticon Medical
 * **BiMoFuse** Funding source: William Demant Fundation
 
