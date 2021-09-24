@@ -21,6 +21,7 @@ appropriate spiking responses to both acoustic stimulations of remaining hair ce
 
 This project is funded by the German Research Foundation (Deutsche Forschungsgemeinschaft (DFG)) - Project number: 396932747
 
+
 ---
 
 | Contact                 |                            |
