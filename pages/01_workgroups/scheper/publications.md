@@ -3,7 +3,9 @@ title: Publications
 ## 2021
 * Usevitch DE, Park A, **Scheper V**, Abbott JJ. [Estimating the Pose of a Guinea-pig Cochlea Without Medical Imaging](https://journals.lww.com/otology-neurotology/Fulltext/2021/10000/Estimating_the_Pose_of_a_Guinea_pig_Cochlea.15.aspx) Otology & Neurotology, October 2021
 
-* Matin F, Gao Z, Bronzlik P, Lenarz P, **Scheper V**. [A 3D printed patient specific artificial outer ear model for use in auricle reconstruction surgery: a clinical feasibility study](https://doi.org/10.18416/AMMM.2021.2109505) Transactions on Additive Manufacturing Meets Medicine, Vol 3 No 1 (2021)
+*  Angrisani N, Willumeit-Römer R, Windhagen H, Mavila Chathoth B, **Scheper V**, Wiese B, Helmholz H, Reifenrath J. [Small-sized magnesium cylinders influence subchondral bone quality in osteoarthritic rabbits - an in vivo pilot study](https://www.researchgate.net/publication/354902972_Small-sized_magnesium_cylinders_influence_subchondral_bone_quality_in_osteoarthritic_rabbits_-_an_in_vivo_pilot_study) European Cells & Materials 42:179-195, September 2021
+
+* Matin F, Gao Z, Bronzlik P, Lenarz P, **Scheper V**. [A 3D printed patient specific artificial outer ear model for use in auricle reconstruction surgery: a clinical feasibility study](https://doi.org/10.18416/AMMM.2021.2109505) Transactions on Additive Manufacturing Meets Medicine, Vol 3 No 1 (2021); 
 
 * Mau R, Jüttner G, Gao Z, Matin F, Alcacer Labrador D, Repp F, John S, **Scheper V**, Lenarz T, Seitz H. [Rapid tooling for micro injection molding of micro medical devices via digital light processing](https://doi.org/10.18416/AMMM.2021.2109537) Transactions on Additive Manufacturing Meets Medicine, Vol 3 No 1 (2021)
  
