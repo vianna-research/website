@@ -45,18 +45,19 @@ title:Staff
 
 | Alumni |||
 |:--|:------------------|:--------------------------------------|
-|![Portrait](staff/Portrait_ThorbenE.jpg){style="width:68px"} | Thorben Engel               | Master Thesis <br> _Development of minimally invasive, micro-stereotactic strategy for implantation of active middle ear implants._ |
-|![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Student Research Project <br> _Improvement of measurement uncertainties in a force sensitive insertion tool to provide force feedback during CI surgery._|
-|![Portrait](staff/empty.jpg)   | Patrik Haas                 | Bachelor Thesis <br> _Design and evaluation of a digitized hexapod leg with integrated length measurement for a passive hexapod._ |
-|![Portrait](staff/Portrait_JulianH.jpg){style="width:68px"}  | Julian Heuer                | Master Thesis <br> _Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study._ |
-|                             	  | Tobias Krail								| Master Thesis <br> _Development of a thermographic-based investigation method for the characterization of actively heated Nitinol wires as an actuator in the cochlear implant electrode carrier._   |
-|![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	    | Jan Mairose								  | Student Assistant	<br> Master Thesis <br> _Resistance heating of thin-wire NiTi actuators by means of electrically conductive coating._ |
-|![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis <br> _Design and evaluation of a laser-based verification method for a customized instrument guide._ | 
-|![Portrait](staff/Portrait_ErikT.jpg){style="width:68px"}    | Erik Tzschoppe              | Bachelor Thesis <br> _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
+|![Portrait](staff/Portrait_LeonB.jpg){style="width:68px"}  | Leon Budde                  | Master Thesis 2020 <br> _Development of a handheld, force-sensing insertion tool with integrated positioning sensor._|
+|![Portrait](staff/Portrait_ThorbenE.jpg){style="width:68px"} | Thorben Engel               | Master Thesis 2020 <br> _Development of minimally invasive, micro-stereotactic strategy for implantation of active middle ear implants._ |
+|![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Student Research Project 2021 <br> _Improvement of measurement uncertainties in a force sensitive insertion tool to provide force feedback during CI surgery._|
+|![Portrait](staff/empty.jpg)   | Patrik Haas                 | Bachelor Thesis 2021 <br> _Design and evaluation of a digitized hexapod leg with integrated length measurement for a passive hexapod._ |
+|![Portrait](staff/Portrait_JulianH.jpg){style="width:68px"}  | Julian Heuer                | Master Thesis 2021 <br> _Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study._ |
+|                             	  | Tobias Krail								| Master Thesis 2020 <br> _Development of a thermographic-based investigation method for the characterization of actively heated Nitinol wires as an actuator in the cochlear implant electrode carrier._   |
+|![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	    | Jan Mairose								  | Student Assistant	<br> Master Thesis 2021 <br> _Resistance heating of thin-wire NiTi actuators by means of electrically conductive coating._ |
+|![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis 2019 		|
+|![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis 2020 <br> _Design and evaluation of a laser-based verification method for a customized instrument guide._ | 
+|![Portrait](staff/Portrait_ErikT.jpg){style="width:68px"}    | Erik Tzschoppe              | Bachelor Thesis 2021 <br> _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
 |	                              | Nina Aldag								| Student Research Project |
 |                          	    | Dr. med. Claas Baier					| Medical Doctorate Thesis |
 |                              	| Shari Barati								| Medical Doctorate Thesis |
-|![Portrait](staff/Portrait_LeonB.jpg){style="width:68px"}  | Leon Budde                  | Master Thesis |
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Student Assistant  |
 |![Portrait](staff/alexbecker.jpg)| Alexander Becker 				|  Master Thesis|
 |![Portrait](staff/tobias.png) 	  | Tobias Blum 								| Student Assistant |
@@ -76,8 +77,6 @@ title:Staff
 |![Portrait](staff/henrik.png)	  | Henrik Schädlich				 	| Student Assistant, Master Thesis   |
 |                             	  | Veronika Shmatko						| Bachelor Thesis, 	|
 |                             	  | Katharina Spichal							| Medical Doctorate Thesis	|
-|![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis 		|
-
 |![Portrait](staff/lea.png)		    | Lea Uhlenbusch 							| Bachelor Thesis |
 |                               	| Jan-Niklas Wellers						| Medical Doctorate Thesis |
 |![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project  |
