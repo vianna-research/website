@@ -44,14 +44,14 @@ title:Staff
 
 | Alumni |||
 |:--|:------------------|:--------------------------------------|
-|![Portrait](staff/tobias.png) 	  | Tobias Blum 								| Student Assistant & <br> & Bachelor Thesis (2018): _Development and experimental evaluation of a drilling depth control for the RoboJig system._ & <br> + Student Research Projekt (2020): _Investigation of the benefit of a digital display for the strut length setting of a manually operated hexapod._ |
+|![Portrait](staff/tobias.png) 	  | Tobias Blum 								| Student Assistant <br> & Bachelor Thesis (2018): _Development and experimental evaluation of a drilling depth control for the RoboJig system._ <br> & Student Research Projekt (2020): _Investigation of the benefit of a digital display for the strut length setting of a manually operated hexapod._ |
 |![Portrait](staff/Portrait_LeonB.jpg){style="width:68px"}  | Leon Budde                  | Master Thesis (2020): _Development of a handheld, force-sensing insertion tool with integrated positioning sensor._|
 |![Portrait](staff/Portrait_ThorbenE.jpg){style="width:68px"} | Thorben Engel               | Master Thesis (2020): _Development of minimally invasive, micro-stereotactic strategy for implantation of active middle ear implants._ |
 |![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Student Research Project (2021): _Improvement of measurement uncertainties in a force sensitive insertion tool to provide force feedback during CI surgery._|
 |![Portrait](staff/empty.jpg)   | Patrik Haas                 | Bachelor Thesis (2021): _Design and evaluation of a digitized hexapod leg with integrated length measurement for a passive hexapod._ |
 |![Portrait](staff/Portrait_JulianH.jpg){style="width:68px"}  | Julian Heuer                | Master Thesis (2021): _Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study._ |
 |                             	  | Tobias Krail								| Master Thesis (2020): _Development of a thermographic-based investigation method for the characterization of actively heated Nitinol wires as an actuator in the cochlear implant electrode carrier._   |
-|![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	    | Jan Mairose								  | Student Assistant	<br> + Master Thesis (2021): _Resistance heating of thin-wire NiTi actuators by means of electrically conductive coating._ |
+|![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	    | Jan Mairose								  | Student Assistant	<br> & Master Thesis (2021): _Resistance heating of thin-wire NiTi actuators by means of electrically conductive coating._ |
 |![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis 2019 		|
 |![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis (2020): _Design and evaluation of a laser-based verification method for a customized instrument guide._ | 
 |![Portrait](staff/Portrait_ErikT.jpg){style="width:68px"}    | Erik Tzschoppe              | Bachelor Thesis (2021): _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
