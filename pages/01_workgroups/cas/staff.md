@@ -22,8 +22,6 @@ title:Staff
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
 | ***Students*** |||  
 |![Portrait](staff/Portrait_CarolinB.jpg){style="width:68px"} | Carolin Betram              | Master Thesis  |
-|![Portrait](staff/Portrait_ThorbenE.jpg){style="width:68px"} | Thorben Engel               | Master Thesis  |
-|![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Student Research Project |
 |![Portrait](staff/Portrait_ErikT.jpg){style="width:68px"}    | Erik Tzschoppe              | Bachelor Thesis |
 |![Portrait](staff/lena.jpg){style="width:68px"}              | Lena Geiger								  | Medical Doctorate Thesis  | 
 |![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	    | Jan Mairose								  | Student Assistant	| 
@@ -46,7 +44,11 @@ title:Staff
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | now: [Implandata Ophthalmic Products GmbH (Hannover)](http://www.implandata.com) |
 
 | Alumni |||
-|:--|:------------------|:--------------------------------------|     
+|:--|:------------------|:--------------------------------------|
+|![Portrait](staff/Portrait_ThorbenE.jpg){style="width:68px"} | Thorben Engel               | Master Thesis <br> _Development of minimally invasive, micro-stereotactic strategy for implantation of active middle ear implants._ |
+|![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Student Research Project <br> _Improvement of measurement uncertainties in a force sensitive insertion tool to provide force feedback during CI surgery._|
+|![Portrait](staff/empty.jpg)   | Patrik Haas                 | Bachelor Thesis <br> _Design and evaluation of a digitized hexapod leg with integrated length measurement for a passive hexapod._ |
+|![Portrait](staff/Portrait_JulianH.jpg){style="width:68px"}  | Julian Heuer                | Master Thesis <br> _Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study._ |
 |	                              | Nina Aldag								| Student Research Project |
 |                          	    | Dr. med. Claas Baier					| Medical Doctorate Thesis |
 |                              	| Shari Barati								| Medical Doctorate Thesis |
@@ -59,10 +61,8 @@ title:Staff
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
 |![Portrait](staff/till.jpg) 	    | Till Gerking								| Medical Doctorate Thesis|
 |![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
-|                                                             | Patrik Haas                 | Bachelor Thesis <br> _Design and evaluation of a digitized hexapod leg with integrated length measurement for a passive hexapod._ |
 |                              	  | Mehran Heidel 							| Medical Doctorate Thesis	|
 |![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis	|
-|![Portrait](staff/Portrait_JulianH.jpg){style="width:68px"}  | Julian Heuer                | Master Thesis <br> _Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study._ |
 |![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project |
 |                             	  | Tobias Krail								| Master Thesis    |
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| Medical Doctorate Thesis	|
