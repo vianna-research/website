@@ -49,7 +49,9 @@ title:Staff
 |![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Student Research Project <br> _Improvement of measurement uncertainties in a force sensitive insertion tool to provide force feedback during CI surgery._|
 |![Portrait](staff/empty.jpg)   | Patrik Haas                 | Bachelor Thesis <br> _Design and evaluation of a digitized hexapod leg with integrated length measurement for a passive hexapod._ |
 |![Portrait](staff/Portrait_JulianH.jpg){style="width:68px"}  | Julian Heuer                | Master Thesis <br> _Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study._ |
+|                             	  | Tobias Krail								| Master Thesis <br> _Development of a thermographic-based investigation method for the characterization of actively heated Nitinol wires as an actuator in the cochlear implant electrode carrier._   |
 |![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	    | Jan Mairose								  | Student Assistant	<br> Master Thesis <br> _Resistance heating of thin-wire NiTi actuators by means of electrically conductive coating._ |
+|![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis <br> _Design and evaluation of a laser-based verification method for a customized instrument guide._ | 
 |![Portrait](staff/Portrait_ErikT.jpg){style="width:68px"}    | Erik Tzschoppe              | Bachelor Thesis <br> _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
 |	                              | Nina Aldag								| Student Research Project |
 |                          	    | Dr. med. Claas Baier					| Medical Doctorate Thesis |
@@ -66,7 +68,7 @@ title:Staff
 |                              	  | Mehran Heidel 							| Medical Doctorate Thesis	|
 |![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis	|
 |![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project |
-|                             	  | Tobias Krail								| Master Thesis    |
+
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| Medical Doctorate Thesis	|
 |![Portrait](staff/evelynp.png)   | Evelyn Pleger							   	| Medical Doctorate  Thesis|
 |![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctorate  Thesis	|
@@ -75,7 +77,7 @@ title:Staff
 |                             	  | Veronika Shmatko						| Bachelor Thesis, 	|
 |                             	  | Katharina Spichal							| Medical Doctorate Thesis	|
 |![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis 		|
-|![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis | 
+
 |![Portrait](staff/lea.png)		    | Lea Uhlenbusch 							| Bachelor Thesis |
 |                               	| Jan-Niklas Wellers						| Medical Doctorate Thesis |
 |![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project  |
