@@ -22,12 +22,12 @@ title:Staff
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
 | ***Students*** |||  
 |![Portrait](staff/Portrait_CarolinB.jpg){style="width:68px"} | Carolin Betram              | Master Thesis  |
-|![Portrait](staff/Portrait_ErikT.jpg){style="width:68px"}    | Erik Tzschoppe              | Bachelor Thesis |
-|![Portrait](staff/lena.jpg){style="width:68px"}              | Lena Geiger								  | Medical Doctorate Thesis  | 
-|![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	    | Jan Mairose								  | Student Assistant	| 
+|![Portrait](staff/lena.jpg){style="width:68px"}              | Lena Geiger								  | Medical Doctorate Thesis  |
+|![Portrait](staff/empty.jpg)  	                              | Marie Heise                 | Student Assistant |
+|![Portrait](staff/empty.jpg)  	                              | Vera Lange                  | Student Assistant |
 |![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctorate Thesis |
+|![Portrait](staff/empty.jpg)                                 | Mohamed Fourat Nabli        | Master Thesis |
 |![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctorate Thesis |
-
 
 
 | Former Staff |||
@@ -49,6 +49,8 @@ title:Staff
 |![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Student Research Project <br> _Improvement of measurement uncertainties in a force sensitive insertion tool to provide force feedback during CI surgery._|
 |![Portrait](staff/empty.jpg)   | Patrik Haas                 | Bachelor Thesis <br> _Design and evaluation of a digitized hexapod leg with integrated length measurement for a passive hexapod._ |
 |![Portrait](staff/Portrait_JulianH.jpg){style="width:68px"}  | Julian Heuer                | Master Thesis <br> _Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study._ |
+|![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	    | Jan Mairose								  | Student Assistant	<br> Master Thesis <br> _Resistance heating of thin-wire NiTi actuators by means of electrically conductive coating._ |
+|![Portrait](staff/Portrait_ErikT.jpg){style="width:68px"}    | Erik Tzschoppe              | Bachelor Thesis <br> _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
 |	                              | Nina Aldag								| Student Research Project |
 |                          	    | Dr. med. Claas Baier					| Medical Doctorate Thesis |
 |                              	| Shari Barati								| Medical Doctorate Thesis |
