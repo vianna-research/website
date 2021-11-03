@@ -45,8 +45,8 @@ title:Staff
 
 | Alumni |||
 |:--|:------------------|:--------------------------------------|
-|![Portrait](staff/tobias.png) 	  | Tobias Blum 								| Student Assistant & <br> Bachelor Thesis 2018 <br> _Development and experimental evaluation of a drilling depth control for the RoboJig system._ <br> Student Research Projekt 2020 <br> _Investigation of the benefit of a digital display for the strut length setting of a manually operated hexapod._ |
-|![Portrait](staff/Portrait_LeonB.jpg){style="width:68px"}  | Leon Budde                  | Master Thesis 2020 <br> _Development of a handheld, force-sensing insertion tool with integrated positioning sensor._|
+|![Portrait](staff/tobias.png) 	  | Tobias Blum 								| Student Assistant & <br> Bachelor Thesis (2018): _Development and experimental evaluation of a drilling depth control for the RoboJig system._ & <br> Student Research Projekt (2020): _Investigation of the benefit of a digital display for the strut length setting of a manually operated hexapod._ |
+|![Portrait](staff/Portrait_LeonB.jpg){style="width:68px"}  | Leon Budde                  | Master Thesis (2020): _Development of a handheld, force-sensing insertion tool with integrated positioning sensor._|
 |![Portrait](staff/Portrait_ThorbenE.jpg){style="width:68px"} | Thorben Engel               | Master Thesis 2020 <br> _Development of minimally invasive, micro-stereotactic strategy for implantation of active middle ear implants._ |
 |![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Student Research Project 2021 <br> _Improvement of measurement uncertainties in a force sensitive insertion tool to provide force feedback during CI surgery._|
 |![Portrait](staff/empty.jpg)   | Patrik Haas                 | Bachelor Thesis 2021 <br> _Design and evaluation of a digitized hexapod leg with integrated length measurement for a passive hexapod._ |
