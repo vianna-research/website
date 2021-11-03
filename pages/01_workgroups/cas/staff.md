@@ -45,6 +45,7 @@ title:Staff
 
 | Alumni |||
 |:--|:------------------|:--------------------------------------|
+|![Portrait](staff/tobias.png) 	  | Tobias Blum 								| Student Assistant & <br> Bachelor Thesis 2018 <br> _Development and experimental evaluation of a drilling depth control for the RoboJig system._ <br> Student Research Projekt 2020 <br> _Investigation of the benefit of a digital display for the strut length setting of a manually operated hexapod._ |
 |![Portrait](staff/Portrait_LeonB.jpg){style="width:68px"}  | Leon Budde                  | Master Thesis 2020 <br> _Development of a handheld, force-sensing insertion tool with integrated positioning sensor._|
 |![Portrait](staff/Portrait_ThorbenE.jpg){style="width:68px"} | Thorben Engel               | Master Thesis 2020 <br> _Development of minimally invasive, micro-stereotactic strategy for implantation of active middle ear implants._ |
 |![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Student Research Project 2021 <br> _Improvement of measurement uncertainties in a force sensitive insertion tool to provide force feedback during CI surgery._|
@@ -55,12 +56,12 @@ title:Staff
 |![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis 2019 		|
 |![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis 2020 <br> _Design and evaluation of a laser-based verification method for a customized instrument guide._ | 
 |![Portrait](staff/Portrait_ErikT.jpg){style="width:68px"}    | Erik Tzschoppe              | Bachelor Thesis 2021 <br> _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
+| | |
 |	                              | Nina Aldag								| Student Research Project |
 |                          	    | Dr. med. Claas Baier					| Medical Doctorate Thesis |
 |                              	| Shari Barati								| Medical Doctorate Thesis |
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Student Assistant  |
 |![Portrait](staff/alexbecker.jpg)| Alexander Becker 				|  Master Thesis|
-|![Portrait](staff/tobias.png) 	  | Tobias Blum 								| Student Assistant |
 |![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis    |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis |
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
@@ -69,7 +70,6 @@ title:Staff
 |                              	  | Mehran Heidel 							| Medical Doctorate Thesis	|
 |![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis	|
 |![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project |
-
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| Medical Doctorate Thesis	|
 |![Portrait](staff/evelynp.png)   | Evelyn Pleger							   	| Medical Doctorate  Thesis|
 |![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctorate  Thesis	|
