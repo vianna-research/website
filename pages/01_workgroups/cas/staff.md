@@ -18,7 +18,6 @@ title:Staff
 |![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD <br>	Otolaryngology-Head and Neck Surgeon 		| zunigamanrique.maria@mh-hannover.de	 <br> +49(0)511/532-7263 |
 | ***Associated Staff***  |||	
 |![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
-|![Portrait](staff/empty.jpg)  | Dr. Martina Nullmeier	<br> Senior Scientist <br> Cochlear Deutschland GmbH & Co. KG | mnullmeier@cochlear.com |
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
 | ***Students*** |||  
 |![Portrait](staff/Portrait_CarolinB.jpg){style="width:68px"} | Carolin Betram              | Master Thesis  |
