@@ -14,7 +14,7 @@ title: Staff
 |![Portrait](staff/caroline.jpg)  	| [Carolin Valim](https://vianna.de/01_workgroups/nogueira/staff/carolin.html)	|   <Valim.Caroline@mh-hannover.de>    |
 |![Portrait](staff/Alrutz.jpg)	   | [Daniel Kipping](https://vianna.uber.space/01_workgroups/nogueira/staff/daniel.html) | <Kipping.Daniel@mh-hannover.de>	     |
 |![Portrait](staff/Hanna.jpeg)	   | [Hanna Dolhopiatenko](https://vianna.uber.space/01_workgroups/nogueira/staff/hanna.html)| <Dolhopiatenko.Hanna@mh-hannover.de>	|
-|![Portrait](staff/jonas.jpg)	| [Jonas Althoff](https://vianna.uber.space/01_workgroups/nogueira/staff/sina.html)	  | <Althoff.Jonas@mh-hannover.de>      |
+|![Portrait](staff/jonas.jpg)	| [Jonas Althoff](https://vianna.de/01_workgroups/nogueira/staff/jonas.html)	  | <Althoff.Jonas@mh-hannover.de>      |
 |![Portrait](staff/Nina.jpeg)	    | [Nina Aldag](https://vianna.uber.space/01_workgroups/nogueira/staff/nina.html)| <Aldag.Nina@mh-hannover.de>         |
 |![Portrait](staff/Tahmasebi.jpg)	| [Sina Tahmasebi](https://vianna.uber.space/01_workgroups/nogueira/staff/sina.html) | <Tahmasebi.Sina@mh-hannover.de>  |
 |![Portrait](staff/Gajecki.jpg)  	| [Tom Gajecki](https://www.vianna.de/01_workgroups/nogueira/projects/binom.html)	| <Gajecki.Tomas@mh-hannover.de>      |
