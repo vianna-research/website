@@ -2,7 +2,8 @@ title: CHD
 
 - - -
 
-# The Cochlea Hydro Drive. Toward Automated Electrode Insertion.
+# The Cochlea Hydro Drive.
+## Toward Automated Electrode Insertion.
 
 A crucial element of cochlear implant soft surgery for hearing preservation is the velocity at which the electrode array is inserted. It has been previously described that insertion forces and subsequently intracochlear trauma can be reduced with lower insertion velocities. However, it is also recognized that there is a human limitation as to how slow an electrode array (EA) can be manually inserted. While several investigations have performed automated EA insertions in laboratory settings, such technologies have not been widely transferred to clinical settings. Therefore, our research group developed a novel insertion tool called Cochlea Hydro Drive (CHD), which is characterized by its simplicity given that it uses a standard syringe as hydraulic actuator to deliver an EA into a cochlea model. The present investigation sought to evaluate the use of the CHD in achieving EA insertions into a cochlea model with continuous velocities lower than humanly feasible (0.9mm/s).
 
