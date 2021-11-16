@@ -14,11 +14,16 @@ The CHD can reliably deliver and insert an EA at velocities lower than humanly f
 
 - - -
 
+### Funding:
+This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy – EXC
+2177/1 - Project ID 390895286.
+
 ### Contact:
 If your are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
 
-    Dr.-Ing. Thomas Rau
+    Dr.-Ing. Thomas Rau 	
     rau.thomas@mh-hannover.de
+    ++49(0)511/532-3025
 
 - - -
 
