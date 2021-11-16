@@ -2,7 +2,7 @@ title: CHD
 
 - - -
 
-# The Cochlea Hydro Drive. Toward Automated Electrode Insertion in Cochlear Implant Surgery.
+# The Cochlea Hydro Drive. Toward Automated Electrode Insertion.
 
 ![Flyer](CHD_CARSPoster2020.jpg){style="display:block; margin-left:auto; margin-right:auto; width:80%"}
 
