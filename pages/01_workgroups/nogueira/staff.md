@@ -27,7 +27,7 @@ title: Staff
 |![Portrait](staff/nour.jpg)	| Nourhan Bahgat		  |      |
 |![Portrait](staff/Jasmin.jpg)	| Jasmin Thormählen		  | Thormaehlen.Jasmin@mh-hannover.de    |
 |![Portrait](staff/zhang.jpg)	| Yixuan  Zhang 		  |    Zhang.Yixuan@mh-hannover.de  |
-|![Portrait](staff/blank.jpg)	| Yichi Zhang 		  |  Zhang.Yichi@mh-hannover.de    |
+|![Portrait](staff/yichi.jpg)	| Yichi Zhang 		  |  Zhang.Yichi@mh-hannover.de    |
 
 
 
