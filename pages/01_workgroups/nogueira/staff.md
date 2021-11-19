@@ -35,8 +35,8 @@ title: Staff
 
 | Former Staff                  |                                               |                                     |
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
-|![Portrait](staff/Langner.jpg)	| Florian Langner        | Langner.Florian(at)mh-hannover.de	 |
-|![Portrait](staff/Imsiecke.jpg)	| Marina Imsiecke 			 | Imsiecke.Marina(at)mh-hannover.de	 |
+|![Portrait](staff/Langner.jpg)	| Florian Langner        | Langner.Florian@mh-hannover.de	 |
+|![Portrait](staff/Imsiecke.jpg)	| Marina Imsiecke 			 | Imsiecke.Marina@mh-hannover.de	 |
 
 
 
