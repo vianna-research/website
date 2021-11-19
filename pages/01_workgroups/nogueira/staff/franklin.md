@@ -2,8 +2,7 @@ title: Franklin Alvarez
 <!--- publications_src:sina.bib --->
 
 
-![Franklin Alvarez (franklin.jpg)
-
+![Franklin Alvarez](franklin.jpg)
 
 
 Research employee	
