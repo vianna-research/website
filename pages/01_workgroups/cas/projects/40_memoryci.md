@@ -1,8 +1,8 @@
 title: MemoryCI
 
+- - - 
 
-
-# Functionalisation of Cochlear Implants Electrode Arrays by Use of Shape Memory Alloys
+# Functionalisation of Cochlear Implants Electrode Arrays Using a Shape Memory Alloy
 
 Shape memory materials, above all Nitinol, are of particular interest for minimally invasive applications in medicine. Their unique material properties allow a high degree of miniaturization and the realization of actuator functions. However, the design process of such shape memory actuators is complex and insufficiently controlled. Therefore, the use of Nitinol in medical engineering is up to now restricted to applications which do not require an accurate temperature-dependent behavior or for which the actuation movement can be generously and coarsely designed. This is the case when the transformation temperatures can be chosen considerably below or above body temperature or when the surrounding tissues are sufficiently robust (e.g. bone around compression staples).
 

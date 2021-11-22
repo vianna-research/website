@@ -1,8 +1,8 @@
-title: Sina Tahmasebi 
+title: Jonas Althoff
 <!--- publications_src:sina.bib --->
 
 
-![Sina Tahmasebi](Tahmasebi.jpg)
+![Jonas Althoff](jonas.jpg)
 
 
 Research employee	
@@ -10,24 +10,24 @@ Research employee
 
 **Research and Interests**
 
-* Audio signal processing
-* Deep neural networks
+* Stimulation artifact reduction
 * Music perception and music appreciation in cochlear implant users
+* Auditory selective attention decoding
+* Audio signal processing
+
 
 
 ---
 
 | Contact                 |                            |
 | ------------------------|--------------------------- |
-| Research employee:<br>          | Sina Tahmasebi |
+| Research employee:<br>          | Jonas Althoff|
 | Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
-| Phone:                  | +49 (0)511 532 8328 |
+| Phone:                  | +49 (0)511 532 80834 |
 | Fax:                    | +49 (0)511 532 6833 |
-| E-Mail:                 |<Tahmasebi.Sina@mh-hannover.de>|
+| E-Mail:                 |<Althoff.Jonas@mh-hannover.de>|
 
 ---
     
-
-[@@10.3389/fnins.2020.00434]
 
 
