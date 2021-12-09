@@ -1,6 +1,6 @@
 title: Staff
 
-![group Picture; February 2021](staff/MicrosoftTeams_image.png)
+![group Picture; February 2021](staff/GroupPicture.JPG)
 
 
 | Head of Research Group              |                               |                                           |
