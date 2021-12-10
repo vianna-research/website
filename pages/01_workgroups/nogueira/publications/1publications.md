@@ -6,7 +6,7 @@ title: Peer Reviewed Journal Publications
 
 
 
-* **[A computational model of a single auditory nerve fiber for electric-acoustic stimulation](https://www.biorxiv.org/content/10.1101/2021.11.04.467324v7.full.pdf)** 
+* **[A computational model of a single auditory nerve fiber for electric-acoustic stimulation]()** 
  D. Kipping, W. Nogueira (Under Review). 
 Submitted to the Journal of the Association for Research in Otolaryngology (JARO) in 9/2021.
 
