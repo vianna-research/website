@@ -1,4 +1,4 @@
-title: List of Funnded Projects 
+title: List of Projects 
 ---
 
 Please use the links below to go directly to the project sub-pages.
