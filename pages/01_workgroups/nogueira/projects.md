@@ -1,4 +1,4 @@
-title: Research Interests
+title: List of Funnded Projects 
 ---
 
 Please use the links below to go directly to the project sub-pages.
