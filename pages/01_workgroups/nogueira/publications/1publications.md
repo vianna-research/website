@@ -4,9 +4,15 @@ title: Peer Reviewed Journal Publications
 ## 2021
 
 
-* **[A computational model of a single auditory nerve fiber for electric-acoustic stimulation]()** 
+
+
+* **[A computational model of a single auditory nerve fiber for electric-acoustic stimulation](https://www.biorxiv.org/content/10.1101/2021.11.04.467324v7.full.pdf)** 
  D. Kipping, W. Nogueira (Under Review). 
 Submitted to the Journal of the Association for Research in Otolaryngology (JARO) in 9/2021.
+
+* **[An End-to-End Deep Learning Sound Coding Strategy for Cochlear Implants]()** 
+T. Gajeck, W. Nogueira (Under Review). 
+Submitted to the International Conference on Acoustics, Speech, & Signal Processing (ICASSP) in 8/2021.
 
 * **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing](https://www.biorxiv.org/content/10.1101/2021.08.26.457751v1)** 
 Aldag N, Büchner B,  Lenarz T, Nogueira W
