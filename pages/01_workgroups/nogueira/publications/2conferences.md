@@ -3,6 +3,10 @@ title: Peer Reviewed Conference Publications
 
 ## 2021
 
+* **[An End-to-End Deep Learning Sound Coding Strategy for Cochlear Implants](https://www.biorxiv.org/content/10.1101/2021.11.04.467324v7.full.pdf)** 
+T. Gajecki, W. Nogueira (Under Review). 
+Submitted to the International Conference on Acoustics, Speech, & Signal Processing (ICASSP) in 8/2021.
+
 * **[Localization of Cochlear Implant Electrode Contacts using Particle Belief Propagation on Cone Beam Computer Tomography Data-Sets.](https://arxiv.org/abs/2103.10434)**
 H. Hachmann, B. Krüger, B. Rosenhahn, W. Nogueira
 IEEE International Symposium on Biomedical Imaging (ISBI).
