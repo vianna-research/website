@@ -23,11 +23,7 @@ scheper.verena@mh-hannover.de
 
 
 **Links:**
-[ResearchGate](https://www.researchgate.net/profile/Verena_Scheper)
-
-[DFG](http://gepris.dfg.de/gepris/person/118496388)
-
-[HNO - für Wissenschaftler](https://www.mh-hannover.de/18058.html)
+[ResearchGate](https://www.researchgate.net/profile/Verena_Scheper); [DFG](http://gepris.dfg.de/gepris/person/118496388); [HNO - für Wissenschaftler](https://www.mh-hannover.de/18058.html)
 
 ***
 
