@@ -8,7 +8,7 @@ title: Staff
 |Technical Staff|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
 |   |Name| EMail|Extension|
-|![Armbrecht Nina](Nina.png) | Nina Armbrecht	|	Armbrecht.nina@mh-hannover.de     | 532 1529|
+|![Armbrecht Nina](Nina.jpg) | Nina Armbrecht	|	Armbrecht.nina@mh-hannover.de     | 532 1529|
 |![Kreienmeyer Michaela](Michaela.png) | Michaela Kreinenmeyer	|	Kreinemeyer.Michaela@mh-hannover.de   | 532 1525|
 
 |Research Team  |    |  | +49 (0)511 - |
