@@ -1,6 +1,8 @@
 title: Publications
 
 ## 2021
+* Gao Z, Schwieger J, Matin-Mann F, Behrens P, Lenarz T, **Scheper V**. [Dexamethasone for Inner Ear Therapy: Biocompatibility and Bio-Efficacy of Different Dexamethasone Formulations In Vitro](https://www.mdpi.com/2218-273X/11/12/1896/htm) Biomolecules, December 2021
+
 * Gao Z, Matin-Mann F, Wei C, Lenarz T, Weber C, John S, **Scheper V**. [3D Printed Individualized Frontal Neo-Ostium Implant in Endoscopic Sinus Surgery – a Proof of Concept Study](https://www.degruyter.com/document/doi/10.1515/cdbme-2021-2103/html) Current Directions in Biomedical Engineering, December 2021
 
 * Abdoul T, Schwieger J, Lenarz T, Nogueira W, **Scheper V**. [Investigation of auditory neuronal survival and outgrowth using a cochlear implant in an artificial cochlear model](https://www.degruyter.com/document/doi/10.1515/cdbme-2021-2114/html) Current Directions in Biomedical Engineering, December 2021
