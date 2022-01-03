@@ -9,6 +9,7 @@ title: Staff
 |--------------|:---------------------|------|-----|
 |   |Name| EMail|Extension|
 |![Armbrecht Nina](Nina.png) | Nina Armbrecht	|	Armbrecht.nina@mh-hannover.de     | 532 1529|
+|![Kreienmeyer Michaela](Michaela.png) | Michaela Kreinenmeyer	|	Kreinemeyer.Michaela@mh-hannover.de   | 532 1525|
 
 |Research Team  |    |  | +49 (0)511 - |
 |---------|:------|------|-----|
@@ -19,7 +20,7 @@ title: Staff
 | ![Image Farnaz Matin](Matin.JPG) |  Farnaz Matin, MD|	Matin.Farnaz@mh-hannover.de| 17 7443|   
 | ![Image Claas-Tido Peck](Claas.jpg) |  Claas-Tido Peck, M.Sc.|	Peck.Claas-Tido@mh-hannover.de| 532 1538| 
 | ![Image Marleen Grzybowski](Grzybowski.jpg) | Marleen Grzybowski, M.Sc.| Grzybowski.Marleen@mh-hannover.de | 532 4192|
-| ![Image Martina Knabel](Knabel.jpg) | Martina Knabel, M.Sc.| Knabel.Martina@mh-hannover.de | 532 1464 |
+| ![Image Martina Knabel](Knabel.JPG) | Martina Knabel, M.Sc.| Knabel.Martina@mh-hannover.de | 532 1464 |
 
 |FWJ|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
