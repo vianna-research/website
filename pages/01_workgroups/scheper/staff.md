@@ -19,13 +19,13 @@ title: Staff
 | ![Image Farnaz Matin](Matin.JPG) |  Farnaz Matin, MD|	Matin.Farnaz(at)mh-hannover.de| 17 7443|   
 | ![Image Claas-Tido Peck](Claas.jpg) |  Claas-Tido Peck, M.Sc.|	Peck.Claas-Tido(at)mh-hannover.de| 532 1538| 
 | ![Image Marleen Grzybowski](Grzybowski.jpg) | Marleen Grzybowski, M.Sc.| Grzybowski.Marleen(at)mh-hannover.de | 532 4192|
-| ![Image Martina Knabel](MartinaKnabel.jpg) | Martina Knabel, M.Sc.| Knabel.Martina(at)mh-hannover.de | 532 1464 |
+| ![Image Martina Knabel](Knabel.jpg) | Martina Knabel, M.Sc.| Knabel.Martina(at)mh-hannover.de | 532 1464 |
 
 |FWJ|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
 |   |Name| EMail|Extension|
-|![Image Tom Oltrogge](Tom.jpg) | Tom Oltrogge	|	 Oltrogge.Tom@mh-hannover| 532 1529|
-
+|![Image Ines Kruse](Kruse.jpg) | Ines Kruse |	 Kruse.Ines@mh-hannover| 532 1529|
+|![Image Sofia Zehme](Zehme.jpg) | Sofia Zehme |	Zehme.Sofia@mh-hannover| 532 1529|
 
 |  Students   ||
 |-----------|-------------|
