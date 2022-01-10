@@ -21,6 +21,7 @@ title: Staff
 | ![Image Claas-Tido Peck](Claas.jpg) |  Claas-Tido Peck, M.Sc.|	Peck.Claas-Tido@mh-hannover.de| 532 1538| 
 | ![Image Marleen Grzybowski](Grzybowski.jpg) | Marleen Grzybowski, M.Sc.| Grzybowski.Marleen@mh-hannover.de | 532 4192|
 | ![Image Martina Knabel](Knabel.JPG) | Martina Knabel, M.Sc.| Knabel.Martina@mh-hannover.de | 532 1464 |
+| ![Image Chunjiang Wei](suzy1.jpg)  | Chunjiang Wei, M.Sc., PhD Student  	|	Wei.chunjiang@mh-hannover.de | 532 1464|
 
 |FWJ|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
