@@ -9,7 +9,7 @@ title: Staff
 |--------------|:---------------------|------|-----|
 |   |Name| EMail|Extension|
 |![Armbrecht Nina](Nina.jpg) | Nina Armbrecht	|	Armbrecht.nina@mh-hannover.de     | 532 1529|
-|![Kreienmeyer Michaela](Michaela.png) | Michaela Kreinenmeyer	|	Kreinemeyer.Michaela@mh-hannover.de   | 532 1525|
+|![Kreienmeyer Michaela](Michaela.jpg) | Michaela Kreinenmeyer	|	Kreinemeyer.Michaela@mh-hannover.de   | 532 1525|
 
 |Research Team  |    |  | +49 (0)511 - |
 |---------|:------|------|-----|
@@ -26,8 +26,8 @@ title: Staff
 |FWJ|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
 |   |Name| EMail|Extension|
-|![Image Ines Kruse](Kruse.jpg) | Ines Kruse |	 Kruse.Ines@mh-hannover| 532 1529|
-|![Image Sofia Zehme](Zehme.jpg) | Sofia Zehme |	Zehme.Sofia@mh-hannover| 532 1529|
+|![Image Ines Kruse](Ines.jpg) | Ines Kruse |	 Kruse.Ines@mh-hannover| 532 1529|
+|![Image Sofia Zehme](Sofia.jpg) | Sofia Zehme |	Zehme.Sofia@mh-hannover| 532 1529|
 
 |  Students   ||
 |-----------|-------------|
