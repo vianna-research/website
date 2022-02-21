@@ -25,18 +25,18 @@ title: Staff
 
 | Students                    |                     |                                   |
 |:----------------------------|:--------------------|----------------------------------:|
-|![Portrait](staff/nour.jpg)	| Nourhan Bahgat		  |      |
-|![Portrait](staff/Jasmin.jpg)	| Jasmin Thormählen		  | Thormaehlen.Jasmin@mh-hannover.de    |
-|![Portrait](staff/zhang.jpg)	| Yixuan  Zhang 		  |    Zhang.Yixuan@mh-hannover.de  |
-|![Portrait](staff/yichi.jpg)	| Yichi Zhang 		  |  Zhang.Yichi@mh-hannover.de    |
+|![Portrait](staff/nour.jpg)	| Nourhan Bahgat		  |   <Bahgat.Nourhan@mh-hannover.de>   |
+|![Portrait](staff/Jasmin.jpg)	| Jasmin Thormählen		  | <Thormaehlen.Jasmin@mh-hannover.de>    |
+|![Portrait](staff/zhang.jpg)	| Yixuan  Zhang 		  |    <Zhang.Yixuan@mh-hannover.de>  |
+|![Portrait](staff/yichi.jpg)	| Yichi Zhang 		  |  <Zhang.Yichi@mh-hannover.de>    |
 
 
 
 
 | Former Staff                  |                                               |                                     |
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
-|![Portrait](staff/Langner.jpg)	| Florian Langner        | Langner.Florian@mh-hannover.de	 |
-|![Portrait](staff/Imsiecke.jpg)	| Marina Imsiecke 			 | Imsiecke.Marina@mh-hannover.de	 |
+|![Portrait](staff/Langner.jpg)	| Florian Langner        | 	 |
+|![Portrait](staff/Imsiecke.jpg)	| Marina Imsiecke 			 | 	 |
 
 
 
