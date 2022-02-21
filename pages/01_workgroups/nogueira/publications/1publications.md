@@ -1,18 +1,15 @@
 title: Peer Reviewed Journal Publications
 
 
+## 2022
+
+* **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing.](https://iopscience.iop.org/article/10.1088/1741-2552/ac4de6)** Aldag N, Büchner B,  Lenarz T, Nogueira W. (2022) J. Neural Eng. 19 016023.
+
 ## 2021
-
-
-
 
 * **[A computational model of a single auditory nerve fiber for electric-acoustic stimulation]()** 
  D. Kipping, W. Nogueira (Under Review). 
 Submitted to the Journal of the Association for Research in Otolaryngology (JARO) in 9/2021.
-
-* **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing](https://www.biorxiv.org/content/10.1101/2021.08.26.457751v1)** 
-Aldag N, Büchner B,  Lenarz T, Nogueira W
-(Under Review). Submitted to Journal of Neural Engineering. 10.1101/2021.08.26.457751.
 
 * **[A sound coding strategy based on a temporal masking model for cochlear implants](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244433)** 
 Kludt E, Nogueira W,  Lenarz T, Büchner A
