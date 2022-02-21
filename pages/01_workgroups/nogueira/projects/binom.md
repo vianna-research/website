@@ -1,4 +1,4 @@
-Title: Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants
+Title: Binaural N-of-M
 
 ![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](binom2.png){.img-rounded; .float:center}
 
