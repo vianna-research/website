@@ -5,7 +5,7 @@ title: Staff
 
 | Head of Research Group              |                               |                                           |
 |:------------------------------------|:------------------------------|------------------------------------------:|
-|![Portrait](staff/Nogueiraklein.jpg) |Dr.-Ing. Waldo Nogueira | <nogueiravazquez.waldo@mh-hannover.de>    |
+|![Portrait](staff/Nogueiraklein.jpg) |[Dr.-Ing. Waldo Nogueira](https://vianna.de/01_workgroups/nogueira/staff/a_nogueira.html) | <nogueiravazquez.waldo@mh-hannover.de>    |
 
 
 | Research Team                   |                                                                                 |                                       |
@@ -35,16 +35,16 @@ title: Staff
 
 | Former Staff                  |                                               |                                     |
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
-|![Portrait](staff/Langner.jpg)	| Florian Langner        | 	 |
-|![Portrait](staff/Imsiecke.jpg)	| Marina Imsiecke 			 | 	 |
+|![Portrait](staff/Langner.jpg)	| Florian Langner        | 	                    |
+|![Portrait](staff/Imsiecke.jpg)	| Marina Imsiecke 			 | 	                  |
 
 
 
 
 | Former Students                  |                                               |                                     |
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
-|![Portrait](staff/betuel.jpg)	| Betül Bayatid 			| 	     |
-|![Portrait](staff/costi.jpg)	| Costanza Bruni      |     |
+|![Portrait](staff/betuel.jpg)	| Betül Bayatid 			| 	                          |
+|![Portrait](staff/costi.jpg)	| Costanza Bruni      |                               |
 
 
 
