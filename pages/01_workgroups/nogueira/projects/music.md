@@ -1,5 +1,7 @@
 title: MusIC
 
+![Abstract logo](music.png){.img-rounded; .float:center}
+
 # MusIC: Making Music More Accessible for Cochlear Implant Users
 Listening to music is an important and enjoyable part of many people’s lives that can improve quality of life through its recreational and rehabilitative function. For example, music involvement is important for the development of the brain, particularly during childhood and can mitigate symptoms of Alzheimer’s disease in older. Yet, people with hearing impairment have severe limitations to perceive and appreciate music. 
 
@@ -26,6 +28,12 @@ Below is a demo of the music tracks used in this experiment.
 |Enhanced Mixture | <audio controls><source src="/__downloads/apg/enhanced.mp3" type="audio/mpeg"> Your browser.</audio>| <audio controls><source src="/__downloads/apg/enhancedsec.mp3" type="audio/mpeg"> Your browser.</audio>|
 |Vocals Signal | <audio controls><source src="/__downloads/apg/speech.mp3" type="audio/mpeg"> Your browser.</audio>| <audio controls><source src="/__downloads/apg/speechsec.mp3" type="audio/mpeg"> Your browser.</audio>|
 |Instruments Signal | <audio controls><source src="/__downloads/apg/instruments.mp3" type="audio/mpeg"> Your browser.</audio>| <audio controls><source src="/__downloads/apg/instrumentsec.mp3" type="audio/mpeg"> Your browser.</audio>|
+
+---
+
+### Team Members
+* **[Tom Gajecki](https://www.vianna.de/01_workgroups/nogueira/staff/tom.html)**
+* **[Sina Tahmasebi](https://www.vianna.de/01_workgroups/nogueira/staff/sina.html)**
 
 ---
 
