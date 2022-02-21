@@ -20,7 +20,7 @@ Research employee
 
 | Contact                 |                            |
 | ------------------------|--------------------------- |
-| Research employee:<br>          | Franklin Alvarz |
+| Research employee:<br>          | Franklin Alvarez |
 | Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
 | Phone:                  | +49 (0)511 532 8328 |
 | Fax:                    | +49 (0)511 532 6833 |
