@@ -1,4 +1,4 @@
-Titel: BiMoFuse
+Title: BiMoFuse
 
 # Binaural Fusion between Electric and Acoustic Stimulation in Bimodal CI subjects
 
