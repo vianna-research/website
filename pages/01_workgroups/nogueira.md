@@ -16,10 +16,10 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 # Research Interests
 <!--- [Our reseach projects](nogueira/projects.md) --->
 
-- **[Binaural Sound Coding](https://vianna.de/01_workgroups/nogueira/projects/binom.html)**
-- **[Electric Acoustic Interaction](https://vianna.de/01_workgroups/nogueira/projects/easprojects.html)**
-- **[EEG](https://vianna.uber.space/01_workgroups/nogueira/projects/dsaci.html)** 
-- **[Music](https://vianna.uber.space/01_workgroups/nogueira/projects/music.html)**
+- **[Signal Processing for Cochlear Implants](https://vianna.de/01_workgroups/nogueira/projects/binom.html)**
+- **[Electric Acoustic Stimulation](https://vianna.de/01_workgroups/nogueira/projects/easprojects.html)**
+- **[Closed-Loop Cochlear Implants](https://vianna.uber.space/01_workgroups/nogueira/projects/dsaci.html)** 
+- **[Music and Cochlear Implants](https://vianna.uber.space/01_workgroups/nogueira/projects/music.html)**
 <!----**[Electric Acoustic Interaction EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)** ---> 
 
 ![BINOM](nogueira/binom2.png){.img-rounded; .float:center}
@@ -30,44 +30,6 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 <!----**[Electric Acoustic Interaction EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)** ---> 
 
----
-
-# List of Funded Projects
-
-## Ongoing Projects
-### 2021
-- **music4u**: Funding source: DFG Individual Grant
-- **music4all** Funding source: DFG Cluster of Excellence Hering4all
-- **MTALK** Funding source: Oticon Medical
-- **[BiMoFuse: Binaural Fusion between Electric and Acoustic Stimulation in Bimodal CI subjects.](https://vianna.uber.space/01_workgroups/nogueira/projects/bimofuse.html)** Funding source: William Demant Fundation
-
-
-
-## Finalized Projects
-### 2018
-- **[Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants.](https://vianna.uber.space/01_workgroups/nogueira/projects/binom.html)** Funding source : DFG Individual Grant
- 
-### 2017
-- **Electrode Nerve Interface** Funding source: DFG Individual Grant
-- **Electric Acoustic Stimulation** Funding source: MED-EL
-
-
----
-
-# Technologies
-
-- **[DeHoCI Simulator](https://vianna.uber.space/01_workgroups/nogueira/technologies.html)**
-- **[MusIC4allApp1.0](https://vianna.uber.space/01_workgroups/nogueira/technologies.html)**
-- **[MusIC4allApp2.0](https://vianna.uber.space/01_workgroups/nogueira/technologies.html)**
-
----
-
-# Teaching
-
-- **[Audio and Speech Signal Processing](https://vianna.uber.space/01_workgroups/nogueira/teaching.html)**
-- **[3D-Audio - Grundlagen räumlicher Audioreproduktionssysteme](https://vianna.uber.space/01_workgroups/nogueira/teaching.html)**
-
----
 
 <!--- [DHZ-Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=1)
 
