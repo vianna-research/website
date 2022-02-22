@@ -1,7 +1,6 @@
 title: List of Projects 
 ---
 
-## Ongoing Projects
 
 * **[BiMoFuse: Binaural Fusion between Electric and Acoustic Stimulation in Bimodal CI Users](https://vianna.de/01_workgroups/nogueira/projects/bimofuse.html)**
 * **[BiNoM: Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants](https://www.vianna.de/01_workgroups/nogueira/projects/binom.md)**
@@ -14,7 +13,6 @@ title: List of Projects
 * **Music4u**: Funding source: DFG Individual Grant
 * **Music4all** Funding source: DFG Cluster of Excellence Hering4all
 
-## Finalized Projects
 ###2021
 * **[Music Signal Processing for CI Users](https://www.vianna.de/01_workgroups/nogueira/projects/music.html)**
 * **MTALK** Funding source: Oticon Medical
