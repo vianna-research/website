@@ -29,8 +29,8 @@ appropriate spiking responses to both acoustic stimulations of remaining hair ce
 
 ### Team Members
 
-* Benjamin Krüger
-* Daniel Kipping
+* **[Benjamin Krüger](https://vianna.de/01_workgroups/nogueira/staff/benjamin.html)
+* **[Daniel Kipping](https://vianna.de/01_workgroups/nogueira/staff/daniel.html)
 
 ---
 ### Publications
