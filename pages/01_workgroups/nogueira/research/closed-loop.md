@@ -15,6 +15,7 @@ Coming soon...
 
 # Objective Measures of Speech Perception
 
+We are developing methods to investigate speech perception of CI users objectively through EEG. The ultimate goal of this project is to improve the fitting procedure of CIs, especially in children or disabled adults. We are using the following measures:
 * Cortical Auditory Evoked Response (CAEP)
 * Acoustic Change Complex (ACC)
 * Auditory Steady State Response (ASSR)
