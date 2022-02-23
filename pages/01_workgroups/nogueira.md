@@ -28,10 +28,10 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 [![MUSIC](nogueira/music.png){.img-rounded; .float:right}](https://vianna.de/01_workgroups/nogueira/research/music_and_CI.html "Music and Cochlear Implants") --->
 
 [![BINOM](nogueira/binom2.png){style="width:200px; float:left"}](https://vianna.de/01_workgroups/nogueira/research/signal_processing.html "Signal Processing for Cochlear Implants")
-[![EAS](nogueira/modelling.png){.img-rounded; .float:left}](https://vianna.de/01_workgroups/nogueira/research/eas.html "Electric Acoustic Stimulation")
+[![EAS](nogueira/modelling.png){style="width:200px; float:right"}](https://vianna.de/01_workgroups/nogueira/research/eas.html "Electric Acoustic Stimulation")
 
-[![EEG](nogueira/eeg.png){.img-rounded; .float:center}](https://vianna.de/01_workgroups/nogueira/research/closed-loop.html "Closed-Loop Cochlear Implants")
-[![MUSIC](nogueira/music.png){.img-rounded; .float:right}](https://vianna.de/01_workgroups/nogueira/research/music_and_CI.html "Music and Cochlear Implants") 
+[![EEG](nogueira/eeg.png){style="width:200px; float:left"}](https://vianna.de/01_workgroups/nogueira/research/closed-loop.html "Closed-Loop Cochlear Implants")
+[![MUSIC](nogueira/music.png){style="width:200px; float:right"}](https://vianna.de/01_workgroups/nogueira/research/music_and_CI.html "Music and Cochlear Implants") 
 
 <!---![binomlogo_1](binomlogo_1.png){style="width:150px; float:right; margin-left:3em"}--->
 ---
