@@ -16,8 +16,6 @@ The new technologies are considered to perform in real-time and to be evaluated 
 Music samples of the Real-time Music Source Separation experiment. 
 In this experiment a multilayer perceptron has been used to separate the singing voice from the instrumental accompaniment to remix the music track. It has been shown that CI users enjoy music more, when the singing voice is enhanced with respect to the background instruments. Our results indicate that CI users enjoy music more when the singing voice is 8 dB enhanced with respect to the background accompaniment.
 
----
-
 ### Audio Example: 
 
 Below is a demo of the music tracks used in this experiment.
@@ -29,6 +27,11 @@ Below is a demo of the music tracks used in this experiment.
 |Enhanced Mixture | <audio controls><source src="/__downloads/apg/enhanced.mp3" type="audio/mpeg"> Your browser.</audio>| <audio controls><source src="/__downloads/apg/enhancedsec.mp3" type="audio/mpeg"> Your browser.</audio>|
 |Vocals Signal | <audio controls><source src="/__downloads/apg/speech.mp3" type="audio/mpeg"> Your browser.</audio>| <audio controls><source src="/__downloads/apg/speechsec.mp3" type="audio/mpeg"> Your browser.</audio>|
 |Instruments Signal | <audio controls><source src="/__downloads/apg/instruments.mp3" type="audio/mpeg"> Your browser.</audio>| <audio controls><source src="/__downloads/apg/instrumentsec.mp3" type="audio/mpeg"> Your browser.</audio>|
+
+---
+
+# Music4u and Music4all
+Coming soon...
 
 ---
 
@@ -54,7 +57,7 @@ Below is a demo of the music tracks used in this experiment.
 
 | Contact                 |                            |
 | ------------------------|--------------------------- |
-| Head of Research Group:<br>          | [Prof. Dr.-Ing. Waldo Nogueira] |
+| Head of Research Group:<br>          | Prof. Dr.-Ing. Waldo Nogueira |
 | Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
 | Phone:                  | +49 (0)511 532 8025 |
 | Fax:                    | +49 (0)511 532 6833 |
