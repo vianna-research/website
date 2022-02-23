@@ -16,12 +16,15 @@ Research employee
 * Models of the auditory periphery
 
 ---
+
 ### Funding
 Coming soon...
 
 ---
+
 ### Publications
 Coming soon...
+
 ---
 
 | Contact                 |                            |
