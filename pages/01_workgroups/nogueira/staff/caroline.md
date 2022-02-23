@@ -14,7 +14,13 @@ Research employee
 - Programming CIs
 
 
+---
+### Funding
+Coming soon...
 
+---
+### Publications
+Coming soon...
 
 ---
 
