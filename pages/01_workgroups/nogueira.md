@@ -9,7 +9,6 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 - **[Linktree page](https://linktr.ee/auditoryprostheticgroup)**
 
-
 ---
 
 
@@ -21,25 +20,14 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 - **[Electric Acoustic Stimulation](https://vianna.de/01_workgroups/nogueira/research/eas.html)**
 - **[Closed-Loop Cochlear Implants](https://vianna.de/01_workgroups/nogueira/research/closed-loop.html)** 
 - **[Music and Cochlear Implants](https://vianna.de/01_workgroups/nogueira/research/music_and_CI.html)**
-<!----**[Electric Acoustic Interaction EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)** ---> 
+
 
 [![BINOM](nogueira/binom2.png){.img-rounded; .float:center}](https://vianna.de/01_workgroups/nogueira/research/signal_processing.html)
-![EAS](nogueira/modelling.png){.img-rounded; .float:left}
-![EEG](nogueira/eeg.png){.img-rounded; .float:center}
-![MUSIC](nogueira/music.png){.img-rounded; .float:right}
-<!--- ![Auditory Prosthetic Group](nogueira/allprojects.jpg){.img-rounded .align-center} --->
+[![EAS](nogueira/modelling.png){.img-rounded; .float:left}](https://vianna.de/01_workgroups/nogueira/research/eas.html)
+[![EEG](nogueira/eeg.png){.img-rounded; .float:center}](https://vianna.de/01_workgroups/nogueira/research/closed-loop.html)
+[![MUSIC](nogueira/music.png){.img-rounded; .float:right}](https://vianna.de/01_workgroups/nogueira/research/music_and_CI.html)
 
-<!----**[Electric Acoustic Interaction EAS-Modeling](https://vianna.uber.space/01_workgroups/nogueira/projects/easmodeling.html)** ---> 
-
-
-<!--- [DHZ-Deutsches HörZentrum Hannover](http://www.hoerzentrum-hannover.de/index.php?id=1)
-
-    Prof. Dr.-Ing. Waldo Nogueira
-    Karl-Wiechert-Allee 3 
-    30625 Hannover --->
-    
-<!--- nogueiravazquez.waldo(at)mh-hannover.de --->
-
+---
 
 | Contact                 |                            |
 | ------------------------|--------------------------- |
@@ -50,7 +38,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 | E-Mail:                 |<nogueiravazquez.waldo@mh-hannover.de>|
 
 
-
+---
 
 
 
