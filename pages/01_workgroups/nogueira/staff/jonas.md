@@ -15,6 +15,15 @@ Research employee
 * Auditory selective attention decoding
 * Audio signal processing
 
+---
+
+### Funding
+Coming soon...
+
+---
+
+### Publications
+Coming soon...
 
 
 ---
