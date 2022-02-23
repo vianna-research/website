@@ -1,6 +1,6 @@
 title: Electric Acoustic Stimulation
 
-![EAS](nogueira/modelling.png){.img-rounded; .float:left}
+![EAS](modelling.png){.img-rounded; .float:left}
 
 # EAS-Masking
 
