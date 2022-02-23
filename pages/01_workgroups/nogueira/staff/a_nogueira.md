@@ -45,9 +45,9 @@ electrophysiology in humans, binaural hearing
 
 **Links:**
 
-* **[DHZ](http://www.hoerzentrum-hannover.de/index.php?id=19)**
+* **[DHZ](https://www.dhz.clinic/)**
 
-* **[HNO - für Wissenschaftler](https://www.mhh.de/kliniken-und-spezialzentren/klinik-fuer-hals-nasen-ohrenheilkunde/fuer-wissenschaftler/)**
+* **[HNO - für Wissenschaftler](https://www.mhh.de/hno/fuer-wissenschaftler)**
 
 * **[Hearing4all](https://hearing4all.eu/EN/index.php)**:	
 
