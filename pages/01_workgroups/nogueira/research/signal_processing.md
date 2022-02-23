@@ -21,17 +21,6 @@ In this experiment a multilayer perceptron has been used to separate the singing
 
 ---
 
-
-| Contact                 |                            |
-| ------------------------|--------------------------- |
-| Head of Research Group:<br>  |Prof. Dr.-Ing. Waldo Nogueira|
-| Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
-| Phone:                  | +49 (0)511 532 8025 |
-| Fax:                    | +49 (0)511 532 6833 |
-| E-Mail:                 |<nogueiravazquez.waldo@mh-hannover.de>|
-
----
-
 ### Publications:
 
 - T. Gajecki, W. Nogueira. [Enhancement of Interaural Level Differences for Bilateral Cochlear Implant Users](https://www.sciencedirect.com/science/article/pii/S0378595521001477). Hearing Research, 2021.
@@ -49,3 +38,15 @@ In this experiment a multilayer perceptron has been used to separate the singing
 - T. Gajecki, W. Nogueira. [Deep Learning Models to Remix Music for Cochlear Implant Users](https://asa.scitation.org/doi/10.1121/1.5042056). The Journal of the Acoustical Society of America, 2018.
 
 - W. Nogueira, T. Gajecki, B. Krüger, J. Janer, A. Büchner. [Development of a Sound Coding Strategy based on a Deep Recurrent Neural Network for Monaural Source Separation in Cochlear Implants](https://ieeexplore.ieee.org/document/7776166). ITG Speech Communication. Padeborn, Germany, 2016.
+
+---
+
+| Contact                 |                            |
+| ------------------------|--------------------------- |
+| Head of Research Group:<br>  |Prof. Dr.-Ing. Waldo Nogueira|
+| Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
+| Phone:                  | +49 (0)511 532 8025 |
+| Fax:                    | +49 (0)511 532 6833 |
+| E-Mail:                 |<nogueiravazquez.waldo@mh-hannover.de>|
+
+---
