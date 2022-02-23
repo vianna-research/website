@@ -11,8 +11,6 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 
 ---
 
-
-# Research Interests
 <!--- [Our reseach projects](nogueira/projects.md) --->
 
 
@@ -28,7 +26,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 [![EEG](nogueira/eeg.png){.img-rounded; .float:center}](https://vianna.de/01_workgroups/nogueira/research/closed-loop.html "Closed-Loop Cochlear Implants")
 [![MUSIC](nogueira/music.png){.img-rounded; .float:right}](https://vianna.de/01_workgroups/nogueira/research/music_and_CI.html "Music and Cochlear Implants")--->
 
-|Research Interest                                                                                                        |                                                          |
+|Research Interests                                                                                                        |                                                          |
 |-------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 |[Signal Processing for Cochlear Implants](https://vianna.de/01_workgroups/nogueira/research/signal_processing.html)      |[![BINOM](nogueira/binom2.png){.img-rounded; .float:center}](https://vianna.de/01_workgroups/nogueira/research/signal_processing.html "Signal Processing for Cochlear Implants") |
 |[Electric Acoustic Stimulation](https://vianna.de/01_workgroups/nogueira/research/eas.html)                              |[![EAS](nogueira/modelling.png){.img-rounded; .float:center}](https://vianna.de/01_workgroups/nogueira/research/eas.html "Electric Acoustic Stimulation") |
