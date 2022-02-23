@@ -1,7 +1,6 @@
 title: Nina Aldag 
 
-
-![Nina Aldag](Nina.jpeg)
+![Nina Aldag](Nina.jpeg){"float:right; margin-left:3em"}
 
 
 Research employee	
