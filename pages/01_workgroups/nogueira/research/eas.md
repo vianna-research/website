@@ -21,7 +21,7 @@ However, it has been shown that simultaneous acoustic and electric stimulation c
 auditory nerve fiber (ANF) spike trains in animals as well as in electrocochleographic (ECochG) responses and psychophysical experiments in humans (see Project EAS-Masking). To date, it remains unclear at which stage of the auditory pathway
 these masking effects arise (i.e. at the level of hair cells, the auditory nerve, or more centrally).
 
-![Schematic drawing of a cochlear modell.](eas.png)
+![Schematic drawing of a cochlear modell.](eas.jpg)
  
 In this project, we develop a computational model of the acoustically and electrically stimulated auditory nerve to better understand the underlying interaction mechanisms in EAS users. Existing models simulate ANF spiking for sole acoustic 
 or electric stimulation. Our idea is to couple a model of acoustically evoked spiking activity with a model of electrically induced spikes to simulate the electric-acoustically stimulated auditory nerve. Our current implementation shows 
