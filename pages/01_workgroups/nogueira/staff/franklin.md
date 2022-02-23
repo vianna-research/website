@@ -15,7 +15,13 @@ Research employee
 * Deep neural networks
 * Models of the auditory periphery
 
+---
+### Funding
+Coming soon...
 
+---
+### Publications
+Coming soon...
 ---
 
 | Contact                 |                            |
