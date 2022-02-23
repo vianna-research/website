@@ -16,7 +16,7 @@ The group started in September 2013 as part of the Excellence Cluster Hearing4al
 # Research Interests
 <!--- [Our reseach projects](nogueira/projects.md) --->
 
-- **[Signal Processing for Cochlear Implants](https://vianna.de/01_workgroups/nogueira/research/signal-processing.html)**
+- **[Signal Processing for Cochlear Implants](https://vianna.de/01_workgroups/nogueira/research/signal_processing.html)**
 - **[Electric Acoustic Stimulation](https://vianna.de/01_workgroups/nogueira/research/eas.html)**
 - **[Closed-Loop Cochlear Implants](https://vianna.de/01_workgroups/nogueira/research/closed-loop.html)** 
 - **[Music and Cochlear Implants](https://vianna.de/01_workgroups/nogueira/research/music_and_CI.html)**
