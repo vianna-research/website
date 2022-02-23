@@ -4,9 +4,9 @@ title: Electric Acoustic Stimulation
 
 # EAS-Masking
 
-![Schematic drawing of an CI electrode array and some nearby hair cells.](logo-eas-masking-orig_orig.png)
-
 veryday more people with residual hearing receive cochlear implants (CIs) to obtain electroacoustic stimulation (EAS), i.e. combined auditory stimulation delivered electrically from CI electrodes and acoustically through a hearing aid (HA). For EAS users low frequency acoustic hearing produces almost no recognition for speech in noise, but the performance is significantly enhanced when combined with the electric hearing delivered by the CI. However, it is still unknown how the acoustic and electric stimulation modalities interact with each other. Clinical experience has found that some EAS users do not use the HA at all and rely solely on electric stimulation. Moreover, it has been observed that EAS users require more time to achieve their maximum performance with the CI alone than regular CI users. These limitations may have influence in defining the implantation criteria of EAS. Possible explanations for these limitations are interactions between acoustic and electric stimulation. These interactions become more and more important for people with large residual hearing because the overlap between electric and acoustic stimulation is larger. For example, it has been shown that the range of hearing loss for which EAS devices are prescribed is getting closer to the range of age related hearing loss. Age related hearing loss, as EAS, is characterized by lost of audibility in the high frequencies.
+
+![Schematic drawing of an CI electrode array and some nearby hair cells.](logo-eas-masking-orig_orig.png)
 
 Given that the population in Europe is becoming older with increased hearing loss related problems new treatments are required to rehabilitate people with age related hearing loss. Cognitive decline and hearing loss seem to be related and new treatments such as EAS are very promising to improve quality of life of the elderly population. This work is about characterizing the interaction between acoustic and electric stimulation.
 
@@ -20,6 +20,8 @@ CI users with preserved low frequency hearing receive combined electric-acoustic
 However, it has been shown that simultaneous acoustic and electric stimulation causes interactions between both modalities. One form of such interaction is masking. Masking between electric and acoustic stimulation has been observed in
 auditory nerve fiber (ANF) spike trains in animals as well as in electrocochleographic (ECochG) responses and psychophysical experiments in humans (see Project EAS-Masking). To date, it remains unclear at which stage of the auditory pathway
 these masking effects arise (i.e. at the level of hair cells, the auditory nerve, or more centrally).
+
+![Schematic drawing of a cochlear modell.](eas.png)
  
 In this project, we develop a computational model of the acoustically and electrically stimulated auditory nerve to better understand the underlying interaction mechanisms in EAS users. Existing models simulate ANF spiking for sole acoustic 
 or electric stimulation. Our idea is to couple a model of acoustically evoked spiking activity with a model of electrically induced spikes to simulate the electric-acoustically stimulated auditory nerve. Our current implementation shows 
