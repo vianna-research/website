@@ -6,7 +6,7 @@ title: List of Funded Projects
 * **BiMoFuse: Bimodal Fusion**, Funding: William Demant Foundation (Denmark), 2021-2023
 * **MTALK**, Funding: Oticon Medical (Denmark), 2021
 * **Hearing4all 2.0**, Funding: Cluster of Excellence Initiative (Germany), 2019-2025
-* **Development and Translation of an Intracranial Nerve Implant** (Pi: H. Lim; T. Lenarz), Funding: National Institutes of Health (NIH, US), 2018-2024
+* **Development and Translation of an Intracranial Nerve Implant** (PI: H. Lim; T. Lenarz), Funding: National Institutes of Health (NIH, US), 2018-2024
 * **BiNoM**, Funding: German Research Foundation (DFG, Germany), 2018-2021
 * **Characterization of Electrode Nerve Interface During Electric Acoustic Stimulation**, Funding: German Research Foundation (DFG, Germany), 2018-2021
 * **Electric Acoustic Stimulation**, Funding: MED-EL (Austria), 2016-2018
