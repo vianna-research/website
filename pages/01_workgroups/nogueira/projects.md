@@ -1,33 +1,15 @@
-title: List of Projects 
+title: List of Funded Projects 
 ---
 
-
-* **BiMoFuse** Binaural Fusion between Electric and Acoustic Stimulation in Bimodal CI Users
-* **BiNoM** Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants
-* **Selective Attention Decoding**
-* **Objective Measures of Speech Perception Based on Electroencephalography**
-* **EAS-Masking** Electric Acoustic Stiumulation Masking
-* **EAS-Modeling** Electric Acoustic Stimulation Modelling
-* **MusIC**
-* **DeepACE**
-* **Music4u** Funding source: DFG Individual Grant
-* **Music4all** Funding source: DFG Cluster of Excellence Hering4all
-
-###2021
-* **Music Signal Processing for CI Users**
-* **MTALK** Funding source: Oticon Medical
-
-### 2020
-
-### 2019
-
-### 2018
-* **Coding of Excitation Patterns** Funding source: DFG Individual Grant
- 
-### 2017
-* **Electrode Nerve Interface** Funding source: DFG Individual Grant
-* **Electric Acoustic Stimulation** Funding source: MED-EL
-
+* **BiMoFuse: Bimodal Fusion**, Funding: William Demant Foundation (Denmark), 2021-2023
+* **Music4u**, Funding: German Research Foundation (DFG, Germany), 2021-2024
+* **SIRII**, Funding: German Research Foundation (DFG, Germany), 2021-2025
+* **Development and Translation of an Intracranial Nerve Implant** (Pi: H. Lim; T. Lenarz), Funding: National Institutes of Health (NIH, US), 2018-2024
+* **BiNoM**, Funding: German Research Foundation (DFG, Germany), 2018-2021
+* **Characterization of Electrode Nerve Interface During Electric Acoustic Stimulation**, Funding: German Research Foundation (DFG, Germany), 2018-2021
+* **Electric Acoustic Stimulation**, Funding: MED-EL (Austria), 2016-2018
+* **music 3.0**, Funding: Hörregion Hannover, MED-EL, Oticon Medical, Advanced Bionics, Cochlear (Germany), 2017
+* **music 2.0**, Funding: MED-EL (Austria), 2013
 
 ---
 
