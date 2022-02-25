@@ -30,7 +30,7 @@ Below is a demo of the music tracks used in this experiment.
 
 ---
 
-# Music4u and Music4all
+# MusIC4u 
 Coming soon...
 
 ---
