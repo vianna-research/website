@@ -10,9 +10,6 @@ The cochlear implant (CI) acts as a kind of artificial cochlea, transforming the
 
 This project investigates the possibilities of decoding selective attention in NH listeners and CI users. It has been shown that neural activity in the cerebral cortex, especially in the delta (1–4 Hz) and theta (4–8 Hz) frequency bands, tracks the amplitude envelope of a complex auditory stimulus such as speech. Therefore, electroencephalography (EEG) data can be used to track an attended speech source in NH listeners and CI users using high-density EEG caps. The selective attention can be further decoded by designing spatio-temporal filters, also called decoder, which serve to reconstruct the speech from the EEG data. The goal of this project is to investigate different types of decoders, including linear forward/backward models or non-linear models such as deep neural networks. Moreover, different methods to record and further to decode selective attention are investigated. Promising recording systems are the cEEGrid system, which represents portable EEG recording device or invasive electrode located on the temporal lobe. 
 
-## Selective Attention Decoding in Children
-Coming soon...
-
 # Objective Measures of Speech Perception
 
 We are developing methods to investigate speech perception of CI users objectively through EEG. The ultimate goal of this project is to improve the fitting procedure of CIs, especially in children or disabled adults. We are using the following measures:
