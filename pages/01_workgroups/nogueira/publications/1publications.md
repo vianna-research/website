@@ -3,33 +3,26 @@ title: Peer Reviewed Journal Publications
 
 ## 2022
 
-* Aldag N, Büchner B,  Lenarz T, Nogueira W. (2022). **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing.](https://iopscience.iop.org/article/10.1088/1741-2552/ac4de6)**. J. Neural Eng. 19 016023.
+* Aldag, N., Büchner, B.,  Lenarz, T., Nogueira, W. (2022). **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing.](https://iopscience.iop.org/article/10.1088/1741-2552/ac4de6)**. J. Neural Eng. 19 016023.
 
-* Nogueira W., Dolhopiatenko H. (2022). **[Predicting speech intelligibility from a selective attention decoding paradigm in cochlear implant users.](https://iopscience.iop.org/article/10.1088/1741-2552/ac599f)**   J. Neural Eng.
+* Nogueira, W., Dolhopiatenko, H. (2022). **[Predicting speech intelligibility from a selective attention decoding paradigm in cochlear implant users.](https://iopscience.iop.org/article/10.1088/1741-2552/ac599f)**. J. Neural Eng.
+
+* D. Kipping, W. Nogueira (Under Review). (2022). **[A computational model of a single auditory nerve fiber for electric-acoustic stimulation]()**. Submitted to the Journal of the Association for Research in Otolaryngology (JARO) in 9/2021.
 
 ## 2021
 
-* **[A computational model of a single auditory nerve fiber for electric-acoustic stimulation]()** 
- D. Kipping, W. Nogueira (Under Review). 
-Submitted to the Journal of the Association for Research in Otolaryngology (JARO) in 9/2021.
 
-* **[A sound coding strategy based on a temporal masking model for cochlear implants](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244433)** 
-Kludt E, Nogueira W,  Lenarz T, Büchner A
-PlosOne 8;16(1):e0244433. 
-doi: 10.1371/journal.pone.0244433.
 
-* **[A subjective and objective evaluation of a codec for the electrical stimulation patterns of cochlear implants](https://asa.scitation.org/doi/abs/10.1121/10.0003571?journalCode=jas)**
-Hinrichs R, Gajecki T, Ostermann J, Nogueira W
-The Journal of the Acoustical Society of America. 149, 1324.
+* Kludt, E., Nogueira, W.,  Lenarz, T., Büchner, A. (2021). **[A sound coding strategy based on a temporal masking model for cochlear implants](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244433)**. PlosOne 8;16(1):e0244433. doi: 10.1371/journal.pone.0244433.
 
-* **[Amplitude growth functions of auditory nerve responses to electric pulse stimulation with varied inter-phase gaps in cochlear implant users with ipsilateral residual hearing]()** Imsiecke, A. Büchner, T. Lenarz, W. Nogueira (2021).  Trends in Hearing (Accepted).
+* Hinrichs, R., Gajecki, T., Ostermann, J., Nogueira, W. (2021). **[A subjective and objective evaluation of a codec for the electrical stimulation patterns of cochlear implants](https://asa.scitation.org/doi/abs/10.1121/10.0003571?journalCode=jas)**. The Journal of the Acoustical Society of America. 149, 1324.
 
-* **[ Assessing the relationship between neural health measures and speech performance with parallel electrical stimulation in Cochlear Implant listeners]()** 
-Langner F, Arenberg JG, Büchner A, Nogueira W (Unde Review). 
+* Imsiecke, A. Büchner, T. Lenarz, W. Nogueira (2021). **[Amplitude growth functions of auditory nerve responses to electric pulse stimulation with varied inter-phase gaps in cochlear implant users with ipsilateral residual hearing]()**   Trends in Hearing. 25:23312165211014137. doi: 10.1177/23312165211014137. PMID: 34181493; PMCID: PMC8243142.
 
-* **[Effect of Channel Interaction on Vocal Cue Perception in cochlear implant users.]()** 
-Nogueira W, El Boghdady N, Gaudrain E, Baskent D
-Ear and Hearing (Under Review).
+* Langner, F., Arenberg, J. G., Büchner, A., Nogueira, W. (2021). **[ Assessing the relationship between neural health measures and speech performance with parallel electrical stimulation in Cochlear Implant listeners]()**. PlosOne. 13;16(12):e0261295. doi: 10.1371/journal.pone.0261295. PMID: 34898654; PMCID: PMC8668108.
+
+* Nogueira, W., El Boghdady, N., Gaudrain, E., Baskent, D. (2021)**[Effect of Channel Interaction on Vocal Cue Perception in cochlear implant users.]()**. Trends Hear.  25:23312165211030166. doi: 10.1177/23312165211030166. PMID: 34461780; PMCID: PMC8411629.
+
 
 * **[Localization of Cochlear Implant Electrode Contacts using Particle Belief Propagation on Cone Beam Computer Tomography Data-Sets]()** 
 Hachmann H, Krüger B, Rosenhahn B, Nogueira W
