@@ -3,7 +3,9 @@ title: Peer Reviewed Journal Publications
 
 ## 2022
 
-* **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing.](https://iopscience.iop.org/article/10.1088/1741-2552/ac4de6)** Aldag N, Büchner B,  Lenarz T, Nogueira W. (2022) J. Neural Eng. 19 016023.
+* Aldag N, Büchner B,  Lenarz T, Nogueira W. (2022). **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing.](https://iopscience.iop.org/article/10.1088/1741-2552/ac4de6)**. J. Neural Eng. 19 016023.
+
+* Nogueira W., Dolhopiatenko H. (2022). **[Predicting speech intelligibility from a selective attention decoding paradigm in cochlear implant users.](https://iopscience.iop.org/article/10.1088/1741-2552/ac599f)**   J. Neural Eng.
 
 ## 2021
 
