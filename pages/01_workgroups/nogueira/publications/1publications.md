@@ -78,7 +78,7 @@ Journal of the Acoustical Society of America, 145,3, 1640-1649.
 
 ## 2018
 
-* Imsiecke, M., Krüger, B., Büchner, A., Lenarz, T., Nogueira, W. (2018). **[Electric-acoustic forward masking in cochlear implant users with ipsilateral residual hearing.](https:/ (2018). /www.sciencedirect.com/science/article/pii/S0378595517305026?via%3Dihub)**  Hear Res. 364:25-37. doi: 10.1016/j.heares.2018.04.003. Epub 2018 Apr 9.
+* Imsiecke, M., Krüger, B., Büchner, A., Lenarz, T., Nogueira, W. (2018). **[Electric-acoustic forward masking in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595517305026?via%3Dihub)**  Hear Res. 364:25-37. doi: 10.1016/j.heares.2018.04.003. Epub 2018 Apr 9.
 
 * Jürgens, T., Hohmann, V., Büchner, A., Nogueira, W. (2018). **[The effects of electrical field spatial spread and some cognitive factors on speech-in-noise performance of individual cochlear implant users-A computer model study.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193842)**. Hear Res. 2018 Mar;359:64-75. doi: 10.1016/j.heares.2017.12.019. Epub 2017 Dec 28.
 
