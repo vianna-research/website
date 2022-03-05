@@ -27,7 +27,7 @@ auditory neuron survival and outgrowth under clinically relevant electrical stim
 ITG Speech Communication, Oldenburg, Germany.
 
 ## 2016
-* Nogueira, W., Gajęcki, T., Krüger, B., Janer, J., Büchner, A. (2016). **[Development of a Sound Coding Strategy based on a Deep Recurrent Neural Network for Monaural Source Separation in Cochlear Implants**](https://ieeexplore.ieee.org/document/7776166). ITG Speech Commungication, Pabeborn, Germany.
+* Nogueira, W., Gajęcki, T., Krüger, B., Janer, J., Büchner, A. (2016). **[Development of a Sound Coding Strategy based on a Deep Recurrent Neural Network for Monaural Source Separation in Cochlear Implants](https://ieeexplore.ieee.org/document/7776166)**. ITG Speech Commungication, Pabeborn, Germany.
 
 * Nogueira, W. **[Sound Scene Classification based on Monaural and Binaural Features](http://dcase.community/documents/challenge2016/technical_reports/DCASE2016_Nogueira_1009.pdf)**. IEEE DCASE 2016 Challenge: Acoustic Scene Classification.
 
