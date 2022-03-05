@@ -10,7 +10,7 @@ title: Peer Reviewed Conference Publications
 * Hachmann, H., Krüger, B., Rosenhahn, B., Nogueira, W. (2021). **[Localization of Cochlear Implant Electrode Contacts using Particle Belief Propagation on Cone Beam Computer Tomography Data-Sets](https://arxiv.org/abs/2103.10434)**. IEEE 18th International Symposium on Biomedical Imaging (ISBI), April 13-16, 593-597.
 
 * Abdoul, T.,Schwieger, J., Lenarz, T, Nogueira, W., Scheper, V. (2021). **[Development and validation of an experimental setup to investigate
-auditory neuron survival and outgrowth under clinically relevant electrical stimulation using a cochlear implant in an artificial cochlear model.](file:///C:/Users/nogueiwa/Downloads/10.1515_bmt-2021-6049.pdf). Biomed. Eng.-Biomed. Tech. 2021; 66(s1): S315–S320. DOI 10.1515/bmt-2021-6049.
+auditory neuron survival and outgrowth under clinically relevant electrical stimulation using a cochlear implant in an artificial cochlear model.](file:///C:/Users/nogueiwa/Downloads/10.1515_bmt-2021-6049.pdf) **. Biomed. Eng.-Biomed. Tech. 2021; 66(s1): S315–S320. DOI 10.1515/bmt-2021-6049.
 
 ## 2020
 * Nogueira, W., Dolohopiatenko, H. (2020). **[Towards decoding selective attention from single-trial EEG data in cochlear implant users based on Deep Neural Networks.**](https://www.researchgate.net/publication/332009883_Toward_Decoding_Selective_Attention_From_Single-Trial_EEG_Data_in_Cochlear_Implant_Users). 45th International Conference on Acoustics, Speech, and Signal Processing, IEEE ICASSP, Barcelona, May. [Code](https://github.com/APGDHZ/SelectiveAttentionDNN)
