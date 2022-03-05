@@ -3,9 +3,9 @@ title: Peer Reviewed Journal Publications
 
 ## 2022
 
-* Aldag, N., Büchner, B.,  Lenarz, T., Nogueira, W. (2022). **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing.](https://iopscience.iop.org/article/10.1088/1741-2552/ac4de6)**. J. Neural Eng. 19 016023.
+* Aldag, N., Büchner, B.,  Lenarz, T., Nogueira, W. (2022). **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing.](https://iopscience.iop.org/article/10.1088/1741-2552/ac4de6)** J. Neural Eng. 19 016023.
 
-* Nogueira, W., Dolhopiatenko, H. (2022). **[Predicting speech intelligibility from a selective attention decoding paradigm in cochlear implant users.](https://iopscience.iop.org/article/10.1088/1741-2552/ac599f)**. J. Neural Eng.
+* Nogueira, W., Dolhopiatenko, H. (2022). **[Predicting speech intelligibility from a selective attention decoding paradigm in cochlear implant users.](https://iopscience.iop.org/article/10.1088/1741-2552/ac599f)** J. Neural Eng.
 
 * Kipping, D., Nogueira, W. (Under Review). (2022). **[A computational model of a single auditory nerve fiber for electric-acoustic stimulation.]()** Submitted to the Journal of the Association for Research in Otolaryngology (JARO) in 9/2021.
 
@@ -23,16 +23,12 @@ title: Peer Reviewed Journal Publications
 
 * Nogueira, W., El Boghdady, N., Gaudrain, E., Baskent, D. (2021)**[Effect of Channel Interaction on Vocal Cue Perception in cochlear implant users.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8411629/)** Trends Hear.  25:23312165211030166. doi: 10.1177/23312165211030166. PMID: 34461780; PMCID: PMC8411629.
 
-* Hachmann, H., Krüger, B., Rosenhahn, B., Nogueira, W. (2021). **[Localization of Cochlear Implant Electrode Contacts using Particle Belief Propagation on Cone Beam Computer Tomography Data-Sets](https://arxiv.org/abs/2103.10434)**. IEEE 18th International Symposium on Biomedical Imaging (ISBI), April 13-16, 593-597.
- 
 * Krüger, B., Büchner, A., Nogueir,a W., **[Phantom Stimulation for Cochlear Implant Users with Residual Low-Frequency Hearing, Ear and Hearing.](https://journals.lww.com/ear-hearing/Fulltext/2022/03000/Phantom_Stimulation_for_Cochlear_Implant_Users.34.aspx)** Ear and Hearing. 43(2):631-645. doi: 10.1097/AUD.0000000000001121.
 
 
 * Gajecki, T., Nogueira, W. (2021). **[The Effect of Synchronized Linked Band Selection on Speech Intelligibility of Bilateral Cochlear Implant Users.](https://www.sciencedirect.com/science/article/pii/S0378595520303221#:~:text=Linked%20band%20selection%20achieves%20an,at%20the%20worse%2DSNR%20side.&text=Linked%20band%20selection%20enhances%20the,to%20the%20better%2DSNR%20side%20.&text=Linked%20band%20selection%20improves%20speech,when%20compared%20to%20clinical%20setups%20.)** Hearing Research. 396, 108051.
 
-
 * Sharma, S., Nogueira, W., van Wanrooij, M. M., van Opstal, A. J., Chalupper, J., Mens, L. H. M. (2021). **[Amount of frequency compression in bimodal cochlear implant users is a poor predictor for audibility and spatial hearing, Journal of Speech, Language, and Hearing Research.](https://pubs.asha.org/doi/abs/10.1044/2021_JSLHR-20-00653?af=R)** Journal of Speech, Language, and Hearing Research. 13;64(12):5000-5013. doi: 10.1044/2021_JSLHR-20-00653.
-
 
 ## 2020
 
@@ -86,7 +82,6 @@ Journal of the Acoustical Society of America, 145,3, 1640-1649.
 
 * Klawitter S, Landsberger DM, Büchner A, Nogueira W. (2018). **[Perceptual changes with monopolar and phantom electrode stimulation.](https://w (2018). ww.sciencedirect.com/science/article/pii/S0378595517303076?via%3Dihub)** PLoS One. 2018 Apr 13;13(4):e0193842. doi: 10.1371/journal.pone.0193842. eCollection 2018.
 
-
 * Marcoleta J. P., Nogueira, W., Floriep, U.,  Doll, T. (2018). **[Flexible High Density Active Neural Implants combining a Distributed Multiplexing Transceiver Architecture with Biocompatible Technology](https://onlinelibrary.wiley.com/doi/abs/10.1002/pssa.201700134)**. Physica Status Solidi A: Applications and Materials Science, 215, 15,  https://doi.org/10.1002/pssa.201700134.
 
 * Gajecki, T. and Nogueira, W. (2018). **[Deep Learning Models to Remix Music for Cochlear Implant Users.](https://asa.scitation.org/doi/10.1121/1.5042056)** Journal of the Acoustical Society of America, 143, 3602.
@@ -109,7 +104,6 @@ eNeuro. ENEURO.0112-18.2018; DOI: https://doi.org/10.1523/ENEURO.0112-18.2018.
 
 * Nogueira, W., Ashida, G. (2018). **[Development of a parametric model of the electrically stimulated auditory nerve.](https://link.springer.com/chapter/10.1007/978-3-319-59548-1_19)** Lecture Notes in Applied and Computational Mechanics,  Springer Verlag, 84: 349-362.
 
-
 ## 2016
 
 * Nogueira, W., Schurzig, D., Büchner, A., Penninger, R. T., Würfel, W. (2016). **[Validation of a Cochlear Implant Patient-Specific Model of the Voltage Distribution in a Clinical Setting.](http://journal.frontiersin.org/article/10.3389/fbioe.2016.00084/full)** Front Bioeng Biotechnol. 2016 Nov 23;4:84.eCollection 2016.
@@ -122,7 +116,6 @@ eNeuro. ENEURO.0112-18.2018; DOI: https://doi.org/10.1523/ENEURO.0112-18.2018.
 
 * C. Thiel, J. Özyurt, W. Nogueira, S. Puschmann. (2016). **[Effects of age on long term memory for degraded speech,](https://www.frontiersin.org/articles/10.3389/fnhum.2016.00473/full). Front. Hum. Neuroscience, 10.
 
-
 ## 2015
 
 * Dyballa KH, Hehrmann P, Hamacher V, Nogueira W, Lenarz T, Büchner A. **[Evaluation of a Transient Noise Reduction Algorithm in Cochlear Implant Users.](http://www.audiologyresearch.org/index.php/audio/article/view/116/174)** Audiol Res. 2015 Jun 11;5(2):116. doi: 10.4081/audiores.2015.116. eCollection 2015 Jun 11.
@@ -130,7 +123,6 @@ eNeuro. ENEURO.0112-18.2018; DOI: https://doi.org/10.1523/ENEURO.0112-18.2018.
 * Penninger RT, Kludt E, Büchner A, Nogueira W. (2015) **[Stimulating on multiple electrodes can improve temporal pitch perception. (http://www.tandfonline.com/doi/full/10.3109/14992027.2014.997313).]** Int J Audiol. 2015 Jun;54(6):376-83. doi: 10.3109/14992027.2014.997313. Epub 2015 Jan 29.
 
 * Nogueira W, Litvak LM, Saoji AA, Büchner A. (2015). **[Design and evaluation of a cochlear implant strategy based on a "Phantom" channel.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120148)** PLoS One. 2015 Mar 25;10(3):e0120148. doi: 10.1371/journal.pone.0120148. eCollection 2015.
-
 
 ## 2011 
 * Nogueira, W., Hoepner, L., Hamacher, H., Lenarz, T., Buechner, A. (2011). **[Use of hearing aid preprocessing techniques with cochlear implant users.] International Journal of Pediatric Otorhinolaryngology, 75, 94. ISSN: 0165-5876 DOI: 10.1016/S0165-5876(11)70482-7, Elsevier Science.
@@ -141,13 +133,11 @@ eNeuro. ENEURO.0112-18.2018; DOI: https://doi.org/10.1523/ENEURO.0112-18.2018.
 ## 2009
 * Nogueira, W., Litvak, L., Edler, B., Ostermann, J., Buechner, A. (2009). **[Signal Processing Strategies based on Current Steering for Cochlear Implants.](https://asp-eurasipjournals.springeropen.com/articles/10.1155/2009/531213) EURASIP Journal on Applied Signal Processing, Special Issue on Hearing Instrumentation, 531213.
 
-
 ## 2007
 * Buechner, A., Nogueira, W., Edler, B., Battmer, R. D. , Lenarz, T. (2007). **[Results from a Psychoacoustic Model-based Strategy for the N-24 and Freedom Cochlear Implants.](https://journ (2007). als.lww.com/otology-neurotology/Fulltext/2008/02000/Results_from_a_Psychoacoustic_Model_Based_Strategy.17.aspx)**
 Otology and Neurotology, 29, 2:189-92.
 
 * Buechner, A., Brendel, M., Krüeger, B., Frohne-Büchner, C., Nogueira, W., Edler, B., Lenarz, T. (2007). **[Current Steering and Results From Novel Speech Coding Strategies.](https://journals.lww.com/otology-neurotology/Fulltext/2008/02000/Current_Steering_and_Results_From_Novel_Speech.20.aspx)** Otol Neurotol., 29, 2:203-207.
-
 
 ## 2005
 * Nogueira, W., Buechner, A., Lenarz, T., Edler, B. (2005). **[A Psychoacoustic "NofM"-type Speech Coding Strategy for Cochlear Implants.](https://asp-eurasipjournals.springeropen.com/articles/10.1155/ASP.2005.3044)** Journal on Applied Signal Processing, Special Issue on DSP in Hearing Aids and Cochlear Implants, 127, 18, 3044-3059.
