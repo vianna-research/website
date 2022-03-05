@@ -23,13 +23,13 @@ auditory neuron survival and outgrowth under clinically relevant electrical stim
 * Hinrichs, R., Gajecki, T., Ostermann, J., Nogueira, W. (2019). **[Coding of Electrical Stimulation Patterns for Binaural Sound Coding Strategies for Cochlear Implants.](https://pubmed.ncbi.nlm.nih.gov/31946788/)** 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). DOI: 10.1109/EMBC.2019.8857271
 
 ## 2018
-* Gajeki, T., Nogueira, W. (2018). **[A Synchronized Binaural N-of-M Sound Coding Strategy for Bilateral Cochlear Implant Users](https://ieeexplore.ieee.org/document/8578042)**
+* Gajeki, T., Nogueira, W. (2018). **[A Synchronized Binaural N-of-M Sound Coding Strategy for Bilateral Cochlear Implant Users.](https://ieeexplore.ieee.org/document/8578042)**
 ITG Speech Communication, Oldenburg, Germany.
 
 ## 2016
 * Nogueira, W., Gajęcki, T., Krüger, B., Janer, J., Büchner, A. (2016). **[Development of a Sound Coding Strategy based on a Deep Recurrent Neural Network for Monaural Source Separation in Cochlear Implants](https://ieeexplore.ieee.org/document/7776166)**. ITG Speech Commungication, Pabeborn, Germany.
 
-* Nogueira, W. **[Sound Scene Classification based on Monaural and Binaural Features](http://dcase.community/documents/challenge2016/technical_reports/DCASE2016_Nogueira_1009.pdf)**. IEEE DCASE 2016 Challenge: Acoustic Scene Classification.
+* Nogueira, W. (2016) **[Sound Scene Classification based on Monaural and Binaural Features](http://dcase.community/documents/challenge2016/technical_reports/DCASE2016_Nogueira_1009.pdf)**. IEEE DCASE 2016 Challenge: Acoustic Scene Classification.
 
 ## 2015
 * Nogueira, W., Lopez, M., Rode, T., Doclo, S., Büchner A. (2015). **[Individualizing a Monaural Beamformer for Cochlear Implant Users](https://www.researchgate.net/publication/297646148_Individualizing_a_monaural_beamformer_for_cochlear_implant_users)**. IEEE ICASSP, Brisbane, Australia.
@@ -47,4 +47,4 @@ ITG Speech Communication, Oldenburg, Germany.
 * Nogueira, W., Giese, A., Edler, B., Buechner, A. (2006). **[Wavelet Packet Filterbank for Speech Processing Strategies in Cochlear Implants](http://www.tnt.uni-hannover.de/papers/data/nogueira-icassp-2006.pdf)**. Int. Conf. on Acoustics, Speech, and Signal Processing, Toulouse, France, May.
 
 ## 2005
-* Nogueira, W., Buechner, A., Edler, B. (2005). **[Fundamental Frequency Coding in NofM Strategies for Cochlear Implants]. 118th AES Convention, p. Preprint 6515, Barcelona, May.
+* Nogueira, W., Buechner, A., Edler, B. (2005). **[Fundamental Frequency Coding in NofM Strategies for Cochlear Implants]()**. 118th AES Convention, p. Preprint 6515, Barcelona, May.
