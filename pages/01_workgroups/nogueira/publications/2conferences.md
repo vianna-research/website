@@ -13,7 +13,7 @@ title: Peer Reviewed Conference Publications
 auditory neuron survival and outgrowth under clinically relevant electrical stimulation using a cochlear implant in an artificial cochlear model.]()**. Biomed. Eng.-Biomed. Tech. 2021; 66(s1): S315–S320. DOI 10.1515/bmt-2021-6049.
 
 ## 2020
-* Nogueira, W., Dolohopiatenko, H. (2020). **[Towards decoding selective attention from single-trial EEG data in cochlear implant users based on Deep Neural Networks.**](https://www.researchgate.net/publication/332009883_Toward_Decoding_Selective_Attention_From_Single-Trial_EEG_Data_in_Cochlear_Implant_Users). 45th International Conference on Acoustics, Speech, and Signal Processing, IEEE ICASSP, Barcelona, May. [Code](https://github.com/APGDHZ/SelectiveAttentionDNN)
+* Nogueira, W., Dolohopiatenko, H. (2020). **[Towards decoding selective attention from single-trial EEG data in cochlear implant users based on Deep Neural Networks.](https://www.researchgate.net/publication/332009883_Toward_Decoding_Selective_Attention_From_Single-Trial_EEG_Data_in_Cochlear_Implant_Users)**. 45th International Conference on Acoustics, Speech, and Signal Processing, IEEE ICASSP, Barcelona, May. [Code](https://github.com/APGDHZ/SelectiveAttentionDNN)
 
 ## 2019
 * Nogueira, W. (2019). **[Evaluation of New Compositions in Live Concerts by Cochlear Implant Users and Normal Hearing Listeners**](https://cmmr2019.prism.cnrs.fr/Docs/Proceedings_CMMR2019.pdf). 14th International Symposium on Computer Music Multidisciplinary Research (CMMR), Marseille, October, 2019.
