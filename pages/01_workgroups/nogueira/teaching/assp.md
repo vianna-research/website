@@ -1,7 +1,5 @@
-title: Audio and Speech Signal Processing (ASSP)
+title: Audio and Speech Signal Processing
 ---
-
-## Audio and Speech Signal Processing
 
 In this Lecture the students will develop a methodology to analyze code, recognize and synthesize audio signals using signal processing techniques. More concrete the student should acquire the theoretical and practical competences related to:
 
