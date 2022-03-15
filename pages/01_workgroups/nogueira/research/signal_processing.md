@@ -13,8 +13,7 @@ stimulation of the auditory nerve. Although nowadays speech intelligibility in q
 
 ## Music Source Separation Using Deep Neural Networks:
 
-Music samples of the Real-time Music Source Separation experiment. 
-In this experiment a multilayer perceptron has been used to separate the singing voice from the instrumental accompaniment to remix the music track. It has been shown that CI users enjoy music more, when the singing voice is enhanced with respect to the background instruments. Our results indicate that CI users enjoy music more when the singing voice is 8 dB enhanced with respect to the background accompaniment.
+<> Music samples of the Real-time Music Source Separation experiment. In this experiment a multilayer perceptron has been used to separate the singing voice from the instrumental accompaniment to remix the music track. It has been shown that CI users enjoy music more, when the singing voice is enhanced with respect to the background instruments. Our results indicate that CI users enjoy music more when the singing voice is 8 dB enhanced with respect to the background accompaniment.<> 
 
 ---
 ### Team Members
