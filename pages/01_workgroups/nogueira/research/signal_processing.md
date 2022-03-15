@@ -4,8 +4,7 @@ title: Signal Processing for Cochlear Implants
 ![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](binom2.png){.img-rounded; .float:center}
 
 
-## Binaural Signal Processing for Cochlear Implants
-
+## Binaural Signal Processing
 <!---![binomlogo_1](binomlogo_1.png){style="width:150px; float:right; margin-left:3em"} -->
 
 * Binaural signal processing strategies to imporve speech intelligbility in noise and sound source localization
@@ -15,7 +14,7 @@ title: Signal Processing for Cochlear Implants
 * Binaural speech processing based on deep learning models
 
 
-## Deep Learning for Cochlear Implants
+## Deep Learning
 
 <!---![binomlogo_1](music.png){style="width:150px; float:right; margin-left:3em"}-->
 
