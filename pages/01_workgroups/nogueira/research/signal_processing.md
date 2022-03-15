@@ -4,7 +4,7 @@ title: Signal Processing for Cochlear Implants
 ![Abstract logo of a head with two CIs on each side and symbolic digital signals exchanged between each side](binom2.png){.img-rounded; .float:center}
 
 
-## Binaural Signal Processing in Cochlear Implants
+## Binaural Signal Processing for Cochlear Implants
 
 <!---![binomlogo_1](binomlogo_1.png){style="width:150px; float:right; margin-left:3em"} -->
 
@@ -15,12 +15,13 @@ title: Signal Processing for Cochlear Implants
 * Binaural speech processing based on deep learning models
 
 
-## Music Source Separation based on Deep Neural Networks for Cochlear Implants
+## Deep Learning for Cochlear Implants
 
 <!---![binomlogo_1](music.png){style="width:150px; float:right; margin-left:3em"}-->
 
 * Automatic singing voice enhancement based on deep neural networks
 * End-to-end real time music processing to improve music perception
+* End-to-end cochlear implant speech coding and denoising
 * Clasical music remixing using multi-head neural networks
 * Brain-informed music source separation
 
