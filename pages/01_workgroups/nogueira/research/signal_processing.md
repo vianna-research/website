@@ -15,6 +15,8 @@ title: Signal Processing for Cochlear Implants
 
 ## Music Source Separation based on Deep Neural Networks for Cochlear Implant listeners:
 
+![binomlogo_1](music.png){style="width:150px; float:right; margin-left:3em"}
+
 * Automatic singing voice enhancement based on deep neural networks
 * End-to-end real time music processing to improve music perception
 * Clasical music remixing using multi-head neural networks
