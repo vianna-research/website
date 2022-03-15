@@ -7,7 +7,7 @@ title: Signal Processing for Cochlear Implants
 ## Binaural Signal Processing
 <!---![binomlogo_1](binomlogo_1.png){style="width:150px; float:right; margin-left:3em"} -->
 
-* Binaural signal processing strategies to imporve speech intelligbility in noise and sound source localization
+* Binaural signal processing strategies to improve speech intelligbility and sound localization
 * Coding of electrical stimulation patterns for bilateral wireless comunication
 * Investigation of the effect bilaterally synchronized electrical stimulation
 * Enhancement of interaural cues to improve spatial hearing
