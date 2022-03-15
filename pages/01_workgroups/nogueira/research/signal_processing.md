@@ -20,7 +20,7 @@ title: Signal Processing for Cochlear Implants
 
 * Automatic singing voice enhancement based on deep neural networks
 * End-to-end real time music processing to improve music perception
-* End-to-end cochlear implant speech coding and denoising
+* End-to-end cochlear implant speech coding and denoising strategies
 * Clasical music remixing using multi-head neural networks
 * Brain-informed music source separation
 
