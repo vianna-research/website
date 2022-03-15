@@ -13,7 +13,7 @@ title: Signal Processing for Cochlear Implants
 * Enhancement of interaural cues to improve spatial hearing
 * Binaural speech processing based on deep learning models
 
-## Music Source Separation based on Deep Neural Networks for Cochlear Implant listeners:
+## Music Source Separation based on Deep Neural Networks for Cochlear Implants
 
 ![binomlogo_1](music.png){style="width:150px; float:right; margin-left:3em"}
 
