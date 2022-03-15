@@ -6,7 +6,7 @@ title: Signal Processing for Cochlear Implants
 
 ## Coding of Electrical Stimulation Patterns for Binaural Signal Processing in Cochlear Implants
 
-![binomlogo_1](binomlogo_1.png){style="width:150px; float:right; margin-left:3em"}
+<!---![binomlogo_1](binomlogo_1.png){style="width:150px; float:right; margin-left:3em"} -->
 
 * Binaural signal processing strategies to imporve speech intelligbility in noise and sound source localization
 * Investigation of the effect bilaterally synchronized electrical stimulation
@@ -15,7 +15,7 @@ title: Signal Processing for Cochlear Implants
 
 ## Music Source Separation based on Deep Neural Networks for Cochlear Implants
 
-![binomlogo_1](music.png){style="width:150px; float:right; margin-left:3em"}
+<!---![binomlogo_1](music.png){style="width:150px; float:right; margin-left:3em"}-->
 
 * Automatic singing voice enhancement based on deep neural networks
 * End-to-end real time music processing to improve music perception
