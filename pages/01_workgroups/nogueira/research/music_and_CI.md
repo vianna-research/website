@@ -30,8 +30,12 @@ Below is a demo of the music tracks used in this experiment.
 
 ---
 
-# MusIC4u 
-Coming soon...
+# Music4u 
+
+* Difficult to enjoy complex music as i.e. classical pieces.
+* Investigating, which musical component (i.e. melody) in instrumental classical music CI-users want to enhance.
+* Testing, if selective attention decoding is possible for CI-users.
+* Feeding EEG-data into neural networks to enhance source separation of attended sound source. 
 
 ---
 
