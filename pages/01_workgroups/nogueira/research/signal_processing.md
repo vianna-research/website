@@ -16,7 +16,7 @@ title: Signal Processing for Cochlear Implants
 <!---![block diagram](BinProc.png){style="width:700px;  margin-left:3em; .float:center"} -->
 
 <p align="center">
-  <img width="700" src="BinProc.png">
+  <img width="700" src="BinProc.png" style="border-radius:10%">
 </p>
 
 
@@ -33,7 +33,7 @@ title: Signal Processing for Cochlear Implants
 <!---![deep block diagram](ace_nn.png){style="width:500px;  margin-left:3em; .float:center"}-->
 
 <p align="center">
-  <img width="700" src="ace_nn.png">
+  <img width="700" src="ace_nn.png" style="border-radius:10%">
 </p>
 
 
