@@ -33,7 +33,7 @@ title: Signal Processing for Cochlear Implants
 <!---![deep block diagram](ace_nn.png){style="width:500px;  margin-left:3em; .float:center"}-->
 
 <p align="center">
-  <img width="700" src="ace_nn.png" style="border-radius:10%">
+  <img width="500" src="ace_nn.png" style="border-radius:10%">
 </p>
 
 
