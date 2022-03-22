@@ -13,7 +13,7 @@ title: Signal Processing for Cochlear Implants
 * Enhancement of interaural cues to improve spatial hearing
 * Binaural speech processing based on deep learning models
 
-![block diagram](BinProc.png){style="width:500px;  margin-left:3em; .float:center"}
+![block diagram](BinProc.png){style="width:700px;  margin-left:3em; .float:center"}
 
 
 ## Deep Learning
@@ -26,11 +26,12 @@ title: Signal Processing for Cochlear Implants
 * Clasical music remixing using multi-head neural networks
 * Brain-informed music source separation
 
+![deep block diagram](BinProc.png){style="width:700px;  margin-left:3em; .float:center"}
+
 ---
 ### Team Members
 * **[Tom Gajecki](https://vianna.uber.space/01_workgroups/nogueira/staff/tom.html)**
 * **[Sina Tahmasebi](https://vianna.uber.space/01_workgroups/nogueira/staff/sina.html)**
-
 ---
 
 ### Publications:
