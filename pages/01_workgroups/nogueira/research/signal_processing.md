@@ -30,7 +30,12 @@ title: Signal Processing for Cochlear Implants
 * Clasical music remixing using multi-head neural networks
 * Brain-informed music source separation
 
-![deep block diagram](ace_nn.png){style="width:500px;  margin-left:3em; .float:center"}
+<!---![deep block diagram](ace_nn.png){style="width:500px;  margin-left:3em; .float:center"}-->
+
+<p align="center">
+  <img width="700" src="ace_nn.png">
+</p>
+
 
 ---
 ### Team Members
