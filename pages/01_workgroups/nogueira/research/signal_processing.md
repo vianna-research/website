@@ -13,7 +13,11 @@ title: Signal Processing for Cochlear Implants
 * Enhancement of interaural cues to improve spatial hearing
 * Binaural speech processing based on deep learning models
 
-![block diagram](BinProc.png){style="width:700px;  margin-left:3em; .float:center"}
+<!---![block diagram](BinProc.png){style="width:700px;  margin-left:3em; .float:center"} -->
+
+<p align="center">
+  <img width="700" src="BinProc.png">
+</p>
 
 
 ## Deep Learning
