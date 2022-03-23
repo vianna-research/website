@@ -28,7 +28,7 @@ title: Signal Processing for Cochlear Implants
 * Brain-informed music source separation
 
 <p align="center">
-  <img width="500" src="ace_nn.png">
+  <img width="550" src="ace_nn.png">
 </p>
 
 
