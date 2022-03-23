@@ -15,7 +15,7 @@ title: Signal Processing for Cochlear Implants
 * Binaural speech processing based on deep learning models
 
 <p align="center">
-  <img width="600" src="BinProc.png">
+  <img src="BinProc.png">
 </p>
 
 
