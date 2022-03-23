@@ -2,7 +2,7 @@ title: Signal Processing for Cochlear Implants
 
 
 <p align="center">
-  <img width="100" src="binom2.png" style="display: block; margin: 0 auto" >
+  <img width="200" src="binom2.png" style="display: block; margin: 0 auto" >
 </p>
 
 
@@ -15,7 +15,7 @@ title: Signal Processing for Cochlear Implants
 * Binaural speech processing based on deep learning models
 
 <p align="center">
-  <img width="700" src="BinProc.png" background-color=#D7D7D7 border = 100px>
+  <img width="700" src="BinProc.png" style="display: block; margin: 0 auto" >
 </p>
 
 
@@ -28,7 +28,7 @@ title: Signal Processing for Cochlear Implants
 * Brain-informed music source separation
 
 <p align="center">
-  <img width="500" src="ace_nn.png">
+  <img width="500" src="ace_nn.png" style="display: block; margin: 0 auto" >
 </p>
 
 
