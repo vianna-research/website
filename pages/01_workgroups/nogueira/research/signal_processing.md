@@ -5,7 +5,6 @@ title: Signal Processing for Cochlear Implants
 
 
 ## Binaural Signal Processing
-<!---![binomlogo_1](binomlogo_1.png){style="width:150px; float:right; margin-left:3em"} -->
 
 * Binaural signal processing strategies to improve speech intelligbility and sound localization
 * Coding of electrical stimulation patterns for bilateral wireless comunication
@@ -13,16 +12,12 @@ title: Signal Processing for Cochlear Implants
 * Enhancement of interaural cues to improve spatial hearing
 * Binaural speech processing based on deep learning models
 
-<!---![block diagram](BinProc.png){style="width:700px;  margin-left:3em; .float:center"} -->
-
 <p align="center">
-  <img width="700" src="BinProc.png" style="border-radius:5%">
+  <img width="700" src="BinProc.png">
 </p>
 
 
 ## Deep Learning
-
-<!---![binomlogo_1](music.png){style="width:150px; float:right; margin-left:3em"}-->
 
 * Automatic singing voice enhancement based on deep neural networks
 * Real time music processing to improve music perception
@@ -30,10 +25,8 @@ title: Signal Processing for Cochlear Implants
 * Clasical music remixing using multi-head neural networks
 * Brain-informed music source separation
 
-<!---![deep block diagram](ace_nn.png){style="width:500px;  margin-left:3em; .float:center"}-->
-
 <p align="center">
-  <img width="500" src="ace_nn.png" style="border-radius:90%">
+  <img width="500" src="ace_nn.png">
 </p>
 
 
