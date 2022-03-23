@@ -2,7 +2,7 @@ title: Signal Processing for Cochlear Implants
 
 
 <p align="center">
-  <img width="100" src="binom2.png">
+  <img width="100" src="binom2.png" style="display: block; margin: 0 auto" >
 </p>
 
 
