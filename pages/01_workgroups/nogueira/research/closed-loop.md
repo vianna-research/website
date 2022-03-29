@@ -14,6 +14,7 @@ Our EEG systems:
 * High-desity scalp EEG
 * cEEGrid
 * Invasive EEG
+
 --> Future application: Neuro-steered cochlear implants (CIs)
 
 
