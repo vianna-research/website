@@ -15,7 +15,7 @@ Our EEG systems:
 * cEEGrid
 * Invasive EEG
 
---> Future application: Neuro-steered cochlear implants (CIs)
+Future application: Neuro-steered cochlear implants (CIs)
 
 
 # Objective Measures of Speech Perception
