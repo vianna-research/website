@@ -11,6 +11,7 @@ Thanks for your interest in our models of the uncoiled human scala tympani as de
 
 
 | ![](01_workgroups/cas/methods/cochlearmodelling/Schurzig2021bFig2.jpg)  | ![](01_workgroups/cas/methods/cochlearmodelling/Schurzig2021bFig4.jpg)  |
+| -- | -- |
 | Figure 2 | Figure 4 |
 
 
