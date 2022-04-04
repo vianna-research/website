@@ -2,7 +2,7 @@ title: Jonas Althoff
 <!--- publications_src:sina.bib --->
 
 
-![Jonas Althoff](jonas.jpg)
+![Jonas Althoff](jonas.jpg =250x)
 
 
 Research employee	
