@@ -1,4 +1,4 @@
-title: Cochlear Modelling
+title: Cochlea Modelling
 
 - - - 
 
