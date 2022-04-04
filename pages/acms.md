@@ -10,7 +10,7 @@ Thanks for your interest in our models of the uncoiled human scala tympani as de
 |    |    |
 | -- | -- |
 | ![](01_workgroups/cas/methods/cochlearmodelling/Schurzig2021bFig2.jpg)  | ![](01_workgroups/cas/methods/cochlearmodelling/Schurzig2021bFig4.jpg)  |
-| Figure 2: CAD (computer-aided design) model generation in SolidWorks: (A) spiral models were generated with the loft feature using cross-sectional information in 22.5° steps, whereas (B) straight models uncoiled along a specific trajectory (solid black line) were created based on cross-sectional information in 1 mm intervals along this trajectory. | Figure 4: (A) visualization of insertion (in red) and OC (in blue) paths inside the ST, (B) the length of these paths along the cochlear spiral including an exemplary visualization of three cochlear sections. (C) Visualization of these cochlear sections in the CAD model and (D) a depiction of all sectional volumes along the insertion and OC paths. |
+| <font size = "1"> Figure 2: CAD (computer-aided design) model generation in SolidWorks: (A) spiral models were generated with the loft feature using cross-sectional information in 22.5° steps, whereas (B) straight models uncoiled along a specific trajectory (solid black line) were created based on cross-sectional information in 1 mm intervals along this trajectory. </font> | Figure 4: (A) visualization of insertion (in red) and OC (in blue) paths inside the ST, (B) the length of these paths along the cochlear spiral including an exemplary visualization of three cochlear sections. (C) Visualization of these cochlear sections in the CAD model and (D) a depiction of all sectional volumes along the insertion and OC paths. |
 
 
 
