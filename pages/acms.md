@@ -7,5 +7,5 @@ This will be the landing page for the uncoiled cochlea model as described in Sch
 [Link to i-path model](01_workgroups/cas/methods/cochlearmodelling/uncoiled_st_ipath.zip)
 
 
-[Link to oc-path model](pages/01_workgroups/cas/methods/cochlearmodelling/uncoiled_st_ocpath.zip)
+[Link to oc-path model](01_workgroups/cas/methods/cochlearmodelling/uncoiled_st_ocpath.zip)
 
