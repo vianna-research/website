@@ -2,7 +2,7 @@ title: Jonas Althoff
 <!--- publications_src:sina.bib --->
 
 
-![Jonas Althoff](jonas.jpg =250x100)
+![Jonas Althoff](jonas.jpg)
 
 
 Research employee	
@@ -18,7 +18,9 @@ Research employee
 ---
 
 ### Funding
-Coming soon...
+Deutsche Forschungsgemeinschaft (DFG), Project number 446611346:
+"Music4u: Personalisierte objektive Deep-Learning-Modelle zur Verbesserung der Musikwahrnehmung von Cochlea-Implantat-Trägern"
+(Music4u: Personalised Objective Deep Learning Modells for an Improvement of Music Perception of Cochlear-Implant Users)
 
 ---
 
