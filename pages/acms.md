@@ -1,7 +1,7 @@
 title: Artificial Cochlea Models
 status: hidden
 
-Hello Visitor,
+Dear Visitors,
 
 Thanks for your interest in our models of the uncoiled human scala tympani as desribed in Schurzig _et al._ 2021[^1]. Please find below links to ZIP-files containing the two models (as STEP-files) mentioned in the paper. 
 
