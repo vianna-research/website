@@ -3,13 +3,16 @@ status: hidden
 
 Hello Visitor,
 
-Thanks for your interest in our models of the uncoiled human scala tympani as desribed in Schurzig _et al._ 2021[^fußnote]. Please find below the two models mentioned in the paper. 
-
+Thanks for your interest in our models of the uncoiled human scala tympani as desribed in Schurzig _et al._ 2021[^fußnote]. Please find below links ZIP-files containing the two models (as STEP-files) mentioned in the paper. 
 
 [Link to i-path model](01_workgroups/cas/methods/cochlearmodelling/uncoiled_st_ipath.zip)
 
-
 [Link to oc-path model](01_workgroups/cas/methods/cochlearmodelling/uncoiled_st_ocpath.zip)
+
+
+| ![](01_workgroups/cas/methods/cochlearmodelling/Schurzig2021bFig2.jpg)  | ![](01_workgroups/cas/methods/cochlearmodelling/Schurzig2021bFig4.jpg)  |
+| Figure 2 | Figure 4 |
+
 
 
 [^fußnote]: Schurzig D, Fröhlich M, Raggl S, Scheper V, Lenarz T, Rau TS (2021): Uncoiling the Human Cochlea—Physical Scala Tympani
