@@ -11,6 +11,7 @@ title: Closed-Loop Cochlear Implant
 ![selective attention](dsaci_logo_m.png){style="width:150px; float:right; margin-left:3em"}
 
 Our EEG systems: 
+
 * High-desity scalp EEG
 * cEEGrid
 * Invasive EEG
