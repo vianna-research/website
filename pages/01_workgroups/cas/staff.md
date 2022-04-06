@@ -5,7 +5,7 @@ title:Staff
 - - - 
 
 
-| Members |||
+|  | Members of the Group ||
 |:--|:-------------------------------------------------|:--------------------------------------|
 |      | ***Research Team*** ||
 |![Portrait](staff/Portrait_ThomasR.jpg){style="width:68px"} | Dr.-Ing. Thomas S. Rau <br> Head of Research Group <br>         | rau.thomas@mh-hannover.de <br> +49(0)511/532-3025  |
@@ -32,7 +32,7 @@ title:Staff
 |![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctorate Thesis |
 
 
-| Former Staff |||
+| | Former Staff  ||
 |:--|:------------------|:--------------------------------------|               				
 |                               | Dipl.-Ing. (FH) Franziska Eckhardt     |  |
 |![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | now: [Bertrandt AG](https://www.bertrandt.com/) |
@@ -46,7 +46,7 @@ title:Staff
 |![Portrait](staff/maxt.png)    | Max Eike Timm  <br> ENT Resident        | ENT Department at MHH |
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | now: [Implandata Ophthalmic Products GmbH (Hannover)](http://www.implandata.com) |
 
-| Alumni |||
+|  | Alumni (Students) ||
 |:--|:------------------|:--------------------------------------|
 |![Portrait](staff/Portrait_CarolinB.jpg){style="width:68px"} | Carolin Betram              | Master Thesis (2021): _Experimental evaluation of trajectory-dependent insertion force variations in cochlear implants._ |
 |![Portrait](staff/tobias.png) 	                               | Tobias Blum 								| Student Research Assistant <br> & Bachelor Thesis (2018): _Development and experimental evaluation of a drilling depth control for the RoboJig system._ <br> & Student Research Project (2020): _Investigation of the benefit of a digital display for the strut length setting of a manually operated hexapod._ |
