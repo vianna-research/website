@@ -19,12 +19,13 @@ title:Staff
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
 |![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD <br>	Otolaryngology-Head and Neck Surgeon 		| zunigamanrique.maria@mh-hannover.de	  |
 | ***Students*** |||  
-|![Portrait](staff/Portrait_CarolinB.jpg){style="width:68px"} | Carolin Betram              | Master Thesis  |
 |![Portrait](staff/lena.jpg){style="width:68px"}              | Lena Geiger								  | Medical Doctorate Thesis  |
 |![Portrait](staff/empty.jpg)  	                              | Marie Heise                 | Student Assistant |
-|![Portrait](staff/empty.jpg)  	                              | Vera Lange                  | Student Assistant |
+|![Portrait](staff/Portrait_VeraL.jpg){style="width:68px"}    | Vera Lange                  | Student Research Assistant |
 |![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctorate Thesis |
 |![Portrait](staff/empty.jpg)                                 | Mohamed Fourat Nabli        | Master Thesis |
+|![Portrait](staff/Portrait_MartinS.jpg){style="width:68px"}  | Martin Steven               | Student Research Assistant |
+|![Portrait](staff/empty.jpg)                                 | Dennis Tepfer               | Bachelor Thesis
 |![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctorate Thesis |
 
 
@@ -44,6 +45,7 @@ title:Staff
 
 | Alumni |||
 |:--|:------------------|:--------------------------------------|
+|![Portrait](staff/Portrait_CarolinB.jpg){style="width:68px"} | Carolin Betram              | Master Thesis (2021): _Experimental evaluation of trajectory-dependent insertion force variations in cochlear implants_ |
 |![Portrait](staff/tobias.png) 	  | Tobias Blum 								| Student Assistant <br> & Bachelor Thesis (2018): _Development and experimental evaluation of a drilling depth control for the RoboJig system._ <br> & Student Research Projekt (2020): _Investigation of the benefit of a digital display for the strut length setting of a manually operated hexapod._ |
 |![Portrait](staff/Portrait_LeonB.jpg){style="width:68px"}  | Leon Budde                  | Master Thesis (2020): _Development of a handheld, force-sensing insertion tool with integrated positioning sensor._|
 |![Portrait](staff/Portrait_ThorbenE.jpg){style="width:68px"} | Thorben Engel               | Master Thesis (2020): _Development of minimally invasive, micro-stereotactic strategy for implantation of active middle ear implants._ |
