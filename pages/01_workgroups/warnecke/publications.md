@@ -1,7 +1,18 @@
 title: Publications
 
-## 2021
 
+## 2022
+* Van Dieken A., Staecker H., Schmitt H., Harre J., Pich A., Roßberg W., Lenarz T., Durisin M., Warnecke A. **[Bioinformatic Analysis of the Perilymph Proteome to Generate a Human Protein Atlas](https://www.frontiersin.org/articles/10.3389/fcell.2022.847157/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Cell_and_Developmental_Biology&id=847157)** Front. Cell Dev. Biol., 28 April 2022. Doi: 10.3389/fcell.2022.847157
+
+* Pietsch M, Schurzig D, Salcher R, Warnecke A, Erfurt P, Lenarz T, Kral A. **[Variations in microanatomy of the human modiolus require individualized cochlear implantation.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8943032/)** Sci Rep. 2022 Mar 23;12(1):5047. doi: 10.1038/s41598-022-08731-x
+
+* Durisin M, Krüger C, Pich A, Warnecke A, Steffens M, Zeilinger C, Lenarz T, Prenzler N, Schmitt H. **[Proteome profile of patients with excellent and poor speech intelligibility after cochlear implantation: Can perilymph proteins predict performance?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263765)** PLoS One. 2022 Mar 3;17(3):e0263765. doi: 10.1371/journal.pone.0263765. eCollection 2022.
+
+* Schulze J, Staecker H, Wedekind D, Lenarz T, Warnecke A. **[Expression pattern of brain-derived neurotrophic factor and its associated receptors: Implications for exogenous neurotrophin application.](https://www.sciencedirect.com/science/article/pii/S0378595520303695?via%3Dihub)** Hear Res. 2022 Jan;413:108098. doi: 10.1016/j.heares.2020.108098. Epub 2020 Oct 21
+
+* Wille I, Harre J, Oehmichen S, Lindemann M, Menzel H, Ehlert N, Lenarz T, Warnecke A, Behrens P. **[Development of Neuronal Guidance Fibers for Stimulating Electrodes: Basic Construction and Delivery of a Growth Factor.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8819688/)** Front Bioeng Biotechnol. 2022 Jan 24;10:776890. doi: 10.3389/fbioe.2022.776890. eCollection 2022
+
+## 2021
 * Warnecke A., Prenzler N., Harre J., Köhl U., Gärtner L., Lenarz T., Laner-Plamberger S., Wietzorrek G., Staecker H., Lassacher T., Hollerweger J., Gimona M., Rohde E. **[First-in-human intracochlear application of 1 extracellular vesicle-enriched secretome from umbilical cord mesenchymal stromal cells in a patient with Menière’s disease during cochlear implantation.](https://onlinelibrary.wiley.com/doi/10.1002/jev2.12094)** J Extracell Vesicles. 2021 Jun 04; 10:e12094. doi: 10.1002/jev2.12094.
 
 * Shew M, Wichova H, Warnecke A, Lenarz T, Staecker H. **[Evaluating Neurotrophin Signaling Using MicroRNA Perilymph Profiling in Cochlear Implant Patients With and Without Residual Hearing.](https://journals.lww.com/otology-neurotology/Abstract/9000/Evaluating_Neurotrophin_Signaling_Using_MicroRNA.95672.aspx)** Otol Neurotol. 2021 May 10. doi: 10.1097/MAO.0000000000003182.
@@ -11,12 +22,9 @@ title: Publications
 * McLean WJ, Hinton AS, Herby JTJ, Salt AN, Hartsock JJ, Wilson S, Lucchino DL, Lenarz T, Warnecke A, Prenzler N, Schmitt H, King S, Jackson LE, Rosenbloom J, Atiee G, Bear M, Runge CL, Gifford RH, Rauch SD, Lee DJ, Langer R, Karp JM, Loose C, LeBel C. **[Improved speech intelligibility in subjects with stable sensorineural hearing loss following intratympanic dosing of FX-322 in a Phase 1b study.](https://journals.lww.com/otology-neurotology/Abstract/9000/Improved_Speech_Intelligibility_in_Subjects_With.95768.aspx)** Otol Neurotol. 2021 Feb 22. doi: 10.1097/MAO.0000000000003120. Online ahead of print.
 
 ## 2020
-
 * Warnecke A, Harre J, Staecker H, Prenzler N, Strunk D, Couillard-Despres S, Romanelli P, Hollerweger J, Lassacher T, Auer D, Pachler K, Wietzorrek G, Köhl U, Lenarz T, Schallmoser K, Laner-Plamberger S, Falk CS, Rohde E, Gimona M. **[Extracellular vesicles from human multipotent stromal cells protect against hearing loss after noise trauma in vivo.](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.262)** Clin Transl Med. 2020 Dec;10(8):e262. doi: 10.1002/ctm2.262.
 
 * Espersen J, Weber U, Römer-Franz A, Lenarz T, Stolle SRO, Warnecke A. **[Level of sex hormones and their association with acetylsalicylic acid intolerance and nasal polyposis.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243732)** PLoS One. 2020 Dec 17;15(12):e0243732. doi: 10.1371/journal.pone.0243732. 
-
-* Schulze J, Staecker H, Wedekind D, Lenarz T, Warnecke A. **[Expression pattern of brain-derived neurotrophic factor and its associated receptors: Implications for exogenous neurotrophin application.](https://www.sciencedirect.com/science/article/pii/S0378595520303695?via%3Dihub)** Hear Res 2020. doi:10.1016/j.heares.2020.108098
 
 * Salcher R, Boruchov A, Timm M, Steffens M, Giesemann A, Lenarz T, Warnecke A. **[On the Intracochlear Location of Straight Electrode Arrays After Cochlear Implantation: How Lateral Are Lateral Wall Electrodes?](https://journals.lww.com/otology-neurotology/Fulltext/2021/02000/On_the_Intracochlear_Location_of_Straight.8.aspx)** Otol Neurotol. 2020 Sep 22. doi:  10.1097/MAO.0000000000002880
 
