@@ -1,5 +1,9 @@
 title: Publications
 
+## 2022
+* Schwieger J, Frisch A, Rau TS, Lenarz T, Hügl S, **Scheper V**. [3D Printed Cell Culture Chamber for Testing the Effect of Pump-Based Chronic Drug Delivery on Inner Ear Tissue](https://doi.org/10.3390/biom12040589) Biomolecules, April 2022
+
+
 ## 2021
 * Gao Z, Schwieger J, Matin-Mann F, Behrens P, Lenarz T, **Scheper V**. [Dexamethasone for Inner Ear Therapy: Biocompatibility and Bio-Efficacy of Different Dexamethasone Formulations In Vitro](https://www.mdpi.com/2218-273X/11/12/1896/htm) Biomolecules, December 2021
 
