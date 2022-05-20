@@ -34,7 +34,7 @@ title: Staff
 
 | Former Staff                  |                                               |                                     |
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
-|![Portrait](staff/caroline.jpg)| [Caroline Valim]	     |       |                              
+|![Portrait](staff/caroline.jpg)| Caroline Valim	     |       |                              
 |![Portrait](staff/Langner.jpg)	| Florian Langner        | 	                    |
 |![Portrait](staff/Imsiecke.jpg)| Marina Imsiecke 			 | 	                  |
 
