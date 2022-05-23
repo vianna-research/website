@@ -33,7 +33,6 @@ We are developing methods to investigate speech perception of CI users objective
 
 * **[Hanna Dolhopiatenko](https://vianna.uber.space/01_workgroups/nogueira/staff/hanna.html)**
 * **[Nina Aldag](https://vianna.uber.space/01_workgroups/nogueira/staff/nina.html)**
-* **[Caroline Valim](https://vianna.uber.space/01_workgroups/nogueira/staff/caroline.html)**
 
 ---
    
