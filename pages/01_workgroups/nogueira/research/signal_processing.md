@@ -40,7 +40,7 @@ title: Signal Processing for Cochlear Implants
 
 ### Publications:
 
-- T. Gajecki, W. Nogueira. [An End-to-End Deep Learning Speech Coding and Denoising Strategy for Cochlear Implants](https://www.biorxiv.org/content/10.1101/2021.11.04.467324v9.full.pdf). International Conference on Acoustics, Speech, & Signal Processing (ICASSP), 2022.
+- T. Gajecki, W. Nogueira. [An End-to-End Deep Learning Speech Coding and Denoising Strategy for Cochlear Implants](https://www.biorxiv.org/content/10.1101/2021.11.04.467324v10.full.pdf). International Conference on Acoustics, Speech, & Signal Processing (ICASSP), 2022.
 
 - T. Gajecki, W. Nogueira. [Enhancement of Interaural Level Differences for Bilateral Cochlear Implant Users](https://www.sciencedirect.com/science/article/pii/S0378595521001477). Hearing Research, 2021.
 
