@@ -7,7 +7,7 @@ title: Electric Acoustic Stimulation
 * The effect of ES on acoustic hearing if electric and acoustic stimuli are presented simultaneously.
 * The effect of AS on electric hearing if electric and acoustic stimuli are presented simultaneously.
 
-![Schematic drawing of an CI electrode array and some nearby hair cells.](logo-eas-masking-orig_orig.png)
+![Schematic drawing of an CI electrode array and some nearby hair cells.](PsychoacousticsinEASusers.png)
 
 # Electrophysiological measurements in EAS users
 * Electrophysiological measurements are used to examine electric-acoustic interaction in EAS users.
