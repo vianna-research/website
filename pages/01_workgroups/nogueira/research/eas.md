@@ -49,7 +49,7 @@ EAS:       electric-acoustic stimulation
 
 * **[A computational model of a single auditory nerve fiber for electric-acoustic stimulation]()** 
  D. Kipping, W. Nogueira (Under Review). Submitted to the Journal of the Association for Research in Otolaryngology (JARO) in 9/2021.
-*B. Krüger, A. Büchner, and W. Nogueira, **[Phantom stimulation for cochlear implant users with residual low-frequency hearing,](https://journals.lww.com/ear-hearing/Fulltext/2022/03000/Phantom_Stimulation_for_Cochlear_Implant_Users.34.aspx)** Ear Hear., 2021
+* B. Krüger, A. Büchner, and W. Nogueira, **[Phantom stimulation for cochlear implant users with residual low-frequency hearing,](https://journals.lww.com/ear-hearing/Fulltext/2022/03000/Phantom_Stimulation_for_Cochlear_Implant_Users.34.aspx)** Ear Hear., 2021
 * B. Krüger, A. Büchner, T. Lenarz, and W. Nogueira, **[Electric-acoustic interaction measurements in cochlear-implant users with ipsilateral residual hearing using electrocochleography,](https://asa.scitation.org/doi/10.1121/10.0000577)** J. Acoust. Soc. Am., vol. 147, p. 350, 2020
 * B. Krüger, A. Büchner, T. Lenarz, and W. Nogueira, **[Amplitude growth of intracochlear electrocochleography in cochlear implant users with residual hearing,](https://asa.scitation.org/doi/10.1121/10.0000744)** J. Acoust. Soc. Am., vol. 147, no. 2, pp. 1147–1162, 2020
 * D. Kipping, B. Krüger, W. Nogueira (2020), **[The role of electroneural versus electrophonic stimulation on psychoacoustic electric-acoustic masking in cochlear implant users with residual hearing](https://www.sciencedirect.com/science/article/pii/S0378595520303075?via%3Dihub)**.  Hearing Research 395, 108036. 
