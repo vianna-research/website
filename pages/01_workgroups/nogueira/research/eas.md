@@ -26,7 +26,7 @@ title: Electric Acoustic Stimulation
 
 ![Schematic drawing of a cochlear modell.](eas.jpg)
 
-# Binaural fusion of electric-acoustic stimulation 
+# Binaural fusion of EAS 
 * Investigation of central electic acoustic interaction through speech understanding performance and cortical EEG measurements;
 * Investigataion of peripheral electric acoustic interaction through electric-acoustic pitch matching and measurment of auditory brainstem responses; 
 * Optimization of the CI fitting  using the measurements of central and peripheral electric acoustic interaction. 
