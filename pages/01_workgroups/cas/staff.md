@@ -23,12 +23,13 @@ title:Staff
 |![Portrait](staff/lena.jpg){style="width:68px"}              | Lena Geiger								  | Medical Doctorate Thesis  |
 |![Portrait](staff/empty.jpg)                                 | Patrik Haas                 | Student Research Assistant |
 |![Portrait](staff/empty.jpg)  	                              | Marie Heise                 | Student Assistant |
-|![Portrait](staff/empty.jpg)  	                              | Niklas Ihmann               | Bachelor Thesis |
+|![Portrait](staff/Portrait_NiklasI.jpg){style="width:68px"}  | Niklas Ihmann               | Bachelor Thesis |
 |![Portrait](staff/Portrait_VeraL.jpg){style="width:68px"}    | Vera Lange                  | Student Research Assistant |
 |![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctorate Thesis |
-|![Portrait](staff/empty.jpg)                                 | Mohamed Fourat Nabli        | Master Thesis |
+|![Portrait](staff/Portrait_MohamedN.jpg){style="width:68px"} | Mohamed Fourat Nabli        | Master Thesis |
 |![Portrait](staff/Portrait_MartinS.jpg){style="width:68px"}  | Martin Steven               | Student Research Assistant |
-|![Portrait](staff/empty.jpg)                                 | Dennis Tepfer               | Bachelor Thesis
+|![Portrait](staff/empty.jpg)                                 | Dennis Tepfer               | Bachelor Thesis |
+|![Portrait](staff/empty.jpg)                                 | Konstantyn Vasylenko        | Student Research Project |
 |![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctorate Thesis |
 
 
