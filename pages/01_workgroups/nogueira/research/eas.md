@@ -14,6 +14,8 @@ title: Electric Acoustic Stimulation
 * Telemetry capabilities of the CI systems are used to derive intracochlear electrocochleography in EAS users.
 * Cochlear microphonic (CM) and auditory nerve neurophonic (ANN) potentials, recorded in response to AS, ES, and in response to combined EAS are used to determine peripheral electric-acoustic interaction electrophysiologically.
 
+![Schematic drawing of an ECochG measurement.](PsychoacousticsinEASusers.png)
+
 # Sound coding for EAS users
 * Development and evaluation of sound coding for EAS users conveying low-frequency information of speech electrically to improve the speech perception for ES alone.
 * Investigation of EAS fittings to optimize speech perception for EAS users.
