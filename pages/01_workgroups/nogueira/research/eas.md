@@ -20,6 +20,8 @@ title: Electric Acoustic Stimulation
 * Development and evaluation of sound coding for EAS users conveying low-frequency information of speech electrically to improve the speech perception for ES alone.
 * Investigation of EAS fittings to optimize speech perception for EAS users.
 
+![Sound coding for EAS users.](SoundcodingforEASusers.png)
+
 # Computational modeling for EAS
 * Development of 3D models of the cochlea for ES and EAS
 * Models of neural coding in auditory nerve fibers in response to ES, AS, and EAS
