@@ -1,6 +1,8 @@
 title: Publications
 
 ## 2022
+* Matin-Mann F, Gao Z, Schwieger J, Ulbricht M, Domsta V, Senekowitsch S, Weitschies W, Seidlitz A, Doll K, Stiesch M, Lenarz T, **Scheper V**. [Individualized, Additively Manufactured Drug-Releasing External Ear Canal Implant for Prevention of Postoperative Restenosis: Development, In Vitro Testing, and Proof of Concept in an Individual Curative Trial](https://doi.org/10.3390/pharmaceutics14061242) Pharmaceutics, June 2022
+
 * Schwieger J, Frisch A, Rau TS, Lenarz T, Hügl S, **Scheper V**. [3D Printed Cell Culture Chamber for Testing the Effect of Pump-Based Chronic Drug Delivery on Inner Ear Tissue](https://doi.org/10.3390/biom12040589) Biomolecules, April 2022
 
 
