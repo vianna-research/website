@@ -2,7 +2,7 @@ title: Franklin Alvarez
 <!--- publications_src:sina.bib --->
 
 
-![Franklin Alvarez](franklin.jpg)
+![Franklin Alvarez](Franklin2.jpg)
 
 
 Research employee	
@@ -13,12 +13,14 @@ Research employee
 * Computational models
 * Audio signal processing
 * Deep neural networks
+* Information theory
 * Models of the auditory periphery
 
 ---
 
 ### Funding
-Coming soon...
+German Academy Exchange Service (DAAD):
+* Research Grants - Doctoral Programmes in Germany, 2021/22 (57552340)
 
 ---
 
