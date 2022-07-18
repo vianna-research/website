@@ -19,8 +19,7 @@ Research employee
 ---
 
 ### Funding
-German Academy Exchange Service (DAAD):
-* Research Grants - Doctoral Programmes in Germany, 2021/22 (57552340)
+German Academy Exchange Service (DAAD): Research Grants - Doctoral Programmes in Germany, 2021/22 (57552340)
 
 ---
 
