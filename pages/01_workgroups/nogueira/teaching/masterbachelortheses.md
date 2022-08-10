@@ -2,6 +2,7 @@ title: Master Bachelor Thesis Proposals
 
 * **Deep learning to enhance speech and music for cochlear implant users**
 * **Neural mechanism of auditory processing investigated through electroencephalography**
+* **Mutual information as a speech intelligibility metric for computational models of cochlear implants**
 
 ---
 
