@@ -37,15 +37,17 @@ title: Staff
 |![Portrait](staff/caroline.jpg)| Caroline Valim	     |       |                              
 |![Portrait](staff/Langner.jpg)	| Florian Langner        | 	                    |
 |![Portrait](staff/Imsiecke.jpg)| Marina Imsiecke 			 | 	                  |
-|![Portrait](staff/yichi.jpg)   | Yichi Zhang            |     |
+
 
 
 
 
 | Former Students                  |                                               |                                     |
 |:------------------------------|:----------------------------------------------|--------------------------------------:|
+|![Portrait](staff/yichi.jpg)   | Yichi Zhang            |     |
 |![Portrait](staff/betuel.jpg)	| Betül Bayatid 			| 	                          |
 |![Portrait](staff/costi.jpg)	| Costanza Bruni      |                               |
+
 
 
 
