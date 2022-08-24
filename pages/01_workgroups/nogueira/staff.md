@@ -27,7 +27,7 @@ title: Staff
 |![Portrait](staff/nour.jpg)	| Nourhan Bahgat		  |   <Bahgat.Nourhan@mh-hannover.de>   |
 |![Portrait](staff/Jasmin.jpg)	| Jasmin Thormählen		  | <Thormaehlen.Jasmin@mh-hannover.de>    |
 |![Portrait](staff/zhang.jpg)	| Yixuan  Zhang 		  |    <Zhang.Yixuan@mh-hannover.de>  |
-|![Portrait](staff/yichi.jpg)	| Yichi Zhang 		  |  <Zhang.Yichi@mh-hannover.de>    |
+|![Portrait](staff/empty.jpg)	| Änne Großkopf 		  |  <Grosskopf.Aenne@mh-hannover.de>    |
 
 
 
@@ -37,6 +37,7 @@ title: Staff
 |![Portrait](staff/caroline.jpg)| Caroline Valim	     |       |                              
 |![Portrait](staff/Langner.jpg)	| Florian Langner        | 	                    |
 |![Portrait](staff/Imsiecke.jpg)| Marina Imsiecke 			 | 	                  |
+|![Portrait](staff/yichi.jpg)   | Yichi Zhang            |     |
 
 
 
