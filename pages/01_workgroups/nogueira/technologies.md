@@ -5,7 +5,7 @@ title: Technologies
 ##  3D computational model of the electrically excited human cochlea
 
 <p align="center">
-  <img width="550" src="technologies/3D_models.png">
+  <img width="600" src="technologies/3D_models.png">
 </p>
 
 This 3D numerical model of a human cochlea is based on finite element method (FEM) simulations. The FEM model simulates the electric voltage distribution in the cochlea when stimulating with a cochlear implant (CI) in the scala tympani (a). Based on the several landmarks from clinical imaging data, this 3D framework can be customized to represent individual patients (b). The 3D FEM model and the auditory nerve model can be adapted based on the size of the patient’s cochlea and the location of the CI electrode array inside the scala tympani. The results help us to study how the auditory nerve (c) is activated by the CI. Various types of neuron models can be coupled to the FEM model for this purpose (d). Moreover, we investigate how signals originating from the auditory nerve can be recorded through the CI to estimate the nerve’s health. 
