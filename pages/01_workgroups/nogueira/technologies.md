@@ -57,7 +57,7 @@ GitHub repositories for different projects carried out at the APG.
 
 * [Decoding Selective Attention from EEG in CI users with DNNs (Nogueira & Dolhopiatenko, 2020)](https://github.com/APGDHZ/SelectiveAttentionDNN)
 
-* [Loudnes model (Langner et.al., 2020)](https://github.com/APGDHZ/LoudnessModel)
+* [Loudnes model (Langner et. al., 2020)](https://github.com/APGDHZ/LoudnessModel)
 
 ---
 
