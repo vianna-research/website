@@ -49,13 +49,13 @@ This version of the App is under development.
 
 GitHub repositories for different projects carried out at the APG.
 
-[Single-fiber EAS model (Kipping & Nogueira, 2022)](https://github.com/APGDHZ/Single-fiber-EAS-model)
+* [Single-fiber EAS model (Kipping & Nogueira, 2022)](https://github.com/APGDHZ/Single-fiber-EAS-model)
 
-[End-to-end speech coding and denoising for cochlear implants (Gajecki & Nogueira, 2022)](https://github.com/APGDHZ/DeepACE)
+* [End-to-end speech coding and denoising for cochlear implants (Gajecki & Nogueira, 2022)](https://github.com/APGDHZ/DeepACE)
 
-[Decoding Selective Attention from EEG in CI users with DNNs (Nogueira & Dolhopiatenko, 2020)](https://github.com/APGDHZ/SelectiveAttentionDNN)
+* [Decoding Selective Attention from EEG in CI users with DNNs (Nogueira & Dolhopiatenko, 2020)](https://github.com/APGDHZ/SelectiveAttentionDNN)
 
-[Loudnes model (Langner et.al., 2020)](https://github.com/APGDHZ/LoudnessModel)
+* [Loudnes model (Langner et.al., 2020)](https://github.com/APGDHZ/LoudnessModel)
 
 ---
 
