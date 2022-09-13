@@ -49,26 +49,13 @@ This version of the App is under development.
 
 GitHub repositories for different projects carried out at the APG.
 
-* [Spike activity mutual information index (Alvarez & Nogueira, 2022)](https://github.com/APGDHZ/clarity_CC_SAMII)
-
-* [Single-fiber EAS model (Kipping & Nogueira, 2022)](https://github.com/APGDHZ/Single-fiber-EAS-model)
-
-* [End-to-end speech coding and denoising for cochlear implants (Gajecki & Nogueira, 2022)](https://github.com/APGDHZ/DeepACE)
-
-* [Decoding Selective Attention from EEG in CI users with DNNs (Nogueira & Dolhopiatenko, 2020)](https://github.com/APGDHZ/SelectiveAttentionDNN)
-
-* [Perception and prediction of loudness in sound coding strategies using simultaneous electric stimulation [paper]](https://www.sciencedirect.com/science/article/pii/S0378595520303622?via%3Dihub) --> [Loudness model [repository]](https://github.com/APGDHZ/LoudnessModel)
-
-## Open source algorithms & models
-
-![music4all1.0](technologies/github.png){style="float:right; margin-left:3em;"}
-
-GitHub repositories for different projects carried out at the APG.
-
 | Paper                   |Repository                  |
 | ------------------------|--------------------------- |
-| [Alvarez & Nogueira, 2022](https://github.com/APGDHZ/clarity_CC_SAMII) | [SAMII](https://github.com/APGDHZ/Single-fiber-EAS-model)|
-| [Langner et. al., 2020](https://www.sciencedirect.com/science/article/pii/S0378595520303622?via%3Dihub)                | [Loudness model](https://github.com/APGDHZ/LoudnessModel)|
+|[Alvarez & Nogueira, 2022] | [SAMII](https://github.com/APGDHZ/Single-fiber-EAS-model)|
+|[Kipping & Nogueira, 2022] | [Single-fiber model](https://github.com/APGDHZ/Single-fiber-EAS-model)|
+|[Gajecki & Nogueira, 2022](https://ieeexplore.ieee.org/document/9746963)| [Deep ACE](https://github.com/APGDHZ/DeepAC)
+|[Nogueira & Dolhopiatenko, 2020](https://ieeexplore.ieee.org/document/9054021)| [Model](https://github.com/APGDHZ/SelectiveAttentionDNN)|
+|[Langner et. al., 2020](https://www.sciencedirect.com/science/article/pii/S0378595520303622?via%3Dihub)| [Loudness model](https://github.com/APGDHZ/LoudnessModel)|
 
 ---
 
