@@ -45,9 +45,17 @@ This version of the App is under development.
 
 ## Open source algorithms & models
 
-[End-to-end speech coding and denoising for cochlear implants](https://github.com/APGDHZ/DeepACE)
+![music4all1.0](technologies/github.png){style="float:right; margin-left:3em; width:200px;"}
 
-This version of the App is under development. 
+GitHub repositories for different projects carried out at the APG.
+
+[Single-fiber EAS model (Kipping & Nogueira, 2022)](https://github.com/APGDHZ/Single-fiber-EAS-model)
+
+[End-to-end speech coding and denoising for cochlear implants (Gajecki & Nogueira, 2022)](https://github.com/APGDHZ/DeepACE)
+
+[Decoding Selective Attention from EEG in CI users with DNNs (Nogueira & Dolhopiatenko, 2020)](https://github.com/APGDHZ/SelectiveAttentionDNN)
+
+[Loudnes model (Langner et.al., 2020)](https://github.com/APGDHZ/LoudnessModel)
 
 ---
 
