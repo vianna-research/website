@@ -59,6 +59,17 @@ GitHub repositories for different projects carried out at the APG.
 
 * [Perception and prediction of loudness in sound coding strategies using simultaneous electric stimulation [paper]](https://www.sciencedirect.com/science/article/pii/S0378595520303622?via%3Dihub) --> [Loudness model [repository]](https://github.com/APGDHZ/LoudnessModel)
 
+## Open source algorithms & models
+
+![music4all1.0](technologies/github.png){style="float:right; margin-left:3em;"}
+
+GitHub repositories for different projects carried out at the APG.
+
+| Paper                   |Repository                  |
+| ------------------------|--------------------------- |
+| [Alvarez & Nogueira, 2022](https://github.com/APGDHZ/clarity_CC_SAMII) | [SAMII]((https://github.com/APGDHZ/Single-fiber-EAS-model)|
+| Langner et. al., 2020                | [Loudness model](https://github.com/APGDHZ/LoudnessModel)|
+
 ---
 
 | Contact                 |                            |
