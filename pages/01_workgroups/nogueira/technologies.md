@@ -45,8 +45,6 @@ This version of the App is under development.
 
 ## Open source algorithms & models
 
-![music4all1.0](technologies/github.png){style="float:right; margin-left:3em;width:200px;"}
-
 GitHub repositories for different projects carried out at the APG.
 
 | Paper                   |Repository                  |
