@@ -57,7 +57,7 @@ GitHub repositories for different projects carried out at the APG.
 
 * [Decoding Selective Attention from EEG in CI users with DNNs (Nogueira & Dolhopiatenko, 2020)](https://github.com/APGDHZ/SelectiveAttentionDNN)
 
-* [Perception and prediction of loudness in sound coding strategies using simultaneous electric stimulation](https://www.sciencedirect.com/science/article/pii/S0378595520303622?via%3Dihub) --> [Loudness model](https://github.com/APGDHZ/LoudnessModel)
+* [Perception and prediction of loudness in sound coding strategies using simultaneous electric stimulation [paper]](https://www.sciencedirect.com/science/article/pii/S0378595520303622?via%3Dihub) --> [Loudness model [repository]](https://github.com/APGDHZ/LoudnessModel)
 
 ---
 
