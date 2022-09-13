@@ -41,6 +41,14 @@ The App offers an original method to listen and interact with new music composit
 
 This version of the App is under development. 
 
+- - -
+
+## Open source algorithms & models
+
+[End-to-end speech coding and denoising for cochlear implants](https://github.com/APGDHZ/DeepACE)
+
+This version of the App is under development. 
+
 ---
 
 | Contact                 |                            |
