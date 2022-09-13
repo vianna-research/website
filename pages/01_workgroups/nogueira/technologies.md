@@ -67,7 +67,7 @@ GitHub repositories for different projects carried out at the APG.
 
 | Paper                   |Repository                  |
 | ------------------------|--------------------------- |
-| [Alvarez & Nogueira, 2022](https://github.com/APGDHZ/clarity_CC_SAMII) | [SAMII]((https://github.com/APGDHZ/Single-fiber-EAS-model)|
+| [Alvarez & Nogueira, 2022](https://github.com/APGDHZ/clarity_CC_SAMII) | [SAMII](https://github.com/APGDHZ/Single-fiber-EAS-model)|
 | Langner et. al., 2020                | [Loudness model](https://github.com/APGDHZ/LoudnessModel)|
 
 ---
