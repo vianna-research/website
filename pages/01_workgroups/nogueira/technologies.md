@@ -49,9 +49,9 @@ GitHub repositories for different projects carried out at the APG.
 
 | Paper                   |Repository                  |
 | ------------------------|--------------------------- |
-|Alvarez & Nogueira, 2022 | [SAMII](https://github.com/APGDHZ/Single-fiber-EAS-model)|
+|Alvarez & Nogueira, 2022 | [SAMII](https://github.com/APGDHZ/clarity_CC_SAMII)|
 |Kipping & Nogueira, 2022 | [Single-fiber model](https://github.com/APGDHZ/Single-fiber-EAS-model)|
-|[Gajecki & Nogueira, 2022](https://ieeexplore.ieee.org/document/9746963)| [Deep ACE](https://github.com/APGDHZ/DeepAC)
+|[Gajecki & Nogueira, 2022](https://ieeexplore.ieee.org/document/9746963)| [Deep ACE](https://github.com/APGDHZ/DeepACE)
 |[Nogueira & Dolhopiatenko, 2020](https://ieeexplore.ieee.org/document/9054021)| [Model](https://github.com/APGDHZ/SelectiveAttentionDNN)|
 |[Langner et. al., 2020](https://www.sciencedirect.com/science/article/pii/S0378595520303622?via%3Dihub)| [Loudness model](https://github.com/APGDHZ/LoudnessModel)|
 
