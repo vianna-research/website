@@ -25,7 +25,7 @@ Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany'
 
 ---
 ### Publications:
-* Aldag N, Büchner B,  Lenarz T, Nogueira W. **[Dekodierung selektiver Aufmerksamkeit bei einseitig ertaubten Patienten mittels Cochlea-Implantat-Elektroden als Sensoren.](https://dx.doi.org/10.3205/22dga040)** Deutsche Gesellschaft für Audiologie e.V.. Erfurt, 14.-17.09.2022.
+* Aldag N, Büchner B,  Lenarz T, Nogueira W. (2022) **[Dekodierung selektiver Aufmerksamkeit bei einseitig ertaubten Patienten mittels Cochlea-Implantat-Elektroden als Sensoren.](https://dx.doi.org/10.3205/22dga040)** Deutsche Gesellschaft für Audiologie e.V.. Erfurt, 14.-17.09.2022.
 * Aldag N, Büchner B,  Lenarz T, Nogueira W. (2022) **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing.](https://iopscience.iop.org/article/10.1088/1741-2552/ac4de6)** J. Neural Eng. 19 016023.
 
 
