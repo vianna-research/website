@@ -1,20 +1,20 @@
 title: Staff
 
-|Head of research group|        |   |
-|--------------|:---------------|----|
-|![Picture Verena Scheper](Verena.jpg) | Privatdozentin Dr. med. vet. Verena Scheper |	Scheper.verena@mh-hannover.de| +49 (0)511 532 4369 |
+|Head of research group|        |   |   |
+|--------------|:---------------|----|----|
+|![Picture Verena Scheper](Verena.jpg)|Privatdozentin Dr. med. vet. Verena Scheper |Scheper.verena@mh-hannover.de| +49 (0)511 532 4369 |
 
 
 |Technical Staff|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
-|   |Name| EMail|Extension|
-|![Armbrecht Nina](Nina.jpg) | Nina Armbrecht	|	Armbrecht.nina@mh-hannover.de     | 532 1529|
-|![Kreienmeyer Michaela](Michaela.jpg) | Michaela Kreinenmeyer	|	Kreinemeyer.Michaela@mh-hannover.de   | 532 1525|
+|   |Name| E-Mail|Extension|
+|![Armbrecht Nina](Nina.jpg) | Nina Armbrecht	|	Armbrecht.nina@mh-hannover.de | 532 1529|
+|![Kreienmeyer Michaela](Michaela.jpg) | Michaela Kreinenmeyer	|	Kreinemeyer.Michaela@mh-hannover.de | 532 1525|
 
 |Research Team  |    |  | +49 (0)511 - |
 |---------|:------|------|-----|
-|   |Name| EMail|Extension|
-|![Image Ziwen Gao](Ziwen.jpg)  | Ziwen Gao, M.Sc., PhD Student  	|	Gao.ziwen@mh-hannover.de | 532 7262|
+|   |Name| E-Mail|Extension|
+|![Image Ziwen Gao](Ziwen.jpg) | Ziwen Gao, M.Sc., PhD Student  	|	Gao.ziwen@mh-hannover.de | 532 7262|
 | ![Image Jana Schwieger](Schwieger.jpg) |Jana Schwieger, Dr. med. vet. | Schwieger.jana@mh-hannover.de|532 7262|
 | ![Image Kathrin Anja Malfeld](malfeld.jpg)  | Kathrin Anja Malfeld, veterinarian, PhD Student |  Malfeld.Kathrin@mh-hannover.de |532 1529 |
 | ![Image Farnaz Matin](MatinF.jpg) |  Farnaz Matin, MD|	Matin.Farnaz@mh-hannover.de| 17 7443|   
@@ -25,13 +25,13 @@ title: Staff
 
 |FWJ|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
-|   |Name| EMail|Extension|
+|   |Name| E-Mail|Extension|
 |![Image Finnja Louisa Köpke ](.jpg) | Finnja Louisa Köpke | Koepke.Finnja@mh-hannover| 532 1529|
 
 
 |  Students   ||
 |-----------|-------------|
-|Name| EMail|
+|Name| E-Mail|
 |Tchadarou Abdoul, PhD student|Abdoul.Tchadarou@mh-hannover.de|
 |Christoph Pannier, Dentist, PhD student|Pannier.christoph@mh-hannover.de|
 |Noushin Kakuan, PhD Student, MD student|Noushin.t.kakuan@stud.mh-hannover.de|
