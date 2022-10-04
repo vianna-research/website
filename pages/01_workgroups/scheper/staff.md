@@ -32,6 +32,7 @@ title: Staff
 |  Students   ||
 |-----------|-------------|
 |Name| EMail|
+|Tchadarou Abdoul, PhD student|Abdoul.Tchadarou@mh-hannover.de|
 |Christoph Pannier, Dentist, PhD student|Pannier.christoph@mh-hannover.de|
 |Noushin Kakuan, PhD Student, MD student|Noushin.t.kakuan@stud.mh-hannover.de|
 |Katarina Klötzer, PhD Student, MD student|
