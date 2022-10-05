@@ -1,6 +1,8 @@
 title: Publications
 
 ## 2022
+* Mau R, Schick P, Matin-Mann F, Gao Z, Alcacer Labrador D, John S, Repp F, Lenarz T, Weitschies W, **Scheper V**, Seidlitz A, Seitz H. [Digital light processing and drug stability of Dexamethasone-loaded implant prototypes for medical treatment of the inner ear](https://doi.org/10.18416/AMMM.2022.2209666 ) Transactions on Additive Manufacturing Meets Medicine, September 2022
+
 * Gibaja A, Alvarado JC, **Scheper V**, Carles J, Juiz JM. [Kanamycin and Cisplatin Ototoxicity: Differences in Patterns of Oxidative Stress, Antioxidant Enzyme Expression and Hair Cell Loss in the Cochlea](https://doi.org/10.3390/antiox11091759) Antioxidants, September 2022
 
 * Mau R, Nazir J, Gao Z, Alcacer Labrador D, Repp F, John S, Lenarz T, **Scheper V**, Seitz H, Matin-Mann F. [Digital Light Processing of Round Window Niche Implant Prototypes for Implantation Studies](https://doi.org/10.1515/cdbme-2022-1041) Current Directions in Biomedical Engineering, September 2022
