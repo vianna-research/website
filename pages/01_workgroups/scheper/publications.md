@@ -3,7 +3,7 @@ title: Publications
 ## 2022
 * Gibaja A, Alvarado JC, **Scheper V**, Carles J, Juiz JM. [Kanamycin and Cisplatin Ototoxicity: Differences in Patterns of Oxidative Stress, Antioxidant Enzyme Expression and Hair Cell Loss in the Cochlea](https://doi.org/10.3390/antiox11091759) Antioxidants, September 2022
 
-* Mau R, Nazir J, Gao Z, Alcacer Labrador D, Repp F, John S, Lenarz T, **Scheper V**, Seitz H, Matin-Mann F. [Digital Light Processing of Round Window Niche Implant Prototypes for Implantation Studies](https://doi.org/10.1515/cdbme-2022-1041)  De Gruyter, September 2022
+* Mau R, Nazir J, Gao Z, Alcacer Labrador D, Repp F, John S, Lenarz T, **Scheper V**, Seitz H, Matin-Mann F. [Digital Light Processing of Round Window Niche Implant Prototypes for Implantation Studies](https://doi.org/10.1515/cdbme-2022-1041) Current Directions in Biomedical Engineering, September 2022
 
 * Matin-Mann F, Gao Z, Schwieger J, Ulbricht M, Domsta V, Senekowitsch S, Weitschies W, Seidlitz A, Doll K, Stiesch M, Lenarz T, **Scheper V**. [Individualized, Additively Manufactured Drug-Releasing External Ear Canal Implant for Prevention of Postoperative Restenosis: Development, In Vitro Testing, and Proof of Concept in an Individual Curative Trial](https://doi.org/10.3390/pharmaceutics14061242) Pharmaceutics, June 2022
 
