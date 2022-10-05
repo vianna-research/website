@@ -18,7 +18,7 @@ title: Staff
 | ![Image Jana Schwieger](Schwieger.jpg) |Jana Schwieger, Dr. med. vet. | Schwieger.jana@mh-hannover.de|532 7262|
 | ![Image Kathrin Anja Malfeld](malfeld.jpg)  | Kathrin Anja Malfeld, veterinarian, PhD Student |  Malfeld.Kathrin@mh-hannover.de |532 1529 |
 | ![Image Farnaz Matin](MatinF.jpg) |  Farnaz Matin, MD|	Matin.Farnaz@mh-hannover.de| 17 7443|   
-| ![Image Yanjing Luo](.jpg) |  Yanjing Luo, M.Sc. PhD student|	Yanjing.luo@mh-hannover.de| 532 7262| 
+| ![Image Yanjing Luo](Yanjing2.jpg) |  Yanjing Luo, M.Sc. PhD student|	Yanjing.luo@mh-hannover.de| 532 7262| 
 | ![Image Marleen Grzybowski](Grzybowski.jpg) | Marleen Grzybowski, M.Sc.| Grzybowski.Marleen@mh-hannover.de | 532 4192|
 | ![Image Martina Knabel](Knabel.JPG) | Martina Knabel, M.Sc.| Knabel.Martina@mh-hannover.de | 532 1464 |
 | ![Image Chunjiang Wei](suzy1.jpg)  | Chunjiang Wei, M.Sc., PhD Student  	|	Wei.chunjiang@mh-hannover.de | 532 1464|
