@@ -50,7 +50,7 @@ GitHub repositories for different projects carried out at the APG.
 | Paper                   |Repository                  |
 | ------------------------|--------------------------- |
 |Gajecki et. al., 2022 | Deep ACE 2.0 (comming soon)|
-|Gajecki & Nogueira, 2022 | [Deep Fusion Layers](https://github.com/APGDHZ/FusionLayers)|
+|[Gajecki & Nogueira, 2022](https://www.techrxiv.org/articles/preprint/Deep_Latent_Fusion_Layers_for_Binaural_Speech_Enhancement/21215378) | [Deep Fusion Layers](https://github.com/APGDHZ/FusionLayers)|
 |Alvarez & Nogueira, 2022 | [SAMII](https://github.com/APGDHZ/clarity_CC_SAMII)|
 |Kipping & Nogueira, 2022 | [Single-fiber EAS model](https://github.com/APGDHZ/Single-fiber-EAS-model)|
 |[Gajecki & Nogueira, 2022](https://ieeexplore.ieee.org/document/9746963)| [Deep ACE 1.0](https://github.com/APGDHZ/DeepACE)
