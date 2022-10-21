@@ -30,7 +30,7 @@ This App focuses on the ability to identify melodic contours. It can be used for
 
 ## Open source algorithms & models
 
-GitHub repositories for different projects carried out at the APG.
+[GitHub](https://github.com/APGDHZ) repositories for different projects carried out at the APG.
 
 | Paper                   |Repository                  |
 | ------------------------|--------------------------- |
