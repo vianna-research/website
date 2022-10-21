@@ -25,9 +25,9 @@ The App offers an original method to listen and interact with new music composit
 
 ## MusIC4allApp2.0
 
-![music4all1.0](technologies/musicapp_sina.png){style="float:right; margin-left:3em; width:200px;"}
+![music4all1.0](technologies/musicapp_sina.png){style="float:right; margin-left:3em; width:500px;"}
 
-This App focuses on the ability to identify melodic contours. It can be used for training or testing purposes. The app offers the originial and a simplifed version of The melodic contour patterns designed by Galvin et al. (2007) with nine or five possible melodic contours. All notes in the melodic contour patterns were from a sung speech corpus that was created for this app and was sung by a trained female singer. The has been developed for Android operating system and will be published in Google Play.
+This App focuses on the ability to identify melodic contours. It can be used for training or testing purposes. The app offers the originial and a simplifed version of the melodic contour patterns designed by Galvin et al. (2007) with nine or five possible melodic contours. All notes in the melodic contour patterns were from a sung speech corpus that was created for this app and was sung by a trained female singer. The has been developed for Android operating system and will be published in Google Play.
 
 - - -
 
