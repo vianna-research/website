@@ -13,10 +13,7 @@ This 3D numerical model of a human cochlea is based on finite element method (FE
 - - -
 
 
-## MusIC4allApp2.0
-
-![music4all1.0](technologies/music4all1.0.png){style="float:right; margin-left:3em; width:200px;"}
-
+## MusIC4allApp1.0
 [Prof. Dr.-Ing. Waldo Nogueira](nogueira.md)
 
 The App offers an original method to listen and interact with new music compositions for cochlear implants. 
