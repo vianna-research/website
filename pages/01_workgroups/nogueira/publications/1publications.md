@@ -3,7 +3,9 @@ title: Peer Reviewed Journal Publications
 
 ## 2022
 
-* Gajecki, T., Nogueira, W. (2022). [Deep Latent Fusion Layers for Binaural Speech Enhancement.] IEEE Transaction on Speech and Langage Processing (Under review).
+* T. Gajecki, Yichi Zhang, W. Nogueira. [A Deep Denoising Sound Coding Strategy for Cochlear Implants.]() IEEE Transactions on Biomedical Engineering, 2022 (Under review).
+
+* T. Gajecki, W. Nogueira. [Deep Latent Fusion Layers for Binaural Speech Enhancement.](https://www.techrxiv.org/articles/preprint/Deep_Latent_Fusion_Layers_for_Binaural_Speech_Enhancement/21215378) IEEE Transactions on Speech and Language Processing, 2022 (Under review).
 
 * Aldag, N., Büchner, B.,  Lenarz, T., Nogueira, W. (2022). **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing.](https://iopscience.iop.org/article/10.1088/1741-2552/ac4de6)** J. Neural Eng. 19 016023.
 
