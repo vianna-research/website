@@ -30,7 +30,7 @@ title: Peer Reviewed Journal Publications
 * Krüger, B., Büchner, A., Nogueir,a W., **[Phantom Stimulation for Cochlear Implant Users with Residual Low-Frequency Hearing, Ear and Hearing.](https://journals.lww.com/ear-hearing/Fulltext/2022/03000/Phantom_Stimulation_for_Cochlear_Implant_Users.34.aspx)** Ear and Hearing. 43(2):631-645. doi: 10.1097/AUD.0000000000001121.
 
 
-* Gajecki, T., Nogueira, W. (2021). **[The Effect of Synchronized Linked Band Selection on Speech Intelligibility of Bilateral Cochlear Implant Users.](https://www.sciencedirect.com/science/article/pii/S0378595520303221#:~:text=Linked%20band%20selection%20achieves%20an,at%20the%20worse%2DSNR%20side.&text=Linked%20band%20selection%20enhances%20the,to%20the%20better%2DSNR%20side%20.&text=Linked%20band%20selection%20improves%20speech,when%20compared%20to%20clinical%20setups%20.)** Hearing Research. 396, 108051.
+* Gajecki, T., Nogueira, W. (2021). **[ Enhancement of Interaural Level Differences for Bilateral Cochlear Implant Users.](https://www.sciencedirect.com/science/article/pii/S0378595521001477)** Hearing Research. 409(15).
 
 * Sharma, S., Nogueira, W., van Wanrooij, M. M., van Opstal, A. J., Chalupper, J., Mens, L. H. M. (2021). **[Amount of frequency compression in bimodal cochlear implant users is a poor predictor for audibility and spatial hearing, Journal of Speech, Language, and Hearing Research.](https://pubs.asha.org/doi/abs/10.1044/2021_JSLHR-20-00653?af=R)** Journal of Speech, Language, and Hearing Research. 13;64(12):5000-5013. doi: 10.1044/2021_JSLHR-20-00653.
 
