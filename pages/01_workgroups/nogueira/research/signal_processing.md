@@ -40,7 +40,7 @@ title: Signal Processing for Cochlear Implants
 
 ### Publications:
 
-- T. Gajecki, Yichi Zhang, W. Nogueira. [A Deep Denoising Sound Coding Strategy for Cochlear Implants.]() IEEE Transactions on Biomedical Engineering, 2022 (Under review).
+- T. Gajecki, Yichi Zhang, W. Nogueira. [A Deep Denoising Sound Coding Strategy for Cochlear Implants.](https://www.biorxiv.org/content/10.1101/2022.11.11.516123v1.full.pdf) IEEE Transactions on Biomedical Engineering, 2022 (Under review).
 
 - T. Gajecki, W. Nogueira. [Deep Latent Fusion Layers for Binaural Speech Enhancement.](https://www.techrxiv.org/articles/preprint/Deep_Latent_Fusion_Layers_for_Binaural_Speech_Enhancement/21215378) IEEE Transactions on Speech and Language Processing, 2022 (Under review).
 
