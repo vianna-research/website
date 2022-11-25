@@ -1,7 +1,7 @@
 title: Publications
 
 - - -
-![2020](publications/BannerPaper2020.jpg)
+![2022](publications/BannerPaper2022.jpg)
 
 Our publications sorted chronoligically are listed here:
 
