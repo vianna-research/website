@@ -1,6 +1,8 @@
 title: Publications
 
 ## 2022
+* Förster C Y, Shityakov S, **Scheper V**, Lenarz T [Linking Cerebrovascular Dysfunction to Age-Related Hearing Loss and Alzheimer’s Disease—Are Systemic Approaches for Diagnosis and Therapy Required? ](https://www.mdpi.com/2218-273X/12/11/1717) Biomolecules 2022, November 2022
+
 * Johne M, Helgers S O A, Alam M , Jelinek J, Hubka P, Krauss J K, **Scheper V**, Kral A, Schwabe K [Processing of auditory information in forebrain regions after hearing loss in adulthood: Behavioral and electrophysiological studies in a rat model](https://www.frontiersin.org/articles/10.3389/fnins.2022.966568/full) Front. Neurosci. Sec. Neurodegeneration, November 2022
 
 * Mau R, Schick P, Matin-Mann F, Gao Z, Alcacer Labrador D, John S, Repp F, Lenarz T, Weitschies W, **Scheper V**, Seidlitz A, Seitz H. [Digital light processing and drug stability of Dexamethasone-loaded implant prototypes for medical treatment of the inner ear](https://doi.org/10.18416/AMMM.2022.2209666 ) Transactions on Additive Manufacturing Meets Medicine, September 2022
