@@ -10,15 +10,15 @@ title: Publications
 
 * Avallone E, Schmitt H, Lilli G, Warnecke A, Lesinski-Schiedat A, Lenarz T, Willenborg K. **[A potential serological biomarker for inner ear pathologies: OTOLIN-1.](https://www.actaitalica.it/article/view/2074)** Acta Otorhinolaryngol Ital. 2022 Aug;42(4):364-371. doi: 10.14639/0392-100X-N2074.
 
-* Fan L, Warnecke A, Weder J, Preller M, Zeilinger C. **[Triiodothyronine Acts as a Smart Influencer on Hsp90 via a Triiodothyronine Binding Site.](https://www.mdpi.com/1422-0067/23/13/7150)** Int J Mol Sci. 2022 Jun 28;23(13):7150. doi: 10.3390/ijms23137150. eCollection 2022
+* Fan L, Warnecke A, Weder J, Preller M, Zeilinger C. **[Triiodothyronine Acts as a Smart Influencer on Hsp90 via a Triiodothyronine Binding Site.](https://www.mdpi.com/1422-0067/23/13/7150)** Int J Mol Sci. 2022 Jun 28;23(13):7150. doi: 10.3390/ijms23137150. eCollection 2022.
 
 * St Peter M, Brough DE, Lawrence A, Nelson-Brantley J, Huang P, Harre J, Warnecke A, Staecker H. **[Improving Control of Gene Therapy-Based Neurotrophin Delivery for Inner Ear Applications.](https://www.frontiersin.org/articles/10.3389/fbioe.2022.892969/full)** Front Bioeng Biotechnol. 2022 Jun 3;10:892969. doi: 10.3389/fbioe.2022.892969.
 
-* Van Dieken A., Staecker H., Schmitt H., Harre J., Pich A., Roßberg W., Lenarz T., Durisin M., Warnecke A. **[Bioinformatic Analysis of the Perilymph Proteome to Generate a Human Protein Atlas](https://www.frontiersin.org/articles/10.3389/fcell.2022.847157/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Cell_and_Developmental_Biology&id=847157)** Front. Cell Dev. Biol., 28 April 2022. doi: 10.3389/fcell.2022.847157
+* Van Dieken A, Staecker H, Schmitt H, Harre J, Pich A, Roßberg W, Lenarz T, Durisin M, Warnecke A. **[Bioinformatic Analysis of the Perilymph Proteome to Generate a Human Protein Atlas](https://www.frontiersin.org/articles/10.3389/fcell.2022.847157/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Cell_and_Developmental_Biology&id=847157)** Front. Cell Dev. Biol., 28 April 2022. doi: 10.3389/fcell.2022.847157.
 
 * Yilmaz-Bayraktar S, Foremny K, Kreienmeyer M, Warnecke A, Doll T. **[Medical- Grade Silicone Rubber-Hydrogel-Composites for Modiolar Hugging Cochlear Implants.](https://www.mdpi.com/2073-4360/14/9/1766)** Polymers (Basel). 2022 Apr 26;14(9):1766. doi: 10.3390/polym14091766.
 
-* Pietsch M, Schurzig D, Salcher R, Warnecke A, Erfurt P, Lenarz T, Kral A. **[Variations in microanatomy of the human modiolus require individualized cochlear implantation.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8943032/)** Sci Rep. 2022 Mar 23;12(1):5047. doi: 10.1038/s41598-022-08731-x
+* Pietsch M, Schurzig D, Salcher R, Warnecke A, Erfurt P, Lenarz T, Kral A. **[Variations in microanatomy of the human modiolus require individualized cochlear implantation.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8943032/)** Sci Rep. 2022 Mar 23;12(1):5047. doi: 10.1038/s41598-022-08731-x.
 
 * Durisin M, Krüger C, Pich A, Warnecke A, Steffens M, Zeilinger C, Lenarz T, Prenzler N, Schmitt H. **[Proteome profile of patients with excellent and poor speech intelligibility after cochlear implantation: Can perilymph proteins predict performance?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263765)** PLoS One. 2022 Mar 3;17(3):e0263765. doi: 10.1371/journal.pone.0263765. eCollection 2022.
 
@@ -26,7 +26,7 @@ title: Publications
 
 * Peter MS, Warnecke A, Staecker H. **[A Window of Opportunity: Perilymph Sampling from the Round Window Membrane Can Advance Inner Ear Diagnostics and Therapeutics.](https://www.mdpi.com/2077-0383/11/2/316)** Journal of Clinical Medicine. 2022; 11(2):316.
 
-* Schulze J, Staecker H, Wedekind D, Lenarz T, Warnecke A. **[Expression pattern of brain-derived neurotrophic factor and its associated receptors: Implications for exogenous neurotrophin application.](https://www.sciencedirect.com/science/article/pii/S0378595520303695?via%3Dihub)** Hear Res. 2022 Jan;413:108098. doi: 10.1016/j.heares.2020.108098. Epub 2020 Oct 21
+* Schulze J, Staecker H, Wedekind D, Lenarz T, Warnecke A. **[Expression pattern of brain-derived neurotrophic factor and its associated receptors: Implications for exogenous neurotrophin application.](https://www.sciencedirect.com/science/article/pii/S0378595520303695?via%3Dihub)** Hear Res. 2022 Jan;413:108098. doi: 10.1016/j.heares.2020.108098. Epub 2020 Oct 21.
 
 
 ## 2021
