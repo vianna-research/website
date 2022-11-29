@@ -11,11 +11,11 @@ title: Publications
 
 * Avallone E, Schmitt H, Lilli G, Warnecke A, Lesinski-Schiedat A, Lenarz T, Willenborg K. **[A potential serological biomarker for inner ear pathologies: OTOLIN-1.](https://www.actaitalica.it/article/view/2074)** Acta Otorhinolaryngol Ital. 2022 Aug;42(4):364-371. doi: 10.14639/0392-100X-N2074.
 
-* Fan L, Warnecke A, Weder J, Preller M, Zeilinger C. **[Triiodothyronine Acts as a Smart Influencer on Hsp90 via a Triiodothyronine Binding Site.](https://www.mdpi.com/1422-0067/23/13/7150)** Int J Mol Sci. 2022 Jun 28;23(13):7150. doi: 10.3390/ijms23137150.
+* Fan L, Warnecke A, Weder J, Preller M, Zeilinger C. **[Triiodothyronine Acts as a Smart Influencer on Hsp90 via a Triiodothyronine Binding Site.](https://www.mdpi.com/1422-0067/23/13/7150)** Int J Mol Sci. 2022 Jun 28;23(13):7150. doi: 10.3390/ijms23137150. eCollection 2022
 
-* St Peter M, Brough DE, Lawrence A, Nelson-Brantley J, Huang P, Harre J, Warnecke A, Staecker H. **[Improving Control of Gene Therapy-Based Neurotrophin Delivery for Inner Ear Applications.](https://www.frontiersin.org/articles/10.3389/fbioe.2022.892969/full) Front Bioeng Biotechnol. 2022 Jun 3;10:892969. doi: 10.3389/fbioe.2022.892969.
-* 
-* Van Dieken A., Staecker H., Schmitt H., Harre J., Pich A., Roßberg W., Lenarz T., Durisin M., Warnecke A. **[Bioinformatic Analysis of the Perilymph Proteome to Generate a Human Protein Atlas](https://www.frontiersin.org/articles/10.3389/fcell.2022.847157/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Cell_and_Developmental_Biology&id=847157)** Front. Cell Dev. Biol., 28 April 2022. Doi: 10.3389/fcell.2022.847157
+* St Peter M, Brough DE, Lawrence A, Nelson-Brantley J, Huang P, Harre J, Warnecke A, Staecker H. **[Improving Control of Gene Therapy-Based Neurotrophin Delivery for Inner Ear Applications.](https://www.frontiersin.org/articles/10.3389/fbioe.2022.892969/full)** Front Bioeng Biotechnol. 2022 Jun 3;10:892969. doi: 10.3389/fbioe.2022.892969.
+
+* Van Dieken A., Staecker H., Schmitt H., Harre J., Pich A., Roßberg W., Lenarz T., Durisin M., Warnecke A. **[Bioinformatic Analysis of the Perilymph Proteome to Generate a Human Protein Atlas](https://www.frontiersin.org/articles/10.3389/fcell.2022.847157/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Cell_and_Developmental_Biology&id=847157)** Front. Cell Dev. Biol., 28 April 2022. doi: 10.3389/fcell.2022.847157
 
 * Yilmaz-Bayraktar S, Foremny K, Kreienmeyer M, Warnecke A, Doll T. Medical- Grade Silicone Rubber-Hydrogel-Composites for Modiolar Hugging Cochlear Implants. Polymers (Basel). 2022 Apr 26;14(9):1766. doi: 10.3390/polym14091766.
 * Pietsch M, Schurzig D, Salcher R, Warnecke A, Erfurt P, Lenarz T, Kral A. **[Variations in microanatomy of the human modiolus require individualized cochlear implantation.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8943032/)** Sci Rep. 2022 Mar 23;12(1):5047. doi: 10.1038/s41598-022-08731-x
@@ -30,9 +30,23 @@ title: Publications
 
 
 ## 2021
+* Warnecke A, Harre J, Shew M, Mellott AJ, Majewski I, Durisin M, Staecker H. **]Successful Treatment of Noise-Induced Hearing Loss by Mesenchymal Stromal Cells: An RNAseq Analysis of Protective/Repair Pathways.()** Front Cell Neurosci. 2021 Nov 23;15:656930. doi: 10.3389/fncel.2021.656930. eCollection 2021. IF 4.86
+
+* Grosser D, Willenborg K, Dellani P, Avallone E, Götz F, Bothing D, Warnecke A, Lanfermann H, Lenarz T, Giesemann A. **[Vestibular Aqueduct Size Correlates With the Degree of Cochlear Hydrops in Patients With and Without Meniere's Disease.]()** Otol Neurotol. 2021; published online ahead of print October 06, 2021. IF 1.712
+
+** Zhuang P, Phung S, Warnecke A, Arambula A, St Peter M, He M, Staecker H. **[Isolation of sensory hair cell specific exosomes in human perilymph. Neurosci Lett. 2021 Nov 1;764:136282.]()** doi: 10.1016/j.neulet.2021.136282. Epub 2021 Oct 4. IF 3.046
+
+* Schmitt H, Pich A, Prenzler NK, Lenarz T, Harre J, Staecker H, Dursisin M, Lenarz T, Warnecke A. **[Personalized proteomics for precision diagnostics in hearing loss: Disease-specific analysis of human perilymph by mass spectrometry.]()** ACS Omega. 2021 Aug.; 13;6(33):21241-21254. doi:10/1021/acsomega.1c01136 IF 3.512
+
+* Warnecke A, Giesemann A. **[Embryology, malformations and rare diseases of the cochlea.]()** Laryngorhinootologie. 2021 Apr.; 100(S01):S1-S43. doi:10/1055/a-1349-3824 IF 0.922
+
+* Shew M, Wichova H, St. Peter M, Warnecke A, Staecker H. **[Distinct MicroRNA Profiles in the Perilymph and Serum of Patients With Menière’s Disease.]()** Front. Neurol. 2021;12:646928. doi: 10.3389/fneur.2021.646928 IF 3.552
+
 * Warnecke A., Prenzler N., Harre J., Köhl U., Gärtner L., Lenarz T., Laner-Plamberger S., Wietzorrek G., Staecker H., Lassacher T., Hollerweger J., Gimona M., Rohde E. **[First-in-human intracochlear application of 1 extracellular vesicle-enriched secretome from umbilical cord mesenchymal stromal cells in a patient with Menière’s disease during cochlear implantation.](https://onlinelibrary.wiley.com/doi/10.1002/jev2.12094)** J Extracell Vesicles. 2021 Jun 04; 10:e12094. doi: 10.1002/jev2.12094.
 
 * Shew M, Wichova H, Warnecke A, Lenarz T, Staecker H. **[Evaluating Neurotrophin Signaling Using MicroRNA Perilymph Profiling in Cochlear Implant Patients With and Without Residual Hearing.](https://journals.lww.com/otology-neurotology/Abstract/9000/Evaluating_Neurotrophin_Signaling_Using_MicroRNA.95672.aspx)** Otol Neurotol. 2021 May 10. doi: 10.1097/MAO.0000000000003182.
+
+* Heeger P, Harre J, Warnecke A, Mueller D,  Kalies S, Heisterkamp A. Probing interneuronal cell communication via optogenetic stimulation. Translational Biophotonics. 2021;e202100002.  doi.org/10.1002/tbio.202100002 IF 3.03
 
 * Harre J, Heinkele L, Steffens M, Warnecke A, Lenarz T, Just I, Rohrbeck A. **[Potentiation of Brain-Derived Neurotrophic Factor-Induced Protection of Spiral Ganglion Neurons by C3 Exoenzyme/Rho Inhibitor.](https://www.frontiersin.org/articles/10.3389/fncel.2021.602897/full)** Front Cell Neurosci. 2021 Mar 11;15:602897. doi: 10.3389/fncel.2021.602897. eCollection 2021.
 
