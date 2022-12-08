@@ -11,7 +11,7 @@ title: Peer Reviewed Journal Publications
 
 * Nogueira, W., Dolhopiatenko, H. (2022). **[Predicting speech intelligibility from a selective attention decoding paradigm in cochlear implant users.](https://iopscience.iop.org/article/10.1088/1741-2552/ac599f)** J. Neural Eng.
 
-* Kipping, D., Nogueira, W. (Under Review). (2022). **[A computational model of a single auditory nerve fiber for electric-acoustic stimulation.]()** Submitted to the Journal of the Association for Research in Otolaryngology (JARO) in 9/2021.
+* Kipping, D., Nogueira, W., 2022. **[A Computational Model of a Single Auditory Nerve Fiber for Electric-Acoustic Stimulation](https://doi.org/10.1007/s10162-022-00870-2)**. J. Assoc. Res. Otolaryngol, https://doi.org/10.1007/s10162-022-00870-2
 
 * Tahmasebi, S., Segovia-Martinez, M., Nogueira, W. (2022). Optimization of Sound Coding Strategies to Make Singing Music More Accessible for Cochlear Implant Users (Under Review). Submitted to Trends in Hearing in 11/2021.
 
