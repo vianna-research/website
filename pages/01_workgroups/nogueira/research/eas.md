@@ -47,6 +47,7 @@ EAS:       electric-acoustic stimulation
 * **[Benjamin Krüger](https://vianna.de/01_workgroups/nogueira/staff/benjamin.html)**
 * **[Daniel Kipping](https://vianna.de/01_workgroups/nogueira/staff/daniel.html)**
 * **[Hanna Dolhopiatenko](https://vianna.de/01_workgroups/nogueira/staff/hanna.html)**
+* **[Franklin Alvarez](https://vianna.de/01_workgroups/nogueira/staff/franklin.html)**
 
 ---
 ### Publications
