@@ -4,6 +4,7 @@ Title: Research Interests
 * **[Electric Acoustic Stimulation](https://vianna.de/01_workgroups/nogueira/research/eas.html)**
 * **[Closed-Loop Cochlear Implants](https://vianna.de/01_workgroups/nogueira/research/closed-loop.html)** 
 * **[Music and Cochlear Implants](https://vianna.de/01_workgroups/nogueira/research/music_and_CI.html)**
+* **[Computational Modelling](https://vianna.de/01_workgroups/nogueira/research/modelling.html)**
 
 
 ---
