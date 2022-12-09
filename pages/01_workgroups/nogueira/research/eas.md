@@ -22,11 +22,12 @@ title: Electric Acoustic Stimulation
 
 ![Sound coding for EAS users.](SoundcodingforEASusers.png)
 
-# Computational modeling for EAS
+# Computational modelling for EAS
 * Development of 3D models of the cochlea for ES and EAS
 * Models of neural coding in auditory nerve fibers in response to ES, AS, and EAS
 * Models of electrophysiological responses such as the electrically or acoustically evoked compound action potential to investigate the effect of electric-acoustic interaction on these measures
 * Neural networks to emulate psychoacoustic experiments or speech perception of EAS users in different neural health conditions
+* See also: **[Computational Modelling](https://vianna.de/01_workgroups/nogueira/research/modelling.html)**
 
 ![Schematic drawing of a cochlear modell.](eas.jpg)
 
