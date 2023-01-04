@@ -1,7 +1,10 @@
 title: Publications
 
 ## 2022
-* Förster C Y, Shityakov S, **Scheper V**, Lenarz T [Linking Cerebrovascular Dysfunction to Age-Related Hearing Loss and Alzheimer’s Disease—Are Systemic Approaches for Diagnosis and Therapy Required? ](https://www.mdpi.com/2218-273X/12/11/1717) Biomolecules 2022, November 2022
+* Malfeld K, Armbrecht N, Pich A, Volk HA, Lenarz T, **Scheper V**.
+[Prevention of Noise-Induced Hearing Loss In Vivo: Continuous Application of Insulin-like Growth Factor 1 and Its Effect on Inner Ear Synapses, Auditory Function and Perilymph Proteins](https://www.mdpi.com/1422-0067/24/1/291) Int. J. Molecular Sciences, December 2022.
+
+* Förster C Y, Shityakov S, **Scheper V**, Lenarz T [Linking Cerebrovascular Dysfunction to Age-Related Hearing Loss and Alzheimer’s Disease—Are Systemic Approaches for Diagnosis and Therapy Required?](https://www.mdpi.com/2218-273X/12/11/1717) Biomolecules, November 2022
 
 * Johne M, Helgers S O A, Alam M , Jelinek J, Hubka P, Krauss J K, **Scheper V**, Kral A, Schwabe K [Processing of auditory information in forebrain regions after hearing loss in adulthood: Behavioral and electrophysiological studies in a rat model](https://www.frontiersin.org/articles/10.3389/fnins.2022.966568/full) Front. Neurosci. Sec. Neurodegeneration, November 2022
 
