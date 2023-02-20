@@ -1,5 +1,9 @@
 title: Publications
 
+## 2023
+* Matin-Mann F, Gao Z, Wei C, Repp F, Artukarslan E, John S, Alcacer Labrador D, Lenarz T, **Scheper V**.
+[Development and In-Silico and Ex-Vivo Validation of a Software for a Semi-Automated Segmentation of the Round Window Niche to Design a Patient Specific Implant to Treat Inner Ear Disorders](https://doi.org/10.3390/jimaging9020051) J. Imaging, February 2023
+
 ## 2022
 * Malfeld K, Armbrecht N, Pich A, Volk HA, Lenarz T, **Scheper V**.
 [Prevention of Noise-Induced Hearing Loss In Vivo: Continuous Application of Insulin-like Growth Factor 1 and Its Effect on Inner Ear Synapses, Auditory Function and Perilymph Proteins](https://www.mdpi.com/1422-0067/24/1/291) Int. J. Molecular Sciences, December 2022.
