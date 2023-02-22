@@ -1,6 +1,9 @@
 title: Publications
 
 ## 2023
+* Behrends W, Wolf K, Raggl S, Fröhlich M, Eicjner T, Dohr D, Esser KH, Lenarz T, **Scheper V**, Paasche G.
+[Dual Drug Delivery in Cochlear Implants: In Vivo Study of Dexamethasone Combined with Diclofenac or Immunophilin Inhibitor MM284 in Guinea Pigs](https://doi.org/10.3390/pharmaceutics15030726) Pharmaceutics, February 2023
+
 * Matin-Mann F, Gao Z, Wei C, Repp F, Artukarslan E, John S, Alcacer Labrador D, Lenarz T, **Scheper V**.
 [Development and In-Silico and Ex-Vivo Validation of a Software for a Semi-Automated Segmentation of the Round Window Niche to Design a Patient Specific Implant to Treat Inner Ear Disorders](https://doi.org/10.3390/jimaging9020051) J. Imaging, February 2023
 
