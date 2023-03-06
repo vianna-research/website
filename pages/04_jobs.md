@@ -7,11 +7,11 @@ title: Open Positions
 
 The following open positions are to be filled in the [CAS lab "Computer Assisted Surgery"](https://www.vianna.de/01_workgroups/cas.html).
 
-Student assistant "software development" [Aushang in Deutsch](01_workgroups/cas/staff/Aushang_Hiwi_23-02-InForMe.pdf).
+Student assistant "software development" [(Aushang 23-02-InForMe in Deutsch](01_workgroups/cas/staff/Aushang_Hiwi_23-02-InForMe.pdf).
 
-Student assistant "mechanical engineering" [Aushang in Deutsch](01_workgroups/cas/staff/Aushang_Hiwi_23-02-OtoTrak.pdf).
+Student assistant "mechanical engineering" [Aushang 23-02-OtoTrak in Deutsch](01_workgroups/cas/staff/Aushang_Hiwi_23-02-OtoTrak.pdf).
 
-Student assistant "implant development" [Aushang in Deutsch](01_workgroups/cas/staff/Aushang_Hiwi_23-02-TRACO.pdf).
+Student assistant "implant development" [Aushang 23-02-TRACO in Deutsch](01_workgroups/cas/staff/Aushang_Hiwi_23-02-TRACO.pdf).
 
 
 
