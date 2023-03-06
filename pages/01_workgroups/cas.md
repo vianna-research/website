@@ -2,7 +2,7 @@ title: CAS Lab - Computer-Assisted Surgery
 
 - - - 
 
-<p><center> Open Positions ([Here](https://www.vianna.de/04_jobs.html) </center></p>
+Open Positions ([Here](https://www.vianna.de/04_jobs.html)
 
 ## Who we are
 
