@@ -1,6 +1,6 @@
 title: Patrick Hinz
 
-![Patrick Hinz](patrickSmall.jpg)
+![Patrick Hinz](patrick.jpg)
 
 Research employee	
 
