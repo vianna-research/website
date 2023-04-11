@@ -33,7 +33,7 @@ Movie about the Institute (in German)
 
 ## News: Press releases:
 
-- Vision Workshop: The Future of Hearing Implant (13th - 14th April 2023)
+- [Vision Workshop: The Future of Hearing Implant (13th - 14th April 2023)](https://vianna.de/visionworkshop.html)
 
 - Prof. Andrej Kral elected member of the German National Academy of Science (Leopoldina)
 
