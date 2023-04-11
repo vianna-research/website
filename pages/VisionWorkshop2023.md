@@ -1,4 +1,4 @@
-title: Vision Workshop: The Future of Hearing Implant (13th - 14th April 2023)
+title: VisionWorkshop2023
 
 
 <p align="center">
