@@ -1,9 +1,9 @@
 title: Vision Workshop 2023
 
 
-## Welcome and Introduction (Prof. Michael P. Manns, Prof. Thomas Lenarz, Prof. Andrej Kral, Prof. Birger Kollmeier)
+# Welcome and Introduction (Prof. Michael P. Manns, Prof. Thomas Lenarz, Prof. Andrej Kral, Prof. Birger Kollmeier)
 ---
-## Session 1: Cochlear Implant Future Developments (Chair: Prof. Thomas Lenarz)
+# Session 1: Cochlear Implant Future Developments (Chair: Prof. Thomas Lenarz)
 
 | Time             |    Description                        |
 | ------------------------|--------------------------- |
@@ -12,11 +12,24 @@ title: Vision Workshop 2023
 | 09:15-09:45                |Importance of Preserving Low Frequency Acoustic Hearing: Central Auditory Processing (Prof. Bruce Gantz, University of Iowa, USA)|
 | 09:45-10:15                    | Totally implantable cochlear implant(Totally implantable cochlear implant)|
 | 10:15-10:45                |Cochleo-Vestibular Implants (Electrical stimulation of the Otolith Organs, Prof. Manuel Manrique Rodrígez, Clinica Universidad de Navarra, Spain)|
+| 10:45-11:05                |Discussion|
+| 11:05-11:30              |Coffee break|
+
 
 ## Session 2: Advanced Diagnostics (Chair: Prof. Anke Lesinski-Schiedat, Hannover Medical School)
 * 11:30 - 11:45
 
 
+## Session 3: Advanced Diagnostics (Chair: Prof. Anke Lesinski-Schiedat, Hannover Medical School)
+* 11:30 - 11:45
+
+
+## Session 4: Advanced Diagnostics (Chair: Prof. Anke Lesinski-Schiedat, Hannover Medical School)
+* 11:30 - 11:45
+
+
+## Session 2: Advanced Diagnostics (Chair: Prof. Anke Lesinski-Schiedat, Hannover Medical School)
+* 11:30 - 11:45
 
 
 Footer
