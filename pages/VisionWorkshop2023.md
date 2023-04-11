@@ -49,7 +49,6 @@ pluripotent stem cells)|
 | 15:15-15:45 | Prof. Lawrence Lustig, Columbia University, USA |
 | 15:45-16:15 |Deep Phenotyping of Hearing Instability Disorders: Searching for 
 Biomarkers and Re-purposable Therapeutics (Michael Hoa, Porter Neuroscience Research Center, USA)|
-
 | 16:15-16:40|Coffe Break|
 | 16:40-17:10|Stem Cells for Hearing Regeneration: towards a first-in-human 
 clinical trial (Prof. Gerry O’Donoghue, Queen’s Medical Centre, UK)|
@@ -66,7 +65,6 @@ disease-modifying gene therapy (Prof. Vincent can Rompaey, University of Antwerp
 | 15:15-15:45 | Robotics and computer assisted surgery on ear (Prof. Marco Caversaccio, Inselspital – Universitätsspital Bern, Switzerland)|
 | 15:45-16:15 |Robot-based assistance for middle ear and cochlear implant 
 surgery (Prof. Yann Nguyen, Sorbonne Université, France)|
-
 | 16:15-16:40|Coffe Break|
 | 16:40-17:10|Precision control of critical parameters: Surgical tools to 
 increase the reliability of cochlear implants (Thomas Rau Ph.D., Hannover Medical School)|
