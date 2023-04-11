@@ -33,6 +33,8 @@ Movie about the Institute (in German)
 
 ## News: Press releases:
 
+- Vision Workshop: The Future of Hearing Implant (13th - 14th April 2023)
+
 - Prof. Andrej Kral elected member of the German National Academy of Science (Leopoldina)
 
 - [Gut gebrüllt Kätzchen – Pressemitteilung TiHo](https://www.tiho-hannover.de/aktuelles-presse/pressemitteilungen/pressemitteilungen-2016/pressemitteilungen-2016/article/gut-gebruellt-kaetzchen/)
