@@ -47,14 +47,11 @@ pluripotent stem cells)|
 | Time             |    Room 1                        |
 | ------------------------|--------------------------- |
 | 15:15-15:45 | Prof. Lawrence Lustig, Columbia University, USA |
-| 15:45-16:15 |Deep Phenotyping of Hearing Instability Disorders: Searching for 
-Biomarkers and Re-purposable Therapeutics (Michael Hoa, Porter Neuroscience Research Center, USA)|
+| 15:45-16:15 |Deep Phenotyping of Hearing Instability Disorders: Searching for  Biomarkers and Re-purposable Therapeutics (Michael Hoa, Porter Neuroscience Research Center, USA)|
 | 16:15-16:40|Coffe Break|
-| 16:40-17:10|Stem Cells for Hearing Regeneration: towards a first-in-human 
-clinical trial (Prof. Gerry O’Donoghue, Queen’s Medical Centre, UK)|
+| 16:40-17:10|Stem Cells for Hearing Regeneration: towards a first-in-human  clinical trial (Prof. Gerry O’Donoghue, Queen’s Medical Centre, UK)|
 | 17:40-18:10 |Development of Therapeutic Approaches for Usher Syndrome (Prof. Gwenaelle Geleoc, Boston Children's Hospital & Harvard Medical School, USA)|
-| 18:10-18:40 |Progressive non-syndromic sensorineural hearing loss: towards a 
-disease-modifying gene therapy (Prof. Vincent can Rompaey, University of Antwerp, Belgium)|
+| 18:10-18:40 |Progressive non-syndromic sensorineural hearing loss: towards a  disease-modifying gene therapy (Prof. Vincent can Rompaey, University of Antwerp, Belgium)|
 | 18:40-19:00 |Discussion|
 | From 19:15 |Shuttle to Evening Event|
 | 19:30-22:30 |Evening Event: Gartensaal, Townhall|
@@ -63,13 +60,10 @@ disease-modifying gene therapy (Prof. Vincent can Rompaey, University of Antwerp
 | Time             |    Room 2                        |
 | ------------------------|--------------------------- |
 | 15:15-15:45 | Robotics and computer assisted surgery on ear (Prof. Marco Caversaccio, Inselspital – Universitätsspital Bern, Switzerland)|
-| 15:45-16:15 |Robot-based assistance for middle ear and cochlear implant 
-surgery (Prof. Yann Nguyen, Sorbonne Université, France)|
+| 15:45-16:15 |Robot-based assistance for middle ear and cochlear implant  surgery (Prof. Yann Nguyen, Sorbonne Université, France)|
 | 16:15-16:40|Coffe Break|
-| 16:40-17:10|Precision control of critical parameters: Surgical tools to 
-increase the reliability of cochlear implants (Thomas Rau Ph.D., Hannover Medical School)|
-| 17:00-17:30 |Preservation of Functional Residual Hearing Comparing Manual 
-and Robotic Insertion of Cochlear Implants (Prof. Bruce Gantz, University of Iowa, USA)|
+| 16:40-17:10|Precision control of critical parameters: Surgical tools to  increase the reliability of cochlear implants (Thomas Rau Ph.D., Hannover Medical School)|
+| 17:00-17:30 |Preservation of Functional Residual Hearing Comparing Manual  and Robotic Insertion of Cochlear Implants (Prof. Bruce Gantz, University of Iowa, USA)|
 | 18:20-18:30 |Discussion|
 | From 19:15 |Shuttle to Evening Event|
 | 19:30-22:30 |Evening Event: Gartensaal, Townhall|
