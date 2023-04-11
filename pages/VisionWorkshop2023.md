@@ -1,4 +1,4 @@
-title: VisionWorkshop2023
+title: Vision Workshop 2023
 
 
 ## Welcome and Introduction (Prof. Michael P. Manns, Prof. Thomas Lenarz, Prof. Andrej Kral, Prof. Birger Kollmeier)
