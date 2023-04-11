@@ -3,7 +3,7 @@ title: Vision Workshop 2023
 
 # Welcome and Introduction (Prof. Michael P. Manns, Prof. Thomas Lenarz, Prof. Andrej Kral, Prof. Birger Kollmeier)
 ---
-# Session 1: Cochlear Implant Future Developments (Chair: Prof. Thomas Lenarz)
+# Session 1 [Room 1]: Cochlear Implant Future Developments (Chair: Prof. Thomas Lenarz)
 
 | Time             |    Description                        |
 | ------------------------|--------------------------- |
@@ -15,19 +15,19 @@ title: Vision Workshop 2023
 | 10:45-11:05                |Discussion|
 | 11:05-11:30              |Coffee break|
 
-
+---
 ## Session 2: Advanced Diagnostics (Chair: Prof. Anke Lesinski-Schiedat, Hannover Medical School)
 * 11:30 - 11:45
 
-
+---
 ## Session 3: Advanced Diagnostics (Chair: Prof. Anke Lesinski-Schiedat, Hannover Medical School)
 * 11:30 - 11:45
 
-
+---
 ## Session 4: Advanced Diagnostics (Chair: Prof. Anke Lesinski-Schiedat, Hannover Medical School)
 * 11:30 - 11:45
 
-
+---
 ## Session 2: Advanced Diagnostics (Chair: Prof. Anke Lesinski-Schiedat, Hannover Medical School)
 * 11:30 - 11:45
 
