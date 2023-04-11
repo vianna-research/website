@@ -1,7 +1,7 @@
 title: Vision Workshop 2023
 
 
-Welcome and Introduction (Prof. Michael P. Manns, Prof. Thomas Lenarz, Prof. Andrej Kral, Prof. Birger Kollmeier)
+Thursday, 13th April 2023 | 07:30 - 19:00
 ---
 
 | Time             |    Room 1                        |
