@@ -66,7 +66,7 @@ Thursday, 13th April 2023 | 07:30 - 19:00
 | From 19:15 |Shuttle to Evening Event|
 | 19:30-22:30 |Evening Event: Gartensaal, Townhall|
 
-Footer
+
 © 2023 GitHub, Inc.
 Footer navigation
 Terms
