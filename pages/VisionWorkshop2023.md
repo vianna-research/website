@@ -1,9 +1,9 @@
 title: Vision Workshop 2023
 
 
-# Welcome and Introduction (Prof. Michael P. Manns, Prof. Thomas Lenarz, Prof. Andrej Kral, Prof. Birger Kollmeier)
+Welcome and Introduction (Prof. Michael P. Manns, Prof. Thomas Lenarz, Prof. Andrej Kral, Prof. Birger Kollmeier)
 ---
-# Session 1: Cochlear Implant Future Developments (Chair: Prof. Thomas Lenarz)
+Session 1: Cochlear Implant Future Developments (Chair: Prof. Thomas Lenarz)
 
 | Time             |    Room 1                        |
 | ------------------------|--------------------------- |
