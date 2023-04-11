@@ -1,11 +1,6 @@
 title: VisionWorkshop2023
 
 
-<p align="center">
-  <img src="binom2.png" style="display: block; margin: 0 auto" >
-</p>
-
-
 ## Programm
 
 * Welcome and Introduction (Prof. Michael P. Manns, Prof. Thomas Lenarz, Prof. Andrej Kral, Prof. Birger Kollmeier)
@@ -15,9 +10,6 @@ title: VisionWorkshop2023
 * Session 4: Individualized, Adaptive Implants And Additive Manufacturing Technologies
 * Session 5: Robotics and computer assisted technologies for precision surgery
 
-<p align="center">
-  <img width="550" src="BinProc.png">
-</p>
 
 
 ## Deep Learning
@@ -28,9 +20,6 @@ title: VisionWorkshop2023
 * Classical music remixing using multi-head neural networks
 * Brain-informed music source separation
 
-<p align="center">
-  <img width="550" src="ace_nn.png">
-</p>
 
 
 Footer
