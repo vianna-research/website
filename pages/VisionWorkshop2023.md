@@ -17,8 +17,7 @@ Thursday, 13th April 2023 | 07:30 - 19:00
 | 11:05-11:30              |Coffee break|
 | 11:30-13:35              | Advanced Diagnostics (Chair: Prof. Anke Lesinski-Schiedat, Hannover Medical School)|
 | 11:30-11:45  |Overview by Prof. Athanasia Warnecke, Hannover Medical School|
-| 11:45-12:15   | Optical Coherence Tomography for Image-guided Cochlear 
-Implantation and diagnostics: a near future? (Prof. Nicolas Verhaert, UZ Leuven, Belgium)|
+| 11:45-12:15   | Optical Coherence Tomography for Image-guided Cochlear  Implantation and diagnostics: a near future? (Prof. Nicolas Verhaert, UZ Leuven, Belgium)|
 | 12:15-12:30                |Functional and molecular diagnostics of the auditory system with PET including new perspectives from translational research (Prof. Georg Berding, Hannover Medical School)|
 | 12:30-12:45                    | Audiological Diagnostics supported by Machine Learning and auditory models (Prof. Birger Kollmeier, University of Oldenburg, Germany)|
 | 12:45-13:15                |Auditory neuropathy (Prof. Hung Thai-Van, Hôpital Edouard Herriot Lyon, France)|
@@ -26,8 +25,7 @@ Implantation and diagnostics: a near future? (Prof. Nicolas Verhaert, UZ Leuven,
 | 13:35-14:30              |Lunch break|
 | 14:30-19:00              |Advanced Implants: drug delivery, regeneration,  gene therapy (Chairs: Prof. Athanasia Warnecke, Hannover Medical School  Prof. Marcelo Rivolta, University of Sheffi eld, UK)|
 | 14:30-14:45              |Overview by Prof. Theodor Doll, Hannover Medical School|
-| 14:45-15:15              |Regeneration and biology in the inner ear: input of human induced  pluripotent stem cells (Regeneration and biology in the inner ear: input of human induced 
-pluripotent stem cells)|
+| 14:45-15:15              |Regeneration and biology in the inner ear: input of human induced  pluripotent stem cells (Regeneration and biology in the inner ear: input of human induced pluripotent stem cells)|
 
 ---
 | Time             |    Room 2                        |
