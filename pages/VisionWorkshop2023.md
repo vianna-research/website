@@ -8,7 +8,7 @@ Thursday, 13th April 2023 | 07:30 - 19:00
 | Time             |    Room 1                        |
 | ------------------------|--------------------------- |
 | from 7:30 |Registration|
----
+----
 | 08:30-11:05  |**Cochlear Implant Future Developments (Chair: Prof. Thomas Lenarz)**|
 | 08:30-08:45  |Overview by Prof. Thomas Lenarz, Hannover Medical School|
 | 08:45-09:15   | Cochlear implant after-care: the emerging role of implant-derived objective measures (Prof. Stephen O’Leary, University of Melbourne, Australia)|
