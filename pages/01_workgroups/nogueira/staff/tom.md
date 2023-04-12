@@ -1,4 +1,6 @@
-title: [**Tom Gajecki**](https://www.researchgate.net/profile/Tom-Gajecki)
+title: Tom Gajecki
+
+[ResearchGate](https://www.researchgate.net/profile/Tom-Gajecki)
 
 ![Tom Gajecki](Gajecki.jpg)
 
