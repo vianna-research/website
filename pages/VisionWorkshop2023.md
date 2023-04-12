@@ -110,24 +110,3 @@ Friday, 14th April 2023 | 08:00 - 18:45
 | 15:25-15:55 |How early language experience influences brain and cognitive development (Prof. Rachel R. Romeo, University of Maryland, USA)|
 | 15:55-16:25 |Implementation of the ICF model in adult Cochlear Implant users (Ellen Andries Ph.D., Antwerp University Hospital, Belgium)|
 | 16:25-16:40 |Discussion|
-
-
-
-
-
-
-
-
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
