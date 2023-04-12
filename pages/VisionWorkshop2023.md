@@ -37,7 +37,7 @@ Thursday, 13th April 2023 | 07:30 - 19:00
 | 12:45-13:15 |Patient-individualized drug delivering Implants in  Otorhinolaryngology (PD Verena Scheper, Hannover Medical School)|
 | 13:15-13:35 |Discussion|
 | 13:35-14:30 |Lunch Break|
-| 14:30-18:00 |Robotics and computer assisted technologies for  precision surgery (Chair: Samuel John, Hannover Medical School)|
+| 14:30-19:00 |**Robotics and computer assisted technologies for  precision surgery (Chair: Samuel John, Hannover Medical School)**|
 | 14:30-14:45 |Overview by Rolf Salcher, Hannover Medical School|
 | 14:45-15:15 |Fluoroscopy and intra-OP imaging as quality control for Minimal  Invasive CI Surgery (Prof. Greg Eigner Jablonski / Ralf Greisiger University of Oslo, Norway / Oslo University Hospital, Norway)|
 
@@ -51,13 +51,14 @@ Thursday, 13th April 2023 | 07:30 - 19:00
 | 17:40-18:10 |Development of Therapeutic Approaches for Usher Syndrome (Prof. Gwenaelle Geleoc, Boston Children's Hospital & Harvard Medical School, USA)|
 | 18:10-18:40 |Progressive non-syndromic sensorineural hearing loss: towards a  disease-modifying gene therapy (Prof. Vincent can Rompaey, University of Antwerp, Belgium)|
 | 18:40-19:00 |Discussion|
+--
 | From 19:15 |Shuttle to Evening Event|
 | 19:30-22:30 |Evening Event: Gartensaal, Townhall|
 
 ---
 | Time             |    Room 2                        |
 | ------------------------|--------------------------- |
-| 15:15-15:45 | **Robotics and computer assisted surgery on ear (Prof. Marco Caversaccio, Inselspital – Universitätsspital Bern, Switzerland)**|
+| 15:15-15:45 | Robotics and computer assisted surgery on ear (Prof. Marco Caversaccio, Inselspital – Universitätsspital Bern, Switzerland)|
 | 15:45-16:15 |Robot-based assistance for middle ear and cochlear implant  surgery (Prof. Yann Nguyen, Sorbonne Université, France)|
 | 16:15-16:40|Coffe Break|
 | 16:40-17:10|Precision control of critical parameters: Surgical tools to  increase the reliability of cochlear implants (Thomas Rau Ph.D., Hannover Medical School)|
@@ -83,8 +84,9 @@ Friday, 14th April 2023 | 08:00 - 18:45
 | 10:20-10:50 |Personalised neural-network-based closed-loop systems for augmented hearing (Prof. Sarah Verhulst, Ghent University, Belgium Personalised neural-network-based cl)|
 | 10:50-11:20 |Brain-controlled assistive hearing technologies (Prof. Nima Mesgarani, Columbia University, USA)|
 | 11:20-11:35 |Discussion|
+--
 | 11:35-13:15 |Tour NIFE/DHZ + Luch|
-
+--
 
 
 
