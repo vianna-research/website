@@ -89,8 +89,22 @@ Friday, 14th April 2023 | 08:00 - 18:45
 ---
 | 11:35-13:15 |Tour NIFE/DHZ + Luch|
 ---
-
-
+| Time             |    Room 1                        |
+| ------------------------|--------------------------- |
+| 13:15-16:40 |**Central Auditory Implants (Chair: Prof. Kerstin Schwabe)**|
+| 13:15-13:30 |Overview by Prof. Andrej Kral, Hannover Medical School|
+| 13:30-14:00 |Future opportunities for central auditory prosthetics (Prof. Hubert Lim, University of Minnesota, USA)|
+| 14:00-14:30 |Developing a speech neuroprosthesis (David Moses Ph.D., UCSF Weill Institute for Neurosciences, USA)|
+| 14:30-15:00 |Auditory Midbrain Implant – hearing beyond the brainstem (Prof. Amir Samii, International Neuroscience Institute – Hannover, Germany)|
+| 15:00-15:25 |Coffee break|
+| 15:25-15:55 |Intracranial electrophysiology of auditory processing in the human cortex (Prof. Kirill Nourski, University of Iowa, USA)|
+| 15:55-16:25 |Deep Brain Stimulation for Tinnitus: from bench to bed (Marcus Janssen M.D. PhD., Maastricht UMC+, The Netherlands)|
+| 16:25-16:40 |Discussion|
+| 16:40-17:40 |**Future Care Concepts (Panel Discussion / Round Table
+Presented by Prof. Jill B. Firszt, Washington University School of Medicine, USA and Prof. Andreas Büchner, Hannover Medical School Participants: Stefan Launer, Sonova AG, Switzerland Prof. Hubert Lim, University of Minnesota, USA Prof. Fan-Gang Zeng, University of California, USA Prof. Stephen O’Leary, University of Melbourne, Australia PD Dr. Angelika Illg, Hannover Medical School, Germany)**|
+| 18:30-18:45 |Closing Remarks|
+---
+| 19:30-22:30 |Dinner|
 
 
 
