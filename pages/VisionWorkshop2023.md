@@ -16,6 +16,10 @@ Thursday, 13th April 2023 | 07:30 - 19:00
 | 10:15-10:45                |Cochleo-Vestibular Implants (Electrical stimulation of the Otolith Organs) (Prof. Manuel Manrique Rodrígez, Clinica Universidad de Navarra, Spain)|
 | 10:45-11:05                |Discussion|
 | 11:05-11:30              |Coffee break|
+
+---
+| Time             |    Room 1                        |
+| ------------------------|--------------------------- |
 | 11:30-13:35              | **Advanced Diagnostics (Chair: Prof. Anke Lesinski-Schiedat, Hannover Medical School)**|
 | 11:30-11:45  |Overview by Prof. Athanasia Warnecke, Hannover Medical School|
 | 11:45-12:15   | Optical Coherence Tomography for Image-guided Cochlear  Implantation and diagnostics: a near future? (Prof. Nicolas Verhaert, UZ Leuven, Belgium)|
