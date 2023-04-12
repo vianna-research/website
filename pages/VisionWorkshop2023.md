@@ -98,6 +98,18 @@ Friday, 14th April 2023 | 08:00 - 18:45
 | 19:30-22:30 |Dinner|
 
 
+---
+| Time             |    Room 2                        |
+| ------------------------|--------------------------- |
+| 13:15-16:40 |**Hearing and cognition, education, societal impact (Chair: PD Angelika Illg Ph.D., Hannover Medical School Prof. Christiane Thiel Ph.D., University of Oldenburg)**|
+| 13:15-13:30 |Overview by PD Angelika Illg, Hannover Medical School|
+| 13:30-14:00 |Improving the assessment of hearing impairment in children globally (Prof. Ulrike Lüdtke, Leibniz Universität Hannover, Germany)|
+| 14:00-14:30 |Use of EEG and fNIRS to predict language outcomes in children with cochlear implants (Prof. Mickael L.D. Deroche, Concordia University, Canada)|
+| 14:30-15:00 |Defining working memory profiles in children with auditory/communicative disorders (Dr. Margreet Langereis, Pento Speech and Hearing Centers, The Netherlands)|
+| 15:00-15:25 |Coffee break|
+| 15:25-15:55 |How early language experience influences brain and cognitive development (Prof. Rachel R. Romeo, University of Maryland, USA)|
+| 15:55-16:25 |Implementation of the ICF model in adult Cochlear Implant users (Ellen Andries Ph.D., Antwerp University Hospital, Belgium)|
+| 16:25-16:40 |Discussion|
 
 
 
