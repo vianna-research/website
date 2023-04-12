@@ -1,9 +1,6 @@
-title: Tom Gajecki 
+title: [Tom Gajecki](https://www.researchgate.net/profile/Tom-Gajecki)
 
-
-
-![Tom Gajecki](https://www.researchgate.net/profile/Tom-Gajecki)
-[Tom Gajecki](Gajecki.jpg)
+![Tom Gajecki](Gajecki.jpg)
 
 
 Research employee	
