@@ -14,7 +14,9 @@ Thursday, 13th April 2023 | 07:30 - 19:00
 | 09:45-10:15                    | Totally implantable cochlear implant(Totally implantable cochlear implant)|
 | 10:15-10:45                |Cochleo-Vestibular Implants (Electrical stimulation of the Otolith Organs) (Prof. Manuel Manrique Rodrígez, Clinica Universidad de Navarra, Spain)|
 | 10:45-11:05                |Discussion|
+--
 | 11:05-11:30              |Coffee break|
+--
 | 11:30-13:35              | **Advanced Diagnostics (Chair: Prof. Anke Lesinski-Schiedat, Hannover Medical School)**|
 | 11:30-11:45  |Overview by Prof. Athanasia Warnecke, Hannover Medical School|
 | 11:45-12:15   | Optical Coherence Tomography for Image-guided Cochlear  Implantation and diagnostics: a near future? (Prof. Nicolas Verhaert, UZ Leuven, Belgium)|
@@ -22,7 +24,9 @@ Thursday, 13th April 2023 | 07:30 - 19:00
 | 12:30-12:45                    | Audiological Diagnostics supported by Machine Learning and auditory models (Prof. Birger Kollmeier, University of Oldenburg, Germany)|
 | 12:45-13:15                |Auditory neuropathy (Prof. Hung Thai-Van, Hôpital Edouard Herriot Lyon, France)|
 | 13:15-13:35                |Discussion|
+--
 | 13:35-14:30              |Lunch break|
+--
 | 14:30-19:00              |**Advanced Implants: drug delivery, regeneration,  gene therapy (Chairs: Prof. Athanasia Warnecke, Hannover Medical School  Prof. Marcelo Rivolta, University of Sheffi eld, UK)**|
 | 14:30-14:45              |Overview by Prof. Theodor Doll, Hannover Medical School|
 | 14:45-15:15              |Regeneration and biology in the inner ear: input of human induced  pluripotent stem cells (Regeneration and biology in the inner ear: input of human induced pluripotent stem cells)|
@@ -51,9 +55,6 @@ Thursday, 13th April 2023 | 07:30 - 19:00
 | 17:40-18:10 |Development of Therapeutic Approaches for Usher Syndrome (Prof. Gwenaelle Geleoc, Boston Children's Hospital & Harvard Medical School, USA)|
 | 18:10-18:40 |Progressive non-syndromic sensorineural hearing loss: towards a  disease-modifying gene therapy (Prof. Vincent can Rompaey, University of Antwerp, Belgium)|
 | 18:40-19:00 |Discussion|
---
-| From 19:15 |Shuttle to Evening Event|
-| 19:30-22:30 |Evening Event: Gartensaal, Townhall|
 
 ---
 | Time             |    Room 2                        |
@@ -64,9 +65,10 @@ Thursday, 13th April 2023 | 07:30 - 19:00
 | 16:40-17:10|Precision control of critical parameters: Surgical tools to  increase the reliability of cochlear implants (Thomas Rau Ph.D., Hannover Medical School)|
 | 17:00-17:30 |Preservation of Functional Residual Hearing Comparing Manual  and Robotic Insertion of Cochlear Implants (Prof. Bruce Gantz, University of Iowa, USA)|
 | 18:20-18:30 |Discussion|
+--
 | From 19:15 |Shuttle to Evening Event|
 | 19:30-22:30 |Evening Event: Gartensaal, Townhall|
-
+--
 
 Friday, 14th April 2023 | 08:00 - 18:45
 ---
