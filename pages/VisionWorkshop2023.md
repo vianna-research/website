@@ -1,6 +1,6 @@
 title: Vision Workshop 2023
 
-### Full program and abstracts: [Download](https://vianna.uber.space/Abstractbook vision-2.pdf)**
+### Full program and abstracts: **[Download](https://vianna.uber.space/Abstractbook vision-2.pdf)**
 
 Thursday, 13th April 2023 | 07:30 - 19:00
 ---
@@ -82,6 +82,7 @@ Friday, 14th April 2023 | 08:00 - 18:45
 | 10:50-11:20 |Brain-controlled assistive hearing technologies (Prof. Nima Mesgarani, Columbia University, USA)|
 | 11:20-11:35 |Discussion|
 | 11:35-13:15 |Tour NIFE/DHZ + Luch|
+
 ---
 | Time             |    Room 1                        |
 | ------------------------|--------------------------- |
@@ -97,7 +98,6 @@ Friday, 14th April 2023 | 08:00 - 18:45
 | 16:40-17:40 |**Future Care Concepts (Panel Discussion / Round Table Presented by Prof. Jill B. Firszt, Washington University School of Medicine, USA and Prof. Andreas Büchner, Hannover Medical School Participants: Stefan Launer, Sonova AG, Switzerland Prof. Hubert Lim, University of Minnesota, USA Prof. Fan-Gang Zeng, University of California, USA Prof. Stephen O’Leary, University of Melbourne, Australia PD Dr. Angelika Illg, Hannover Medical School, Germany)**|
 | 18:30-18:45 |Closing Remarks|
 | 19:30-22:30 |Dinner|
-
 
 ---
 | Time             |    Room 2                        |
