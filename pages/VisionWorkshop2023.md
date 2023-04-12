@@ -81,6 +81,7 @@ Friday, 14th April 2023 | 08:00 - 18:45
 | 10:50-11:20 |Brain-controlled assistive hearing technologies (Prof. Nima Mesgarani, Columbia University, USA)|
 | 11:20-11:35 |Discussion|
 | 11:35-13:15 |Tour NIFE/DHZ + Luch|
+---
 | Time             |    Room 1                        |
 | ------------------------|--------------------------- |
 | 13:15-16:40 |**Central Auditory Implants (Chair: Prof. Kerstin Schwabe)**|
