@@ -1,6 +1,9 @@
 title: Publications
 
 ## 2023
+* Domsta V, Hänsch Ch, Lenz S, Gao Z, Matin-Mann F, **Scheper V**, Lenarz T, Seidlitz A.
+[The Influence of Shape Parameters on Unidirectional Drug Release from 3D Printed Implants and Prediction of Release from Implants with Individualized Shapes](https://doi.org/10.3390/pharmaceutics15041276) Pharmaceutics, April 2023
+
 * Behrends W, Wolf K, Raggl S, Fröhlich M, Eicjner T, Dohr D, Esser KH, Lenarz T, **Scheper V**, Paasche G.
 [Dual Drug Delivery in Cochlear Implants: In Vivo Study of Dexamethasone Combined with Diclofenac or Immunophilin Inhibitor MM284 in Guinea Pigs](https://doi.org/10.3390/pharmaceutics15030726) Pharmaceutics, February 2023
 
