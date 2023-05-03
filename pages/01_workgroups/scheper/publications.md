@@ -1,6 +1,9 @@
 title: Publications
 
 ## 2023
+* Behrends W, Ahrens D, Bankstahl J, Esser KH, Paasche G, Lenarz T, **Scheper V**.
+[Refinement of systemic guinea pig deafening in hearing research: Sensorineural hearing loss induced by co-administration of kanamycin and furosemide via the leg veins](https://doi.org/10.1177/00236772231167679) Laboratory Animals, April 2023
+
 * Domsta V, Hänsch Ch, Lenz S, Gao Z, Matin-Mann F, **Scheper V**, Lenarz T, Seidlitz A.
 [The Influence of Shape Parameters on Unidirectional Drug Release from 3D Printed Implants and Prediction of Release from Implants with Individualized Shapes](https://doi.org/10.3390/pharmaceutics15041276) Pharmaceutics, April 2023
 
