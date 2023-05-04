@@ -1,4 +1,30 @@
 title: Publications
+## 2023
+* Behrends W, Ahrens D, Bankstahl JP, Esser KH, **Paasche G**, Lenarz T, Scheper V. Refinement of systemic guinea pig deafening in hearing research: Sensorineural hearing loss induced by co-administration of kanamycin and furosemide via the leg veins. Lab Anim. 2023 Apr 18:236772231167679. doi: 10.1177/00236772231167679. Online ahead of print.
+
+* Behrends W, Wulf K, Raggl S, Fröhlich M, Eickner T, Dohr D, Esser K-H, Lenarz T, Scheper V, **Paasche G**. Dual Drug Delivery in Cochlear Implants: In Vivo Study of Dexamethasone Combined with Diclofenac or Immunophilin Inhibitor MM284 in Guinea Pigs. Pharmaceutics 2023; 15:726. https://doi.org/10.3390/pharmaceutics15030726.
+
+* Goblet M, Lenarz T, **Paasche G**. Effect of Immunophilin Inhibitors on Cochlear Fibroblasts and Spiral Ganglion Cells. Audiol Neurootol. 2023;28(1):43-51. doi: 10.1159/000526454. Epub 2022 Sep 8.
+
+
+## 2022
+* Oppel N, **Paasche G**, Bleich A, Lenarz T, Schuon R. Intravascular Ultrasonography (IVUS)-A Tool for Imaging the Eustachian Tube? Bioengineering (Basel). 2022 Nov 28;9(12):733. doi: 10.3390/bioengineering9120733.
+ 
+* Konrad S, Büchner A, Lenarz T, **Paasche G**. Impedance development after implantation of hybrid-L24 cochlear implant electrodes. Int J Audiol. 2022 Oct 4:1-8. doi: 10.1080/14992027.2022.2125914. Online ahead of print.
+
+* Oppel N, Ezzat M, Krüger P, Schmitt K, Napp A, Pohl F, Bleich A, Lenarz T, Stein T, **Paasche G**, Schuon R. Development of an In Vivo Model for Eustachian Tube Dysfunction. Bioengineering (Basel). 2022 Jul 15;9(7):317. doi: 10.3390/bioengineering9070317.
+ 
+* Anacker A, Esser KH, Lenarz T, **Paasche G**. Purification of Fibroblasts From the Spiral Ganglion. Front Neurol. 2022 Apr 15;13:877342. doi: 10.3389/fneur.2022.877342. eCollection 2022.
+
+* Wulf K, Goblet M, Raggl S, Teske M, Eickner T, Lenarz T, Grabow N, **Paasche G**. PLLA Coating of Active Implants for Dual Drug Release Molecules. 2022 Feb 19;27(4):1417. doi: 10.3390/molecules27041417.
+
+
+## 2021
+* Schuon R, Schwarzensteiner J, **Paasche G**, Lenarz T, John S. Functional aspects of the Eustachian tube by means of 3D-modeling. PLoS One. 2021 Aug 12;16(8):e0244909. doi: 10.1371/journal.pone.0244909. eCollection 2021.
+ 
+* Goblet M, Matin F, Lenarz T, **Paasche G**. Optical absorbance of the tympanic membrane in rat and human samples. PLoS One. 2021 Jul 22;16(7):e0254902. doi: 10.1371/journal.pone.0254902. eCollection 2021.
+
+
 ## 2020
 * Scheper V, Seidel-Effenberg I, Lenarz T, Stöver T, **Paasche G**. Consecutive Treatment with Brain-Derived Neurotrophic Factor and Electrical Stimulation Has a Protective Effect on Primary Auditory Neurons. Brain Sci. 2020 Aug 15;10(8):559. doi: 10.3390/brainsci10080559.
 
