@@ -10,20 +10,17 @@ PD Dr. Gerrit Paasche | <paasche.gerrit@mh-hannover.de>
 Friederike Pohl, PhD.,
 Robert Schuon, MD.,
 Malena Ezzat, MD.,
-Jasmin Bohlmann,
-Simon Konrad, MUC.,
 Lukas Lübbersmeyer, MUC.,
-Henrike Senker, MUC.,
 Jannis-Fiete Riedemann, MUC.,
 Halina Ebel, MUC.,
-Ida Janzen-Senn, MUC.,
 Lena Rosenbusch, MUC.,
-Madeleine Goblet,
 Alexandra Napp,
 Katharina Schmitt,
 Niels Oppel,
 Wiebke Behrends,
-Lisa Kötter
+Stina Winkelmann,
+Lennart Fibranz,
+Vinzent Braemer
 
 <!--
 
