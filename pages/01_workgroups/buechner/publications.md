@@ -1,6 +1,10 @@
 title: Publications
 ## 2023
 
+* **[Monitoring Cochlear Health With Intracochlear Electrocochleography During Cochlear Implantation: Findings From an International Clinical Investigation](https://journals.lww.com/ear-hearing/Fulltext/2023/03000/Monitoring_Cochlear_Health_With_Intracochlear.13.aspx)**
+O'Leary S, Mylanus E, Venail F, Lenarz T, Birman C, Di Lella F, Roland JT Jr, Gantz B, Beynon A, Sicard M, **Büchner A**, Lai WK, Boccio C, Choudhury B, Tejani VD, Plant K, English R, Arts R, Bester C. 
+Ear Hear. 2023 Mar-Apr 01;44(2):358-370. doi: 10.1097/AUD.0000000000001288. Epub 2022 Nov 8.
+
 * **[Vergleich des Sprachverstehens unter Berücksichtigung der genauen Elektrodenposition (SRA/MRA/CA) [Comparison of speech understanding taking into account the exact electrode position (SRA/MRA/CA)]](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2036-7896)**
 Roßberg C, Timm M, Roßberg W, Kludt E, Bronzlik P, Lesinski-Schiedat A, **Büchner A**, Lenarz T.
 Laryngorhinootologie. 2023 Apr 13. German. doi: 10.1055/a-2036-7896. Epub ahead of print. 
