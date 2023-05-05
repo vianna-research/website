@@ -1,6 +1,57 @@
 title: Publications
+## 2023
+
+* **[Vergleich des Sprachverstehens unter Berücksichtigung der genauen Elektrodenposition (SRA/MRA/CA) [Comparison of speech understanding taking into account the exact electrode position (SRA/MRA/CA)]](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2036-7896)**
+Roßberg C, Timm M, Roßberg W, Kludt E, Bronzlik P, Lesinski-Schiedat A, **Büchner A**, Lenarz T.
+Laryngorhinootologie. 2023 Apr 13. German. doi: 10.1055/a-2036-7896. Epub ahead of print. 
+
+* **[Comparisons of electrophysiological and psychophysical fitting methods for cochlear implants](https://www.tandfonline.com/doi/full/10.1080/14992027.2021.2015543)**
+Müller-Deile J, Neben N, Dillier N, **Büchner A**, Mewes A, Junge F, Lai W, Schuessler M, Hey M.
+Int J Audiol. 2023 Feb;62(2):118-128. doi: 10.1080/14992027.2021.2015543. Epub 2021 Dec 29
+
+## 2022
+
+* **[Impedance development after implantation of hybrid-L24 cochlear implant electrodes](https://www.tandfonline.com/doi/abs/10.1080/14992027.2022.2125914?journalCode=iija20)**
+Konrad S, **Büchner A**, Lenarz T, Paasche G.
+Int J Audiol. 2022 Oct 4:1-8. doi: 10.1080/14992027.2022.2125914. Epub ahead of print. 
+
+* **[Can Electrocochleography Help Preserve Hearing After Cochlear Implantation With Full Electrode Insertion?](https://journals.lww.com/otology-neurotology/Fulltext/2022/08000/Can_Electrocochleography_Help_Preserve_Hearing.14.aspx)**
+Harris MS, Koka K, Riggs WJ, Saleh S, Holder JT, Dwyer RT, Prentiss S, Lefler S, Kozlowski K, Hiss MM, Ortmann AJ, Nelson-Bakkum E, **Büchner A**, Salcher R, Harvey SA, Hoffer ME, Bohorquez JE, Alzhrani F, Alshihri R, Fida A, Danner CJ, Friedland DR, Seidman MD, Lenarz T, Telischi FF, Labadie RF, Buchman CA, Adunka OF.
+Otol Neurotol. 2022 Aug 1;43(7):789-796. doi: 10.1097/MAO.0000000000003588. Epub 2022 Jul 19. 
+
+* **[Cochlear Implantation: Concept, Results Outcomes and Quality of Life](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1731-9321)**
+Lenarz T, **Büchner A**, Illg A.
+Laryngorhinootologie. 2022 May;101(S 01):S36-S78. English, German. doi: 10.1055/a-1731-9321. Epub 2022 May 23.
+
+* **[Facial nerve stimulation in cochlear implant users - a matter of stimulus parameters?](https://www.tandfonline.com/doi/abs/10.1080/14670100.2022.2026025?journalCode=ycii20)**
+Gärtner L, Lenarz T, Ivanauskaite J, **Büchner A**.
+Cochlear Implants Int. 2022 May;23(3):165-172. doi: 10.1080/14670100.2022.2026025. Epub 2022 Jan 22. 
+
+* **[Towards single-trial classification of invasively recorded auditory evoked potentials in cochlear implant users](https://iopscience.iop.org/article/10.1088/1741-2552/ac572d)**
+Bauernfeind G, Teschner MJ, Wriessnegger SC, **Büchner A**, Lenarz T, Haumann S.
+J Neural Eng. 2022 Mar 8;19(2). doi: 10.1088/1741-2552/ac572d.
+
+* **[Phantom Stimulation for Cochlear Implant Users With Residual Low-Frequency Hearing](https://journals.lww.com/ear-hearing/Fulltext/2022/03000/Phantom_Stimulation_for_Cochlear_Implant_Users.34.aspx)**
+Krüger B, **Büchner A**, Nogueira W.
+Ear Hear. 2022 Mar/Apr;43(2):631-645. doi: 10.1097/AUD.0000000000001121. 
+
+* **[ARTFit-A Quick and Reliable Tool for Performing Initial Fittings in Users of MED-EL Cochlear Implants](https://www.mdpi.com/2075-1729/12/2/269)**
+Gärtner L, Bräcker T, Kals M, Penninger RT, Billinger-Finke M, Lenarz T, **Büchner A.**
+Life (Basel). 2022 Feb 11;12(2):269. doi: 10.3390/life12020269.
+
+* **[Towards decoding selective attention through cochlear implant electrodes as sensors in subjects with contralateral acoustic hearing](https://iopscience.iop.org/article/10.1088/1741-2552/ac4de6)**
+Aldag N, **Büchner A**, Lenarz T, Nogueira W. 
+J Neural Eng. 2022 Feb 10;19(1). doi: 10.1088/1741-2552/ac4de6.
 
 ## 2021
+
+* **[An event-related brain potential study of auditory attention in cochlear implant users](https://www.sciencedirect.com/science/article/abs/pii/S1388245721005708?via%3Dihub)**
+Schierholz I, Schönermark C, Ruigendijk E, Kral A, Kopp B, **Büchner A.**
+Clin Neurophysiol. 2021 Sep;132(9):2290-2305. doi: 10.1016/j.clinph.2021.03.055. Epub 2021 May 20.
+
+* **[How Do We Allocate Our Resources When Listening and Memorizing Speech in Noise? A Pupillometry Study](https://journals.lww.com/ear-hearing/Fulltext/2021/07000/How_Do_We_Allocate_Our_Resources_When_Listening.9.aspx)**
+Bönitz H, Lunner T, Finke M, Fiedler L, Lyxell B, Riis SK, Ng E, Valdes AL, **Büchner A**, Wendt D.
+Ear Hear. 2021 July/Aug;42(4):846-859. doi: 10.1097/AUD.0000000000001002.
 
 * **[Image Processing of Conventional Computer Tomography Images for Segmentation of the Human Cochlea](https://ebooks.iospress.nl/doi/10.3233/SHTI210123)**
 Stritzel J, Wolff D, Wolf KH, Weller T, Lenarz T, **Büchner A**, Marschollek M.
