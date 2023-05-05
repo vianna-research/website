@@ -15,6 +15,10 @@ Int J Audiol. 2023 Feb;62(2):118-128. doi: 10.1080/14992027.2021.2015543. Epub 2
 
 ## 2022
 
+* **[A Web-Based Automated Image Processing Research Platform for Cochlear Implantation-Related Studies](https://www.mdpi.com/2077-0383/11/22/6640)**
+Margeta J, Hussain R, López Diez P, Morgenstern A, Demarcy T, Wang Z, Gnansia D, Martinez Manzanera O, Vandersteen C, Delingette H, **Büchner A**, Lenarz T, Patou F, Guevara N.
+J Clin Med. 2022 Nov 9;11(22):6640. doi: 10.3390/jcm11226640. 
+
 * **[Impedance development after implantation of hybrid-L24 cochlear implant electrodes](https://www.tandfonline.com/doi/abs/10.1080/14992027.2022.2125914?journalCode=iija20)**
 Konrad S, **Büchner A**, Lenarz T, Paasche G.
 Int J Audiol. 2022 Oct 4:1-8. doi: 10.1080/14992027.2022.2125914. Epub ahead of print. 
@@ -30,6 +34,14 @@ Laryngorhinootologie. 2022 May;101(S 01):S36-S78. English, German. doi: 10.1055/
 * **[Facial nerve stimulation in cochlear implant users - a matter of stimulus parameters?](https://www.tandfonline.com/doi/abs/10.1080/14670100.2022.2026025?journalCode=ycii20)**
 Gärtner L, Lenarz T, Ivanauskaite J, **Büchner A**.
 Cochlear Implants Int. 2022 May;23(3):165-172. doi: 10.1080/14670100.2022.2026025. Epub 2022 Jan 22. 
+
+* **[Clinical experiences with intraoperative electrocochleography in cochlear implant recipients and its potential to reduce insertion trauma and improve postoperative hearing preservation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266077)**
+**Büchner A**, Bardt M, Haumann S, Geissler G, Salcher R, Lenarz T. 
+PLoS One. 2022 Apr 22;17(4):e0266077. doi: 10.1371/journal.pone.0266077. 
+
+* **[Real-world clinical experience with bimodal neuromodulation for the treatment of tinnitus - A case series](https://www.sciencedirect.com/science/article/pii/S1935861X22000286?via%3Dihub)**
+**Büchner A**, Lesinski-Schiedat A, Becker P, Lenarz T.
+Brain Stimul. 2022 Mar-Apr;15(2):383-384. doi: 10.1016/j.brs.2022.01.022. Epub 2022 Feb 3.
 
 * **[Towards single-trial classification of invasively recorded auditory evoked potentials in cochlear implant users](https://iopscience.iop.org/article/10.1088/1741-2552/ac572d)**
 Bauernfeind G, Teschner MJ, Wriessnegger SC, **Büchner A**, Lenarz T, Haumann S.
@@ -47,7 +59,19 @@ Life (Basel). 2022 Feb 11;12(2):269. doi: 10.3390/life12020269.
 Aldag N, **Büchner A**, Lenarz T, Nogueira W. 
 J Neural Eng. 2022 Feb 10;19(1). doi: 10.1088/1741-2552/ac4de6.
 
+* **[Relationship Between Intraoperative Electrocochleography and Hearing Preservation](https://journals.lww.com/otology-neurotology/Fulltext/2022/01000/Relationship_Between_Intraoperative.21.aspx)**
+Lenarz T, **Büchner A**, Gantz B, Hansen M, Tejani VD, Labadie R, O'Connell B, Buchman CA, Valenzuela CV, Adunka OF, Harris MS, Riggs WJ, Fitzpatrick D, Koka K.
+Otol Neurotol. 2022 Jan 1;43(1):e72-e78. doi: 10.1097/MAO.0000000000003403
+
+* **[A sound coding strategy based on a temporal masking model for cochlear implants](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244433)**
+Kludt E, Nogueira W, Lenarz T, **Büchner A**.
+PLoS One. 2021 Jan 8;16(1):e0244433. doi: 10.1371/journal.pone.0244433. 
+
 ## 2021
+
+* **[Predictive models for cochlear implant outcomes: Performance, generalizability, and the impact of cohort size](https://journals.sagepub.com/doi/full/10.1177/23312165211066174?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)**
+Shafieibavani E, Goudey B, Kiral I, Zhong P, Jimeno-Yepes A, Swan A, Gambhir M, **Büchner A**, Kludt E, Eikelboom RH, Sucher C, Gifford RH, Rottier R, Plant K, Anjomshoa H.
+Trends Hear. 2021 Jan-Dec;25:23312165211066174. doi: 10.1177/23312165211066174. 
 
 * **[An event-related brain potential study of auditory attention in cochlear implant users](https://www.sciencedirect.com/science/article/abs/pii/S1388245721005708?via%3Dihub)**
 Schierholz I, Schönermark C, Ruigendijk E, Kral A, Kopp B, **Büchner A.**
