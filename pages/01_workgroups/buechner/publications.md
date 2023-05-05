@@ -2,12 +2,24 @@ title: Publications
 
 ## 2021
 
+* **[Image Processing of Conventional Computer Tomography Images for Segmentation of the Human Cochlea](https://ebooks.iospress.nl/doi/10.3233/SHTI210123)**
+Stritzel J, Wolff D, Wolf KH, Weller T, Lenarz T, **Büchner A**, Marschollek M.
+Stud Health Technol Inform. 2021 May 27;281:73-77. doi: 10.3233/SHTI210123. PMID: 34042708.
+
+* **[Measurements of the local evoked potential from the cochlear nucleus in patients with an auditory brainstem implant and its implication to auditory perception and audio processor programming](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249535)**
+Gärtner L, Lenarz T, Büchner A.
+PLoS One. 2021 Apr 1;16(4):e0249535. doi: 10.1371/journal.pone.0249535.
+
+* **[Hidden Electrode Failure in a Cochlear Implant User](https://onlinelibrary.wiley.com/doi/10.1002/lary.29023)**
+ Gärtner L, **Büchner A**, Illg A, Lenarz T.
+ Laryngoscope. 2021 Apr;131(4):E1275-E1278. doi: 10.1002/lary.29023. Epub 2020 Aug 15.
+
 * **[How Do We Allocate Our Resources When Listening and Memorizing Speech in Noise? A Pupillometry Study](https://journals.lww.com/ear-hearing/Abstract/9000/How_Do_We_Allocate_Our_Resources_When_Listening.98560.aspx)**
 Bönitz H, Lunner T, Finke M, Fiedler L, Lyxell B, Riis SK, Ng E, Valdes AL, **Büchner A**, Wendt D.
 Ear Hear. 2021 Jan 22. doi: 10.1097/AUD.0000000000001002. Online ahead of print.
 
 * **[A MultiCenter Analysis of Factors Associated with Hearing Outcome for 2,735 Adults with Cochlear Implants](https://journals.sagepub.com/doi/full/10.1177/23312165211037525?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)**
-Goudey B, Plant K, Kiral I, Jimeno-Yepes A, Swan A, Gambhir M, Büchner A, Kludt E, Eikelboom RH, Sucher C, Gifford RH, Rottier R, Anjomshoa H.
+Goudey B, Plant K, Kiral I, Jimeno-Yepes A, Swan A, Gambhir M, **Büchner A**, Kludt E, Eikelboom RH, Sucher C, Gifford RH, Rottier R, Anjomshoa H.
 Trends Hear. 2021 Jan-Dec;25:23312165211037525. doi: 10.1177/23312165211037525.
 
 * **[Amplitude Growth Functions of Auditory Nerve Responses to Electric Pulse Stimulation With Varied Interphase Gaps in Cochlear Implant Users With Ipsilateral Residual Hearing](https://journals.sagepub.com/doi/full/10.1177/23312165211014137?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)**
