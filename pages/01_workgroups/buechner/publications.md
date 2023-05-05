@@ -6,6 +6,17 @@ title: Publications
 Bönitz H, Lunner T, Finke M, Fiedler L, Lyxell B, Riis SK, Ng E, Valdes AL, **Büchner A**, Wendt D.
 Ear Hear. 2021 Jan 22. doi: 10.1097/AUD.0000000000001002. Online ahead of print.
 
+* **[A MultiCenter Analysis of Factors Associated with Hearing Outcome for 2,735 Adults with Cochlear Implants](https://journals.sagepub.com/doi/full/10.1177/23312165211037525?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)**
+Goudey B, Plant K, Kiral I, Jimeno-Yepes A, Swan A, Gambhir M, Büchner A, Kludt E, Eikelboom RH, Sucher C, Gifford RH, Rottier R, Anjomshoa H.
+Trends Hear. 2021 Jan-Dec;25:23312165211037525. doi: 10.1177/23312165211037525.
+
+* **[Amplitude Growth Functions of Auditory Nerve Responses to Electric Pulse Stimulation With Varied Interphase Gaps in Cochlear Implant Users With Ipsilateral Residual Hearing](https://journals.sagepub.com/doi/full/10.1177/23312165211014137?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)**
+Imsiecke M, **Büchner A**, Lenarz T, Nogueira W.
+Trends Hear. 2021 Jan-Dec;25:23312165211014137. doi: 10.1177/23312165211014137. 
+
+* **[Do Impedance Changes Correlate With a Delayed Hearing Loss After Hybrid L24 Implantation?](https://journals.lww.com/ear-hearing/Fulltext/2021/01000/Do_Impedance_Changes_Correlate_With_a_Delayed.14.aspx)**
+Konrad S, Framke T, Kludt E, **Büchner A**, Lenarz T, Paasche G.
+Ear Hear. 2021 Jan/Feb;42(1):163-172. doi: 10.1097/AUD.0000000000000914.
 
 ## 2020
 
@@ -40,10 +51,6 @@ Otolaryngology Case Reports Volume 16, September 2020, 100182, doi.org/10.1016/j
 * **[Combined Brain-Perfusion SPECT and EEG Measurements Suggest Distinct Strategies for Speech Comprehension in CI Users With Higher and Lower Performance](https://www.frontiersin.org/articles/10.3389/fnins.2020.00787/full)**
 Kessler M, Schierholz I, Mamach M, Wilke F, Hahne A, **Büchner A** Geworski L, Bengel FM, Sandmann P, Berding G.
 Front Neurosci. 2020 Aug 11;14:787. doi: 10.3389/fnins.2020.00787. eCollection 2020.
-
-* **[Do Impedance Changes Correlate With a Delayed Hearing Loss After Hybrid L24 Implantation?](https://journals.lww.com/ear-hearing/Fulltext/2021/01000/Do_Impedance_Changes_Correlate_With_a_Delayed.14.aspx)**
-Konrad S, Framke T, Kludt E, **Büchner A**, Lenarz T, Paasche G.
-Ear Hear. 2020 Aug 3;42(1):163-172. doi: 10.1097/AUD.0000000000000914.
 
 * **[Interaction Between Electric and Acoustic Stimulation Influences Speech Perception in Ipsilateral EAS Users](https://journals.lww.com/ear-hearing/Fulltext/2020/07000/Interaction_Between_Electric_and_Acoustic.16.aspx)**
 Imsiecke M, Krüger B, **Büchner A**, Lenarz T, Nogueira W.
