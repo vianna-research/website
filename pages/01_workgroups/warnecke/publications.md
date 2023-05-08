@@ -1,15 +1,12 @@
 title: Publications
 ## 2023
-Roßberg W, Dagistani A, Mitovska D, Krüger C, Warnecke A, Lenarz T, Durisin M. Zungengrundhyperplasie nach Tonsillektomie und Korrelation mit dem BMI [Hypertrophy of lingual tonsil following tonsillectomy and correlation with BMI].(https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1887-6352)  Laryngorhinootologie. 2023 May;102(5):357-363. German. doi: 10.1055/a-1887-6352. Epub 2022 Dec 21. PMID: 36543221; PMCID: PMC10159682.
+* Roßberg W, Dagistani A, Mitovska D, Krüger C, Warnecke A, Lenarz T, Durisin M. **[Zungengrundhyperplasie nach Tonsillektomie und Korrelation mit dem BMI [Hypertrophy of lingual tonsil following tonsillectomy and correlation with BMI].](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1887-6352)** Laryngorhinootologie. 2023 May;102(5):357-363. German. doi: 10.1055/a-1887-6352. Epub 2022 Dec 21.
 
-* Eggers H, Häbel L, Ganser A, Grünwald V, Merten R, Warnecke A, Durisin M, Ivanyi P. **[Anti-EGFR-Based Therapy in Recurrent or Metastatic HNSCC - What Difference Does it Make?](https://www.tandfonline.com/doi/abs/10.1080/07357907.2022.2134414?journalCode=icnv20)** Cancer Invest. 2023 Jan;41(1):93-100. doi: 10.1080/07357907.2022.2134414. Epub 2022 Oct 25. PMID: 36239419.
+* Eggers H, Häbel L, Ganser A, Grünwald V, Merten R, Warnecke A, Durisin M, Ivanyi P. **[Anti-EGFR-Based Therapy in Recurrent or Metastatic HNSCC - What Difference Does it Make?](https://www.tandfonline.com/doi/abs/10.1080/07357907.2022.2134414?journalCode=icnv20)** Cancer Invest. 2023 Jan;41(1):93-100. doi: 10.1080/07357907.2022.2134414. Epub 2022 Oct 25.
 
-Warnecke A, Staecker H, Rohde E, Gimona M, Giesemann A, Szczepek AJ, Di Stadio A, Hochmair I, Lenarz T. Extracellular Vesicles in Inner Ear Therapies-Pathophysiological, Manufacturing, and Clinical Considerations.(https://www.mdpi.com/2077-0383/11/24/7455) J Clin Med. 2022 Dec 15;11(24):7455. doi: 10.3390/jcm11247455. PMID: 36556073; PMCID: PMC9788356.
+* Warnecke A, Staecker H, Rohde E, Gimona M, Giesemann A, Szczepek AJ, Di Stadio A, Hochmair I, Lenarz T. **[Extracellular Vesicles in Inner Ear Therapies-Pathophysiological, Manufacturing, and Clinical Considerations.](https://www.mdpi.com/2077-0383/11/24/7455)** J Clin Med. 2022 Dec 15;11(24):7455. doi: 10.3390/jcm11247455.
 
-Harre J, Heinkele L, Steffens M, Warnecke A, Lenarz T, Just I, Rohrbeck A. Corrigendum: Potentiation of brain-derived neurotrophic factor-induced protection of spiral ganglion neurons by C3 exoenzyme/Rho inhibitor.(https://www.frontiersin.org/articles/10.3389/fncel.2022.1078962/full) Front Cell Neurosci. 2022 Nov 3;16:1078962. doi: 10.3389/fncel.2022.1078962. Erratum for: Front Cell Neurosci. 2021 Mar 11;15:602897. PMID: 36406754; PMCID: PMC9670305.
-
-Harre J, Heinkele L, Steffens M, Warnecke A, Lenarz T, Just I, Rohrbeck A. Potentiation of Brain-Derived Neurotrophic Factor-Induced Protection of Spiral Ganglion Neurons by C3 Exoenzyme/Rho Inhibitor.(https://www.frontiersin.org/articles/10.3389/fncel.2021.602897/full) Front Cell Neurosci. 2021 Mar 11;15:602897. doi: 10.3389/fncel.2021.602897. Erratum in: Front Cell Neurosci. 2022 Nov 03;16:1078962. PMID: 33776650; PMCID: PMC7991574.
-
+* Harre J, Heinkele L, Steffens M, Warnecke A, Lenarz T, Just I, Rohrbeck A. **[Corrigendum: Potentiation of brain-derived neurotrophic factor-induced protection of spiral ganglion neurons by C3 exoenzyme/Rho inhibitor.](https://www.frontiersin.org/articles/10.3389/fncel.2022.1078962/full)** Front Cell Neurosci. 2022 Nov 3;16:1078962. doi: 10.3389/fncel.2022.1078962. Erratum for: Front Cell Neurosci. 2021 Mar 11;15:602897.
 
 ## 2022
 * Hoffmann AC*, Warnecke A*, Timm ME, Kludt E, Prenzler NK, Gärtner L, Lenarz T, Salcher RB. **[Cochlear Implantation in Obliterated Cochlea: A Retrospective Analysis and Comparison between the IES Stiff Custom-Made Device and the Split-Array and Regular Electrodes.](https://www.mdpi.com/2077-0383/11/20/6090)** J Clin Med. 2022 Oct;11(20):6090. Published online 2022 Oct 16. doi: 10.3390/jcm11206090 *shared authorship
@@ -34,7 +31,7 @@ Harre J, Heinkele L, Steffens M, Warnecke A, Lenarz T, Just I, Rohrbeck A. Poten
 
 * Peter MS, Warnecke A, Staecker H. **[A Window of Opportunity: Perilymph Sampling from the Round Window Membrane Can Advance Inner Ear Diagnostics and Therapeutics.](https://www.mdpi.com/2077-0383/11/2/316)** Journal of Clinical Medicine. 2022; 11(2):316.
 
-Warnecke A, Kaiser O, Lenarz T. Editorial: 2nd International Symposium on Inner Ear Therapeutics.(https://www.sciencedirect.com/science/article/pii/S0378595521002045?via%3Dihub) Hear Res. 2022 Jan;413:108370. doi: 10.1016/j.heares.2021.108370. Epub 2021 Oct 7. PMID: 34674898
+* Warnecke A, Kaiser O, Lenarz T. **[Editorial: 2nd International Symposium on Inner Ear Therapeutics.](https://www.sciencedirect.com/science/article/pii/S0378595521002045?via%3Dihub)** Hear Res. 2022 Jan;413:108370. doi: 10.1016/j.heares.2021.108370. Epub 2021 Oct 7. PMID: 34674898
 
 * Schulze J, Staecker H, Wedekind D, Lenarz T, Warnecke A. **[Expression pattern of brain-derived neurotrophic factor and its associated receptors: Implications for exogenous neurotrophin application.](https://www.sciencedirect.com/science/article/pii/S0378595520303695?via%3Dihub)** Hear Res. 2022 Jan;413:108098. doi: 10.1016/j.heares.2020.108098. Epub 2020 Oct 21.
 
@@ -44,7 +41,7 @@ Warnecke A, Kaiser O, Lenarz T. Editorial: 2nd International Symposium on Inner 
 
 * Warnecke A, Harre J, Shew M, Mellott AJ, Majewski I, Durisin M, Staecker H. **[Successful Treatment of Noise-Induced Hearing Loss by Mesenchymal Stromal Cells: An RNAseq Analysis of Protective/Repair Pathways.](https://www.frontiersin.org/articles/10.3389/fncel.2021.656930/full)** Front Cell Neurosci. 2021 Nov 23;15:656930. doi: 10.3389/fncel.2021.656930. eCollection 2021. 
 
-Wichova H, Shew M, Nelson-Brantley J, Warnecke A, Prentiss S, Staecker H. MicroRNA Profiling in the Perilymph of Cochlear Implant Patients: Identifying Markers that Correlate to Audiological Outcomes.(https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0041-1742234) J Am Acad Audiol. 2021 Nov;32(10):627-635. doi: 10.1055/s-0041-1742234. Epub 2022 May 24. PMID: 35609590.
+* Wichova H, Shew M, Nelson-Brantley J, Warnecke A, Prentiss S, Staecker H. **[MicroRNA Profiling in the Perilymph of Cochlear Implant Patients: Identifying Markers that Correlate to Audiological Outcomes.](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0041-1742234)** J Am Acad Audiol. 2021 Nov;32(10):627-635. doi: 10.1055/s-0041-1742234. Epub 2022 May 24. PMID: 35609590.
 
 * Zhuang P, Phung S, Warnecke A, Arambula A, St Peter M, He M, Staecker H. **[Isolation of sensory hair cell specific exosomes in human perilymph. Neurosci Lett. 2021 Nov 1;764:136282.](https://www.sciencedirect.com/science/article/pii/S0304394021006613?via%3Dihub)** Neurosci Lett. 2021 Nov 1;764:136282. doi: 10.1016/j.neulet.2021.136282. Epub 2021 Oct 4.
 
@@ -62,33 +59,36 @@ Wichova H, Shew M, Nelson-Brantley J, Warnecke A, Prentiss S, Staecker H. MicroR
 
 * Warnecke A, Giesemann A. **[Embryology, malformations and rare diseases of the cochlea.](https://www.thieme-connect.com/products/ejournals/html/10.1055/a-1349-3824?articleLanguage=de)** Laryngorhinootologie. 2021 Apr.; 100(S01):S1-S43. doi: 10/1055/a-1349-3824 
 
-* Harre J, Heinkele L, Steffens M, Warnecke A, Lenarz T, Just I, Rohrbeck A. **[Potentiation of Brain-Derived Neurotrophic Factor-Induced Protection of Spiral Ganglion Neurons by C3 Exoenzyme/Rho Inhibitor.](https://www.frontiersin.org/articles/10.3389/fncel.2021.602897/full)** Front Cell Neurosci. 2021 Mar 11;15:602897. doi: 10.3389/fncel.2021.602897. eCollection 2021.
+* Harre J, Heinkele L, Steffens M, Warnecke A, Lenarz T, Just I, Rohrbeck A. **[Potentiation of Brain-Derived Neurotrophic Factor-Induced Protection of Spiral Ganglion Neurons by C3 Exoenzyme/Rho Inhibitor.](https://www.frontiersin.org/articles/10.3389/fncel.2021.602897/full)** Front Cell Neurosci. 2021 Mar 11;15:602897. doi: 10.3389/fncel.2021.602897. eCollection 2021. Erratum in: Front Cell Neurosci. 2022 Nov 03;16:1078962.
 
 * Salcher R, Boruchov A, Timm M, Steffens M, Giesemann A, Lenarz T, Warnecke A. **[On the Intracochlear Location of Straight Electrode Arrays After Cochlear Implantation: How Lateral Are Lateral Wall Electrodes?](https://journals.lww.com/otology-neurotology/Fulltext/2021/02000/On_the_Intracochlear_Location_of_Straight.8.aspx)** Otol Neurotol. 2021 Feb 1;42(2):242-250. doi: 10.1097/MAO.0000000000002880. PMID: 33026778.
 
 * Shew M, Wichova H, Bur A, Koestler DC, St Peter M, Warnecke A, Staecker H. **[MicroRNA Profiling as a Methodology to Diagnose Ménière's Disease: Potential Application of Machine Learning.](https://journals.sagepub.com/doi/10.1177/0194599820940649)** Otolaryngol Head Neck Surg. 2021 Feb;164(2):399-406. doi: 10.1177/0194599820940649. Epub 2020 Jul 14. PMID: 32663060.
 
-* Warnecke A, Harre J, Staecker H, Prenzler N, Strunk D, Couillard-Despres S, Romanelli P, Hollerweger J, Lassacher T, Auer D, Pachler K, Wietzorrek G, Köhl U, Lenarz T, Schallmoser K, Laner-Plamberger S, Falk CS, Rohde E, Gimona M. **[Extracellular vesicles from human multipotent stromal cells protect against hearing loss after noise trauma in vivo.](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.262)** Clin Transl Med. 2020 Dec;10(8):e262. doi: 10.1002/ctm2.262.
-
 
 ## 2020
+* Espersen J, Weber U, Römer-Franz A, Lenarz T, Stolle SRO, Warnecke A. **[Level of sex hormones and their association with acetylsalicylic acid intolerance and nasal polyposis.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243732)** PLoS One. 2020 Dec 17;15(12):e0243732. doi: 10.1371/journal.pone.0243732. PMID: 33332460; PMCID: PMC7746182.
+
+* Warnecke A, Harre J, Staecker H, Prenzler N, Strunk D, Couillard-Despres S, Romanelli P, Hollerweger J, Lassacher T, Auer D, Pachler K, Wietzorrek G, Köhl U, Lenarz T, Schallmoser K, Laner-Plamberger S, Falk CS, Rohde E, Gimona M. **[Extracellular vesicles from human multipotent stromal cells protect against hearing loss after noise trauma in vivo.](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.262)** Clin Transl Med. 2020 Dec;10(8):e262. doi: 10.1002/ctm2.262.
+
 * Knipper M, van Dijk P, Schulze H, Mazurek B, Krauss P, Scheper V, Warnecke A, Schlee W, Schwabe K, Singer W, Braun C, Delano PH, Fallgatter AJ, Ehlis AC, Searchfield GD, Munk MHJ, Baguley DM, Rüttiger L. **[The Neural Bases of Tinnitus: Lessons from Deafness and Cochlear Implants.](https://www.jneurosci.org/content/40/38/7190/tab-article-info)** J Neurosci. 2020 Sep 16;40(38):7190-7202. doi: 10.1523/JNEUROSCI.1314-19.2020.
 
 * Prenzler NK, Weller T, Steffens M, Lesinski-Schiedat A, Büchner A, Lenarz T, Warnecke A. **[Impedance Values Do Not Correlate With Speech Understanding in Cochlear Implant Recipients.](https://www.x-mol.com/paper/1294385303076347904)** Otol Neurotol. 2020 Jul 14. doi: 10.1097/MAO.0000000000002743. 
 
-* Heilen S, Lang CP, Warnecke A, Lenarz T, Durisin M. **[Exploratory tympanotomy in sudden sensorineural hearing loss for the identification of a perilymphatic fistula - retrospective analysis and review of the literature.](https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/exploratory-tympanotomy-in-sudden-sensorineural-hearing-loss-for-the-identification-of-a-perilymphatic-fistula-retrospective-analysis-and-review-of-the-literature/9BD2C2A02F50183A6C52DDB8DF41DFE8)** J Laryngol Otol. 2020 Jun;134(6):501-508. doi: 10.1017/S0022215120000948.
-
 * Peter MN, Paasche G, Reich U , Lenarz T , Warnecke A.  **[Differential Effects of Low- And High-Dose Dexamethasone on Electrically Induced Damage of the Cultured Organ of Corti.](https://link.springer.com/article/10.1007%2Fs12640-020-00228-7)** Neurotox. 03 June 2020. doi: 10.1007/s12640-020-00228-7. 
-
-* Prenzler NK, Salcher R, Lenarz T, Gaertner L, Warnecke A. **[Dose-Dependent Transient Decrease of Impedances by Deep Intracochlear Injection of Triamcinolone With a Cochlear Catheter Prior to Cochlear Implantation-1 Year Data.](https://doi.org/10.3389/fneur.2020.00258)** Front Neurol. 2020 Apr 15;11:258. doi:10.3389/fneur.2020.00258. eCollection 2020. 
 
 * El-Saied S, Schmitt H, Durisin M, Joshua BZ, Abu Tailakh M, Prenzler N, Lenarz T, Kaplan DM, Lewis EC, Warnecke A. **[Endogenous α1-antitrypsin levels in the perilymphatic fluid correlates with severity of hearing loss.](https://doi.org/10.1111/coa.13541)** Clin Otolaryngol. 2020 Apr 4. doi: 10.1111/coa.13541. 
 
+* Heilen S, Lang CP, Warnecke A, Lenarz T, Durisin M. **[Exploratory tympanotomy in sudden sensorineural hearing loss for the identification of a perilymphatic fistula - retrospective analysis and review of the literature.](https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/exploratory-tympanotomy-in-sudden-sensorineural-hearing-loss-for-the-identification-of-a-perilymphatic-fistula-retrospective-analysis-and-review-of-the-literature/9BD2C2A02F50183A6C52DDB8DF41DFE8)** J Laryngol Otol. 2020 Jun;134(6):501-508. doi: 10.1017/S0022215120000948.
+
+* Prenzler NK, Salcher R, Lenarz T, Gaertner L, Warnecke A. **[Dose-Dependent Transient Decrease of Impedances by Deep Intracochlear Injection of Triamcinolone With a Cochlear Catheter Prior to Cochlear Implantation-1 Year Data.](https://doi.org/10.3389/fneur.2020.00258)** Front Neurol. 2020 Apr 15;11:258. doi:10.3389/fneur.2020.00258. eCollection 2020. 
+
 * Majdani E, Majdani O, Steffens M, Warnecke A, Lesinski-Schiedat A, Lenarz T, Götz F. **[Dimensions of artefacts caused by cochlear and auditory brainstem implants in magnetic resonance imaging.](https://doi.org/10.1080/14670100.2019.1668617)** Cochlear Implants Int. 2020 Mar;21(2):67-74. doi: 10.1080/14670100.2019.1668617.
+ 
+ * Claußen M, Schulze J, Nothwang HG. **[Loss of inner hair cell ribbon synapses and auditory nerve fiber regression in Cldn14 knockout mice.](https://doi.org/10.1016/j.heares.2020.107950)** Hear Res 2020;391:107950. doi: 10.1016/j.heares.2020.107950.
  
 * Zelener F, Majdani O, Roemer A, Lexow GJ, Giesemann A, Lenarz T, Warnecke A. **[Relations Between Scalar Shift and Insertion Depth in Human Cochlear Implantation.](https://journals.lww.com/otology-neurotology/FullText/2020/02000/Relations_Between_Scalar_Shift_and_Insertion_Depth.10.aspx)** Otol Neurotol. 2020 Feb;41(2):178-185. doi: 10.1097/MAO.0000000000002460.  
  
-* Claußen M, Schulze J, Nothwang HG. **[Loss of inner hair cell ribbon synapses and auditory nerve fiber regression in Cldn14 knockout mice.](https://doi.org/10.1016/j.heares.2020.107950)** Hear Res 2020;391:107950. doi: 10.1016/j.heares.2020.107950.
  
 ## 2019
 * Weininger O, Warnecke A, Lesinski-Schiedat A, Lenarz T, Stolle S. **[Computational analysis based on audioprofiles: A new possibility for patient stratification in office-based otology.](https://doi.org/10.4081/audiores.2019.230)** Audiol Res. 2019 Nov 5;9(2):230. doi: 10.4081/audiores.2019.230. eCollection 2019 Sep 2.  
