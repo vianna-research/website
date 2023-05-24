@@ -1,6 +1,9 @@
 title: Publications
 
 ## 2023
+* Mau R, Eickner T, Jüttner G, Gao Z, Wei C, Fiedler N, Senz V, Lenarz T, Grabow N, **Scheper V**, Seitz H.
+[Micro Injection Molding of Drug-Loaded Round Window Niche Implants for an Animal Model Using 3D-Printed Molds](https://doi.org/10.3390/pharmaceutics15061584) Pharmaceutics Mai 2023
+
 * Behrends W, Ahrens D, Bankstahl J, Esser KH, Paasche G, Lenarz T, **Scheper V**.
 [Refinement of systemic guinea pig deafening in hearing research: Sensorineural hearing loss induced by co-administration of kanamycin and furosemide via the leg veins](https://doi.org/10.1177/00236772231167679) Laboratory Animals, April 2023
 
