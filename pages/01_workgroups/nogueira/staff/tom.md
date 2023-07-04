@@ -62,7 +62,7 @@ Biomedical Technology, Hannover, Germany, 2019.
 
 ### Challenges:
 
-- T. Gajecki, W. Nogueira. [**Binaural Speech Enhancement Based on Deep Attention Layers**](). 1st Clarity Enhancement Challenge, 2021 (Student award).
+- T. Gajecki, W. Nogueira. [**Binaural Speech Enhancement Based on Deep Attention Layers**](https://claritychallenge.org/clarity2021-workshop/papers/Clarity_2021_CEC1_paper_final_gajecki.pdf). 1st Clarity Enhancement Challenge, 2021 (Student award).
 
 ---
 
