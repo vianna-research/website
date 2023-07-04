@@ -21,7 +21,7 @@ Research employee
 Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy EXC 2177/1 'Hearing4all'
 
 ---
-### Publications:
+### Journal publications:
 
 
 - J. Althoff, T. Gajecki, W. Nogueira. [**Remixing Preferences for Instrumental Classical Music of Bilateral Cochlear Implant Users.**]() Trends in Hearing, 2023. (Under review)
@@ -46,10 +46,19 @@ Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany'
 
 - T. Gajecki, W. Nogueira. [**Deep Learning Models to Remix Music for Cochlear Implant Users**](https://asa.scitation.org/doi/10.1121/1.5042056). The Journal of the Acoustical Society of America, 2018.
 
-- W. Nogueira, T. Gajecki, B. Krüger, J. Janer, A. Büchner. [**Development of a Sound Coding Strategy based on a Deep Recurrent Neural Network for Monaural Source Separation in Cochlear Implants**](https://ieeexplore.ieee.org/document/7776166). ITG Speech Communication. Padeborn, Germany, 2016.
+- W. Nogueira, T. Gajecki, B. Krüger, J. Janer, A. Büchner. [**Development of a Sound Coding Strategy based on a Deep Recurrent Neural Network for Monaural Source Separation in Cochlear Implants**](https://ieeexplore.ieee.org/document/7776166). ITG Speech Communication. Paderborn, Germany, 2016.
  
+### Conferences:
 
+- T. Gajecki, W. Nogueira. [**Design and Evaluation of a Binaural Sound Coding Strategy Based on Synchronized Linked Band Selection and Front-End Processing**](). Conference on Implantable Auditory Prostheses, Tahoe City, California, USA, 2021.
+
+- T. Gajecki, W. Nogueira. [**Enhancement of Interaural Level Differences and Binaural Band Selection Improves Sound Localization in Bilateral Cochlear Implant Users**](). Association for Research in Otolaryngology MidWinter Meeting, San Jose, California, USA, 2020.
+
+- T. Gajecki, W. Nogueira. [**Improving Speech Intelligibility of Bilateral Cochlear Implant Users with a Binaural N-of-M sound Coding Strategy**](). Conference on Implantable Auditory Prostheses, Tahoe City California, USA, 2019.
 ---
+
+### Challenges:
+- T. Gajecki, W. Nogueira. [**BinauralSpeechEnhancementBasedonDeepAttentionLayers**](). 1st Clarity Enhancement Challenge, 2021 (Student award).
 
 | Contact                 |                            |
 | ------------------------|--------------------------- |
