@@ -21,7 +21,7 @@ Research employee
 Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy EXC 2177/1 'Hearing4all'
 
 ---
-### Journal publications:
+### Publications:
 
 
 - J. Althoff, T. Gajecki, W. Nogueira. [**Remixing Preferences for Instrumental Classical Music of Bilateral Cochlear Implant Users.**]() Trends in Hearing, 2023. (Under review)
@@ -48,7 +48,7 @@ Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany'
 
 - W. Nogueira, T. Gajecki, B. Krüger, J. Janer, A. Büchner. [**Development of a Sound Coding Strategy based on a Deep Recurrent Neural Network for Monaural Source Separation in Cochlear Implants**](https://ieeexplore.ieee.org/document/7776166). ITG Speech Communication. Paderborn, Germany, 2016.
  
-### Conferences:
+### Conference contributions:
 
 - T. Gajecki, W. Nogueira. [**Design and Evaluation of a Binaural Sound Coding Strategy Based on Synchronized Linked Band Selection and Front-End Processing**](). Conference on Implantable Auditory Prostheses, Tahoe City, California, USA, 2021.
 
