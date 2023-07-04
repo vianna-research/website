@@ -3,7 +3,7 @@ title: Tom Gajecki
 [ResearchGate](https://www.researchgate.net/profile/Tom-Gajecki)
 
 ![Tom Gajecki](Gajecki.jpg)
-
+img[alt=Tom Gajecki] { width: 200px; }
 
 Research employee	
 
