@@ -58,7 +58,7 @@ Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany'
 
 ### Challenges:
 
-- T. Gajecki, W. Nogueira. [**BinauralSpeechEnhancementBasedonDeepAttentionLayers**](). 1st Clarity Enhancement Challenge, 2021 (Student award).
+- T. Gajecki, W. Nogueira. [**Binaural Speech Enhancement Based on Deep Attention Layers**](). 1st Clarity Enhancement Challenge, 2021 (Student award).
 
 ---
 
