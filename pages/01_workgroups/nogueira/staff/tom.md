@@ -55,10 +55,11 @@ Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany'
 - T. Gajecki, W. Nogueira. [**Enhancement of Interaural Level Differences and Binaural Band Selection Improves Sound Localization in Bilateral Cochlear Implant Users**](). Association for Research in Otolaryngology MidWinter Meeting, San Jose, California, USA, 2020.
 
 - T. Gajecki, W. Nogueira. [**Improving Speech Intelligibility of Bilateral Cochlear Implant Users with a Binaural N-of-M sound Coding Strategy**](). Conference on Implantable Auditory Prostheses, Tahoe City California, USA, 2019.
----
 
 ### Challenges:
+
 - T. Gajecki, W. Nogueira. [**BinauralSpeechEnhancementBasedonDeepAttentionLayers**](). 1st Clarity Enhancement Challenge, 2021 (Student award).
+
 ---
 
 
