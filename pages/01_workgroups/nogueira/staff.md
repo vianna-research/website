@@ -19,14 +19,14 @@ title: Staff
 |![Portrait](staff/Tahmasebi.jpg)	| [Sina Tahmasebi](https://vianna.uber.space/01_workgroups/nogueira/staff/sina.html) | <Tahmasebi.Sina@mh-hannover.de>  |
 |![Portrait](staff/Gajecki.jpg)  	| [Tom Gajecki](https://www.vianna.de/01_workgroups/nogueira/staff/tom.html)	| <Gajecki.Tomas@mh-hannover.de>      |
 |[![Portrait](staff/patrickSmall.jpg)](https://vianna.de/01_workgroups/nogueira/staff/patrickSmall.jpg)	| [Patrick Hinz](https://vianna.de/01_workgroups/nogueira/staff/patrick.html)	  | <Hinz.Patrick@mh-hannover.de>      |
-
+|[![Portrait](staff/Yixuan.jpg)](https://vianna.de/01_workgroups/nogueira/staff/Yixuan.jpg)	| [Yixuan Zhang](https://vianna.de/01_workgroups/nogueira/staff/zhang.html)	  | <Zhang.Yixuan@mh-hannover.de>      |
 
 
 | Students                    |                     |                                   |
 |:----------------------------|:--------------------|----------------------------------:|
 |![Portrait](staff/nour.jpg)	| Nourhan Bahgat		  |   <Bahgat.Nourhan@mh-hannover.de>   |
 |![Portrait](staff/Jasmin.jpg)	| Jasmin Thormählen		  | <Thormaehlen.Jasmin@mh-hannover.de>    |
-|![Portrait](staff/zhang.jpg)	| Yixuan  Zhang 		  |    <Zhang.Yixuan@mh-hannover.de>  |
+|![Portrait](staff/xi.jpg)	| Yuesi Xi 		        |    <Xi.Yuesi@mh-hannover.de>  |
 |![Portrait](staff/empty.jpg)	| Änne Großkopf 		  |  <Grosskopf.Aenne@mh-hannover.de>    |
 
 
