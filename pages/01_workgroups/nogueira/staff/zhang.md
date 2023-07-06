@@ -1,6 +1,6 @@
 title: Yixuan Zhang
 
-![Yixuan Zhang](Zhang.jpg)
+![Yixuan Zhang](zhang.jpg)
 
 Research employee	
 
@@ -9,8 +9,8 @@ Research employee
 
 * Computational modeling - finite element simulation of electrically stimulated human cochlea
 * Models of the auditory periphery
-* Auditory nerve fiber neural health estimation
-* Cochlear implante (CI) foused stimulation
+* Auditory nerve fiber - neural health estimation
+* Cochlear implant (CI) focused stimulation
 
 
 
