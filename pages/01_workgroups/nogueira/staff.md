@@ -26,6 +26,7 @@ title: Staff
 |:----------------------------|:--------------------|----------------------------------:|
 |![Portrait](staff/empty.jpg)	| Yuesi Xi 		        |    <Xi.Yuesi@mh-hannover.de>  |
 |![Portrait](staff/empty.jpg)	| Änne Großkopf 		  |  <Grosskopf.Aenne@mh-hannover.de>    |
+|![Portrait](staff/empty.jpg)	| Robert Hart 		  |  <Hart.Robert@mh-hannover.de>    |
 
 
 
@@ -45,8 +46,8 @@ title: Staff
 |![Portrait](staff/yichi.jpg)   | Yichi Zhang            |     |
 |![Portrait](staff/betuel.jpg)	| Betül Bayatid 			| 	                          |
 |![Portrait](staff/costi.jpg)	| Costanza Bruni      |                               |
-|![Portrait](staff/nour.jpg)	| Nourhan Bahgat		  |   <Bahgat.Nourhan@mh-hannover.de>   |
-|![Portrait](staff/Jasmin.jpg)	| Jasmin Thormählen		  | <Thormaehlen.Jasmin@mh-hannover.de>    |
+|![Portrait](staff/nour.jpg)	| Nourhan Bahgat		  |      |
+|![Portrait](staff/Jasmin.jpg)	| Jasmin Thormählen		  |     |
 
 
 
