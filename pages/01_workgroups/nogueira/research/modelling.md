@@ -46,7 +46,7 @@ title: Computational Modelling
 # Team members
 - **[Daniel Kipping](https://vianna.de/01_workgroups/nogueira/staff/daniel.html)**
 - **[Franklin Alvarez](https://vianna.de/01_workgroups/nogueira/staff/franklin.html)**
-- **[Yixuan Zhang]((https://www.vianna.de/01_workgroups/nogueira/staff/zhang.html))**
+- **[Yixuan Zhang](https://vianna.de/01_workgroups/nogueira/staff/zhang.html)**
 
 ---
 
