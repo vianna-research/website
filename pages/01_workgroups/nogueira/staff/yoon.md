@@ -51,7 +51,7 @@ Professor for Auditory Prosthesis
 
 **Links:**
 
-* **[Baylolr University](https://csd.robbins.baylor.edu/person/yang-soo-yoon-phd)**
+* **[Baylor University](https://csd.robbins.baylor.edu/person/yang-soo-yoon-phd)**
 
 * **[ResearchGate](https://www.researchgate.net/profile/Yang-Soo-Yoon)**
 
