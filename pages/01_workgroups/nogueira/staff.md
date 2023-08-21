@@ -14,7 +14,7 @@ title: Staff
 
 | Guest Professors             |                               |                                           |
 |:------------------------------------|:------------------------------|------------------------------------------:|
-|![Portrait](staff/Yoon.jpg) |[Dr. Yang-Soo Yoon](https://vianna.de/01_workgroups/nogueira/staff/a_nogueira.html) | <Yang-Soo_Yoon@baylor.edu>    |
+|![Portrait](staff/Yoon.jpg) |[Dr. Yang-Soo Yoon](https://vianna.de/01_workgroups/nogueira/staff/yoon.html) | <Yang-Soo_Yoon@baylor.edu>    |
 
 
 | Research Team                   |                                                                                 |                                       |
