@@ -8,6 +8,15 @@ title: Staff
 |![Portrait](staff/Nogueiraklein.jpg) |[Dr.-Ing. Waldo Nogueira](https://vianna.de/01_workgroups/nogueira/staff/a_nogueira.html) | <nogueiravazquez.waldo@mh-hannover.de>    |
 
 
+
+
+
+
+| Guest Professors             |                               |                                           |
+|:------------------------------------|:------------------------------|------------------------------------------:|
+|![Portrait](staff/Yoon.jpg) |[Dr. Yang-Soo Yoon](https://vianna.de/01_workgroups/nogueira/staff/a_nogueira.html) | <Yang-Soo_Yoon@baylor.edu>    |
+
+
 | Research Team                   |                                                                                 |                                       |
 |:--------------------------------|:--------------------------------------------------------------------------------|--------------------------------------:|
 |![Portrait](staff/Krueger.jpg)   | [Benjamin Krüger](https://www.vianna.de/01_workgroups/nogueira/staff/benjamin.html) | <Krueger.Benjamin@mh-hannover.de>  |
