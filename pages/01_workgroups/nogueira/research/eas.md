@@ -30,6 +30,8 @@ title: Electric Acoustic Stimulation
 * See also: **[Computational Modelling](https://vianna.de/01_workgroups/nogueira/research/modelling.html)**
 
 ![Schematic drawing of a cochlear modell.](eas.jpg)
+---
+
 
 # Electric Acoustic Integration
 * Investigation of central electric acoustic interaction through speech understanding performance and cortical EEG measurements;
@@ -37,9 +39,9 @@ title: Electric Acoustic Stimulation
 * Optimization of the CI fitting using the measurements of central and peripheral electric acoustic interaction. 
 
 Abbreviations:
-ES:        electric stimulation
-AS:        acoustic stimulation
-EAS:       electric-acoustic stimulation
+- ES:        electric stimulation
+- AS:        acoustic stimulation
+- EAS:       electric-acoustic stimulation
 
 ---
 
