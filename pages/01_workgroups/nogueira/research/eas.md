@@ -9,6 +9,8 @@ title: Electric Acoustic Stimulation
 
 ![Schematic drawing of an CI electrode array and some nearby hair cells.](PsychoacousticsinEASusers.png)
 
+---
+
 # Electrophysiological measurements in EAS users
 * Electrophysiological measurements are used to examine electric-acoustic interaction in EAS users.
 * Telemetry capabilities of the CI systems are used to derive intracochlear electrocochleography in EAS users.
@@ -16,11 +18,15 @@ title: Electric Acoustic Stimulation
 
 ![Schematic drawing of an ECochG measurement.](ElectrophysiologicalmeasurementsinEASusers.png)
 
+---
+
 # Sound coding for EAS users
 * Development and evaluation of sound coding for EAS users conveying low-frequency information of speech electrically to improve the speech perception for ES alone.
 * Investigation of EAS fittings to optimize speech perception for EAS users.
 
 ![Sound coding for EAS users.](SoundcodingforEASusers.png)
+
+---
 
 # Computational modelling for EAS
 * Development of 3D models of the cochlea for ES and EAS
