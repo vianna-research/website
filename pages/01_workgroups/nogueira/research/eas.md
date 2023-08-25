@@ -31,14 +31,14 @@ title: Electric Acoustic Stimulation
 
 ![Schematic drawing of a cochlear modell.](eas.jpg)
 
-# Binaural fusion of EAS 
-* Investigation of central electic acoustic interaction through speech understanding performance and cortical EEG measurements;
-* Investigataion of peripheral electric acoustic interaction through electric-acoustic pitch matching and measurment of auditory brainstem responses; 
-* Optimization of the CI fitting  using the measurements of central and peripheral electric acoustic interaction. 
+# Electric Acoustic Integration
+* Investigation of central electric acoustic interaction through speech understanding performance and cortical EEG measurements;
+* Investigation of peripheral electric acoustic interaction through electric-acoustic pitch matching and measurement of auditory brainstem responses; 
+* Optimization of the CI fitting using the measurements of central and peripheral electric acoustic interaction. 
 
 Abbreviations:
-ES:          electric stimulation
-AS:         acoustic stimulation
+ES:        electric stimulation
+AS:        acoustic stimulation
 EAS:       electric-acoustic stimulation
 
 ---
@@ -50,6 +50,12 @@ EAS:       electric-acoustic stimulation
 * **[Hanna Dolhopiatenko](https://vianna.de/01_workgroups/nogueira/staff/hanna.html)**
 * **[Franklin Alvarez](https://vianna.de/01_workgroups/nogueira/staff/franklin.html)**
 
+---
+
+### Collaborators:
+
+* **[Yang-Soo Yoon](https://vianna.de/01_workgroups/nogueira/staff/yoon.html)**
+  
 ---
 ### Publications
 * Kipping, D., Nogueira, W., 2022. **[A Computational Model of a Single Auditory Nerve Fiber for Electric-Acoustic Stimulation](https://doi.org/10.1007/s10162-022-00870-2)**. J. Assoc. Res. Otolaryngol, https://doi.org/10.1007/s10162-022-00870-2
