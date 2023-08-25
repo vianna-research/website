@@ -35,12 +35,6 @@ We are developing methods to investigate speech perception of CI users objective
 * **[Nina Aldag](https://vianna.uber.space/01_workgroups/nogueira/staff/nina.html)**
 
 ---
-
-### Collaborators:
-
-* **[Yang-Soo Yoon](https://vianna.de/01_workgroups/nogueira/staff/yoon.html)**
-
----
 ### Publications:
 
 * Aldag N, Büchner B,  Lenarz T, Nogueira W. (2022) **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing.](https://iopscience.iop.org/article/10.1088/1741-2552/ac4de6)** J. Neural Eng. 19 016023.
