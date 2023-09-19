@@ -11,7 +11,7 @@ The software is Matlab-based, made for Windows PCs and can be run if the corresp
 Please cite the paper[^1] if the model is used for studies, and don’t hesitate to get in touch with us if there are any issues, e.g. by contacting the lead author Marleen Grzybowski
 [grzybowski.marleen@mh-hannover.de](grzybowski.marleen@mh-hannover.de) or Dr. Daniel Schurzig [Schurzig.daniel@mh-hannover.de](Schurzig.daniel@mh-hannover.de).
 
-[Link to path model](GP_Tool.zip)
+[Link to path model](pages/01_workgroups/scheper/GP_Tool.zip)
 
 |    |    |
 | -- | -- |
