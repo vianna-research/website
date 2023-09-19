@@ -12,6 +12,7 @@ Please cite the paper[^1] if the model is used for studies, and don’t hesitate
 [grzybowski.marleen@mh-hannover.de](grzybowski.marleen@mh-hannover.de) or Dr. Daniel Schurzig [Schurzig.daniel@mh-hannover.de](Schurzig.daniel@mh-hannover.de).
 
 [Link to path model](GP_Tool.zip) 
+
 [short instruction](GuinePigCI_ResearchTool_explanation.pdf)
 
 |    |    |
