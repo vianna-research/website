@@ -11,11 +11,11 @@ The software is Matlab-based, made for Windows PCs and can be run if the corresp
 Please cite the paper[^1] if the model is used for studies, and don’t hesitate to get in touch with us if there are any issues, e.g. by contacting the lead author Marleen Grzybowski
 [grzybowski.marleen@mh-hannover.de](grzybowski.marleen@mh-hannover.de) or Dr. Daniel Schurzig [Schurzig.daniel@mh-hannover.de](Schurzig.daniel@mh-hannover.de).
 
-[Link to path model](pages/01_workgroups/scheper/Guinea Pig Volume Model/GP_Tool.zip)
+[Link to path model](Guinea Pig Volume Model/GP_Tool.zip)
 
 |    |    |
 | -- | -- |
-| ![](pages/01_workgroups/scheper/Guinea Pig Volume Model/GP_tool_Graph.PNG)  |
+| ![](Guinea Pig Volume Model/GP_tool_Graph.PNG)  |
 
 | <font size = "2"> **User interface of the Guinea Pig Volume Model:** On the left, the user can define the “cochlear dimensions” for computation of the individual ST volume, which is displayed relative to the mean
 profile ± 1 SD of the present study (top left graph). The tool also requires the “CI dimensions” and “Insertion properties”, based on which the array model is generated (bottom left graph) and the remaining perilymph
