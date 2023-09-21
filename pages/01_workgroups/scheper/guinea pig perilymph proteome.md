@@ -12,5 +12,5 @@ Please cite the paper[^1] if the perilymph  data is used for studies, and don’
 
 
 [^1]: Malfeld, K.; Armbrecht, N.; Pich, A.; Volk, H.A.; Lenarz, T.; Scheper, V. Prevention of Noise-Induced Hearing Loss In Vivo: Continuous Application of Insulin-like Growth Factor 1 and Its Effect
-on Inner Ear Synapses, Auditory Function and Perilymph Proteins. Int. J. Mol. Sci. 2023, 24, 291. [https://doi.org/10.3390/ijms24010291](https://doi.org/10.3390/ijms24010291)
+on Inner Ear Synapses, Auditory Function and Perilymph Proteins. Int. J. Mol. Sci. 2023, 24, 291. [https://doi.org/10.3390/ijms24010291]
  
