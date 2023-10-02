@@ -2,6 +2,7 @@ title: Peer Reviewed Journal Publications
 
 
 ## 2023
+* Gajecki, Nogueira, W. (2023). **[A Fused Deep Denoising Sound Coding Strategy for Bilateral Cochlear Implants.]()** IEEE Transactions on Biomedical Engineering, 2023. (Under review)
 
 *  Gajecki, T., Nogueira, W.  (2023). **[Deep Latent Fusion Layers for Binaural Speech Enhancement.](https://ieeexplore.ieee.org/document/10202199)**  IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023.
 
