@@ -40,6 +40,8 @@ title: Signal Processing for Cochlear Implants
 
 ### Publications:
 
+- T. Gajecki,  W. Nogueira. [A Fused Deep Denoising Sound Coding Strategy for Bilateral Cochlear Implants.]() IEEE Transactions on Biomedical Engineering, 2023. (Under review)
+
 - T. Gajecki, W. Nogueira. [Deep Latent Fusion Layers for Binaural Speech Enhancement.](https://ieeexplore.ieee.org/document/10202199) IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023.
 
 - T. Gajecki, Y. Zhang, W. Nogueira. [A Deep Denoising Sound Coding Strategy for Cochlear Implants.](https://ieeexplore.ieee.org/document/10083222) IEEE Transactions on Biomedical Engineering, 2023.
