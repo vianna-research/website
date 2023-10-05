@@ -5,6 +5,9 @@ title: Publications
 * Schwieger J, **Scheper V**, Lenarz T, Vogt PM, Strauß S.
 ["Auditory Neurons on the Silk Road – spider silk for bridging the nerve-electrode-gap](https://doi.org//10.1515/cdbme-2023-1062) Current Directions in Biomedical Engineering 2023;9(1): 246-249, September 2023
 
+* Knabel M, Dräger G, Lenarz T, **Scheper V**.
+["Development and validation of a 3D-printed artificial round window niche for use in release kinetics analysis of round window niche implants](https://doi.org/10.18416/AMMM.2023.2309803) Transactions on Additive Manufacturing Meets Medicine, Trans. AMMM, Vol. 5 No. 1, September 2023
+
 * Schwieger J, Gao Z, Lenarz T, Munro G, Petersen KA, **Scheper V**.
 ["Of Mice and Men": the relevance of Cometin and Erythropoietin origin for its effects on murine spiral ganglion neuron survival and neurite outgrowth in vitro](https://doi.org/10.3389/fnins.2023.1224463) Front. Neurosci., August 2023
 
