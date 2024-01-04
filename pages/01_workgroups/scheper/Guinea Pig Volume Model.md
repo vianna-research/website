@@ -23,5 +23,5 @@ Please cite the paper[^1] if the model is used for studies, and don’t hesitate
 profile ± 1 SD of the present study (top left graph). The tool also requires the “CI dimensions” and “Insertion properties”, based on which the array model is generated (bottom left graph) and the remaining perilymph
 volume inside the ST is computed (top and bottom right graphs). The corresponding volumes are displayed in the right column of the user interface.  </font> 
 
-[^1]: Grzybowski M, Malfeld K, Lenarz T, Scheper V, Schurzig D (2023): Optimization of pharmacological interventions in the guinea pig animal model – a new approach to calculate the perilymph volume of the scala
-tympani [submitted]
+[^1]: Grzybowski M, Malfeld K, Lenarz T, Scheper V, Schurzig D (2023): "Optimization of pharmacological interventions in the guinea pig animal model – a new approach to calculate the perilymph volume of the scala
+tympani" [Frontiers in Neuroscience 17 (2023): 1297046](https://www.frontiersin.org/articles/10.3389/fnins.2023.1297046/full)
