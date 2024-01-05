@@ -66,7 +66,7 @@ Abbreviations:
   
 ---
 ### Publications
-* Kipping, D., Nogueira, W., 2022. **[A Computational Model of a Single Auditory Nerve Fiber for Electric-Acoustic Stimulation](https://doi.org/10.1007/s10162-022-00870-2)**. J. Assoc. Res. Otolaryngol, https://doi.org/10.1007/s10162-022-00870-2
+* D. Kipping, W. Nogueira, **[A Computational Model of a Single Auditory Nerve Fiber for Electric-Acoustic Stimulation](https://doi.org/10.1007/s10162-022-00870-2)**. J. Assoc. Res. Otolaryngol, 2022, https://doi.org/10.1007/s10162-022-00870-2
 * B. Krüger, A. Büchner, and W. Nogueira, **[Phantom stimulation for cochlear implant users with residual low-frequency hearing,](https://journals.lww.com/ear-hearing/Fulltext/2022/03000/Phantom_Stimulation_for_Cochlear_Implant_Users.34.aspx)** Ear Hear., 2022
 * B. Krüger, A. Büchner, T. Lenarz, and W. Nogueira, **[Electric-acoustic interaction measurements in cochlear-implant users with ipsilateral residual hearing using electrocochleography,](https://asa.scitation.org/doi/10.1121/10.0000577)** J. Acoust. Soc. Am., vol. 147, p. 350, 2020
 * B. Krüger, A. Büchner, T. Lenarz, and W. Nogueira, **[Amplitude growth of intracochlear electrocochleography in cochlear implant users with residual hearing,](https://asa.scitation.org/doi/10.1121/10.0000744)** J. Acoust. Soc. Am., vol. 147, no. 2, pp. 1147–1162, 2020
