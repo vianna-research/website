@@ -2,7 +2,7 @@ title: Benjamin Krüger
 
 
 
-![Benjamin Krüger ](Krueger3.jpg)
+![Benjamin Krüger ](Krueger5.jpg)
 
 
 Research employee	
