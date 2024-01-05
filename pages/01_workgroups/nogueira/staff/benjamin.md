@@ -21,6 +21,7 @@ Research employee
 ### Funding:
 
 Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy EXC 2177/1 'Hearing4all'
+European Research Council (ERC): Rehabilitation and Diagnosis of Hearing Loss based on Electric Acoustic Interaction (ReadiHear), Project number: 101044753
 
 ---
 ### Publications:
