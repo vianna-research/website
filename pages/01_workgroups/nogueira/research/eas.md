@@ -20,7 +20,7 @@ title: Electric-Acoustic Stimulation
 
 ---
 
-# Sound coding for EAS users
+# Sound coding for EAS
 * Development and evaluation of sound coding for EAS users conveying low-frequency information of speech electrically to improve the speech perception for ES alone.
 * Investigation of EAS fittings to optimize speech perception for EAS users.
 
