@@ -1,4 +1,4 @@
-title: Electric Acoustic Stimulation
+title: Electric-Acoustic Stimulation
 
 ![EAS](modelling.png){.img-rounded; .float:left}
 
