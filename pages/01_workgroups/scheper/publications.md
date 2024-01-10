@@ -3,10 +3,10 @@ title: Publications
 ## 2023
 
 * Grzybowski M, Malfeld K, Lenarz T, **Scheper V**, Schurzig D
-[Optimization of pharmacological interventions in the guinea pig animal model—a new approach to calculate the perilymph volume of the scala tympani] (https://doi.org/10.3389/fnins.2023.1297046) Front. Neurosci., Sec. Translational Neuroscience, December 2023
+[Optimization of pharmacological interventions in the guinea pig animal model—a new approach to calculate the perilymph volume of the scala tympani](https://doi.org/10.3389/fnins.2023.1297046) Front. Neurosci., Sec. Translational Neuroscience, December 2023
 
 * Wersényi G, **Scheper V**, Spagnol S, Eixelberger T, Wittenberg T
-[Cost-effective 3D scanning and printing technologies for outer ear reconstruction: current status] (https://doi.org/10.1186/s13005-023-00394-x) Head Face Med 19, 46, October 2023
+[Cost-effective 3D scanning and printing technologies for outer ear reconstruction: current status](https://doi.org/10.1186/s13005-023-00394-x) Head Face Med 19, 46, October 2023
 
 * Schwieger J, **Scheper V**, Lenarz T, Vogt PM, Strauß S.
 [Auditory Neurons on the Silk Road – spider silk for bridging the nerve-electrode-gap](https://doi.org//10.1515/cdbme-2023-1062) Current Directions in Biomedical Engineering 2023;9(1): 246-249, September 2023
