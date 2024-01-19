@@ -14,9 +14,9 @@ Feel free to use the data or to contact the authors if interested. In case you h
 
 The anatomically realistic human ST mean model and the corresponding insertion phantom, as described in Fröhlich _et al._ (2024), are readily accessible below. The methods for generating and manufacturing the models, as well as the anatomical parameters are described in the manuscript and its accompanying appendices.
 
-[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Link to ST Mean Phantom](01_workgroups/cas/methods/cochlearmodelling/ST_mean_phantom_2024_MHH_Froehlich.zip).
+    -   [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Link to ST Mean Phantom](01_workgroups/cas/methods/cochlearmodelling/ST_mean_phantom_2024_MHH_Froehlich.zip).
 
-[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Link to ST Mean Model](01_workgroups/cas/methods/cochlearmodelling/ST_mean_model_2024_MHH_Froehlich.zip) (which contains the ST Mean Model).
+    -   [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Link to ST Mean Model](01_workgroups/cas/methods/cochlearmodelling/ST_mean_model_2024_MHH_Froehlich.zip) (which contains the ST Mean Model).
 
 Please cite as: Fröhlich M, Schurzig D, Rau TS, Lenarz T (2024): On the interdependence of insertion forces, insertion speed, and lubrication: Aspects to consider when testing cochlear implant electrodes. PLOS ONE. [doi](https://doi.org/10.1371/journal.pone.0295121)
 
@@ -32,9 +32,9 @@ Please cite as: Fröhlich M, Schurzig D, Rau TS, Lenarz T (2024): On the interde
 
 Supplemental digital material for the uncoiled human scala tympani, as desribed in Schurzig _et al._ (2021). Please find below links to ZIP-files containing the two models (as STEP-files) mentioned in the paper. 
 
-[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Link to i-path model](01_workgroups/cas/methods/cochlearmodelling/uncoiled_st_ipath.zip). 
+    -   [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Link to i-path model](01_workgroups/cas/methods/cochlearmodelling/uncoiled_st_ipath.zip). 
 
-[<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Link to oc-path model](01_workgroups/cas/methods/cochlearmodelling/uncoiled_st_ocpath.zip).
+    -   [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> Link to oc-path model](01_workgroups/cas/methods/cochlearmodelling/uncoiled_st_ocpath.zip).
 
 Please cite as: Schurzig D, Fröhlich M, Raggl S, Scheper V, Lenarz T, Rau TS (2021): Uncoiling the Human Cochlea—Physical Scala Tympani Models to Study Pharmacokinetics Inside the Inner Ear. Life 11:373. [doi](https://doi.org/10.3390/life11050373)
 
