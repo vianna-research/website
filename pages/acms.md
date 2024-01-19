@@ -14,6 +14,8 @@ Feel free to use the data or to contact the authors if interested. In case you h
 
 The anatomically realistic human ST mean model and the corresponding insertion phantom, as described in Fröhlich _et al._ (2024), are readily accessible below. The methods for generating and manufacturing the models, as well as the anatomical parameters are described in the manuscript and its accompanying appendices.
 
+[Link to ST Mean Phantom](01_workgroups/cas/methods/cochlearmodelling/ST_mean_phantom_2024_MHH_Froehlich.zip) and [Link to ST Mean Model](01_workgroups/cas/methods/cochlearmodelling/ST_mean_model_2024_MHH_Froehlich.zip)
+
 Please cite as: Fröhlich M, Schurzig D, Rau TS, Lenarz T (2024): On the interdependence of insertion forces, insertion speed, and lubrication: Aspects to consider when testing cochlear implant electrodes. PLOS ONE. [doi](https://doi.org/10.1371/journal.pone.0295121)
 
 
