@@ -1,5 +1,6 @@
 title: Artificial Cochlea Models (ACMs)
 status: hidden
+- - -
 
 Dear Visitors,
 
@@ -7,6 +8,8 @@ Thanks for your interest in our models. Below you can find links to additional f
 
 Feel free to use the data or to contact the authors if interested. In case you used the provided data, please cite the mentioned paper where applicable.
 
+
+- - -
 # Anatomic realistic human scala tympani mean model
 
 The anatomically realistic human ST mean model and the corresponding insertion phantom, as described in Fröhlich _et al._ (2024), are readily accessible below. The methods for generating and manufacturing the models, as well as the anatomical parameters are described in the manuscript and its accompanying appendices.
@@ -18,7 +21,7 @@ Please cite as: Fröhlich M, Schurzig D, Rau TS, Lenarz T (2024): On the interde
 | ![](01_workgroups/cas/methods/cochlearmodelling/Froehlich2024Fig1.jpg)  |  ![](01_workgroups/cas/methods/cochlearmodelling/Froehlich2024Fig1.jpg)  |
 | <font size = "2"> **Figure 1: Scala Tympani (ST) Mean Model Generation.** Generation of the ST model follows several steps to preserve the common anatomical features of the cross-sectional geometry [Schurzig _et al._, 2021], as this defines the contact area between electrode and phantom. Cross sections can vary in size and orientation between individuals (a,b) and were rotated to the cochlear angle dependent average orientation of the basilar membrane (c). Then manual segmentations points were redistributed evenly and consistent for all cross sections of the n= 15 datasets and datapoints were averaged at the respective angular location (d). </font> | <font size = "2"> **Figure 2: Mean ST Insertion Phantom.** For the orientation of the ST model (a) the cochlear coordinate system (CCS, Verbist et al., 2010) is adopted with the y-axis being the insertion axis. The model is transferred to the physical insertion phantom (b) and an idealized cochlea opening is created. The transformation is described in detail in Appendix S1 of the accompanying publication. </font> |
 
-
+- - -
 # Uncoiled human scala tympani
 
 Supplemental digital material for the uncoiled human scala tympani, as desribed in Schurzig _et al._ (2021). Please find below links to ZIP-files containing the two models (as STEP-files) mentioned in the paper. 
