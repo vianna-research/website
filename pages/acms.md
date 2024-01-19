@@ -6,7 +6,7 @@ Dear Visitors,
 
 Thanks for your interest in our models. Below you can find links to additional files as well as further information about the models we have published.
 
-Feel free to use the data or to contact the authors if interested. In case you used the provided data, please cite the mentioned paper where applicable.
+Feel free to use the data or to contact the authors if interested. In case you have used the provided data, please cite the mentioned paper where applicable.
 
 
 - - -
