@@ -1,5 +1,18 @@
 title: Conference Contributions
 
+## 2024
+
+## 2023
+* **[A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Cochlear Implant Users with Residual Hearing](https://www.researchgate.net/publication/378174466_A_Computational_Model_of_the_Electrically_or_Acoustically_Evoked_Compound_Action_Potential_in_Cochlear_Implant_Users_with_Residual_Hearing)**.
+Kipping D, Zhang Y, Nogueira W. ICBT 2023.
+
+* **[A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Hybrid Cochlear Implant Users](https://www.researchgate.net/publication/372561732_A_Computational_Model_of_the_Electrically_or_Acoustically_Evoked_Compound_Action_Potential_in_Hybrid_Cochlear_Implant_Users)**.
+Kipping D, Zhang Y, Nogueira W. CIAP 2023.
+
+* **[A Computational Modeling Framework for Auditory Nerve Stimulation with a Cochlear Implant and the Novel Auditory Nerve Implant](https://www.researchgate.net/publication/368667602_A_Computational_Modeling_Framework_for_Auditory_Nerve_Stimulation_with_a_Cochlear_Implant_and_the_Novel_Auditory_Nerve_Implant)**.
+Kipping D, Zhang Y, Dyballa KH, Heiller A, Lim H, Nogueira W. ARO 2023.
+
+
 ## 2022
 * **[Dekodierung selektiver Aufmerksamkeit bei einseitig ertaubten Patienten mittels Cochlea-Implantat-Elektroden als Sensoren.](https://dx.doi.org/10.3205/22dga040)**  
 Aldag N, Büchner B,  Lenarz T, Nogueira W. Deutsche Gesellschaft für Audiologie e.V.. Erfurt, 14.-17.09.2022.
