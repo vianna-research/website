@@ -9,8 +9,14 @@ Kipping D, Zhang Y, Nogueira W. ICBT 2023.
 * **[A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Hybrid Cochlear Implant Users](https://www.researchgate.net/publication/372561732_A_Computational_Model_of_the_Electrically_or_Acoustically_Evoked_Compound_Action_Potential_in_Hybrid_Cochlear_Implant_Users)**.
 Kipping D, Zhang Y, Nogueira W. CIAP 2023.
 
+* **Electric Acoustic Integration in Bimodal Cochlear Implant Users**.
+Dolhopiatenko H, Nogueira W. CIAP 2023. 
+
 * **[A Computational Modeling Framework for Auditory Nerve Stimulation with a Cochlear Implant and the Novel Auditory Nerve Implant](https://www.researchgate.net/publication/368667602_A_Computational_Modeling_Framework_for_Auditory_Nerve_Stimulation_with_a_Cochlear_Implant_and_the_Novel_Auditory_Nerve_Implant)**.
 Kipping D, Zhang Y, Dyballa KH, Heiller A, Lim H, Nogueira W. ARO 2023.
+
+* **Behavioral and electrophysiological measurements of electric acoustic integration in bimodal cochlear implant users**.  
+Dolhopiatenko H, Nogueira W. ARO 2023.
 
 
 ## 2022
@@ -20,9 +26,15 @@ Aldag N, Büchner B,  Lenarz T, Nogueira W. Deutsche Gesellschaft für Audiologi
 * **[Auditory Nerve Stimulation with the Novel Auditory Nerve Implant and a Cochlear Implant – A Computer Model Study](https://www.researchgate.net/publication/358353160_Auditory_Nerve_Stimulation_with_the_Novel_Auditory_Nerve_Implant_and_a_Cochlear_Implant_-_A_Computer_Model_Study)**.  
 Kipping D, Zhang Y, Dyballa KH, Heiller A, Richardson B, Lim H, Nogueira W. ARO 2022.
 
+* **Behavioral and Electrophysiological Measures of Central Interaction between Electric and Acoustic Stimulation in Cochlear Implant Users**.
+Dolhopiatenko H, Nogueira W. ARO 2022.
+
 ## 2021
 * **[A 3D Computational Model Framework for Stimulation with the Auditory Nerve Implant and the Cochlear Implant](https://www.researchgate.net/publication/366095708_A_3D_Computational_Model_Framework_for_Stimulation_with_the_Auditory_Nerve_Implant_and_the_Cochlear_Implant)**.  
 Kipping D, Dyballa KH, Bayazid B, Lim H, Nogueira W. CIAP 2021.
+
+* **Decoding Selective ATtention from Single-Trial EEG Data in Cochlear Implant Users with Ipsilateral Residual Hearing**.
+Dolhopiatenko H, Nogueira W. CIAP 2021.
 
 * **[A Computational Single-Fiber Model of Electric-Acoustic Stimulation](https://www.researchgate.net/publication/366096060_A_Computational_Single-Fiber_Model_of_Electric-Acoustic_Stimulation)**.  
 Kipping D, Nogueira W. VCCA 2021
@@ -40,4 +52,7 @@ ARO 2021.
 ## 2020
 * **[Elektrisch-akustische Maskierung bei Cochlea-Implantat-Trägern mit akustischem Restgehör - zur Rolle der Elektrophonie](http://dx.doi.org/10.3205/20dga112)**.  
 Kipping D, Nogueira W. Deutsche Gesellschaft für Audiologie e.V., DGA 2020
+
+* **Towards Decoding Selective Attention from Single-Trial EEG Data In Cochlear Implant Users based on Deep Neural Network**.  
+Nogueira W, Dolhopiatenko H. IASSP 2020.
 
