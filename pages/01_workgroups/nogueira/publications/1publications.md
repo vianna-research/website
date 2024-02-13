@@ -1,5 +1,7 @@
 title: Peer Reviewed Journal Publications
 
+## 2024
+* Kipping, D., Zhang, Y., Nogueira, W. (2024). **[A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Cochlear Implant Users with Residual Hearing](https://arxiv.org/abs/2402.07673)**. IEEE Transactions on Biomedical Engineering (Under review). Source code: [Zenodo](https://zenodo.org/records/10619893) or [GitLab](https://gitlab.gwdg.de/apg/eas-cap-model-2024).
 
 ## 2023
 * Gajecki, T., Nogueira, W. (2023). **[A Fused Deep Denoising Sound Coding Strategy for Bilateral Cochlear Implants.](https://arxiv.org/abs/2310.01122)** IEEE Transactions on Biomedical Engineering, 2023. (Under review)
