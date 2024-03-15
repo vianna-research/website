@@ -4,12 +4,16 @@ title: Peer Reviewed Journal Publications
 * Kipping, D., Zhang, Y., Nogueira, W. (2024). **[A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Cochlear Implant Users with Residual Hearing](https://arxiv.org/abs/2402.07673)**. IEEE Transactions on Biomedical Engineering (Under review). Source code: [Zenodo](https://zenodo.org/records/10619893) or [GitLab](https://gitlab.gwdg.de/apg/eas-cap-model-2024).
 
 ## 2023
+
+
 * Gajecki, T., Nogueira, W. (2023). **[A Fused Deep Denoising Sound Coding Strategy for Bilateral Cochlear Implants.](https://arxiv.org/abs/2310.01122)** IEEE Transactions on Biomedical Engineering, 2023. (Under review)
 
 *  Gajecki, T., Nogueira, W.  (2023). **[Deep Latent Fusion Layers for Binaural Speech Enhancement.](https://ieeexplore.ieee.org/document/10202199)**  IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023.
 
 * Gajecki, T., Zhang Y., Nogueira, W. (2023). **[A Deep Denoising Sound Coding Strategy for Cochlear Implants.](https://ieeexplore.ieee.org/document/10083222)** IEEE Transactions on Biomedical Engineering, 2023.
+* Tahmasebi, S., Segovia-Martinez, M., Nogueira, W. (2023). **[Optimization of Sound Coding Strategies to Make Singing Music More Accessible for Cochlear Implant Users](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9837293/)**. Trends in Hearing in 11/2021.
 
+  
 ## 2022
 
 * Aldag, N., Büchner, B.,  Lenarz, T., Nogueira, W. (2022). **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing.](https://iopscience.iop.org/article/10.1088/1741-2552/ac4de6)** J. Neural Eng. 19 016023.
