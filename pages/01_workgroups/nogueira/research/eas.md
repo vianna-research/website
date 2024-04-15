@@ -50,12 +50,10 @@ Abbreviations:
 * AS:        acoustic stimulation
 * EAS:       electric-acoustic stimulation
 
-
 ![Schematic Drawing of Bimofus Project](bimofuspic.PNG)
 
 
 ---
-
 ### Team Members
 
 * **[Benjamin Krüger](https://vianna.de/01_workgroups/nogueira/staff/benjamin.html)**
