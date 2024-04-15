@@ -51,8 +51,9 @@ Abbreviations:
 * EAS:       electric-acoustic stimulation
 
 
+![Schematic Drawing of Bimofus Project](bimofuspic.PNG)
 
-![Schematic Drawing of Bimofus Project ](bimofuspic.png)
+
 ---
 
 ### Team Members
