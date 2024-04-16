@@ -2,6 +2,7 @@ title: Peer Reviewed Journal Publications
 
 ## 2024
 * Kipping, D., Zhang, Y., Nogueira, W. (2024). **[A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Cochlear Implant Users with Residual Hearing](https://arxiv.org/abs/2402.07673)**. IEEE Transactions on Biomedical Engineering (Under review). Source code: [Zenodo](https://zenodo.org/records/10619893) or [GitLab](https://gitlab.gwdg.de/apg/eas-cap-model-2024).
+* Aldag N, Nogueira W. (2024) **[Psychoacoustic and electroencephalographic responses to changes in amplitude modulation depth and frequency in relation to speech recognition in cochlear implantees.](https://www.nature.com/articles/s41598-024-58225-1)** Scientific reports 14(1), 8181.
 
 ## 2023
 
