@@ -4,6 +4,7 @@ title: Peer Reviewed Conference Publications
 ## 2022
 
 * Gajecki, T., Nogueira, W. (2022). **[An End-to-End Deep Learning Speech Coding and Denoising Strategy for Cochlear Implants](https://www.biorxiv.org/content/10.1101/2021.11.04.467324v10.full.pdf)**  IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP).
+* Aldag N, Büchner B,  Lenarz T, Nogueira W. (2022) **[Dekodierung selektiver Aufmerksamkeit bei einseitig ertaubten Patienten mittels Cochlea-Implantat-Elektroden als Sensoren.](https://dx.doi.org/10.3205/22dga040)** Deutsche Gesellschaft für Audiologie e.V.. Erfurt, 14.-17.09.2022.
 
 ## 2021
  
