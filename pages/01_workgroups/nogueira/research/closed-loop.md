@@ -36,6 +36,7 @@ We are developing methods to investigate speech perception of CI users objective
 
 ---
 ### Publications:
+* Aldag N, Nogueira W. (2024) **[Psychoacoustic and electroencephalographic responses to changes in amplitude modulation depth and frequency in relation to speech recognition in cochlear implantees.](https://www.nature.com/articles/s41598-024-58225-1)** Scientific reports 14(1), 8181.
 
 * Aldag N, Büchner B,  Lenarz T, Nogueira W. (2022) **[Towards Decoding Selective Attention Through Cochlear Implant Electrodes as Sensors in Subjects with Contralateral Acoustic Hearing.](https://iopscience.iop.org/article/10.1088/1741-2552/ac4de6)** J. Neural Eng. 19 016023.
 
