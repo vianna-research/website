@@ -2,7 +2,24 @@ title: ForceptionTool
 
 - - -
 
-# Enabeling Intra-operative Insertion Force Measurement
+# An intraoperative CI insertion force measurement system
+
+## Summary
+
+The interaction forces between the electrode array (EA) of a cochlear implant (CI) and the intracochlear tissue are closely linked to the preservation of residual hearing as they presumably indicate the likelihood of intracochlear trauma. 
+
+Due to this, multiple studies have investigated strategies to reduce these so-called insertion forces such as speed reduction and trajectory control. Assessing the effectiveness of these strategies however is difficult, as haptic force control during surgery performed by the surgeon is hindered by the overlap of force magnitudes with human perception limits. Moreover, proposed strategies lack in vivo validation as all studies on insertion forces are performed in artificial cochlea models and human or animal specimens.
+
+We developed the ForceptionTool, a device that allows the measurement of insertion forces during standard CI surgery. Intraoperatively, it serves as a replacement for the surgical forceps that is used to hold the EA. The EA holder is connected to a force sensor, which measures the reactive force transmitted through the EA. To enable a free range of motion during measurements, an IMU records the spatial orientation of the tool, which is used to remove the changing effect of gravity on the force signal. Multiple surgeons as well as experts on hospital hygiene were involved in the design process to ensure transferability into the OR.
+
+Since its introduction, the ForceptionTool has been extensively evaluated. To validate the measurement methodology, insertions into artificial cochlea models were performed with simultaneous force measurement through the tool and a sensor below the model as a gold standard comparison. The results showed that measurements with the tool are completely equivalent to the gold standard. The workflow to use the tool intraoperatively together with the necessary measures to ensure sterility were tested in multiple cadaver experiments. These were also used for an initial force collection in a more realistic environment. In May 2023, the tool was first used intraoperatively as part of a study. Since then, forces were successfully measured during multiple standard CI surgeries.
+
+This proof of concept paves the way for multiple detailed investigations into insertion forces. Just a few examples are:
+ -	The investigation of the relation between insertion forces and residual hearing preservation based on specific values,
+ -	The experimental assessment of the effect of proposed force reduction measures, 
+ -	The extension of the perception of surgeons through real-time feedback on the insertion forces.
+
+
 
 
 ### Further Reading:
