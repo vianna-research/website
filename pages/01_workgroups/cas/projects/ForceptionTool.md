@@ -4,7 +4,7 @@ title: ForceptionTool
 
 # An intraoperative CI insertion force measurement system
 
-## Summary
+### Summary
 
 The interaction forces between the electrode array (EA) of a cochlear implant (CI) and the intracochlear tissue are closely linked to the preservation of residual hearing as they presumably indicate the likelihood of intracochlear trauma. 
 
@@ -19,6 +19,13 @@ This proof of concept paves the way for multiple detailed investigations into in
  -	The experimental assessment of the effect of proposed force reduction measures, 
  -	The extension of the perception of surgeons through real-time feedback on the insertion forces.
 
+
+### Contact:
+If you are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
+
+    Georg Böttcher-Rebmann, M.Sc.        Dr.-Ing. Thomas Rau
+    Boettcher.Georg@mh-hannover.de       rau.thomas@mh-hannover.de
+    +49(0)511/532-7264                   +49(0)511/532-3025
 
 
 
