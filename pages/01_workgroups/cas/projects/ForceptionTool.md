@@ -27,7 +27,11 @@ If you are interested in this technology, want to join a collaboration for furth
     Boettcher.Georg@mh-hannover.de       rau.thomas@mh-hannover.de
     +49(0)511/532-7264                   +49(0)511/532-3025
 
+### Funding:
+This work was funded in part by the Federal Ministry of Education and Research of Germany (BMBF, grant number 13GW0367B), and in part by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy (EXC 2177/1) within the Cluster of Excellence "Hearing4all" (Project ID 390895286). 
 
+### Pending patent application:
+Rau TS, Budde L, Böttcher-Rebmann G, Schell V: Medical Handling System. EP 21196884. Filing Date: 15 September 2021. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://patentimages.storage.googleapis.com/fb/e7/b2/373ab420422081/WO2023041581A1.pdf) [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> doi](https://patents.google.com/patent/WO2023041581A1/en)\].
 
 ### Further Reading:
 |                                                              |                                                              |
