@@ -16,9 +16,9 @@ Since its introduction, the ForceptionTool has been extensively evaluated. To va
 
 This proof of concept paves the way for multiple detailed investigations into insertion forces. Just a few examples are:
 
-    -	The investigation of the relation between insertion forces and residual hearing preservation based on specific values,
-    -	The experimental assessment of the effect of proposed force reduction measures, 
-    -	The extension of the perception of surgeons through real-time feedback on the insertion forces.
+   * The investigation of the relation between insertion forces and residual hearing preservation based on specific values,
+   * The experimental assessment of the effect of proposed force reduction measures, 
+   * The extension of the perception of surgeons through real-time feedback on the insertion forces.
     
 - - -
 ### Contact:
