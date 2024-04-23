@@ -15,9 +15,10 @@ We developed the ForceptionTool, a device that allows the measurement of inserti
 Since its introduction, the ForceptionTool has been extensively evaluated. To validate the measurement methodology, insertions into artificial cochlea models were performed with simultaneous force measurement through the tool and a sensor below the model as a gold standard comparison. The results showed that measurements with the tool are completely equivalent to the gold standard. The workflow to use the tool intraoperatively together with the necessary measures to ensure sterility were tested in multiple cadaver experiments. These were also used for an initial force collection in a more realistic environment. In May 2023, the tool was first used intraoperatively as part of a study. Since then, forces were successfully measured during multiple standard CI surgeries.
 
 This proof of concept paves the way for multiple detailed investigations into insertion forces. Just a few examples are:
-  -	The investigation of the relation between insertion forces and residual hearing preservation based on specific values,
-  -	The experimental assessment of the effect of proposed force reduction measures, 
-  -	The extension of the perception of surgeons through real-time feedback on the insertion forces.
+
+    -	The investigation of the relation between insertion forces and residual hearing preservation based on specific values,
+    -	The experimental assessment of the effect of proposed force reduction measures, 
+    -	The extension of the perception of surgeons through real-time feedback on the insertion forces.
 
 - - -
 ### Contact:
