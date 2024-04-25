@@ -20,7 +20,7 @@ We developed the ForceptionTool, a device that allows the measurement of inserti
 
 <center> ![](forceptiontool/FTv200_143000.jpg){style="width:420px"} ![](forceptiontool/FTv200_Rendering.jpg){style="width:380px"} </center>
   
-<center> <font size = "2"> **Figure 1: **. Picture and CAD drawing of the ForceptionTool. Use right click for full resolution images. In case you are using a figure, please cite [\[Rau *et al.* 2024\]](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1400455/full).
+<center> <font size = "2"> **Figure 1:** Picture (left) and CAD drawing (right) of the ForceptionTool. Use right click for full resolution images. In case you are using a figure, please cite [\[Rau *et al.* 2024\]](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1400455/full).
 </font> </center>
 
 Since its introduction, the ForceptionTool has been extensively evaluated. To validate the measurement methodology, insertions into artificial cochlea models were performed with simultaneous force measurement through the tool and a sensor below the model as a gold standard comparison. The results showed that measurements with the tool are completely equivalent to the gold standard. The workflow to use the tool intraoperatively together with the necessary measures to ensure sterility were tested in multiple cadaver experiments. These were also used for an initial force collection in a more realistic environment. In May 2023, the tool was first used intraoperatively as part of a study. Since then, forces were successfully measured during multiple standard CI surgeries.
