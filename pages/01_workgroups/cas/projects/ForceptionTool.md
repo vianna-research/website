@@ -8,7 +8,7 @@ title: ForceptionTool
 <!-- _Content of this page: <span class="glyphicon glyphicon-dot" aria-hidden="true"></span> Summary <span class="glyphicon glyphicon-hand-down" aria-hidden="true"></span> Contact details <span class="glyphicon glyphicon-hand-down" aria-hidden="true"></span> Funding <span class="glyphicon glyphicon-hand-down" aria-hidden="true"></span> Publications_ -->
 <!-- </center> -->
 
-_Content of this page: \* Summary \* \* Publications \* Contact details \* Funding_
+_Content of this page: \* Summary \* Publications \* Contact details \* Funding_
 
 ### Summary:
 
@@ -31,7 +31,7 @@ Since its introduction, the ForceptionTool has been extensively evaluated. To va
 
 <center>  ![](forceptiontool/FT_Rau2024_Fig3B.jpg){style="width:280px"} ![](forceptiontool/FT_Rau2024_Fig3D.jpg){style="width:320px"} </center>
 
-<center> <font size = "2">   **Figure 3:** Intra-operative use of the force sensing insertion tool for recording of insertion forces in vivo [\[Rau *et al.* 2024\]](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1400455/full). </font> </center>
+<center> <font size = "2">   **Figure 3:** Intra-operative use of the force sensitive insertion tool for recording of insertion forces in vivo [\[Rau *et al.* 2024\]](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1400455/full). </font> </center>
 
 This proof of concept paves the way for multiple detailed investigations into insertion forces. Just a few examples are:
 
@@ -64,6 +64,7 @@ This proof of concept paves the way for multiple detailed investigations into in
 ### Pending patent application:
 Rau TS, Budde L, Böttcher-Rebmann G, Schell V: Medical Handling System. **EP 21196884**. Filing Date: 15 September 2021. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://patentimages.storage.googleapis.com/fb/e7/b2/373ab420422081/WO2023041581A1.pdf) [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> patent](https://patents.google.com/patent/WO2023041581A1/en)\].
 
+- - -
 ### Contact details:
 If you are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
 
