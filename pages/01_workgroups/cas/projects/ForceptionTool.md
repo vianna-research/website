@@ -27,6 +27,8 @@ Since its introduction, the ForceptionTool has been extensively evaluated. To va
 
 <center> ![](forceptiontool/FT_GB3023_Fig1d.jpg){style="width:400px"} ![](forceptiontool/FT_GB2023_Fig1a.png){style="width:400px"} 
 <font size = "2"> **Figure 2:** Pre-clinical evaluation of the ForceptionTool (left) and the tool inside the sterile drape (right) as it can be used in an intra-operative setting. Use right click for full resolution images. In case you are using a figure, please cite [\[Böttcher-Rebmann *et al.* 2023\]](https://link.springer.com/article/10.1007/s11548-023-02975-2).
+  ![](forceptiontool/FT_Rau2024_Fig3B.jpg){style="width:400px"} ![](forceptiontool/FT_Rau2024_Fig3D.jpg){style="width:400px"} 
+  **Figure 3:** Caption to be  done. 
 </font>
 </center>
 
