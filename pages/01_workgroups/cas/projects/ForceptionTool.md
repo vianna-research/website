@@ -8,7 +8,7 @@ title: ForceptionTool
 <!-- _Content of this page: <span class="glyphicon glyphicon-dot" aria-hidden="true"></span> Summary <span class="glyphicon glyphicon-hand-down" aria-hidden="true"></span> Contact details <span class="glyphicon glyphicon-hand-down" aria-hidden="true"></span> Funding <span class="glyphicon glyphicon-hand-down" aria-hidden="true"></span> Publications_ -->
 <!-- </center> -->
 
-_Content of this page: \* Summary \* Contact details \* Funding \* Publications_
+_Content of this page: \* Summary \* \* Publications \* Contact details \* Funding_
 
 ### Summary:
 
@@ -40,19 +40,6 @@ This proof of concept paves the way for multiple detailed investigations into in
    * The extension of the perception of surgeons through real-time feedback on the insertion forces.
     
 - - -
-### Contact details:
-If you are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
-
-    Georg Böttcher-Rebmann, M.Sc.        Dr.-Ing. Thomas Rau
-    Boettcher.Georg@mh-hannover.de       rau.thomas@mh-hannover.de
-    +49(0)511/532-7264                   +49(0)511/532-3025
-
-### Funding:
-This work was funded in part by the Federal Ministry of Education and Research of Germany (BMBF, grant number 13GW0367B), and in part by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy (EXC 2177/1) within the Cluster of Excellence "Hearing4all" (Project ID 390895286). 
-
-### Pending patent application:
-Rau TS, Budde L, Böttcher-Rebmann G, Schell V: Medical Handling System. **EP 21196884**. Filing Date: 15 September 2021. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://patentimages.storage.googleapis.com/fb/e7/b2/373ab420422081/WO2023041581A1.pdf) [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> patent](https://patents.google.com/patent/WO2023041581A1/en)\].
-
 ### Publications:
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -73,3 +60,16 @@ Rau TS, Budde L, Böttcher-Rebmann G, Schell V: Medical Handling System. **EP 21
 | | Böttcher-Rebmann G, Schell V, Budde L, Baier C, Lenarz T, Rau TS (2021): Design and first evaluation of a manual insertion tool enabling force measurements during cochlear implant electrode array insertion. In Proc. 55th Annual Conference of the German Society for Biomedical Engineering (DGBMT within VDE), October 05-07, Hannover, Germany. |
 | | Zuniga MG, Hügl S, Lenarz T, Rau TS (2020): _Electrode Array Insertion Forces Using a Handheld Tool: Initial Performance Evaluations_. In Proc. AAO-HNSF 2020 Virtual Annual Meeting & OTO Experience, September 13-16, Boston, MA, USA: Otolaryngology–Head and Neck Surgery 163(1S):229. |
 
+
+### Pending patent application:
+Rau TS, Budde L, Böttcher-Rebmann G, Schell V: Medical Handling System. **EP 21196884**. Filing Date: 15 September 2021. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://patentimages.storage.googleapis.com/fb/e7/b2/373ab420422081/WO2023041581A1.pdf) [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> patent](https://patents.google.com/patent/WO2023041581A1/en)\].
+
+### Contact details:
+If you are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
+
+    Georg Böttcher-Rebmann, M.Sc.        Dr.-Ing. Thomas Rau
+    Boettcher.Georg@mh-hannover.de       rau.thomas@mh-hannover.de
+    +49(0)511/532-7264                   +49(0)511/532-3025
+
+### Funding:
+This work was funded in part by the Federal Ministry of Education and Research of Germany (BMBF, grant number 13GW0367B), and in part by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy (EXC 2177/1) within the Cluster of Excellence "Hearing4all" (Project ID 390895286). 
