@@ -8,9 +8,7 @@ title: ForceptionTool
 <!-- _Content of this page: <span class="glyphicon glyphicon-dot" aria-hidden="true"></span> Summary <span class="glyphicon glyphicon-hand-down" aria-hidden="true"></span> Contact details <span class="glyphicon glyphicon-hand-down" aria-hidden="true"></span> Funding <span class="glyphicon glyphicon-hand-down" aria-hidden="true"></span> Publications_ -->
 <!-- </center> -->
 
-<center>
 _Content of this page: \* Summary \* Contact details \* Funding \* Publications_
-</center>
 
 ### Summary:
 
