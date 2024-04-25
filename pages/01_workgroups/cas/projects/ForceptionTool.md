@@ -2,9 +2,11 @@ title: ForceptionTool
 
 - - -
 
-# An intraoperative CI insertion force measurement system
+# Intraoperative CI insertion force measurement system
 
-### Summary
+Content of this page: <span class="glyphicon glyphicon-triangle-bottom" aria-hidden="true"></span> Summary - Contact data - Funding - Publications
+
+### Summary:
 
 The interaction forces between the electrode array (EA) of a cochlear implant (CI) and the intracochlear tissue are closely linked to the preservation of residual hearing as they presumably indicate the likelihood of intracochlear trauma. 
 
@@ -34,7 +36,7 @@ This work was funded in part by the Federal Ministry of Education and Research o
 ### Pending patent application:
 Rau TS, Budde L, Böttcher-Rebmann G, Schell V: Medical Handling System. **EP 21196884**. Filing Date: 15 September 2021. \[[<span class="glyphicon glyphicon-file" aria-hidden="true"></span>](https://patentimages.storage.googleapis.com/fb/e7/b2/373ab420422081/WO2023041581A1.pdf) [<span class="glyphicon glyphicon-link" aria-hidden="true"></span> patent](https://patents.google.com/patent/WO2023041581A1/en)\].
 
-### Further Reading:
+### Publications:
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |  | **Peer-reviewed journal articles** |
