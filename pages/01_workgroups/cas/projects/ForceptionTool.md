@@ -29,8 +29,9 @@ Since its introduction, the ForceptionTool has been extensively evaluated. To va
 <font size = "2"> **Figure 2:** Pre-clinical evaluation of the ForceptionTool (left) and the tool inside the sterile drape (right) as it can be used in an intra-operative setting. Use right click for full resolution images. In case you are using a figure, please cite [\[Böttcher-Rebmann *et al.* 2023\]](https://link.springer.com/article/10.1007/s11548-023-02975-2). </font> </center>
 
 
-<center>  ![](forceptiontool/FT_Rau2024_Fig3B.jpg){style="width:280px"} ![](forceptiontool/FT_Rau2024_Fig3D.jpg){style="width:320px"} 
-<font size = "2">   **Figure 3:** Intra-operative use of the force sensing insertion tool for recording of insertion forces in vivo [\[Rau *et al.* 2024\]](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1400455/full). </font> </center>
+<center>  ![](forceptiontool/FT_Rau2024_Fig3B.jpg){style="width:280px"} ![](forceptiontool/FT_Rau2024_Fig3D.jpg){style="width:320px"} </center>
+
+<center> <font size = "2">   **Figure 3:** Intra-operative use of the force sensing insertion tool for recording of insertion forces in vivo [\[Rau *et al.* 2024\]](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1400455/full). </font> </center>
 
 This proof of concept paves the way for multiple detailed investigations into insertion forces. Just a few examples are:
 
