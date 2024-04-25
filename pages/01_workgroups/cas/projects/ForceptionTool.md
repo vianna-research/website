@@ -18,6 +18,8 @@ Due to this, multiple studies have investigated strategies to reduce these so-ca
 
 We developed the ForceptionTool, a device that allows the measurement of insertion forces during standard CI surgery. Intraoperatively, it serves as a replacement for the surgical forceps that is used to hold the EA. The EA holder is connected to a force sensor, which measures the reactive force transmitted through the EA. To enable a free range of motion during measurements, an IMU records the spatial orientation of the tool, which is used to remove the changing effect of gravity on the force signal. Multiple surgeons as well as experts on hospital hygiene were involved in the design process to ensure transferability into the OR.
 
+<center> ![](ForceptionTool/FTv200_143000.jpg){style="width:250px"} ![](ForceptionTool/FT200_Rendering.jpg){style="width:250px"} </center>
+
 Since its introduction, the ForceptionTool has been extensively evaluated. To validate the measurement methodology, insertions into artificial cochlea models were performed with simultaneous force measurement through the tool and a sensor below the model as a gold standard comparison. The results showed that measurements with the tool are completely equivalent to the gold standard. The workflow to use the tool intraoperatively together with the necessary measures to ensure sterility were tested in multiple cadaver experiments. These were also used for an initial force collection in a more realistic environment. In May 2023, the tool was first used intraoperatively as part of a study. Since then, forces were successfully measured during multiple standard CI surgeries.
 
 This proof of concept paves the way for multiple detailed investigations into insertion forces. Just a few examples are:
