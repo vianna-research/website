@@ -4,7 +4,7 @@ title: ForceptionTool
 
 # Intraoperative CI insertion force measurement system
 
-Content of this page: <span class="glyphicon glyphicon-triangle-bottom" aria-hidden="true"></span> Summary - Contact details - Funding - Publications
+Content of this page: <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span> Summary - Contact details - Funding - Publications
 
 ### Summary:
 
