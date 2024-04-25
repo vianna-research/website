@@ -30,7 +30,7 @@ Since its introduction, the ForceptionTool has been extensively evaluated. To va
 
 
 <center>  ![](forceptiontool/FT_Rau2024_Fig3B.jpg){style="width:280px"} ![](forceptiontool/FT_Rau2024_Fig3D.jpg){style="width:320px"} 
-<font size = "2">   **Figure 3:** Intra-operative use of the force sensing insertion tool for recording of insertion forces in vivo. </font> </center>
+<font size = "2">   **Figure 3:** Intra-operative use of the force sensing insertion tool for recording of insertion forces in vivo [\[Rau *et al.* 2024\]](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1400455/full). </font> </center>
 
 This proof of concept paves the way for multiple detailed investigations into insertion forces. Just a few examples are:
 
