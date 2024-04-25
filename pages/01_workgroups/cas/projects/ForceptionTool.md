@@ -18,7 +18,7 @@ Due to this, multiple studies have investigated strategies to reduce these so-ca
 
 We developed the ForceptionTool, a device that allows the measurement of insertion forces during standard CI surgery. Intraoperatively, it serves as a replacement for the surgical forceps that is used to hold the EA. The EA holder is connected to a force sensor, which measures the reactive force transmitted through the EA. To enable a free range of motion during measurements, an IMU records the spatial orientation of the tool, which is used to remove the changing effect of gravity on the force signal. Multiple surgeons as well as experts on hospital hygiene were involved in the design process to ensure transferability into the OR.
 
-<center> ![](forceptiontool/FTv200_143000.jpg){style="width:410px"} ![](forceptiontool/FTv200_Rendering.jpg){style="width:400px"} 
+<center> ![](forceptiontool/FTv200_143000.jpg){style="width:410px"} ![](forceptiontool/FTv200_Rendering.jpg){style="width:380px"} 
 <font size = "2"> Figures of the ForceptionTool. Use right click for full resolution images. In case you are using a figure, please cite [\[Rau *et al.* 2004\]](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1400455/full).
 </font>
 </center>
