@@ -4,7 +4,7 @@ title: ForceptionTool
 
 # Intraoperative CI insertion force measurement system
 
-Content of this page: <span class="glyphicon glyphicon-triangle-bottom" aria-hidden="true"></span> Summary - Contact data - Funding - Publications
+Content of this page: <span class="glyphicon glyphicon-triangle-bottom" aria-hidden="true"></span> Summary - Contact details - Funding - Publications
 
 ### Summary:
 
@@ -23,7 +23,7 @@ This proof of concept paves the way for multiple detailed investigations into in
    * The extension of the perception of surgeons through real-time feedback on the insertion forces.
     
 - - -
-### Contact:
+### Contact details:
 If you are interested in this technology, want to join a collaboration for further development, or just have additional questions please do not hesitate to contact:
 
     Georg Böttcher-Rebmann, M.Sc.        Dr.-Ing. Thomas Rau
