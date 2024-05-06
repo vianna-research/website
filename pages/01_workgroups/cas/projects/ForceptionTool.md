@@ -10,6 +10,15 @@ title: ForceptionTool
 
 _Content of this page: \* Summary \* Publications \* Contact details \* Funding_
 
+- *Highlights*
+    - Pioneering application of a force-sensitive insertion tool for a clinical setting
+    - Accuracy of the measurement method is equivalent the gold standard in lab experiments
+    - Successful integration of the tool into the conventional workflow of CI surgery
+    - Feasibility of insertion force measurement during standard CI surgery demonstrated 
+    - Report of the world’s first measurements of in vivo insertion forces 
+    - Initial findings from an ongoing clinical study show the potential of this technology 
+
+
 ### Summary:
 
 The interaction forces between the electrode array (EA) of a cochlear implant (CI) and the intracochlear tissue are closely linked to the preservation of residual hearing as they presumably indicate the likelihood of intracochlear trauma. 
