@@ -10,7 +10,7 @@ title: ForceptionTool
 
 _Content of this page: \* Summary \* Publications \* Contact details \* Funding_
 
-- *Highlights*
+**Highlights**
     - Pioneering application of a force-sensitive insertion tool for a clinical setting
     - Accuracy of the measurement method is equivalent the gold standard in lab experiments
     - Successful integration of the tool into the conventional workflow of CI surgery
