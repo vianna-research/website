@@ -2,7 +2,7 @@ title: Sina Tahmasebi
 <!--- publications_src:sina.bib --->
 
 
-![Sina Tahmasebi](Tahmasebi.jpg)
+![Sina Tahmasebi](Tahmasebi.jpeg)
 
 
 Research employee	
