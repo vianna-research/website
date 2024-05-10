@@ -20,7 +20,7 @@ title: Staff
 |![Portrait](staff/Hanna.jpeg)	   | [Hanna Dolhopiatenko](https://vianna.uber.space/01_workgroups/nogueira/staff/hanna.html)| <Dolhopiatenko.Hanna@mh-hannover.de>	|
 |[![Portrait](staff/jonasSmall.jpg)](https://vianna.de/01_workgroups/nogueira/staff/jonas.jpg)	| [Jonas Althoff](https://vianna.de/01_workgroups/nogueira/staff/jonas.html)	  | <Althoff.Jonas@mh-hannover.de>      |
 |![Portrait](staff/Nina.jpg)	    | [Nina Aldag](https://vianna.uber.space/01_workgroups/nogueira/staff/nina.html)| <Aldag.Nina@mh-hannover.de>         |
-|![Portrait](staff/Tahmasebi.jpg)	| [Sina Tahmasebi](https://vianna.uber.space/01_workgroups/nogueira/staff/sina.html) | <Tahmasebi.Sina@mh-hannover.de>  |
+|![Portrait](staff/Tahmasebi.jpeg)	| [Sina Tahmasebi](https://vianna.uber.space/01_workgroups/nogueira/staff/sina.html) | <Tahmasebi.Sina@mh-hannover.de>  |
 |![Portrait](staff/Gajecki.jpg)  	| [Tom Gajecki](https://www.vianna.de/01_workgroups/nogueira/staff/tom.html)	| <Gajecki.Tomas@mh-hannover.de>      |
 |[![Portrait](staff/patrickSmall.jpg)](https://vianna.de/01_workgroups/nogueira/staff/patrickSmall.jpg)	| [Patrick Hinz](https://vianna.de/01_workgroups/nogueira/staff/patrick.html)	  | <Hinz.Patrick@mh-hannover.de>      |
 |[![Portrait](staff/zhang.jpg)](https://vianna.de/01_workgroups/nogueira/staff/Yixuan.jpg)	| [Yixuan Zhang](https://vianna.de/01_workgroups/nogueira/staff/zhang.html)	  | <Zhang.Yixuan@mh-hannover.de>      |
