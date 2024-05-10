@@ -1,6 +1,6 @@
 title: Staff
 
-![group Picture; February 2021](staff/GroupPicture.JPG)
+![group Picture; February 2021](staff/GroupPicture_2024_05.jpeg)
 
 
 | Head of Research Group              |                               |                                           |
