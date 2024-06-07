@@ -1,10 +1,10 @@
 title: Daniel Kipping 
 
+![Daniel Kipping](Alrutz.jpg)
+
 Research employee	
 
 **Research and Interests**
-
-![Daniel Kipping](Alrutz.jpg){style="float:right; margin-left:1em"}
 
 * Electric-acoustic stimulation (EAS)
 * Auditory masking
@@ -33,29 +33,29 @@ Research employee
 
 ### Conference contributions (first author):
 
-- D. Kipping, Y. Zhang, W. Nogueira (2023): **A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Cochlear Implant Users with Residual Hearing**. International
+- D. Kipping, Y. Zhang, W. Nogueira (2023): [**A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Cochlear Implant Users with Residual Hearing**](https://www.researchgate.net/publication/378174466_A_Computational_Model_of_the_Electrically_or_Acoustically_Evoked_Compound_Action_Potential_in_Cochlear_Implant_Users_with_Residual_Hearing). International
 Conference on Biomedical Technology (ICBT 2023), Hannover, Germany.
 
-- D. Kipping, Y. Zhang, W. Nogueira (2023): **A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Hybrid Cochlear Implant Users**. Conference on Implantable Auditory Prostheses (CIAP 2023), Lake Tahoe, California.
+- D. Kipping, Y. Zhang, W. Nogueira (2023): [**A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Hybrid Cochlear Implant Users**](https://www.researchgate.net/publication/372561732_A_Computational_Model_of_the_Electrically_or_Acoustically_Evoked_Compound_Action_Potential_in_Hybrid_Cochlear_Implant_Users). Conference on Implantable Auditory Prostheses (CIAP 2023), Lake Tahoe, California.
 
-- D. Kipping, Y. Zhang, K.-H. Dyballa, A. Heiller, H. Lim, W. Nogueira (2023): **A Computational Modeling Framework for Auditory Nerve Stimulation with a Cochlear Implant and the Novel Auditory Nerve Implant**. 46th Annual MidWinter Meeting of the Association for Research in Otolaryngology (ARO 2023), Orlando, Florida.
+- D. Kipping, Y. Zhang, K.-H. Dyballa, A. Heiller, H. Lim, W. Nogueira (2023): [**A Computational Modeling Framework for Auditory Nerve Stimulation with a Cochlear Implant and the Novel Auditory Nerve Implant**](https://www.researchgate.net/publication/368667602_A_Computational_Modeling_Framework_for_Auditory_Nerve_Stimulation_with_a_Cochlear_Implant_and_the_Novel_Auditory_Nerve_Implant). 46th Annual MidWinter Meeting of the Association for Research in Otolaryngology (ARO 2023), Orlando, Florida.
 
-- D. Kipping, Y. Zhang, K.-H. Dyballa, A. Heiller, B. Richardson, H. Lim, W. Nogueira (2022): **Auditory Nerve Stimulation with the Novel Auditory Nerve Implant and a Cochlear Implant – A Computer Model Study**. 45th Annual MidWinter Meeting of the Association for Research in Otolaryngology (ARO 2022), virtual conference.
+- D. Kipping, Y. Zhang, K.-H. Dyballa, A. Heiller, B. Richardson, H. Lim, W. Nogueira (2022): [**Auditory Nerve Stimulation with the Novel Auditory Nerve Implant and a Cochlear Implant – A Computer Model Study**](https://www.researchgate.net/publication/358353160_Auditory_Nerve_Stimulation_with_the_Novel_Auditory_Nerve_Implant_and_a_Cochlear_Implant_-_A_Computer_Model_Study). 45th Annual MidWinter Meeting of the Association for Research in Otolaryngology (ARO 2022), virtual conference.
 
-- D. Kipping, K.-H. Dyballa, B. Bayazid, H. Lim, W. Nogueira (2021): **A 3D Computational Model Framework for Stimulation with the Auditory Nerve Implant and the Cochlear Implant**. Conference on Implantable Auditory Prosthesis (CIAP 2021), virtual conference.
+- D. Kipping, K.-H. Dyballa, B. Bayazid, H. Lim, W. Nogueira (2021): [**A 3D Computational Model Framework for Stimulation with the Auditory Nerve Implant and the Cochlear Implant**](https://www.researchgate.net/publication/366095708_A_3D_Computational_Model_Framework_for_Stimulation_with_the_Auditory_Nerve_Implant_and_the_Cochlear_Implant). Conference on Implantable Auditory Prosthesis (CIAP 2021), virtual conference.
 
-- D. Kipping & W. Nogueira (2021): **A Computational Single-Fiber Model of Electric-Acoustic Stimulation**. 2nd Virtual Conference on Computational Audiology (VCCA 2021), virtual conference.
+- D. Kipping & W. Nogueira (2021): [**A Computational Single-Fiber Model of Electric-Acoustic Stimulation**](https://www.researchgate.net/publication/366096060_A_Computational_Single-Fiber_Model_of_Electric-Acoustic_Stimulation). 2nd Virtual Conference on Computational Audiology (VCCA 2021), virtual conference.
 
-- D. Kipping & W. Nogueira (2021): **A Computational Single-Fiber Model of Electric-Acoustic Stimulation: Design and Validation**. 44th Annual MidWinter Meeting of the Association for Research
+- D. Kipping & W. Nogueira (2021): [**A Computational Single-Fiber Model of Electric-Acoustic Stimulation: Design and Validation**](https://www.researchgate.net/publication/366096023_A_Computational_Single-Fiber_Model_of_Electric-Acoustic_Stimulation_Design_and_Validation). 44th Annual MidWinter Meeting of the Association for Research
 in Otolaryngology (ARO 2021), virtual conference.
 
-- D. Kipping & W. Nogueira (2020): **Elektrisch-akustische Maskierung bei Cochlea-Implantat-Trägern mit akustischem Restgehör – zur Rolle der Elektrophonie**. 23. Jahrestagung der Deutschen Gesellschaft für Audiologie (DGA 2020), virtual conference.
+- D. Kipping & W. Nogueira (2020): [**Elektrisch-akustische Maskierung bei Cochlea-Implantat-Trägern mit akustischem Restgehör – zur Rolle der Elektrophonie**](https://www.researchgate.net/publication/366096077_Elektrisch-akustische_Maskierung_bei_Cochlea-Implantat-Tragern_mit_akustischem_Restgehor_-_zur_Rolle_der_Elektrophonie). 23. Jahrestagung der Deutschen Gesellschaft für Audiologie (DGA 2020), virtual conference.
 
 - D. Kipping & W. Nogueira (2020): **A Computational Model of Electric-Acoustic Stimulation in Cochlear Implant Subjects with Residual Hearing**. 43rd Annual MidWinter Meeting of the Association for Research in Otolaryngology (ARO 2020), San Jose, California.
 
-- D. Kipping & W. Nogueira (2019): **A Computational Model of Electric-Acoustic Stimulation in Cochlear Implant Subjects with Residual Hearing**. International Conference on Biomedical Technology (ICBT 2019), Hannover, Germany.
+- D. Kipping & W. Nogueira (2019): [**A Computational Model of Electric-Acoustic Stimulation in Cochlear Implant Subjects with Residual Hearing**](https://www.researchgate.net/publication/366095968_A_Computational_Model_of_Electric-Acoustic_Stimulation_in_Cochlear_Implant_Subjects_with_Residual_Hearing). International Conference on Biomedical Technology (ICBT 2019), Hannover, Germany.
 
-- D. Kipping & W. Nogueira (2019): **Towards a Model of Electric-Acoustic Stimulation in Cochlear Implant Subjects with Residual Hearing**. 23rd International Congress on Acoustics (ICA 2019), Aachen, Germany.
+- D. Kipping & W. Nogueira (2019): [**Towards a Model of Electric-Acoustic Stimulation in Cochlear Implant Subjects with Residual Hearing**](https://www.researchgate.net/publication/366096107_Towards_a_model_of_electric-acoustic_stimulation_in_cochlear_implant_subjects_with_residual_hearing). 23rd International Congress on Acoustics (ICA 2019), Aachen, Germany.
 
 
 ### Supervision of students
