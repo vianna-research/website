@@ -21,6 +21,8 @@ The following open positions are to be filled in the [CAS lab](https://www.viann
 
 **********
 
+![Auditory Prosthetic Group](01_workgroups/nogueira/APG_Group_HNO.png){style="float:right; margin-left:1em"}
+
 The following open positions are to be filled in the [**Auditory Prosthetic Group (APG Lab)**](https://vianna.uber.space/01_workgroups/nogueira.html) led by [**Prof. Waldo Nogueira**](https://vianna.uber.space/01_workgroups/nogueira/staff/a_nogueira.html):
 
 - Student assistant "Electroencephalography (EEG)" ([Ausschreibung in Deutsch](01_workgroups/nogueira/staff/Ausschreibung_APG_HiWi_EEG_deutsch.pdf))
