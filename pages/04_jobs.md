@@ -5,7 +5,9 @@ title: Open Positions
 
 <!-- Sorry, there are no open positions at the moment. -->
 
-**********
+---
+
+# CAS Lab
 
 The following open positions are to be filled in the [CAS lab](https://www.vianna.de/01_workgroups/cas.html) ("Computer Assisted Surgery")
 
@@ -15,11 +17,11 @@ The following open positions are to be filled in the [CAS lab](https://www.viann
 
 - Student assistant "implant development" [(Aushang 23-02-TRACO in Deutsch)](01_workgroups/cas/staff/Aushang_Hiwi_23-02-TRACO.pdf).
 
-
-
 <!-- [CAS Lab - Computer-Assisted Surgery: Wissenschaftliche_n Mitarbeiter_in (w/d/m)](https://mhh.hr4you.org/job/view/364/wissenschaftliche-n-mitarbeiter-in-w-d-m?page_lang=de) -->
 
-**********
+---
+
+# APG Lab
 
 ![Auditory Prosthetic Group](01_workgroups/nogueira/APG_Group_HNO.png){style="float:right; margin-left:1em"}
 
@@ -31,6 +33,6 @@ The following open positions are to be filled in the [**Auditory Prosthetic Grou
 
 We welcome speculative applications from students with a relevant background in technical disciplines who are interested in working with cochlear implants. Check our research interests at our [**website**](https://vianna.uber.space/01_workgroups/nogueira.html). Please contact Prof. Waldo Nogueira (nogueiravazquez.waldo@mh-hannover.de) for informal inquiries or applications.
 
-**********
+---
 
 <!-- To edit/update this page go <https://github.com/vianna-research/website/edit/master/pages/jobs.md> -->
