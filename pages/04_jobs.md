@@ -21,4 +21,14 @@ The following open positions are to be filled in the [CAS lab](https://www.viann
 
 **********
 
-To edit/update this page go <https://github.com/vianna-research/website/edit/master/pages/jobs.md>
+The following open positions are to be filled in the [**Auditory Prosthetic Group (APG Lab)**](https://vianna.uber.space/01_workgroups/nogueira.html) led by [**Prof. Waldo Nogueira**](https://vianna.uber.space/01_workgroups/nogueira/staff/a_nogueira.html):
+
+- Student assistant "Electroencephalography (EEG)" ([Ausschreibung in Deutsch](01_workgroups/nogueira/staff/Ausschreibung_APG_HiWi_EEG_deutsch.pdf))
+
+- Student assistant "Computational Models" ([Ausschreibung in Deutsch](01_workgroups/nogueira/staff/Ausschreibung_APG_HiWi_Modellierung_deutsch.pdf) / [Announcement in English](01_workgroups/nogueira/staff/Ausschreibung_APG_HiWi_Modeling_english.pdf))
+
+We welcome speculative applications from students with a relevant background in technical disciplines who are interested in working with cochlear implants. Check our research interests at our [**website**](https://vianna.uber.space/01_workgroups/nogueira.html). Please contact Prof. Waldo Nogueira (nogueiravazquez.waldo@mh-hannover.de) for informal inquiries or applications.
+
+**********
+
+<!-- To edit/update this page go <https://github.com/vianna-research/website/edit/master/pages/jobs.md> -->
