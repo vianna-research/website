@@ -8,6 +8,7 @@ The Auditory Prosthetic Group of the German Hearing Center, part of the Medical 
 The group started in September 2013 as part of the Excellence Cluster Hearing4all.
 
 - **[Linktree page](https://linktr.ee/auditoryprostheticgroup)**
+- **[Open positions, including Bachelor and Master theses proposals](https://www.vianna.de/01_workgroups/nogueira/open_positions.html)**
 
 ---
 
