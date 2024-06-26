@@ -3,7 +3,7 @@ title: Publications
 ## 2024
 
 * Carles L, Gibaja A, **Scheper V**, Alvarado JC, Almodovar C, Lenarz T, Juiz JM
-[Efficacy and Mechanisms of Antioxidant Compounds and Combinations Thereof against Cisplatin-Induced Hearing Loss in a Rat Model](https://doi.org/10.3389/fnins.2023.1297046) Antioxidants, June 2024, 13(7), 761;
+[Efficacy and Mechanisms of Antioxidant Compounds and Combinations Thereof against Cisplatin-Induced Hearing Loss in a Rat Model]( https://doi.org/10.3390/antiox13070761) Antioxidants, June 2024, 13(7), 761;
 
 ## 2023
 
