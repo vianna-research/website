@@ -2,7 +2,7 @@ title: Publications
 
 ## 2024
 
-* Angrisani N, von der Ahe C, Willumeit-Römer R, Windhagen H, **Scheper V**, Schwarze M, Wiese B, Helmholz H, Reifenrath J
+* Angrisani N, von der Ahe C, Willumeit-Römer R, Windhagen H, **Scheper V**, Schwarze M, Wiese B, Helmholz H, Reifenrath J 
 [Treatment of osteoarthritis by implantation of Mg- and WE43-cylinders - a preclinical study on bone and cartilage changes and their influence on pain sensation in rabbits(https://doi.org/10.1016/j.bioactmat.2024.06.003) Bioactive Materials, October 2024, 366-377
 
 * Carles L, Gibaja A, **Scheper V**, Alvarado JC, Almodovar C, Lenarz T, Juiz JM
@@ -10,7 +10,7 @@ title: Publications
 
 ## 2023
 
-* Grzybowski M, Malfeld K, Lenarz T, **Scheper V**, Schurzig D
+* Grzybowski M, Malfeld K, Lenarz T, **Scheper V**, Schurzig D 
 [Optimization of pharmacological interventions in the guinea pig animal model—a new approach to calculate the perilymph volume of the scala tympani](https://doi.org/10.3389/fnins.2023.1297046) Front. Neurosci., Sec. Translational Neuroscience, December 2023
 
 * Wersényi G, **Scheper V**, Spagnol S, Eixelberger T, Wittenberg T
