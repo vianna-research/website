@@ -2,8 +2,11 @@ title: Publications
 
 ## 2024
 
+* Angrisani N, von der Ahe C, Willumeit-Römer R, Windhagen H, **Scheper V**, Schwarze M, Wiese B, Helmholz H, Reifenrath J
+[Treatment of osteoarthritis by implantation of Mg- and WE43-cylinders - a preclinical study on bone and cartilage changes and their influence on pain sensation in rabbits(https://doi.org/10.1016/j.bioactmat.2024.06.003) Bioactive Materials, October 2024, 366-377
+
 * Carles L, Gibaja A, **Scheper V**, Alvarado JC, Almodovar C, Lenarz T, Juiz JM
-[Efficacy and Mechanisms of Antioxidant Compounds and Combinations Thereof against Cisplatin-Induced Hearing Loss in a Rat Model]( https://doi.org/10.3390/antiox13070761) Antioxidants, June 2024, 13(7), 761;
+[Efficacy and Mechanisms of Antioxidant Compounds and Combinations Thereof against Cisplatin-Induced Hearing Loss in a Rat Model](https://doi.org/10.3390/antiox13070761) Antioxidants, June 2024, 13(7), 761;
 
 ## 2023
 
