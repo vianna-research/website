@@ -1,4 +1,23 @@
 title: Publications
+##2024
+* Nassauer L, Schott JW, Harre J, Warnecke A, Morgan M, Galla M, Schambach A.**[The caspase-inhibitor Emricasan efficiently counteracts cisplatin- and neomycin-induced cytotoxicity in cochlear cells.](https://link.springer.com/article/10.1007/s00109-024-02472-2)** J Mol Med (Berl). 2024 Aug 7. doi: 10.1007/s00109-024-02472-2. Online ahead of print.
+  
+* Giesemann A, Schöner-Heinisch A, Götz F, Steinemann D, Lesinski-Schiedat A, Warnecke A, Lanfermann H, Hartmann H, Döring K.**[Hamartomas of the Tuber Cinereum Associated with X-Linked Deafness Show Signs of Pubertas Tarda Instead of Pubertas Praecox and No Gelastic Seizures-Long-Term Follow-Up of 12 Years.](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0044-1788730)** Neuropediatrics. 2024 Jul 31. doi: 10.1055/s-0044-1788730. Online ahead of print.
+  
+* Di Stadio A, Ralli M, Kaski D, Koohi N, Gioacchini FM, Kysar JW, Lalwani AK, Warnecke A, Bernitsas E. **[Exploring Inner Ear and Brain Connectivity through Perilymph Sampling for Early Detection of Neurological Diseases: A Provocative Proposal.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11201480/)** Brain Sci. 2024 Jun 20;14(6):621. doi: 10.3390/brainsci14060621.
+  
+* Guan C, Shaikh M, Warnecke A, Vona B, Albert JT. **[A burden shared: The evolutionary case for studying human deafness in Drosophila.](https://www.sciencedirect.com/science/article/pii/S037859552400100Xt)** Hear Res. 2024 Sep 1;450:109047. doi: 10.1016/j.heares.2024.109047. Epub 2024 Jun 15.
+  
+* Tsilivigkos C, Vitkos EN, Ferekidis E, Warnecke A. **[Can Multifrequency Tympanometry Be Used in the Diagnosis of Meniere's Disease? A Systematic Review and Meta-Analysis.](https://www.mdpi.com/2077-0383/13/5/1476)** J Clin Med. 2024 Mar 4;13(5):1476. doi: 10.3390/jcm13051476.
+  
+* Nassauer L, Staecker H, Huang P, Renslo B, Goblet M, Harre J, Warnecke A, Schott JW, Morgan M, Galla M, Schambach A. **[Protection from cisplatin-induced hearing loss with lentiviral vector-mediated ectopic expression of the anti-apoptotic protein BCL-XL.](https://www.sciencedirect.com/science/article/pii/S2162253124000441?via%3Dihub)** Mol Ther Nucleic Acids. 2024 Feb 19;35(1):102157. doi: 10.1016/j.omtn.2024.102157. eCollection 2024 Mar 12.
+  
+* Döring K, Ivanyi P, Lanfermann H, Warnecke A, Giesemann A. **[Langerhans cell histiocytosis involving the temporal bone with destruction and subsequent reossification of the bony labyrinth boundaries.](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2254-5536)** Rofo. 2024 Feb 19. doi: 10.1055/a-2254-5536. Online ahead of print.
+  
+* Räth M, Schurzig D, Timm ME, Lenarz T, Warnecke A. **[Correlation of Scalar Cochlear Volume and Hearing Preservation in Cochlear Implant Recipients with Residual Hearing.](https://journals.lww.com/otology-neurotology/fulltext/2024/03000/correlation_of_scalar_cochlear_volume_and_hearing.13.aspx)** Otol Neurotol. 2024 Mar 1;45(3):256-265. doi: 10.1097/MAO.0000000000004122. Epub 2024 Jan 24.
+ 
+* Winter G, Löffelmann T, Chaya S, Kaiser H, Prenzler NK, Warnecke A, Wetzke M, Derlin T, Renz D, Stueber T, Länger F, Schütz K, Schwerk N. **[Relapsing Polychondritis with Tracheobronchial Involvement: A Detailed Description of Two Pediatric Cases and Review of the Literature.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10883755/)** Klin Padiatr. 2024 Feb;236(2):97-105. doi: 10.1055/a-2230-1521. Epub 2024 Jan 15.
+
 ## 2023
 * Pan X, Huang P, Ali SS, Renslo B, Hutchinson TE, Erwin N, Greenberg Z, Ding Z, Li Y, Warnecke A, Fernandez NE, Staecker H, He M. **[CRISPR-Cas9 Engineered Extracellular Vesicles for the Treatment of Dominant Progressive Hearing Loss.]( https://www.biorxiv.org/content/10.1101/2023.09.14.557853v2)** bioRxiv [Preprint]. 2023 Dec 15:2023.09.14.557853. doi: 10.1101/2023.09.14.557853.
   
