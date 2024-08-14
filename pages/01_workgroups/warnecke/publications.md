@@ -1,5 +1,5 @@
 title: Publications
-##2024
+## 2024
 * Nassauer L, Schott JW, Harre J, Warnecke A, Morgan M, Galla M, Schambach A.**[The caspase-inhibitor Emricasan efficiently counteracts cisplatin- and neomycin-induced cytotoxicity in cochlear cells.](https://link.springer.com/article/10.1007/s00109-024-02472-2)** J Mol Med (Berl). 2024 Aug 7. doi: 10.1007/s00109-024-02472-2. Online ahead of print.
   
 * Giesemann A, Schöner-Heinisch A, Götz F, Steinemann D, Lesinski-Schiedat A, Warnecke A, Lanfermann H, Hartmann H, Döring K.**[Hamartomas of the Tuber Cinereum Associated with X-Linked Deafness Show Signs of Pubertas Tarda Instead of Pubertas Praecox and No Gelastic Seizures-Long-Term Follow-Up of 12 Years.](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0044-1788730)** Neuropediatrics. 2024 Jul 31. doi: 10.1055/s-0044-1788730. Online ahead of print.
