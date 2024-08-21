@@ -3,7 +3,7 @@ title: Publications
 ## 2024
 
 * Wei C, Gao Z, Knabel M, Ulbricht M, Senekowitsch S, Erfurt P, Maggi N, Zwick B, Eickner T, Matin-Mann F, Seidlitz A, Lenarz T, **Scheper V**
-[Development of a drug delivering round window niche implant for cochlear pharmacotherapy](https://doi.org/10.1080/10717544.2024.2392755) Drug Delivery, August 2024, VOL. 31, NO. 1, 2392755
+[Development of a drug delivering round window niche implant for cochlear pharmacotherapy](https://www.tandfonline.com/doi/epdf/10.1080/10717544.2024.2392755?needAccess=true) Drug Delivery, August 2024, VOL. 31, NO. 1, 2392755
 
 * Angrisani N, von der Ahe C, Willumeit-Römer R, Windhagen H, **Scheper V**, Schwarze M, Wiese B, Helmholz H, Reifenrath J 
 [Treatment of osteoarthritis by implantation of Mg- and WE43-cylinders - a preclinical study on bone and cartilage changes and their influence on pain sensation in rabbits](https://doi.org/10.1016/j.bioactmat.2024.06.003) Bioactive Materials, October 2024, 366-377
