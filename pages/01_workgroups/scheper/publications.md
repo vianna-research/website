@@ -2,7 +2,7 @@ title: Publications
 
 ## 2024
 
-* Anning Chen,Jiaxi Qu,Yunyou You, Jing Pan,**Verena Scheper**, Yongdong Lin, Xuexin Tian, Fan Shu, Yanjing Luo,  Jie Tang, Hongzheng Zhang
+* Anning Chen,Jiaxi Qu,Yunyou You, Jing Pan,**Verena Scheper**, Yongdong Lin, Xuexin Tian, Fan Shu, **Yanjing Luo**,  Jie Tang, Hongzheng Zhang
 [Intratympanic injection of MSC-derived small extracellular vesicles protects spiral ganglion neurons from degeneration](https://doi.org/10.1016/j.biopha.2024.117392) Biomedicine & Pharmacotherapy, September 2024; Vol. 179, 117392 
 
 * **Chunjiang Wei**, **Ziwen Gao**, **Martina Knabel**, Martin Ulbricht, Stefan Senekowitsch, Peter Erfurt,Norman Maggi, Bastian Zwick, Thomas Eickner, **Farnaz Matin-Mann**, Anne Seidlitz, Thomas Lenarz, **Verena Scheper**
