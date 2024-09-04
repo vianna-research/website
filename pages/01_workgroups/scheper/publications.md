@@ -2,7 +2,10 @@ title: Publications
 
 ## 2024
 
-* Wei C, Gao Z, Knabel M, Ulbricht M, Senekowitsch S, Erfurt P, Maggi N, Zwick B, Eickner T, Matin-Mann F, Seidlitz A, Lenarz T, **Scheper V**
+* Anning Chen,Jiaxi Qu,Yunyou You, Jing Pan,**Verena Scheper**, Yongdong Lin, Xuexin Tian, Fan Shu, Yanjing Luo,  Jie Tang, Hongzheng Zhang
+[Intratympanic injection of MSC-derived small extracellular vesicles protects spiral ganglion neurons from degeneration](https://doi.org/10.1016/j.biopha.2024.117392) Biomedicine & Pharmacotherapy, September 2024; Vol. 179, 117392 
+
+* **Chunjiang Wei**, **Ziwen Gao**, **Martina Knabel**, Martin Ulbricht, Stefan Senekowitsch, Peter Erfurt,Norman Maggi, Bastian Zwick, Thomas Eickner, **Farnaz Matin-Mann**, Anne Seidlitz, Thomas Lenarz, **Verena Scheper**
 [Development of a drug delivering round window niche implant for cochlear pharmacotherapy](https://www.tandfonline.com/doi/epdf/10.1080/10717544.2024.2392755?needAccess=true) Drug Delivery, August 2024, VOL. 31, NO. 1, 2392755
 
 * Angrisani N, von der Ahe C, Willumeit-Römer R, Windhagen H, **Scheper V**, Schwarze M, Wiese B, Helmholz H, Reifenrath J 
