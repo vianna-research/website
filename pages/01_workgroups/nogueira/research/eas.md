@@ -60,6 +60,8 @@ Abbreviations:
 * **[Daniel Kipping](https://vianna.de/01_workgroups/nogueira/staff/daniel.html)**
 * **[Hanna Dolhopiatenko](https://vianna.de/01_workgroups/nogueira/staff/hanna.html)**
 * **[Franklin Alvarez](https://vianna.de/01_workgroups/nogueira/staff/franklin.html)**
+* **[Patrick Hinz](https://vianna.de/01_workgroups/nogueira/staff/patrick.html)**
+* **[Yixuan Zhang](https://vianna.de/01_workgroups/nogueira/staff/zhang.html)**
 
 
 ### Collaborators
