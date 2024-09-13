@@ -19,7 +19,8 @@ _Content of this page: \* Highlights \* Summary \* Publications \* Contact detai
    - Successful integration of the tool into the conventional workflow of CI surgery
    - Feasibility of insertion force measurement during standard CI surgery demonstrated 
    - Report of the world’s first measurements of in vivo insertion forces 
-   - Initial findings from an ongoing clinical study show the potential of this technology 
+   - Initial findings from an ongoing clinical study show the potential of this technology
+   - Patent for the measurement method pending 
 
 
 ### Summary:
@@ -28,7 +29,7 @@ The interaction forces between the electrode array (EA) of a cochlear implant (C
 
 Due to this, multiple studies have investigated strategies to reduce these so-called insertion forces such as speed reduction and trajectory control. Assessing the effectiveness of these strategies however is difficult, as haptic force control during surgery performed by the surgeon is hindered by the overlap of force magnitudes with human perception limits. Moreover, proposed strategies lack in vivo validation as all studies on insertion forces are performed in artificial cochlea models and human or animal specimens.
 
-We developed the ForceptionTool, a device that allows the measurement of insertion forces during standard CI surgery. Intraoperatively, it serves as a replacement for the surgical forceps that is used to hold the EA. The EA holder is connected to a force sensor, which measures the reactive force transmitted through the EA. To enable a free range of motion during measurements, an IMU records the spatial orientation of the tool, which is used to remove the changing effect of gravity on the force signal. Multiple surgeons as well as experts on hospital hygiene were involved in the design process to ensure transferability into the OR.
+We developed the ForceptionTool, a device that allows the measurement of insertion forces during standard CI surgery. Intraoperatively, it serves as a replacement for the surgical forceps that is used to hold the EA. The EA holder is connected to a force sensor, which measures the reactive force transmitted through the EA. To enable a free range of motion during measurements, an IMU records the spatial orientation of the tool, which is used to remove the changing effect of gravity on the force signal. Multiple surgeons as well as experts on hospital hygiene were involved in the design process to ensure transferability into the OR. The concept and design of the tool have been granted with an award for patient safety (Preis für Patientensicherheit in der Medizintechnik 2021, awarded by Aktionsbündnis Patientensicherheit e.V. and Deutsche Gesellschaft für Biomedizinische Technik).
 
 <center> ![](forceptiontool/FTv200_143000.jpg){style="width:415px"} ![](forceptiontool/FTv200_Rendering.jpg){style="width:385px"} </center>
   
