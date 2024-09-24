@@ -2,6 +2,9 @@ title: Publications
 
 ## 2024
 
+* **Chunjiang Wei**, **Ziwen Gao**, Robert Mau, Thomas Eickner, Gabor Jüttner, Nicklas Fiedler, Hermann Seitz, Thomas Lenarz, **Verena Scheper**
+[Molded Round Window Niche Implant as a Dexamethasone Delivery System in a Cochlear Implant-Trauma Animal Model](https://www.mdpi.com/1999-4923/16/9/1236) Pharmaceutics, September 2024, 16(9), 1236
+
 * Anning Chen,Jiaxi Qu,Yunyou You, Jing Pan,**Verena Scheper**, Yongdong Lin, Xuexin Tian, Fan Shu, **Yanjing Luo**,  Jie Tang, Hongzheng Zhang
 [Intratympanic injection of MSC-derived small extracellular vesicles protects spiral ganglion neurons from degeneration](https://doi.org/10.1016/j.biopha.2024.117392) Biomedicine & Pharmacotherapy, September 2024; Vol. 179, 117392 
 
