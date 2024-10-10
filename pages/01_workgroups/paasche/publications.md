@@ -1,6 +1,13 @@
 title: Publications
+## 2024
+* Winkelmann S, Lebahn K, Ezzat M, Schmitt K, Napp A, Oppel N, Pohl F, Kampmann A, Grabow N, Lenarz T, **Paasche G**. First in vivo test of a biodegradable polymeric stent for the Eustachian tube in sheep. Front. Audiol. Otol. 2024 2:1414831. doi: 10.3389/fauot.2024.1414831
+
+* Schmitt K, Timm M, Krüger P, Oppel N, Napp A, Pohl F, Schuon R, Kampmann A, Kötter L, Bankstahl M, Lenarz T, Stein T, **Paasche G**. Long-Term Preclinical Evaluation of a Permanent Stent Developed for the Human Eustachian Tube. Bioengineering (Basel). 2024 Jul 25;11(8):755. doi: 10.3390/bioengineering11080755
+
 ## 2023
-* Behrends W, Ahrens D, Bankstahl JP, Esser KH, **Paasche G**, Lenarz T, Scheper V. Refinement of systemic guinea pig deafening in hearing research: Sensorineural hearing loss induced by co-administration of kanamycin and furosemide via the leg veins. Lab Anim. 2023 Apr 18:236772231167679. doi: 10.1177/00236772231167679. Online ahead of print.
+* Behrends W, Ahrens D, Bankstahl JP, Esser KH, **Paasche G**, Lenarz T, Scheper V. Refinement of systemic guinea pig deafening in hearing research: Sensorineural hearing loss induced by co-administration of kanamycin and furosemide via the leg veins. Lab Anim. 2023 Dec;57(6):631-641. doi: 10.1177/00236772231167679. Epub 2023 Apr 18.
+
+* Rosenbusch L, Schuon R, Wilfling T, Krüger P, Lebahn K, John S, Sahmel O, Grabow N, Schulze M, Wree A, Schmitz KP, Stein T, Lenarz T, **Paasche G**. Investigation of Stent Prototypes for the Eustachian Tube in Human Donor Bodies. Bioengineering (Basel). 2023 Jun 20;10(6):743. doi: 10.3390/bioengineering10060743.
 
 * Behrends W, Wulf K, Raggl S, Fröhlich M, Eickner T, Dohr D, Esser K-H, Lenarz T, Scheper V, **Paasche G**. Dual Drug Delivery in Cochlear Implants: In Vivo Study of Dexamethasone Combined with Diclofenac or Immunophilin Inhibitor MM284 in Guinea Pigs. Pharmaceutics 2023; 15:726. https://doi.org/10.3390/pharmaceutics15030726.
 
