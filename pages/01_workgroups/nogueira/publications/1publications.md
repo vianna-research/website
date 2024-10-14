@@ -1,6 +1,9 @@
 title: Peer Reviewed Journal Publications
 
 ## 2024
+* Y. Zhang, D. Kipping, W. Nogueira (2024): **[Evaluating electrophysiological and behavioral measures of neural health in cochlear implant users: a computational simulation study](
+https://doi.org/10.48550/arXiv.2409.14767)**. IEEE Transactions on Biomedical Engineering (Under review). Data avaliable: [GitLab](https://gitlab.gwdg.de/apg/neural-health).
+
 * Dolhopiatenko, H., Segovia-Martinez, M., Nogueira, W. (2024). **[The temporal mismatch across listening sides affects cortical auditory evoked responses in normal hearing listeners.](https://www.sciencedirect.com/science/article/pii/S0378595524001412)** Hearing Research, 451. doi: https://doi.org/10.1016/j.heares.2024.109088.
 * Althoff, J., Gajecki, T., Nogueira, W. (2024). **[Remixing Preferences for Western Instrumental Classical Music of Bilateral Cochlear Implant Users](https://journals.sagepub.com/doi/10.1177/23312165241245219)**. Trends in Hearing in 2024. doi: 110.1177/2331216524124521.
 
