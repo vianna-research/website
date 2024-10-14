@@ -1,6 +1,12 @@
 title: Conference Contributions
 
 ## 2024
+* **[Design of an End-to-End Deep Learning Sound Coding Strategy for Cochlear Implants and Validation through an Objective Metric based on Mutual Information](https://computationalaudiology.com/design-of-an-end-to-end-deep-learning-sound-coding-strategy-for-cochlear-implants-and-validation-through-an-objective-metric-based-on-mutual-information/)**.
+Gajecki T, Alvarez F, Nogueira W. VCCA2024.
+
+* **[A 3D computational model framework of the stimulated peripheral auditory system](https://computationalaudiology.com/a-3d-computational-model-framework-of-the-stimulated-peripheral-auditory-system/)**.
+Zhang Y, Alvarez F, Kipping D, Nogueira W. VCCA2024.
+
 
 ## 2023
 * **[A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Cochlear Implant Users with Residual Hearing](https://www.researchgate.net/publication/378174466_A_Computational_Model_of_the_Electrically_or_Acoustically_Evoked_Compound_Action_Potential_in_Cochlear_Implant_Users_with_Residual_Hearing)**.
