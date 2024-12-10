@@ -8,7 +8,6 @@ title: Staff
 |Technical Staff|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
 |   |Name| E-Mail|Extension|
-|![Armbrecht Nina](Nina.jpg) | Nina Armbrecht	|	Armbrecht.nina@mh-hannover.de | 532 1529|
 |![Kreienmeyer Michaela](Michaela.jpg) | Michaela Kreinenmeyer	|	Kreinemeyer.Michaela@mh-hannover.de | 532 1525|
 
 |Research Team  |    |  | +49 (0)511 - |
@@ -18,7 +17,6 @@ title: Staff
 | ![Image Farnaz Matin](MatinF.jpg) |  Farnaz Matin, MD|	Matin.Farnaz@mh-hannover.de| 17 7443| 
 | ![Image Marleen Grzybowski](Grzybowski.jpg) | Marleen Grzybowski, M.Sc.| Grzybowski.Marleen@mh-hannover.de | 532 4192|
 | ![Image Martina Knabel](Knabel.JPG) | Martina Knabel, M.Sc.| Knabel.Martina@mh-hannover.de | 532 1464 |
-| ![Image Kathrin Anja Malfeld](malfeld.jpg)  | Kathrin Anja Malfeld, veterinarian, PhD Student |  Malfeld.Kathrin@mh-hannover.de |532 1529 |  
 | ![Image Chunjiang Wei](suzy1.jpg)  | Chunjiang Wei, M.Sc., PhD Student  	|	Wei.chunjiang@mh-hannover.de | 532 1464|
 | ![Image Yanjing Luo](Yanjing2.jpg) |  Yanjing Luo, M.Sc. PhD student|	Yanjing.luo@mh-hannover.de| 532 7262| 
 
@@ -28,18 +26,8 @@ title: Staff
 |![Image Finnja Louisa Köpke ](.jpg) | Finnja Louisa Köpke | Koepke.Finnja@mh-hannover| 532 1529|
 
 
-|  Students   ||
-|-----------|-------------|
-|Name| E-Mail|
-|Tchadarou Abdoul, Masterstudent|Abdoul.Tchadarou@mh-hannover.de|
-|Katarina Klötzer, PhD Student, MD student|
-|Katarina-Sophie Jung, PhD Student, MD student|
 
-
-
-
-
-We closely work together with PD Dr. med. A. Warnecke and PD Dr. rer. nat. G. Paasche and their lab teams. In VIANNA in NIFE we optimise our research by combining our lab spaces and other recources. 
+We closely work together with Prof. Dr. med. A. Warnecke and Prof. Dr. rer. nat. G. Paasche and their lab teams. In VIANNA in NIFE we optimise our research by combining our lab spaces and other recources. 
 
 **The team of all three working groups (not complete):** 
 ![Picture Zellkulturteam2019](Zellkulturteam2019.jpg)  
