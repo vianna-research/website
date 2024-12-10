@@ -7,13 +7,13 @@ Privatdozentin
 
 **Contact:**
 
-Verena Scheper
+PD Dr. Verena Scheper
   
 Medizinische Hochschule Hannover
 	
 Klinik für Hals-Nasen-Ohrenheilkunde
 	
-Stadtfelddamm 35
+Stadtfelddamm 34
 
 30625 Hannover
 
