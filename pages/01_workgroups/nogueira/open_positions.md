@@ -2,7 +2,7 @@ title: Open Positions
 
 
 The following open positions are to be filled in the **Auditory Prosthetic Group (APG Lab)** led by Prof. Waldo Nogueira:
-- 4 PhD Positions Projects on Electric Acoustic Stimulation: "Psychoacoustics, "Electroencephalography (EEG)", "Computational Models ([Description](staff/4 PhD Positions MHH and UAB Waldo Nogueira Group.pdf))
+- 4 PhD Positions Projects ERC Consolidator Grant READIHEAR and ATRAE: Electric Acoustic Stimulation: "Psychoacoustics, "Electroencephalography (EEG)", "Computational Models ([Announcement in English](staff/4 PhD Positions MHH and UAB Waldo Nogueira Group.pdf))
 
 - Student assistant "Electroencephalography (EEG)" ([Ausschreibung in Deutsch](staff/Ausschreibung_APG_HiWi_EEG_deutsch.pdf))
 
