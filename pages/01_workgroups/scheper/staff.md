@@ -23,7 +23,7 @@ title: Staff
 |FWJ|                     |      |    +49 (0)511 -  |
 |--------------|:---------------------|------|-----|
 |   |Name| E-Mail|Extension|
-|![Image Finnja Louisa Köpke ](.jpg) | Finnja Louisa Köpke | Koepke.Finnja@mh-hannover| 532 1529|
+|![Image Angeliki Tsioka](Angeliki.jpg) | Angeliki Tsioska | Tsioska.Angeliki@mh-hannover| 532 1529|
 
 
 
