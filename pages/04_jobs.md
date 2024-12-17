@@ -29,13 +29,13 @@ Sorry, there are no open positions at the moment.
 
 The following open positions are to be filled in the [**Auditory Prosthetic Group (APG Lab)**](https://vianna.uber.space/01_workgroups/nogueira.html) led by [**Prof. Waldo Nogueira**](https://vianna.uber.space/01_workgroups/nogueira/staff/a_nogueira.html):
 
-- 4 PhD Positions for the projects (1) ERC Consolidator Grant READIHEAR and (2) ATRAE: Electric Acoustic Stimulation: Psychoacoustics, Electroencephalography (EEG), Computational Models   
+- **4 PhD Positions** for the projects (1) ERC Consolidator Grant READIHEAR and (2) ATRAE: Electric Acoustic Stimulation: Psychoacoustics, Electroencephalography (EEG), Computational Models   
   &rarr; [Announcement in English](<01_workgroups/nogueira/staff/4 PhD Positions MHH and UAB Waldo Nogueira Group.pdf>)
 
-- Student assistant (Master's thesis and HiWi) "Electroencephalography (EEG)"   
+- **Student assistant "Electroencephalography (EEG)"** (Master's thesis and HiWi)   
   &rarr; [Ausschreibung in Deutsch](01_workgroups/nogueira/staff/Ausschreibung_APG_HiWi_EEG_deutsch.pdf)
 
-- Student assistant (Master's thesis and HiWi) "Computational Models"   
+- **Student assistant "Computational Models"** (Master's thesis and HiWi)   
   &rarr; [Ausschreibung in Deutsch](01_workgroups/nogueira/staff/Ausschreibung_APG_HiWi_Modellierung_deutsch.pdf)   
   &rarr; [Announcement in English](01_workgroups/nogueira/staff/Ausschreibung_APG_HiWi_Modeling_english.pdf)   
 
