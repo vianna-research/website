@@ -29,11 +29,17 @@ Sorry, there are no open positions at the moment.
 
 The following open positions are to be filled in the [**Auditory Prosthetic Group (APG Lab)**](https://vianna.uber.space/01_workgroups/nogueira.html) led by [**Prof. Waldo Nogueira**](https://vianna.uber.space/01_workgroups/nogueira/staff/a_nogueira.html):
 
-- Student assistant "Electroencephalography (EEG)" ([Ausschreibung in Deutsch](01_workgroups/nogueira/staff/Ausschreibung_APG_HiWi_EEG_deutsch.pdf))
+- 4 PhD Positions for the projects (1) ERC Consolidator Grant READIHEAR and (2) ATRAE: Electric Acoustic Stimulation: Psychoacoustics, Electroencephalography (EEG), Computational Models   
+  &rarr; [Announcement in English](<01_workgroups/nogueira/staff/4 PhD Positions MHH and UAB Waldo Nogueira Group.pdf>)
 
-- Student assistant "Computational Models" ([Ausschreibung in Deutsch](01_workgroups/nogueira/staff/Ausschreibung_APG_HiWi_Modellierung_deutsch.pdf) / [Announcement in English](01_workgroups/nogueira/staff/Ausschreibung_APG_HiWi_Modeling_english.pdf))
+- Student assistant (Master's thesis and HiWi) "Electroencephalography (EEG)"   
+  &rarr; [Ausschreibung in Deutsch](01_workgroups/nogueira/staff/Ausschreibung_APG_HiWi_EEG_deutsch.pdf)
 
-We welcome speculative applications from students with a relevant background in technical disciplines who are interested in working with cochlear implants. Check our research interests at our [**website**](https://vianna.uber.space/01_workgroups/nogueira.html). Please contact Prof. Waldo Nogueira (nogueiravazquez.waldo@mh-hannover.de) for informal inquiries or applications.
+- Student assistant (Master's thesis and HiWi) "Computational Models"   
+  &rarr; [Ausschreibung in Deutsch](01_workgroups/nogueira/staff/Ausschreibung_APG_HiWi_Modellierung_deutsch.pdf)   
+  &rarr; [Announcement in English](01_workgroups/nogueira/staff/Ausschreibung_APG_HiWi_Modeling_english.pdf)   
+
+We also welcome speculative applications from students with a relevant background in technical disciplines who are interested in working with cochlear implants. Check our research interests at our [**website**](https://vianna.uber.space/01_workgroups/nogueira.html). Please contact Prof. Waldo Nogueira (nogueiravazquez.waldo@mh-hannover.de) for informal inquiries or applications.
 
 ---
 
