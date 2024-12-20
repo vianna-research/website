@@ -2,6 +2,9 @@ title: Publications
 
 ## 2024
 
+* **Martina Knabel**, Gerald Dräger, Thomas Lenarz, **Verena Scheper**
+[Release Rates of Prednisolone-21-Hydrogen- Succinate from 3D-Printed Silicone as Material for Patient-Individualized Drug Releasing Implants](https://doi.org/10.1515/cdbme-2024-2091) Current Directions in Biomedical Engineering, December 2024, 10(4), 373-376
+
 * **Chunjiang Wei**, **Ziwen Gao**, Robert Mau, Thomas Eickner, Gabor Jüttner, Nicklas Fiedler, Hermann Seitz, Thomas Lenarz, **Verena Scheper**
 [Molded Round Window Niche Implant as a Dexamethasone Delivery System in a Cochlear Implant-Trauma Animal Model](https://www.mdpi.com/1999-4923/16/9/1236) Pharmaceutics, September 2024, 16(9), 1236
 
