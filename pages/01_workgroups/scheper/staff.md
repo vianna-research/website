@@ -24,6 +24,7 @@ title: Staff
 |--------------|:---------------------|------|-----|
 |   |Name| E-Mail|Extension|
 |![Image Angeliki Tsioka](Angeliki.jpg) | Angeliki Tsioska | Tsioska.Angeliki@mh-hannover| 532 1529|
+![Image Emma Baar](Emma.jpg) | Emma Baar | Baar.Emma@mh-hannover| 532 1529|
 
 
 
