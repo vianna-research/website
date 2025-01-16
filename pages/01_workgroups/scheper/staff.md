@@ -1,7 +1,7 @@
 title: Staff
 
 |Head of research group |  |  |   |
-|-----------------------|:---------------|----|----|
+|-----------------------|:-------------------------------------------|-----------------------------|----|
 |![Picture Verena Scheper](Verena_2.jpg){style="width:150px"}       |Privatdozentin Dr. med. vet. Verena Scheper |Scheper.verena@mh-hannover.de        | +49 (0)511 532 4369 |
 
 
@@ -27,5 +27,6 @@ title: Staff
 
 We closely work together with Prof. Dr. med. A. Warnecke and Prof. Dr. rer. nat. G. Paasche and their lab teams. In VIANNA in NIFE we optimise our research by combining our lab spaces and other recources. 
 
-**The team of all three working groups (not complete):                ** 
+**The team of all three working groups (not complete):** 
+
 ![Picture Zellkulturteam2019](Zellkulturteam2019.jpg)  
