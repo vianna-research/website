@@ -9,7 +9,7 @@ title: Staff
 |:--|:---------------|:----|----:|
 |![Kreienmeyer Michaela](Michaela.jpg){style="width:150px"}|Michaela Kreinenmeyer |Kreinemeyer.Michaela@mh-hannover.de |532 1525|
 
-|Research Team|Name|E-Mail |+49 (0)511-|
+|Research Team|Name|E-Mail|+49 (0)511-|
 |:--|:---------------|:----|----:|
 |![Image Jana Schwieger](Schwieger.jpg){style="width:150px"}|Jana Schwieger, Dr. med. vet.<br>Postdoc<br>|Schwieger.jana@mh-hannover.de |532 7262|
 |![Image Farnaz Matin](MatinF.jpg){style="width:150px"}|PD Dr. Farnaz Matin-Mann, MD|Matin-Mann.Farnaz@mh-hannover.de |17 7443| 
