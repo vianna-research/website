@@ -25,7 +25,7 @@ Deutsche Forschungsgemeinschaft (DFG), Project number 446611346:
 ---
 
 ### Publications
-Coming soon...
+Althoff, J., Gajecki, T., Nogueira, W. (2024). Remixing Preferences for Western Instrumental Classical Music of Bilateral Cochlear Implant Users. Trends in Hearing in 2024. doi: 110.1177/2331216524124521.
 
 
 ---
