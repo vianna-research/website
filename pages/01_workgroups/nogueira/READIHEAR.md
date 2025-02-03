@@ -5,7 +5,7 @@ title: READIHEAR
 
 ### Project description
 
-![READIHEAR](READIHEAR/Readihear.png){style="float:right; margin-left:1em"}
+![READIHEAR](READIHEAR/Readihear.png)
 
 Hearing loss is the most common sensory deficit in the elderly. As a chronic health problem, hearing loss can have severe impacts on a person’s mental health and social participation. One widely used solution is cochlear implants, hearing prosthetics that stimulate the auditory nerve with electrodes placed inside the cochlea. The EU-funded READIHEAR project will investigate the fundamental interaction mechanisms between electric and acoustic stimulation across the auditory pathway, from the cochlea to the auditory cortex. READIHEAR aims to set the basis for a new generation of diagnostic and treatment devices for hearing loss.
 
