@@ -5,7 +5,7 @@ title: READIHEAR
 
 ## Rehabilitation and Diagnosis of Hearing Loss based on Electric Acoustic Interaction. 
 
-<br>
+---
 
 ### Project description
 
