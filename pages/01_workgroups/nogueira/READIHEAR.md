@@ -4,7 +4,7 @@ title: READIHEAR
 ![READIHEAR](https://www.vianna.de/01_workgroups/nogueira/readihear/readihear.png){style="float:right; margin-left:1em"}
 
 ## Rehabilitation and Diagnosis of Hearing Loss based on Electric Acoustic Interaction. 
-
+<br/>
 ---
 
 ### Project description
