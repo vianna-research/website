@@ -63,14 +63,6 @@ The ground-breaking nature of the READIHEAR project is to investigate the fundam
 | ![Portrait](staff/zhang.jpg)      	 | [Yixuan Zhang](https://vianna.de/01_workgroups/nogueira/staff/zhang.html)	                        | <Zhang.Yixuan@mh-hannover.de>          |
 | ![Portrait](staff/empty.jpg)	       | [Robert Hart](https://vianna.de/01_workgroups/nogueira/staff/hart.html)	                          | <Hart.Robert@mh-hannover.de>           |
 
-| Students &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| :----------------------------------- | :------------------------------------------------------------------------------------------------- | -------------------------------------: |
-| ![Portrait](staff/Ainhoa_small.png)  | Ainhoa Castaño Martos                                                                              |                                        | 
-| ![Portrait](staff/Krueger6.jpg)      | [Dr.-Ing. Benjamin Krüger](https://www.vianna.de/01_workgroups/nogueira/staff/benjamin.html)       | <Krueger.Benjamin@mh-hannover.de>      |
-| ![Portrait](staff/Alrutz.jpg)	       | [Dr. rer. nat. Daniel Kipping](https://vianna.uber.space/01_workgroups/nogueira/staff/daniel.html) | <Kipping.Daniel@mh-hannover.de>	       |
-| ![Portrait](staff/franklin.jpg)	     | [Franklin Alvarez ](https://vianna.de/01_workgroups/nogueira/staff/franklin.html)                  | <Alvarez.Franklin@mh-hannover.de>	     |
-| ![Portrait](staff/Hanna.jpeg)	       | [Hanna Dolhopiatenko](https://vianna.uber.space/01_workgroups/nogueira/staff/hanna.html)           | <Dolhopiatenko.Hanna@mh-hannover.de>   |
-
 
 ### Publications
 
