@@ -14,14 +14,34 @@ More information: [EU Project Website](https://cordis.europa.eu/project/id/10104
 
 Grant agreement ID: 101044753
 
+<!---
 <div style="width: 200px; height: 20px; background-color: lightgray; border-radius: 5px; overflow: hidden;">
   <div style="width: 50%; height: 100%; background-color: green;"></div>
 </div>
+--->
 
-<p id="day"></p>
+<div style="width: 300px; height: 25px; background-color: lightgray; border-radius: 5px; overflow: hidden; position: relative;">
+  <div id="progress" style="width: 0%; height: 100%; background-color: green; transition: width 0.5s;"></div>
+</div>
+
 <script>
-  document.getElementById("day").innerText = new Date().toLocaleDateString('en-US', { weekday: 'long' });
+  // Define start and end dates
+  const startDate = new Date("2024-02-01"); // Change to your actual start date
+  const endDate = new Date("2024-02-20");   // Change to your actual end date
+  const currentDate = new Date();
+
+  // Calculate progress percentage
+  const totalDuration = endDate - startDate;
+  const elapsedTime = currentDate - startDate;
+  let progressPercentage = (elapsedTime / totalDuration) * 100;
+
+  // Ensure percentage is within bounds (0-100)
+  progressPercentage = Math.max(0, Math.min(progressPercentage, 100));
+
+  // Update progress bar width
+  document.getElementById("progress").style.width = progressPercentage + "%";
 </script>
+
 
 ### Objective
 Hearing loss is the most common sensory deficit in the elderly, and it is becoming a severe social as well as a health problem. Across the whole lifespan, from new-borns to the elderly, hearing loss impairs the exchange of information, thus significantly impacting everyday life, causing loneliness, isolation, dependence, frustration and communication disorders. Cochlear implants (CIs) are hearing prosthetics that stimulate the auditory nerve with electrodes placed inside the cochlea. CIs are gradually being implanted in subjects retaining low-frequency residual hearing. In general, these subjects obtain large benefits in speech perception from electric acoustic stimulation, although large variability exists and some subjects do not benefit. Therefore, it is highly desirable to create objective diagnostics to assess acoustic low-frequency hearing to indicate cochlear implantation, to monitor and preserve hearing during the implantation procedure and to understand the mechanisms related to electric acoustic stimulation benefits.
