@@ -27,7 +27,7 @@ Grant agreement ID: 101044753
 <script>
   // Define start and end dates
   const startDate = new Date("2024-02-01"); // Change to your actual start date
-  const endDate = new Date("2024-02-20");   // Change to your actual end date
+  const endDate = new Date("2026-02-20");   // Change to your actual end date
   const currentDate = new Date();
 
   // Calculate progress percentage
