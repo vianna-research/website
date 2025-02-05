@@ -21,7 +21,7 @@ Grant agreement ID: 101044753
 --->
 
 <div style="width: 300px; height: 25px; background-color: lightgray; border-radius: 5px; overflow: hidden; position: relative;">
-  <div id="progress" style="width: 0%; height: 100%; background-color: green; transition: width 0.5s;"></div>
+  <div id="progress" style="width: 0%; height: 100%; background-color: #00b0f0; transition: width 0.5s;"></div>
 </div>
 
 <script>
