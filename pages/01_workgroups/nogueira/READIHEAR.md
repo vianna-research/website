@@ -69,6 +69,7 @@ The ground-breaking nature of the READIHEAR project is to investigate the fundam
 | ![Portrait](staff/Krueger6.jpg)      | [Dr.-Ing. Benjamin Krüger](https://www.vianna.de/01_workgroups/nogueira/staff/benjamin.html)       | <Krueger.Benjamin@mh-hannover.de>      |
 | ![Portrait](staff/Alrutz.jpg)	       | [Dr. rer. nat. Daniel Kipping](https://vianna.uber.space/01_workgroups/nogueira/staff/daniel.html) | <Kipping.Daniel@mh-hannover.de>	       |
 | ![Portrait](staff/franklin.jpg)	     | [Franklin Alvarez ](https://vianna.de/01_workgroups/nogueira/staff/franklin.html)                  | <Alvarez.Franklin@mh-hannover.de>	     |
+| ![Portrait](staff/Hanna.jpeg)	       | [Hanna Dolhopiatenko](https://vianna.uber.space/01_workgroups/nogueira/staff/hanna.html)           | <Dolhopiatenko.Hanna@mh-hannover.de>   |
 
 
 ### Publications
