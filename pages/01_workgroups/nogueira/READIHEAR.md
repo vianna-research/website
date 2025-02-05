@@ -18,7 +18,10 @@ Grant agreement ID: 101044753
   <div style="width: 50%; height: 100%; background-color: green;"></div>
 </div>
 
-bar
+<p id="day"></p>
+<script>
+  document.getElementById("day").innerText = new Date().toLocaleDateString('en-US', { weekday: 'long' });
+</script>
 
 ### Objective
 Hearing loss is the most common sensory deficit in the elderly, and it is becoming a severe social as well as a health problem. Across the whole lifespan, from new-borns to the elderly, hearing loss impairs the exchange of information, thus significantly impacting everyday life, causing loneliness, isolation, dependence, frustration and communication disorders. Cochlear implants (CIs) are hearing prosthetics that stimulate the auditory nerve with electrodes placed inside the cochlea. CIs are gradually being implanted in subjects retaining low-frequency residual hearing. In general, these subjects obtain large benefits in speech perception from electric acoustic stimulation, although large variability exists and some subjects do not benefit. Therefore, it is highly desirable to create objective diagnostics to assess acoustic low-frequency hearing to indicate cochlear implantation, to monitor and preserve hearing during the implantation procedure and to understand the mechanisms related to electric acoustic stimulation benefits.
