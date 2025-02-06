@@ -20,11 +20,13 @@ Grant agreement ID: 101044753
 </div>
 --->
 
+</br>
+
 <div style='width:300px;'>
 <!-- Labels and Date Container with inline style -->
 <div style="display: flex; justify-content: space-between; font-size: 14px; margin-bottom: 5px;">
-  <div style="text-align: left;">Start date</div>
-  <div style="text-align: right;">End date</div>
+  <div style="text-align: left;"><b>Start date</b>b></div>
+  <div style="text-align: right;"><b>End date</b>b></div>
 </div>
 
 <!-- Date Container with inline style -->
