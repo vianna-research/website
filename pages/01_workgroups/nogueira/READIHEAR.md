@@ -20,7 +20,6 @@ Grant agreement ID: 101044753
 </div>
 --->
 
-</br>
 
 <!-- Labels and Date Container with inline style -->
 <div style="display: flex; justify-content: space-between; font-size: 14px; margin-bottom: 5px;">
