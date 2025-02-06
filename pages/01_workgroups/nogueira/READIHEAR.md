@@ -20,15 +20,39 @@ Grant agreement ID: 101044753
 </div>
 --->
 
+<div style='width:300px;'>
+<!-- Labels and Date Container with inline style -->
+<div style="display: flex; justify-content: space-between; font-size: 14px; margin-bottom: 5px;">
+  <div style="text-align: left;">Start date</div>
+  <div style="text-align: right;">End date</div>
+</div>
+
+<!-- Date Container with inline style -->
+<div style="width: 300px; display: flex; justify-content: space-between; font-size: 14px; margin-bottom: 20px;">
+  <div id="start-date"></div>
+  <div id="end-date" style="text-align: right; "></div>
+</div>
+
+<!-- Progress Bar -->
 <div style="width: 300px; height: 25px; background-color: lightgray; border-radius: 5px; overflow: hidden; position: relative;">
   <div id="progress" style="width: 0%; height: 100%; background-color: #00b0f0; transition: width 0.5s;"></div>
+</div>
 </div>
 
 <script>
   // Define start and end dates
-  const startDate = new Date("2024-02-01"); // Change to your actual start date
-  const endDate = new Date("2026-02-20");   // Change to your actual end date
+  const startDate = new Date("2022-12-01"); // Change to your actual start date
+  const endDate = new Date("2027-11-30");   // Change to your actual end date
   const currentDate = new Date();
+
+  // Format the dates as "1 December 2022"
+  const options = { day: 'numeric', month: 'long', year: 'numeric' };
+  const startFormatted = startDate.toLocaleDateString('en-GB', options);
+  const endFormatted = endDate.toLocaleDateString('en-GB', options);
+
+  // Set the formatted dates in the HTML
+  document.getElementById("start-date").innerText = startFormatted;
+  document.getElementById("end-date").innerText = endFormatted;
 
   // Calculate progress percentage
   const totalDuration = endDate - startDate;
@@ -41,7 +65,6 @@ Grant agreement ID: 101044753
   // Update progress bar width
   document.getElementById("progress").style.width = progressPercentage + "%";
 </script>
-
 
 ### Objective
 Hearing loss is the most common sensory deficit in the elderly, and it is becoming a severe social as well as a health problem. Across the whole lifespan, from new-borns to the elderly, hearing loss impairs the exchange of information, thus significantly impacting everyday life, causing loneliness, isolation, dependence, frustration and communication disorders. Cochlear implants (CIs) are hearing prosthetics that stimulate the auditory nerve with electrodes placed inside the cochlea. CIs are gradually being implanted in subjects retaining low-frequency residual hearing. In general, these subjects obtain large benefits in speech perception from electric acoustic stimulation, although large variability exists and some subjects do not benefit. Therefore, it is highly desirable to create objective diagnostics to assess acoustic low-frequency hearing to indicate cochlear implantation, to monitor and preserve hearing during the implantation procedure and to understand the mechanisms related to electric acoustic stimulation benefits.
