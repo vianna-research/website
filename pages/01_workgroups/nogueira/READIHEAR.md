@@ -22,23 +22,21 @@ Grant agreement ID: 101044753
 
 </br>
 
-<div style='width:300px;'>
 <!-- Labels and Date Container with inline style -->
 <div style="display: flex; justify-content: space-between; font-size: 14px; margin-bottom: 5px;">
-  <div style="text-align: left;"><b>Start date</b>b></div>
-  <div style="text-align: right;"><b>End date</b>b></div>
+  <div style="text-align: left;"><b>Start date</b></div>
+  <div style="text-align: right;"><b>End date</b></div>
 </div>
 
 <!-- Date Container with inline style -->
-<div style="width: 300px; display: flex; justify-content: space-between; font-size: 14px; margin-bottom: 20px;">
+<div style=" display: flex; justify-content: space-between; font-size: 14px; margin-bottom: 20px;">
   <div id="start-date"></div>
   <div id="end-date" style="text-align: right; "></div>
 </div>
 
 <!-- Progress Bar -->
-<div style="width: 300px; height: 25px; background-color: lightgray; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="width: 100%; height: 25px; background-color: lightgray; border-radius: 5px; overflow: hidden; position: relative;" id='outerBar'>
   <div id="progress" style="width: 0%; height: 100%; background-color: #00b0f0; transition: width 0.5s;"></div>
-</div>
 </div>
 
 <script>
