@@ -70,7 +70,7 @@ Hearing loss is the most common sensory deficit in the elderly, and it is becomi
 The ground-breaking nature of the READIHEAR project is to investigate the fundamental interaction mechanisms between electric and acoustic stimulation across the auditory pathway, from the cochlea up to the auditory cortex. The fundamental understanding will set the basis for a new generation of diagnostic devices of hearing loss that combine for the first time minimally invasive electric acoustic stimulation. Moreover, READIHEAR will assay a novel auditory prosthetic that makes use of the interaction mechanisms between acoustic and electric stimulation delivered through minimally invasive electrodes. These developments will be beneficial for a large population suffering from hearing loss across the whole lifespan, from young children who will benefit from improved hearing diagnostics to the elderly population who will benefit from minimally invasive electric acoustic stimulation technology as the treatment for age-related hearing loss.
 
 
-![READIHEAR Overview](https://www.vianna.de/01_workgroups/nogueira/readihear/overview.png){}
+![READIHEAR Overview](https://www.vianna.de/01_workgroups/nogueira/readihear/overview.png)
 
 
 ### Team
