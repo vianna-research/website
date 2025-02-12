@@ -110,7 +110,7 @@ The ground-breaking nature of the READIHEAR project is to investigate the fundam
 
 ### Conferences
 #### 2025
-* Franklin Alvarez, Yixuan Zhang, Daniel Kipping, Waldo Nogueira (2025): [A computational model for loudness recruitment based on spike activity for electrically stimulated cochlea”, ARO 2025, Orlando, USA.
+* Franklin Alvarez, Yixuan Zhang, Daniel Kipping, Waldo Nogueira (2025): [A computational model for loudness recruitment based on spike activity for electrically stimulated cochlea], ARO 2025, Orlando, USA.
 
 #### 2024
 
