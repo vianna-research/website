@@ -90,7 +90,9 @@ The ground-breaking nature of the READIHEAR project is to investigate the fundam
 | ![Portrait](staff/empty.jpg)	       | [Robert Hart](https://vianna.de/01_workgroups/nogueira/staff/hart.html)	                          | <Hart.Robert@mh-hannover.de>           |
 
 
-### Publications
+### Peer-Reviewed Publications
+#### 2025
+* •	Hanna Dolhopiatenko and Waldo Nogueira (2025): **[Cortical temporal mismatch compensation in bimodal cochlear implant users: selective attention decoding and pupillometry study](http://arxiv.org/abs/2501.17048)**. Hearing Research (Under Review). 
 
 
 ### Conferences
