@@ -104,9 +104,9 @@ The ground-breaking nature of the READIHEAR project is to investigate the fundam
 * Jasmin Thormählen, Benjamin Krüger, Waldo Nogueira (2024): **[Automatic localization of cochlear implant electrodes using cone beam computed tomography images](https://doi.org/10.1186/s12938-024-01249-5)**. BioMedical Engineering OnLine
 
 #### 2023
-* Franklin Alvarez, Daniel Kipping, Waldo Nogueira (2023): **[A computational model to simulate spectral modulation and speech perception experiments of cochlear implant users](https://doi/10.3389/fninf.2023.934472)**. Frontiers in Neuroinformatics.
-* Hanna Dolhopiatenko, Waldo Nogueira (2023): **[Selective attention decoding in bimodal cochlear implant users](https://doi/10.3389/fnins.2022.1057605)**. Frontiers in Neuroscience.
-
+* Franklin Alvarez, Daniel Kipping, Waldo Nogueira (2023): **[A computational model to simulate spectral modulation and speech perception experiments of cochlear implant users](https://doi.org/10.3389/fninf.2023.934472)**. Frontiers in Neuroinformatics.
+* Hanna Dolhopiatenko, Waldo Nogueira (2023): **[Selective attention decoding in bimodal cochlear implant users](https://doi.org/10.3389/fnins.2022.1057605)**. Frontiers in Neuroscience.
+                                                                                                                
 
 ### Conferences
 
