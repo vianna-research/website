@@ -94,8 +94,8 @@ The ground-breaking nature of the READIHEAR project is to investigate the fundam
 #### 2025
 * Hanna Dolhopiatenko, Waldo Nogueira (2025): **[Cortical temporal mismatch compensation in bimodal cochlear implant users: selective attention decoding and pupillometry study](http://arxiv.org/abs/2501.17048)**. Hearing Research (Under Review).
 * Benjamin Krüger, Waldo Nogueira (2025): Phase coherence of cochlear microphonic potentials in cochlear implant users with ipsilateral residual hearing. The Journal of the Acoustical Society of America, (Under Review). JASA-12021
-* Yixuan Zhang, Daniel Kipping, Waldo Nogueira (2025): **[Evaluating electrophysiological and behavioral measures of neural health in cochlear implant users: a computational simulation study](https://arxiv.org/abs/2409.14767)**, IEEE Transactions Biomedical Engineering, (Second Revision).
-* Franklin Alvarez, Yixuan Zhang, Daniel Kipping, Waldo Nogueira (2025). **[A computational loudness model of cochlear implant users](http://arxiv.org/abs/6163705)**. The Journal of the Acoustical Society of America, (Under Review)
+* Yixuan Zhang, Daniel Kipping, Waldo Nogueira (2025): **[Evaluating electrophysiological and behavioral measures of neural health in cochlear implant users: a computational simulation study](https://arxiv.org/abs/2409.14767)**, IEEE Transactions Biomedical Engineering, (First Revision).
+* Franklin Alvarez, Yixuan Zhang, Daniel Kipping, Waldo Nogueira (2025). **[A computational loudness model of cochlear implant users](https://arxiv.org/abs/2501.17640)**. The Journal of the Acoustical Society of America, (Under Review)
 * Nina Aldag, Waldo Nogueira (2025): **[Phoneme-related potentials recorded from normal hearing listeners and cochlear implant users in a selective attention paradigm to continuous speech](https://doi.org/10.1016/j.heares.2024.109136)**. Hear Res. 2024 Dec.
 
 #### 2024
@@ -109,6 +109,14 @@ The ground-breaking nature of the READIHEAR project is to investigate the fundam
                                                                                                                 
 
 ### Conferences
+#### 2025
+* Franklin Alvarez, Yixuan Zhang, Daniel Kipping, Waldo Nogueira (2025): [A computational model for loudness recruitment based on spike activity for electrically stimulated cochlea”, ARO 2025, Orlando, USA.
+
+#### 2024
+
+
+#### 2023
+
 
 ---
 
