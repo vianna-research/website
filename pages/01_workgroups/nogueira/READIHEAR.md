@@ -108,14 +108,34 @@ The ground-breaking nature of the READIHEAR project is to investigate the fundam
 * Hanna Dolhopiatenko, Waldo Nogueira (2023): **[Selective attention decoding in bimodal cochlear implant users](https://doi.org/10.3389/fnins.2022.1057605)**. Frontiers in Neuroscience.
                                                                                                                 
 
-### Conferences
+### Conference Contributions
 #### 2025
 * Franklin Alvarez, Yixuan Zhang, Daniel Kipping, Waldo Nogueira (2025): **A computational model for loudness recruitment based on spike activity for electrically stimulated cochlea**, ARO 2025, Orlando, USA.
+* Hanna Dolhopiatenko, Waldo Nogueira (2025): **Cortical Temporal Mismatch Compensation in Bimodal Cochlear Implant Users: A Selective Attention Decoding and Pupillometry Study**, ARO 2025, Orlando, USA.
+* Patrick Hinz, Waldo Nogueira (2025): **Psychoacoustic electric-acoustic masking with round window extra-cochlear electric stimulation in partially inserted cochlear implant users with residual hearing**, ARO 2025, Orlando, USA.
+* Daniel Kipping, Yixuan Zhang, Waldo Nogueira (2025): **A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Cochlear Implant Users with Residual Hearing**, ARO 2025, Orlando, USA.
+* Waldo Nogueira, Änne Großkopf, Yixuan Zhang, Daniel Kipping, Benjamin Krüger (2025): **Towards Extracochlear Electric-Acoustic Stimulation of the Auditory System**, ARO 2025, Orlando, USA.
+
 
 #### 2024
+* Benjamin Krüger, Waldo Nogueira (2024): **Extracochlear Electric-Acoustic Stimulation: Characterization of Auditory Perception, Side Effects, and Interaction with Electric-Acoustic Hearing**, Hearing4All International Symposium 2024, Hannover, Germany.
+* Daniel Kipping, Yixuan Zhang, Waldo Nogueira (2024): **Simulating peripheral auditory responses to combined acoustic and intra- or extracochlear electric stimulation**, Hearing4All International Symposium 2024, Hannover, Germany.
+* Waldo Nogueira, Enrique Lopez-Poveda, Benjamin Krüger, Constantino Dragicevic (2024): **Contralateral suppression of human hearing sensitivity in single-sided deaf cochlear implant users through psychoacoustics and otoacoustic emissions**, HWK Efferent Workshop 2024, Delmenhorst, Germany.
+* Waldo Nogueira (2024): **Nuevos Implantes Auditivos Centrales y Periféricos: Auditory Nerve Implant (ANI), Extra-Cochlear Implant (ECI)**, 2024 SEORL, Malaga, Spain.
+* Waldo Nogueira (2024): **Towards Extracochlear Electric-Acoustic Stimulation of the Auditory System**, DGA 2024 Aalen, Germany.
+* Waldo Nogueira (2024): **Towards Extracochlear Electric-Acoustic Stimulation of the Auditory System**, Hearing4All International Symposium 2024, Hannover, Germany.
+* Yixuan Zhang, Franklin Alvarez, Daniel Kipping, Waldo Nogueira (2024): **A 3D computational model framework of the stimulated peripheral auditory system**, VCCA 2024, Online.
 
 
 #### 2023
+* Nina Aldag, Waldo Nogueira (2023): **Detection of changes in amplitude modulation depth and rate can predict speech understanding in cochlear implant users – a behavioral and electrophysiological study**, CIAP 2023, Lake Tahoe, USA.
+* Franklin Alvarez, Yixuan Zhang, Daniel Kipping, Waldo Nogueira (2023): **Loudness recruitment in computational models of electrically stimulated cochlea**, ICBT 2023, Hannover, Germany.
+* Hanna Dolhopiatenko, Waldo Nogueira (2023): **Electric Acoustic Integration in Bimodal Cochlear Implant Users**, ARO 2023, Orlando, USA.
+* Hanna Dolhopiatenko, Waldo Nogueira (2023): **Electric acoustic integration in bimodal cochlear implant users**, CIAP 2023, Lake Tahoe, USA.
+* Daniel Kipping, Yixuan Zhang, Waldo Nogueira (2023): **A computational model of the electrically and acoustically evoked compound action potential in hybrid cochlear implant users**, CIAP 2023, Lake Tahoe, USA.
+* Daniel Kipping, Yixuan Zhang, Waldo Nogueira (2023): **A computational model of the electrically and acoustically evoked compound action potential in Cochlear Implant Users with Residual Hearing**, Hearing4All International Symposium 2023, Oldenburg, Germany.
+* Benjamin Krüger, Änne Großkopf, Waldo Nogueira (2023): **Towards extracochlear electric-acoustic stimulation of the auditory system**, CIAP 2023, Lake Tahoe, USA.
+* Waldo Nogueira (2023): **ReadiHear: Rehabilitation and Diagnosis of Hearing Loss based on Electric Acoustic InteRaction**, AEDA 2023, Madrid, Spain.
 
 
 ---
