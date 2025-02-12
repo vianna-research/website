@@ -92,7 +92,20 @@ The ground-breaking nature of the READIHEAR project is to investigate the fundam
 
 ### Peer-Reviewed Publications
 #### 2025
-* Hanna Dolhopiatenko and Waldo Nogueira (2025): **[Cortical temporal mismatch compensation in bimodal cochlear implant users: selective attention decoding and pupillometry study](http://arxiv.org/abs/2501.17048)**. Hearing Research (Under Review). 
+* Hanna Dolhopiatenko, Waldo Nogueira (2025): **[Cortical temporal mismatch compensation in bimodal cochlear implant users: selective attention decoding and pupillometry study](http://arxiv.org/abs/2501.17048)**. Hearing Research (Under Review).
+* Benjamin Krüger, Waldo Nogueira (2025): Phase coherence of cochlear microphonic potentials in cochlear implant users with ipsilateral residual hearing. The Journal of the Acoustical Society of America, (Under Review). JASA-12021
+* Yixuan Zhang, Daniel Kipping, Waldo Nogueira (2025): **[Evaluating electrophysiological and behavioral measures of neural health in cochlear implant users: a computational simulation study](https://arxiv.org/abs/2409.14767)**, IEEE Transactions Biomedical Engineering, (Second Revision).
+* Franklin Alvarez, Yixuan Zhang, Daniel Kipping, Waldo Nogueira (2025). **[A computational loudness model of cochlear implant users](http://arxiv.org/abs/6163705)**. The Journal of the Acoustical Society of America, (Under Review)
+* Nina Aldag, Waldo Nogueira (2025): **[Phoneme-related potentials recorded from normal hearing listeners and cochlear implant users in a selective attention paradigm to continuous speech](https://doi.org/10.1016/j.heares.2024.109136)**. Hear Res. 2024 Dec.
+
+#### 2024
+* Nina Aldag, Waldo Nogueira (2024): **[Psychoacoustic and electroencephalographic responses to changes in amplitude modulation depth and frequency in relation to speech recognition in cochlear implantees](https://doi.org/10.1038/s41598-024-58225-1)**. Scientific Reports.
+* Daniel Kipping, Yixuan Zhang, Waldo Nogueira (2024): **[A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Cochlear Implant Users With Residual Hearing](https://doi.org/10.1109/tbme.2024.3410686)**. IEEE Transactions on Biomedical Engineering
+* Jasmin Thormählen, Benjamin Krüger, Waldo Nogueira (2024): **[Automatic localization of cochlear implant electrodes using cone beam computed tomography images](https://doi.org/10.1186/s12938-024-01249-5)**. BioMedical Engineering OnLine
+
+#### 2023
+* Franklin Alvarez, Daniel Kipping, Waldo Nogueira (2023): **[A computational model to simulate spectral modulation and speech perception experiments of cochlear implant users](https://doi/10.3389/fninf.2023.934472)**. Frontiers in Neuroinformatics.
+* Hanna Dolhopiatenko, Waldo Nogueira (2023): **[Selective attention decoding in bimodal cochlear implant users](https://doi/10.3389/fnins.2022.1057605)**. Frontiers in Neuroscience.
 
 
 ### Conferences
