@@ -1,6 +1,6 @@
 title: Staff
 
-![group Picture; February 2021](staff/GroupPicture_2024_05.jpeg)
+![group Picture; Janurary 2025](staff/GroupPicture_2025_01.jpg)
 
 
 | Head of Research Group | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
@@ -48,7 +48,7 @@ title: Staff
 | ![Portrait](staff/costi.jpg)	       | Costanza Bruni                                                                                     |                                        |
 | ![Portrait](staff/nour.jpg)	         | Nourhan Bahgat		                                                                                  |                                        |
 | ![Portrait](staff/Jasmin.jpg)	       | Jasmin Thormählen		                                                                              |                                        |
-| ![Portrait](staff/empty.jpg)	       | Yuesi Xi 		                                                                                      |                                        |
+| ![Portrait](staff/yuesi_xi.jpg)	       | Yuesi Xi 		                                                                                      |                                        |
 | ![Portrait](staff/empty.jpg)	       | Änne Großkopf                                                                                      |                                        |
 
 
