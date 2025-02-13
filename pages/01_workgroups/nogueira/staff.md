@@ -48,7 +48,7 @@ title: Staff
 | ![Portrait](staff/costi.jpg)	       | Costanza Bruni                                                                                     |                                        |
 | ![Portrait](staff/nour.jpg)	         | Nourhan Bahgat		                                                                                  |                                        |
 | ![Portrait](staff/Jasmin.jpg)	       | Jasmin Thormählen		                                                                              |                                        |
-| ![Portrait](staff/yuesi_xi.jpg)	       | Yuesi Xi 		                                                                                      |                                        |
+| <img src="staff/yuesi_xi.jpg" alt="Yuesi Xi " width="77px" height="103px"/>       | Yuesi Xi 		                                                                                      |                                        |
 | ![Portrait](staff/empty.jpg)	       | Änne Großkopf                                                                                      |                                        |
 
 
