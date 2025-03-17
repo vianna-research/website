@@ -10,7 +10,7 @@ https://doi.org/10.48550/arXiv.2409.14767)**. IEEE Transactions on Biomedical En
 * Althoff, J., Gajecki, T., Nogueira, W. (2024). **[Remixing Preferences for Western Instrumental Classical Music of Bilateral Cochlear Implant Users](https://journals.sagepub.com/doi/10.1177/23312165241245219)**. Trends in Hearing in 2024. doi: 110.1177/2331216524124521.
 
 * Kipping, D., Zhang, Y., Nogueira, W. (2024). **[A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Cochlear Implant Users with Residual Hearing](https://doi.org/10.1109/tbme.2024.3410686)**. IEEE Transactions on Biomedical Engineering. Source code: [Zenodo](https://zenodo.org/records/10619893) or [GitLab](https://gitlab.gwdg.de/apg/eas-cap-model-2024).
-* Aldag N, Nogueira W. (2024) **[Psychoacoustic and electroencephalographic responses to changes in amplitude modulation depth and frequency in relation to speech recognition in cochlear implantees.](https://www.nature.com/articles/s41598-024-58225-1)** Scientific reports 14(1), 8181.
+* Aldag N., Nogueira W. (2024) **[Psychoacoustic and electroencephalographic responses to changes in amplitude modulation depth and frequency in relation to speech recognition in cochlear implantees.](https://www.nature.com/articles/s41598-024-58225-1)** Scientific reports 14(1), 8181.
 
 ## 2023
 * Dolhopiatenko, H.,Nogueira, W. (2023). **[Selective attention decoding in bimodal cochlear implant users.](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1057605/full)** Front. Neurosci, 16. doi: 10.3389/fnins.2022.1057605.
