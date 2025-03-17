@@ -1,6 +1,8 @@
 title: Peer Reviewed Journal Publications
 
 ## 2024
+* Aldag, N., & Nogueira, W. (2024). **[Phoneme-related potentials recorded from normal hearing listeners and cochlear implant users in a selective attention paradigm to continuous speech.](https://doi.org/10.1016/j.heares.2024.109136) Hearing Research, 454, 109136.
+
 * Y. Zhang, D. Kipping, W. Nogueira (2024): **[Evaluating electrophysiological and behavioral measures of neural health in cochlear implant users: a computational simulation study](
 https://doi.org/10.48550/arXiv.2409.14767)**. IEEE Transactions on Biomedical Engineering (Under review). Data avaliable: [GitLab](https://gitlab.gwdg.de/apg/neural-health).
 
