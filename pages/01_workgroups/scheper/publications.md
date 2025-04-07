@@ -3,7 +3,10 @@ title: Publications
 ## 2025
 
 * Carola Fröster, Stavros Stavrakis, Sergey Shityakov, **Verena Scheper**, Thomas Lenarz
-[Interplay between Noise-Induced Sensorineural Hearing Loss and Hypertension: Pathophysiological Mechanisms and Therapeutic Prospects](https://doi.org/10.3389/fncel.2025.1523149) Frontiers in Cellular Neuroscience, April 2025, 19
+[Interplay between Noise-Induced Sensorineural Hearing Loss and Hypertension: Pathophysiological Mechanisms and Therapeutic Prospects](https://doi.org/10.3389/fncel.2025.1523149) Frontiers in Cellular Neuroscience, April 2025
+
+* **Jana Schwieger**, **Chunjiang Wei**, Gordon Munro, Kenneth Ahrend Petersen,Thomas Lenarz, **Verena Scheper**
+[Concentration dependent effects of human Cometin on spiral ganglion neuron survival and neurite outgrowth](https://doi.org/10.1159/000543705) Audiol Neurotol, January 2025
 
 ## 2024
 
