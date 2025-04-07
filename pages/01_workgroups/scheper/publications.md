@@ -1,5 +1,10 @@
 title: Publications
 
+## 2025
+
+* Carola Fröster, Stavros Stavrakis, Sergey Shityakov, **Verena Scheper**, Thomas Lenarz
+[Interplay between Noise-Induced Sensorineural Hearing Loss and Hypertension: Pathophysiological Mechanisms and Therapeutic Prospects](https://doi.org/10.3389/fncel.2025.1523149) Frontiers in Cellular Neuroscience, April 2025, 19
+
 ## 2024
 
 * **Martina Knabel**, Gerald Dräger, Thomas Lenarz, **Verena Scheper**
