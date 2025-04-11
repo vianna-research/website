@@ -1,4 +1,7 @@
 title: Peer Reviewed Journal Publications
+## 2025
+* Alvarez, F., Zhang, Y., Kipping, D., & Nogueira, W. (2025). **[A computational loudness model for electrical stimulation with cochlear implants.](https://doi.org/10.48550/arXiv.2501.17640)** (Submitted)
+
 
 ## 2024
 * Aldag, N., & Nogueira, W. (2024). **[Phoneme-related potentials recorded from normal hearing listeners and cochlear implant users in a selective attention paradigm to continuous speech.](https://doi.org/10.1016/j.heares.2024.109136)** Hearing Research, 454, 109136.
@@ -22,6 +25,7 @@ https://doi.org/10.48550/arXiv.2409.14767)**. IEEE Transactions on Biomedical En
 * Gajecki, T., Zhang Y., Nogueira, W. (2023). **[A Deep Denoising Sound Coding Strategy for Cochlear Implants.](https://ieeexplore.ieee.org/document/10083222)** IEEE Transactions on Biomedical Engineering, 2023.
 * Tahmasebi, S., Segovia-Martinez, M., Nogueira, W. (2023). **[Optimization of Sound Coding Strategies to Make Singing Music More Accessible for Cochlear Implant Users](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9837293/)**. Trends in Hearing in 11/2021.
 
+* Alvarez, F., Kipping, D., & Nogueira, W. (2023). **[A computational model to simulate spectral modulation and speech perception experiments of cochlear implant users.](https://doi.org/10.3389/fninf.2023.934472)** Frontiers in Neuroinformatics, 17, 934472.
   
 ## 2022
 
