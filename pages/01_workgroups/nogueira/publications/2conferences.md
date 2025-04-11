@@ -1,6 +1,8 @@
 title: Peer Reviewed Conference Publications
 ## 2025
 * T. Gajecki & Nogueira, W. (2025), **[Adversarial Learning For End-To-End Cochlear Speech Denoising Using Lightweight Deep Learning Models](https://doi.org/10.1109/ICASSP49660.2025.10889865)** ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5, doi: 10.1109/ICASSP49660.2025.10889865.
+* Dolhopiatenko, H., & Nogueira, W. (2025). **[Cortical Temporal Mismatch Compensation in Bimodal Cochlear Implant Users: Selective Attention Decoding and Pupillometry Study.](https://doi.org/10.48550/arXiv.2501.17048)** Association for Research in Otolaryngology (ARO), 2025.
+* Dolhopiatenko, H., Yoon, Y. S., & Nogueira, W. (2025). **[Behavioral and Electrophysiological Measurements of Vowel Integration.]()** Association for Research in Otolaryngology (ARO), 2025.
 
 ## 2022
 
