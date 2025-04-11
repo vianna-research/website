@@ -27,8 +27,8 @@ Coming soon...
 
 
 ### Conference Contributions
-* Dolhopiatenko, H., & Nogueira, W. (2025). **[Cortical Temporal Mismatch Compensation in Bimodal Cochlear Implant Users: Selective Attention Decoding and Pupillometry Study.]** Association for Research in Otolaryngology (ARO), 2025.
-* Dolhopiatenko, H., Yoon, Y. S., & Nogueira, W. (2025). **[Behavioral and Electrophysiological Measurements of Vowel Integration.]()** Association for Research in Otolaryngology (ARO), 2025.
+* Dolhopiatenko, H., & Nogueira, W. (2025). **Cortical Temporal Mismatch Compensation in Bimodal Cochlear Implant Users: Selective Attention Decoding and Pupillometry Study.** Association for Research in Otolaryngology (ARO), 2025.
+* Dolhopiatenko, H., Yoon, Y. S., & Nogueira, W. (2025). **Behavioral and Electrophysiological Measurements of Vowel Integration.** Association for Research in Otolaryngology (ARO), 2025.
 
 ---
 
