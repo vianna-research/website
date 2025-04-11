@@ -1,5 +1,6 @@
 title: Peer Reviewed Conference Publications
-
+## 2025
+* T. Gajecki & Nogueira, W. (2025), **[Adversarial Learning For End-To-End Cochlear Speech Denoising Using Lightweight Deep Learning Models](https://doi.org/10.1109/ICASSP49660.2025.10889865)** ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5, doi: 10.1109/ICASSP49660.2025.10889865.
 
 ## 2022
 
