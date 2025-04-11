@@ -15,7 +15,7 @@ https://doi.org/10.48550/arXiv.2409.14767)**. IEEE Transactions on Biomedical En
 * Kipping, D., Zhang, Y., Nogueira, W. (2024). **[A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Cochlear Implant Users with Residual Hearing](https://doi.org/10.1109/tbme.2024.3410686)**. IEEE Transactions on Biomedical Engineering. Source code: [Zenodo](https://zenodo.org/records/10619893) or [GitLab](https://gitlab.gwdg.de/apg/eas-cap-model-2024).
 * Aldag, N., Nogueira, W. (2024). **[Psychoacoustic and electroencephalographic responses to changes in amplitude modulation depth and frequency in relation to speech recognition in cochlear implantees.](https://www.nature.com/articles/s41598-024-58225-1)** Scientific reports 14(1), 8181.
   
-* Gajecki, T., Nogueira, W. (2024). **[A Fused Deep Denoising Sound Coding Strategy for Bilateral Cochlear Implants.](https://arxiv.org/abs/2310.01122)** IEEE Transactions on Biomedical Engineering, 2024.
+* Gajecki, T., Nogueira, W. (2024). **[A Fused Deep Denoising Sound Coding Strategy for Bilateral Cochlear Implants.](https://ieeexplore.ieee.org/abstract/document/10440502)** IEEE Transactions on Biomedical Engineering, 2024.
 
 ## 2023
 * Dolhopiatenko, H.,Nogueira, W. (2023). **[Selective attention decoding in bimodal cochlear implant users.](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1057605/full)** Front. Neurosci, 16. doi: 10.3389/fnins.2022.1057605.
