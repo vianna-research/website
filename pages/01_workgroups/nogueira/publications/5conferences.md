@@ -1,7 +1,7 @@
 title: Conference Contributions
 ## 2025
 * Dolhopiatenko, H., & Nogueira, W. (2025). **[Cortical Temporal Mismatch Compensation in Bimodal Cochlear Implant Users: Selective Attention Decoding and Pupillometry Study.]** Association for Research in Otolaryngology (ARO), 2025.
-* Dolhopiatenko, H., Yoon, Y. S., & Nogueira, W. (2025). **[Behavioral and Electrophysiological Measurements of Vowel Integration.]()** Association for Research in Otolaryngology (ARO), 2025.
+* Dolhopiatenko, H., Yoon, Y. S., & Nogueira, W. (2025). **[Behavioral and Electrophysiological Measurements of Vowel Integration.]** Association for Research in Otolaryngology (ARO), 2025.
 
 ## 2024
 * **[Design of an End-to-End Deep Learning Sound Coding Strategy for Cochlear Implants and Validation through an Objective Metric based on Mutual Information](https://computationalaudiology.com/design-of-an-end-to-end-deep-learning-sound-coding-strategy-for-cochlear-implants-and-validation-through-an-objective-metric-based-on-mutual-information/)**.
