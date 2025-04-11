@@ -23,9 +23,9 @@ Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany'
 ---
 ### Publications:
 
-- T. Gajecki,  W. Nogueira. [**A Fused Deep Denoising Sound Coding Strategy for Bilateral Cochlear Implants.**](https://arxiv.org/abs/2310.01122) IEEE Transactions on Biomedical Engineering, 2023. (Under review)
+- T. Gajecki,  W. Nogueira. [**A Fused Deep Denoising Sound Coding Strategy for Bilateral Cochlear Implants.**](https://arxiv.org/abs/2310.01122) IEEE Transactions on Biomedical Engineering, 2024.
 
-- J. Althoff, T. Gajecki, W. Nogueira. [**Remixing Preferences for Instrumental Classical Music of Bilateral Cochlear Implant Users.**]() Trends in Hearing, 2023. (Under review)
+- Althoff, J., Gajecki, T., Nogueira, W. (2024). **[Remixing Preferences for Western Instrumental Classical Music of Bilateral Cochlear Implant Users](https://journals.sagepub.com/doi/10.1177/23312165241245219)**. Trends in Hearing in 2024. doi: 110.1177/2331216524124521.
 
 - T. Gajecki, W. Nogueira. [**Deep Latent Fusion Layers for Binaural Speech Enhancement.**](https://ieeexplore.ieee.org/document/10202199)  IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023.
 
