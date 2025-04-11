@@ -1,7 +1,7 @@
 title: Peer Reviewed Journal Publications
 ## 2025
 * Alvarez, F., Zhang, Y., Kipping, D., & Nogueira, W. (2025). **[A computational loudness model for electrical stimulation with cochlear implants.](https://doi.org/10.48550/arXiv.2501.17640)** (Submitted)
-
+* Dolhopiatenko, H., & Nogueira, W. (2025). **[Cortical Temporal Mismatch Compensation in Bimodal Cochlear Implant Users: Selective Attention Decoding and Pupillometry Study](https://doi.org/10.48550/arXiv.2501.17048)** archiv.
 
 ## 2024
 * Aldag, N., & Nogueira, W. (2024). **[Phoneme-related potentials recorded from normal hearing listeners and cochlear implant users in a selective attention paradigm to continuous speech.](https://doi.org/10.1016/j.heares.2024.109136)** Hearing Research, 454, 109136.
