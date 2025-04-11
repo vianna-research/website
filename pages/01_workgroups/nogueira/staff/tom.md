@@ -23,9 +23,11 @@ Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany'
 ---
 ### Publications:
 
+- T. Gajecki & Nogueira, W. (2025), **[Adversarial Learning For End-To-End Cochlear Speech Denoising Using Lightweight Deep Learning Models](https://doi.org/10.1109/ICASSP49660.2025.10889865)** ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5.
+
 - T. Gajecki,  W. Nogueira. [**A Fused Deep Denoising Sound Coding Strategy for Bilateral Cochlear Implants.**](https://arxiv.org/abs/2310.01122) IEEE Transactions on Biomedical Engineering, 2024.
 
-- Althoff, J., Gajecki, T., Nogueira, W. (2024). **[Remixing Preferences for Western Instrumental Classical Music of Bilateral Cochlear Implant Users](https://journals.sagepub.com/doi/10.1177/23312165241245219)**. Trends in Hearing in 2024. doi: 110.1177/2331216524124521.
+- Althoff, J., Gajecki, T., Nogueira, W. (2024). **[Remixing Preferences for Western Instrumental Classical Music of Bilateral Cochlear Implant Users](https://journals.sagepub.com/doi/10.1177/23312165241245219)**. Trends in Hearing in 2024.
 
 - T. Gajecki, W. Nogueira. [**Deep Latent Fusion Layers for Binaural Speech Enhancement.**](https://ieeexplore.ieee.org/document/10202199)  IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023.
 
