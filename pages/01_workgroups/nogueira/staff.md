@@ -20,7 +20,7 @@ title: Staff
 | ![Portrait](staff/Gajecki.jpg)  	   | [Dr. rer. nat. Tom Gajecki](https://www.vianna.de/01_workgroups/nogueira/staff/tom.html)	          | <Gajecki.Tomas@mh-hannover.de>         |
 | ![Portrait](staff/patrickSmall.jpg)	 | [Patrick Hinz](https://vianna.de/01_workgroups/nogueira/staff/patrick.html)	                      | <Hinz.Patrick@mh-hannover.de>          |
 | ![Portrait](staff/zhang.jpg)      	 | [Yixuan Zhang](https://vianna.de/01_workgroups/nogueira/staff/zhang.html)	                        | <Zhang.Yixuan@mh-hannover.de>          |
-| ![Portrait](staff/empty.jpg)	       | [Robert Hart](https://vianna.de/01_workgroups/nogueira/staff/hart.html)	                           | <Hart.Robert@mh-hannover.de>           |
+| ![Portrait](staff/RobertSmall.jpg)	       | [Robert Hart](https://vianna.de/01_workgroups/nogueira/staff/robert.html)	                           | <Hart.Robert@mh-hannover.de>           |
 
 
 | Students &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
