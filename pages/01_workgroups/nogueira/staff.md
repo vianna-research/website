@@ -25,7 +25,6 @@ title: Staff
 
 | Students &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | :----------------------------------- | :------------------------------------------------------------------------------------------------- | -------------------------------------: |
-| ![Portrait](staff/Ainhoa_small.png)  | Ainhoa Castaño Martos                                                                              |                                        | 
 | <img src="staff/Emin.jpg" alt="Emin Gherib " width="77px" height="103px"/>  | Emin Gherib                                                                                        |                                        | 
 | <img src="staff/Roman.jpg" alt="Roman Stracke " width="77px" height="103px"/>  | Roman Stracke                                                                                      |                                        | 
 
