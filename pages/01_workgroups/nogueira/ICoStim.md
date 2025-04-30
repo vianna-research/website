@@ -3,6 +3,26 @@ title: ICoStim
 
 ![ICoStim](https://www.vianna.de/01_workgroups/nogueira/icostim/ICoStim_AdobeStock_600111921.jpeg){style="float:right; margin-left:1em; width=50px"}
 
+<div style="position: relative; display: inline-block; float:right; margin-left:1em;">
+  <img src="icostim/ICoStim_AdobeStock_600111921.jpeg" alt="ICoStim image" style="display: block; width: 100%; height: auto;">
+  <div style="
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 12px;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 2px 6px;
+    border-radius: 3px;
+    transform: rotate(-45deg);
+    pointer-events: none;
+  ">
+    © Adobe Stock | #600111921
+  </div>
+</div>
+
+
+
 ## Closed-loop fitting of cochlear implants by automated determination of stimulation 
 <br/>
 
