@@ -27,9 +27,9 @@ title: ICoStim
 
 The outcome of cochlear implant (CI) treatment relies on optimal parameter settings, which are currently determined through a labor-intensive, subjective fitting process. The ICoStim project aims to create a new system for objectively determining and optimizing these parameters using a closed-loop approach with a mobile electroencephalography (EEG) platform. This system records the patient's EEG response to CI stimulation, allowing for real-time adjustments and iterative optimization of the fitting. The approach does not require patient cooperation, making it suitable for patients that cannot give active feedback during the fitting process. The goal is a fast, accurate, and cost-effective fitting process that improves therapy outcomes.
 
-More information: [EU Project Website](https://cordis.europa.eu/project/id/101044753)
+Project coordinator: [eemagine Medical Imaging Solutions GmbH](https://www.eemagine.com/)
 
-Grant agreement ID: 101044753
+BMBF founding reference number: 13GW0721B
 
 <!---
 <div style="width: 200px; height: 20px; background-color: lightgray; border-radius: 5px; overflow: hidden;">
