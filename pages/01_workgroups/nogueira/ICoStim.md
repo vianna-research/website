@@ -31,6 +31,9 @@ Project coordinator: [eemagine Medical Imaging Solutions GmbH](https://www.eemag
 
 BMBF founding reference number: 13GW0721B
 
+![BMBF](https://www.vianna.de/01_workgroups/nogueira/icostim/BMBF_logo.jpeg)
+
+
 <!---
 <div style="width: 200px; height: 20px; background-color: lightgray; border-radius: 5px; overflow: hidden;">
   <div style="width: 50%; height: 100%; background-color: green;"></div>
@@ -82,7 +85,7 @@ BMBF founding reference number: 13GW0721B
   document.getElementById("progress").style.width = progressPercentage + "%";
 </script>
 
-### Objective
+### Other partners
 Hearing loss is the most common sensory deficit in the elderly, and it is becoming a severe social as well as a health problem. Across the whole lifespan, from new-borns to the elderly, hearing loss impairs the exchange of information, thus significantly impacting everyday life, causing loneliness, isolation, dependence, frustration and communication disorders. Cochlear implants (CIs) are hearing prosthetics that stimulate the auditory nerve with electrodes placed inside the cochlea. CIs are gradually being implanted in subjects retaining low-frequency residual hearing. In general, these subjects obtain large benefits in speech perception from electric acoustic stimulation, although large variability exists and some subjects do not benefit. Therefore, it is highly desirable to create objective diagnostics to assess acoustic low-frequency hearing to indicate cochlear implantation, to monitor and preserve hearing during the implantation procedure and to understand the mechanisms related to electric acoustic stimulation benefits.
 The ground-breaking nature of the READIHEAR project is to investigate the fundamental interaction mechanisms between electric and acoustic stimulation across the auditory pathway, from the cochlea up to the auditory cortex. The fundamental understanding will set the basis for a new generation of diagnostic devices of hearing loss that combine for the first time minimally invasive electric acoustic stimulation. Moreover, READIHEAR will assay a novel auditory prosthetic that makes use of the interaction mechanisms between acoustic and electric stimulation delivered through minimally invasive electrodes. These developments will be beneficial for a large population suffering from hearing loss across the whole lifespan, from young children who will benefit from improved hearing diagnostics to the elderly population who will benefit from minimally invasive electric acoustic stimulation technology as the treatment for age-related hearing loss.
 
