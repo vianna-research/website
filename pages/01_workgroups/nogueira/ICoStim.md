@@ -11,7 +11,7 @@ title: ICoStim
   <div style="
     position: absolute;
     bottom: 80px;
-    right: 0px;
+    right: -10px;
     font-size: 12px;
     color: white;
     background: rgba(0, 0, 0, 0.5);    
