@@ -14,7 +14,7 @@ title: ICoStim
     background: rgba(0, 0, 0, 0.5);
     padding: 2px 6px;
     border-radius: 3px;
-    transform: rotate(-45deg);
+    transform: rotate(-90deg);
     pointer-events: none;
   ">
     © Adobe Stock | #600111921
