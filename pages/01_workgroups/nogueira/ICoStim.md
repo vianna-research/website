@@ -27,6 +27,8 @@ title: ICoStim
 
 The outcome of cochlear implant (CI) treatment relies on optimal parameter settings, which are currently determined through a labor-intensive, subjective fitting process. The ICoStim project aims to create a new system for objectively determining and optimizing these parameters using a closed-loop approach with a mobile electroencephalography (EEG) platform. This system records the patient's EEG response to CI stimulation, allowing for real-time adjustments and iterative optimization of the fitting. The approach does not require patient cooperation, making it suitable for patients that cannot give active feedback during the fitting process. The goal is a fast, accurate, and cost-effective fitting process that improves therapy outcomes.
 
+<br>
+
 Project coordinator: [eemagine Medical Imaging Solutions GmbH](https://www.eemagine.com/)
 
 BMBF founding reference number: 13GW0721B
@@ -84,6 +86,9 @@ BMBF founding reference number: 13GW0721B
   // Update progress bar width
   document.getElementById("progress").style.width = progressPercentage + "%";
 </script>
+
+
+<br>
 
 ### Other partners
 <a href="https://www.eemagine.com/"><img src="https://raw.githubusercontent.com/vianna-research/website/e019a02046e99bd68dec78e741a3da6101bc83ec/pages/01_workgroups/nogueira/ICOSTIM/eemagine_logo.svg" alt="eemagine Medical Imaging Solutions GmbH" width="100"></a>
