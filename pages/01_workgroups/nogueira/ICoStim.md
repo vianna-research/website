@@ -91,9 +91,9 @@ BMBF founding reference number: 13GW0721B
 <br>
 
 ### Other partners
-<a href="https://www.eemagine.com/" style="text-decoration: none; border: none;"><img src="https://raw.githubusercontent.com/vianna-research/website/e019a02046e99bd68dec78e741a3da6101bc83ec/pages/01_workgroups/nogueira/ICOSTIM/eemagine_logo.svg" alt="eemagine Medical Imaging Solutions GmbH" width="300"></a>
+<a href="https://www.eemagine.com/" style="text-decoration: none; border: none; display: inline-block;"><img src="https://raw.githubusercontent.com/vianna-research/website/e019a02046e99bd68dec78e741a3da6101bc83ec/pages/01_workgroups/nogueira/ICOSTIM/eemagine_logo.svg" alt="eemagine Medical Imaging Solutions GmbH" width="300"></a>
 
-<a href="https://www.tu-ilmenau.de/en/" style="text-decoration: none; border: none;"><img src="https://raw.githubusercontent.com/vianna-research/website/e019a02046e99bd68dec78e741a3da6101bc83ec/pages/01_workgroups/nogueira/ICOSTIM/tu_ilmenau_logo.svg" width="300"></a>
+<a href="https://www.tu-ilmenau.de/en/" style="text-decoration: none; border: none; display: inline-block;"><img src="https://raw.githubusercontent.com/vianna-research/website/e019a02046e99bd68dec78e741a3da6101bc83ec/pages/01_workgroups/nogueira/ICOSTIM/tu_ilmenau_logo.svg" width="300"></a>
 
 ### Team
 | Head of Research Group | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
