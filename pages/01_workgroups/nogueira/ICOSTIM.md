@@ -8,7 +8,7 @@ title: ICOSTIM
 
 ### Project description
 
-Hearing loss is the most common sensory deficit in the elderly. As a chronic health problem, hearing loss can have severe impacts on a person’s mental health and social participation. One widely used solution is cochlear implants, hearing prosthetics that stimulate the auditory nerve with electrodes placed inside the cochlea. The EU-funded READIHEAR project will investigate the fundamental interaction mechanisms between electric and acoustic stimulation across the auditory pathway, from the cochlea to the auditory cortex. READIHEAR aims to set the basis for a new generation of diagnostic and treatment devices for hearing loss.
+The outcome of cochlear implant (CI) treatment relies on optimal parameter settings, which are currently determined through a labor-intensive, subjective fitting process. The ICoStim project aims to create a new system for objectively determining and optimizing these parameters using a closed-loop approach with a mobile electroencephalography (EEG) platform. This system records the patient's EEG response to CI stimulation, allowing for real-time adjustments and iterative optimization of the fitting. The approach does not require patient cooperation, making it suitable for patients that cannot give active feedback during the fitting process. The goal is a fast, accurate, and cost-effective fitting process that improves therapy outcomes.
 
 More information: [EU Project Website](https://cordis.europa.eu/project/id/101044753)
 
