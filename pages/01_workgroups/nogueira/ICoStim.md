@@ -31,7 +31,7 @@ Project coordinator: [eemagine Medical Imaging Solutions GmbH](https://www.eemag
 
 BMBF founding reference number: 13GW0721B
 
-![BMBF](https://www.vianna.de/01_workgroups/nogueira/icostim/BMBF_logo.svg)
+![BMBF](https://www.vianna.de/01_workgroups/nogueira/icostim/bmbf_logo.svg)
 
 
 <!---
