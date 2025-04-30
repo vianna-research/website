@@ -87,7 +87,7 @@ The ground-breaking nature of the READIHEAR project is to investigate the fundam
 | ![Portrait](staff/Nina.jpg)	         | [Nina Aldag](https://vianna.uber.space/01_workgroups/nogueira/staff/nina.html)                     | <Aldag.Nina@mh-hannover.de>            |
 | ![Portrait](staff/patrickSmall.jpg)	 | [Patrick Hinz](https://vianna.de/01_workgroups/nogueira/staff/patrick.html)	                      | <Hinz.Patrick@mh-hannover.de>          |
 | ![Portrait](staff/zhang.jpg)      	 | [Yixuan Zhang](https://vianna.de/01_workgroups/nogueira/staff/zhang.html)	                        | <Zhang.Yixuan@mh-hannover.de>          |
-| ![Portrait](staff/empty.jpg)	       | [Robert Hart](https://vianna.de/01_workgroups/nogueira/staff/hart.html)	                          | <Hart.Robert@mh-hannover.de>           |
+| <img src="staff/Robert.jpg" alt="Robert Hart " width="77px" height="103px"/>	       | [Robert Hart](https://vianna.de/01_workgroups/nogueira/staff/hart.html)	                          | <Hart.Robert@mh-hannover.de>           |
 
 
 ### Peer-Reviewed Publications
