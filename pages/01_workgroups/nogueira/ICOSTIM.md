@@ -40,8 +40,8 @@ Grant agreement ID: 101044753
 
 <script>
   // Define start and end dates
-  const startDate = new Date("2022-12-01"); // Change to your actual start date
-  const endDate = new Date("2027-11-30");   // Change to your actual end date
+  const startDate = new Date("2025-03-01"); // Change to your actual start date
+  const endDate = new Date("2027-02-29");   // Change to your actual end date
   const currentDate = new Date();
 
   // Format the dates as "1 December 2022"
