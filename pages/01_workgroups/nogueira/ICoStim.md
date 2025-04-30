@@ -15,7 +15,7 @@ title: ICoStim
     font-size: 12px;
     color: white;
     background: rgba(0, 0, 0, 0.5);
-    padding: 2px 6px;
+    
     border-radius: 3px;
     transform: rotate(-90deg);
     pointer-events: none;
