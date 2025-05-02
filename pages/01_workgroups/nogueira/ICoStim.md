@@ -20,7 +20,7 @@ BMBF funding reference number: 13GW0721B
 
 <br>
 
-More information on <a href="https://www.tu-ilmenau.de/en/university/departments/department-of-computer-science-and-automation/profile/institutes-and-groups/institute-of-biomedical-engineering-and-informatics-bmti/research/measurement-and-stimulation-technologies-1/icostim-closed-loop-fitting-of-cochlear-implants-by-automated-determination-of-stimulation-parameters">TU Ilmenau</a>
+More information on <a href="https://www.tu-ilmenau.de/en/university/departments/department-of-computer-science-and-automation/profile/institutes-and-groups/institute-of-biomedical-engineering-and-informatics-bmti/research/measurement-and-stimulation-technologies-1/icostim-closed-loop-fitting-of-cochlear-implants-by-automated-determination-of-stimulation-parameters">TU Ilmenau</a> <i class="fa fa-external-link-square fa-lg"></i>
 
 <!---
 <div style="width: 200px; height: 20px; background-color: lightgray; border-radius: 5px; overflow: hidden;">
