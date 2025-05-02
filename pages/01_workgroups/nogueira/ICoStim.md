@@ -3,25 +3,8 @@ title: ICoStim
 
 <!--![ICoStim](https://www.vianna.de/01_workgroups/nogueira/icostim/ICoStim_AdobeStock_600111921.jpeg){style="float:right; margin-left:1em; width=50px"}-->
 
-## Closed-loop fitting of cochlear implants by automated determination of stimulation 
+## Closed-loop fitting of cochlear implants by automated determination of stimulation parameters 
 <br>
-
-<div style="position: relative; display: inline-block;">
-  <img src="https://www.vianna.de/01_workgroups/nogueira/icostim/ICoStim_AdobeStock_600111921.jpeg" alt="ICoStim image" style="display: block; width: 100%; height: auto;">
-  <div style="
-    position: absolute;
-    bottom: 80px;
-    right: -60px;
-    font-size: 12px;
-    color: white;
-    background: rgba(0, 0, 0, 0.5);    
-    border-radius: 3px;
-    transform: rotate(-90deg);
-    pointer-events: none;
-  ">
-    © Adobe Stock | #600111921
-  </div>
-</div>
 
 ### Project description
 
@@ -31,11 +14,13 @@ The outcome of cochlear implant (CI) treatment relies on optimal parameter setti
 
 Project coordinator: [eemagine Medical Imaging Solutions GmbH](https://www.eemagine.com/)
 
-BMBF founding reference number: 13GW0721B
+BMBF funding reference number: 13GW0721B
 
 <img src="https://raw.githubusercontent.com/vianna-research/website/fb6f0bbdb6a585b4a5f58537047f7739cffa5f7f/pages/01_workgroups/nogueira/ICOSTIM/bmbf_logo.svg" alt="BMBF">
 
 <br>
+
+More information on <a href="https://www.tu-ilmenau.de/en/university/departments/department-of-computer-science-and-automation/profile/institutes-and-groups/institute-of-biomedical-engineering-and-informatics-bmti/research/measurement-and-stimulation-technologies-1/icostim-closed-loop-fitting-of-cochlear-implants-by-automated-determination-of-stimulation-parameters">TU Ilmenau</a>
 
 <!---
 <div style="width: 200px; height: 20px; background-color: lightgray; border-radius: 5px; overflow: hidden;">
