@@ -49,7 +49,7 @@ More information on <a href="https://www.tu-ilmenau.de/en/university/departments
 <script>
   // Define start and end dates
   const startDate = new Date("2025-03-01"); // Change to your actual start date
-  const endDate = new Date("2027-02-29");   // Change to your actual end date
+  const endDate = new Date("2028-02-29");   // Change to your actual end date
   const currentDate = new Date();
 
   // Format the dates as "1 December 2022"
