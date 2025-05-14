@@ -89,8 +89,6 @@ https://doi.org/10.48550/arXiv.2409.14767)**. IEEE Transactions on Biomedical En
 
 * Nogueira, W., Nagathil, A. and Martin, R. (2019). **[Making Music More Accessible for Cochlear Implant Listeners: Recent Developments,](https://ieeexplore.ieee.org/document/8588408)** IEEE Signal Processing Magazine, 36,  1,  115-127.
 
-* Nogueira, W., Dolhopiatenko, H., Schierholz, I., Buechner, A., Mirkovic, B., Bleichner, M. G. , Debener, S. (2019). **[Decoding Selective Attention in Normal Hearing Listeners and Bilateral Cochlear Implant Users with Concealed Ear EEG.](https://www.frontiersin.org/articles/10.3389/fnins.2019.00720/full)** Frontiers in Neuroscience, 13:720.
-
 * Nogueira, W., Abel J, Fingscheidt T. (2019). **[Artificial Speech Bandwidth Extension Improves Telephone Speech Intelligibility.](https://pubmed.ncbi.nlm.nih.gov/31067961/)**
 Journal of the Acoustical Society of America, 145,3, 1640-1649.
 
