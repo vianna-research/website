@@ -112,7 +112,7 @@ eNeuro. ENEURO.0112-18.2018; DOI: https://doi.org/10.1523/ENEURO.0112-18.2018.
 
 ## 2017
 
-* Roma, G., Herrera, P., Nogueira, W. (2017). **[Environmental sound recognition using short-time feature aggregation.](https://link.springer.com/article/10.1007/s10844-017-0481-4) Journal of Intelligent Information Systems, 1-19, doi:10.1007/s10844-017-0481-4.
+* Roma, G., Herrera, P., Nogueira, W. (2017). **[Environmental sound recognition using short-time feature aggregation.](https://link.springer.com/article/10.1007/s10844-017-0481-4)** Journal of Intelligent Information Systems, 1-19, doi:10.1007/s10844-017-0481-4.
 
 * Krüger, B., Büchner, A., Nogueira, W. (2017). **[Simultaneous masking between electric and acoustic stimulation in cochlear implant users with residual low-frequency hearing](http://www.sciencedirect.com/science/article/pii/S0378595517300424?via%3Dihub)**. Hear Res. 2017 Jun 30. pii: S0378-5955(17)30042-4. doi: 10.1016/j.heares.2017.06.014. [Epub ahead of print]
 
