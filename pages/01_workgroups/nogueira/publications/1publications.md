@@ -65,8 +65,6 @@ https://doi.org/10.48550/arXiv.2409.14767)**. IEEE Transactions on Biomedical En
 
 * Imsiecke, M., Büchner, A., Lenarz, T., Nogueira, W. (2020). **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)** Hear Res. 2020 Feb; 386:107873. doi: 10.1016/j.heares.2019.107873. Epub 2019 Dec 18.
 
-* Imsiecke, M., Büchner, A., Lenarz, T., Nogueira, W. (2020). **[Psychoacoustic and electrophysiological electric-acoustic interaction effects in cochlear implant users with ipsilateral residual hearing.](https://www.sciencedirect.com/science/article/pii/S0378595519304319?via%3Dihub)** Hear Res. 2020 Feb;386:107873. doi: 10.1016/j.heares.2019.107873. Epub 2019 Dec 18.
-
 * Nogueira, W., Cosatti, G., Schierholz, I., Egger, M., Mirkovic, B., Büchner, A. (2020). **[Toward Decoding Selective Attention From Single-Trial EEG Data in Cochlear Implant Users.](https://ieeexplore.ieee.org/document/8674613)**. IEEE Trans Biomed Eng. 2020 Jan;67(1):38-49. doi: 10.1109/TBME.2019.2907638. Epub 2019 Mar 26.
 
 * Krüger, B., Büchner, A., Lenarz, T., Nogueira, W. (2020). **[Electric-acoustic interaction measurements in cochlear-implant users with ipsilateral residual hearing using electrocochleography.](https://asa.scitation.org/doi/10.1121/10.0000577)**. J Acoust Soc Am. 147(1):350. doi: 10.1121/10.0000577.
@@ -95,8 +93,6 @@ https://doi.org/10.48550/arXiv.2409.14767)**. IEEE Transactions on Biomedical En
 
 * Nogueira, W., Abel J, Fingscheidt T. (2019). **[Artificial Speech Bandwidth Extension Improves Telephone Speech Intelligibility.](https://pubmed.ncbi.nlm.nih.gov/31067961/)**
 Journal of the Acoustical Society of America, 145,3, 1640-1649.
-
-* Imsiecke, M., Büchner, A., Lenarz, T., Nogueira, W. (2019). **[Psychoacoustic and Electrophysiological Electric-Acoustic Interaction Effects in Cochlear Implant Users with Ipsilateral Residual Hearing.](https://www.sciencedirect.com/science/article/abs/pii/S0378595519304319)** Hearing Research, 386, https://doi.org/10.1016/j.heares.2019.107873.
 
 ## 2018
 
