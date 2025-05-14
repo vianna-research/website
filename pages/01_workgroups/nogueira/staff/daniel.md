@@ -68,15 +68,6 @@ in Otolaryngology (ARO 2021), virtual conference.
 
 
 ---
-
-| Contact                 |                            |
-| ------------------------|--------------------------- |
-| Research employee:<br>          | Daniel Kipping |
-| Address: <br><br><br>   | DHZ-Deutsches HörZentrum Hannover<br> Karl-Wiechert-Allee 3 <br> 30625 Hannover |
-| Phone:                  | +49 (0)511 532 3927 |
-| E-Mail:                 |<Kipping.Daniel@mh-hannover.de>|
-
----
     
 
 
