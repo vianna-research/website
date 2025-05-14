@@ -35,8 +35,6 @@ https://doi.org/10.48550/arXiv.2409.14767)**. IEEE Transactions on Biomedical En
 
 * Kipping, D., Nogueira, W., 2022. **[A Computational Model of a Single Auditory Nerve Fiber for Electric-Acoustic Stimulation](https://doi.org/10.1007/s10162-022-00870-2)**. J. Assoc. Res. Otolaryngol, https://doi.org/10.1007/s10162-022-00870-2
 
-* Tahmasebi, S., Segovia-Martinez, M., Nogueira, W. (2022). Optimization of Sound Coding Strategies to Make Singing Music More Accessible for Cochlear Implant Users (Under Review). Submitted to Trends in Hearing in 11/2021.
-
 ## 2021
 
 * Kludt, E., Nogueira, W.,  Lenarz, T., Büchner, A. (2021). **[A sound coding strategy based on a temporal masking model for cochlear implants.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244433)** PlosOne 8;16(1):e0244433. doi: 10.1371/journal.pone.0244433.
