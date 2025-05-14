@@ -132,29 +132,30 @@ eNeuro. ENEURO.0112-18.2018; DOI: https://doi.org/10.1523/ENEURO.0112-18.2018.
 
 * Pons, J., Rode, T., Janer, J., Nogueira, W. (2016). **[Remixing music using source separation algorithms to improve the musical experience of cochlear implant users.](https://asa.scitation.org/doi/abs/10.1121/1.4971424?journalCode=jas)** Journal of the Acoustical Society of America, 140, 6:4338.
 
-* C. Thiel, J. Özyurt, W. Nogueira, S. Puschmann. (2016). **[Effects of age on long term memory for degraded speech,](https://www.frontiersin.org/articles/10.3389/fnhum.2016.00473/full). Front. Hum. Neuroscience, 10.
+* C. Thiel, J. Özyurt, W. Nogueira, S. Puschmann. (2016). **[Effects of age on long term memory for degraded speech,](https://www.frontiersin.org/articles/10.3389/fnhum.2016.00473/full)**. Front. Hum. Neuroscience, 10.
 
 ## 2015
 
 * Dyballa KH, Hehrmann P, Hamacher V, Nogueira W, Lenarz T, Büchner A. **[Evaluation of a Transient Noise Reduction Algorithm in Cochlear Implant Users.](http://www.audiologyresearch.org/index.php/audio/article/view/116/174)** Audiol Res. 2015 Jun 11;5(2):116. doi: 10.4081/audiores.2015.116. eCollection 2015 Jun 11.
 
-* Penninger RT, Kludt E, Büchner A, Nogueira W. (2015) **[Stimulating on multiple electrodes can improve temporal pitch perception. (http://www.tandfonline.com/doi/full/10.3109/14992027.2014.997313).]** Int J Audiol. 2015 Jun;54(6):376-83. doi: 10.3109/14992027.2014.997313. Epub 2015 Jan 29.
+* Penninger RT, Kludt E, Büchner A, Nogueira W. (2015) **[Stimulating on multiple electrodes can improve temporal pitch perception.] (http://www.tandfonline.com/doi/full/10.3109/14992027.2014.997313).]** Int J Audiol. 2015 Jun;54(6):376-83. doi: 10.3109/14992027.2014.997313. Epub 2015 Jan 29.
 
 * Nogueira W, Litvak LM, Saoji AA, Büchner A. (2015). **[Design and evaluation of a cochlear implant strategy based on a "Phantom" channel.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120148)** PLoS One. 2015 Mar 25;10(3):e0120148. doi: 10.1371/journal.pone.0120148. eCollection 2015.
 
 ## 2011 
-* Nogueira, W., Hoepner, L., Hamacher, H., Lenarz, T., Buechner, A. (2011). **[Use of hearing aid preprocessing techniques with cochlear implant users.] International Journal of Pediatric Otorhinolaryngology, 75, 94. ISSN: 0165-5876 DOI: 10.1016/S0165-5876(11)70482-7, Elsevier Science.
+* Nogueira, W., Hoepner, L., Hamacher, H., Lenarz, T., Buechner, A. (2011). **[Use of hearing aid preprocessing techniques with cochlear implant users.]** International Journal of Pediatric Otorhinolaryngology, 75, 94. ISSN: 0165-5876 DOI: 10.1016/S0165-5876(11)70482-7, Elsevier Science.
 
 ## 2010
 * Nogueira, W., Vanpoucke, F., Dykmans, P., De Raeve, L., Van Hamme, H., Roelens, J. (2010). **[Speech Recognition Technology in CI Rehabilitation.](https://www.tandfonline.com/doi/abs/10.1179/146701010X12671177204507)** Cochlear Implant International, 11, 1: 449-453.
 
 ## 2009
-* Nogueira, W., Litvak, L., Edler, B., Ostermann, J., Buechner, A. (2009). **[Signal Processing Strategies based on Current Steering for Cochlear Implants.](https://asp-eurasipjournals.springeropen.com/articles/10.1155/2009/531213) EURASIP Journal on Applied Signal Processing, Special Issue on Hearing Instrumentation, 531213.
+* Nogueira, W., Litvak, L., Edler, B., Ostermann, J., Buechner, A. (2009). **[Signal Processing Strategies based on Current Steering for Cochlear Implants.](https://asp-eurasipjournals.springeropen.com/articles/10.1155/2009/531213)** EURASIP Journal on Applied Signal Processing, Special Issue on Hearing Instrumentation, 531213.
 
-## 2007
-* Buechner, A., Nogueira, W., Edler, B., Battmer, R. D. , Lenarz, T. (2007). **[Results from a Psychoacoustic Model-based Strategy for the N-24 and Freedom Cochlear Implants.](https://journ (2007). als.lww.com/otology-neurotology/Fulltext/2008/02000/Results_from_a_Psychoacoustic_Model_Based_Strategy.17.aspx)**
+## 2008
+* Buechner, A., Nogueira, W., Edler, B., Battmer, R. D. , Lenarz, T. (2008). **[Results from a Psychoacoustic Model-based Strategy for the N-24 and Freedom Cochlear Implants.](https://journals.lww.com/otology-neurotology/Fulltext/2008/02000/Results_from_a_Psychoacoustic_Model_Based_Strategy.17.aspx)**
 Otology and Neurotology, 29, 2:189-92.
 
+## 2007
 * Buechner, A., Brendel, M., Krüeger, B., Frohne-Büchner, C., Nogueira, W., Edler, B., Lenarz, T. (2007). **[Current Steering and Results From Novel Speech Coding Strategies.](https://journals.lww.com/otology-neurotology/Fulltext/2008/02000/Current_Steering_and_Results_From_Novel_Speech.20.aspx)** Otol Neurotol., 29, 2:203-207.
 
 ## 2005
