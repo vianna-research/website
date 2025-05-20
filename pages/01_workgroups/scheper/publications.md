@@ -2,6 +2,9 @@ title: Publications
 
 ## 2025
 
+* Laura Finck, Valentin Hagemann, **Jana Schwieger**, **Verena Scheper**, Nina Ehlert, Sebastian Polart, Henning Menzel
+[Ultrathin Self‐Assembled and Surface‐Attached Hydrogel Coating on Titanium for Potential Nanogluing of Implants](http://doi.org/10.1002/app.57330) Journal of Allpied Polymer Science, May 2025
+
 * Carola Fröster, Stavros Stavrakis, Sergey Shityakov, **Verena Scheper**, Thomas Lenarz
 [Interplay between Noise-Induced Sensorineural Hearing Loss and Hypertension: Pathophysiological Mechanisms and Therapeutic Prospects](https://doi.org/10.3389/fncel.2025.1523149) Frontiers in Cellular Neuroscience, April 2025
 
