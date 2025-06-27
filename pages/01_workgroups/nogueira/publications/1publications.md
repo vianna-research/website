@@ -1,5 +1,6 @@
 title: Peer Reviewed Journal Publications
 ## 2025
+* Dolhopiatenko, H., & Nogueira, W. (2025): **[Cortical temporal mismatch compensation in bimodal cochlear implant users: Selective attention decoding and pupillometry study](https://doi.org/10.1016/j.heares.2025.109306)**. Hearing research, 464, 109306. doi: 10.1016/j.heares.2025.109306
 * Bensel, F., Kipping, D., Reiber, M., Zhang, Y., Nackenhorst, U. and Nogueira, W. (2025): **[Non-intrusive Reduced Order Modeling of Patient-specific Cochlear Implantations](https://ieeexplore.ieee.org/document/11004576)**. IEEE Transactions on Biomedical Engineering.
   
 * Zhang, Y., Kipping, D., Nogueira, W. (2025): **[Evaluating electrophysiological and behavioral measures of neural health in cochlear implant users: a computational simulation study](
