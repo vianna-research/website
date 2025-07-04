@@ -1,5 +1,8 @@
 title: Conference Contributions
 ## 2025
+- Gajecki T., Nogueira W. ** Adversarial Training for Efficient End-to-End Speech Denoising in Cochlear Implants** Virtual Conference on Computational Audiology (VCCA2025).
+- Alvarez F. & Nogueira W. ** A computational loudness model for electric and acoustic stimulation based on peripheral neural activity** Virtual Conference on Computational Audiology (VCCA2025).
+- Zhang Y., Kipping D., Nogueira W. (2025). **Neural health and activation in the human auditory periphery: Insights from a computational model for cochlear implant (CI) and auditory nerve implant (ANI) stimulation** Virtual Conference on Computational Audiology (VCCA2025).
 * Dolhopiatenko, H., & Nogueira, W. (2025). **Cortical Temporal Mismatch Compensation in Bimodal Cochlear Implant Users: Selective Attention Decoding and Pupillometry Study.** Association for Research in Otolaryngology (ARO), 2025.
 * Dolhopiatenko, H., Yoon, Y. S., & Nogueira, W. (2025). **Behavioral and Electrophysiological Measurements of Vowel Integration.** Association for Research in Otolaryngology (ARO), 2025.
 
