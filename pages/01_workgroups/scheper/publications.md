@@ -2,6 +2,9 @@ title: Publications
 
 ## 2025
 
+* Phillipp Deutsch, Jens P. Bankstahl, Amrtin Mamach, Michael Willmann, Frank M. Bengel, Thomas Lenarz, Georg Berding, **Verena Scheper**, **Jana Schwieger**
+[PET imaging of tissue reactions in the implanted cochlea: results of a pilot study](https://doi.org/10.3389/fimmu.2025.1601742) Front. Immunol., July 2025
+
 * Laura Finck, Valentin Hagemann, **Jana Schwieger**, **Verena Scheper**, Nina Ehlert, Sebastian Polart, Henning Menzel
 [Ultrathin Self‐Assembled and Surface‐Attached Hydrogel Coating on Titanium for Potential Nanogluing of Implants](http://doi.org/10.1002/app.57330) Journal of Applied Polymer Science, May 2025
 
