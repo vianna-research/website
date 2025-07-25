@@ -7,6 +7,7 @@ title: Conference Contributions
 * Gajecki T., Nogueira W. **Adversarial Training for Efficient End-to-End Speech Denoising in Cochlear Implants** Virtual Conference on Computational Audiology (VCCA2025).
 * Alvarez F. & Nogueira W. **A computational loudness model for electric and acoustic stimulation based on peripheral neural activity** Virtual Conference on Computational Audiology (VCCA2025).
 * Zhang Y., Kipping D., Nogueira W. **Neural health and activation in the human auditory periphery: Insights from a computational model for cochlear implant (CI) and auditory nerve implant (ANI) stimulation** Virtual Conference on Computational Audiology (VCCA2025).
+* Althoff, J., Nogueira, W. **Towards a closed loop brain computer interface to make music more accessible for cochlear implant users.** ESPCI, 2025 Hannover
 * Hinz, P., Nogueira, W. **Psychoacoustic Electric-Acoustic Masking with Round Window Extra-Cochlear Electric Stimulation in Cochlear Implant Users with Residual Hearing.** Association for Research in Otolaryngology (ARO), 2025.
 * Dolhopiatenko, H., & Nogueira, W. **Cortical Temporal Mismatch Compensation in Bimodal Cochlear Implant Users: Selective Attention Decoding and Pupillometry Study.** Association for Research in Otolaryngology (ARO), 2025.
 * Dolhopiatenko, H., Yoon, Y. S., & Nogueira, W. **Behavioral and Electrophysiological Measurements of Vowel Integration.** Association for Research in Otolaryngology (ARO), 2025.
@@ -17,6 +18,9 @@ Gajecki T, Alvarez F, Nogueira W. VCCA2024.
 
 * **[A 3D computational model framework of the stimulated peripheral auditory system](https://computationalaudiology.com/a-3d-computational-model-framework-of-the-stimulated-peripheral-auditory-system/)**.
 Zhang Y, Alvarez F, Kipping D, Nogueira W. VCCA2024.
+
+* Althoff, J., Nogueira, W. **Selective Auditory Attention Decoding in Bilateral Cochlear Implant Users to Music Instruments.** The Neurosciences and Music, 2024, Helsinki, Finnland
+* Althoff, J., Gajecki, T., Nogueira, W. **Remixing Preferences for Western Instrumental Classical Music of Bilateral Cochlear Implant Users.** DAGA, 2024, Hannover 
 
 
 ## 2023
