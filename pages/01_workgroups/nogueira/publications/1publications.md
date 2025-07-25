@@ -4,7 +4,7 @@ title: Peer Reviewed Journal Publications
 * Bensel, F., Kipping, D., Reiber, M., Zhang, Y., Nackenhorst, U. and Nogueira, W. (2025): **[Non-intrusive Reduced Order Modeling of Patient-specific Cochlear Implantations](https://ieeexplore.ieee.org/document/11004576)**. IEEE Transactions on Biomedical Engineering.
   
 * Zhang, Y., Kipping, D., Nogueira, W. (2025): **[Evaluating electrophysiological and behavioral measures of neural health in cochlear implant users: a computational simulation study](
-https://ieeexplore.ieee.org/document/11023559)**. IEEE Transactions on Biomedical Engineering. Data avaliable: [GitLab](https://gitlab.gwdg.de/apg/neural-health).
+https://ieeexplore.ieee.org/document/11023559)**. IEEE Transactions on Biomedical Engineering. Data available: [GitLab](https://gitlab.gwdg.de/apg/neural-health).
 
 * Alvarez, F., Zhang, Y., Kipping, D., & Nogueira, W. (2025). **[A computational loudness model for electrical stimulation with cochlear implants.](https://doi.org/10.48550/arXiv.2501.17640)** (Submitted)
   
