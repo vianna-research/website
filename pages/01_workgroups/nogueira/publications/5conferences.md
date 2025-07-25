@@ -1,10 +1,15 @@
 title: Conference Contributions
 ## 2025
+* Zhang Y., Kipping D., Nogueira W. **Evaluating Electrophysiological and Behavioral Measures of Neural Health in Cochlear Implant Users: A Computational Simulation Study.** Conference on Implantable Auditory Prostheses 2025
+* Nogueira W., Kipping D., Zhang Y., Krueger B. **Advancing Hearing Diagnostics and Devices Through Extracochlear Electric-Acoustic Stimulation.** Conference on Implantable Auditory Prostheses 2025
+* Althoff J., Nogueira W. **Towards a Closed Loop Brain Computer Interface to Make Music More Accessible for Cochlear Implant Users.** Conference on Implantable Auditory Prostheses 2025
+* Nogueira W., **Advancements and Challenges in Signal Processing and Sound Coding for Cochlear Implants.** Conference on Implantable Auditory Prostheses 2025
 * Gajecki T., Nogueira W. **Adversarial Training for Efficient End-to-End Speech Denoising in Cochlear Implants** Virtual Conference on Computational Audiology (VCCA2025).
 * Alvarez F. & Nogueira W. **A computational loudness model for electric and acoustic stimulation based on peripheral neural activity** Virtual Conference on Computational Audiology (VCCA2025).
-* Zhang Y., Kipping D., Nogueira W. (2025). **Neural health and activation in the human auditory periphery: Insights from a computational model for cochlear implant (CI) and auditory nerve implant (ANI) stimulation** Virtual Conference on Computational Audiology (VCCA2025).
-* Dolhopiatenko, H., & Nogueira, W. (2025). **Cortical Temporal Mismatch Compensation in Bimodal Cochlear Implant Users: Selective Attention Decoding and Pupillometry Study.** Association for Research in Otolaryngology (ARO), 2025.
-* Dolhopiatenko, H., Yoon, Y. S., & Nogueira, W. (2025). **Behavioral and Electrophysiological Measurements of Vowel Integration.** Association for Research in Otolaryngology (ARO), 2025.
+* Zhang Y., Kipping D., Nogueira W. **Neural health and activation in the human auditory periphery: Insights from a computational model for cochlear implant (CI) and auditory nerve implant (ANI) stimulation** Virtual Conference on Computational Audiology (VCCA2025).
+* Hinz, P., Nogueira, W. **Psychoacoustic Electric-Acoustic Masking with Round Window Extra-Cochlear Electric Stimulation in Cochlear Implant Users with Residual Hearing.** Association for Research in Otolaryngology (ARO), 2025.
+* Dolhopiatenko, H., & Nogueira, W. **Cortical Temporal Mismatch Compensation in Bimodal Cochlear Implant Users: Selective Attention Decoding and Pupillometry Study.** Association for Research in Otolaryngology (ARO), 2025.
+* Dolhopiatenko, H., Yoon, Y. S., & Nogueira, W. **Behavioral and Electrophysiological Measurements of Vowel Integration.** Association for Research in Otolaryngology (ARO), 2025.
 
 ## 2024
 * **[Design of an End-to-End Deep Learning Sound Coding Strategy for Cochlear Implants and Validation through an Objective Metric based on Mutual Information](https://computationalaudiology.com/design-of-an-end-to-end-deep-learning-sound-coding-strategy-for-cochlear-implants-and-validation-through-an-objective-metric-based-on-mutual-information/)**.
