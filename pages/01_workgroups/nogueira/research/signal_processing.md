@@ -36,6 +36,7 @@ title: Signal Processing for Cochlear Implants
 ### Team Members
 * **[Tom Gajecki](https://vianna.uber.space/01_workgroups/nogueira/staff/tom.html)**
 * **[Sina Tahmasebi](https://vianna.uber.space/01_workgroups/nogueira/staff/sina.html)**
+* **[Robert Hart](https://vianna.uber.space/01_workgroups/nogueira/staff/robert.html)**
 ---
 
 ### Publications:
