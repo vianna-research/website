@@ -62,6 +62,7 @@ Abbreviations:
 * **[Franklin Alvarez](https://vianna.de/01_workgroups/nogueira/staff/franklin.html)**
 * **[Patrick Hinz](https://vianna.de/01_workgroups/nogueira/staff/patrick.html)**
 * **[Yixuan Zhang](https://vianna.de/01_workgroups/nogueira/staff/zhang.html)**
+* **[Robert Hart](https://vianna.uber.space/01_workgroups/nogueira/staff/robert.html)**
 
 
 ### Collaborators
