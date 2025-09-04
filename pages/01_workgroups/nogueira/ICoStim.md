@@ -14,9 +14,9 @@ The outcome of cochlear implant (CI) treatment relies on optimal parameter setti
 
 Project coordinator: [eemagine Medical Imaging Solutions GmbH](https://www.eemagine.com/)
 
-BMBF funding reference number: 13GW0721B
+BMFTR funding reference number: 13GW0721B
 
-<img src="https://raw.githubusercontent.com/vianna-research/website/fb6f0bbdb6a585b4a5f58537047f7739cffa5f7f/pages/01_workgroups/nogueira/ICOSTIM/bmbf_logo.svg" alt="BMBF">
+<img src="https://raw.githubusercontent.com/vianna-research/website/22ad4795152c698dd0c73ca93a5ef9f6eead8ee0/pages/01_workgroups/nogueira/ICOSTIM/BMFTR_logo.svg" alt="BMFTR">
 
 <br>
 
