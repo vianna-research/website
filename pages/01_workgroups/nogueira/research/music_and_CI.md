@@ -29,13 +29,13 @@ Below is a demo of the music tracks used in this experiment.
 
 ---
 
-# Music4u 
+# Music4u: Objective Deep Learning Models to Make Music More Accessible for Cochlear Implant Users  
 
 * Difficult to enjoy complex music as i.e. classical pieces for CI-users.
 * Investigating, which musical component (i.e. melody) in instrumental classical music CI-users want to enhance.
 * Testing, if selective attention decoding is possible for CI-users.
 * Feeding EEG-data into neural networks to enhance source separation of attended sound source.
-* Project Funding: **[Music4u: Personalized Objective Deep Learning Models to Make Music More Accessible for Cochlear Implant Users, Funding: German Research Foundation (DFG, Germany), 2021-2024](https://gepris.dfg.de/gepris/projekt/446611346?language=en)**
+* **[Funding: German Research Foundation (DFG, Germany), 2021-2024](https://gepris.dfg.de/gepris/projekt/446611346?language=en)**
 
 ---
 
