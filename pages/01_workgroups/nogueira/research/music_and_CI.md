@@ -35,7 +35,7 @@ Below is a demo of the music tracks used in this experiment.
 * Investigating, which musical component (i.e. melody) in instrumental classical music CI-users want to enhance.
 * Testing, if selective attention decoding is possible for CI-users.
 * Feeding EEG-data into neural networks to enhance source separation of attended sound source.
-* **[Funding: German Research Foundation (DFG, Germany), 2021-2024](https://gepris.dfg.de/gepris/projekt/446611346?language=en)**
+* Funding: **[German Research Foundation (DFG, Germany), 2021-2024](https://gepris.dfg.de/gepris/projekt/446611346?language=en)**
 
 ---
 
