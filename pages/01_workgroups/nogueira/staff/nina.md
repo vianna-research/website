@@ -20,7 +20,7 @@ Research employee
 ### Funding:
 
 * Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy EXC 2177/1 'Hearing4all'
-* VDI Project ICoStim
+* VDI Project **[ICoStim](../ICoStim.html)**
 
 
 ---
