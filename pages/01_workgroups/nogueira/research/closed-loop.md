@@ -28,6 +28,13 @@ We are developing methods to investigate speech perception of CI users objective
 * Auditory Steady State Response (ASSR)
 
 ---
+### ICoStim: Closed-loop fitting of cochlear implants by automated determination of stimulation parameters
+* Developing a closed-loop system using mobile EEG to objectively optimize cochlear implant fitting parameters.
+* Enabling fast, accurate, and patient-independent fitting to improve therapy outcomes.
+* Funding: German Research Foundation (DFG, Germany), 2025-2028
+* Further information: **[ICoStim](https://www.vianna.de/01_workgroups/nogueira/icostim.html)**. 
+
+---
 
 ### Team Members:
 
