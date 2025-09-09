@@ -54,6 +54,15 @@ Abbreviations:
 
 
 ---
+# READIHEAR: Rehabilitation and Diagnosis of Hearing Loss based on Electric Acoustic Interaction
+* Investigates electric–acoustic interactions in the auditory pathway, from cochlea to cortex, to better understand combined stimulation effects.
+* Aims to advance diagnostics and therapies by laying the groundwork for next-generation devices for hearing loss treatment.
+* Funding: EU Grant agreement ID: **[101044753](https://cordis.europa.eu/project/id/101044753)**
+* Further information: **[READIHEAR](https://vianna.de/01_workgroups/nogueira/readihear.html)**. 
+
+---
+
+
 ### Team Members
 
 * **[Benjamin Krüger](https://vianna.de/01_workgroups/nogueira/staff/benjamin.html)**
