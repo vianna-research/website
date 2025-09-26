@@ -1,10 +1,7 @@
 title: Industry Transfer
 ---
 
-
-Please use the links below to go directly to the sub-pages.
-
-
+This site lists industry transfers connected to our research group. It should provide a transparent and accessible overview of how our research develops into real-world applications and collaborations:
 
 - **[Betterhear](https://vianna.de/01_workgroups/nogueira/transfer/betterhear.md)**
 
