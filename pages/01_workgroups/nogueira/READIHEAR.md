@@ -89,8 +89,8 @@ The ground-breaking nature of the READIHEAR project is to investigate the fundam
 | <img src="staff/Robert.jpg" alt="Robert Hart " width="77px" height="103px"/>	       | [Robert Hart](https://vianna.de/01_workgroups/nogueira/staff/robert.html)	                          | <Hart.Robert@mh-hannover.de>           |
 
 | Former Researchers &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| :----------------------------------- | :------------------------------------------------------------------------------------------------- | -------------------------------------: |
-| ![Portrait](staff/Alrutz.jpg)	       | [Dr. rer. nat. Daniel Kipping](https://vianna.uber.space/01_workgroups/nogueira/staff/daniel.html) | |
+| :----------------------------------- | :------------------------------------------------------------------------------------------------- |
+| ![Portrait](staff/Alrutz.jpg)	       | [Dr. rer. nat. Daniel Kipping](https://vianna.uber.space/01_workgroups/nogueira/staff/daniel.html) |
 
 ### Peer-Reviewed Publications
 #### 2025
