@@ -1,7 +1,7 @@
 title: READIHEAR
 ---
 
-![READIHEAR](https://www.vianna.de/01_workgroups/nogueira/readihear/readihear.png){style="float:right; margin-left:1em"}
+![READIHEAR](https://www.vianna.de/01_workgroups/nogueira/projects/readihear/readihear.png){style="float:right; margin-left:1em"}
 
 ## Rehabilitation and Diagnosis of Hearing Loss based on Electric Acoustic Interaction. 
 <br/>
@@ -11,7 +11,7 @@ title: READIHEAR
 Hearing loss is the most common sensory deficit in the elderly. As a chronic health problem, hearing loss can have severe impacts on a person’s mental health and social participation. One widely used solution is cochlear implants, hearing prosthetics that stimulate the auditory nerve with electrodes placed inside the cochlea. The EU-funded READIHEAR project will investigate the fundamental interaction mechanisms between electric and acoustic stimulation across the auditory pathway, from the cochlea to the auditory cortex. READIHEAR aims to set the basis for a new generation of diagnostic and treatment devices for hearing loss.
 
 
-![READIHEAR Overview](https://www.vianna.de/01_workgroups/nogueira/readihear/LOGO-ERC.png){style="width: 200px;"}
+![READIHEAR Overview](https://www.vianna.de/01_workgroups/nogueira/projects/readihear/LOGO-ERC.png){style="width: 200px;"}
 
 More information: [EU Project Website](https://cordis.europa.eu/project/id/101044753)
 
@@ -74,7 +74,7 @@ Hearing loss is the most common sensory deficit in the elderly, and it is becomi
 The ground-breaking nature of the READIHEAR project is to investigate the fundamental interaction mechanisms between electric and acoustic stimulation across the auditory pathway, from the cochlea up to the auditory cortex. The fundamental understanding will set the basis for a new generation of diagnostic devices of hearing loss that combine for the first time minimally invasive electric acoustic stimulation. Moreover, READIHEAR will assay a novel auditory prosthetic that makes use of the interaction mechanisms between acoustic and electric stimulation delivered through minimally invasive electrodes. These developments will be beneficial for a large population suffering from hearing loss across the whole lifespan, from young children who will benefit from improved hearing diagnostics to the elderly population who will benefit from minimally invasive electric acoustic stimulation technology as the treatment for age-related hearing loss.
 
 
-![READIHEAR Overview](https://www.vianna.de/01_workgroups/nogueira/readihear/overview.png)
+![READIHEAR Overview](https://www.vianna.de/01_workgroups/nogueira/projects/readihear/overview.png)
 
 ### Team
 | Head of Research Group | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
