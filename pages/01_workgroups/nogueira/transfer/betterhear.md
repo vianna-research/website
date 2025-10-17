@@ -2,7 +2,7 @@ title: Betterhear
 ---
 
 
-## Betterhear: ...
+## β-Hear: ...
 <br/>
 
 ### Project description
