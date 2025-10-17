@@ -1,4 +1,4 @@
-title: Betterhear
+title: β-Hear
 ---
 
 
