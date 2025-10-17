@@ -1,7 +1,7 @@
 title: List of Funded Projects 
 ---
-* **[ICoStim: Closed-loop fitting of cochlear implants by automated determination of stimulation parameters](https://www.vianna.de/01_workgroups/nogueira/icostim.html)**. Funding: German Research Foundation (DFG, Germany), 2025-2028
-* **[READIHEAR: Rehabilitation and Diagnosis of Hearing Loss based on Electric Acoustic Interaction, ERC Consolidator Grant](https://www.vianna.de/01_workgroups/nogueira/readihear.html)**. ERC, EU, 2023-2028
+* **[ICoStim: Closed-loop fitting of cochlear implants by automated determination of stimulation parameters](https://www.vianna.de/01_workgroups/nogueira/projects/icostim.html)**. Funding: German Research Foundation (DFG, Germany), 2025-2028
+* **[READIHEAR: Rehabilitation and Diagnosis of Hearing Loss based on Electric Acoustic Interaction, ERC Consolidator Grant](https://www.vianna.de/01_workgroups/nogueira/projects/readihear.html)**. ERC, EU, 2023-2028
 * **[TRR 298:  Safety Integrated and Infection Reactive Implants (SIIRI)](https://gepris.dfg.de/gepris/projekt/426335750?language=en)**, Funding: German Research Foundation (DFG, Germany), 2021-2025
 * **[Music4u: Personalized Objective Deep Learning Models to Make Music More Accessible for Cochlear Implant Users](https://gepris.dfg.de/gepris/projekt/446611346?language=en)**, Funding: German Research Foundation (DFG, Germany), 2021-2024
 * **BiMoFuse: Bimodal Fusion**, Funding: William Demant Foundation (Denmark), 2021-2023
