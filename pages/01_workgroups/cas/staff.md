@@ -42,7 +42,7 @@ title:Staff
 |                               | Dipl.-Ing. (FH) Franziska Eckhardt     |  now: [MED-EL Deutschland](www.medel.com) |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| M. Sc. Tim Ehmann     |  |
 |![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | now: [LinkedIn-Profil](https://www.linkedin.com/in/lenka-harbach-390b31b2/) |
-|                             	| Dr.-Ing Silke Hügl                			  | now: [Vector Informatik GmbH](https://www.vector.com/de/de/) 	|
+|                             	| Dr.-Ing Silke Hügl                			  | [LinkedIn-Profil](https://www.linkedin.com/in/silke-huegl/) 	|
 |![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             |  |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH]([http://www.otojig.com/](https://otojig.com/))  |
 |![Portrait](staff/Jakob.jpg)   | Dr. Dipl.-Ing. Jakob Lexow                  | now: [Part Time Scientists (Berlin)](https://ptscientists.com/)         |
