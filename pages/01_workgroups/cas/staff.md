@@ -21,7 +21,7 @@ title:Staff
 |![Portrait](staff/Portrait_EralpA.jpg){style="width:70px"}  | Eralp Artukarslan <br> ENT Resident | Artukarslan.Eralp-Niyazi@mh-hannover.de |
 |  | ***Students*** ||  
 | ![Portrait](staff/empty.jpg)   | Lucas Mey       | Master Thesis  |
-| ![Portrait](staff/empty.jpg)   | Dennis Christopher Micheal       | Master Thesis  |
+| ![Portrait](staff/empty.jpg)   | Dennis Christopher Michael       | Master Thesis  |
 
 
 |  | Former Staff  ||
