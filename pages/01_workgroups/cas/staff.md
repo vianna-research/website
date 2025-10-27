@@ -39,11 +39,11 @@ title:Staff
 
 | | Former Staff  ||
 |:--|:------------------|:--------------------------------------|               				
-|                               | Dipl.-Ing. (FH) Franziska Eckhardt     |  now: [MED-EL Deutschland](www.medel.com) |
+|                               | Dipl.-Ing. (FH) Franziska Eckhardt     |  [LinkedIn-Profil](https://www.linkedin.com/in/franziska-eckardt/) |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| M. Sc. Tim Ehmann     |  |
-|![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | now: [LinkedIn-Profil](https://www.linkedin.com/in/lenka-harbach-390b31b2/) |
+|![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | [LinkedIn-Profil](https://www.linkedin.com/in/lenka-harbach-390b31b2/) |
 |                             	| Dr.-Ing Silke Hügl                			  | [LinkedIn-Profil](https://www.linkedin.com/in/silke-huegl/) 	|
-|![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             |  |
+|![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             | [LinkedIn-Profil](https://www.linkedin.com/in/julia-kilian-75445010a/) |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH]([http://www.otojig.com/](https://otojig.com/))  |
 |![Portrait](staff/Jakob.jpg)   | Dr. Dipl.-Ing. Jakob Lexow                  | now: [Part Time Scientists (Berlin)](https://ptscientists.com/)         |
 |                               | M. Sc. Priyant Mane                    |  |
