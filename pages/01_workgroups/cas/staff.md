@@ -42,7 +42,7 @@ title:Staff
 |                             	| Dr.-Ing Silke Hügl                			  | now: [LinkedIn-Profil](https://www.linkedin.com/in/silke-huegl/) 	|
 |![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             | now:  [LinkedIn-Profil](https://www.linkedin.com/in/julia-kilian-75445010a/) |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH]([http://www.otojig.com/](https://otojig.com/))  |
-|![Portrait](staff/Jakob.jpg)   | Dr. Dipl.-Ing. Jakob Lexow                  | [now: [LinkedIn-Profil](https://www.linkedin.com/in/jakob-lexow-9285b6158/)         |
+|![Portrait](staff/Jakob.jpg)   | Dr. Dipl.-Ing. Jakob Lexow                  | now: [LinkedIn-Profil](https://www.linkedin.com/in/jakob-lexow-9285b6158/)         |
 |                               | M. Sc. Priyant Mane                    |  |
 |![Portrait](staff/Portrait_ViktorS.jpg){style="width:68px"}   | M. Sc. Viktor Schell  | now: [OtoJig GmbH](https://otojig.com/) |
 |![Portrait](staff/daniel.png)  | PD Dr.-Ing. Daniel Schurzig                | now: [LinkedIn-Profil](https://www.linkedin.com/in/danielschurzig/) |
