@@ -43,7 +43,7 @@ title:Staff
 
 | Alumni |  ||
 |:--|:------------------|:--------------------------------------|
-|	![Portrait](staff/empty.jpg)                                | Nina Aldag								| Student Research Project |
+|	![Portrait](staff/empty.jpg)                                | Nina Aldag								| Student Research Project (2019): _Parametric study to identify factors influencing the characteristics of forces during the insertion of cochlear implant electrode arrays_ |
 | ![Portrait](staff/alexbecker.jpg)                           | Alexander Becker 				|  Master Thesis (2017): _Load-adapted, FE-supported optimization of a support system for micro-stereotaxic systems of the lateral skull base._ |
 |![Portrait](staff/Portrait_CarolinB.jpg){style="width:70px"} | Carolin Betram              | Master Thesis (2021): _Experimental evaluation of trajectory-dependent insertion force variations in cochlear implants._ |
 |![Portrait](staff/tobias.png) 	                               | Tobias Blum 								| Student Research Assistant & <br> Bachelor Thesis (2018): _Development and experimental evaluation of a drilling depth control for the RoboJig system._ & <br> Student Research Project (2020): _Investigation of the benefit of a digital display for the strut length setting of a manually operated hexapod._ |
@@ -56,7 +56,7 @@ title:Staff
 |![Portrait](staff/Portrait_KevinF.jpg){style="width:70px"}   | Kevin Fandio                | Student Research Project (2021): _Improvement of measurement uncertainties in a force sensitive insertion tool to provide force feedback during CI surgery._ <br> Master Thesis (2022): _Development of a method for intraoperative visualization of insertion forces._|
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project (2000): _On the increase in accuracy when using thin-layers of liquid adhesive instead of bone cement for the GluingJig system._ |
 |![Portrait](staff/lena.jpg){style="width:70px"}              | Dr. med. h.c. Lena Geiger			  | Medical Doctoral Thesis (2023): _Drilling accuracy evaluation of a mouldable surgical targeting system for minimally invasive access to anatomic targets in the temporal bone._  |
-|![Portrait](staff/Portrait_ClemensG.jpg){style="width:70px"} 	| Clemens Griemsmann					| Student Research Assistant |
+|![Portrait](staff/Portrait_ClemensG.jpg){style="width:70px"} 	| Clemens Griemsmann					| Student Research Assistant & <br> Bachelor Thesis (2020): _Influence of design variations for electrical heat activation of the shape memory effect on the transition temperatures of Nitinol alloy._|
 | ![Portrait](staff/empty.jpg)                                 | Patrik Haas                 | Student Research Assistant & <br> Bachelor Thesis (2021): _Design and evaluation of a digitized hexapod leg with integrated length measurement for a passive hexapod._ |
 |![Portrait](staff/empty.jpg)  	                              | Marie Heise                 | Student Research Assistant |
 |![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis (2018): _Development of a test bench for insertion force measurement with high-precision stereo-optical positioning of inner ear specimens._	|
@@ -71,13 +71,13 @@ title:Staff
 |  ![Portrait](staff/empty.jpg)   | Philip Reinke              | Student Research Assistant |
 |![Portrait](staff/katharina.jpg) | Katharina Rülander				| Master Thesis (2017): _Conception, creation, construction and characterization of a 1:1 cochlear model for the validation of novel implants for mechanical stimulation of the cochlea._							 |
 | ![Portrait](staff/empty.jpg)      | Lucy Siegl              | Intership   |
-|![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis (2019):  		|
+|![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis (2019): _Development of a method for step-by-step micro-computed tomographic visualization of the insertion of the electrode array of a cochlear implant._ 		|
 |![Portrait](staff/Portrait_TimoS.jpg){style="width:70px"}   | Timo Stauß                  | Bachelor Thesis (2020): _Design and evaluation of a laser-based verification method for a customized instrument guide._ | 
 |![Portrait](staff/Portrait_MartinS.jpg){style="width:70px"}  | Martin Steven               | Student Research Assistant |
 |![Portrait](staff/empty.jpg)                                 | Dennis Tepfer               | Bachelor Thesis (2022): _Development of an automated dip coating process for coating of electrode arrays with alginate._ |
 |![Portrait](staff/Portrait_ErikT.jpg){style="width:7068px"}    | Erik Tzschoppe              | Bachelor Thesis (2021): _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
 |![Portrait](staff/lea.png)		    | Lea Uhlenbusch 							| Bachelor Thesis (2017): _Investigation of accuracy and error sources of a surgical template made of bone cement._ |
-|![Portrait](staff/empty.jpg)                                 | Konstantyn Vasylenko        | Student Research Project |
+|![Portrait](staff/empty.jpg)                                 | Konstantyn Vasylenko        | Student Research Project (2022): Design of a Kinematic Structure for Precision Adjustment in the Manufacturing of Individual Drilling Jigs |
 |![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctoral Thesis (2023): _Experimental evaluation of a bone cement-based mini-stereotaxic system for creating direct access to the cochlea._ |
 |![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project  |
 | ![Portrait](staff/empty.jpg)   | Nacer Zayani            | Student Research Assistant |
