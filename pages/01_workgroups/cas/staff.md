@@ -20,7 +20,6 @@ title:Staff
 |   | ***Associated Staff*** ||	
 |![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
- zunigamanrique.maria@mh-hannover.de	  |
 |![Portrait](staff/Portrait_EralpA.jpg){style="width:68px"}  | Eralp Artukarslan <br> ENT Resident | Artukarslan.Eralp-Niyazi@mh-hannover.de |
 
 |  | ***Students*** ||  
