@@ -20,30 +20,19 @@ title:Staff
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
 |![Portrait](staff/Portrait_EralpA.jpg){style="width:68px"}  | Eralp Artukarslan <br> ENT Resident | Artukarslan.Eralp-Niyazi@mh-hannover.de |
 |  | ***Students*** ||  
-|![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Master Thesis |
-|![Portrait](staff/lena.jpg){style="width:68px"}              | Lena Geiger								  | Medical Doctorate Thesis  |
-|![Portrait](staff/empty.jpg)                                 | Patrik Haas                 | Student Research Assistant |
-|![Portrait](staff/empty.jpg)  	                              | Marie Heise                 | Student Assistant |
-|![Portrait](staff/Portrait_NiklasI.jpg){style="width:68px"}  | Niklas Ihmann               | Bachelor Thesis |
-|![Portrait](staff/Portrait_VeraL.jpg){style="width:68px"}    | Vera Lange                  | Student Research Assistant |
-|![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctorate Thesis |
-|![Portrait](staff/Portrait_MohamedN.jpg){style="width:68px"} | Mohamed Fourat Nabli        | Master Thesis |
-|![Portrait](staff/Portrait_MartinS.jpg){style="width:68px"}  | Martin Steven               | Student Research Assistant |
-|![Portrait](staff/empty.jpg)                                 | Dennis Tepfer               | Bachelor Thesis |
-|![Portrait](staff/empty.jpg)                                 | Konstantyn Vasylenko        | Student Research Project |
-|![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctorate Thesis |
+
 
 
 | | Former Staff  ||
 |:--|:------------------|:--------------------------------------|               				
-|                               | Dipl.-Ing. (FH) Franziska Eckhardt     |  now: [LinkedIn-Profil](https://www.linkedin.com/in/franziska-eckardt/) |
+|  ![Portrait](staff/empty.jpg) | Dipl.-Ing. (FH) Franziska Eckhardt     |  now: [LinkedIn-Profil](https://www.linkedin.com/in/franziska-eckardt/) |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| M. Sc. Tim Ehmann     |  |
 |![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | now: [LinkedIn-Profil](https://www.linkedin.com/in/lenka-harbach-390b31b2/) |
-|                             	| Dr.-Ing Silke Hügl                			  | now: [LinkedIn-Profil](https://www.linkedin.com/in/silke-huegl/) 	|
+| ![Portrait](staff/empty.jpg)	| Dr.-Ing Silke Hügl                			  | now: [LinkedIn-Profil](https://www.linkedin.com/in/silke-huegl/) 	|
 |![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             | now:  [LinkedIn-Profil](https://www.linkedin.com/in/julia-kilian-75445010a/) |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH]([http://www.otojig.com/](https://otojig.com/))  |
 |![Portrait](staff/Jakob.jpg)   | Dr. Dipl.-Ing. Jakob Lexow                  | now: [LinkedIn-Profil](https://www.linkedin.com/in/jakob-lexow-9285b6158/)         |
-|                               | M. Sc. Priyant Mane                    |  |
+| ![Portrait](staff/empty.jpg)  | M. Sc. Priyant Mane                    |  |
 |![Portrait](staff/Portrait_ViktorS.jpg){style="width:68px"}   | M. Sc. Viktor Schell  | now: [OtoJig GmbH](https://otojig.com/) |
 |![Portrait](staff/daniel.png)  | PD Dr.-Ing. Daniel Schurzig                | now: [LinkedIn-Profil](https://www.linkedin.com/in/danielschurzig/) |
 |![Portrait](staff/nuha.jpg) 	  | M. Sc. Nuha Suzaly			   			        |     	|
@@ -57,7 +46,7 @@ title:Staff
 |![Portrait](staff/tobias.png) 	                               | Tobias Blum 								| Student Research Assistant <br> & Bachelor Thesis (2018): _Development and experimental evaluation of a drilling depth control for the RoboJig system._ <br> & Student Research Project (2020): _Investigation of the benefit of a digital display for the strut length setting of a manually operated hexapod._ |
 |![Portrait](staff/Portrait_LeonB.jpg){style="width:68px"}  | Leon Budde                  | Master Thesis (2020): _Development of a handheld, force-sensing insertion tool with integrated positioning sensor._|
 |![Portrait](staff/Portrait_ThorbenE.jpg){style="width:68px"} | Thorben Engel               | Master Thesis (2020): _Development of minimally invasive, micro-stereotactic strategy for implantation of active middle ear implants._ |
-|![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Student Research Project (2021): _Improvement of measurement uncertainties in a force sensitive insertion tool to provide force feedback during CI surgery._|
+|![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Student Research Project (2021): _Improvement of measurement uncertainties in a force sensitive insertion tool to provide force feedback during CI surgery._ <br> Master Thesis (2022): _Development of a method for intraoperative visualization of insertion forces._|
 |![Portrait](staff/empty.jpg)                                 | Patrik Haas                 | Student Research Assistant <br> & Bachelor Thesis (2021): _Design and evaluation of a digitized hexapod leg with integrated length measurement for a passive hexapod._ |
 |![Portrait](staff/Portrait_JulianH.jpg){style="width:68px"}  | Julian Heuer                | Master Thesis (2021): _Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study._ |
 |![Portrait](staff/empty.jpg)	  | Tobias Krail								| Master Thesis (2020): _Development of a thermographic-based investigation method for the characterization of actively heated Nitinol wires as an actuator in the cochlear implant electrode carrier._   |
@@ -66,6 +55,18 @@ title:Staff
 |![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis (2020): _Design and evaluation of a laser-based verification method for a customized instrument guide._ | 
 |![Portrait](staff/Portrait_ErikT.jpg){style="width:68px"}    | Erik Tzschoppe              | Bachelor Thesis (2021): _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
 | | |
+|![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Master Thesis |
+|![Portrait](staff/lena.jpg){style="width:68px"}              | Lena Geiger								  | Medical Doctorate Thesis  |
+|![Portrait](staff/empty.jpg)                                 | Patrik Haas                 | Student Research Assistant |
+|![Portrait](staff/empty.jpg)  	                              | Marie Heise                 | Student Assistant |
+|![Portrait](staff/Portrait_NiklasI.jpg){style="width:68px"}  | Niklas Ihmann               | Bachelor Thesis |
+|![Portrait](staff/Portrait_VeraL.jpg){style="width:68px"}    | Vera Lange                  | Student Research Assistant |
+|![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctorate Thesis |
+|![Portrait](staff/Portrait_MohamedN.jpg){style="width:68px"} | Mohamed Fourat Nabli        | Master Thesis |
+|![Portrait](staff/Portrait_MartinS.jpg){style="width:68px"}  | Martin Steven               | Student Research Assistant |
+|![Portrait](staff/empty.jpg)                                 | Dennis Tepfer               | Bachelor Thesis |
+|![Portrait](staff/empty.jpg)                                 | Konstantyn Vasylenko        | Student Research Project |
+|![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctorate Thesis |
 |	                              | Nina Aldag								| Student Research Project |
 |                          	    | Dr. med. Claas Baier					| Medical Doctorate Thesis |
 |                              	| Shari Barati								| Medical Doctorate Thesis |
