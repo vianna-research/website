@@ -24,7 +24,7 @@ title:Staff
 | ![Portrait](staff/empty.jpg)   | Dennis Christopher Micheal       | Master Thesis  |
 
 
-| | Former Staff  ||
+|  | Former Staff  ||
 |:--|:------------------|:--------------------------------------|               				
 | ![Portrait](staff/empty.jpg) | Dipl.-Ing. (FH) Franziska Eckhardt     |  now: [LinkedIn-Profil](https://www.linkedin.com/in/franziska-eckardt/) |
 | ![Portrait](staff/Portrait_TimE.jpg){style="width:70px"} 	| M. Sc. Tim Ehmann     |  |
