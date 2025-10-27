@@ -15,13 +15,10 @@ title:Staff
 |![Portrait](staff/empty.jpg) | M. Sc. Subiran Shrestha <br> Research Engineer | Shrestha.Subiran@mh-hannover.de <br> +49(0)511/532-7263 |
 |![Portrait](staff/empty.jpg) | M. Sc. Anna Strube <br> Research Engineer | strube.anna@mh-hannover.de <br> +49(0)511/532-7263  |
 |![Portrait](staff/empty.jpg) | M. Sc. Jinhan Zhu <br> Research Engineer | zhu.jinhan@mh-hannover.de <br> +49(0)511/532-7263 |
-
-
 |   | ***Associated Staff*** ||	
 |![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
 |![Portrait](staff/Portrait_EralpA.jpg){style="width:68px"}  | Eralp Artukarslan <br> ENT Resident | Artukarslan.Eralp-Niyazi@mh-hannover.de |
-
 |  | ***Students*** ||  
 |![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Master Thesis |
 |![Portrait](staff/lena.jpg){style="width:68px"}              | Lena Geiger								  | Medical Doctorate Thesis  |
