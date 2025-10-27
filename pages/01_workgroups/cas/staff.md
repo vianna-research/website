@@ -11,10 +11,10 @@ title:Staff
 |![Portrait](staff/Portrait_ThomasR.jpg){style="width:68px"} | Dr.-Ing. Thomas S. Rau <br> Head of Research Group <br>         | rau.thomas@mh-hannover.de <br> +49(0)511/532-3025  |
 |![Portrait](staff/Portrait_GeorgB.jpg){style="width:68px"}  | M. Sc. Georg Böttcher-Rebmann <br> Research Engineer <br>  | boettcher.georg@mh-hannover.de <br> +49(0)511/532-7264 |
 |![Portrait](staff/Portrait_JakobC.jpg){style="width:68px"}    | M. Sc. Jakob Cramer <br> Research Engineer <br> | cramer.jakob@mh-hannover.de <br> +49(0)511/532-7264 |
-|![Portrait](staff/empty.jpg) | M. Sc. Anais Millan | MillanCerezo.Anais@mh-hannover.de <br> +49(0)511/532-7263 |
-|![Portrait](staff/empty.jpg) | M. Sc. Subiran Shrestha | Shrestha.Subiran@mh-hannover.de <br> +49(0)511/532-7263 |
-|![Portrait](staff/empty.jpg) | M. Sc. Anna Strube | strube.anna@mh-hannover.de <br> +49(0)511/532-7263  |
-|![Portrait](staff/empty.jpg) | M. Sc. Jinhan Zhu | zhu.jinhan@mh-hannover.de <br> +49(0)511/532-7263 |
+|![Portrait](staff/empty.jpg) | M. Sc. Anais Millan <br> Research Engineer | MillanCerezo.Anais@mh-hannover.de <br> +49(0)511/532-7263 |
+|![Portrait](staff/empty.jpg) | M. Sc. Subiran Shrestha <br> Research Engineer | Shrestha.Subiran@mh-hannover.de <br> +49(0)511/532-7263 |
+|![Portrait](staff/empty.jpg) | M. Sc. Anna Strube <br> Research Engineer | strube.anna@mh-hannover.de <br> +49(0)511/532-7263  |
+|![Portrait](staff/empty.jpg) | M. Sc. Jinhan Zhu <br> Research Engineer | zhu.jinhan@mh-hannover.de <br> +49(0)511/532-7263 |
 
 
 |   | ***Associated Staff*** ||	
