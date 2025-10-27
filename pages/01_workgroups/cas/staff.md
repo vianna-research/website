@@ -42,55 +42,54 @@ title:Staff
 
 | Alumni |  ||
 |:--|:------------------|:--------------------------------------|
+|	![Portrait](staff/empty.jpg)                                | Nina Aldag								| Student Research Project |
+| ![Portrait](staff/alexbecker.jpg)                           | Alexander Becker 				|  Master Thesis (2017): _Load-adapted, FE-supported optimization of a support system for micro-stereotaxic systems of the lateral skull base._ |
 |![Portrait](staff/Portrait_CarolinB.jpg){style="width:68px"} | Carolin Betram              | Master Thesis (2021): _Experimental evaluation of trajectory-dependent insertion force variations in cochlear implants._ |
 |![Portrait](staff/tobias.png) 	                               | Tobias Blum 								| Student Research Assistant <br> & Bachelor Thesis (2018): _Development and experimental evaluation of a drilling depth control for the RoboJig system._ <br> & Student Research Project (2020): _Investigation of the benefit of a digital display for the strut length setting of a manually operated hexapod._ |
+|![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis (2018): _Development of a hydraulically actuated insertion tool for cochlear implant electrodes._    |
 |![Portrait](staff/Portrait_LeonB.jpg){style="width:68px"}  | Leon Budde                  | Master Thesis (2020): _Development of a handheld, force-sensing insertion tool with integrated positioning sensor._|
+|![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Student Assistent Assistant & <br> Bachelor Thesis (2018): _Development of an insertion test bench for cochlear implants with image-guided, stereotactic positioning of the specimens._  |
+|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Student Research Project (2021): _Set-up and testing of electrode carrier functional models with shape memory effect._ <br> Master Thesis (2020): _Characterization of the electrical current heating process of CI electrode carriers using infrared thermography._ |
 |![Portrait](staff/Portrait_ThorbenE.jpg){style="width:68px"} | Thorben Engel               | Master Thesis (2020): _Development of minimally invasive, micro-stereotactic strategy for implantation of active middle ear implants._ |
 |![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Student Research Project (2021): _Improvement of measurement uncertainties in a force sensitive insertion tool to provide force feedback during CI surgery._ <br> Master Thesis (2022): _Development of a method for intraoperative visualization of insertion forces._|
-|![Portrait](staff/lena.jpg){style="width:68px"}              | Dr. med. h.c. Lena Geiger			  | Medical Doctorate Thesis (2023): _Drilling accuracy evaluation of a mouldable surgical targeting system for minimally invasive access to anatomic targets in the temporal bone._  |
-|![Portrait](staff/empty.jpg)                                 | Patrik Haas                 | Student Research Assistant <br> & Bachelor Thesis (2021): _Design and evaluation of a digitized hexapod leg with integrated length measurement for a passive hexapod._ |
-|![Portrait](staff/empty.jpg)  	                              | Marie Heise                 | Student Assistant |
+|![Portrait](staff/lena.jpg){style="width:68px"}              | Dr. med. h.c. Lena Geiger			  | Medical Doctoral Thesis (2023): _Drilling accuracy evaluation of a mouldable surgical targeting system for minimally invasive access to anatomic targets in the temporal bone._  |
+| ![Portrait](staff/empty.jpg)                                 | Patrik Haas                 | Student Research Assistant <br> & Bachelor Thesis (2021): _Design and evaluation of a digitized hexapod leg with integrated length measurement for a passive hexapod._ |
+|![Portrait](staff/empty.jpg)  	                              | Marie Heise                 | Student Research Assistant |
 |![Portrait](staff/Portrait_JulianH.jpg){style="width:68px"}  | Julian Heuer                | Master Thesis (2021): _Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study._ |
 |![Portrait](staff/Portrait_NiklasI.jpg){style="width:68px"}  | Niklas Ihmann               | Bachelor Thesis (2022): _Characterization of the hydraulic actuator behavior of the Cochlea Hydrodrive._ |
 |![Portrait](staff/empty.jpg)	  | Tobias Krail								| Master Thesis (2020): _Development of a thermographic-based investigation method for the characterization of actively heated Nitinol wires as an actuator in the cochlear implant electrode carrier._   |
+|![Portrait](staff/Portrait_VeraL.jpg){style="width:68px"}    | Vera Lange                  | Student Research Assistant |
 |![Portrait](staff/Portrait_JanM.jpg){style="width:68px"}	    | Jan Mairose								  | Student Research Assistant	<br> & Master Thesis (2021): _Resistance heating of thin-wire NiTi actuators by means of electrically conductive coating._ |
-|![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctorate Thesis (2024): _Pull-Out Strength of Orthodontic Miniscrews in the Temporal Bone._ |
+|![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctoral Thesis (2024): _Pull-Out Strength of Orthodontic Miniscrews in the Temporal Bone._ |
+|![Portrait](staff/Portrait_MohamedN.jpg){style="width:68px"} | Mohamed Fourat Nabli        | Master Thesis (2022): _Investigation of the influence of the density distribution along a drilling trajectory on the drilling forces in the mastoid._ |
 |![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis (2019):  		|
 |![Portrait](staff/Portrait_TimoS.jpg){style="width:68px"}   | Timo Stauß                  | Bachelor Thesis (2020): _Design and evaluation of a laser-based verification method for a customized instrument guide._ | 
-|![Portrait](staff/Portrait_ErikT.jpg){style="width:68px"}    | Erik Tzschoppe              | Bachelor Thesis (2021): _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
-|![Portrait](staff/Portrait_VeraL.jpg){style="width:68px"}    | Vera Lange                  | Student Research Assistant |
-| | |
-
-
-|![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctorate Thesis |
-|![Portrait](staff/Portrait_MohamedN.jpg){style="width:68px"} | Mohamed Fourat Nabli        | Master Thesis |
 |![Portrait](staff/Portrait_MartinS.jpg){style="width:68px"}  | Martin Steven               | Student Research Assistant |
-|![Portrait](staff/empty.jpg)                                 | Dennis Tepfer               | Bachelor Thesis |
+|![Portrait](staff/empty.jpg)                                 | Dennis Tepfer               | Bachelor Thesis (2022): _Development of an automated dip coating process for coating of electrode arrays with alginate._ |
+|![Portrait](staff/Portrait_ErikT.jpg){style="width:68px"}    | Erik Tzschoppe              | Bachelor Thesis (2021): _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
 |![Portrait](staff/empty.jpg)                                 | Konstantyn Vasylenko        | Student Research Project |
-|![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctorate Thesis |
-|	                              | Nina Aldag								| Student Research Project |
-|                          	    | Dr. med. Claas Baier					| Medical Doctorate Thesis |
-|                              	| Shari Barati								| Medical Doctorate Thesis |
-|![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Student Assistant  |
-|![Portrait](staff/alexbecker.jpg)| Alexander Becker 				|  Master Thesis|
-|![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis    |
-|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| Tim Ehmann                  | Master Thesis |
+|![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctoral Thesis (2023): _Experimental evaluation of a bone cement-based mini-stereotaxic system for creating direct access to the cochlea._ |
+| | |
+|                          	    | Dr. med. Claas Baier					| Medical Doctoral Thesis |
+|                              	| Shari Barati								| Medical Doctoral Thesis |
+
+
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project |
-|![Portrait](staff/till.jpg) 	    | Till Gerking								| Medical Doctorate Thesis|
+|![Portrait](staff/till.jpg) 	    | Till Gerking								| Medical Doctoral Thesis|
 |![Portrait](staff/Portrait_ClemensG.jpg){style="width:68px"} 	| Clemens Griemsmann					| Student Assistant |
-|                              	  | Mehran Heidel 							| Medical Doctorate Thesis	|
+|                              	  | Mehran Heidel 							| Medical Doctoral Thesis	|
 |![Portrait](staff/max.png)		  | Maximilian Henke						| Master Thesis	|
 |![Portrait](staff/christina.jpg)| Christina Keller				    		| Student Research Project |
-|![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| Medical Doctorate Thesis	|
-|![Portrait](staff/evelynp.png)   | Evelyn Pleger							   	| Medical Doctorate  Thesis|
-|![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctorate  Thesis	|
+|![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| Medical Doctoral Thesis	|
+|![Portrait](staff/evelynp.png)   | Evelyn Pleger							   	| Medical Doctoral  Thesis|
+|![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral  Thesis	|
 |![Portrait](staff/katharina.jpg) | Katharina Rülander				| Internship, Master Thesis							 |
 |![Portrait](staff/henrik.png)	  | Henrik Schädlich				 	| Student Assistant, Master Thesis   |
 |                             	  | Veronika Shmatko						| Bachelor Thesis, 	|
-|                             	  | Katharina Spichal							| Medical Doctorate Thesis	|
+|                             	  | Katharina Spichal							| Medical Doctoral Thesis	|
 |![Portrait](staff/lea.png)		    | Lea Uhlenbusch 							| Bachelor Thesis |
-|                               	| Jan-Niklas Wellers						| Medical Doctorate Thesis |
+|                               	| Jan-Niklas Wellers						| Medical Doctoral Thesis |
 |![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project  |
-|                             	  | Dr. med. Waldemar Würfel				| Medical Doctorate  Thesis	|
+|                             	  | Dr. med. Waldemar Würfel				| Medical Doctoral  Thesis	|
 
 
