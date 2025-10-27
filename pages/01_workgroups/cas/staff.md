@@ -36,20 +36,20 @@ title:Staff
 
 | | Former Staff  ||
 |:--|:------------------|:--------------------------------------|               				
-|                               | Dipl.-Ing. (FH) Franziska Eckhardt     |  [LinkedIn-Profil](https://www.linkedin.com/in/franziska-eckardt/) |
+|                               | Dipl.-Ing. (FH) Franziska Eckhardt     |  now: [LinkedIn-Profil](https://www.linkedin.com/in/franziska-eckardt/) |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| M. Sc. Tim Ehmann     |  |
-|![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | [LinkedIn-Profil](https://www.linkedin.com/in/lenka-harbach-390b31b2/) |
-|                             	| Dr.-Ing Silke Hügl                			  | [LinkedIn-Profil](https://www.linkedin.com/in/silke-huegl/) 	|
-|![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             | [LinkedIn-Profil](https://www.linkedin.com/in/julia-kilian-75445010a/) |
+|![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | now: [LinkedIn-Profil](https://www.linkedin.com/in/lenka-harbach-390b31b2/) |
+|                             	| Dr.-Ing Silke Hügl                			  | now: [LinkedIn-Profil](https://www.linkedin.com/in/silke-huegl/) 	|
+|![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             | now:  [LinkedIn-Profil](https://www.linkedin.com/in/julia-kilian-75445010a/) |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH]([http://www.otojig.com/](https://otojig.com/))  |
 |![Portrait](staff/Jakob.jpg)   | Dr. Dipl.-Ing. Jakob Lexow                  | [now: [LinkedIn-Profil](https://www.linkedin.com/in/jakob-lexow-9285b6158/)         |
 |                               | M. Sc. Priyant Mane                    |  |
 |![Portrait](staff/Portrait_ViktorS.jpg){style="width:68px"}   | M. Sc. Viktor Schell  | now: [OtoJig GmbH](https://otojig.com/) |
-|![Portrait](staff/daniel.png)  | PD Dr.-Ing. Daniel Schurzig                | [LinkedIn-Profil](https://www.linkedin.com/in/danielschurzig/) |
+|![Portrait](staff/daniel.png)  | PD Dr.-Ing. Daniel Schurzig                | now: [LinkedIn-Profil](https://www.linkedin.com/in/danielschurzig/) |
 |![Portrait](staff/nuha.jpg) 	  | M. Sc. Nuha Suzaly			   			        |     	|
-|![Portrait](staff/maxt.png)    | Dr. Max Eike Timm         | [LinkedIn-Profil](https://www.linkedin.com/in/max-timm-1544b8333/) |
-|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | [now: [LinkedIn-Profil](https://www.linkedin.com/in/dr-wouter-j-van-drunen-117ab8205/) |
-|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD 	| Link](https://earmedicalgroup.com/doctors/dr-zuniga/) |
+|![Portrait](staff/maxt.png)    | Dr. Max Eike Timm         | now: [LinkedIn-Profil](https://www.linkedin.com/in/max-timm-1544b8333/) |
+|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | now: [LinkedIn-Profil](https://www.linkedin.com/in/dr-wouter-j-van-drunen-117ab8205/) |
+|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD 	| now: [Link](https://earmedicalgroup.com/doctors/dr-zuniga/) |
 
 | Alumni |  ||
 |:--|:------------------|:--------------------------------------|
