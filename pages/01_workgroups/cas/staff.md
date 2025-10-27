@@ -41,20 +41,20 @@ title:Staff
 
 | | Former Staff  ||
 |:--|:------------------|:--------------------------------------|               				
-|                               | Dipl.-Ing. (FH) Franziska Eckhardt     |  |
-|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| M. Sc. Tim Ehmann <br> Research Engineer                 |  |
+|                               | Dipl.-Ing. (FH) Franziska Eckhardt     |  now: [MED-EL Deutschland](www.medel.com) |
+|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| M. Sc. Tim Ehmann     |  |
 |![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | now: [Bertrandt AG](https://www.bertrandt.com/) |
-|                             	| M. Sc. Silke Hügl                			  | now: [Vector Informatik GmbH](https://www.vector.com/de/de/) 	|
+|                             	| Dr.-Ing Silke Hügl                			  | now: [Vector Informatik GmbH](https://www.vector.com/de/de/) 	|
 |![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             |  |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH]([http://www.otojig.com/](https://otojig.com/))  |
-|![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow                  | now: [Part Time Scientists (Berlin)](https://ptscientists.com/)         |
+|![Portrait](staff/Jakob.jpg)   | Dr. Dipl.-Ing. Jakob Lexow                  | now: [Part Time Scientists (Berlin)](https://ptscientists.com/)         |
 |                               | M. Sc. Priyant Mane                    |  |
-|![Portrait](staff/Portrait_ViktorS.jpg){style="width:68px"}   | M. Sc. Viktor Schell <br> Research Engineer <br> | now: [OtoJig GmbH](https://otojig.com/) |
-|![Portrait](staff/daniel.png)  | Dr.-Ing. Daniel Schurzig                | now: [MED-EL Deutschland (Hannover)](www.medel.com) |
+|![Portrait](staff/Portrait_ViktorS.jpg){style="width:68px"}   | M. Sc. Viktor Schell  | now: [OtoJig GmbH](https://otojig.com/) |
+|![Portrait](staff/daniel.png)  | PD Dr.-Ing. Daniel Schurzig                | now: [MED-EL Deutschland](www.medel.com) |
 |![Portrait](staff/nuha.jpg) 	  | M. Sc. Nuha Suzaly			   			        |     	|
-|![Portrait](staff/maxt.png)    | Max Eike Timm  <br> ENT Resident        | ENT Department at MHH |
+|![Portrait](staff/maxt.png)    | Dr. Max Eike Timm         | ENT Department at MHH |
 |![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | now: [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
-|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD <br>	Otolaryngology-Head and Neck Surgeon 		|
+|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD 	|
 
 | Alumni |  ||
 |:--|:------------------|:--------------------------------------|
