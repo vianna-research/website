@@ -41,7 +41,7 @@ title:Staff
 |:--|:------------------|:--------------------------------------|               				
 |                               | Dipl.-Ing. (FH) Franziska Eckhardt     |  now: [MED-EL Deutschland](www.medel.com) |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| M. Sc. Tim Ehmann     |  |
-|![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | now: [Bertrandt AG](https://www.bertrandt.com/) |
+|![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | now: [Elli](https://www.elli.eco/) |
 |                             	| Dr.-Ing Silke Hügl                			  | now: [Vector Informatik GmbH](https://www.vector.com/de/de/) 	|
 |![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             |  |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH]([http://www.otojig.com/](https://otojig.com/))  |
