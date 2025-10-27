@@ -75,7 +75,7 @@ title:Staff
 |![Portrait](staff/Portrait_TimoS.jpg){style="width:70px"}   | Timo Stauß                  | Bachelor Thesis (2020): _Design and evaluation of a laser-based verification method for a customized instrument guide._ | 
 |![Portrait](staff/Portrait_MartinS.jpg){style="width:70px"}  | Martin Steven               | Student Research Assistant |
 |![Portrait](staff/empty.jpg)                                 | Dennis Tepfer               | Bachelor Thesis (2022): _Development of an automated dip coating process for coating of electrode arrays with alginate._ |
-|![Portrait](staff/Portrait_ErikT.jpg){style="width:7068px"}    | Erik Tzschoppe              | Bachelor Thesis (2021): _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
+|![Portrait](staff/Portrait_ErikT.jpg){style="width:70px"}    | Erik Tzschoppe              | Bachelor Thesis (2021): _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
 |![Portrait](staff/lea.png)		    | Lea Uhlenbusch 							| Bachelor Thesis (2017): _Investigation of accuracy and error sources of a surgical template made of bone cement._ |
 |![Portrait](staff/empty.jpg)                                 | Konstantyn Vasylenko        | Student Research Project (2022): Design of a Kinematic Structure for Precision Adjustment in the Manufacturing of Individual Drilling Jigs |
 |![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctoral Thesis (2023): _Experimental evaluation of a bone cement-based mini-stereotaxic system for creating direct access to the cochlea._ |
