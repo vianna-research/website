@@ -9,15 +9,21 @@ title:Staff
 |:--|:-------------------------------------------------|:--------------------------------------|
 |      | ***Research Team*** ||
 |![Portrait](staff/Portrait_ThomasR.jpg){style="width:68px"} | Dr.-Ing. Thomas S. Rau <br> Head of Research Group <br>         | rau.thomas@mh-hannover.de <br> +49(0)511/532-3025  |
-|![Portrait](staff/Portrait_EralpA.jpg){style="width:68px"}  | Eralp Artukarslan <br> ENT Resident | Artukarslan.Eralp-Niyazi@mh-hannover.de |
+
 |![Portrait](staff/Portrait_GeorgB.jpg){style="width:68px"}  | M. Sc. Georg Böttcher-Rebmann <br> Research Engineer <br>  | boettcher.georg@mh-hannover.de <br> +49(0)511/532-7264 |
 |![Portrait](staff/Portrait_JakobC.jpg){style="width:68px"}    | M. Sc. Jakob Cramer <br> Research Engineer <br> | cramer.jakob@mh-hannover.de <br> +49(0)511/532-7264 |
-|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| M. Sc. Tim Ehmann <br> Research Engineer                 | ehmann.tim@mh-hannover.de <br> +49(0)511/532-7264 |
-|![Portrait](staff/Portrait_ViktorS.jpg){style="width:68px"}   | M. Sc. Viktor Schell <br> Research Engineer <br> | schell.viktor@mh-hannover.de <br> +49(0)511/532-7263 |
+|![Portrait](staff/empty.jpg) | M. Sc. Anais Millan |  |
+|![Portrait](staff/empty.jpg) | M. Sc. Anna Strube |  |
+|![Portrait](staff/empty.jpg) | M. Sc. Subiran Shrestha |  |
+|![Portrait](staff/empty.jpg) | M. Sc. Jinhan Zhu |  |
+
+
 |   | ***Associated Staff*** ||	
 |![Portrait](staff/Omid.jpg) | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/rolf.jpg) | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
-|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD <br>	Otolaryngology-Head and Neck Surgeon 		| zunigamanrique.maria@mh-hannover.de	  |
+ zunigamanrique.maria@mh-hannover.de	  |
+|![Portrait](staff/Portrait_EralpA.jpg){style="width:68px"}  | Eralp Artukarslan <br> ENT Resident | Artukarslan.Eralp-Niyazi@mh-hannover.de |
+
 |  | ***Students*** ||  
 |![Portrait](staff/Portrait_KevinF.jpg){style="width:68px"}   | Kevin Fandio                | Master Thesis |
 |![Portrait](staff/lena.jpg){style="width:68px"}              | Lena Geiger								  | Medical Doctorate Thesis  |
@@ -36,16 +42,19 @@ title:Staff
 | | Former Staff  ||
 |:--|:------------------|:--------------------------------------|               				
 |                               | Dipl.-Ing. (FH) Franziska Eckhardt     |  |
+|![Portrait](staff/Portrait_TimE.jpg){style="width:68px"} 	| M. Sc. Tim Ehmann <br> Research Engineer                 |  |
 |![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | now: [Bertrandt AG](https://www.bertrandt.com/) |
 |                             	| M. Sc. Silke Hügl                			  | now: [Vector Informatik GmbH](https://www.vector.com/de/de/) 	|
 |![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             |  |
-|![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH (Hannover)](http://www.otojig.com/)  |
+|![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH]([http://www.otojig.com/](https://otojig.com/))  |
 |![Portrait](staff/Jakob.jpg)   | Dipl.-Ing. Jakob Lexow                  | now: [Part Time Scientists (Berlin)](https://ptscientists.com/)         |
 |                               | M. Sc. Priyant Mane                    |  |
+|![Portrait](staff/Portrait_ViktorS.jpg){style="width:68px"}   | M. Sc. Viktor Schell <br> Research Engineer <br> | now: [OtoJig GmbH](https://otojig.com/) |
 |![Portrait](staff/daniel.png)  | Dr.-Ing. Daniel Schurzig                | now: [MED-EL Deutschland (Hannover)](www.medel.com) |
 |![Portrait](staff/nuha.jpg) 	  | M. Sc. Nuha Suzaly			   			        |     	|
 |![Portrait](staff/maxt.png)    | Max Eike Timm  <br> ENT Resident        | ENT Department at MHH |
-|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | now: [Implandata Ophthalmic Products GmbH (Hannover)](http://www.implandata.com) |
+|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | now: [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
+|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD <br>	Otolaryngology-Head and Neck Surgeon 		|
 
 | Alumni |  ||
 |:--|:------------------|:--------------------------------------|
