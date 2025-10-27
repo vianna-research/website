@@ -14,30 +14,32 @@ title:Staff
 |![Portrait](staff/empty.jpg) | M. Sc. Anais Millan <br> Research Engineer | MillanCerezo.Anais@mh-hannover.de <br> +49(0)511/532-7263 |
 |![Portrait](staff/empty.jpg) | M. Sc. Subiran Shrestha <br> Research Engineer | Shrestha.Subiran@mh-hannover.de <br> +49(0)511/532-7263 |
 |![Portrait](staff/empty.jpg) | M. Sc. Anna Strube <br> Research Engineer | strube.anna@mh-hannover.de <br> +49(0)511/532-7263  |
-|![Portrait](staff/empty.jpg) | M. Sc. Jinhan Zhu <br> Research Engineer | zhu.jinhan@mh-hannover.de <br> +49(0)511/532-7263 |
+| ![Portrait](staff/empty.jpg) | M. Sc. Jinhan Zhu <br> Research Engineer | zhu.jinhan@mh-hannover.de <br> +49(0)511/532-7263 |
 |   | ***Associated Staff*** ||	
 |![Portrait](staff/Omid.jpg){style="width:70px"} | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/rolf.jpg){style="width:70px"} | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
 |![Portrait](staff/Portrait_EralpA.jpg){style="width:70px"}  | Eralp Artukarslan <br> ENT Resident | Artukarslan.Eralp-Niyazi@mh-hannover.de |
 |  | ***Students*** ||  
+| ![Portrait](staff/empty.jpg)   | Lucas Mey       | Master Thesis  |
+| ![Portrait](staff/empty.jpg)   | Dennis Christopher Micheal       | Master Thesis  |
 
 
 | | Former Staff  ||
 |:--|:------------------|:--------------------------------------|               				
-|  ![Portrait](staff/empty.jpg) | Dipl.-Ing. (FH) Franziska Eckhardt     |  now: [LinkedIn-Profil](https://www.linkedin.com/in/franziska-eckardt/) |
-|![Portrait](staff/Portrait_TimE.jpg){style="width:70px"} 	| M. Sc. Tim Ehmann     |  |
-|![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | now: [LinkedIn-Profil](https://www.linkedin.com/in/lenka-harbach-390b31b2/) |
+| ![Portrait](staff/empty.jpg) | Dipl.-Ing. (FH) Franziska Eckhardt     |  now: [LinkedIn-Profil](https://www.linkedin.com/in/franziska-eckardt/) |
+| ![Portrait](staff/Portrait_TimE.jpg){style="width:70px"} 	| M. Sc. Tim Ehmann     |  |
+| ![Portrait](staff/lenka.png)   | Dipl.-Ing. Lenka Harbach                | now: [LinkedIn-Profil](https://www.linkedin.com/in/lenka-harbach-390b31b2/) |
 | ![Portrait](staff/empty.jpg)	| Dr.-Ing Silke Hügl                			  | now: [LinkedIn-Profil](https://www.linkedin.com/in/silke-huegl/) 	|
-|![Portrait](staff/Portrait_JuliaK.jpg){style="width:70px"}  | M. Sc. Julia Kilian             | now:  [LinkedIn-Profil](https://www.linkedin.com/in/julia-kilian-75445010a/) |
-|![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH]([http://www.otojig.com/](https://otojig.com/))  |
-|![Portrait](staff/Jakob.jpg)   | Dr. Dipl.-Ing. Jakob Lexow                  | now: [LinkedIn-Profil](https://www.linkedin.com/in/jakob-lexow-9285b6158/)         |
+| ![Portrait](staff/Portrait_JuliaK.jpg){style="width:70px"}  | M. Sc. Julia Kilian             | now:  [LinkedIn-Profil](https://www.linkedin.com/in/julia-kilian-75445010a/) |
+| ![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH]([http://www.otojig.com/](https://otojig.com/))  |
+| ![Portrait](staff/Jakob.jpg)   | Dr. Dipl.-Ing. Jakob Lexow                  | now: [LinkedIn-Profil](https://www.linkedin.com/in/jakob-lexow-9285b6158/)         |
 | ![Portrait](staff/empty.jpg)  | M. Sc. Priyant Mane                    |  |
-|![Portrait](staff/Portrait_ViktorS.jpg){style="width:70px"}   | M. Sc. Viktor Schell  | now: [OtoJig GmbH](https://otojig.com/) |
-|![Portrait](staff/daniel.png)  | PD Dr.-Ing. Daniel Schurzig                | now: [LinkedIn-Profil](https://www.linkedin.com/in/danielschurzig/) |
-|![Portrait](staff/nuha.jpg) 	  | M. Sc. Nuha Suzaly			   			        |     	|
-|![Portrait](staff/maxt.png)    | Dr. Max Eike Timm         | now: [LinkedIn-Profil](https://www.linkedin.com/in/max-timm-1544b8333/) |
-|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | now: [LinkedIn-Profil](https://www.linkedin.com/in/dr-wouter-j-van-drunen-117ab8205/) |
-|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:70px"}  | M. Geraldine Zuniga, MD 	| now: [Link](https://earmedicalgroup.com/doctors/dr-zuniga/) |
+| ![Portrait](staff/Portrait_ViktorS.jpg){style="width:70px"}   | M. Sc. Viktor Schell  | now: [OtoJig GmbH](https://otojig.com/) |
+| ![Portrait](staff/daniel.png)  | PD Dr.-Ing. Daniel Schurzig                | now: [LinkedIn-Profil](https://www.linkedin.com/in/danielschurzig/) |
+| ![Portrait](staff/nuha.jpg) 	  | M. Sc. Nuha Suzaly			   			        |     	|
+| ![Portrait](staff/maxt.png)    | Dr. Max Eike Timm         | now: [LinkedIn-Profil](https://www.linkedin.com/in/max-timm-1544b8333/) |
+| ![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | now: [LinkedIn-Profil](https://www.linkedin.com/in/dr-wouter-j-van-drunen-117ab8205/) |
+| ![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:70px"}  | M. Geraldine Zuniga, MD 	| now: [Link](https://earmedicalgroup.com/doctors/dr-zuniga/) |
 
 | Alumni |  ||
 |:--|:------------------|:--------------------------------------|
@@ -46,6 +48,7 @@ title:Staff
 |![Portrait](staff/Portrait_CarolinB.jpg){style="width:70px"} | Carolin Betram              | Master Thesis (2021): _Experimental evaluation of trajectory-dependent insertion force variations in cochlear implants._ |
 |![Portrait](staff/tobias.png) 	                               | Tobias Blum 								| Student Research Assistant & <br> Bachelor Thesis (2018): _Development and experimental evaluation of a drilling depth control for the RoboJig system._ & <br> Student Research Project (2020): _Investigation of the benefit of a digital display for the strut length setting of a manually operated hexapod._ |
 |![Portrait](staff/deniseb.png)   | Denise Blume 							| Bachelor Thesis (2018): _Development of a hydraulically actuated insertion tool for cochlear implant electrodes._    |
+| ![Portrait](staff/empty.jpg)     | Nathalie Bochynek       | Master Thesis (2025): _Development and experimental evaluation of a system for acoustic  insertion force monitoring in cochlear implant surgery._ |
 |![Portrait](staff/Portrait_LeonB.jpg){style="width:70px"}  | Leon Budde                  | Master Thesis (2020): _Development of a handheld, force-sensing insertion tool with integrated positioning sensor._|
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Student Assistent Assistant & <br> Bachelor Thesis (2018): _Development of an insertion test bench for cochlear implants with image-guided, stereotactic positioning of the specimens._  |
 |![Portrait](staff/Portrait_TimE.jpg){style="width:70px"} 	| Tim Ehmann                  | Student Research Project (2021): _Set-up and testing of electrode carrier functional models with shape memory effect._ <br> Master Thesis (2020): _Characterization of the electrical current heating process of CI electrode carriers using infrared thermography._ |
@@ -60,12 +63,14 @@ title:Staff
 |![Portrait](staff/Portrait_JulianH.jpg){style="width:70px"}  | Julian Heuer                | Master Thesis (2021): _Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study._ |
 |![Portrait](staff/Portrait_NiklasI.jpg){style="width:70px"}  | Niklas Ihmann               | Bachelor Thesis (2022): _Characterization of the hydraulic actuator behavior of the Cochlea Hydrodrive._ |
 |![Portrait](staff/christina.jpg) | Christina Keller				    		| Student Research Project (2019): _Characterization of a measurement method for determining the thermomechanical properties of nitinol wires as actuator elements for cochlear implants._ |
-|![Portrait](staff/empty.jpg)	  | Tobias Krail								| Master Thesis (2020): _Development of a thermographic-based investigation method for the characterization of actively heated Nitinol wires as an actuator in the cochlear implant electrode carrier._   |
-|![Portrait](staff/Portrait_VeraL.jpg){style="width:70px"}    | Vera Lange                  | Student Research Assistant |
-|![Portrait](staff/Portrait_JanM.jpg){style="width:70px"}	    | Jan Mairose								  | Student Research Assistant & <br> Master Thesis (2021): _Resistance heating of thin-wire NiTi actuators by means of electrically conductive coating._ |
-|![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctoral Thesis (2024): _Pull-Out Strength of Orthodontic Miniscrews in the Temporal Bone._ |
-|![Portrait](staff/Portrait_MohamedN.jpg){style="width:70px"} | Mohamed Fourat Nabli        | Master Thesis (2022): _Investigation of the influence of the density distribution along a drilling trajectory on the drilling forces in the mastoid._ |
+| ![Portrait](staff/empty.jpg)	  | Tobias Krail								| Master Thesis (2020): _Development of a thermographic-based investigation method for the characterization of actively heated Nitinol wires as an actuator in the cochlear implant electrode carrier._   |
+| ![Portrait](staff/Portrait_VeraL.jpg){style="width:70px"}    | Vera Lange                  | Student Research Assistant |
+| ![Portrait](staff/Portrait_JanM.jpg){style="width:70px"}	    | Jan Mairose								  | Student Research Assistant & <br> Master Thesis (2021): _Resistance heating of thin-wire NiTi actuators by means of electrically conductive coating._ |
+| ![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctoral Thesis (2024): _Pull-Out Strength of Orthodontic Miniscrews in the Temporal Bone._ |
+| ![Portrait](staff/Portrait_MohamedN.jpg){style="width:70px"} | Mohamed Fourat Nabli        | Master Thesis (2022): _Investigation of the influence of the density distribution along a drilling trajectory on the drilling forces in the mastoid._ |
+|  ![Portrait](staff/empty.jpg)   | Philip Reinke              | Student Research Assistant |
 |![Portrait](staff/katharina.jpg) | Katharina Rülander				| Master Thesis (2017): _Conception, creation, construction and characterization of a 1:1 cochlear model for the validation of novel implants for mechanical stimulation of the cochlea._							 |
+| ![Portrait](staff/empty.jpg)      | Lucy Siegl              | Intership   |
 |![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis (2019):  		|
 |![Portrait](staff/Portrait_TimoS.jpg){style="width:70px"}   | Timo Stauß                  | Bachelor Thesis (2020): _Design and evaluation of a laser-based verification method for a customized instrument guide._ | 
 |![Portrait](staff/Portrait_MartinS.jpg){style="width:70px"}  | Martin Steven               | Student Research Assistant |
@@ -75,6 +80,7 @@ title:Staff
 |![Portrait](staff/empty.jpg)                                 | Konstantyn Vasylenko        | Student Research Project |
 |![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctoral Thesis (2023): _Experimental evaluation of a bone cement-based mini-stereotaxic system for creating direct access to the cochlea._ |
 |![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project  |
+| ![Portrait](staff/empty.jpg)   | Nacer Zayani            | Student Research Assistant |
 | | |
 |                          	    | Dr. med. Claas Baier					| Medical Doctoral Thesis |
 |                              	| Shari Barati								| Medical Doctoral Thesis |
