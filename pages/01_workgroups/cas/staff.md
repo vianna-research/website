@@ -42,14 +42,14 @@ title:Staff
 |                             	| Dr.-Ing Silke Hügl                			  | [LinkedIn-Profil](https://www.linkedin.com/in/silke-huegl/) 	|
 |![Portrait](staff/Portrait_JuliaK.jpg){style="width:68px"}  | M. Sc. Julia Kilian             | [LinkedIn-Profil](https://www.linkedin.com/in/julia-kilian-75445010a/) |
 |![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH]([http://www.otojig.com/](https://otojig.com/))  |
-|![Portrait](staff/Jakob.jpg)   | Dr. Dipl.-Ing. Jakob Lexow                  | now: [Part Time Scientists (Berlin)](https://ptscientists.com/)         |
+|![Portrait](staff/Jakob.jpg)   | Dr. Dipl.-Ing. Jakob Lexow                  | [now: [LinkedIn-Profil](https://www.linkedin.com/in/jakob-lexow-9285b6158/)         |
 |                               | M. Sc. Priyant Mane                    |  |
 |![Portrait](staff/Portrait_ViktorS.jpg){style="width:68px"}   | M. Sc. Viktor Schell  | now: [OtoJig GmbH](https://otojig.com/) |
-|![Portrait](staff/daniel.png)  | PD Dr.-Ing. Daniel Schurzig                | now: [MED-EL Deutschland](www.medel.com) |
+|![Portrait](staff/daniel.png)  | PD Dr.-Ing. Daniel Schurzig                | [LinkedIn-Profil](https://www.linkedin.com/in/danielschurzig/) |
 |![Portrait](staff/nuha.jpg) 	  | M. Sc. Nuha Suzaly			   			        |     	|
-|![Portrait](staff/maxt.png)    | Dr. Max Eike Timm         | ENT Department at MHH |
-|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | now: [Implandata Ophthalmic Products GmbH](http://www.implandata.com) |
-|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD 	|
+|![Portrait](staff/maxt.png)    | Dr. Max Eike Timm         | [LinkedIn-Profil](https://www.linkedin.com/in/max-timm-1544b8333/) |
+|![Portrait](staff/Wouter.jpg)  | Dr. Wouter J. van Drunen                | [now: [LinkedIn-Profil](https://www.linkedin.com/in/dr-wouter-j-van-drunen-117ab8205/) |
+|![Portrait](staff/Portrait_GeraldineZ.jpg){style="width:68px"}  | M. Geraldine Zuniga, MD 	| Link](https://earmedicalgroup.com/doctors/dr-zuniga/) |
 
 | Alumni |  ||
 |:--|:------------------|:--------------------------------------|
