@@ -66,8 +66,8 @@ title:Staff
 | ![Portrait](staff/Portrait_JulianH.jpg){style="width:70px"}  | Julian Heuer                | Master Thesis (2021): _Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study._ |
 | ![Portrait](staff/Portrait_NiklasI.jpg){style="width:70px"}  | Niklas Ihmann               | Bachelor Thesis (2022): _Characterization of the hydraulic actuator behavior of the Cochlea Hydrodrive._ |
 | ![Portrait](staff/christina.jpg) | Christina Keller				    		| Student Research Project (2019): _Characterization of a measurement method for determining the thermomechanical properties of nitinol wires as actuator elements for cochlear implants._ |
-|                                 | Maximilian Keuter   | Student Research Assistant & <br> Master Thesis (2025): _Development and economic considerations of a wireless force-sensing insertion tool for CI surgeries._ |
-| ![Portrait](staff/empty.jpg)	  | Tobias Krail								| Master Thesis (2020): _Development of a thermographic-based investigation method for the characterization of actively heated Nitinol wires as an actuator in the cochlear implant electrode carrier._   |
+|  ![Portrait](staff/empty.jpg)                               | Maximilian Keuter   | Student Research Assistant & <br> Master Thesis (2025): _Development and economic considerations of a wireless force-sensing insertion tool for CI surgeries._ |
+| ![Portrait](staff/empty.jpg)	  | Tobias Krail								| Master Thesis (2020): _Development of a thermographic-based investigation method for the characterization of actively heated Nitinol wires as an actuator in the cochlear implant electrode carrier._|
 | ![Portrait](staff/Portrait_VeraL.jpg){style="width:70px"}    | Vera Lange                  | Student Research Assistant |
 | ![Portrait](staff/Portrait_JanM.jpg){style="width:70px"}	    | Jan Mairose								  | Student Research Assistant & <br> Master Thesis (2021): _Resistance heating of thin-wire NiTi actuators by means of electrically conductive coating._ |
 | ![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctoral Thesis (2024): _Pull-Out Strength of Orthodontic Miniscrews in the Temporal Bone._ |
@@ -90,14 +90,14 @@ title:Staff
 | ![Portrait](staff/empty.jpg)   | Nacer Zayani            | Student Research Assistant |
 | ![Portrait](staff/empty.jpg)                             | Jinhan Zhu           | Student Research Project (2023): _Influence of anatomical parameters on insertion forces in porcine cochlear specimens._ & <br> Master Thesis (2024): _Feasibility study on insertion force measurement in a hydraulic system using an integrated force sensor._
 | | |
-|                          	    | Dr. med. Claas Baier					| Medical Doctoral Thesis |
-|                              	| Shari Barati								| Medical Doctoral Thesis |
+| ![Portrait](staff/empty.jpg)    | Dr. med. Claas Baier					| Medical Doctoral Thesis |
+|  ![Portrait](staff/empty.jpg)   | Shari Barati								| Medical Doctoral Thesis |
 |![Portrait](staff/till.jpg) 	    | Till Gerking								| Medical Doctoral Thesis|
-|                              	  | Mehran Heidel 							| Medical Doctoral Thesis	|
+| ![Portrait](staff/empty.jpg)    | Mehran Heidel 							| Medical Doctoral Thesis	|
 |![Portrait](staff/Diana.jpg) 	  | Dr. med. Diana Kreul					| Medical Doctoral Thesis	|
 |![Portrait](staff/evelynp.png)   | Evelyn Pleger							   	| Medical Doctoral  Thesis|
 |![Portrait](staff/christoph.jpg) | Christoph Rostkowski					| Medical Doctoral  Thesis	|
-|                             	  | Katharina Spichal							| Medical Doctoral Thesis	|
-|                             	  | Dr. med. Waldemar Würfel				| Medical Doctoral  Thesis	|
+| ![Portrait](staff/empty.jpg)    | Katharina Spichal							| Medical Doctoral Thesis	|
+| ![Portrait](staff/empty.jpg)    | Dr. med. Waldemar Würfel				| Medical Doctoral  Thesis	|
 
 
