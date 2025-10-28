@@ -18,7 +18,7 @@ title:Staff
 |   | ***Associated Staff*** ||	
 |![Portrait](staff/Omid.jpg){style="width:70px"} | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 |![Portrait](staff/rolf.jpg){style="width:70px"} | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
-|![Portrait](staff/Portrait_EralpA.jpg){style="width:70px"}  | Eralp Artukarslan <br> ENT Resident | Artukarslan.Eralp-Niyazi@mh-hannover.de |
+| ![Portrait](staff/Portrait_EralpA.jpg){style="width:70px"}  | Eralp Artukarslan <br> ENT Resident | Artukarslan.Eralp-Niyazi@mh-hannover.de |
 |  | ***Students*** ||  
 | ![Portrait](staff/empty.jpg)   | Lucas Mey       | Master Thesis  |
 | ![Portrait](staff/empty.jpg)   | Dennis Christopher Michael       | Master Thesis  |
@@ -71,9 +71,9 @@ title:Staff
 | ![Portrait](staff/Portrait_JanM.jpg){style="width:70px"}	    | Jan Mairose								  | Student Research Assistant & <br> Master Thesis (2021): _Resistance heating of thin-wire NiTi actuators by means of electrically conductive coating._ |
 | ![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctoral Thesis (2024): _Pull-Out Strength of Orthodontic Miniscrews in the Temporal Bone._ |
 | ![Portrait](staff/Portrait_MohamedN.jpg){style="width:70px"} | Mohamed Fourat Nabli        | Master Thesis (2022): _Investigation of the influence of the density distribution along a drilling trajectory on the drilling forces in the mastoid._ |
-|  | Jannis Rasch |  | 
+| ![Portrait](staff/Portrait_JannisR.jpg){style="width:70px"}   | Jannis Rasch |  | 
 |  | Tobias Raschke | | 
-|  ![Portrait](staff/empty.jpg)   | Philip Reinke              | Student Research Assistant |
+|  ![Portrait](staff/Portrait_PhilipR.jpg){style="width:70px"}    | Philip Reinke              | Student Research Assistant |
 |![Portrait](staff/katharina.jpg) | Katharina Rülander				| Master Thesis (2017): _Conception, creation, construction and characterization of a 1:1 cochlear model for the validation of novel implants for mechanical stimulation of the cochlea._							 |
 | ![Portrait](staff/empty.jpg)      | Lucy Siegl              | Intership   |
 |![Portrait](staff/bjoern.jpg)	  | Björn Spoida							| Master Thesis (2019): _Development of a method for step-by-step micro-computed tomographic visualization of the insertion of the electrode array of a cochlear implant._ 		|
