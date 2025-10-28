@@ -8,7 +8,7 @@ title:Staff
 |  | Members of the Group ||
 |:--|:-------------------------------------------------|:--------------------------------------|
 |      | ***Research Team*** ||
-|![Portrait](staff/Portrait_ThomasR.jpg){style="width:70px"} | Dr.-Ing. Thomas S. Rau <br> Head of Research Group <br>         | rau.thomas@mh-hannover.de <br> +49(0)511/532-3025  |
+|![Portrait](staff/Portrait_ThomasR.jpg){style="width:70px"} | PD Dr.-Ing. Thomas S. Rau <br> Head of Research Group <br>         | rau.thomas@mh-hannover.de <br> +49(0)511/532-3025  |
 |![Portrait](staff/Portrait_GeorgB.jpg){style="width:70px"}  | M. Sc. Georg Böttcher-Rebmann <br> Research Engineer <br>  | boettcher.georg@mh-hannover.de <br> +49(0)511/532-7264 |
 |![Portrait](staff/Portrait_JakobC.jpg){style="width:70px"}    | M. Sc. Jakob Cramer <br> Research Engineer <br> | cramer.jakob@mh-hannover.de <br> +49(0)511/532-7264 |
 |![Portrait](staff/empty.jpg) | M. Sc. Anais Millan <br> Research Engineer | MillanCerezo.Anais@mh-hannover.de <br> +49(0)511/532-7263 |
@@ -34,6 +34,7 @@ title:Staff
 | ![Portrait](staff/Marcel.jpg)  | Dipl.-Ing. Marcel Kluge                 | now: [OtoJig GmbH]([http://www.otojig.com/](https://otojig.com/))  |
 | ![Portrait](staff/Jakob.jpg)   | Dr. Dipl.-Ing. Jakob Lexow                  | now: [LinkedIn-Profil](https://www.linkedin.com/in/jakob-lexow-9285b6158/)         |
 | ![Portrait](staff/empty.jpg)  | M. Sc. Priyant Mane                    |  |
+|  | Heera Puthussery                 | now: [LinkedIn-Profil](https://www.linkedin.com/in/heera-puthussery-mohan-651453114/)  | 
 | ![Portrait](staff/Portrait_ViktorS.jpg){style="width:70px"}   | M. Sc. Viktor Schell  | now: [OtoJig GmbH](https://otojig.com/) |
 | ![Portrait](staff/daniel.png)  | PD Dr.-Ing. Daniel Schurzig                | now: [LinkedIn-Profil](https://www.linkedin.com/in/danielschurzig/) |
 | ![Portrait](staff/nuha.jpg) 	  | M. Sc. Nuha Suzaly			   			        |     	|
@@ -51,7 +52,9 @@ title:Staff
 | ![Portrait](staff/empty.jpg)     | Nathalie Bochynek       | Master Thesis (2025): _Development and experimental evaluation of a system for acoustic  insertion force monitoring in cochlear implant surgery._ |
 |![Portrait](staff/Portrait_LeonB.jpg){style="width:70px"}  | Leon Budde                  | Master Thesis (2020): _Development of a handheld, force-sensing insertion tool with integrated positioning sensor._|
 |![Portrait](staff/jakobc.jpg)	| Jakob Cramer 								| Student Assistent Assistant & <br> Bachelor Thesis (2018): _Development of an insertion test bench for cochlear implants with image-guided, stereotactic positioning of the specimens._  |
+|  |  Niklas Dassow |  | 
 |![Portrait](staff/Portrait_TimE.jpg){style="width:70px"} 	| Tim Ehmann                  | Student Research Project (2021): _Set-up and testing of electrode carrier functional models with shape memory effect._ <br> Master Thesis (2020): _Characterization of the electrical current heating process of CI electrode carriers using infrared thermography._ |
+|    | Friedrich Eickmann | Student Research Assistant |
 |![Portrait](staff/Portrait_ThorbenE.jpg){style="width:70px"} | Thorben Engel               | Master Thesis (2020): _Development of minimally invasive, micro-stereotactic strategy for implantation of active middle ear implants._ |
 |![Portrait](staff/Portrait_KevinF.jpg){style="width:70px"}   | Kevin Fandio                | Student Research Project (2021): _Improvement of measurement uncertainties in a force sensitive insertion tool to provide force feedback during CI surgery._ <br> Master Thesis (2022): _Development of a method for intraoperative visualization of insertion forces._|
 |![Portrait](staff/Portrait_MalteF.jpg){style="width:68px"}	| Malte Freiknecht            | Student Research Project (2000): _On the increase in accuracy when using thin-layers of liquid adhesive instead of bone cement for the GluingJig system._ |
@@ -68,6 +71,8 @@ title:Staff
 | ![Portrait](staff/Portrait_JanM.jpg){style="width:70px"}	    | Jan Mairose								  | Student Research Assistant & <br> Master Thesis (2021): _Resistance heating of thin-wire NiTi actuators by means of electrically conductive coating._ |
 | ![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctoral Thesis (2024): _Pull-Out Strength of Orthodontic Miniscrews in the Temporal Bone._ |
 | ![Portrait](staff/Portrait_MohamedN.jpg){style="width:70px"} | Mohamed Fourat Nabli        | Master Thesis (2022): _Investigation of the influence of the density distribution along a drilling trajectory on the drilling forces in the mastoid._ |
+|  | Jannis Rasch |  | 
+|  | Tobias Raschke | | 
 |  ![Portrait](staff/empty.jpg)   | Philip Reinke              | Student Research Assistant |
 |![Portrait](staff/katharina.jpg) | Katharina Rülander				| Master Thesis (2017): _Conception, creation, construction and characterization of a 1:1 cochlear model for the validation of novel implants for mechanical stimulation of the cochlea._							 |
 | ![Portrait](staff/empty.jpg)      | Lucy Siegl              | Intership   |
@@ -78,6 +83,7 @@ title:Staff
 |![Portrait](staff/Portrait_ErikT.jpg){style="width:70px"}    | Erik Tzschoppe              | Bachelor Thesis (2021): _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
 |![Portrait](staff/lea.png)		    | Lea Uhlenbusch 							| Bachelor Thesis (2017): _Investigation of accuracy and error sources of a surgical template made of bone cement._ |
 |![Portrait](staff/empty.jpg)                                 | Konstantyn Vasylenko        | Student Research Project (2022): Design of a Kinematic Structure for Precision Adjustment in the Manufacturing of Individual Drilling Jigs |
+|  |  Cara Weise | | 
 |![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctoral Thesis (2023): _Experimental evaluation of a bone cement-based mini-stereotaxic system for creating direct access to the cochlea._ |
 |![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project  |
 | ![Portrait](staff/empty.jpg)   | Nacer Zayani            | Student Research Assistant |
