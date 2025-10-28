@@ -18,7 +18,7 @@ A more detailed list of our research activities can be found [here](cas/methods.
 ![Figure](cas/Banner_L1040200Trifix.jpg)
 - - - 
 
-** Contact: Dr.-Ing. Thomas S. Rau**
+** Contact: PD Dr.-Ing. Thomas S. Rau**
 
     Head of Research Group
     Computer-Assisted Surgery and Electrode Development
