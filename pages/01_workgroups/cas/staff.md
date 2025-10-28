@@ -73,7 +73,7 @@ title:Staff
 | ![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctoral Thesis (2024): _Pull-Out Strength of Orthodontic Miniscrews in the Temporal Bone._ |
 | ![Portrait](staff/Portrait_MohamedN.jpg){style="width:70px"} | Mohamed Fourat Nabli        | Master Thesis (2022): _Investigation of the influence of the density distribution along a drilling trajectory on the drilling forces in the mastoid._ |
 | ![Portrait](staff/Portrait_JannisR.jpg){style="width:70px"}   | Jannis Rasch | Master Thesis (2024): _Development of a handheld insertion tool for automated insertion of cochlear implant electrodes._ | 
-|  | Tobias Raschke | Internship | 
+| ![Portrait](staff/empty.jpg) | Tobias Raschke | Internship | 
 | ![Portrait](staff/Portrait_PhilipR.jpg){style="width:70px"}    | Philip Reinke              | Student Research Assistant |
 | ![Portrait](staff/katharina.jpg) | Katharina Rülander				| Master Thesis (2017): _Conception, creation, construction and characterization of a 1:1 cochlear model for the validation of novel implants for mechanical stimulation of the cochlea._							 |
 | ![Portrait](staff/empty.jpg)      | Lucy Siegl              | Intership   |
@@ -88,7 +88,7 @@ title:Staff
 | ![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctoral Thesis (2023): _Experimental evaluation of a bone cement-based mini-stereotaxic system for creating direct access to the cochlea._ |
 | ![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project  |
 | ![Portrait](staff/empty.jpg)   | Nacer Zayani            | Student Research Assistant |
-|                                | Jinhan Zhu           | Student Research Project (2023): _Influence of anatomical parameters on insertion forces in porcine cochlear specimens._ & <br> Master Thesis (2024): _Feasibility study on insertion force measurement in a hydraulic system using an integrated force sensor._
+| ![Portrait](staff/empty.jpg)                             | Jinhan Zhu           | Student Research Project (2023): _Influence of anatomical parameters on insertion forces in porcine cochlear specimens._ & <br> Master Thesis (2024): _Feasibility study on insertion force measurement in a hydraulic system using an integrated force sensor._
 | | |
 |                          	    | Dr. med. Claas Baier					| Medical Doctoral Thesis |
 |                              	| Shari Barati								| Medical Doctoral Thesis |
