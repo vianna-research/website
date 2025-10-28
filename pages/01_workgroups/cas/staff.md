@@ -52,7 +52,7 @@ title:Staff
 | ![Portrait](staff/empty.jpg)     | Nathalie Bochynek       | Master Thesis (2025): _Development and experimental evaluation of a system for acoustic  insertion force monitoring in cochlear implant surgery._ |
 |![Portrait](staff/Portrait_LeonB.jpg){style="width:70px"}  | Leon Budde                  | Master Thesis (2020): _Development of a handheld, force-sensing insertion tool with integrated positioning sensor._|
 |![Portrait](staff/jakobc.jpg){style="width:70px"}	| Jakob Cramer 								| Student Assistent Assistant & <br> Bachelor Thesis (2018): _Development of an insertion test bench for cochlear implants with image-guided, stereotactic positioning of the specimens._  |
-| ![Portrait](staff/empty.jpg) |  Niklas Dassow | Internship | 
+| ![Portrait](staff/empty.jpg) |  Niklas Dassow | Internship & <br> Bachelor Thesis (2023): _Development of a miniaturized actuation unit for the Cochlea Hydrodrive._ | 
 | ![Portrait](staff/Portrait_TimE.jpg){style="width:70px"} 	| Tim Ehmann                  | Student Research Project (2021): _Set-up and testing of electrode carrier functional models with shape memory effect._ <br> Master Thesis (2020): _Characterization of the electrical current heating process of CI electrode carriers using infrared thermography._ |
 | ![Portrait](staff/Portrait_FriedrichE.jpg){style="width:70px"}   | Friedrich Eickmann | Student Research Assistant |
 | ![Portrait](staff/Portrait_ThorbenE.jpg){style="width:70px"} | Thorben Engel               | Master Thesis (2020): _Development of minimally invasive, micro-stereotactic strategy for implantation of active middle ear implants._ |
@@ -66,13 +66,14 @@ title:Staff
 | ![Portrait](staff/Portrait_JulianH.jpg){style="width:70px"}  | Julian Heuer                | Master Thesis (2021): _Adaption of a moldable micro-stereotactic targeting system for neurosurgical applications. A first proof of concept study._ |
 | ![Portrait](staff/Portrait_NiklasI.jpg){style="width:70px"}  | Niklas Ihmann               | Bachelor Thesis (2022): _Characterization of the hydraulic actuator behavior of the Cochlea Hydrodrive._ |
 | ![Portrait](staff/christina.jpg) | Christina Keller				    		| Student Research Project (2019): _Characterization of a measurement method for determining the thermomechanical properties of nitinol wires as actuator elements for cochlear implants._ |
+|                                 | Maximilian Keuter   | Student Research Assistant & <br> Master Thesis (2025): _Development and economic considerations of a wireless force-sensing insertion tool for CI surgeries._ |
 | ![Portrait](staff/empty.jpg)	  | Tobias Krail								| Master Thesis (2020): _Development of a thermographic-based investigation method for the characterization of actively heated Nitinol wires as an actuator in the cochlear implant electrode carrier._   |
 | ![Portrait](staff/Portrait_VeraL.jpg){style="width:70px"}    | Vera Lange                  | Student Research Assistant |
 | ![Portrait](staff/Portrait_JanM.jpg){style="width:70px"}	    | Jan Mairose								  | Student Research Assistant & <br> Master Thesis (2021): _Resistance heating of thin-wire NiTi actuators by means of electrically conductive coating._ |
 | ![Portrait](staff/christianm.png)                            | Christian Menke					  	| Medical Doctoral Thesis (2024): _Pull-Out Strength of Orthodontic Miniscrews in the Temporal Bone._ |
 | ![Portrait](staff/Portrait_MohamedN.jpg){style="width:70px"} | Mohamed Fourat Nabli        | Master Thesis (2022): _Investigation of the influence of the density distribution along a drilling trajectory on the drilling forces in the mastoid._ |
-| ![Portrait](staff/Portrait_JannisR.jpg){style="width:70px"}   | Jannis Rasch |  | 
-|  | Tobias Raschke | | 
+| ![Portrait](staff/Portrait_JannisR.jpg){style="width:70px"}   | Jannis Rasch | Master Thesis (2024): _Development of a handheld insertion tool for automated insertion of cochlear implant electrodes._ | 
+|  | Tobias Raschke | Internship | 
 | ![Portrait](staff/Portrait_PhilipR.jpg){style="width:70px"}    | Philip Reinke              | Student Research Assistant |
 | ![Portrait](staff/katharina.jpg) | Katharina Rülander				| Master Thesis (2017): _Conception, creation, construction and characterization of a 1:1 cochlear model for the validation of novel implants for mechanical stimulation of the cochlea._							 |
 | ![Portrait](staff/empty.jpg)      | Lucy Siegl              | Intership   |
@@ -82,11 +83,12 @@ title:Staff
 | ![Portrait](staff/empty.jpg)                                 | Dennis Tepfer               | Bachelor Thesis (2022): _Development of an automated dip coating process for coating of electrode arrays with alginate._ |
 | ![Portrait](staff/Portrait_ErikT.jpg){style="width:70px"}    | Erik Tzschoppe              | Bachelor Thesis (2021): _Hydraulically actuated electrode insertion for an image-guided approach to the inner ear using a micro-stereotactic frame._|
 | ![Portrait](staff/lea.png)		    | Lea Uhlenbusch 							| Bachelor Thesis (2017): _Investigation of accuracy and error sources of a surgical template made of bone cement._ |
-| ![Portrait](staff/empty.jpg)                                 | Konstantyn Vasylenko        | Student Research Project (2022): Design of a Kinematic Structure for Precision Adjustment in the Manufacturing of Individual Drilling Jigs |
-| ![Portrait](staff/Portrait_CaraW.jpg){style="width:70px"}  |  Cara Weise | | 
+| ![Portrait](staff/empty.jpg)                                 | Konstantyn Vasylenko        | Student Research Project (2022): _Design of a Kinematic Structure for Precision Adjustment in the Manufacturing of Individual Drilling Jigs._ |
+| ![Portrait](staff/Portrait_CaraW.jpg){style="width:70px"}  |  Cara Weise | Student Research Assistant & <br> Student Research Project (2024): _Investigation of insertion forces in alginate-coated cochlear implant electrodes._ | 
 | ![Portrait](staff/empty.jpg)  	                              | Sina Witte 				    			| Medical Doctoral Thesis (2023): _Experimental evaluation of a bone cement-based mini-stereotaxic system for creating direct access to the cochlea._ |
 | ![Portrait](staff/jennifer.jpg)  | Jennifer Wozniak				    	| Student Research Project  |
 | ![Portrait](staff/empty.jpg)   | Nacer Zayani            | Student Research Assistant |
+|                                | Jinhan Zhu           | Student Research Project (2023): _Influence of anatomical parameters on insertion forces in porcine cochlear specimens._ & <br> Master Thesis (2024): _Feasibility study on insertion force measurement in a hydraulic system using an integrated force sensor._
 | | |
 |                          	    | Dr. med. Claas Baier					| Medical Doctoral Thesis |
 |                              	| Shari Barati								| Medical Doctoral Thesis |
