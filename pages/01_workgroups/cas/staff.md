@@ -20,7 +20,7 @@ title:Staff
 | ![Portrait](staff/rolf.jpg){style="width:70px"} | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
 | ![Portrait](staff/Portrait_EralpA.jpg){style="width:70px"}  | Eralp Artukarslan <br> ENT Resident | Artukarslan.Eralp-Niyazi@mh-hannover.de |
 |  | ***Students*** ||  
-| ![Portrait](staff/empty.jpg)   | Lucas Mey       | Master Thesis  |
+| ![Portrait](staff/empty_male.png){style="width:70px"}   | Lucas Mey       | Master Thesis  |
 | ![Portrait](staff/empty.jpg)   | Dennis Christopher Michael       | Master Thesis  |
 
 
