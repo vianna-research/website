@@ -24,6 +24,7 @@ This App focuses on the ability to identify melodic contours. It can be used for
 
 | Paper                   |Repository                  |
 | ------------------------|--------------------------- |
+|[Kipping et. al., 2024](https://ieeexplore.ieee.org/document/10551627)| [EAS CAP Model](https://gitlab.gwdg.de/apg/eas-cap-model-2024)|
 |[Gajecki et. al., 2022](https://www.biorxiv.org/content/10.1101/2022.11.11.516123v1.full.pdf) | [Deep ACE 2.0](https://github.com/APGDHZ/DeepACE2.0)|
 |[Gajecki & Nogueira, 2022](https://www.techrxiv.org/articles/preprint/Deep_Latent_Fusion_Layers_for_Binaural_Speech_Enhancement/21215378) | [Deep Fusion Layers](https://github.com/APGDHZ/FusionLayers)|
 |Alvarez & Nogueira, 2022 | [SAMII](https://github.com/APGDHZ/clarity_CC_SAMII)|
