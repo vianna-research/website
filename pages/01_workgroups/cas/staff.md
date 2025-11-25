@@ -14,7 +14,7 @@ title:Staff
 | ![Portrait](staff/empty_female.png){style="width:70px"} | M. Sc. Anais Millan <br> Research Engineer | MillanCerezo.Anais@mh-hannover.de <br> +49(0)511/532-7263 |
 | ![Portrait](staff/empty_male.png){style="width:70px"} | M. Sc. Subiran Shrestha <br> Research Engineer | Shrestha.Subiran@mh-hannover.de <br> +49(0)511/532-7263 |
 | ![Portrait](staff/Portrait_AnnaS.jpg){style="width:70px"} | M. Sc. Anna Strube <br> Research Engineer | strube.anna@mh-hannover.de <br> +49(0)511/532-7263  |
-| ![Portrait](staff/empty_male.png){style="width:70px"} | M. Sc. Jinhan Zhu <br> Research Engineer | zhu.jinhan@mh-hannover.de <br> +49(0)511/532-7263 |
+| ![Portrait](staff/Portrait_JinhanZ.jpg){style="width:70px"} | M. Sc. Jinhan Zhu <br> Research Engineer | zhu.jinhan@mh-hannover.de <br> +49(0)511/532-7263 |
 |   | ***Associated Staff*** ||	
 | ![Portrait](staff/Omid.jpg){style="width:70px"} | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
 | ![Portrait](staff/rolf.jpg){style="width:70px"} | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
@@ -49,7 +49,7 @@ title:Staff
 |![Portrait](staff/Portrait_CarolinB.jpg){style="width:70px"} | Carolin Betram              | Master Thesis (2021): _Experimental evaluation of trajectory-dependent insertion force variations in cochlear implants._ |
 |![Portrait](staff/tobias.png){style="width:70px"} 	                               | Tobias Blum 								| Student Research Assistant & <br> Bachelor Thesis (2018): _Development and experimental evaluation of a drilling depth control for the RoboJig system._ & <br> Student Research Project (2020): _Investigation of the benefit of a digital display for the strut length setting of a manually operated hexapod._ |
 |![Portrait](staff/deniseb.png){style="width:70px"}   | Denise Blume 							| Bachelor Thesis (2018): _Development of a hydraulically actuated insertion tool for cochlear implant electrodes._    |
-| ![Portrait](staff/empty_female.png){style="width:70px"}     | Nathalie Bochynek       | Master Thesis (2025): _Development and experimental evaluation of a system for acoustic  insertion force monitoring in cochlear implant surgery._ |
+| ![Portrait](staff/Portrait_NathalieB.jpg){style="width:70px"}     | Nathalie Bochynek       | Master Thesis (2025): _Development and experimental evaluation of a system for acoustic  insertion force monitoring in cochlear implant surgery._ |
 |![Portrait](staff/Portrait_LeonB.jpg){style="width:70px"}  | Leon Budde                  | Master Thesis (2020): _Development of a handheld, force-sensing insertion tool with integrated positioning sensor._|
 |![Portrait](staff/jakobc.jpg){style="width:70px"}	| Jakob Cramer 								| Student Assistent Assistant & <br> Bachelor Thesis (2018): _Development of an insertion test bench for cochlear implants with image-guided, stereotactic positioning of the specimens._  |
 | ![Portrait](staff/empty_male.png){style="width:70px"} |  Niklas Dassow | Internship & <br> Bachelor Thesis (2023): _Development of a miniaturized actuation unit for the Cochlea Hydrodrive._ | 
