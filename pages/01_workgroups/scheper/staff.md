@@ -2,12 +2,12 @@ title: Staff
 
 |Head of research group|    |      |           |
 |:--|:---------------|:----|----:|
-|![Picture Verena Scheper](Verena_2022.jpg){style="width:150px"}|Professor Dr. med. vet. <br>Verena Scheper<br>|Scheper.verena@mh-hannover.de|+49 (0)511<br>532 4369<br>|
+|![Picture Verena Scheper](Verena_2022.JPG){style="width:150px"}|Professor Dr. med. vet. <br>Verena Scheper<br>|Scheper.verena@mh-hannover.de|+49 (0)511<br>532 4369<br>|
 
 
 |Technical Staff|Name|E-Mail|+49 (0)511-|
 |:--|:---------------|:----|----:|
-|![Kreienmeyer Michaela](Michaela.jpg){style="width:150px"}|Michaela Kreinenmeyer |Kreinemeyer.Michaela@mh-hannover.de|532 1525|
+|![Kreienmeyer Michaela](Michaela.jpg){style="width:150px"}|Michaela Kreiennmeyer |Kreienmeyer.Michaela@mh-hannover.de|532 1525|
 
 |Research Team|Name|E-Mail|+49 (0)511-|
 |:--|:---------------|:----|----:|
