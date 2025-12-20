@@ -22,7 +22,7 @@ to in vivo pathology models (NIHL, aminoglycoside induced HL, ARHL, electrode in
 and clinical trial conduction (drug trial, medicinal product).
 
 
-The drug application varies from pump based delivery of proteins and dexamethasone, implant coating with drug releasing polymers and hydrogels, intratympanic or intacochlear polymer injection  via cell based strategies (hMSC in hydrogel or ARPE-19 cells in cytoreactors) and printing of individualized drug delivering implants.
+The drug application varies from pump based delivery of proteins and dexamethasone, implant coating with drug releasing polymers and hydrogels, intratympanic or intacochlear polymer injection via cell based strategies (hMSC in hydrogel or ARPE-19 cells in cytoreactors) and printing of individualized drug delivering implants.
 
 
 We perform electrophysiological measurements such as AABR, EABR, eCAP, impedance spectroscopy and histological analysis using paraffin or technovit sections, grinding or CLSM imaging of cleared cochleae. 
@@ -33,7 +33,7 @@ We perform electrophysiological measurements such as AABR, EABR, eCAP, impedance
 **Contact Information:**
 
 
-    Priv. Dozentin Dr. Verena Scheper
+    Professor Dr. Verena Scheper
     Pharmacology of the Inner Ear
     VIANNA im NIFE
     Medizinische Hochschule Hannover
