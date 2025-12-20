@@ -17,9 +17,10 @@ The following workgroups are located at the VIANNA:
 | Prof. Dr. Andrea Hoffmann      | [Regenerative Strategies](01_workgroups/hoffmann.html)                                     |
 | PD Dr.-Ing. Thomas Rau            | [Computer-Assisted Surgery (CAS-h)](01_workgroups/cas.html)                                |
 | Prof. Dr. Gerrit Paasche             | [Electrode-Neural-Interface](01_workgroups/paasche.html)                                   |
-| Prof. Dr.med.vet. Verena Scheper             | [Pharmacology of the Inner Ear](01_workgroups/scheper.html)                                |
+| Prof. Dr. med. vet. Verena Scheper             | [Pharmacology of the Inner Ear](01_workgroups/scheper.html)                                |
 | Prof. Dr. med. Athanasia Warnecke | [Protection and Regeneration of the Inner Ear](01_workgroups/warnecke.html)             |
 | Prof. Dr.-Ing. Waldo Nogueira  | [Auditorische Prothetik](01_workgroups/nogueira.html)                                      |
 |                                |                                                                                          
+
 
 
