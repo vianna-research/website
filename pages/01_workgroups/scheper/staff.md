@@ -2,7 +2,7 @@ title: Staff
 
 |Head of research group|    |      |           |
 |:--|:---------------|:----|----:|
-|![Picture Verena Scheper](Verena_2.jpg){style="width:150px"}|Privatdozentin Dr. med. vet. <br>Verena Scheper<br>|Scheper.verena@mh-hannover.de|+49 (0)511<br>532 4369<br>|
+|![Picture Verena Scheper](Verena_2.jpg){style="width:150px"}|Professor Dr. med. vet. <br>Verena Scheper<br>|Scheper.verena@mh-hannover.de|+49 (0)511<br>532 4369<br>|
 
 
 |Technical Staff|Name|E-Mail|+49 (0)511-|
@@ -11,12 +11,9 @@ title: Staff
 
 |Research Team|Name|E-Mail|+49 (0)511-|
 |:--|:---------------|:----|----:|
-|![Image Jana Schwieger](Schwieger.jpg){style="width:150px"}|Jana Schwieger, Dr. med. vet.<br>Postdoc<br>|Schwieger.jana@mh-hannover.de|532 7262|
-|![Image Farnaz Matin](MatinF.jpg){style="width:150px"}|PD Dr. Farnaz Matin-Mann, MD|Matin-Mann.Farnaz@mh-hannover.de|17 7443| 
 |![Image Marleen Grzybowski](Grzybowski.jpg){style="width:150px"}|Marleen Grzybowski, M.Sc.|Grzybowski.Marleen@mh-hannover.de|532 4192 |
 |![Image Martina Knabel](Knabel.JPG){style="width:150px"}|Martina Knabel, M.Sc.|Knabel.Martina@mh-hannover.de|532 1464|
-|![Image Chunjiang Wei](suzy1.jpg){style="width:150px"}|Chunjiang Wei, M.Sc.<br>PhD Student<br>|Wei.chunjiang@mh-hannover.de|532 1464|
-|![Image Yanjing Luo](Yanjing2.jpg){style="width:150px"}|Yanjing Luo, M.Sc.<br>PhD student <br>|Yanjing.luo@mh-hannover.de|532 7262| 
+
 
 |FWJ|Name|E-Mail|+49 (0)511-|
 |:--|:---------------|:----|----:|
