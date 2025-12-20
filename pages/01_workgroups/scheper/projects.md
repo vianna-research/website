@@ -3,7 +3,7 @@ title: Projects
 - - - 
 ###Individualized Implants for Local Drug Delivery
 
-![BMBFlogo](BMBFkleiner.jpg){style="width:400px; float:right; margin-left:1em"}
+![IBTlogo](IBTlogo.png){style="width:400px; float:right; margin-left:1em"}
 
 Currently, no approved pharmacotherapy exists for hearing loss, mainly due to insufficient drug delivery methods. We develop patient-specific, temporary implants for local and controlled drug delivery to the inner ear via the round window niche. Our technology enables additive manufacturing of elastic, individualized implants from dexamethasone-loaded silicone based on clinical imaging. The workflow includes software-assisted segmentation, implant design, high-resolution printing, and sterilization.
 
