@@ -7,7 +7,7 @@ Privatdozentin
 
 **Contact:**
 
-PD Dr. Verena Scheper
+Prof. Dr. Verena Scheper
   
 Medizinische Hochschule Hannover
 	
