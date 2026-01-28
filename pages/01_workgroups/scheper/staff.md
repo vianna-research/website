@@ -17,8 +17,8 @@ title: Staff
 
 |FWJ|Name|E-Mail|+49 (0)511-|
 |:--|:---------------|:----|----:|
-|![Image Summer Prickschat](Angeliki_2.jpg){style="width:150px"}|Summer Prickschat|Prickschat.Summer@mh-hannover.de|532 1538|
-|![Image Priska Fleischer](Emma_2.jpg){style="width:150px"}|Priska Fleischer|Fleischer.Priska@mh-hannover.de|532 1538|
+|![Image Summer Prickschat](summer.jpg){style="width:150px"}|Summer Prickschat|Prickschat.Summer@mh-hannover.de|532 1538|
+|![Image Priska Fleischer](Priska.jpg){style="width:150px"}|Priska Fleischer|Fleischer.Priska@mh-hannover.de|532 1538|
 
 
 
