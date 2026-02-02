@@ -1,4 +1,4 @@
-title: Dr. med. vet. Verena Scheper
+title: Prof. Dr. med. vet. Verena Scheper
 Privatdozentin
 
 ![Picture Verena Scheper](Verena.jpg)  
