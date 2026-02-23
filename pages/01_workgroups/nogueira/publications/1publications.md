@@ -1,4 +1,10 @@
 title: Peer Reviewed Journal Publications
+
+## 2026
+* Krüger, B., & Nogueira, W. (2026):  **[Phase coherence of cochlear microphonic potentials in cochlear implant users with ipsilateral residual hearingy](https://doi.org/10.1121/10.0039540)**. JARO, 159 924–940. doi: 110.1121/10.0039540
+* Tahmasebi, S., & Nogueira, W. (2026):  **[Speech and music source separation for cochlear implant users: front-end and end-to-end approach](https://doi.org/10.3389/fnins.2025.1696669)**. Frontiers in Neuroscience, Volume 19. doi: 10.3389/fnins.2025.1696669
+* Althoff, J.,& Nogueira, W. (2026):  **[Selective auditory attention decoding in bilateral cochlear implant users to music instruments](https://doi.org/10.1088/1741-2552/ae3a1a)**. Journal of Neural Engineering. doi: 10.1088/1741-2552/ae3a1a
+
 ## 2025
 * Dolhopiatenko, H., & Nogueira, W. (2025): **[Cortical temporal mismatch compensation in bimodal cochlear implant users: Selective attention decoding and pupillometry study](https://doi.org/10.1016/j.heares.2025.109306)**. Hearing research, 464, 109306. doi: 10.1016/j.heares.2025.109306
 * Bensel, F., Kipping, D., Reiber, M., Zhang, Y., Nackenhorst, U. and Nogueira, W. (2025): **[Non-intrusive Reduced Order Modeling of Patient-specific Cochlear Implantations](https://ieeexplore.ieee.org/document/11004576)**. IEEE Transactions on Biomedical Engineering.
