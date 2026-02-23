@@ -1,4 +1,12 @@
 title: Conference Contributions
+## 2026
+*  Dolhopiatenko, H., & Nogueira, W. **Electric Acoustic Interaction Across Auditory Pathway in Cochlear Implant Users With Ipsilateral Acoustic Hearing.** Association for Research in Otolaryngology (ARO), 2026.
+*  Nogueira, W., & Dolhopiatenko, H. **Decoding Selective Attention in Cochlear Implant Users With Ipsilateral Residual Hearing.** Association for Research in Otolaryngology (ARO), 2026.
+*  Zhang, Y., Strack, R., Alvarez, F., Nogueira W. **A Simplified Human Full-Head Model for Investigating ElectricAcoustic Interaction With Intra- and Extra-Cochlear Electric and Acoustic Stimulation.** Association for Research in Otolaryngology (ARO), 2026.
+*  Hart, R., Gajecki, T., Nogueira W.  **DeepFS4: An End-To-End Deep Learning Based Cochlear Implant Sound Coding Strategy.** Association for Research in Otolaryngology (ARO), 2026.
+*  Nogueira, W., Hart, R., Althoff, J., Pérez; X., Gajecki, T. ** End-To-End Deep Sound Coding Strategies for Enhanced Speech-In-Noise Understanding in Cochlear Implant Users.** Association for Research in Otolaryngology (ARO), 2026.
+*  Hart, R., Hinz, P., Dragicevic, C., Meierott, M., Krüger, B., Nogueira W. ** Extracochlear Electric Stimulation — Towards Non-Invasive Hearing Restoration and Diagnostics.** Association for Research in Otolaryngology (ARO), 2026.
+
 ## 2025
 * Zhang Y., Kipping D., Nogueira W. **Evaluating Electrophysiological and Behavioral Measures of Neural Health in Cochlear Implant Users: A Computational Simulation Study.** Conference on Implantable Auditory Prostheses 2025
 * Nogueira W., Kipping D., Zhang Y., Krueger B. **Advancing Hearing Diagnostics and Devices Through Extracochlear Electric-Acoustic Stimulation.** Conference on Implantable Auditory Prostheses 2025
