@@ -1,7 +1,7 @@
 title: Peer Reviewed Journal Publications
 
 ## 2026
-* Dolhopiatenko H., Bruni C., Nogueira, W. (2026):  **[Decoding Selective Attention in Cochlear Implant Users with Ipsilateral Residual Hearing]([https://doi.org/10.1121/10.0039540](https://doi.org/10.1016/j.heares.2026.109589))**. Hearing research, 109589. doi: 10.1016/j.heares.2026.109589
+* Dolhopiatenko H., Bruni C., Nogueira, W. (2026):  **[Decoding Selective Attention in Cochlear Implant Users with Ipsilateral Residual Hearing**](https://doi.org/10.1016/j.heares.2026.109589)**. Hearing research, 109589. doi: 10.1016/j.heares.2026.109589
 * Krüger, B., & Nogueira, W. (2026):  **[Phase coherence of cochlear microphonic potentials in cochlear implant users with ipsilateral residual hearingy](https://doi.org/10.1121/10.0039540)**. JARO, 159 924–940. doi: 110.1121/10.0039540
 * Tahmasebi, S., & Nogueira, W. (2026):  **[Speech and music source separation for cochlear implant users: front-end and end-to-end approach](https://doi.org/10.3389/fnins.2025.1696669)**. Frontiers in Neuroscience, Volume 19. doi: 10.3389/fnins.2025.1696669
 * Althoff, J.,& Nogueira, W. (2026):  **[Selective auditory attention decoding in bilateral cochlear implant users to music instruments](https://doi.org/10.1088/1741-2552/ae3a1a)**. Journal of Neural Engineering. doi: 10.1088/1741-2552/ae3a1a
