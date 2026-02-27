@@ -31,15 +31,15 @@ https://ieeexplore.ieee.org/document/11023559)**. IEEE Transactions on Biomedica
 - D. Kipping, Y. Zhang, W. Nogueira (2024): **[A Computational Model of the Electrically or Acoustically Evoked Compound Action Potential in Cochlear Implant Users with Residual Hearing](https://doi.org/10.1109/tbme.2024.3410686)**. IEEE Transactions on Biomedical Engineering. Source code: [Zenodo](https://zenodo.org/records/10619893) or [GitLab](https://gitlab.gwdg.de/apg/eas-cap-model-2024).
 
 ### Conference contributions (first author):
-- Y. Zhang, R. Strack, F. Alvarez, W. Nogueira (2026): [**A Simplified Human Full-Head Model for Investigating ElectricAcoustic Interaction With Intra- and Extra-Cochlear Electric and Acoustic Stimulation**](). Association for Research in Otolaryngology (ARO), 2026.
-- Y. Zhang, D. Kipping, W. Nogueira (2025): [**Evaluating Electrophysiological and Behavioral Measures of Neural Health in Cochlear Implant Users: A Computational Simulation Study**](). Conference on Implantable Auditory Prostheses 2025
+- Y. Zhang, R. Strack, F. Alvarez, W. Nogueira (2026): **A Simplified Human Full-Head Model for Investigating ElectricAcoustic Interaction With Intra- and Extra-Cochlear Electric and Acoustic Stimulation**. Association for Research in Otolaryngology (ARO), 2026.
+- Y. Zhang, D. Kipping, W. Nogueira (2025): **Evaluating Electrophysiological and Behavioral Measures of Neural Health in Cochlear Implant Users: A Computational Simulation Study**. Conference on Implantable Auditory Prostheses 2025
 - Y. Zhang, F. Alvarez, D. Kipping,  W. Nogueira (2024): [**A 3D computational model framework of the stimulated peripheral auditory system**](https://computationalaudiology.com/a-3d-computational-model-framework-of-the-stimulated-peripheral-auditory-system/). Virtual Conference on Computational Audiology(VCCA2024).
 - Y. Zhang, D. Kipping,  W. Nogueira (2025): [**Neural health and activation in the human auditory periphery: Insights from a computational model for cochlear implant (CI) and auditory nerve implant (ANI) stimulation**](https://computationalaudiology.com/neural-health-and-activation-in-the-human-auditory-periphery-insights-from-a-computational-model-for-cochlear-implant-ci-and-auditory-nerve-implant-ani-stimulation/). Virtual Conference on Computational Audiology(VCCA2025).
 
 ### Supervision of students
 
 - Y. Xi (2024): **Optimization and validation of an electrical
-stimulated 3D model of the human inner**. Srudent research project. Supervisor: Y. Zhang. Examiners: Prof. P. Junker & Prof. W. Nogueira.
+stimulated 3D model of the human inner**. Student research project. Supervisor: Y. Zhang. Examiners: Prof. P. Junker & Prof. W. Nogueira.
 
 
 ---
