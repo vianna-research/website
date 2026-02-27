@@ -18,6 +18,7 @@ Coming soon...
 
 ---
 ### Publications
+* Dolhopiatenko H., Bruni C., Nogueira, W. (2026):  **[Decoding Selective Attention in Cochlear Implant Users with Ipsilateral Residual Hearing**](https://doi.org/10.1016/j.heares.2026.109589)**. Hearing research, 109589. doi: 10.1016/j.heares.2026.109589
 * Dolhopiatenko, H., & Nogueira, W. (2025). **[Cortical Temporal Mismatch Compensation in Bimodal Cochlear Implant Users: Selective Attention Decoding and Pupillometry Study](https://doi.org/10.48550/arXiv.2501.17048)** archiv.
 * Dolhopiatenko, H., Yoon, Y. S., & Nogueira, W. (2025). **[Behavioral and Electrophysiological Measurements of Vowel Integration.]()** Association for Research in Otolaryngology (ARO), 2025.
 * Dolhopiatenko, H., Segovia-Martinez, M., Nogueira, W. (2024). **[The temporal mismatch across listening sides affects cortical auditory evoked responses in normal hearing listeners.](https://www.sciencedirect.com/science/article/pii/S0378595524001412)** Hearing Research, 451. doi: https://doi.org/10.1016/j.heares.2024.109088.
