@@ -20,7 +20,8 @@ Research employee
 ---
 
 ### Publications
-Coming soon...
+### Conference contributions (first author):
+- Hart, R., Hinz, P., Dragicevic, C., Meierott, M., Krüger, B., Nogueira W. Extracochlear Electric Stimulation – Towards Non-Invasive Hearing Restoration and Diagnostics. Association for Research in Otolaryngology (ARO), 2026.
 
 ---
 
