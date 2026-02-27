@@ -24,7 +24,7 @@ Research employee
 
 ### Publications
 ### Conference contributions (first author):
-- P. Hinz, W. Nogueira (2025) [**Psychoacoustic Electric-Acoustic Masking with Round Window Extra-Cochlear Electric Stimulation in Cochlear Implant Users with Residual Hearing**](). Association for Research in Otolaryngology (ARO), 2025.
+- P. Hinz, W. Nogueira (2025) **Psychoacoustic Electric-Acoustic Masking with Round Window Extra-Cochlear Electric Stimulation in Cochlear Implant Users with Residual Hearing**. Association for Research in Otolaryngology (ARO), 2025.
 
 ---
 
