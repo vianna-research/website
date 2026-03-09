@@ -1,6 +1,6 @@
 title: Yixuan Zhang
 
-![Yixuan Zhang](Yixuan.jpg =418x455)
+<img src="Yixuan.jpg" alt="Yixuan Zhang" style="width:30%;">
 
 Research employee	
 
