@@ -1,5 +1,6 @@
 title: Book Chapters
-
+## 2026
+* Nogueira, W. (2026). **[Advancements and Challenges in Signal Processing and Sound Coding for Cochlear Implants.](https://doi.org/10.1007/978-3-032-15719-5_2)** Advancing Cochlear Implants, Pages: 33-80, Springer International
 
 ## 2021
 * Nogueira, W. (2021). **[Ein Konzert für Cochlea-Implantat-Träger*innen und Normalhörende]()**
