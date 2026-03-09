@@ -18,7 +18,7 @@ title: Staff
 | ![Portrait](staff/Tahmasebi.jpeg)	   | [Sina Tahmasebi](https://vianna.uber.space/01_workgroups/nogueira/staff/sina.html)                 | <Tahmasebi.Sina@mh-hannover.de>        |
 | ![Portrait](staff/Gajecki.jpg)  	   | [Dr. rer. nat. Tom Gajecki](https://www.vianna.de/01_workgroups/nogueira/staff/tom.html)	          | <Gajecki.Tomas@mh-hannover.de>         |
 | ![Portrait](staff/patrickSmall.jpg)	 | [Patrick Hinz](https://vianna.de/01_workgroups/nogueira/staff/patrick.html)	                      | <Hinz.Patrick@mh-hannover.de>          |
-| ![Portrait](staff/Yixuan.jpg)      	 | [Yixuan Zhang](https://vianna.de/01_workgroups/nogueira/staff/zhang.html)	                        | <Zhang.Yixuan@mh-hannover.de>          |
+| <img src="staff/Yixuan.jpg" alt="Robert Hart " width="77px" height="103px"/>       	 | [Yixuan Zhang](https://vianna.de/01_workgroups/nogueira/staff/zhang.html)	                        | <Zhang.Yixuan@mh-hannover.de>          |
 | <img src="staff/Robert.jpg" alt="Robert Hart " width="77px" height="103px"/>	       | [Robert Hart](https://vianna.de/01_workgroups/nogueira/staff/robert.html)	                           | <Hart.Robert@mh-hannover.de>           |
 
 
