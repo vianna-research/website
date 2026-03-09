@@ -1,9 +1,14 @@
 title: Publications
 
+## 2026
+
+* Minh-Hai Nguyen, Pankaj Singla, Amy Dann, Trung Hieu Tran, Jan Sündermann, Michaela Kreienmeyer, Heike Schmitt, Thomas Butterbrodt, Tobias Schwarz, **Jana Schwieger**, **Verena Scheper**, Marloes Peeters, Patrick Wagner, Athanasia Warnecke, Corinna Kaulen, Julia Körner, Thomas Lenarz, Theodor Doll
+[Intra-cochlear detection of Interleukin-6 using nanoMIPs embedded in a biodegradable matrix](https://doi.org/10.1016/j.sbsr.2026.100990) Sensing and Bio-Sensing Research, February 2026
+
 ## 2025
 
 * **Jana Schwieger**, Thomas Lenarz, Thomas S. Rau, **Verena Scheper**
-[Prolonged stability and biocompatibility testing of an alginate hydrogel cochlear implant coating under simulated inner ear conditions ](https://doi.org/10.1515/cdbme-2025-0113) Current Directions in Biomedical Engineering, December 2025*
+[Prolonged stability and biocompatibility testing of an alginate hydrogel cochlear implant coating under simulated inner ear conditions](https://doi.org/10.1515/cdbme-2025-0113) Current Directions in Biomedical Engineering, December 2025
 
 * **Yanjing Luo**, Jan Drexler, Gerrit Paasche, Gerald Dräger, Hongzheng Zhang, Jie Tang, Thomas Lenarz, **Verena Scheper**
 [3D Printing of Dexamethasone-Loaded Polycaprolactone-Enhanced Alginate Hydrogels for Individualized Implants in Inner Ear Therapy](https://doi.org/10.1016/j.ijbiomac.2025.147176) International Journal of Biological Macromolecules, September 2025
@@ -221,6 +226,7 @@ title: Publications
 * Wefstaedt P, **Scheper V**, Rieger H, Lenarz T, Stöver T. [Neurotrophic factors of the GDNF family and their receptors are detectable in spiral ganglion cells of normal hearing as well as of deafened rats.](https://www.thieme-connect.com/DOI/DOI?10.1055/s-2006-925287) Laryngorhinootologie. 2006 Nov;85(11):802-8. Epub 2006 Apr 10. German. 
 
 * Wefstaedt P, **Scheper V**, Lenarz T, Stöver T. [Brain-derived neurotrophic factor/glial cell line-derived neurotrophic factor survival effects on auditory neurons are not limited by dexamethasone.](http://journals.lww.com/neuroreport/pages/articleviewer.aspx?year=2005&issue=12190&article=00008&type=abstract) Neuroreport. 2005 Dec 19;16(18):2011-4.
+
 
 
 
