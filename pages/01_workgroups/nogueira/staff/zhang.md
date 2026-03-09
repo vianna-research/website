@@ -1,6 +1,6 @@
 title: Yixuan Zhang
 
-![Yixuan Zhang](zhang3.jpg)
+![Yixuan Zhang](Yixuan.jpg)
 
 Research employee	
 
