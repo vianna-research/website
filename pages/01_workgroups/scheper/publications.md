@@ -2,6 +2,9 @@ title: Publications
 
 ## 2026
 
+* **Verena Scheper**, Thomas Lenarz, Thomas S. Rau, **Jana Schwieger**
+[Clinically Relevant In Vitro Model for Chronic Electrical Stimulation and Long-Term Evaluation of Cochlear Implant Electrode Functionalization](https://doi.org/10.18416/AUTOMED.2026.2504) Proceedings on Automation in Medical Engineering, March 2026
+
 * Minh-Hai Nguyen, Pankaj Singla, Amy Dann, Trung Hieu Tran, Jan Sündermann, Michaela Kreienmeyer, Heike Schmitt, Thomas Butterbrodt, Tobias Schwarz, **Jana Schwieger**, **Verena Scheper**, Marloes Peeters, Patrick Wagner, Athanasia Warnecke, Corinna Kaulen, Julia Körner, Thomas Lenarz, Theodor Doll
 [Intra-cochlear detection of Interleukin-6 using nanoMIPs embedded in a biodegradable matrix](https://doi.org/10.1016/j.sbsr.2026.100990) Sensing and Bio-Sensing Research, February 2026
 
