@@ -1,6 +1,7 @@
 title: Peer Reviewed Journal Publications
 
 ## 2026
+* Tahmasebi, S., Daniel, A., Segovia-Martinez, M., Nogueira, W. (2026):  **[Design and evaluation of back-end compressors for compressed content for cochlear implant users](https://www.sciencedirect.com/science/article/pii/S0378595526001103?via%3Dihub)**. Hearing research, 109634. doi: 10.1016/j.heares.2026.109634
 * Dolhopiatenko H., Bruni C., Nogueira, W. (2026):  **[Decoding Selective Attention in Cochlear Implant Users with Ipsilateral Residual Hearing](https://doi.org/10.1016/j.heares.2026.109589)**. Hearing research, 109589. doi: 10.1016/j.heares.2026.109589
 * Krüger, B., & Nogueira, W. (2026):  **[Phase coherence of cochlear microphonic potentials in cochlear implant users with ipsilateral residual hearingy](https://doi.org/10.1121/10.0039540)**. JARO, 159 924–940. doi: 110.1121/10.0039540
 * Tahmasebi, S., & Nogueira, W. (2026):  **[Speech and music source separation for cochlear implant users: front-end and end-to-end approach](https://doi.org/10.3389/fnins.2025.1696669)**. Frontiers in Neuroscience, Volume 19. doi: 10.3389/fnins.2025.1696669
