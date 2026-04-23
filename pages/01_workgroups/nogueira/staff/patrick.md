@@ -24,7 +24,7 @@ Research employee
 
 ### Publications
 ### Conference contributions (first author):
-- Hinz, P., Nogueira W. ** Akustische Maskierung bei elektrischer Stimulation an der Cochlea-Basis: Auf dem Weg zum Diagnostiksystem.** Deutsche Gesellschaft für Audiologie e.V. (DGA), 2026.
+- P. Hinz, W. Nogueira (2026) ** Akustische Maskierung bei elektrischer Stimulation an der Cochlea-Basis: Auf dem Weg zum Diagnostiksystem.** Deutsche Gesellschaft für Audiologie e.V. (DGA), 2026.
 - P. Hinz, W. Nogueira (2025) **Psychoacoustic Electric-Acoustic Masking with Round Window Extra-Cochlear Electric Stimulation in Cochlear Implant Users with Residual Hearing**. Association for Research in Otolaryngology (ARO), 2025.
 
 ---
