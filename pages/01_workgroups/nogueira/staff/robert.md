@@ -24,6 +24,9 @@ Research employee
 ### Publications
 ### Conference contributions (first author):
 - R. Hart, P. Hinz, C. Dragicevic, M. Meierott, B. Krüger, W. Nogueira (2026): **Extracochlear Electric Stimulation – Towards Non-Invasive Hearing Restoration and Diagnostics**. Association for Research in Otolaryngology (ARO), 2026.
+- R. Hart, T. Gajecki, W. Nogueira (2026)  **DeepFS4: An End-To-End Deep Learning Based Cochlear Implant Sound Coding Strategy.** Association for Research in Otolaryngology (ARO), 2026.
+- R. Hart, P. Hinz, C. Dragicevic, M. Meierott, B. Krüger, W. Nogueira (2026) ** Extrakochleäre elektrische Stimulation – Ein Ansatz Zur Nichtinvasiven Hörrehabilitation Und Diagnostik.** Deutsche Gesellschaft für Audiologie e.V. (DGA), 2026.
+- R. Hart, T. Gajecki, W. Nogueira (2026)  **DeepFS4: End-to-End Deep Learning Basierte Soundcodierungsstrategie Für Cochlea-Implantate.** Deutsche Gesellschaft für Audiologie e.V. (DGA), 2026.
 
 ---
 
