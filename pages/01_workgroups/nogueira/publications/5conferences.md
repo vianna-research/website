@@ -2,7 +2,7 @@ title: Conference Contributions
 ## 2026
 * Hinz, P., Nogueira W. **Akustische Maskierung bei elektrischer Stimulation an der Cochlea-Basis: Auf dem Weg zum Diagnostiksystem.** Deutsche Gesellschaft für Audiologie e.V. (DGA), 2026.
 * Hart, R., Hinz, P., Dragicevic, C., Meierott, M., Krüger, B., Nogueira W. **Extrakochleäre elektrische Stimulation – Ein Ansatz Zur Nichtinvasiven Hörrehabilitation Und Diagnostik.** Deutsche Gesellschaft für Audiologie e.V. (DGA), 2026.
-*  Hart, R., Gajecki, T., Nogueira W.  **DeepFS4: End-to-End Deep Learning Basierte Soundcodierungsstrategie Für Cochlea-Implantate.** Association for Research in Otolaryngology (ARO), 2026.
+*  Hart, R., Gajecki, T., Nogueira W.  **DeepFS4: End-to-End Deep Learning Basierte Soundcodierungsstrategie Für Cochlea-Implantate.** Deutsche Gesellschaft für Audiologie e.V. (DGA), 2026.
 *  Dolhopiatenko, H., & Nogueira, W. **Electric Acoustic Interaction Across Auditory Pathway in Cochlear Implant Users With Ipsilateral Acoustic Hearing.** Association for Research in Otolaryngology (ARO), 2026.
 *  Nogueira, W., & Dolhopiatenko, H. **Decoding Selective Attention in Cochlear Implant Users With Ipsilateral Residual Hearing.** Association for Research in Otolaryngology (ARO), 2026.
 *  Zhang, Y., Strack, R., Alvarez, F., Nogueira W. **A Simplified Human Full-Head Model for Investigating ElectricAcoustic Interaction With Intra- and Extra-Cochlear Electric and Acoustic Stimulation.** Association for Research in Otolaryngology (ARO), 2026.
