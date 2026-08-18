@@ -19,8 +19,18 @@ title:Staff
 | ![Portrait](staff/rolf.jpg){style="width:70px"} | PD Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
 | ![Portrait](staff/Portrait_EralpA.jpg){style="width:70px"}  | Dr. med. Eralp Artukarslan <br> ENT Specialist | artukarslan.eralp-niyazi@mh-hannover.de |
 |  | ***Students*** ||  
-| ![Portrait](staff/empty_male.png){style="width:70px"}   |        |  |
-| ![Portrait](staff/empty_male.png){style="width:70px"}   |        |   |
+| ![Portrait](staff/empty_male.png){style="width:70px"}   | Clemens Oelze       | Bachelor Thesis |
+| ![Portrait](staff/empty_male.png){style="width:70px"}   | Jannes Brückner       | Student Research Assistant |
+| ![Portrait](staff/empty_male.png){style="width:70px"}   | Juan Carlos Tirado       |   |
+| ![Portrait](staff/empty_male.png){style="width:70px"}   | Luca Wöhlken       | Internship, <br> Student Research Assistant   |
+| ![Portrait](staff/empty_male.png){style="width:70px"}   | Minh-Hai Nguyen       | Student Research Assistant  |
+| ![Portrait](staff/empty_male.png){style="width:70px"}   | Nassim El Haddad       | Student Research Project  |
+| ![Portrait](staff/empty_male.png){style="width:70px"}   | Oleksandr Kondratiev       | Student Research Assistant  |
+| ![Portrait](staff/empty_male.png){style="width:70px"}   | Roman Vargas       | Student Research Assistant  |
+| ![Portrait](staff/empty_female.png){style="width:70px"}   | Samareh Mohajeri       | Student Research Assistant  |
+| ![Portrait](staff/empty_male.png){style="width:70px"}   | Samer Bazz       | Student Research Project  |
+| ![Portrait](staff/empty_female.png){style="width:70px"}   | Shirin Mohebi Damabi       | Master Thesis  |
+| ![Portrait](staff/empty_male.png){style="width:70px"}   | Yamsi Nana Herman Alain        | Student Research Assistant  |
 
 
 |  | Former Staff  ||
