@@ -21,7 +21,7 @@ title:Staff
 |  | ***Students*** ||  
 | ![Portrait](staff/empty_male.png){style="width:70px"}   | Clemens Oelze       | Bachelor Thesis |
 | ![Portrait](staff/empty_male.png){style="width:70px"}   | Jannes Brückner       | Student Research Assistant |
-| ![Portrait](staff/empty_male.png){style="width:70px"}   | Juan Carlos Tirado       |   |
+| ![Portrait](staff/empty_male.png){style="width:70px"}   | Juan Carlos Tirado       | Bachelor Thesis  |
 | ![Portrait](staff/empty_male.png){style="width:70px"}   | Luca Wöhlken       | Internship, <br> Student Research Assistant   |
 | ![Portrait](staff/empty_male.png){style="width:70px"}   | Minh-Hai Nguyen       | Student Research Assistant  |
 | ![Portrait](staff/empty_male.png){style="width:70px"}   | Nassim El Haddad       | Student Research Project  |
