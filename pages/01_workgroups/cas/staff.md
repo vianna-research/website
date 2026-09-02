@@ -29,7 +29,7 @@ title:Staff
 | ![Portrait](staff/empty_male.png){style="width:70px"}   | Nassim El Haddad       | Student Research Project: _Development and Evaluation of Electrical Contacting Methods for Shape Memory Actuators in Cochlear Implants._  |
 | ![Portrait](staff/Portrait_OleksandrK.jpg){style="width:70px"}   | Oleksandr Kondratiev       | Student Research Assistant since 08/2026 |
 | ![Portrait](staff/empty_male.png){style="width:70px"}   | Roman Vargas       | Student Research Assistant since 04/2026  |
-| ![Portrait](staff/Portrait_SamarehM.jpg){style="width:70px"}   | Samareh Mohajeri       | Student Research Assistant  |
+| ![Portrait](staff/Portrait_SamarehM.jpg){style="width:70px"}   | Samareh Mohajeri       | Student Research Assistant since 12/2025 |
 | ![Portrait](staff/empty_male.png){style="width:70px"}   | Samer Bazz       | Student Research Project: _Intraoperative Registration Methods for Augmented Reality in Cochlear Implant Surgery: A Systematic Literature Review_  |
 | ![Portrait](staff/empty_female.png){style="width:70px"}   | Shirin Mohebi Damabi       | Master Thesis: _Development and evaluation of image-based tracking methods in stereo-optical mi-croscope videos of cochlear implant insertion._  |
 | ![Portrait](staff/Portrait_YamsiH.jpg){style="width:70px"}   | Yamsi Nana Herman Alain        | Student Research Assistant since 06/2026 |
