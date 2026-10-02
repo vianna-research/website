@@ -2,6 +2,9 @@ title: Publications
 
 ## 2026
 
+* Becks T, Bortz M, Dietl H, Helgasson T, Ienca M, Kubon M, Manzeschke A, Novosel E, Rosahl SK, Seidl K, Somerlik-Fuchs K, **Scheper V**, Schüttler M, Stieglitz T.
+[Neurotechnologien verändern die Medizin (engl.: Neurotechnologies Are Transforming Medicine)]([https://doi.org/10.1002/admt.202501958](https://www.vde.com/resource/blob/2493338/372c15a98fe0bf5705d28256a65bafee/positionspapier--neurotechnologien-veraendern-die-medizin--data.pdf) VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V. - Deutsche Gesellschaft für Biomedizintechnik Positionspapier, Offenbach am Main, September 2026)
+
 * Mosaieb Habib, Tim-Joshua Strauß, Jennifer Harre, Madeleine Goblet, Florian Klodwig-Kirstein, **Jana Schwieger**, **Michaela Kreienmeyer**, **Verena Scheper**, Athanasia Warnecke, Nina Ehlert, Peter Behrens
 [Nanoporous Silica Embedded in Nanoporous Platinum: A Versatile Composite Coating for Implant‐Associated Drug Delivery From Neuronal Electrodes](https://doi.org/10.1002/admt.202501958) Advanced Materials Technologies, July 2026
 
