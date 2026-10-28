@@ -4,6 +4,8 @@ title: Workshops
 _(Xavier Pérez Ruiz & Renata Vasilescu, October 30th 2026, Institut de Recerca Sant Pau, Barcelona, Spain)_
 <br/>
 
+![DeepF120 Hardware setup](DeepF120_Demo.png "DeepF120 Hardware Setup")
+
 ### Discription
 The demo showcased DeepF120 and the methodology used to conduct behavioral evaluations with cochlear implant (CI) subjects. The presentation featured a slide presentation alongside a hardware setup consisting of:
 - Clinician’s Programmer Interface (CPI): Serves as a bridge between the computer’s USB port and the speech processor. 
